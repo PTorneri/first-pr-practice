@@ -871,18 +871,6 @@ window.SUBTOPICS = [
     ]
   },
   {
-    "id": "quimica-estequiometria",
-    "frenteId": "quimica",
-    "area": "Química",
-    "areaGrande": "Ciências da Natureza",
-    "nome": "Estequiometria e Cálculos",
-    "descricao": "Mol, massa molar, balanceamento, reagente limitante e rendimento. A conta que aparece dentro de metade das outras questões de Química.",
-    "buscaVideo": [
-      "aula estequiometria vestibular",
-      "mol massa molar cálculo estequiométrico vestibular"
-    ]
-  },
-  {
     "id": "quimica-organica",
     "frenteId": "quimica",
     "area": "Química",
@@ -907,6 +895,18 @@ window.SUBTOPICS = [
     ]
   },
   {
+    "id": "quimica-estequiometria",
+    "frenteId": "quimica",
+    "area": "Química",
+    "areaGrande": "Ciências da Natureza",
+    "nome": "Estequiometria e Cálculos",
+    "descricao": "Mol, massa molar, balanceamento, reagente limitante e rendimento. A conta que aparece dentro de metade das outras questões de Química.",
+    "buscaVideo": [
+      "aula estequiometria vestibular",
+      "mol massa molar cálculo estequiométrico vestibular"
+    ]
+  },
+  {
     "id": "quimica-termoquimica-cinetica",
     "frenteId": "quimica",
     "area": "Química",
@@ -919,18 +919,6 @@ window.SUBTOPICS = [
     ]
   },
   {
-    "id": "fisica-termologia",
-    "frenteId": "fisica",
-    "area": "Física",
-    "areaGrande": "Ciências da Natureza",
-    "nome": "Termologia e Termodinâmica",
-    "descricao": "Temperatura, calor específico e latente, dilatação, gases e termodinâmica. Distinguir calor de temperatura já elimina metade dos distratores.",
-    "buscaVideo": [
-      "aula calorimetria dilatação térmica vestibular",
-      "termodinâmica gases vestibular"
-    ]
-  },
-  {
     "id": "fisica-mecanica",
     "frenteId": "fisica",
     "area": "Física",
@@ -940,6 +928,18 @@ window.SUBTOPICS = [
     "buscaVideo": [
       "aula cinemática leis de Newton vestibular",
       "atrito plano inclinado gravitação vestibular"
+    ]
+  },
+  {
+    "id": "fisica-termologia",
+    "frenteId": "fisica",
+    "area": "Física",
+    "areaGrande": "Ciências da Natureza",
+    "nome": "Termologia e Termodinâmica",
+    "descricao": "Temperatura, calor específico e latente, dilatação, gases e termodinâmica. Distinguir calor de temperatura já elimina metade dos distratores.",
+    "buscaVideo": [
+      "aula calorimetria dilatação térmica vestibular",
+      "termodinâmica gases vestibular"
     ]
   },
   {

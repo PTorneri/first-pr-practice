@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "atualidades",
- "total": 685,
+ "total": 688,
  "residuo": [
   "med-atualidades-10",
   "med-atualidades-23",
@@ -3656,6 +3656,22 @@
    "frenteDestino": "atualidades",
    "pontos": 5,
    "margem": 5
+  },
+  "enem-atualidades-01": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 1
+  },
+  "enem-atualidades-02": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "revisado": true
+  },
+  "enem-atualidades-03": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "revisado": true
   }
  }
 }

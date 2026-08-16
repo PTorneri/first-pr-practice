@@ -6486,6 +6486,326 @@
    "explicacao": "Adorno e Horkheimer chamam de indústria cultural o setor que fabrica bens simbólicos segundo o padrão da produção em série. A cultura de massa daí resultante oferece variação aparente e repetição de fundo, o que antecipa e domestica a resposta de quem consome. A mídia, nessa leitura, não é canal neutro: participa da mercantilização da cultura. A alternativa que fala em ampliar a autonomia do espectador corresponde a outra vertente do debate, ligada a Walter Benjamin e à aposta emancipadora na reprodutibilidade técnica.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "enem-filosofia-sociologia-01",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Superar a história da escravidão como principal marca da trajetória do negro no país tem sido uma tônica daqueles que se dedicam a pesquisar as heranças de origem afro à cultura brasileira. A esse esforço de reconstrução da própria história do país, alia-se agora a criação da plataforma digital Ancestralidades. \"A história do negro no Brasil vai continuar sendo contada, e cada passo que a gente dá para trás é um passo que a gente avança\", diz Márcio Black, idealizador da plataforma, sobre o estudo de figuras ainda encobertas pela perspectiva histórica imposta pelos colonizadores da América.",
+   "fonte_texto": "FIORATI, G. Projeto joga luz sobre negros e revê perspectiva histórica. Disponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado).",
+   "enunciado": "Em relação ao conhecimento sobre a formação cultural brasileira, iniciativas como a descrita no texto favorecem o(a)",
+   "alternativas": {
+    "a": "recuperação do tradicionalismo.",
+    "b": "estímulo ao antropocentrismo.",
+    "c": "reforço do etnocentrismo.",
+    "d": "resgate do teocentrismo.",
+    "e": "crítica ao eurocentrismo."
+   },
+   "resposta": "e",
+   "explicacao": "A frase que resolve a questão é \"figuras ainda encobertas pela perspectiva histórica imposta pelos colonizadores\": existe um ponto de vista europeu que se instalou como se fosse o único, e a plataforma existe para desmontá-lo. Isso é crítica ao eurocentrismo. Repare que a opção mais parecida diz o contrário — reforçar o etnocentrismo seria manter o olhar que a iniciativa combate. As outras três trazem termos de outra ordem: antropocentrismo (o humano no centro) e teocentrismo (Deus no centro) respondem a \"o que rege o mundo\", não a \"quem conta a história\"; e tradicionalismo é apego ao passado, não revisão de quem foi apagado dele."
+  },
+  {
+   "id": "enem-filosofia-sociologia-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nComo presença consciente no mundo não posso escapar à responsabilidade ética no meu mover-me no mundo. Se sou puro produto da determinação genética ou cultural ou de classe, sou irresponsável pelo que faço no meu mover-me no mundo e, se careço de responsabilidade, não posso falar em ética.\n\nTEXTO II\nPaulo Freire construiu uma pedagogia da esperança. Na sua concepção, a história não é algo pronto e acabado. As estruturas de opressão e as desigualdades, apesar de serem naturalizadas, são sócio e historicamente construídas. Daí a importância de os educandos tomarem consciência da sua realidade para, assim, transformá-la.",
+   "fonte_texto": "TEXTO I: FREIRE, P. Pedagogia da autonomia. São Paulo: Paz e Terra, 1996. — TEXTO II: DEMARCHI, J. L. Paulo Freire. Disponível em: https://diplomatique.org.br. Acesso em: 6 out. 2021 (adaptado).",
+   "enunciado": "Com base no conceito de ética pedagógica presente nos textos, os educandos tornam-se responsáveis pela",
+   "alternativas": {
+    "a": "participação sociopolítica.",
+    "b": "definição estético-cultural.",
+    "c": "competição econômica local.",
+    "d": "manutenção do sistema escolar.",
+    "e": "capacitação de mobilidade individual."
+   },
+   "resposta": "a",
+   "explicacao": "O argumento de Freire é encadeado: se o sujeito fosse puro produto da genética, da cultura ou da classe, não haveria responsabilidade — e sem responsabilidade não há ética. Como a opressão é construção histórica, e não destino, quem toma consciência dela passa a responder por transformá-la. Essa transformação é coletiva e se dá no mundo comum: é participação sociopolítica. Duas opções erram a escala: mobilidade individual troca a mudança da estrutura pela ascensão de um só, e competição econômica local é justamente a lógica que a pedagogia crítica questiona. Manter o sistema escolar contraria o segundo texto, que fala em transformar a realidade. E a definição estético-cultural não está em jogo em nenhum dos dois."
+  },
+  {
+   "id": "enem-filosofia-sociologia-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Eu poderia concluir que a raiva é um pensamento, que estar com raiva é pensar que alguém é detestável, e que esse pensamento, como todos os outros — assim como Descartes o mostrou —, não poderia residir em nenhum fragmento de matéria. A raiva seria, portanto, espírito. Porém, quando me volto para minha própria experiência da raiva, devo confessar que ela não estava fora do meu corpo, mas inexplicavelmente nele.",
+   "fonte_texto": "MERLEAU-PONTY, M. Quinta conversa: o homem visto de fora. São Paulo: Martins Fontes, 1948 (adaptado).",
+   "enunciado": "No que se refere ao problema do corpo, a filosofia cartesiana apresenta-se como contraponto ao entendimento expresso no texto por",
+   "alternativas": {
+    "a": "apresentar uma visão dualista.",
+    "b": "confirmar uma tese naturalista.",
+    "c": "demonstrar uma premissa realista.",
+    "d": "sustentar um argumento idealista.",
+    "e": "defender uma posição intencionalista."
+   },
+   "resposta": "a",
+   "explicacao": "Descartes separa duas substâncias: a coisa pensante e a coisa extensa. Por isso, na leitura cartesiana, a raiva — sendo pensamento — não pode residir em fragmento algum de matéria: ela é espírito, e o corpo fica de fora. É exatamente essa separação que Merleau-Ponty recusa ao confessar que a raiva \"não estava fora do meu corpo, mas inexplicavelmente nele\". O contraponto, portanto, é o dualismo. As demais nomeiam posições que não são a de Descartes neste ponto: naturalismo reduziria o mental ao natural, o que ele nega; idealismo dissolveria o corpo no pensamento, e Descartes afirma a substância extensa; e a intencionalidade é conceito da fenomenologia, ou seja, do lado de Merleau-Ponty, não do lado contrário."
+  },
+  {
+   "id": "enem-filosofia-sociologia-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A diversão é o prolongamento do trabalho sob o capitalismo tardio. Ela é procurada por quem quer escapar ao processo de trabalho mecanizado para se pôr de novo em condições de enfrentá-lo. Mas, ao mesmo tempo, a mecanização atingiu um tal poderio sobre a pessoa em seu lazer e sobre a sua felicidade, ela determina tão profundamente a fabricação das mercadorias destinadas à diversão que essa pessoa não pode mais perceber outra coisa senão as cópias que reproduzem o próprio processo de trabalho.",
+   "fonte_texto": "ADORNO, T.; HORKHEIMER, M. Dialética do esclarecimento. Rio de Janeiro: Zahar, 1997.",
+   "enunciado": "No texto, o tempo livre é concebido como",
+   "alternativas": {
+    "a": "consumo de produtos culturais elaborados no mesmo sistema produtivo do capitalismo.",
+    "b": "forma de realizar as diversas potencialidades da natureza humana.",
+    "c": "alternativa para equilibrar tensões psicológicas do dia a dia.",
+    "d": "promoção da satisfação de necessidades artificiais.",
+    "e": "mecanismo de organização do ócio e do prazer."
+   },
+   "resposta": "a",
+   "explicacao": "Para Adorno e Horkheimer o lazer não é o avesso do trabalho, é o seu prolongamento: as \"mercadorias destinadas à diversão\" saem da mesma linha de montagem, e quem se diverte encontra ali \"as cópias que reproduzem o próprio processo de trabalho\". O descanso não escapa da fábrica porque é fabricado por ela. As outras opções descrevem o tempo livre como os autores NÃO o veem, e por isso são tentadoras. Realizar potencialidades humanas e equilibrar tensões psicológicas são funções positivas que a crítica nega. A criação de necessidades artificiais e a organização do ócio são efeitos da indústria cultural, mas nenhum dos dois capta o ponto central do trecho, que é a identidade entre a mercadoria do lazer e a do trabalho."
+  },
+  {
+   "id": "enem-filosofia-sociologia-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Charge de Laerte. Uma personagem declara: \"EU QUERIA PODER.\" A outra pergunta: \"FORÇA? VISÃO DE RAIO X? TELECINESE? TELEPATIA?\" A primeira responde: \"PODER POLÍTICO.\"",
+   "fonte_texto": "LAERTE. Disponível em: www.laerte.art.br. Acesso em: 23 nov. 2021 (adaptado).",
+   "enunciado": "A charge ilustra um anseio presente na sociedade contemporânea, que se caracteriza pela",
+   "alternativas": {
+    "a": "situação de revolta individual.",
+    "b": "satisfação de desejos pessoais.",
+    "c": "participação em ações decisórias.",
+    "d": "permanência em passividade social.",
+    "e": "conivência em interesses partidários."
+   },
+   "resposta": "c",
+   "explicacao": "A piada está no desencontro entre os dois sentidos de \"poder\". O interlocutor entende superpoder — força, raio X, telecinese —, que é capacidade individual e extraordinária. A resposta desfaz o mal-entendido: o poder desejado é político, isto é, a capacidade de tomar parte nas decisões que afetam a coletividade. É esse deslocamento do individual para o coletivo que o quadrinho encena. Duas alternativas descrevem justamente o lado que a charge abandona: satisfação de desejos pessoais é o que os superpoderes dariam. E passividade social e revolta individual são o oposto do que a personagem manifesta — ela quer agir, e agir institucionalmente, o que também não se confunde com ser conivente com um partido."
+  },
+  {
+   "id": "enem-filosofia-sociologia-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Quem se mete pelo caminho do pedido de perdão deve estar pronto a escutar uma palavra de recusa. Entrar na atmosfera do perdão é aceitar medir-se com a possibilidade sempre aberta do imperdoável. Perdão pedido não é perdão a que se tem direito [devido]. É com o preço destas reservas que a grandeza do perdão se manifesta.",
+   "fonte_texto": "RICOEUR, P. O perdão pode curar. Disponível em: www.lusosofia.net. Acesso em: 14 out. 2019.",
+   "enunciado": "A reflexão sobre o perdão apresentada no texto encontra fundamento na(s)",
+   "alternativas": {
+    "a": "rejeição particular amparada pelo desejo de poder.",
+    "b": "decisão subjetiva determinada pela vontade divina.",
+    "c": "liberdade mitigada pela predestinação do espírito.",
+    "d": "escolhas humanas definidas pelo conhecimento empírico.",
+    "e": "relações interpessoais mediadas pela autonomia dos indivíduos."
+   },
+   "resposta": "e",
+   "explicacao": "Ricoeur insiste que \"perdão pedido não é perdão a que se tem direito\": quem pede não pode exigir, e quem é ofendido permanece livre para recusar. Justamente por não ser devido, o perdão vale — ele depende de duas liberdades que se encontram, e é aí que está a sua grandeza. Trata-se, portanto, de uma relação entre pessoas mediada pela autonomia de cada uma. As opções recusadas retiram essa liberdade ou a distorcem: vontade divina e predestinação transferem a decisão para fora do sujeito, e conhecimento empírico substitui a escolha por constatação de fato. A primeira lê a recusa como jogo de poder, quando no texto ela é o próprio sinal de que o perdão não pode ser cobrado."
+  },
+  {
+   "id": "enem-filosofia-sociologia-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Do século XVI em diante, pelo menos nas classes mais altas, o garfo passou a ser usado como utensílio para comer, chegando através da Itália primeiramente à França e, em seguida, à Inglaterra e à Alemanha, depois de ter servido, durante algum tempo, apenas para retirar alimentos sólidos da travessa. Henrique III introduziu-o na França, trazendo-o provavelmente de Veneza. Seus cortesãos não foram pouco ridicularizados por essa maneira \"afetada\" de comer e, no princípio, não eram muito hábeis no uso do utensílio: pelo menos se dizia que metade da comida caía do garfo no caminho do prato à boca. Em data tão recente como o século XVII, o garfo era ainda basicamente artigo de luxo, geralmente feito de prata ou ouro.",
+   "fonte_texto": "ELIAS, N. O processo civilizador: uma história dos costumes. Rio de Janeiro: Zahar, 1994.",
+   "enunciado": "O processo social relatado indica a formação de uma etiqueta que tem como princípio a",
+   "alternativas": {
+    "a": "distinção das classes sociais.",
+    "b": "valorização de hábitos de higiene.",
+    "c": "exaltação da cultura mediterrânea.",
+    "d": "consagração de tradições medievais.",
+    "e": "disseminação de produtos manufaturados."
+   },
+   "resposta": "a",
+   "explicacao": "Três detalhes do trecho apontam para o mesmo lugar: o costume aparece \"pelo menos nas classes mais altas\", o objeto é feito de prata ou ouro, e quem o usa é ridicularizado por ser \"afetado\". Ou seja, o garfo não entra por ser mais prático nem mais limpo — ele entra como marca de quem pertence à corte. A boa maneira nasce como sinal de posição, e é isso que Norbert Elias descreve. A higiene é a leitura mais natural e é falsa aqui: o texto não menciona limpeza em nenhum momento, e a comida caindo no caminho mostra que o utensílio nem sequer funcionava bem. E o movimento contradiz as outras duas: um objeto de luxo restrito a poucos não é produto manufaturado disseminado, e a novidade rompe com o costume medieval em vez de consagrá-lo."
+  },
+  {
+   "id": "enem-filosofia-sociologia-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Negar o pedido por dinheiro indispensável para necessidades pessoais ou comprar bens usando o nome da pessoa sem o consentimento dela. Ameaçar o corte de recursos dependendo de atitudes pessoais, esconder documentos ou trocar senhas do banco sem avisar. Ou, ainda, proibir a pessoa de trabalhar ou destruir seus pertences. As histórias são comuns, mas às vezes não são reconhecidas como abuso. Mas é uma das cinco formas de conduta contra a mulher previstas na Lei Maria da Penha.",
+   "fonte_texto": "LEWGOY, J. Conduta quase invisível destrói a vida de mulheres. Disponível em: https://valorinveste.globo.com. Acesso em: 23 out. 2021 (adaptado).",
+   "enunciado": "O texto apresenta tipos de conduta sujeitos a punição, conforme previsto na Lei Maria da Penha, porque consistem em formas de",
+   "alternativas": {
+    "a": "ação difamatória.",
+    "b": "desvio comportamental.",
+    "c": "expressão preconceituosa.",
+    "d": "violência patrimonial.",
+    "e": "desentendimento matrimonial."
+   },
+   "resposta": "d",
+   "explicacao": "Todas as condutas listadas incidem sobre o mesmo alvo: o dinheiro, os documentos, a conta bancária, os pertences, o direito de trabalhar e ter renda própria. A Lei Maria da Penha nomeia exatamente isso como violência patrimonial, uma das cinco formas que ela tipifica, ao lado da física, da psicológica, da sexual e da moral. As demais opções erram a espécie: difamação e expressão preconceituosa atingem a reputação ou a identidade, não o patrimônio. E as duas restantes desfazem o caráter de crime — chamar de \"desvio comportamental\" transfere o caso para a psicologia, e \"desentendimento matrimonial\" reduz a violência a briga de casal, que é justamente a leitura que a lei existe para afastar."
+  },
+  {
+   "id": "enem-filosofia-sociologia-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Por trás da \"mágica\" do Google Assistant de sua capacidade de interpretar 26 idiomas está uma enorme equipe de linguistas distribuídos globalmente, trabalhando como subcontratados, que devem rotular tediosamente os dados de treinamento para que funcione. Eles ganham baixos salários e são rotineiramente forçados a trabalhar horas extras não remuneradas. A inteligência artificial não funciona com um pozinho mágico. Ela funciona por meio de trabalhadores que treinam algoritmos incansavelmente até que eles automatizem seus próprios trabalhos.",
+   "fonte_texto": "A Inteligência Artificial (IA) da economia freelancer está vindo atrás de você. Disponível em: https://mittechreview.com.br. Acesso em: 6 out. 2021 (adaptado).",
+   "enunciado": "O texto critica a mudança tecnológica em razão da seguinte consequência:",
+   "alternativas": {
+    "a": "Diversificação da função.",
+    "b": "Mobilidade da população.",
+    "c": "Autonomia do empregado.",
+    "d": "Concentração da produção.",
+    "e": "Invisibilidade do profissional."
+   },
+   "resposta": "e",
+   "explicacao": "A palavra-chave é \"mágica\", entre aspas. O produto se apresenta como se funcionasse sozinho, e o texto existe para mostrar quem está atrás da cortina: linguistas subcontratados, mal pagos, fazendo hora extra não remunerada. O trabalho é indispensável e não aparece — é a invisibilidade do profissional. Note que os distratores descrevem melhorias: diversificar função, ganhar mobilidade e ter mais autonomia seriam efeitos benignos, e o texto denuncia o oposto disso, com trabalhadores que sequer são reconhecidos como empregados. Concentração da produção existe no setor, mas não é o que o trecho critica: a crítica é sobre quem some da história, não sobre quem detém o mercado."
+  },
+  {
+   "id": "enem-filosofia-sociologia-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Nas reportagens publicadas sobre a inauguração do Museu de Arte de São Paulo, em 1947, quando ele ainda ocupava um edifício na rua Sete de Abril, Lina Bo Bardi não foi mencionada nenhuma vez. A arquiteta era responsável pelo projeto do museu que mudaria para sempre a posição de São Paulo no circuito mundial das artes. Mas não houve nenhum registro disso. O louvor se concentrou em seu marido e parceiro profissional, o respeitado crítico de arte Pietro Maria Bardi. Passados 75 anos, a mulher então ignorada recebeu um Leão de Ouro póstumo, a maior homenagem da Bienal de Arquitetura de Veneza, e tem agora sua história contada em duas biografias de peso.",
+   "fonte_texto": "PORTO, W. Lina Bo Bardi tem sua arquitetura contraditória destrinchada em biografias. Disponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado).",
+   "enunciado": "As transformações pelas quais passaram as sociedades ocidentais e que possibilitaram o reconhecimento recente do trabalho da arquiteta mencionada no texto foram resultado das mobilizações sociais pela",
+   "alternativas": {
+    "a": "equidade de gênero.",
+    "b": "liberdade de expressão.",
+    "c": "admissibilidade de voto.",
+    "d": "igualdade de oportunidade.",
+    "e": "reciprocidade de tratamento."
+   },
+   "resposta": "a",
+   "explicacao": "O caso tem um recorte muito preciso: a autoria da obra existia, e o crédito foi dado ao marido. O apagamento não se deveu à falta de oportunidade — ela projetou o museu — nem à falta de voz. Deveu-se ao fato de ela ser mulher, e é o movimento por equidade de gênero que tornou possível, décadas depois, rever essa atribuição. Igualdade de oportunidade é a resposta que mais atrai e não serve: o problema não foi o acesso ao trabalho, foi o reconhecimento dele. Liberdade de expressão e direito ao voto são conquistas de outra natureza, e nenhuma explicaria por que o nome de uma arquiteta some da reportagem enquanto o do marido permanece."
+  },
+  {
+   "id": "enem-filosofia-sociologia-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nComo é horrivel ver um filho comer e perguntar: \"Tem mais?\" Esta palavra \"tem mais\" fica oscilando dentro do cerebro de uma mãe que olha as panela e não tem mais.\n\nTEXTO II\nA experiência de ver os filhos com fome na década de 1950, descrita por Carolina, é vivida no Brasil de 2021 por uma moradora de Petrolândia, em Pernambuco. \"Eu trabalhava de ajudante de cabeleireira, mas a moça que tinha o salão fechou. Eu vinha me sustentando com o auxílio que tinha, mas agora eu não fui contemplada. Às vezes as pessoas me ajudam com alimentos para os meus filhos. De vez em quando, eu acho algum bico para fazer, mas é muito raro. Tem dias que não tenho nem o leite da minha bebê.\"",
+   "fonte_texto": "TEXTO I: JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014. — TEXTO II: CARRANÇA, T. \"Até o feijão nos esqueceu\". Disponível em: www.bbc.com. Acesso em: 6 out. 2021 (adaptado).",
+   "enunciado": "Considerando a realidade brasileira, os textos se aproximam ao apresentarem uma reflexão sobre o(a)",
+   "alternativas": {
+    "a": "recorrência da miséria.",
+    "b": "planejamento da saúde.",
+    "c": "superação da escassez.",
+    "d": "constância da economia.",
+    "e": "romantização da carência."
+   },
+   "resposta": "a",
+   "explicacao": "O que aproxima os dois textos é a distância entre eles: setenta anos separam Carolina Maria de Jesus da moradora de Petrolândia, e a cena é a mesma — uma mãe sem o que dar de comer aos filhos. A fome não é episódio de um momento, ela retorna; é a recorrência da miséria. Duas opções afirmam o contrário do que se lê: superação da escassez e constância da economia dariam a entender melhora ou estabilidade, e o que os relatos mostram é persistência da falta. Romantização exigiria que o sofrimento fosse embelezado, e ambos os depoimentos são secos e diretos. E não há, em nenhum dos dois, discussão sobre política de saúde."
+  },
+  {
+   "id": "enem-filosofia-sociologia-12",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A torcida do Fluminense inicia um movimento para mudar a letra de uma das músicas mais populares das arquibancadas tricolores. Grupos pedem a remoção do termo \"mulambo imundo\", em uma provocação direta ao Flamengo. Mulambo é um termo que surgiu em Angola, na época da escravatura, e eles eram chamados de mulambos pelos senhores de engenho, os patrões das fazendas.",
+   "fonte_texto": "Disponível em: https://oglobo.globo.com. Acesso em: 23 nov. 2021.",
+   "enunciado": "Qual mudança no comportamento social a proposta reportada no texto reflete?",
+   "alternativas": {
+    "a": "Rejeição de costumes elitistas.",
+    "b": "Repulsão de condutas misóginas.",
+    "c": "Condenação do preconceito racial.",
+    "d": "Criminalização de práticas homofóbicas.",
+    "e": "Contestação do comportamento machista."
+   },
+   "resposta": "c",
+   "explicacao": "O texto não deixa a origem da palavra em aberto: \"mulambo\" vem de Angola e era como os senhores de engenho chamavam os escravizados. Cantar o termo numa arquibancada faz circular, como xingamento, um vocabulário forjado na escravidão — e é por isso que a própria torcida quer retirá-lo. A mudança de comportamento em causa é a condenação do racismo. As outras opções nomeiam outras formas de discriminação, todas reais e todas fora deste caso: nada no episódio envolve mulheres, orientação sexual ou distinção de classe. O único eixo presente é o racial, e ele está explicitado na etimologia que o texto faz questão de dar."
+  },
+  {
+   "id": "enem-filosofia-sociologia-13",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nGerineldo dorme porque já está conformado com o seu mundo. Porque já sabe tudo o que lhe pode acontecer após haver submetido todos os objetos que o rodeiam a um minucioso inventário de possibilidades. Seu apartamento, mais que um apartamento, é uma teoria de sorte e de azar. Melhor que ninguém, Gerineldo conhece o coeficiente da dilatação de suas janelas e mantém marcado no termômetro, com uma linha vermelha, o ponto em que se quebrarão os vidros. Sabe que os arquitetos e os engenheiros já previram tudo, menos o que nunca já aconteceu.\n\nTEXTO II\nA situação é o sujeito inteiro (ele não é nada a não ser a sua situação) e é também a coisa inteira (nunca há mais nada senão as coisas). É o sujeito a elucidar as coisas pela sua própria superação, se assim quisermos; ou são as coisas a reenviar ao sujeito a imagem dele. É a total facticidade, a contingência absoluta do mundo, do meu nascimento, do meu lugar, do meu passado, dos meus redores — e é a minha liberdade sem limites que faz com que haja para mim uma facticidade.",
+   "fonte_texto": "TEXTO I: MÁRQUEZ, G. G. O pessimista. In: Textos do Caribe. Rio de Janeiro: Record, 1981. — TEXTO II: SARTRE, J.-P. O ser e o nada. Petrópolis: Vozes, 1997 (adaptado).",
+   "enunciado": "A postura determinista adotada pelo personagem Gerineldo contrasta com a ideia existencialista contida no pensamento filosófico de Sartre porque",
+   "alternativas": {
+    "a": "evidencia a manifestação do inconsciente.",
+    "b": "nega a possibilidade de transcendência.",
+    "c": "contraria o conhecimento difuso.",
+    "d": "sustenta a fugacidade da vida.",
+    "e": "refuta a evolução biológica."
+   },
+   "resposta": "b",
+   "explicacao": "Gerineldo inventariou todas as possibilidades e dorme: para ele o futuro já está escrito nos coeficientes e nas linhas do termômetro, e nada lhe resta fazer. Sartre chama de transcendência justamente o movimento contrário — o sujeito ultrapassa a situação dada, e \"a minha liberdade sem limites\" é o que faz existir a facticidade como situação, e não como destino. Conformar-se com o inventário é negar essa superação. As alternativas restantes trazem conceitos de outras tradições e nenhum deles está em jogo: o inconsciente é da psicanálise, a evolução biológica é da ciência natural, e o texto não discute nem a brevidade da vida nem a difusão do conhecimento."
+  },
+  {
+   "id": "enem-filosofia-sociologia-14",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A economia das ilegalidades se reestruturou com o desenvolvimento da sociedade capitalista. A ilegalidade dos bens foi separada da ilegalidade dos direitos. Divisão que corresponde a uma oposição de classes, pois, de um lado, a ilegalidade mais acessível às classes populares será a dos bens — transferência violenta das propriedades; de outro, à burguesia, então, se reservará a ilegalidade dos direitos: a possibilidade de desviar seus próprios regulamentos e suas próprias leis; e essa grande redistribuição das ilegalidades se traduzirá até por uma especialização dos circuitos judiciários; para as ilegalidades de bens — para o roubo — os tribunais ordinários e os castigos; para as ilegalidades de direitos — fraudes, evasões fiscais, operações comerciais irregulares — jurisdições especiais com transações, acomodações, multas atenuadas etc.",
+   "fonte_texto": "FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987.",
+   "enunciado": "O texto apresenta uma relação de cálculo político-econômico que caracteriza o poder punitivo por meio da",
+   "alternativas": {
+    "a": "gestão das ilicitudes pelo sistema judicial.",
+    "b": "aplicação das sanções pelo modelo equânime.",
+    "c": "supressão dos crimes pela penalização severa.",
+    "d": "regulamentação dos privilégios pela justiça social.",
+    "e": "repartição de vantagens pela hierarquização cultural."
+   },
+   "resposta": "a",
+   "explicacao": "Foucault não descreve um sistema que combate o crime; descreve um sistema que o administra de modo diferente conforme quem o comete. A mesma ilegalidade se bifurca: roubo vai para o tribunal comum e recebe castigo, enquanto fraude e sonegação vão para jurisdições especiais e terminam em acordo e multa atenuada. Isso é gestão das ilicitudes — o judiciário distribui rigor e tolerância segundo a classe. Por isso as demais não servem: o modelo é o contrário de equânime, não suprime o crime (ele o organiza), e não realiza justiça social nenhuma. A última troca o critério de classe, que é o do texto, por hierarquia cultural, que não aparece."
+  },
+  {
+   "id": "enem-filosofia-sociologia-15",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Durante a Revolução Francesa, um certo padre Niollant escondeu-se no pequeno castelo de L'Escarbas. Pagou amplamente a hospitalidade do velho fidalgo ocupando-se da educação de sua filha, Anaïs. A presença da mãe em nada modificou essa educação masculina dada a uma jovem criatura já muito inclinada à independência em virtude da vida no campo. O padre transmitiu à aluna sua intrepidez de opiniões e sua facilidade de julgamento, sem pensar que essas qualidades, tão necessárias num homem, se tornam defeitos numa mulher destinada aos humildes afazeres de mãe de família. Embora o padre recomendasse continuamente à aluna ser tanto mais graciosa e modesta quanto seu saber era mais extenso, a senhorita de Nègrepelisse ficou com excelente opinião de si mesma.",
+   "fonte_texto": "BALZAC, H. Ilusões perdidas. São Paulo: Penguin Classics; Cia. das Letras, 2011 (adaptado).",
+   "enunciado": "O comportamento desenvolvido pela personagem evidencia uma postura de",
+   "alternativas": {
+    "a": "abandono de laços afetivos.",
+    "b": "negação da ideia de subjetividade.",
+    "c": "aceitação da hierarquia de gênero.",
+    "d": "consolidação da estratificação social.",
+    "e": "ruptura de valores institucionalizados."
+   },
+   "resposta": "e",
+   "explicacao": "O próprio narrador enuncia a regra vigente: intrepidez de opinião e facilidade de julgamento \"tão necessárias num homem, se tornam defeitos numa mulher destinada aos humildes afazeres de mãe de família\". E encerra dizendo que Anaïs ficou com excelente opinião de si mesma — isto é, não seguiu a recomendação de ser modesta. A personagem quebra o papel que a sociedade lhe reservava: é ruptura com valores instituídos. A alternativa oposta, aceitação da hierarquia de gênero, descreve exatamente o que ela não fez. E as outras três não têm apoio no trecho: ninguém abandona vínculos afetivos, a subjetividade é afirmada e não negada, e nada indica reforço da estratificação social."
+  },
+  {
+   "id": "enem-filosofia-sociologia-16",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Não tinha outra filosofia. Nem eu. Não digo que a Universidade me não tivesse ensinado alguma; mas eu decorei-lhe só as fórmulas, o vocabulário, o esqueleto. Tratei-a como tratei o latim; embolsei três versos de Virgílio, dois de Horácio, uma dúzia de locuções morais e políticas, para as despesas da conversação. Tratei-os como tratei a história e a jurisprudência. Colhi de todas as cousas a fraseologia, a casca, a ornamentação.",
+   "fonte_texto": "ASSIS, M. Memórias póstumas de Brás Cubas. Belo Horizonte: Autêntica, 1999.",
+   "enunciado": "A descrição crítica do personagem de Machado de Assis assemelha-se às características dos sofistas, contestados pelos filósofos gregos da Antiguidade, porque se mostra alinhada à",
+   "alternativas": {
+    "a": "elaboração conceitual de entendimentos.",
+    "b": "utilização persuasiva do discurso.",
+    "c": "narração alegórica dos rapsodos.",
+    "d": "investigação empírica da physis.",
+    "e": "expressão pictográfica da pólis."
+   },
+   "resposta": "b",
+   "explicacao": "Brás Cubas confessa ter guardado \"a fraseologia, a casca, a ornamentação\" — e diz para que serve: \"para as despesas da conversação\". Ele não busca saber, busca ter o que dizer e impressionar. Era esta a acusação que Sócrates e Platão dirigiam aos sofistas: dominar a arte de convencer sem se comprometer com a verdade. Daí a utilização persuasiva do discurso. A primeira opção descreve o oposto, e é a armadilha: elaborar conceitos é justamente o trabalho que o personagem confessa não ter feito. As três últimas trazem termos gregos de outros domínios — os rapsodos são recitadores de épica, a physis é o objeto dos filósofos pré-socráticos, e a pólis não se expressa em pictografia."
   }
  ]
 }

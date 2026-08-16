@@ -1,26 +1,39 @@
 {
  "gerado": "2026-08-16",
  "frente": "filosofia-sociologia",
- "total": 403,
+ "total": 419,
  "residuo": [
   "dir-filosofia-sociologia-81",
   "dir-filosofia-sociologia-97",
+  "dir-filosofia-sociologia-98",
+  "dir-filosofia-sociologia-99",
   "med-filosofia-sociologia-02",
   "med-filosofia-sociologia-22",
   "med-filosofia-sociologia-30",
+  "med-filosofia-sociologia-31",
   "med-filosofia-sociologia-64",
+  "med-filosofia-sociologia-68",
   "med-filosofia-sociologia-76",
+  "med-filosofia-sociologia-80",
   "med-filosofia-sociologia-82",
+  "med-filosofia-sociologia-85",
   "med-filosofia-sociologia-86",
   "med-filosofia-sociologia-88",
   "med-filosofia-sociologia-93",
   "med-filosofia-sociologia-94",
+  "med-filosofia-sociologia-97",
   "med-filosofia-sociologia-99",
+  "med-filosofia-sociologia-101",
   "med-filosofia-sociologia-102",
   "med-filosofia-sociologia-104",
+  "med-filosofia-sociologia-106",
+  "med-filosofia-sociologia-111",
+  "med-filosofia-sociologia-136",
+  "med-filosofia-sociologia-142",
   "med-filosofia-sociologia-143",
   "med-filosofia-sociologia-145",
-  "med-filosofia-sociologia-149"
+  "med-filosofia-sociologia-149",
+  "med-filosofia-sociologia-150"
  ],
  "mapa": {
   "dir-filosofia-sociologia-01": {
@@ -108,10 +121,10 @@
    "margem": 0
   },
   "dir-filosofia-sociologia-15": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 9,
-   "margem": 4
+   "pontos": 5,
+   "margem": 0
   },
   "dir-filosofia-sociologia-16": {
    "subtema": "sociologia-cultura-identidade",
@@ -156,10 +169,10 @@
    "margem": 4
   },
   "dir-filosofia-sociologia-23": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 9,
-   "margem": 4
+   "pontos": 5,
+   "margem": 1
   },
   "dir-filosofia-sociologia-24": {
    "subtema": "filosofia-conhecimento-logica",
@@ -294,7 +307,7 @@
    "margem": 5
   },
   "dir-filosofia-sociologia-46": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
    "margem": 0
@@ -354,16 +367,16 @@
    "margem": 1
   },
   "dir-filosofia-sociologia-56": {
-   "subtema": "filosofia-conhecimento-logica",
-   "frenteDestino": "filosofia-sociologia",
-   "pontos": 9,
-   "margem": 4
-  },
-  "dir-filosofia-sociologia-57": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
    "margem": 0
+  },
+  "dir-filosofia-sociologia-57": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 1
   },
   "dir-filosofia-sociologia-58": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -432,10 +445,10 @@
    "margem": 0
   },
   "dir-filosofia-sociologia-69": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "dir-filosofia-sociologia-70": {
    "subtema": "sociologia-cultura-identidade",
@@ -477,7 +490,7 @@
    "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 10,
-   "margem": 5
+   "margem": 6
   },
   "dir-filosofia-sociologia-77": {
    "subtema": "filosofia-conhecimento-logica",
@@ -521,10 +534,10 @@
    "margem": 5
   },
   "dir-filosofia-sociologia-84": {
-   "subtema": "sociologia-trabalho-classes",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 1
   },
   "dir-filosofia-sociologia-85": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -571,8 +584,8 @@
   "dir-filosofia-sociologia-92": {
    "subtema": "filosofia-conhecimento-logica",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 15,
-   "margem": 10
+   "pontos": 10,
+   "margem": 5
   },
   "dir-filosofia-sociologia-93": {
    "subtema": "filosofia-conhecimento-logica",
@@ -604,16 +617,14 @@
    "padrao": true
   },
   "dir-filosofia-sociologia-98": {
-   "subtema": "sociologia-trabalho-classes",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "dir-filosofia-sociologia-99": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "dir-filosofia-sociologia-100": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -732,7 +743,7 @@
    "subtema": "filosofia-politica",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-filosofia-sociologia-19": {
    "subtema": "filosofia-politica",
@@ -797,7 +808,7 @@
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-filosofia-sociologia-30": {
    "subtema": "sociologia-cultura-identidade",
@@ -805,22 +816,21 @@
    "padrao": true
   },
   "med-filosofia-sociologia-31": {
-   "subtema": "sociologia-trabalho-classes",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-filosofia-sociologia-32": {
    "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 15,
-   "margem": 10
+   "pontos": 10,
+   "margem": 5
   },
   "med-filosofia-sociologia-33": {
    "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 10,
-   "margem": 10
+   "pontos": 5,
+   "margem": 5
   },
   "med-filosofia-sociologia-34": {
    "subtema": "sociologia-trabalho-classes",
@@ -831,20 +841,20 @@
   "med-filosofia-sociologia-35": {
    "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 20,
-   "margem": 16
+   "pontos": 15,
+   "margem": 11
   },
   "med-filosofia-sociologia-36": {
    "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 10,
+   "pontos": 5,
    "margem": 5
   },
   "med-filosofia-sociologia-37": {
    "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-filosofia-sociologia-38": {
    "subtema": "sociologia-trabalho-classes",
@@ -853,10 +863,10 @@
    "margem": 0
   },
   "med-filosofia-sociologia-39": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-filosofia-sociologia-40": {
    "subtema": "sociologia-trabalho-classes",
@@ -889,10 +899,10 @@
    "margem": 0
   },
   "med-filosofia-sociologia-45": {
-   "subtema": "sociologia-trabalho-classes",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 10,
-   "margem": 0
+   "margem": 5
   },
   "med-filosofia-sociologia-46": {
    "subtema": "sociologia-trabalho-classes",
@@ -901,10 +911,10 @@
    "margem": 10
   },
   "med-filosofia-sociologia-47": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-filosofia-sociologia-48": {
    "subtema": "sociologia-cultura-identidade",
@@ -958,7 +968,7 @@
    "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-filosofia-sociologia-57": {
    "subtema": "sociologia-trabalho-classes",
@@ -979,10 +989,10 @@
    "margem": 5
   },
   "med-filosofia-sociologia-60": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-filosofia-sociologia-61": {
    "subtema": "filosofia-conhecimento-logica",
@@ -1026,10 +1036,9 @@
    "margem": 9
   },
   "med-filosofia-sociologia-68": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-filosofia-sociologia-69": {
    "subtema": "sociologia-trabalho-classes",
@@ -1079,10 +1088,10 @@
    "padrao": true
   },
   "med-filosofia-sociologia-77": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 9,
-   "margem": 4
+   "pontos": 5,
+   "margem": 1
   },
   "med-filosofia-sociologia-78": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -1097,10 +1106,9 @@
    "margem": 5
   },
   "med-filosofia-sociologia-80": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-filosofia-sociologia-81": {
    "subtema": "sociologia-cultura-identidade",
@@ -1120,16 +1128,15 @@
    "margem": 0
   },
   "med-filosofia-sociologia-84": {
-   "subtema": "filosofia-conhecimento-logica",
-   "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 0
-  },
-  "med-filosofia-sociologia-85": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
    "margem": 5
+  },
+  "med-filosofia-sociologia-85": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "padrao": true
   },
   "med-filosofia-sociologia-86": {
    "subtema": "sociologia-cultura-identidade",
@@ -1137,10 +1144,10 @@
    "padrao": true
   },
   "med-filosofia-sociologia-87": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "filosofia-politica",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 9,
-   "margem": 4
+   "pontos": 5,
+   "margem": 0
   },
   "med-filosofia-sociologia-88": {
    "subtema": "sociologia-cultura-identidade",
@@ -1148,10 +1155,10 @@
    "padrao": true
   },
   "med-filosofia-sociologia-89": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-filosofia-sociologia-90": {
    "subtema": "sociologia-cultura-identidade",
@@ -1194,10 +1201,9 @@
    "margem": 5
   },
   "med-filosofia-sociologia-97": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-filosofia-sociologia-98": {
    "subtema": "sociologia-trabalho-classes",
@@ -1217,10 +1223,9 @@
    "margem": 4
   },
   "med-filosofia-sociologia-101": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-filosofia-sociologia-102": {
    "subtema": "sociologia-cultura-identidade",
@@ -1230,8 +1235,8 @@
   "med-filosofia-sociologia-103": {
    "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 15,
-   "margem": 10
+   "pontos": 10,
+   "margem": 5
   },
   "med-filosofia-sociologia-104": {
    "subtema": "sociologia-cultura-identidade",
@@ -1245,16 +1250,15 @@
    "margem": 5
   },
   "med-filosofia-sociologia-106": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "padrao": true
+  },
+  "med-filosofia-sociologia-107": {
+   "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
    "margem": 5
-  },
-  "med-filosofia-sociologia-107": {
-   "subtema": "sociologia-trabalho-classes",
-   "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 0
   },
   "med-filosofia-sociologia-108": {
    "subtema": "sociologia-cultura-identidade",
@@ -1263,25 +1267,24 @@
    "margem": 5
   },
   "med-filosofia-sociologia-109": {
-   "subtema": "filosofia-conhecimento-logica",
-   "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 0
-  },
-  "med-filosofia-sociologia-110": {
-   "subtema": "sociologia-trabalho-classes",
-   "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 0
-  },
-  "med-filosofia-sociologia-111": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
    "margem": 5
   },
+  "med-filosofia-sociologia-110": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-111": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "padrao": true
+  },
   "med-filosofia-sociologia-112": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
    "margem": 0
@@ -1425,10 +1428,9 @@
    "margem": 10
   },
   "med-filosofia-sociologia-136": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-filosofia-sociologia-137": {
    "subtema": "filosofia-etica-moral",
@@ -1461,10 +1463,9 @@
    "margem": 1
   },
   "med-filosofia-sociologia-142": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-filosofia-sociologia-143": {
    "subtema": "sociologia-cultura-identidade",
@@ -1475,7 +1476,7 @@
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-filosofia-sociologia-145": {
    "subtema": "sociologia-cultura-identidade",
@@ -1506,10 +1507,9 @@
    "padrao": true
   },
   "med-filosofia-sociologia-150": {
-   "subtema": "filosofia-conhecimento-logica",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-filosofia-sociologia-151": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -1683,7 +1683,7 @@
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-filosofia-sociologia-228": {
    "subtema": "filosofia-etica-moral",
@@ -1713,13 +1713,13 @@
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-filosofia-sociologia-233": {
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 5
+   "margem": 10
   },
   "med-filosofia-sociologia-234": {
    "subtema": "filosofia-etica-moral",
@@ -1790,8 +1790,8 @@
   "med-filosofia-sociologia-245": {
    "subtema": "sociologia-trabalho-classes",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 15,
-   "margem": 15
+   "pontos": 10,
+   "margem": 10
   },
   "med-filosofia-sociologia-246": {
    "subtema": "sociologia-trabalho-classes",
@@ -2169,13 +2169,13 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-filosofia-sociologia-309": {
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-filosofia-sociologia-310": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2187,13 +2187,13 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 19,
-   "margem": 14
+   "margem": 19
   },
   "med-filosofia-sociologia-312": {
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "med-filosofia-sociologia-313": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2205,7 +2205,7 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 9,
-   "margem": 4
+   "margem": 9
   },
   "med-filosofia-sociologia-315": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2217,7 +2217,7 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-filosofia-sociologia-317": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2229,19 +2229,19 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 19,
-   "margem": 14
+   "margem": 19
   },
   "med-filosofia-sociologia-319": {
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 9,
-   "margem": 4
+   "margem": 9
   },
   "med-filosofia-sociologia-320": {
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 13,
-   "margem": 8
+   "margem": 13
   },
   "med-filosofia-sociologia-321": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2253,7 +2253,7 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-filosofia-sociologia-323": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2283,7 +2283,7 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-filosofia-sociologia-328": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2313,7 +2313,7 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-filosofia-sociologia-333": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2331,7 +2331,7 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 19,
-   "margem": 14
+   "margem": 19
   },
   "med-filosofia-sociologia-336": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2343,7 +2343,7 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "med-filosofia-sociologia-338": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2355,7 +2355,7 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-filosofia-sociologia-340": {
    "subtema": "sociologia-instituicoes-movimentos",
@@ -2373,19 +2373,19 @@
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-filosofia-sociologia-343": {
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 10
   },
   "med-filosofia-sociologia-344": {
    "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-filosofia-sociologia-345": {
    "subtema": "filosofia-etica-moral",
@@ -2422,6 +2422,93 @@
    "frenteDestino": "filosofia-sociologia",
    "pontos": 15,
    "margem": 15
+  },
+  "enem-filosofia-sociologia-01": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-02": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-filosofia-sociologia-03": {
+   "subtema": "filosofia-conhecimento-logica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-filosofia-sociologia-04": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "enem-filosofia-sociologia-05": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-06": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "enem-filosofia-sociologia-07": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-08": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "enem-filosofia-sociologia-09": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "enem-filosofia-sociologia-10": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "enem-filosofia-sociologia-11": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "enem-filosofia-sociologia-12": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "enem-filosofia-sociologia-13": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "enem-filosofia-sociologia-14": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-filosofia-sociologia-15": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "enem-filosofia-sociologia-16": {
+   "subtema": "filosofia-conhecimento-logica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

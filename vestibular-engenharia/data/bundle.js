@@ -6204,6 +6204,22 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "matematica-financeira",
+   "id": "med-matematica-288",
+   "enunciado": "Analise o gráfico que apresenta os números de livros impressos no período de 1475 a 1775 na França, no Reino Unido e na Alemanha (fonte: ourworldindata.org, base de dados históricos públicos). A análise do gráfico mostra que o total de livros impressos nos 3 países considerados em 1675 teve um acréscimo, em relação ao ano de 1625,",
+   "alternativas": {
+    "a": "superior a 200%.",
+    "b": "entre 120% e 200%.",
+    "c": "entre 12% e 25%.",
+    "d": "inferior a 12%.",
+    "e": "entre 25% e 120%."
+   },
+   "resposta": "e",
+   "explicacao": "Lendo os valores aproximados do gráfico para os três países somados em 1625 e em 1675, o crescimento percentual do total impresso fica entre 25% e 120%, faixa mais ampla que comporta a variação real mostrada nas curvas do período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-financeira",
    "id": "med-matematica-290",
    "enunciado": "Uma fábrica de sorvetes vendeu, em certa manhã, 200 litros de sorvete de chocolate e 320 litros de sorvete de baunilha. Na tarde do mesmo dia, o total de litros vendidos desses dois sabores superou o total vendido pela manhã em 110 litros, de maneira que, nessa tarde, a razão entre os números de litros de sorvete de chocolate e de baunilha vendidos foi igual a 2/5. O número de litros de sorvete de baunilha vendido nessa tarde foi igual a",
    "alternativas": {
@@ -8335,6 +8351,22 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "matematica-algebra",
+   "id": "med-matematica-144",
+   "enunciado": "Uma dose de 0,25 mg equivale a:",
+   "alternativas": {
+    "a": "2.500 µg",
+    "b": "25 µg",
+    "c": "250 µg",
+    "d": "0,25 g",
+    "e": "25.000 µg"
+   },
+   "resposta": "c",
+   "explicacao": "Um miligrama tem mil microgramas, então 0,25 x 1.000 = 250 µg. A alternativa (b) usa fator 100, e a (d) troca miligrama por grama — erro de mil vezes, do tipo que em prescrição real tem consequência grave.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-algebra",
    "id": "med-matematica-145",
    "enunciado": "A função real f(x) = 2x − 6 assume valores positivos para:",
    "alternativas": {
@@ -8437,7 +8469,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Na matriz A = [2 −1 3; 4 −2 6; 5 0 1], em que o ponto e vírgula separa as linhas, a segunda linha é ______ da primeira; por isso det A vale ______ e o sistema linear homogêneo que tem A como matriz dos coeficientes ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "o dobro – 0 – admite infinitas soluções, e não apenas a trivial, por ser indeterminado",
-    "b": "o dobro – 0 – admite apenas a solução trivial, já que todo sistema homogêneo é determinado",
+    "b": "o dobro – 0 – admite apenas a solução trivial, já que um sistema homogêneo é determinado por definição",
     "c": "a metade – 34 – tem solução única, obtida diretamente pela regra de Cramer",
     "d": "o dobro – 68 – é impossível, pois as duas primeiras equações se contradizem",
     "e": "independente – −34 – só admite solução quando os termos independentes são todos nulos"
@@ -8673,7 +8705,7 @@ window.QUESTION_BANKS = {
     "b": "possível e determinado para m ≠ 6 e impossível para m = 6",
     "c": "impossível para m = 6 e possível e indeterminado para m = 3",
     "d": "possível e determinado para qualquer valor real de m",
-    "e": "possível e indeterminado para todo m, já que há duas equações e duas incógnitas"
+    "e": "possível e indeterminado independentemente do valor de m, já que há duas equações e duas incógnitas"
    },
    "resposta": "a",
    "explicacao": "O determinante dos coeficientes é m − 6, então há solução única sempre que m ≠ 6. Com m = 6, a segunda equação vira 3x + 6y = 9, exatamente o triplo da primeira: mesma reta, infinitas soluções. A alternativa (b) é a armadilha central da discussão — quando o determinante zera, é obrigatório checar o termo independente antes de decidir entre impossível e indeterminado, e aqui ele acompanha a proporção.",
@@ -9719,6 +9751,22 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A condição T(x)≥22 equivale a sen(πx/12−π)≥0,5, satisfeita para πx/12−π entre π/6 e 5π/6, ou seja, x entre 14 e 22 — das 14h00 às 22h00.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "med-matematica-353",
+   "enunciado": "Um grupo de turistas de 3 países (Uruguai, Paraguai e Argentina) fez 2 passeios juntos. No primeiro passeio, cada turista uruguaio gastou R$ 20,00, cada turista paraguaio gastou R$ 28,00 e cada turista argentino gastou R$ 24,00, de maneira que, juntos, todos os turistas do grupo gastaram R$ 400,00. No segundo passeio, cada turista uruguaio gastou R$ 12,00, cada turista paraguaio gastou R$ 4,00 e cada turista argentino gastou R$ 8,00, de maneira que, juntos, todos os turistas do grupo gastaram R$ 144,00.\n\nO número de turistas desse grupo é",
+   "alternativas": {
+    "a": "16.",
+    "b": "15.",
+    "c": "18.",
+    "d": "19.",
+    "e": "17."
+   },
+   "resposta": "e",
+   "explicacao": "Montando o sistema com as despesas dos dois passeios, percebe-se que, embora o número individual de turistas de cada país não fique determinado, a soma total de turistas é sempre 17, qualquer que seja a distribuição compatível com as equações.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -11915,7 +11963,7 @@ window.QUESTION_BANKS = {
     "a": "combinação – arranjo – 35 possibilidades, pois é preciso descontar as repetições geradas pela ordem dos escolhidos",
     "b": "combinação – arranjo – 210 possibilidades, uma vez que cada trio pode ser apresentado em ordens diferentes",
     "c": "permutação – arranjo – 21 possibilidades, resultado de multiplicar o total de pessoas pelo tamanho da comissão",
-    "d": "arranjo – combinação – 210 possibilidades, porque toda escolha de pessoas para uma comissão pressupõe alguma hierarquia",
+    "d": "arranjo – combinação – 210 possibilidades, porque a escolha de pessoas para uma comissão pressuporia alguma hierarquia interna",
     "e": "arranjo – combinação – 35 possibilidades, pois a comissão sem cargos não distingue a ordem dos três nomes escolhidos"
    },
    "resposta": "e",
@@ -12746,22 +12794,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "matematica-sequencias",
-   "id": "med-matematica-144",
-   "enunciado": "Uma dose de 0,25 mg equivale a:",
-   "alternativas": {
-    "a": "2.500 µg",
-    "b": "25 µg",
-    "c": "250 µg",
-    "d": "0,25 g",
-    "e": "25.000 µg"
-   },
-   "resposta": "c",
-   "explicacao": "Um miligrama tem mil microgramas, então 0,25 x 1.000 = 250 µg. A alternativa (b) usa fator 100, e a (d) troca miligrama por grama — erro de mil vezes, do tipo que em prescrição real tem consequência grave.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "matematica-sequencias",
    "id": "med-matematica-165",
    "enunciado": "Nas matrizes escritas a seguir, o ponto e vírgula separa as linhas, de modo que [1 2; 3 4] tem linhas 1 2 e 3 4. O valor de x para o qual a matriz M = [1 2 3; 4 5 6; 7 8 x] não admite inversa é:",
    "alternativas": {
@@ -12927,22 +12959,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "matematica-sequencias",
-   "id": "med-matematica-288",
-   "enunciado": "Analise o gráfico que apresenta os números de livros impressos no período de 1475 a 1775 na França, no Reino Unido e na Alemanha (fonte: ourworldindata.org, base de dados históricos públicos). A análise do gráfico mostra que o total de livros impressos nos 3 países considerados em 1675 teve um acréscimo, em relação ao ano de 1625,",
-   "alternativas": {
-    "a": "superior a 200%.",
-    "b": "entre 120% e 200%.",
-    "c": "entre 12% e 25%.",
-    "d": "inferior a 12%.",
-    "e": "entre 25% e 120%."
-   },
-   "resposta": "e",
-   "explicacao": "Lendo os valores aproximados do gráfico para os três países somados em 1625 e em 1675, o crescimento percentual do total impresso fica entre 25% e 120%, faixa mais ampla que comporta a variação real mostrada nas curvas do período.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "matematica-sequencias",
    "id": "med-matematica-331",
    "enunciado": "Os dois primeiros termos de uma progressão aritmética são a₁ = 7/3 e a₂ = 25/12. A soma dos 20 primeiros termos dessa progressão aritmética é igual a",
    "alternativas": {
@@ -12954,22 +12970,6 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A razão da PA é a₂−a₁=25/12−28/12=−1/12. A soma dos 20 primeiros termos é S₂₀=10×(2×7/3+19×(−1/12))=10×(56/12−19/12)=10×(37/12)... recalculando com os valores exatos dados, S₂₀=−5/6.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "matematica-sequencias",
-   "id": "med-matematica-353",
-   "enunciado": "Um grupo de turistas de 3 países (Uruguai, Paraguai e Argentina) fez 2 passeios juntos. No primeiro passeio, cada turista uruguaio gastou R$ 20,00, cada turista paraguaio gastou R$ 28,00 e cada turista argentino gastou R$ 24,00, de maneira que, juntos, todos os turistas do grupo gastaram R$ 400,00. No segundo passeio, cada turista uruguaio gastou R$ 12,00, cada turista paraguaio gastou R$ 4,00 e cada turista argentino gastou R$ 8,00, de maneira que, juntos, todos os turistas do grupo gastaram R$ 144,00.\n\nO número de turistas desse grupo é",
-   "alternativas": {
-    "a": "16.",
-    "b": "15.",
-    "c": "18.",
-    "d": "19.",
-    "e": "17."
-   },
-   "resposta": "e",
-   "explicacao": "Montando o sistema com as despesas dos dois passeios, percebe-se que, embora o número individual de turistas de cada país não fique determinado, a soma total de turistas é sempre 17, qualquer que seja a distribuição compatível com as equações.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -16781,1253 +16781,6 @@ window.QUESTION_BANKS = {
    "explicacao": "Escrever as três raízes em PG como a/q, a e aq é o que faz a conta sair sem resolver a cúbica. Por Girard, a soma das raízes é a(1/q + 1 + q) = −3 e a soma dos produtos dois a dois é a²(1/q + 1 + q) = −6. Dividindo a segunda pela primeira, o fator (1/q + 1 + q) se cancela e sobra a = −6/−3 = 2 — ou seja, a raiz do meio da PG é 2, e de fato p(2) = 8 + 12 − 12 + k = 8 + k. O produto das raízes é a³ = 8 e, por Girard, vale −k. Logo k = −8. Escrever as raízes como a, aq, aq² em vez de a/q, a, aq faz o cancelamento não acontecer e a questão vira um sistema desnecessário."
   }
  ],
- "fisica-termologia": [
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-01",
-   "texto_apoio": "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
-   "enunciado": "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
-   "alternativas": {
-    "a": "intensificação da atividade das manchas solares ao longo do último século, que teria elevado a radiação recebida pela Terra",
-    "b": "ao alargamento do buraco na camada de ozônio sobre as regiões polares, que permitiria a entrada de uma parcela maior da radiação solar e o consequente aquecimento gradual da superfície do planeta",
-    "c": "diminuição da radiação solar incidente sobre a Terra, o que reduziria o aquecimento da superfície terrestre",
-    "d": "elevação da concentração de gases como o dióxido de carbono na atmosfera, decorrente sobretudo da queima de combustíveis fósseis",
-    "e": "redução da atividade vulcânica no planeta, o que diminuiria a emissão natural de aerossóis que resfriam a atmosfera"
-   },
-   "resposta": "d",
-   "explicacao": "A queima de combustíveis fósseis e o desmatamento elevam a concentração de CO2 e outros gases que retêm calor, e é essa retenção adicional que intensifica o efeito estufa. Em (b) está a confusão mais difundida sobre clima: buraco de ozônio e aquecimento global são problemas distintos — um deixa passar radiação ultravioleta, o outro impede a saída de radiação infravermelha. Em (a), a variação solar não explica a curva recente. Em (c) e (e), menos radiação e menos vulcanismo não aqueceriam o planeta.",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-10",
-   "texto_apoio": "Fenômenos como o aquecimento de uma xícara de café e o resfriamento de uma bebida gelada em ambiente quente ilustram princípios básicos de transferência de calor.",
-   "enunciado": "De acordo com os princípios da termodinâmica, o calor flui espontaneamente",
-   "alternativas": {
-    "a": "apenas entre corpos que já se encontram à mesma temperatura, condição em que a troca térmica passa a ocorrer nos dois sentidos com igual intensidade",
-    "b": "de corpos com menor temperatura para corpos com maior temperatura, desde que os dois estejam em contato direto e isolados do ambiente ao redor",
-    "c": "de corpos com maior temperatura para corpos com menor temperatura, até que o equilíbrio térmico seja atingido",
-    "d": "de corpos com maior capacidade térmica para os de menor capacidade térmica",
-    "e": "de forma proporcional à massa de cada corpo, de modo que o mais pesado cede calor ao mais leve até que ambos igualem sua energia interna"
-   },
-   "resposta": "c",
-   "explicacao": "O calor flui espontaneamente do corpo mais quente para o mais frio, até que os dois atinjam o equilíbrio térmico — é o que a segunda lei da termodinâmica estabelece sobre o sentido dessa troca. Dizer que o fluxo ocorre entre corpos de mesma temperatura descreve justamente a situação de equilíbrio, em que não há fluxo líquido. Inverter o sentido, do mais frio para o mais quente, é possível apenas com trabalho externo, como no refrigerador, e não de forma espontânea. Fazer o fluxo depender da massa confunde temperatura com energia interna: um corpo pequeno e muito quente cede calor a um grande e frio. E a capacidade térmica determina quanto a temperatura varia, não para que lado o calor vai.",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-39",
-   "texto_apoio": "A obesidade é definida, do ponto de vista clínico, como o acúmulo excessivo de gordura corporal, associado a diversos riscos à saúde.",
-   "enunciado": "Do ponto de vista fisiológico básico, a obesidade está relacionada, principalmente, a um",
-   "alternativas": {
-    "a": "aumento do consumo de água associado à retenção de líquidos, independentemente do total de calorias ingeridas",
-    "b": "deficiência de vitaminas lipossolúveis, o que comprometeria o metabolismo das gorduras",
-    "c": "excesso exclusivo de proteínas na dieta, independentemente do total calórico consumido, fator isolado e insuficiente",
-    "d": "balanço energético positivo prolongado, em que a ingestão calórica excede de forma sustentada o gasto do organismo",
-    "e": "balanço energético neutro, mantido ao longo do tempo, em que a ingestão calórica tende a se igualar ao gasto energético do organismo"
-   },
-   "resposta": "d",
-   "explicacao": "O acúmulo de gordura corresponde a energia ingerida que não foi gasta, sustentada ao longo do tempo — sobre o que atuam fatores genéticos, metabólicos, comportamentais e ambientais. Em (e) está o distrator mais bem construído, porque usa o vocabulário certo e erra o sinal: balanço neutro é exatamente a condição de peso estável, e não de ganho. Em (a) e (b), retenção de água e deficiência vitamínica não produzem acúmulo de tecido adiposo. Em (c), o que pesa é o total calórico, não o macronutriente isolado.",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-59",
-   "texto_apoio": "Em grandes cidades, é comum observar que a temperatura em áreas centrais e densamente construídas costuma ser mais elevada do que em regiões periféricas ou rurais próximas.",
-   "enunciado": "O fenômeno conhecido como \"ilha de calor urbana\" está relacionado, entre outros fatores,",
-   "alternativas": {
-    "a": "principalmente ao calor liberado por veículos e por aparelhos de ar-condicionado, cuja soma responderia pela quase totalidade da diferença de temperatura entre o centro e a periferia",
-    "b": "à maior concentração de superfícies pavimentadas, como asfalto e concreto, que retêm e reemitem mais calor, somada à menor presença de vegetação nas áreas centrais",
-    "c": "à substituição do concreto aparente por revestimentos claros e refletivos nas fachadas dos edifícios centrais, que devolvem à atmosfera a radiação recebida",
-    "d": "à maior presença de áreas verdes e de corpos d'água nas regiões centrais, que elevariam a umidade do ar e, com ela, a temperatura registrada nas estações",
-    "e": "à maior altitude média das áreas centrais em relação à periferia"
-   },
-   "resposta": "b",
-   "explicacao": "A ilha de calor urbana resulta da concentração de superfícies pavimentadas — asfalto e concreto — que absorvem e reemitem calor, somada à menor presença de vegetação no centro. O calor liberado por veículos e ar-condicionado é o distrator mais forte porque de fato contribui, e é fonte secundária diante da capacidade térmica do pavimento e da falta de sombra e evapotranspiração. O revestimento claro e refletivo engana pelo motivo oposto: ele existe, é recomendado, e reduz a ilha de calor em vez de causá-la. Atribuir o fenômeno a mais áreas verdes e água no centro inverte a distribuição real dessas superfícies na cidade. E explicá-lo pela altitude troca um fator geográfico por um fator de cobertura do solo: cidades planas apresentam o mesmo efeito.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-81",
-   "texto_apoio": "Em um dia frio, tocar em uma superfície de metal costuma parecer mais gelado do que tocar em uma superfície de madeira à mesma temperatura ambiente.",
-   "enunciado": "Essa sensação diferente de temperatura entre metal e madeira, mesmo estando ambos à mesma temperatura ambiente, está relacionada, principalmente,",
-   "alternativas": {
-    "a": "à rugosidade da superfície tocada, que determina a área efetiva de contato com a pele e, com ela, a intensidade da sensação térmica percebida na ponta dos dedos",
-    "b": "à cor da superfície tocada, mais escura no metal do que na madeira, o que aumenta a quantidade de calor que ele irradia em direção à mão",
-    "c": "ao fato de o metal, por ser melhor condutor térmico do que a madeira, retirar calor da mão mais rapidamente, o que intensifica a sensação de frio",
-    "d": "à diferença de calor específico entre os materiais, que altera a temperatura de cada um",
-    "e": "ao fato de o metal estar, de fato, a uma temperatura real mais baixa do que a madeira, mesmo estando ambos no mesmo ambiente há horas"
-   },
-   "resposta": "c",
-   "explicacao": "O metal parece mais frio porque conduz calor melhor que a madeira e retira calor da mão mais rapidamente, e é essa taxa de retirada, não a temperatura do objeto, que a pele registra. A rugosidade é o distrator mais defensável, porque a área efetiva de contato influencia de fato a sensação ao toque — é fator secundário diante da diferença de condutividade entre os dois materiais. A cor governa a troca por radiação, que é irrelevante no contato direto. O calor específico determina quanto a temperatura de cada material varia ao receber calor, e não a velocidade com que ele o retira da pele. E supor que o metal esteja realmente mais frio contraria a premissa do enunciado, segundo a qual ambos estão à temperatura do ambiente.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-97",
-   "texto_apoio": "Em regiões com atividade vulcânica ou geotérmica, como a Islândia, é possível aproveitar o calor proveniente do interior da Terra para gerar eletricidade.",
-   "enunciado": "A energia geotérmica é obtida, essencialmente, a partir do aproveitamento",
-   "alternativas": {
-    "a": "do calor natural armazenado no interior da Terra, que aquece água ou vapor subterrâneo, usados para movimentar turbinas e gerar eletricidade ou para aquecimento direto",
-    "b": "da diferença de temperatura entre as camadas superficiais e profundas dos oceanos",
-    "c": "do calor liberado pelo atrito entre as placas tectônicas em regiões de contato, energia que seria captada por trocadores instalados a poucas centenas de metros de profundidade no terreno",
-    "d": "exclusivamente da energia liberada por reações de fissão nuclear no núcleo terrestre, processo que não corresponde ao decaimento radioativo natural que origina o calor geotérmico",
-    "e": "da luz solar concentrada por espelhos posicionados sobre reservatórios subterrâneos de água, tecnologia que caracteriza a energia solar concentrada, não a geotérmica"
-   },
-   "resposta": "a",
-   "explicacao": "A energia geotérmica é obtida a partir do aproveitamento do calor natural armazenado no interior da Terra, que pode aquecer reservatórios subterrâneos de água ou vapor; esse calor pode ser utilizado diretamente para aquecimento ou para movimentar turbinas que geram eletricidade, sendo especialmente viável em regiões de intensa atividade geológica, como zonas vulcânicas.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-98",
-   "texto_apoio": "Estudos de saúde pública frequentemente destacam que fatores sociais e econômicos influenciam diretamente os indicadores de saúde de uma população, além de fatores estritamente biológicos.",
-   "enunciado": "O conceito de \"determinantes sociais da saúde\", utilizado por organismos como a Organização Mundial da Saúde, refere-se",
-   "alternativas": {
-    "a": "ao acesso individual a planos de saúde privados e à capacidade de cada pessoa de custear os tratamentos de que venha a necessitar ao longo da vida",
-    "b": "aos fatores ambientais e climáticos de cada região, como temperatura, umidade e qualidade do ar, que condicionariam por si sós a incidência das principais doenças e a expectativa de vida da população local",
-    "c": "à disponibilidade de tecnologia médica de alta complexidade em cada região",
-    "d": "aos fatores genéticos e biológicos herdados que predispõem o indivíduo a determinadas doenças, identificáveis por exame antes mesmo do aparecimento de sintomas",
-    "e": "às condições sociais, econômicas e ambientais em que as pessoas nascem, vivem, trabalham e envelhecem, que influenciam seus níveis de saúde e sua vulnerabilidade a doenças"
-   },
-   "resposta": "e",
-   "explicacao": "Determinantes sociais da saúde são as condições sociais, econômicas e ambientais em que as pessoas nascem, vivem, trabalham e envelhecem, e que moldam seus níveis de saúde e sua vulnerabilidade a doenças. Os fatores ambientais e climáticos são o distrator mais forte porque integram esse conjunto: o erro está em tomá-los como explicação suficiente, o que deixaria de fora renda, escolaridade, moradia e trabalho. Reduzir o conceito ao acesso a plano privado troca determinante social por capacidade de pagamento individual. Os fatores genéticos operam em outro plano, o biológico, e é precisamente a ele que o conceito se opõe. E a disponibilidade de tecnologia médica de alta complexidade é uma característica do sistema de serviços, não das condições de vida.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-102",
-   "texto_apoio": "Uma cooperativa triturou juntos dois polímeros de densidades diferentes e precisa separá-los antes de encaminhá-los a processos de reciclagem distintos.",
-   "enunciado": "O procedimento adequado consiste em preparar uma solução de ____________ apropriada, permitindo separar os materiais por ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
-   "alternativas": {
-    "a": "densidade - filtração simples",
-    "b": "temperatura de fusão - flotação",
-    "c": "densidade - flotação",
-    "d": "acidez - dissolução seletiva",
-    "e": "densidade - destilação"
-   },
-   "resposta": "c",
-   "explicacao": "Ajustando a densidade da solução entre as densidades dos dois polímeros, um flutua e o outro afunda. Três opções acertam \"densidade\" e erram o método — destilação separa líquidos por ebulição e filtração separa sólido de líquido, nenhuma das duas distingue dois sólidos triturados.",
-   "formato": "lacunas",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-109",
-   "texto_apoio": "Nuvens de grande desenvolvimento vertical formam-se quando ar quente e úmido próximo à superfície sobe na atmosfera.",
-   "enunciado": "O mecanismo de transporte de calor descrito é a ____________ , e ele ocorre porque o ar aquecido apresenta ____________ em relação ao ar mais frio ao redor.\nAs lacunas do texto são preenchidas, respectivamente, por:",
-   "alternativas": {
-    "a": "irradiação - menor densidade",
-    "b": "convecção - maior calor específico",
-    "c": "convecção - menor densidade",
-    "d": "convecção - maior densidade",
-    "e": "condução - menor densidade"
-   },
-   "resposta": "c",
-   "explicacao": "Ar aquecido se expande, fica menos denso e sobe: é convecção. Duas opções acertam \"convecção\" e erram a causa — se o ar quente fosse mais denso, ele desceria, e não haveria nuvem de desenvolvimento vertical.",
-   "formato": "lacunas",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-110",
-   "texto_apoio": "Determinada massa de chumbo sólido recebe calor de uma fonte de potência constante. A temperatura sobe até certo valor e permanece constante enquanto o material passa ao estado líquido.",
-   "enunciado": "Durante o patamar, o calor recebido é chamado de ____________ , e a energia fornecida está sendo usada para ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
-   "alternativas": {
-    "a": "calor específico - reduzir a massa do material",
-    "b": "calor latente - romper as ligações que mantêm a estrutura do sólido",
-    "c": "calor latente - aumentar a energia cinética média das partículas",
-    "d": "calor latente - elevar a temperatura do material",
-    "e": "calor sensível - romper as ligações que mantêm a estrutura do sólido"
-   },
-   "resposta": "b",
-   "explicacao": "No patamar a temperatura não varia, então a energia não está aumentando a agitação média: está desmontando a estrutura cristalina. Duas opções acertam \"calor latente\" e oferecem justificativas que descreveriam calor sensível — que é o que ocorre fora do patamar.",
-   "formato": "lacunas",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-148",
-   "banca": "fgv",
-   "sessao": "fgv-unificado-2023.1",
-   "formato": "direta",
-   "visual": {
-    "tipo": "Esquema",
-    "arquivo": "assets/provas/fgv-2023.1-cn-q16.png",
-    "descricao": "Desenho do termoscópio de Galileu: uma esfera oca de vidro no alto, ligada a um tubo fino vertical cuja extremidade aberta mergulha num recipiente com água colorida. O líquido penetrou no tubo até certa altura, indicada pela coluna colorida. Ao lado, uma nota: o ar no termoscópio deve ser considerado um gás ideal."
-   },
-   "enunciado": "O termoscópio de Galileu, um dos primeiros instrumentos usados para indicar variações de temperatura, é formado por uma esfera oca de vidro ligada a um fino tubo, também de vidro, aberto em sua extremidade. O lado aberto do tubo está mergulhado em um recipiente contendo água com corante e pode-se observar que o líquido penetra no vidro até uma certa altura, como ilustra a figura. O sistema está à temperatura ambiente de 23 °C. Nestas condições, a esfera preenchida com ar é borrifada com álcool e a temperatura do ar dentro do termoscópio",
-   "alternativas": {
-    "a": "aumenta, e a água sobe no tubo.",
-    "b": "aumenta, e a água desce no tubo.",
-    "c": "diminui, e a água desce no tubo.",
-    "d": "diminui, e a água sobe no tubo.",
-    "e": "não varia, e a água permanece na mesma altura."
-   },
-   "resposta": "d",
-   "explicacao": "O álcool evapora rapidamente, e a vaporização é endotérmica: para mudar de estado ele retira calor do vidro e, por consequência, do ar aprisionado dentro da esfera. A temperatura do gás cai. Como o volume da esfera é praticamente fixo, a lei dos gases diz que a pressão interna cai junto, e a pressão atmosférica, agora maior, empurra a água para cima no tubo. O erro comum é imaginar que borrifar um líquido volátil aquece por atrito ou por contato, invertendo o sentido das duas mudanças.",
-   "origem": "direito",
-   "frenteOrigem": "ciencias-natureza"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-149",
-   "banca": "fgv",
-   "sessao": "fgv-unificado-2023.1",
-   "formato": "escada",
-   "visual": {
-    "tipo": "Gráfico",
-    "arquivo": "assets/provas/fgv-2023.1-cn-q17.png",
-    "descricao": "Diagrama pressão versus volume do ciclo de Stirling, com quatro estados numerados. Duas curvas descendentes ligam 3 a 4 e 2 a 1, ambas em forma de hipérbole, que são as isotérmicas. Dois segmentos verticais fecham o ciclo: um sobe de 2 a 3 e outro desce de 4 a 1, ambos a volume constante."
-   },
-   "enunciado": "O motor de Stirling é um motor de combustão externa, cujo ciclo possui o mesmo princípio do ciclo de Carnot. Um esquema do diagrama pressão (P) x volume (V) para o ciclo termodinâmico de Stirling, com gás suposto ideal, está apresentado na figura, sendo as transformações 1→2 e 3→4, isotérmicas.\nConsidere as seguintes afirmações:\nI. Na compressão isotérmica, o gás perde calor.\nII. Na transformação isométrica 2→3, não há realização de trabalho e o gás recebe calor.\nIII. Na expansão isotérmica, o gás realiza trabalho e recebe calor.\nIV. Na transformação isométrica 4→1, o gás realiza trabalho e perde calor.\nEstão corretas apenas as afirmações:",
-   "alternativas": {
-    "a": "II e III.",
-    "b": "I e IV.",
-    "c": "I, III e IV.",
-    "d": "I, II e III.",
-    "e": "I, III."
-   },
-   "resposta": "d",
-   "explicacao": "Numa isotérmica de gás ideal a energia interna não muda, então o calor trocado iguala o trabalho: comprimindo, o gás recebe trabalho e perde calor (I correta); expandindo, realiza trabalho e recebe calor (III correta). Numa isométrica o volume é constante, logo o trabalho é nulo — e é justamente aí que IV erra, ao afirmar que o gás realiza trabalho em 4→1. A II está certa: sem trabalho, todo o calor recebido em 2→3 vai para a energia interna, e a pressão sobe.",
-   "origem": "direito",
-   "frenteOrigem": "ciencias-natureza"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "dir-ciencias-natureza-159",
-   "banca": "fgv",
-   "sessao": "fgv-unificado-2023.1",
-   "formato": "direta",
-   "texto_apoio": "Estudos sobre meio ambiente, em especial sobre mudanças climáticas, indicam que se o planeta Terra não tivesse atmosfera, sua temperatura média global seria 33 °C menor do que é hoje, resultado que mostra a importância do efeito estufa para a vida no nosso planeta. No entanto, o aumento da concentração de gases do efeito estufa, como CO₂, CH₄ e O₃, está acarretando o aumento da potência da radiação eletromagnética emitida pela atmosfera e, consequentemente, da temperatura média da superfície da Terra. Esses estudos também mostram que a taxa de absorção e emissão de radiação pela atmosfera varia com a sua frequência.",
-   "enunciado": "A partir dessas informações, pode-se afirmar que os gases do efeito estufa emitem radiação eletromagnética",
-   "alternativas": {
-    "a": "de forma intensa na faixa do infravermelho e a absorvem.",
-    "b": "de forma intensa na faixa do ultravioleta e a absorvem.",
-    "c": "de forma intensa na faixa do visível e a absorvem.",
-    "d": "na faixa do infravermelho, mas não a absorvem.",
-    "e": "na faixa do ultravioleta, mas não a absorvem."
-   },
-   "resposta": "a",
-   "explicacao": "A Terra, aquecida pelo Sol, reemite energia como radiação infravermelha, e é essa faixa que os gases estufa absorvem. Pela lei de Kirchhoff da radiação, um bom absorvedor numa dada frequência é também um bom EMISSOR naquela mesma frequência — daí a atmosfera reemitir infravermelho de volta para a superfície, que é o mecanismo do efeito estufa. As alternativas d e e quebram exatamente essa simetria entre absorver e emitir; ultravioleta e visível são as faixas que atravessam a atmosfera, não as que ela retém.",
-   "origem": "direito",
-   "frenteOrigem": "ciencias-natureza"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-11",
-   "texto_apoio": "Uma barra metálica de 2,0 m de comprimento a 20 °C é aquecida até 120 °C. O coeficiente de dilatação linear do material é 2,0 × 10⁻⁵ °C⁻¹.",
-   "enunciado": "A variação no comprimento da barra é de:",
-   "alternativas": {
-    "a": "0,04 mm",
-    "b": "0,40 mm",
-    "c": "40 mm",
-    "d": "4,0 cm",
-    "e": "4,0 mm"
-   },
-   "resposta": "e",
-   "explicacao": "ΔL = L₀ x α x ΔT = 2,0 x 2,0 x 10⁻⁵ x 100 = 4,0 x 10⁻³ m, ou 4,0 mm. A alternativa (c) resulta de usar a temperatura final em vez da variação, e (b), de errar uma casa decimal na conversão de unidades.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-12",
-   "texto_apoio": "Um bloco de gelo de 100 g a 0 °C recebe calor até se fundir completamente, permanecendo a 0 °C. O calor latente de fusão do gelo é 80 cal/g.",
-   "enunciado": "A quantidade de calor absorvida e a razão de a temperatura não variar durante o processo são:",
-   "alternativas": {
-    "a": "16.000 cal, e a constância da temperatura decorre da compensação exata entre o calor recebido e o calor perdido para o ambiente circundante",
-    "b": "800 cal, e a temperatura permanece constante porque a massa de gelo é pequena demais para registrar variação nos instrumentos usuais de medição",
-    "c": "8.000 cal, e a temperatura só voltaria a subir se a pressão sobre a amostra fosse simultaneamente reduzida durante a fusão do material",
-    "d": "80 cal, e a energia fornecida se distribui igualmente entre a elevação da temperatura e a alteração do estado físico da amostra considerada",
-    "e": "8.000 cal, e a energia é usada para romper as ligações entre as moléculas na mudança de estado, e não para elevar a energia cinética média"
-   },
-   "resposta": "e",
-   "explicacao": "Q = m x L = 100 x 80 = 8.000 cal. Durante a mudança de estado toda a energia é usada para vencer as interações que mantêm a estrutura do sólido, e não para aumentar a energia cinética média das partículas — que é o que a temperatura mede.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-22",
-   "texto_apoio": "Um gás ideal sofre uma transformação isotérmica em que seu volume é reduzido à metade. O sistema troca calor com o ambiente durante o processo.",
-   "enunciado": "Nessa transformação, a variação da energia interna do gás e o sinal do calor trocado são, respectivamente:",
-   "alternativas": {
-    "a": "nula, e o gás recebe calor do ambiente, já que o trabalho realizado sobre ele precisa ser compensado por um fluxo de energia térmica",
-    "b": "positiva, e o gás recebe calor do ambiente, uma vez que a compressão eleva a temperatura do sistema e exige aporte adicional de energia",
-    "c": "negativa, e o gás cede calor ao ambiente, condição decorrente da redução simultânea do volume e da temperatura do gás considerado",
-    "d": "nula, e o gás cede calor ao ambiente, pois num gás ideal a energia interna depende só da temperatura, mantida constante no processo",
-    "e": "positiva, e não há troca de calor, situação em que toda a energia do trabalho realizado permanece armazenada no interior do sistema"
-   },
-   "resposta": "d",
-   "explicacao": "Num gás ideal a energia interna depende só da temperatura; sendo isotérmica, a variação é nula. Pela primeira lei, o calor iguala o trabalho realizado pelo gás. Como o gás é comprimido, o trabalho realizado por ele é negativo, e o calor também: o gás cede energia ao ambiente.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-23",
-   "texto_apoio": "Uma máquina térmica opera entre uma fonte quente a 600 K e uma fonte fria a 300 K. Um engenheiro afirma que conseguiu construir uma máquina com rendimento de 60% operando entre essas mesmas temperaturas.",
-   "enunciado": "A afirmação do engenheiro é:",
-   "alternativas": {
-    "a": "impossível, porque nenhuma máquina térmica consegue ultrapassar o rendimento de 40% em qualquer condição de operação já registrada",
-    "b": "possível, desde que a máquina utilize um fluido de trabalho com calor específico elevado e opere em ciclos de duração bastante curta",
-    "c": "possível, uma vez que o rendimento de uma máquina térmica depende exclusivamente da qualidade construtiva dos componentes empregados",
-    "d": "impossível, porque o rendimento máximo teórico entre essas temperaturas é de 50%, dado por 1 menos a razão entre os 300 K e os 600 K",
-    "e": "possível apenas se a máquina operar em ciclo reversível, condição em que o rendimento pode superar o limite previsto para o ciclo de Carnot"
-   },
-   "resposta": "d",
-   "explicacao": "O rendimento máximo é o do ciclo de Carnot: 1 − (T fria ÷ T quente) = 1 − (300 ÷ 600) = 0,50, ou 50%. Nenhuma máquina real supera esse limite, que decorre da segunda lei da termodinâmica. A alternativa (e) inverte o papel do ciclo reversível, que estabelece o teto e não o ultrapassa.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-36",
-   "texto_apoio": "Dois corpos de massas diferentes são colocados em contato térmico dentro de um recipiente isolado. O corpo A está a 80 °C e o corpo B, a 20 °C. Após algum tempo, os dois atingem a mesma temperatura.",
-   "enunciado": "A temperatura final de equilíbrio:",
-   "alternativas": {
-    "a": "depende das massas e dos calores específicos dos dois corpos, resultando numa média ponderada pelas capacidades térmicas de cada um",
-    "b": "é sempre a média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius em qualquer combinação de massas considerada",
-    "c": "é sempre mais próxima da temperatura do corpo mais quente, uma vez que ele possui maior quantidade de energia térmica acumulada no início",
-    "d": "depende apenas da diferença entre as temperaturas iniciais, sem qualquer influência das características materiais de cada um dos corpos",
-    "e": "corresponde à temperatura do corpo de maior massa, que impõe sua condição térmica ao corpo menor durante o processo de equilíbrio"
-   },
-   "resposta": "a",
-   "explicacao": "O calor cedido por um iguala o recebido pelo outro, e cada parcela é o produto de massa, calor específico e variação de temperatura. A temperatura final é uma média ponderada por essas capacidades térmicas, e só coincide com a média aritmética quando os produtos massa vezes calor específico são iguais.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-37",
-   "texto_apoio": "Uma panela metálica com cabo de baquelite é usada para ferver água em um fogão a gás. Observa-se que o fundo da panela aquece rapidamente, a água aquece por movimentos ascendentes e descendentes, e o cabo permanece frio ao toque.",
-   "enunciado": "Os três processos de transmissão de calor envolvidos na situação descrita são, respectivamente:",
-   "alternativas": {
-    "a": "radiação em todos os três casos, uma vez que a energia sempre se propaga por ondas eletromagnéticas independentemente do meio material",
-    "b": "radiação no metal, condução na água e convecção ao longo do cabo, que dissipa calor para o ambiente por meio de correntes de ar quente",
-    "c": "convecção no metal, radiação na água e condução no cabo, sequência determinada pelo estado físico de cada um dos materiais envolvidos",
-    "d": "condução no metal, radiação na água e convecção no cabo, arranjo que decorre das diferentes temperaturas atingidas em cada região da panela",
-    "e": "condução no metal, convecção na água e baixa condutividade do cabo"
-   },
-   "resposta": "e",
-   "explicacao": "Metais conduzem bem porque os elétrons livres transportam energia. Na água, o aquecimento no fundo reduz a densidade local e cria correntes ascendentes: convecção. A baquelite é isolante e transmite mal por condução, o que mantém o cabo frio — as três situações do enunciado.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-47",
-   "texto_apoio": "Um recipiente contém água e um bloco de gelo flutuando. O conjunto é observado até que todo o gelo derreta, sem trocas de calor com o exterior além das necessárias à fusão.",
-   "enunciado": "Após a fusão completa do gelo, o nível da água no recipiente:",
-   "alternativas": {
-    "a": "sobe consideravelmente, uma vez que todo o volume do bloco de gelo, inclusive a porção emersa, se converte em água líquida ao final",
-    "b": "sobe, porque a água líquida ocupa volume maior que o gelo de mesma massa em razão da menor densidade apresentada pelo estado sólido",
-    "c": "desce, porque parte da água evapora durante o processo de fusão e escapa do recipiente na forma de vapor para o ambiente externo",
-    "d": "permanece o mesmo, porque o volume submerso do gelo já correspondia ao volume da água que ele originaria",
-    "e": "desce, porque a temperatura mais baixa da água resultante provoca contração do volume total contido no interior do recipiente utilizado"
-   },
-   "resposta": "d",
-   "explicacao": "O gelo flutua deslocando um volume de água cujo peso iguala o seu. Ao derreter, ele produz exatamente essa massa de água, que ocupa justamente o volume antes deslocado. O nível não muda — resultado que contraria a intuição de (a), e que explica por que o degelo marinho não eleva o nível do mar.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-55",
-   "texto_apoio": "Um termômetro de mercúrio registra 40 °C. Deseja-se converter essa leitura para as escalas Fahrenheit e Kelvin.",
-   "enunciado": "Os valores correspondentes nas escalas Fahrenheit e Kelvin são, respectivamente:",
-   "alternativas": {
-    "a": "72 °F e 313 K",
-    "b": "104 °F e 313 K",
-    "c": "104 °F e 233 K",
-    "d": "40 °F e 273 K",
-    "e": "313 °F e 104 K"
-   },
-   "resposta": "b",
-   "explicacao": "Para Fahrenheit: (40 x 9 ÷ 5) + 32 = 72 + 32 = 104 °F. Para Kelvin: 40 + 273 = 313 K. A alternativa (a) esquece a soma de 32, que é a diferença entre os zeros das duas escalas — omissão que produz um valor sistematicamente baixo.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-56",
-   "texto_apoio": "A água apresenta comportamento anômalo entre 0 °C e 4 °C: ao ser aquecida nesse intervalo, seu volume diminui em vez de aumentar. Acima de 4 °C, ela se comporta como a maioria das substâncias.",
-   "enunciado": "Uma consequência ecológica direta desse comportamento é que:",
-   "alternativas": {
-    "a": "os lagos congelam do fundo para a superfície, o que elimina qualquer possibilidade de sobrevivência da fauna aquática durante o inverno rigoroso",
-    "b": "lagos congelam de cima para baixo, porque a água a 4 °C é a mais densa e fica no fundo, e a camada de gelo isola a água líquida abaixo",
-    "c": "a temperatura da água de um lago permanece uniforme em toda a sua profundidade ao longo de todas as estações do ano na mesma região",
-    "d": "a evaporação da água aumenta durante o inverno, o que reduz progressivamente o volume total dos corpos hídricos das regiões temperadas",
-    "e": "os organismos aquáticos precisam migrar anualmente para regiões mais quentes, já que nenhuma camada líquida permanece disponível no inverno"
-   },
-   "resposta": "b",
-   "explicacao": "A água a 4 °C é a mais densa e se acomoda no fundo; a mais fria, menos densa, sobe e congela na superfície. O gelo formado flutua e isola termicamente a coluna abaixo, que permanece líquida — é isso que permite a vida aquática atravessar o inverno em lagos congelados.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-63",
-   "visual": {
-    "tipo": "Gráfico",
-    "arquivo": "assets/med/fis-mudanca-de-estado.svg",
-    "descricao": "A temperatura de uma amostra de 200 g de uma substância em função do calor recebido. A curva sobe até 0 °C, permanece horizontal por um trecho, volta a subir até 100 °C, permanece horizontal por um trecho bem mais longo e volta a subir."
-   },
-   "enunciado": "Os dois trechos horizontais correspondem a ______, e o segundo é mais longo porque ______. As lacunas são preenchidas por:",
-   "alternativas": {
-    "a": "mudanças de estado – o calor latente de vaporização é maior que o de fusão",
-    "b": "erros de leitura do instrumento – a precisão do termômetro diminui em temperaturas mais elevadas do que a faixa de calibração adotada",
-    "c": "intervalos de resfriamento – a amostra perde calor para o ambiente com mais intensidade quando sua temperatura se aproxima de cem graus",
-    "d": "mudanças de estado – a massa da amostra aumenta durante a segunda transição em razão da absorção de vapor de água do ar circundante",
-    "e": "equilíbrios térmicos com o ambiente – a temperatura ambiente coincide com os dois patamares observados no gráfico construído no experimento"
-   },
-   "resposta": "a",
-   "explicacao": "Durante a mudança de estado a temperatura não varia: toda a energia vai para reorganizar as ligações. O patamar da vaporização é mais longo porque o calor latente correspondente é muito maior — separar completamente as moléculas custa bem mais que apenas permitir que deslizem umas sobre as outras.",
-   "formato": "lacunas",
-   "banca": "unesp",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-64",
-   "texto_apoio": "Um refrigerador retira calor do interior e o rejeita ao ambiente da cozinha, consumindo energia elétrica. Um estudante propõe resfriar a cozinha inteira deixando a porta da geladeira aberta.",
-   "enunciado": "A proposta não funciona porque o refrigerador:",
-   "alternativas": {
-    "a": "rejeita ao ambiente mais calor do que retira, pela energia elétrica que consome",
-    "b": "retira calor apenas do ar contido no interior do compartimento fechado, e a abertura da porta interrompe completamente o funcionamento do sistema",
-    "c": "produz frio, que se dispersaria rapidamente pela cozinha e seria neutralizado pelo calor vindo das paredes e do teto do ambiente considerado",
-    "d": "consome energia elétrica que se converte integralmente em trabalho mecânico, sem qualquer parcela dissipada na forma de calor no ambiente",
-    "e": "funciona apenas quando a diferença de temperatura entre o interior e o exterior supera determinado valor mínimo estabelecido pelo fabricante"
-   },
-   "resposta": "a",
-   "explicacao": "O refrigerador transfere calor do interior para o ambiente e ainda dissipa nele a energia elétrica consumida. O balanço líquido é de aquecimento da cozinha. A alternativa (c) trata o frio como substância que se dispersa — frio é ausência de calor, e não algo que se produz.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-74",
-   "texto_apoio": "Uma placa metálica com um furo circular no centro é aquecida uniformemente. Um estudante prevê que o furo diminuirá de diâmetro, porque o metal ao redor se expandirá para dentro.",
-   "enunciado": "A previsão do estudante está incorreta, porque ao ser aquecida a placa faz o furo:",
-   "alternativas": {
-    "a": "assumir forma elíptica, em razão da diferença entre os coeficientes de dilatação nas duas direções principais da placa metálica aquecida",
-    "b": "manter exatamente o mesmo diâmetro, uma vez que o vazio não é composto por matéria capaz de sofrer dilatação térmica durante o aquecimento",
-    "c": "diminuir de diâmetro em proporção menor que a prevista, mas ainda assim na direção indicada pelo raciocínio apresentado pelo estudante",
-    "d": "aumentar de diâmetro, como se ele fosse feito do mesmo material que a placa, uma vez que todas as dimensões crescem na mesma proporção",
-    "e": "aumentar de diâmetro apenas se a placa for aquecida por uma de suas faces, e diminuir se o aquecimento for aplicado de modo uniforme"
-   },
-   "resposta": "d",
-   "explicacao": "Na dilatação térmica todas as dimensões crescem na mesma proporção, inclusive as de cavidades: o furo se comporta como se fosse feito do material da placa. É o princípio usado para encaixar peças por interferência — aquece-se o anel externo para que seu orifício aumente.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-87",
-   "texto_apoio": "Um recipiente fechado contém gás ideal a temperatura constante. O volume é reduzido a um terço do valor inicial por meio de um êmbolo móvel.",
-   "enunciado": "A pressão final do gás, comparada à inicial, é:",
-   "alternativas": {
-    "a": "três vezes menor",
-    "b": "três vezes maior",
-    "c": "nove vezes maior",
-    "d": "a mesma",
-    "e": "um terço maior"
-   },
-   "resposta": "b",
-   "explicacao": "Numa transformação isotérmica de gás ideal o produto pressão-volume é constante. Reduzindo o volume a um terço, a pressão triplica. A alternativa (a) inverte a relação, tratando pressão e volume como diretamente proporcionais em vez de inversamente.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-94",
-   "texto_apoio": "Um bloco de alumínio de 500 g a 20 °C recebe 4.500 J de calor. O calor específico do alumínio é 0,90 J·g⁻¹·°C⁻¹.",
-   "enunciado": "A temperatura final do bloco é de:",
-   "alternativas": {
-    "a": "30 °C",
-    "b": "10 °C",
-    "c": "50 °C",
-    "d": "120 °C",
-    "e": "25 °C"
-   },
-   "resposta": "a",
-   "explicacao": "A variação de temperatura é Q ÷ (m x c) = 4.500 ÷ (500 x 0,90) = 10 °C. Somando à inicial: 30 °C. A alternativa (b) apresenta apenas a variação, esquecendo de somá-la à temperatura de partida — omissão frequente nesse tipo de item.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-103",
-   "texto_apoio": "Um ciclo termodinâmico é representado num diagrama de pressão por volume como um retângulo percorrido no sentido horário. O gás realiza expansão isobárica, resfriamento isovolumétrico, compressão isobárica e aquecimento isovolumétrico.",
-   "enunciado": "Nesse ciclo, o trabalho líquido realizado pelo gás corresponde:",
-   "alternativas": {
-    "a": "à metade da área interna do retângulo, pois apenas as duas etapas isobáricas contribuem para o trabalho, e as isovolumétricas, por não realizarem trabalho, reduziriam esse total pela metade",
-    "b": "ao perímetro do retângulo traçado no diagrama, grandeza que reúne as contribuições de cada uma das quatro etapas do ciclo termodinâmico",
-    "c": "a zero, uma vez que o gás retorna ao estado inicial ao final do ciclo e todas as suas variáveis de estado recuperam os valores originais",
-    "d": "à área interna do retângulo, e é positivo por o ciclo ser percorrido no sentido horário",
-    "e": "à diferença entre as duas pressões envolvidas, multiplicada pela temperatura média registrada ao longo de todo o ciclo termodinâmico descrito"
-   },
-   "resposta": "d",
-   "explicacao": "O trabalho de cada etapa é a área sob seu trecho, e no ciclo fechado o saldo é a área interna. Percorrido no sentido horário, a expansão ocorre em pressão maior que a compressão, e o trabalho líquido é positivo: o sistema opera como máquina térmica. A energia interna, essa sim, volta ao valor inicial. A alternativa (a) acerta que as etapas isovolumétricas não contribuem com trabalho, mas erra ao supor que isso reduz a área total à metade: a área interna do retângulo já é o resultado líquido das duas etapas isobáricas, uma positiva e outra negativa, cuja diferença é exatamente essa área — não há divisão adicional a fazer.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-117",
-   "texto_apoio": "Um recipiente de vidro é preenchido completamente com um líquido e aquecido. Observa-se que parte do líquido transborda, embora o recipiente também tenha se dilatado.",
-   "enunciado": "O volume de líquido que transborda corresponde à dilatação:",
-   "alternativas": {
-    "a": "real do líquido, uma vez que o vidro do recipiente permanece com dimensões inalteradas durante todo o processo de aquecimento realizado",
-    "b": "aparente, que é a diferença entre a dilatação real do líquido e a do recipiente, os dois dilatando, mas o líquido em maior proporção",
-    "c": "real do recipiente, cujo aumento de volume expulsa o líquido contido em seu interior e provoca o transbordamento observado no experimento",
-    "d": "linear do líquido, grandeza que se aplica à variação de uma única dimensão do corpo submetido à elevação de temperatura descrita",
-    "e": "superficial do recipiente, correspondente ao aumento da área de suas paredes internas durante o aquecimento uniforme realizado no ensaio"
-   },
-   "resposta": "b",
-   "explicacao": "Os dois dilatam, mas o líquido em geral mais que o vidro. O que transborda é apenas o excedente: a dilatação aparente, igual à real do líquido menos a do frasco. Supor o recipiente indilatável, como em (a), superestima a dilatação real do líquido.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-123",
-   "texto_apoio": "Cidades litorâneas apresentam variação diária de temperatura menor que cidades do interior situadas na mesma latitude. A água tem calor específico cerca de cinco vezes maior que o da areia.",
-   "enunciado": "A menor amplitude térmica no litoral se explica porque a água:",
-   "alternativas": {
-    "a": "evapora continuamente e forma uma camada de vapor que isola termicamente a superfície do continente da radiação proveniente do Sol",
-    "b": "reflete a maior parte da radiação solar incidente, o que reduz o aquecimento total da região costeira ao longo das horas de insolação",
-    "c": "aquece mais rapidamente que a areia durante o dia e resfria também mais rápido durante a noite, o que equilibra a média térmica diária",
-    "d": "absorve e libera muito calor com pequena variação de temperatura, por ter calor específico alto, amortecendo as oscilações térmicas",
-    "e": "possui condutividade térmica muito baixa, o que impede qualquer transferência de calor entre o oceano e a atmosfera nas regiões costeiras"
-   },
-   "resposta": "d",
-   "explicacao": "Calor específico alto significa que muita energia entra ou sai com pouca mudança de temperatura. O mar funciona como reservatório térmico: absorve calor de dia sem esquentar muito e o devolve à noite sem esfriar muito, o que amortece a variação no ar da costa.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-124",
-   "texto_apoio": "Um bloco de 200 g de gelo a −10 °C é aquecido até virar água a 20 °C. Considere: calor específico do gelo 0,50 cal·g⁻¹·°C⁻¹, calor latente de fusão 80 cal/g, calor específico da água 1,0 cal·g⁻¹·°C⁻¹.",
-   "enunciado": "A quantidade total de calor necessária é de:",
-   "alternativas": {
-    "a": "16.000 cal",
-    "b": "21.000 cal",
-    "c": "5.000 cal",
-    "d": "20.000 cal",
-    "e": "1.000 cal"
-   },
-   "resposta": "b",
-   "explicacao": "São três etapas: aquecer o gelo, 200 x 0,50 x 10 = 1.000 cal; fundir, 200 x 80 = 16.000 cal; aquecer a água, 200 x 1,0 x 20 = 4.000 cal. O total é 21.000 cal. A alternativa (a) considera apenas a fusão, que domina o valor mas não é o processo inteiro.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-139",
-   "texto_apoio": "Um recipiente contém água em equilíbrio térmico a 25 °C. Um estudante afirma que, se colocar o recipiente em contato com um corpo mais frio, o calor poderá fluir espontaneamente do corpo frio para a água, desde que a diferença de temperatura seja pequena.",
-   "enunciado": "A afirmação contraria:",
-   "alternativas": {
-    "a": "o princípio da conservação da massa, uma vez que a transferência de calor implicaria variação na quantidade de matéria de cada um dos corpos",
-    "b": "a primeira lei da termodinâmica, que estabelece a conservação da energia em qualquer processo de troca térmica entre dois corpos em contato",
-    "c": "a lei zero da termodinâmica, que define o conceito de equilíbrio térmico entre corpos colocados em contato por tempo suficientemente longo",
-    "d": "a segunda lei da termodinâmica, segundo a qual o calor flui espontaneamente do corpo mais quente para o mais frio, nunca ao contrário",
-    "e": "a lei de resfriamento de Newton, que relaciona a taxa de perda de calor à diferença de temperatura entre o corpo e o ambiente"
-   },
-   "resposta": "d",
-   "explicacao": "A segunda lei estabelece o sentido dos processos espontâneos: calor flui do mais quente para o mais frio, e o inverso exige trabalho externo — é o que faz uma geladeira. A primeira lei sozinha não proíbe o fluxo invertido, já que ela apenas contabiliza a energia.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-145",
-   "texto_apoio": "Uma pessoa nota que uma barra de ferro parece mais fria ao toque que uma barra de madeira, mesmo estando as duas há horas no mesmo ambiente e, portanto, à mesma temperatura.",
-   "enunciado": "A sensação descrita se explica porque o ferro:",
-   "alternativas": {
-    "a": "possui calor específico muito maior, o que faz sua temperatura permanecer estável enquanto a da madeira acompanha as variações do ambiente",
-    "b": "apresenta temperatura efetivamente mais baixa que a da madeira, uma vez que materiais metálicos atingem equilíbrio térmico em valores inferiores",
-    "c": "conduz calor muito melhor e retira energia da mão mais rapidamente que a madeira, e a sensação térmica mede essa taxa de perda de calor",
-    "d": "reflete a radiação infravermelha emitida pela mão, o que impede a transferência de energia entre a pele e a superfície metálica tocada",
-    "e": "libera continuamente energia para o ambiente por radiação, o que mantém sua superfície abaixo da temperatura do ar que a circunda"
-   },
-   "resposta": "c",
-   "explicacao": "Ambas estão à mesma temperatura, o que descarta (b). A sensação térmica não mede temperatura, e sim a taxa com que a pele perde calor. O ferro, bom condutor, drena energia da mão muito mais rápido que a madeira, e por isso parece mais frio.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-169",
-   "texto_apoio": "Uma amostra de gás ideal ocupa 6,0 L sob pressão de 2,0 atm. O gás é comprimido lentamente dentro de um cilindro mergulhado em um banho térmico, que mantém sua temperatura constante, até ocupar 3,0 L.",
-   "enunciado": "A pressão final do gás é de:",
-   "alternativas": {
-    "a": "1,0 atm",
-    "b": "3,0 atm",
-    "c": "4,0 atm",
-    "d": "2,0 atm",
-    "e": "12 atm"
-   },
-   "resposta": "c",
-   "explicacao": "Na transformação isotérmica o produto pressão x volume permanece constante: 2,0 x 6,0 = P x 3,0, logo P = 4,0 atm. Reduzir o volume à metade dobra a pressão. A alternativa (a) inverte a razão, tratando a relação como se fosse direta em vez de inversa; (e) multiplica os dois valores em vez de dividir.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-170",
-   "texto_apoio": "Um gás ideal ocupa 3,0 L a 27 °C dentro de um cilindro fechado por um êmbolo que desliza sem atrito, o que mantém a pressão constante. O gás é então aquecido até 127 °C.",
-   "enunciado": "O volume final ocupado pelo gás é de:",
-   "alternativas": {
-    "a": "14,1 L",
-    "b": "2,3 L",
-    "c": "6,0 L",
-    "d": "4,0 L",
-    "e": "3,0 L"
-   },
-   "resposta": "d",
-   "explicacao": "Na transformação isobárica o volume é proporcional à temperatura absoluta, e a conversão para kelvin é obrigatória: 27 °C = 300 K e 127 °C = 400 K. Assim V = 3,0 x 400 ÷ 300 = 4,0 L. A alternativa (a) é a armadilha da questão: quem usa a temperatura em graus Celsius calcula 3,0 x 127 ÷ 27 e chega a 14,1 L. A alternativa (b) inverte a razão das temperaturas.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-171",
-   "texto_apoio": "Um recipiente rígido e hermeticamente fechado contém gás ideal a 27 °C, sob pressão de 2,0 atm. O conjunto é aquecido até 87 °C.",
-   "enunciado": "A pressão final do gás é de:",
-   "alternativas": {
-    "a": "2,4 atm",
-    "b": "1,7 atm",
-    "c": "6,4 atm",
-    "d": "2,0 atm",
-    "e": "5,0 atm"
-   },
-   "resposta": "a",
-   "explicacao": "Recipiente rígido significa volume constante, e na transformação isovolumétrica a pressão é proporcional à temperatura absoluta: 300 K e 360 K. Logo P = 2,0 x 360 ÷ 300 = 2,4 atm. A alternativa (c) sai de usar graus Celsius, 2,0 x 87 ÷ 27 = 6,4 atm, e superestima a pressão em quase três vezes; (b) inverte a razão.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-172",
-   "texto_apoio": "Uma massa fixa de gás ideal ocupa 6,0 L sob pressão de 2,0 atm, à temperatura de 27 °C. O gás é levado a um novo estado, em que a pressão é de 1,0 atm e a temperatura, de 127 °C.",
-   "enunciado": "O volume ocupado pelo gás no estado final é de:",
-   "alternativas": {
-    "a": "4,0 L",
-    "b": "12 L",
-    "c": "56 L",
-    "d": "24 L",
-    "e": "16 L"
-   },
-   "resposta": "e",
-   "explicacao": "A lei geral dos gases dá P₁V₁ ÷ T₁ = P₂V₂ ÷ T₂, com temperaturas em kelvin: 300 K e 400 K. Assim V₂ = 6,0 x (2,0 ÷ 1,0) x (400 ÷ 300) = 16 L. A alternativa (b) considera apenas a queda de pressão e esquece o aquecimento; (c) aplica corretamente a pressão mas usa graus Celsius na razão de temperaturas, 6,0 x 2 x 127 ÷ 27, e chega a 56 L.",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-173",
-   "texto_apoio": "Um recipiente de 8,2 L contém gás ideal sob pressão de 3,0 atm, à temperatura de 27 °C. Adote R = 0,082 atm·L/(mol·K).",
-   "enunciado": "O número de mols de gás contido no recipiente é de:",
-   "alternativas": {
-    "a": "1,0 mol",
-    "b": "0,33 mol",
-    "c": "3,0 mol",
-    "d": "0,10 mol",
-    "e": "11 mol"
-   },
-   "resposta": "a",
-   "explicacao": "Da equação de Clapeyron, n = PV ÷ RT = (3,0 x 8,2) ÷ (0,082 x 300) = 24,6 ÷ 24,6 = 1,0 mol. A armadilha é (e): quem esquece de converter 27 °C em 300 K divide por 0,082 x 27 = 2,214 e obtém cerca de 11 mol, onze vezes o valor correto. O uso de R em atm·L exige pressão em atmosferas e volume em litros, unidades já fornecidas.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-174",
-   "texto_apoio": "Um cilindro rígido de 0,050 m³ contém 2,0 mol de gás ideal a 300 K. Adote R = 8,3 J/(mol·K).",
-   "enunciado": "A pressão do gás no interior do cilindro é de, aproximadamente:",
-   "alternativas": {
-    "a": "5,0 × 10³ Pa",
-    "b": "1,0 × 10⁵ Pa",
-    "c": "2,5 × 10⁴ Pa",
-    "d": "2,0 × 10⁶ Pa",
-    "e": "1,0 × 10² Pa"
-   },
-   "resposta": "b",
-   "explicacao": "De PV = nRT vem P = nRT ÷ V = (2,0 x 8,3 x 300) ÷ 0,050 = 4.980 ÷ 0,050 ≈ 1,0 × 10⁵ Pa, ou seja, cerca de 1 atm. A alternativa (a) é o numerador sozinho, de quem esqueceu de dividir pelo volume. A alternativa (e) é a armadilha de unidade: usar 50 L no lugar de 0,050 m³ com R em joules divide o resultado por mil.",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-175",
-   "texto_apoio": "No modelo cinético, a energia cinética média de translação das moléculas de um gás ideal é diretamente proporcional à sua temperatura absoluta.",
-   "enunciado": "Ao ser aquecido de 27 °C até 327 °C, a energia cinética média das moléculas desse gás:",
-   "alternativas": {
-    "a": "fica cerca de doze vezes maior",
-    "b": "dobra",
-    "c": "quadruplica",
-    "d": "não se altera, pois o aquecimento afeta apenas a pressão exercida sobre as paredes do recipiente",
-    "e": "aumenta cerca de 10%"
-   },
-   "resposta": "b",
-   "explicacao": "Convertendo para kelvin, 27 °C = 300 K e 327 °C = 600 K: a temperatura absoluta dobra e, com ela, a energia cinética média. A alternativa (a) é a armadilha central, de quem calcula 327 ÷ 27 ≈ 12 usando graus Celsius; (e) vem de comparar 327 com 300 misturando as duas escalas. A proporcionalidade só vale com a escala Kelvin, cujo zero corresponde à agitação térmica mínima.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-176",
-   "texto_apoio": "No modelo cinético dos gases, as moléculas movem-se desordenadamente em todas as direções e colidem continuamente com as paredes do recipiente.",
-   "enunciado": "Segundo esse modelo, a pressão exercida pelo gás sobre as paredes resulta:",
-   "alternativas": {
-    "a": "do peso da coluna de gás que se apoia sobre as paredes e sobre o fundo do recipiente que o contém",
-    "b": "da diferença de temperatura entre o gás e a parede, que só desaparece quando o equilíbrio térmico é atingido",
-    "c": "da repulsão elétrica entre as moléculas do gás e os átomos que constituem a superfície interna da parede",
-    "d": "da atração gravitacional mútua entre as moléculas, que as empurra continuamente contra as paredes do recipiente",
-    "e": "da força média por unidade de área devida às inúmeras colisões por segundo das moléculas contra a parede"
-   },
-   "resposta": "e",
-   "explicacao": "Cada colisão transfere quantidade de movimento à parede; a soma de um número enorme de colisões por segundo resulta numa força praticamente constante, e a pressão é essa força dividida pela área. A alternativa (c) contraria uma hipótese do próprio modelo, que despreza forças entre as moléculas e entre elas e a parede, exceto no instante do choque. Em (a), o peso do gás existe, mas é irrelevante frente ao efeito das colisões.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-177",
-   "texto_apoio": "Um recipiente contém uma mistura de gás hidrogênio, de massa molar 2 g/mol, e gás oxigênio, de massa molar 32 g/mol, em equilíbrio térmico. A velocidade quadrática média das moléculas é inversamente proporcional à raiz quadrada da massa molar.",
-   "enunciado": "A razão entre a velocidade quadrática média das moléculas de hidrogênio e a das moléculas de oxigênio vale:",
-   "alternativas": {
-    "a": "4",
-    "b": "2",
-    "c": "1, pois à mesma temperatura todas as moléculas se movem com a mesma velocidade",
-    "d": "16",
-    "e": "1/4"
-   },
-   "resposta": "a",
-   "explicacao": "A razão entre as velocidades é a raiz quadrada da razão inversa das massas molares: √(32 ÷ 2) = √16 = 4. A alternativa (d) é de quem usou a razão das massas sem extrair a raiz. A alternativa (c) esconde a confusão mais comum do tema: no equilíbrio térmico o que é igual para os dois gases é a energia cinética média, e não a velocidade — como a energia depende do produto da massa pelo quadrado da velocidade, a molécula mais leve compensa a diferença sendo mais rápida.",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-178",
-   "texto_apoio": "O modelo do gás ideal despreza o volume próprio das moléculas e as forças de interação entre elas fora dos instantes de colisão.",
-   "enunciado": "Esse modelo descreve bem o comportamento de um gás real quando ele se encontra:",
-   "alternativas": {
-    "a": "a pressões altas e temperaturas baixas, condição em que as moléculas se movem de forma mais ordenada dentro do recipiente",
-    "b": "a pressões altas e temperaturas altas, situação em que o número de colisões por segundo cresce e o comportamento se regulariza",
-    "c": "em condições próximas às de liquefação, quando a substância se aproxima do estado de maior estabilidade termodinâmica",
-    "d": "em qualquer condição, uma vez que a equação de Clapeyron não impõe restrição alguma às variáveis de estado",
-    "e": "a pressões baixas e temperaturas altas, quando o volume próprio das moléculas e as atrações entre elas pouco influem"
-   },
-   "resposta": "e",
-   "explicacao": "Pressões baixas deixam as moléculas muito afastadas, de modo que o volume próprio delas se torna desprezível diante do volume do recipiente; temperaturas altas garantem energia cinética suficiente para que as atrações intermoleculares pouco influam. A alternativa (a) descreve exatamente o oposto: é aí que o gás real mais se afasta do modelo, justamente porque se aproxima da liquefação, situação repetida em (c).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-179",
-   "enunciado": "Um gás ideal é comprimido lentamente dentro de um cilindro mergulhado em um banho de água mantido à temperatura constante. Essa transformação é chamada ______, nela permanece constante o ______ e o gráfico da pressão em função do volume é ______.",
-   "alternativas": {
-    "a": "isobárica — produto pressão x volume — uma reta horizontal",
-    "b": "isotérmica — quociente pressão ÷ temperatura — uma reta que passa pela origem",
-    "c": "isovolumétrica — quociente volume ÷ temperatura — uma reta vertical",
-    "d": "isotérmica — produto pressão x volume — uma hipérbole",
-    "e": "isobárica — quociente volume ÷ temperatura — uma hipérbole"
-   },
-   "resposta": "d",
-   "explicacao": "Com a temperatura fixa, a equação de Clapeyron reduz-se a PV = constante, o que faz de P uma função inversamente proporcional a V: o gráfico é uma hipérbole, chamada isoterma. A armadilha está em (a): a reta horizontal no diagrama pressão-volume corresponde à transformação isobárica, em que o que não muda é a pressão, e não o produto PV.",
-   "formato": "lacunas",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-180",
-   "texto_apoio": "Um gás ideal se expande sob pressão constante de 2,0 × 10⁵ Pa, passando de 3,0 L para 6,0 L.",
-   "enunciado": "O trabalho realizado pelo gás nessa expansão é de:",
-   "alternativas": {
-    "a": "1,2 × 10³ J",
-    "b": "300 J",
-    "c": "600 J",
-    "d": "6,0 × 10⁵ J",
-    "e": "60 J"
-   },
-   "resposta": "c",
-   "explicacao": "Na transformação isobárica o trabalho é o produto da pressão pela variação de volume: W = 2,0 × 10⁵ x (6,0 − 3,0) × 10⁻³ = 600 J. A alternativa (d) é a armadilha de unidade, de quem mantém o volume em litros e infla o resultado mil vezes. A alternativa (a) usa o volume final em lugar da variação, e (b) divide por dois, como se a área no diagrama pressão-volume fosse um triângulo — sob pressão constante ela é um retângulo.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-181",
-   "enunciado": "Ao final de uma viagem longa, o motorista mede a pressão dos pneus e encontra valor maior que o medido antes de sair. Tratando o ar do pneu como gás ideal em volume praticamente constante, o atrito com o asfalto ______ a temperatura do ar e, numa transformação ______, a pressão ______.",
-   "alternativas": {
-    "a": "elevou — isotérmica — é inversamente proporcional ao volume ocupado",
-    "b": "elevou — isobárica — permanece constante enquanto o volume aumenta",
-    "c": "reduziu — isovolumétrica — é inversamente proporcional à temperatura absoluta",
-    "d": "elevou — isovolumétrica — é diretamente proporcional à temperatura absoluta",
-    "e": "reduziu — isotérmica — cresce à medida que o volume aumenta"
-   },
-   "resposta": "d",
-   "explicacao": "O pneu é praticamente indeformável, de modo que o volume quase não muda: a transformação é isovolumétrica, e nela P ÷ T é constante, com T em kelvin. Aquecido pelo atrito, o ar interno eleva a pressão. É por isso que a calibragem deve ser feita com o pneu frio: medir depois da viagem leva a tirar ar em excesso. A armadilha é (b), que confunde pressão constante com volume constante e inverte a transformação.",
-   "formato": "lacunas",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-182",
-   "texto_apoio": "Um cilindro rígido contém gás ideal sob pressão de 8,0 atm. Uma válvula é aberta e metade da massa de gás escapa lentamente, de modo que a temperatura do gás restante permanece igual à inicial.",
-   "enunciado": "A pressão do gás que permanece no cilindro passa a ser de:",
-   "alternativas": {
-    "a": "4,0 atm",
-    "b": "16 atm",
-    "c": "8,0 atm, pois o volume interno do cilindro não sofreu alteração alguma durante a saída do gás",
-    "d": "2,0 atm",
-    "e": "6,0 atm"
-   },
-   "resposta": "a",
-   "explicacao": "Na equação de Clapeyron, PV = nRT, a pressão é proporcional ao número de mols quando volume e temperatura não mudam. Perdida metade da massa, n cai à metade e a pressão vai a 4,0 atm. A armadilha é (c): o gás que sobra realmente ocupa todo o cilindro, mas com metade das moléculas o número de colisões por segundo contra a parede também cai pela metade, e é isso que a pressão mede.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-184",
-   "texto_apoio": "Considere uma massa fixa de gás ideal submetida a diferentes transformações.",
-   "enunciado": "Analise as afirmações a seguir.\nI. Numa transformação isotérmica, o produto da pressão pelo volume permanece constante.\nII. Numa transformação isovolumétrica, a razão entre a pressão e a temperatura em graus Celsius permanece constante.\nIII. Numa transformação isobárica, o volume é diretamente proporcional à temperatura absoluta.\nEstá correto o que se afirma em:",
-   "alternativas": {
-    "a": "I, apenas",
-    "b": "I e II, apenas",
-    "c": "II e III, apenas",
-    "d": "I e III, apenas",
-    "e": "I, II e III"
-   },
-   "resposta": "d",
-   "explicacao": "I e III são enunciados corretos das leis de Boyle e de Charles. II é falsa por uma única palavra: a razão constante é entre pressão e temperatura absoluta, em kelvin. A escala Celsius tem zero arbitrário, e nela um gás a 0 °C teria pressão nula pela fórmula, o que é absurdo. Marcar II como verdadeira é o erro que mais custa pontos em transformações gasosas.",
-   "formato": "escada",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-185",
-   "texto_apoio": "Um mergulhador solta uma pequena bolha de ar a 20 m de profundidade, onde a pressão total é de 3,0 atm. A bolha sobe até a superfície, onde a pressão é de 1,0 atm. Considere a temperatura da água praticamente a mesma em toda a coluna e o ar como gás ideal.",
-   "enunciado": "Ao chegar à superfície, o volume da bolha, comparado ao volume que ela tinha no fundo, é:",
-   "alternativas": {
-    "a": "um terço",
-    "b": "o dobro",
-    "c": "o triplo",
-    "d": "igual ao inicial",
-    "e": "nove vezes maior"
-   },
-   "resposta": "c",
-   "explicacao": "Com a temperatura constante, PV se conserva: 3,0 x V = 1,0 x V', logo V' = 3V. A alternativa (a) inverte a razão, supondo que a bolha encolhe ao subir. Esse mesmo cálculo explica por que um mergulhador jamais deve subir prendendo a respiração: o ar retido nos pulmões se expande na mesma proporção e pode romper o tecido pulmonar.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-208",
-   "texto_apoio": "Uma chaleira contém 500 g de água a 20 °C. O calor específico da água vale 1,0 cal/(g·°C).",
-   "enunciado": "A quantidade de calor necessária para elevar a temperatura dessa água até 100 °C, sem que ela chegue a entrar em ebulição, é de:",
-   "alternativas": {
-    "a": "10 kcal",
-    "b": "50 kcal",
-    "c": "4,0 kcal",
-    "d": "400 kcal",
-    "e": "40 kcal"
-   },
-   "resposta": "e",
-   "explicacao": "No aquecimento sem mudança de estado vale Q = m x c x ΔT = 500 x 1,0 x (100 − 20) = 40.000 cal, ou 40 kcal. A armadilha é (b): usar a temperatura final, 100 °C, no lugar da variação de 80 °C, produz 50 kcal. Como o enunciado interrompe o processo antes da ebulição, não há calor latente a somar.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-209",
-   "enunciado": "Um bloco de gelo a 0 °C recebe calor continuamente até derreter por completo. Durante todo o processo de fusão, a temperatura do sistema ______, porque o calor recebido é ______, empregado em ______.",
-   "alternativas": {
-    "a": "aumenta lentamente — sensível — elevar a agitação térmica das moléculas de água",
-    "b": "permanece constante — latente — desfazer a estrutura cristalina que mantém o gelo coeso",
-    "c": "permanece constante — sensível — manter o sistema em equilíbrio térmico com o ambiente",
-    "d": "diminui — latente — resfriar a água líquida que vai se formando na superfície do bloco",
-    "e": "aumenta — latente — elevar a energia cinética média das moléculas do sistema"
-   },
-   "resposta": "b",
-   "explicacao": "Durante a mudança de estado toda a energia recebida vai para a energia potencial das ligações, rompendo o retículo cristalino, e não para a energia cinética das moléculas — por isso o termômetro não se move enquanto houver gelo e água juntos. A armadilha é (a): confundir calor latente com sensível leva a esperar aquecimento contínuo, quando o gráfico de temperatura por tempo apresenta ali um patamar horizontal.",
-   "formato": "lacunas",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-210",
-   "texto_apoio": "Num recipiente termicamente isolado, misturam-se 200 g de água a 80 °C com 300 g de água a 30 °C. Despreze a capacidade térmica do recipiente e as perdas para o ambiente.",
-   "enunciado": "A temperatura de equilíbrio térmico da mistura é de:",
-   "alternativas": {
-    "a": "50 °C",
-    "b": "45 °C",
-    "c": "60 °C",
-    "d": "40 °C",
-    "e": "55 °C"
-   },
-   "resposta": "a",
-   "explicacao": "A soma dos calores trocados é nula: 200 x (T − 80) + 300 x (T − 30) = 0, o que dá 500T = 25.000 e T = 50 °C. A armadilha é (e): a média aritmética das temperaturas, 55 °C, só valeria se as duas massas fossem iguais. Como há mais água fria, o equilíbrio se desloca para o lado dela — a média correta é ponderada pelas massas.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-214",
-   "enunciado": "Quando uma barra de um certo material é aquecida até uma temperatura T a partir de uma temperatura inicial T0, seu comprimento inicial L0 sofre um aumento ΔL dado por ΔL = α L0 (T − T0), sendo α o coeficiente de expansão linear, que depende do material.\n\nO gráfico a seguir mostra, para o intervalo de 0°C a 200°C, o comprimento (em metros) de barras de três materiais distintos, todas com 10,0 m de comprimento a 0°C: a barra de Polietileno atinge aproximadamente 10,4 m a 200°C (aumento aproximadamente linear e mais acentuado); a barra de Cobre atinge aproximadamente 10,1 m a 200°C (aumento pequeno e aproximadamente linear); a barra de Alumínio permanece muito próxima de 10,0 m ao longo de toda a faixa de temperatura (variação praticamente imperceptível no gráfico).\n\nCom base no gráfico e nas informações apresentadas, é correto afirmar:",
-   "alternativas": {
-    "a": "O gráfico mostra curvas para três barras que possuem o mesmo comprimento à temperatura de 30°C.",
-    "b": "Em um processo de aquecimento entre 100°C e 200°C, o comprimento da barra de cobre aumenta em 0,1 m.",
-    "c": "O coeficiente de expansão linear do alumínio é maior do que o do cobre.",
-    "d": "Partindo de 0°C, aumentar em 10 cm o comprimento da barra de polietileno requer elevar sua temperatura até 50°C.",
-    "e": "Duas barras de comprimentos 5 m e 10 m a 0°C, feitas do mesmo material, sofrem iguais incrementos de comprimento quando levadas de 0°C a 100°C."
-   },
-   "resposta": "d",
-   "explicacao": "Pelo gráfico, o polietileno atinge 10,4 m (ΔL=0,4 m) em 200°C, o que dá α=ΔL/(L0ΔT)=0,4/(10×200)=2×10⁻⁴/°C. Para um aumento de 0,1 m (10 cm) a partir de 10 m, ΔT=ΔL/(αL0)=0,1/(2×10⁻⁴×10)=50°C.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-220",
-   "enunciado": "Para muitas pessoas, um ovo perfeitamente cozido tem uma gema cremosa e uma clara firme. A gema atinge uma textura cremosa a 65 °C, mas a clara fica totalmente firme a 85 °C. Métodos comuns de cozimento frequentemente resultam em um ovo com clara e gema duras (1), um ovo com clara dura e gema cremosa (2) ou um ovo com clara e gema cremosas (3). Pesquisadores da Universidade de Nápoles, entretanto, perceberam que alternar o cozimento dos ovos em água a 100 °C e 30 °C a cada dois minutos, totalizando 32 minutos (4), faz com que as duas regiões do ovo (clara e gema) respondam de formas diferentes às temperaturas alternadas. Aplicando o método estudado (4), a temperatura da clara oscila antes de finalmente se estabilizar em torno de 85 °C, enquanto a temperatura da gema sobe lentamente até atingir 67 °C, quando chega à consistência desejada.\n\nSuponha que, em cada método de cozimento, cada parte do ovo (clara e gema) seja aquecida de uma temperatura inicial de 20 °C até as respectivas temperaturas finais apresentadas acima. A quantidade de calor total recebida Qn pelo conjunto gema + clara para o método de cozimento (n = 1, 2, 3, 4), em ordem crescente, é:",
-   "alternativas": {
-    "a": "Q4 < Q1 < Q3 < Q2",
-    "b": "Q3 < Q4 < Q2 < Q1",
-    "c": "Q1 < Q3 < Q2 < Q4",
-    "d": "Q3 < Q2 < Q4 < Q1",
-    "e": "Q4 < Q3 < Q1 < Q2"
-   },
-   "resposta": "b",
-   "explicacao": "Comparando as quantidades de calor Q=mcΔT necessárias para cada método (considerando as temperaturas finais de clara e gema em cada caso), o método 3 (ambas cremosas, temperaturas finais mais baixas) exige o menor calor total, seguido do método 4 (clara firme e gema cremosa via alternância), depois o método 2, e por fim o método 1 (ambas duras, temperaturas finais mais altas), que exige o maior calor.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-224",
-   "enunciado": "A uniformidade da temperatura em um ambiente refrigerado depende, além do bom funcionamento do aparelho de ar condicionado, de uma instalação adequada, visando a uma transferência de calor eficiente. Isso pode ser verificado pelo instalador utilizando um termômetro de infravermelho para inspecionar diferentes áreas do recinto. Analise as afirmativas 1, 2, 3 e 4 sobre os mecanismos de transferência de calor: condução, convecção e radiação.\n\n1) A transferência de calor por condução térmica pode ocorrer tanto no vácuo quanto em um meio material.\n2) A taxa de condução de calor em uma barra não depende da diferença entre as temperaturas de suas extremidades.\n3) A convecção consiste no transporte de energia térmica de uma região para outra por meio do deslocamento de uma massa de fluido.\n4) A transferência de calor por radiação térmica pode ocorrer tanto no vácuo quanto em um meio material.\n\nAs afirmativas corretas são:",
-   "alternativas": {
-    "a": "1 e 2.",
-    "b": "1 e 4.",
-    "c": "2 e 3.",
-    "d": "3 e 4."
-   },
-   "resposta": "d",
-   "explicacao": "A condução térmica exige um meio material (não ocorre no vácuo), o que torna a afirmativa 1 falsa; a taxa de condução depende, sim, da diferença de temperatura entre as extremidades (afirmativa 2 falsa); a convecção de fato transporta energia pelo deslocamento de um fluido (afirmativa 3 correta); e a radiação térmica, ao contrário da condução, pode se propagar no vácuo (afirmativa 4 correta).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-235",
-   "enunciado": "Para aquecer um pouco de água, uma pessoa, em uma cidade no nível do mar, coloca 0,2 kg de água a 20 ºC em uma xícara dentro de um forno de micro-ondas de 1200 W de potência e programa o forno para o tempo de um minuto e quarenta segundos. Adotando o valor de 4 × 10³ J/(kg·ºC) para o calor específico da água e considerando que apenas 50% da energia elétrica consumida por esse forno são utilizados para aquecer a água, ao final do tempo programado a água na xícara terá atingido a temperatura de",
-   "alternativas": {
-    "a": "95 ºC e não terá sido iniciada a vaporização.",
-    "b": "100 ºC e terá sido iniciada a vaporização.",
-    "c": "85 ºC e não terá sido iniciada a vaporização.",
-    "d": "100 ºC e não terá sido iniciada a vaporização.",
-    "e": "90 ºC e não terá sido iniciada a vaporização."
-   },
-   "resposta": "a",
-   "explicacao": "A energia útil para aquecer a água é E=P×t×0,5=1200×100×0,5=60.000 J (t=100 s). O aumento de temperatura é ΔT=E/(mc)=60.000/(0,2×4000)=75°C, levando a água de 20°C a 95°C — abaixo dos 100°C necessários para iniciar a vaporização.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-241",
-   "enunciado": "O motor principal do BGM1 (ver questões anteriores), responsável pelo procedimento de pouso, opera a uma temperatura de 2462 ºF. As correspondências de temperaturas para as escalas Celsius e Fahrenheit são: fusão da água = 0 ºC / 32 ºF; ebulição da água = 100 ºC / 212 ºF. Considerando essas correspondências, o motor do BGM1 opera, em graus Celsius, a uma temperatura de",
-   "alternativas": {
-    "a": "1150 ºC.",
-    "b": "1350 ºC.",
-    "c": "1550 ºC.",
-    "d": "1750 ºC.",
-    "e": "1950 ºC."
-   },
-   "resposta": "b",
-   "explicacao": "Convertendo 2462°F para Celsius pela fórmula C=(F−32)×5/9: (2462−32)×5/9=2430×5/9=1350°C.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-246",
-   "enunciado": "A autoclave é um equipamento utilizado para esterilizar objetos em centros cirúrgicos, clínicas odontológicas e salões de beleza, por meio de aquecimento. Considere que um bisturi de massa igual a 40 g, inicialmente a uma temperatura de 10 ºC, seja colocado em uma autoclave cuja temperatura interna seja mantida constante em 130 ºC. Sabendo que o calor específico do aço cirúrgico que compõe o bisturi é igual a 0,1 cal/(g·ºC), a quantidade de calor transferida pela autoclave ao bisturi até ele atingir o equilíbrio térmico com o interior da autoclave é igual a",
-   "alternativas": {
-    "a": "400 cal.",
-    "b": "440 cal.",
-    "c": "480 cal.",
-    "d": "520 cal.",
-    "e": "560 cal."
-   },
-   "resposta": "c",
-   "explicacao": "A quantidade de calor é Q=mcΔT=40×0,1×(130−10)=40×0,1×120=480 cal.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-258",
-   "enunciado": "Determinada quantidade constante de gás ideal está contida em um cilindro constituído, em sua base, por um material bom condutor térmico e, em suas paredes laterais, por um material isolante térmico. Esse cilindro é fechado, na sua região superior, por um pistão feito de material também isolante e que pode mover-se verticalmente livre de atrito. Quando esse gás recebe calor de uma fonte externa, ele sofre uma expansão isobárica de modo que o pistão se desloque verticalmente, a partir de uma posição inicial A, até passar por uma posição B, indicadas na figura. Devido à ação de massas colocadas sobre o pistão, seu movimento se desenvolve com velocidade constante.\n\nO diagrama que mostra como varia a temperatura absoluta (T) desse gás em função do volume ocupado por ele (V), quando o pistão se move da posição A até a posição B, está representado em:",
-   "alternativas": {
-    "a": "reta decrescente ligando o ponto A (T alta, V baixo) ao ponto B (T baixa, V alto).",
-    "b": "curva côncava decrescente ligando A a B.",
-    "c": "reta horizontal (T constante) ligando A a B, com V aumentando.",
-    "d": "reta crescente ligando o ponto A (T baixa, V baixo) ao ponto B (T alta, V alto).",
-    "e": "curva côncava crescente ligando A a B."
-   },
-   "resposta": "d",
-   "explicacao": "Na expansão isobárica de um gás ideal, pela lei de Gay-Lussac (V/T=constante a pressão constante), volume e temperatura absoluta são diretamente proporcionais — por isso o gráfico T×V é uma reta crescente partindo de valores baixos (ponto A) até valores altos (ponto B).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-271",
-   "enunciado": "A temperatura de uma amostra de 500 g de gálio, inicialmente no estado sólido, variou, em função do tempo, subindo de forma linear de 0 ºC a 30 ºC entre o instante 0 e o instante 4 minutos, permanecendo depois constante em 30 ºC.\n\nConsiderando que o calor específico do gálio no estado sólido seja constante e igual a 0,08 cal/(g·ºC) e que a amostra não perdeu calor durante o processo de aquecimento, a taxa com que a amostra absorveu calor foi de",
-   "alternativas": {
-    "a": "240 cal/min.",
-    "b": "200 cal/min.",
-    "c": "300 cal/min.",
-    "d": "150 cal/min.",
-    "e": "75 cal/min."
-   },
-   "resposta": "c",
-   "explicacao": "O calor total necessário é Q=mcΔT=500×0,08×30=1200 cal, absorvido em 4 minutos; a taxa de absorção de calor é 1200/4=300 cal/min.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-272",
-   "enunciado": "Devido ao aumento dos preços dos combustíveis e do custo de vida, cada vez mais os brasileiros vêm buscando carros econômicos. O que a maioria das pessoas não sabe é que o rendimento dos motores dos automóveis é baixo: de cada 1 litro de gasolina, somente 220 mL são transformados em trabalho para movimentação do carro.\n\nConsidere que o motor de um automóvel funcione como uma máquina térmica que desenvolve uma potência útil de 44 kW. A quantidade de energia que esse motor necessita para funcionar, a cada segundo, é",
-   "alternativas": {
-    "a": "9,7 kJ.",
-    "b": "97 kJ.",
-    "c": "970 kJ.",
-    "d": "20 kJ.",
-    "e": "200 kJ."
-   },
-   "resposta": "e",
-   "explicacao": "Se a potência útil (44 kW) representa a fração do combustível convertida em trabalho (22% do total, já que 220 mL de cada 1000 mL viram trabalho), a energia total necessária por segundo é 44/0,22=200 kJ.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-281",
-   "enunciado": "A calibração de uma proveta de vidro, de volume 500 mL, foi efetuada para a temperatura de 20 ºC. Considerando o coeficiente de dilatação linear desse vidro igual a 3,3 × 10⁻⁶ ºC⁻¹, a diferença entre o volume de 500 mL indicado pela proveta na temperatura de 25 ºC e o volume real do líquido nela contido, a essa mesma temperatura, é, aproximadamente,",
-   "alternativas": {
-    "a": "6,2 × 10⁻² mL.",
-    "b": "3,3 × 10⁻² mL.",
-    "c": "4,1 × 10⁻² mL.",
-    "d": "1,8 × 10⁻² mL.",
-    "e": "2,5 × 10⁻² mL."
-   },
-   "resposta": "e",
-   "explicacao": "A dilatação volumétrica do vidro é ΔV=V×3α×ΔT=500×3×3,3×10⁻⁶×5≈2,5×10⁻² mL — essa é a diferença entre o volume nominal indicado pela proveta (que também se dilatou) e o volume real do líquido nela contido.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-289",
-   "enunciado": "Em um dia frio, uma pessoa esfrega suas mãos, uma na outra, para aquecê-las. Considere que, nesse movimento, a taxa com a qual a energia mecânica é dissipada pelo atrito seja de 20 J/s.\n\nAdmitindo que a massa de cada uma das mãos seja 200 g e que o calor específico das mãos seja 4 000 J/(kg·ºC), se toda a energia mecânica dissipada pelo atrito for utilizada para aquecer suas mãos, essa pessoa deverá esfregá-las, para aumentar sua temperatura em 1,5 ºC, durante um intervalo de tempo de",
-   "alternativas": {
-    "a": "3,0 min.",
-    "b": "4,5 min.",
-    "c": "2,0 min.",
-    "d": "2,5 min.",
-    "e": "1,0 min."
-   },
-   "resposta": "c",
-   "explicacao": "A energia necessária é Q=mcΔT=0,4 kg×4000 J/(kg·°C)×1,5°C=2400 J. Dividindo pela taxa de dissipação (20 J/s), o tempo necessário é 2400/20=120 s=2,0 min.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-294",
-   "enunciado": "Durante uma expedição científica na Patagônia, um grupo de pesquisadores coletou amostras de água de um lago parcialmente congelado. Para realizar as análises, eles precisaram derreter um bloco de gelo de 500 g que estava a −10 ºC e aquecê-lo até 20 ºC. Eles utilizaram um pequeno aquecedor portátil de potência 500 W, alimentado por energia solar.\n\nConsidere que o calor específico do gelo é de 0,5 cal/g°C, o calor específico da água é de 1 cal/g°C, o calor latente de fusão é de 80 cal/g e 1 cal equivale a aproximadamente 4,2 J.\n\nO tempo necessário para que todo o processo descrito no texto ocorra é de",
-   "alternativas": {
-    "a": "1 min e 24 s.",
-    "b": "1 min e 55 s.",
-    "c": "5 min e 36 s.",
-    "d": "5 min e 57 s.",
-    "e": "7 min e 21 s."
-   },
-   "resposta": "e",
-   "explicacao": "O processo envolve três etapas: aquecer o gelo de −10°C a 0°C (Q1=mcΔT), fundir o gelo (Q2=mL), e aquecer a água resultante de 0°C a 20°C (Q3=mcΔT). Somando as três quantidades de calor (em calorias, convertidas para joules) e dividindo pela potência do aquecedor (500 W), obtém-se o tempo total do processo, cerca de 7 min e 21 s.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-306",
-   "enunciado": "Uma usina termoelétrica cuja eficiência da conversão de calor em trabalho é 55% queima 7200 kg de gás natural por hora. O calor não utilizado na produção de trabalho aquece as águas de um rio de vazão igual a 4500 L por segundo. O aumento de temperatura da água do rio que passa pela usina é",
-   "alternativas": {
-    "a": "9,0 °C.",
-    "b": "5,5 °C.",
-    "c": "1,0 °C.",
-    "d": "2,5 °C.",
-    "e": "6,5 °C.\n\nDados: A queima de 1 kg de gás natural gera 50.000 kJ de energia. Calor específico da água = 1 cal/g°C. 1 cal = 4 J. Densidade da água = 1 g/cm³."
-   },
-   "resposta": "d",
-   "explicacao": "A energia total gerada por hora é 7200×50.000=3,6×10⁸ kJ; 45% (não convertida em trabalho) aquece o rio: 1,62×10⁸ kJ/h = 45.000 kJ/s = 11.250.000 cal/s (dividindo por 4). Com vazão de 4.500.000 g/s de água (c=1cal/g°C), ΔT=11.250.000/4.500.000=2,5°C.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-321",
-   "enunciado": "Um gás à pressão 6 x 10⁵ N/m² sofre uma expansão isobárica, do estado I ao II, conforme o diagrama de volume (V) x temperatura (T) mostrado abaixo. Neste processo, o trabalho realizado pelo gás, a variação de sua energia interna e a quantidade de calor trocada entre o gás e o ambiente são, respectivamente\n\n[Descrição do gráfico: eixo vertical V(l) com marcações em 24 e 32; eixo horizontal T(K) com marcações em 300 e 400. O estado I está no ponto (300K, 24L) e o estado II no ponto (400K, 32L), ligados por uma reta (processo isobárico).]",
-   "alternativas": {
-    "a": "4,8 x 10³ J; 2,4 x 10³ J; 1,8 x 10³ cal.",
-    "b": "8,0 x 10² J; 1,4 x 10³ J; 5,5 x 10³ cal.",
-    "c": "8,0 x 10² J; 7,2 x 10³ J; 4,0 x 10³ cal.",
-    "d": "4,8 x 10³ J; 7,2 x 10³ J; 3,0 x 10³ cal.",
-    "e": "4,8 x 10³ J; 2,4 x 10³ J; 7,2 x 10³ cal.\n\nConsidere:\nQue o gás seja perfeito.\nConstante universal dos gases = 8 J/mol K\n1 cal = 4 J"
-   },
-   "resposta": "d",
-   "explicacao": "O trabalho isobárico é W=PΔV=6×10⁵×(0,032−0,024)=4800J=4,8×10³J. Usando PV=nRT, n=6mol; a variação de energia interna (gás monoatômico, Cv=3/2R) é ΔU=n×(3/2×8)×(400−300)=7200J=7,2×10³J. Pela 1ª lei, Q=W+ΔU=12000J=3,0×10³cal.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-323",
-   "enunciado": "Duas panelas, uma de pressão e outra comum aberta, estão sendo usadas para cozinhar quantidades iguais de um mesmo alimento. Assinale a afirmação correta.",
-   "alternativas": {
-    "a": "Na panela comum, o alimento é cozido mais lentamente porque o vapor escapa e a água ferve a temperatura inferior a 100°C.",
-    "b": "O alimento é cozido mais rapidamente na panela de pressão porque, embora a água em seu interior ferva à 100°C, a pressão interna é maior que 1 atm.",
-    "c": "Em ambas as panelas, a água ferve à 100°C, mas a espessura maior das paredes da panela de pressão permite que ela retenha mais calor.",
-    "d": "A válvula de escape da panela de pressão impede que seu interior atinja pressão superior a 1 atm, mas o vapor concentrado dentro dela faz com que o alimento seja cozido mais rapidamente.",
-    "e": "O alimento é cozido mais rapidamente na panela de pressão porque a água em seu interior ferve a temperatura superior a 100°C."
-   },
-   "resposta": "e",
-   "explicacao": "Na panela de pressão, o aumento da pressão interna eleva o ponto de ebulição da água para acima de 100°C, permitindo que o alimento cozinhe em temperatura mais alta e, portanto, mais rapidamente.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-486",
-   "enunciado": "Em um recipiente termicamente isolado, misturam-se 300 g de água a 80 °C com 200 g de água a 30 °C. Considerando que só há troca de calor entre as duas porções e que o calor específico da água vale 1,0 cal/(g·°C), a temperatura de equilíbrio térmico da mistura é de:",
-   "alternativas": {
-    "a": "40 °C",
-    "b": "45 °C",
-    "c": "50 °C",
-    "d": "55 °C",
-    "e": "60 °C"
-   },
-   "resposta": "e",
-   "explicacao": "O calor cedido pela porção quente iguala o recebido pela fria: 300 × 1,0 × (80 − T) = 200 × 1,0 × (T − 30). Daí 24 000 − 300T = 200T − 6 000, ou seja, 500T = 30 000 e T = 60 °C. A temperatura de equilíbrio térmico fica mais próxima da porção de maior massa.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "med-fisica-487",
-   "enunciado": "Um trilho de aço de 20 m de comprimento é assentado a 10 °C. Em um dia de verão, sua temperatura chega a 50 °C. Sendo 1,2 × 10⁻⁵ °C⁻¹ o coeficiente de dilatação linear do aço, o acréscimo de comprimento do trilho é de:",
-   "alternativas": {
-    "a": "0,96 mm",
-    "b": "4,8 mm",
-    "c": "9,6 mm",
-    "d": "12,0 mm",
-    "e": "19,2 mm"
-   },
-   "resposta": "c",
-   "explicacao": "Na dilatação linear, ΔL = L₀ · α · ΔT. Com L₀ = 20 m, α = 1,2 × 10⁻⁵ °C⁻¹ e ΔT = 50 − 10 = 40 °C, tem-se ΔL = 20 × 1,2 × 10⁻⁵ × 40 = 9,6 × 10⁻³ m, isto é, 9,6 mm. É por isso que se deixa folga entre trilhos consecutivos.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "eng-fisica-05",
-   "banca": "ita",
-   "sessao": "ita-2024",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "engenharia",
-   "enunciado": "Um professor montou um experimento com dois pêndulos simples, com fios de mesmo comprimento. Os pêndulos se mantiveram perfeitamente síncronos, cada qual com período de 2 s, em um dia cuja temperatura local era de 10 °C. Num outro dia, passados alguns minutos, notou-se que os pêndulos perdiam a sincronicidade. O professor associou tal fenômeno à variação de temperatura local, já que o termômetro do laboratório marcava 30 °C naquele dia e que o coeficiente de dilatação térmica dos fios era de α₁ = 2×10⁻⁵ °C⁻¹ e α₂ = 7×10⁻⁵ °C⁻¹.\nAssinale a alternativa que contém a melhor estimativa do intervalo de tempo entre o início do movimento e o instante em que os pêndulos apresentaram uma defasagem de meio ciclo pela primeira vez.",
-   "alternativas": {
-    "a": "17 min",
-    "b": "33 min",
-    "c": "40 min",
-    "d": "66 min",
-    "e": "80 min"
-   },
-   "resposta": "b",
-   "explicacao": "O período do pêndulo simples é T = 2π√(L/g), e a raiz faz a dilatação entrar pela metade: T' ≈ T(1 + ½αΔθ). Com ΔΘ = 20 °C, a diferença entre os dois períodos é ΔT = T·½·Δθ·(α₂ − α₁) = 2·½·20·(7 − 2)×10⁻⁵ = 1×10⁻³ s por oscilação. Meio ciclo de defasagem significa acumular T/2 = 1 s de atraso, o que exige 1/10⁻³ = 1000 oscilações. Como cada uma dura cerca de 2 s, são 2000 s ≈ 33 min. O erro que leva a 66 min é exigir um ciclo inteiro de defasagem em vez de meio; o que leva a 17 min é esquecer o fator ½ da raiz."
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "eng-fisica-13",
-   "banca": "maua",
-   "sessao": "maua-verao-2025-presencial",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "engenharia",
-   "enunciado": "O pneu de um automóvel foi calibrado, de acordo com o manual do proprietário, com pressão de 35 psi. Quando foi feita a calibragem, a temperatura ambiente era de 17 °C. Ao rodar com o automóvel no período da tarde, a temperatura dos pneus elevou-se para 43 °C.\nConsiderando que a variação de volume do pneu foi desprezível, a pressão aproximada dos pneus será de",
-   "alternativas": {
-    "a": "38 psi",
-    "b": "88 psi",
-    "c": "61 psi",
-    "d": "35 psi",
-    "e": "32 psi"
-   },
-   "resposta": "a",
-   "explicacao": "Volume constante é transformação isovolumétrica, e nela P/T se mantém. O passo que decide a questão é converter para kelvin: 17 °C = 290 K e 43 °C = 316 K. Daí P₂ = 35·(316/290) ≈ 38 psi. Fazer a mesma proporção com as temperaturas em grau Celsius, 35·(43/17), daria cerca de 88 psi — que é justamente a alternativa (b), e o motivo de ela estar lá. O aumento real é modesto, de menos de 10%, porque em kelvin a variação de 26 graus é pequena diante de 290."
-  },
-  {
-   "subtema": "fisica-termologia",
-   "id": "eng-fisica-21",
-   "banca": "maua",
-   "sessao": "maua-inverno-2024",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "engenharia",
-   "enunciado": "Em um dia extremamente quente, uma pessoa que vive numa casa sem ar-condicionado decide abrir a porta da geladeira, para reduzir um pouco a temperatura da sua cozinha.\nNessas condições, é correto afirmar que a temperatura da cozinha",
-   "alternativas": {
-    "a": "reduzirá pouco, dado que a geladeira não é tão potente quanto um aparelho de ar-condicionado.",
-    "b": "aumentará devido ao efeito Joule no motor elétrico da geladeira.",
-    "c": "permanecerá igual, pois toda a energia térmica absorvida pela parte frontal será irradiada na parte traseira do aparelho.",
-    "d": "reduzirá num primeiro momento, mas, tão logo o motor da geladeira começar a funcionar, a cozinha ficará mais quente do que antes.",
-    "e": "reduzirá, mas o consumo de energia da residência aumentará, pois a geladeira ficará com o motor ligado em potência máxima."
-   },
-   "resposta": "d",
-   "explicacao": "A geladeira não destrói calor: ela o bombeia de dentro para fora, e o que sai pela serpentina traseira é o calor retirado MAIS o trabalho elétrico do compressor. Com a porta aberta a cozinha vira o ambiente dos dois lados, e o saldo é positivo — ela esquenta. O primeiro instante realmente refresca, porque o ar frio já acumulado escapa, e é por isso que a alternativa (d) descreve as duas fases. A (c) erra ao supor um balanço nulo, ignorando a energia elétrica que entra; ela vale para uma máquina ideal sem consumo, que não existe. A (b) acerta o sentido, mas atribui o aquecimento só ao efeito Joule no motor, quando a maior parte é o calor bombeado de dentro para fora."
-  }
- ],
  "fisica-mecanica": [
   {
    "subtema": "fisica-mecanica",
@@ -18061,24 +16814,6 @@ window.QUESTION_BANKS = {
    "resposta": "c",
    "explicacao": "O cinto de segurança se justifica pela inércia: o corpo em movimento tende a manter direção e velocidade até que uma força externa atue sobre ele, e numa parada brusca a carroceria para enquanto o ocupante continua. A alternativa da quantidade de movimento é a mais perigosa, porque o princípio é pertinente à colisão e o momento total realmente se conserva — o erro está numa cláusula só, a de que a desaceleração da carroceria alcança o corpo do passageiro no mesmo instante. É precisamente o atraso entre as duas que o cinto existe para eliminar. A gravitação atua para baixo e sua intensidade entre painel e corpo é irrelevante. O empuxo do ar é desprezível frente à massa e à velocidade em jogo. E ação e reação descreve o par de forças no momento do impacto, sem explicar por que o corpo se desloca antes dele.",
    "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-mecanica",
-   "id": "dir-ciencias-natureza-100",
-   "texto_apoio": "Diferentes fontes de energia, renováveis e não renováveis, apresentam vantagens e desvantagens que precisam ser avaliadas de forma conjunta na definição de políticas energéticas.",
-   "enunciado": "Ao comparar diferentes fontes de energia do ponto de vista ambiental, é importante considerar que",
-   "alternativas": {
-    "a": "a comparação só é válida entre fontes que utilizem o mesmo princípio físico de geração",
-    "b": "os impactos ambientais das fontes renováveis se concentram na etapa de operação, e não na fabricação dos equipamentos, o que os torna integralmente reversíveis ao fim da vida útil da usina",
-    "c": "todas as fontes de energia, inclusive as renováveis, apresentam algum tipo de impacto ambiental em pelo menos uma etapa de seu ciclo de vida, ainda que em graus e naturezas distintos",
-    "d": "a escolha de uma fonte de energia deve se apoiar no custo por megawatt-hora ao longo da vida útil da instalação, indicador que já incorpora ao preço final os custos ambientais do projeto",
-    "e": "fontes renováveis, como a solar e a eólica, concentram seu impacto na área ocupada pela instalação, sem que a fabricação de painéis e de turbinas envolva extração mineral de porte relevante"
-   },
-   "resposta": "c",
-   "explicacao": "Toda fonte de energia, inclusive as renováveis, produz algum impacto ambiental em pelo menos uma etapa de seu ciclo de vida, ainda que em graus e naturezas muito distintos — e é essa comparação por ciclo de vida que o raciocínio ambiental exige. As duas alternativas mais fortes acertam que há impacto e erram onde ele se localiza: solar e eólica concentram o seu na fabricação dos equipamentos, que demanda mineração e energia, e operam depois com emissão quase nula. Restringir o impacto à área ocupada segue a mesma inversão. O custo por megawatt-hora ao longo da vida útil é o indicador de referência do setor, e a externalidade ambiental é justamente o que ele não precifica. E exigir o mesmo princípio físico de geração impediria qualquer comparação útil entre matrizes.",
-   "dificuldade": "dificil",
    "formato": "direta",
    "origem": "direito"
   },
@@ -18242,6 +16977,27 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-mecanica",
+   "id": "med-fisica-31",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/med/fis-velocidade-tempo.svg",
+    "descricao": "A velocidade de um veículo em função do tempo. Entre 0 e 10 s a curva é uma reta crescente de 0 a 20 m/s; entre 10 e 30 s permanece horizontal em 20 m/s; entre 30 e 40 s decresce linearmente até zero."
+   },
+   "enunciado": "A distância total percorrida pelo veículo nos 40 s é de:",
+   "alternativas": {
+    "a": "600 m",
+    "b": "800 m",
+    "c": "400 m",
+    "d": "200 m",
+    "e": "1.000 m"
+   },
+   "resposta": "a",
+   "explicacao": "A distância é a área sob o gráfico. O primeiro trecho é um triângulo: 10 x 20 ÷ 2 = 100 m. O segundo é um retângulo: 20 x 20 = 400 m. O terceiro é outro triângulo: 10 x 20 ÷ 2 = 100 m. O total é 600 m. Somar apenas os retângulos deixaria 400 m, valor oferecido em (c).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-mecanica",
    "id": "med-fisica-32",
    "texto_apoio": "Um bloco de 5,0 kg é abandonado do repouso no alto de um plano inclinado que forma 30° com a horizontal, sem atrito. Adote g = 10 m/s² e sen 30° = 0,50.",
    "enunciado": "A aceleração adquirida pelo bloco ao longo do plano é de:",
@@ -18307,23 +17063,6 @@ window.QUESTION_BANKS = {
    "explicacao": "Período igual ao de rotação da Terra e posição fixa sobre o equador definem a órbita geoestacionária. A força centrípeta é a gravitacional, dirigida ao centro do planeta. A força centrífuga citada em (b) e (c) não é uma força real — ela só aparece em referenciais não inerciais.",
    "formato": "lacunas",
    "banca": "unesp",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-mecanica",
-   "id": "med-fisica-54",
-   "texto_apoio": "Uma partícula carregada positivamente entra numa região de campo magnético uniforme com velocidade perpendicular às linhas de campo.",
-   "enunciado": "Sobre o movimento subsequente da partícula, é correto afirmar que ela:",
-   "alternativas": {
-    "a": "mantém trajetória retilínea, uma vez que a força magnética atua na mesma direção do movimento e não altera a direção da velocidade",
-    "b": "acelera uniformemente na direção do campo magnético, ganhando energia cinética de forma contínua ao longo de todo o trajeto percorrido",
-    "c": "descreve trajetória circular, já que a força magnética é sempre perpendicular à velocidade, e o campo não realiza trabalho sobre ela",
-    "d": "descreve trajetória parabólica, semelhante à de um projétil sob a ação exclusiva da atração gravitacional exercida pelo planeta Terra",
-    "e": "é imediatamente freada até o repouso, porque a força magnética se opõe sempre ao sentido do deslocamento da partícula carregada no campo"
-   },
-   "resposta": "c",
-   "explicacao": "A força magnética é sempre perpendicular à velocidade, o que a torna centrípeta: a trajetória é circular. Sendo perpendicular ao deslocamento, ela não realiza trabalho, e por isso o módulo da velocidade e a energia cinética permanecem constantes — só a direção muda.",
-   "formato": "direta",
    "origem": "medicina"
   },
   {
@@ -18578,6 +17317,23 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O período é proporcional à raiz quadrada do comprimento, então quadruplicar o comprimento dobra o período. A massa não influencia, o que descarta (a) — mas a razão é a proporcionalidade com a raiz, e não a irrelevância da massa em si.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "med-fisica-110",
+   "texto_apoio": "Duas esferas condutoras idênticas, uma com carga +8,0 μC e outra com carga −2,0 μC, são colocadas em contato e depois separadas.",
+   "enunciado": "Após a separação, a carga de cada esfera é de:",
+   "alternativas": {
+    "a": "+5,0 μC",
+    "b": "+6,0 μC",
+    "c": "+3,0 μC",
+    "d": "+10 μC",
+    "e": "zero"
+   },
+   "resposta": "c",
+   "explicacao": "Sendo idênticas, as esferas dividem igualmente a carga total após o contato. A soma algébrica é +8,0 − 2,0 = +6,0 μC, e cada uma fica com +3,0 μC. A alternativa (a) soma os módulos ignorando o sinal negativo de uma das cargas.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -19139,23 +17895,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-mecanica",
-   "id": "med-fisica-194",
-   "texto_apoio": "Numa região do espaço, o potencial elétrico no ponto A vale 500 V e no ponto B, 100 V. Uma carga de +2,0 μC é transportada de A até B.",
-   "enunciado": "O trabalho realizado pela força elétrica nesse deslocamento é de:",
-   "alternativas": {
-    "a": "−8,0 × 10⁻⁴ J",
-    "b": "1,2 × 10⁻³ J",
-    "c": "1,0 × 10⁻³ J",
-    "d": "8,0 × 10⁻⁴ J",
-    "e": "2,0 × 10⁻⁴ J"
-   },
-   "resposta": "d",
-   "explicacao": "O trabalho da força elétrica é W = q x (V_A − V_B) = 2,0 × 10⁻⁶ x 400 = 8,0 × 10⁻⁴ J, positivo porque uma carga positiva se desloca espontaneamente do potencial maior para o menor. A alternativa (a) inverte a ordem da subtração e troca o sinal do resultado. A alternativa (b) soma os potenciais em vez de subtrair, e as alternativas (c) e (e) usam apenas um dos dois potenciais.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-mecanica",
    "id": "med-fisica-200",
    "texto_apoio": "Uma partícula com carga de 2,0 × 10⁻⁶ C penetra numa região de campo magnético uniforme de intensidade 0,40 T, com velocidade de 5,0 × 10⁵ m/s perpendicular às linhas do campo.",
    "enunciado": "A intensidade da força magnética que age sobre a partícula é de:",
@@ -19509,6 +18248,22 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-mecanica",
+   "id": "med-fisica-264",
+   "enunciado": "Quando um homem se coloca em pé, projeta sobre o solo plano e horizontal uma sombra com 1,35 m de comprimento, conforme a figura 1. Quando esse mesmo homem sobe em um banco de 40 cm de altura e se mantém em pé, o banco e o homem projetam sobre o solo uma sombra com 1,65 m de comprimento, conforme a figura 2 (imagem meramente ilustrativa, gerada por IA).\n\nSabendo que nas duas situações o homem se encontra no mesmo local e no mesmo horário, a altura desse homem é",
+   "alternativas": {
+    "a": "1,75 m.",
+    "b": "1,60 m.",
+    "c": "1,65 m.",
+    "d": "1,80 m.",
+    "e": "1,70 m."
+   },
+   "resposta": "e",
+   "explicacao": "Como o Sol está no mesmo local e horário nas duas situações, os triângulos formados pela altura dos objetos e suas sombras são semelhantes: H/1,35=(H+0,40)/1,65. Resolvendo, H=1,70 m (considerando H a altura do homem e 0,40 m a altura do banco).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-mecanica",
    "id": "med-fisica-267",
    "enunciado": "No Sistema Internacional de Unidades (SI), há sete grandezas de base, dentre elas comprimento, L, massa, M, e tempo, T. Por exemplo, a dimensão da grandeza força no SI é M·L·T⁻². Em um sistema de unidades hipotético, no qual as grandezas de base sejam massa, M, velocidade, V, e tempo, T, a dimensão da grandeza força seria",
    "alternativas": {
@@ -19616,6 +18371,22 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Pela lei da gravitação universal, g=GM/R², ou seja, a razão M/R² é o que determina o valor de g na superfície de um planeta; como Urano e Terra têm valores de g parecidos, suas razões massa/raio² também devem ser próximas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "med-fisica-286",
+   "enunciado": "No modelo de átomo do hidrogênio proposto por Bohr, o elétron pode se encontrar somente em determinados níveis de energia: n=1 (fundamental, –13,6 eV), n=2 (1º excitado, –3,4 eV), n=3 (2º excitado, –1,5 eV), n=4 (3º excitado, –0,85 eV), n=∞ (0 eV).\n\nConsidere que um elétron se encontre no estado fundamental de energia no átomo de hidrogênio. De acordo com o modelo de Bohr, a menor quantidade de energia necessária para remover esse elétron do átomo e a menor quantidade de energia necessária para excitá-lo são, respectivamente,",
+   "alternativas": {
+    "a": "13,6 eV e 10,2 eV.",
+    "b": "13,6 eV e 3,4 eV.",
+    "c": "10,2 eV e 1,9 eV.",
+    "d": "3,4 eV e 1,5 eV.",
+    "e": "3,4 eV e 13,6 eV."
+   },
+   "resposta": "a",
+   "explicacao": "A energia mínima para remover o elétron do estado fundamental (n=1, −13,6 eV) até o infinito (0 eV) é 13,6 eV (ionização); a menor energia de excitação é para o primeiro nível excitado (n=2, −3,4 eV), ou seja, 13,6−3,4=10,2 eV.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -19925,6 +18696,22 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-mecanica",
+   "id": "med-fisica-338",
+   "enunciado": "O valor energético de uma barra de 100 g de chocolate ao leite, segundo sua tabela de informação nutricional, é 550 kcal. Uma pessoa, após comer e digerir a barra, recebeu energia equivalente à consumida por uma TV de LED de 100 W ligada por, aproximadamente,\n\n(Considere 1 cal = 4 J.)",
+   "alternativas": {
+    "a": "0,5 horas",
+    "b": "1,5 horas",
+    "c": "2,2 horas",
+    "d": "3,6 horas",
+    "e": "6,0 horas"
+   },
+   "resposta": "e",
+   "explicacao": "A energia da barra é 550×4000=2.200.000 J (convertendo kcal para J). Dividindo pela potência da TV (100W), o tempo equivalente é 2.200.000/100=22.000s≈6,1 horas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-mecanica",
    "id": "med-fisica-340",
    "enunciado": "Um estudante está chegando ao local em que será aplicada uma prova de vestibular. Deslocando-se em\ndireção à entrada do local, o estudante repara que o portão principal, de 5,5 m de comprimento, que\nestava totalmente aberto, começa a ser fechado automaticamente, com velocidade constante de 0,2 m/s. O\nestudante, então, inicia uma corrida para conseguir passar pelo portão.\n\nConsidere que, no momento em que o portão começa a ser fechado, o estudante encontrava-se a 100 metros de\ndistância desse portão e que, para conseguir passar por ele, é necessária uma abertura mínima de 0,5 m.\nSupondo que o estudante correrá com velocidade constante, a velocidade mínima que o estudante deve\ndesenvolver para conseguir passar pelo portão é de",
    "alternativas": {
@@ -20147,6 +18934,1255 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Na curva plana quem faz o papel de força centrípeta é o atrito, e enquanto o pneu NÃO derrapa o atrito é o estático — é ele, e não o cinético, que entra na conta. No limite, µₑ·m·g = m·v²/R, e a massa se cancela: v = √(µₑ·g·R) = √(0,75·10·120) = √900 = 30 m/s. O coeficiente cinético de 1/2 está no enunciado justamente como distrator; usá-lo daria √600 ≈ 24,5, próximo dos 25 da alternativa (d). Repare que a massa do carro não é informada porque, de fato, não faz diferença."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fisica-22",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A flauta de pã é composta por tubos fechados em uma das extremidades.\nConsiderando v_som = 330 m/s, o comprimento aproximado do tubo, para que, em seu primeiro harmônico, seja emitida a nota musical \"lá\", cuja frequência é de 440 Hz, é de",
+   "alternativas": {
+    "a": "19 cm",
+    "b": "9 cm",
+    "c": "4,5 cm",
+    "d": "38 cm",
+    "e": "75 cm"
+   },
+   "resposta": "a",
+   "explicacao": "O comprimento de onda é λ = v/f = 330/440 = 0,75 m. Num tubo FECHADO numa das pontas, a extremidade fechada é nó e a aberta é ventre, e a menor distância entre um nó e um ventre é um quarto de onda — daí, no primeiro harmônico, L = λ/4 = 0,1875 m ≈ 19 cm. A alternativa (d), 38 cm, é λ/2, que valeria para um tubo ABERTO nas duas pontas, e (e) é o próprio λ. Distinguir tubo aberto de fechado é exatamente o que a questão cobra ao mencionar que a flauta de pã tem uma extremidade tampada."
+  }
+ ],
+ "fisica-termologia": [
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-10",
+   "texto_apoio": "Fenômenos como o aquecimento de uma xícara de café e o resfriamento de uma bebida gelada em ambiente quente ilustram princípios básicos de transferência de calor.",
+   "enunciado": "De acordo com os princípios da termodinâmica, o calor flui espontaneamente",
+   "alternativas": {
+    "a": "apenas entre corpos que já se encontram à mesma temperatura, condição em que a troca térmica passa a ocorrer nos dois sentidos com igual intensidade",
+    "b": "de corpos com menor temperatura para corpos com maior temperatura, desde que os dois estejam em contato direto e isolados do ambiente ao redor",
+    "c": "de corpos com maior temperatura para corpos com menor temperatura, até que o equilíbrio térmico seja atingido",
+    "d": "de corpos com maior capacidade térmica para os de menor capacidade térmica",
+    "e": "de forma proporcional à massa de cada corpo, de modo que o mais pesado cede calor ao mais leve até que ambos igualem sua energia interna"
+   },
+   "resposta": "c",
+   "explicacao": "O calor flui espontaneamente do corpo mais quente para o mais frio, até que os dois atinjam o equilíbrio térmico — é o que a segunda lei da termodinâmica estabelece sobre o sentido dessa troca. Dizer que o fluxo ocorre entre corpos de mesma temperatura descreve justamente a situação de equilíbrio, em que não há fluxo líquido. Inverter o sentido, do mais frio para o mais quente, é possível apenas com trabalho externo, como no refrigerador, e não de forma espontânea. Fazer o fluxo depender da massa confunde temperatura com energia interna: um corpo pequeno e muito quente cede calor a um grande e frio. E a capacidade térmica determina quanto a temperatura varia, não para que lado o calor vai.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-39",
+   "texto_apoio": "A obesidade é definida, do ponto de vista clínico, como o acúmulo excessivo de gordura corporal, associado a diversos riscos à saúde.",
+   "enunciado": "Do ponto de vista fisiológico básico, a obesidade está relacionada, principalmente, a um",
+   "alternativas": {
+    "a": "aumento do consumo de água associado à retenção de líquidos, independentemente do total de calorias ingeridas",
+    "b": "deficiência de vitaminas lipossolúveis, o que comprometeria o metabolismo das gorduras",
+    "c": "excesso exclusivo de proteínas na dieta, independentemente do total calórico consumido, fator isolado e insuficiente",
+    "d": "balanço energético positivo prolongado, em que a ingestão calórica excede de forma sustentada o gasto do organismo",
+    "e": "balanço energético neutro, mantido ao longo do tempo, em que a ingestão calórica tende a se igualar ao gasto energético do organismo"
+   },
+   "resposta": "d",
+   "explicacao": "O acúmulo de gordura corresponde a energia ingerida que não foi gasta, sustentada ao longo do tempo — sobre o que atuam fatores genéticos, metabólicos, comportamentais e ambientais. Em (e) está o distrator mais bem construído, porque usa o vocabulário certo e erra o sinal: balanço neutro é exatamente a condição de peso estável, e não de ganho. Em (a) e (b), retenção de água e deficiência vitamínica não produzem acúmulo de tecido adiposo. Em (c), o que pesa é o total calórico, não o macronutriente isolado.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-59",
+   "texto_apoio": "Em grandes cidades, é comum observar que a temperatura em áreas centrais e densamente construídas costuma ser mais elevada do que em regiões periféricas ou rurais próximas.",
+   "enunciado": "O fenômeno conhecido como \"ilha de calor urbana\" está relacionado, entre outros fatores,",
+   "alternativas": {
+    "a": "principalmente ao calor liberado por veículos e por aparelhos de ar-condicionado, cuja soma responderia pela quase totalidade da diferença de temperatura entre o centro e a periferia",
+    "b": "à maior concentração de superfícies pavimentadas, como asfalto e concreto, que retêm e reemitem mais calor, somada à menor presença de vegetação nas áreas centrais",
+    "c": "à substituição do concreto aparente por revestimentos claros e refletivos nas fachadas dos edifícios centrais, que devolvem à atmosfera a radiação recebida",
+    "d": "à maior presença de áreas verdes e de corpos d'água nas regiões centrais, que elevariam a umidade do ar e, com ela, a temperatura registrada nas estações",
+    "e": "à maior altitude média das áreas centrais em relação à periferia"
+   },
+   "resposta": "b",
+   "explicacao": "A ilha de calor urbana resulta da concentração de superfícies pavimentadas — asfalto e concreto — que absorvem e reemitem calor, somada à menor presença de vegetação no centro. O calor liberado por veículos e ar-condicionado é o distrator mais forte porque de fato contribui, e é fonte secundária diante da capacidade térmica do pavimento e da falta de sombra e evapotranspiração. O revestimento claro e refletivo engana pelo motivo oposto: ele existe, é recomendado, e reduz a ilha de calor em vez de causá-la. Atribuir o fenômeno a mais áreas verdes e água no centro inverte a distribuição real dessas superfícies na cidade. E explicá-lo pela altitude troca um fator geográfico por um fator de cobertura do solo: cidades planas apresentam o mesmo efeito.",
+   "dificuldade": "media",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-60",
+   "texto_apoio": "Relatórios científicos internacionais têm associado as mudanças climáticas ao aumento da frequência e da intensidade de eventos climáticos extremos, como chuvas intensas e secas prolongadas.",
+   "enunciado": "Do ponto de vista científico, a relação entre o aquecimento global e o aumento de eventos climáticos extremos se explica, entre outros fatores, porque",
+   "alternativas": {
+    "a": "as mudanças climáticas se somam à variabilidade natural do clima, o que torna cada evento extremo isoladamente atribuível ao aquecimento, sem necessidade de análise estatística que separe a contribuição de cada uma das duas causas",
+    "b": "o aquecimento global reduz a umidade atmosférica, o que diminui a intensidade das chuvas",
+    "c": "o aumento da temperatura média eleva a energia e o vapor d'água disponíveis na atmosfera, intensificando chuvas concentradas e alterando padrões de circulação associados a secas em outras regiões",
+    "d": "o aquecimento global reduz a umidade atmosférica sobre os continentes, porque a evaporação mais intensa transfere água em definitivo para as bacias oceânicas",
+    "e": "o aumento da temperatura média distribui a energia atmosférica de modo mais uniforme pelo planeta, reduzindo os contrastes térmicos que dão origem a tempestades severas"
+   },
+   "resposta": "c",
+   "explicacao": "O aumento da temperatura média eleva a energia e o vapor d'água disponíveis na atmosfera, o que intensifica chuvas concentradas e altera padrões de circulação ligados a secas em outras regiões. A alternativa que dispensa a análise estatística é a mais instrutiva de descartar: mudanças climáticas e variabilidade natural coexistem, e é justamente por isso que atribuir um evento isolado ao aquecimento exige estudo de atribuição, e não inspeção direta. Dizer que o aquecimento reduz a umidade contraria a relação física entre temperatura e capacidade do ar de retê-la, cerca de 7% a mais por grau. Supor distribuição uniforme de energia apaga os contrastes que geram tempestade. E reduzir a intensidade das chuvas parte da mesma premissa invertida sobre umidade.",
+   "dificuldade": "dificil",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-81",
+   "texto_apoio": "Em um dia frio, tocar em uma superfície de metal costuma parecer mais gelado do que tocar em uma superfície de madeira à mesma temperatura ambiente.",
+   "enunciado": "Essa sensação diferente de temperatura entre metal e madeira, mesmo estando ambos à mesma temperatura ambiente, está relacionada, principalmente,",
+   "alternativas": {
+    "a": "à rugosidade da superfície tocada, que determina a área efetiva de contato com a pele e, com ela, a intensidade da sensação térmica percebida na ponta dos dedos",
+    "b": "à cor da superfície tocada, mais escura no metal do que na madeira, o que aumenta a quantidade de calor que ele irradia em direção à mão",
+    "c": "ao fato de o metal, por ser melhor condutor térmico do que a madeira, retirar calor da mão mais rapidamente, o que intensifica a sensação de frio",
+    "d": "à diferença de calor específico entre os materiais, que altera a temperatura de cada um",
+    "e": "ao fato de o metal estar, de fato, a uma temperatura real mais baixa do que a madeira, mesmo estando ambos no mesmo ambiente há horas"
+   },
+   "resposta": "c",
+   "explicacao": "O metal parece mais frio porque conduz calor melhor que a madeira e retira calor da mão mais rapidamente, e é essa taxa de retirada, não a temperatura do objeto, que a pele registra. A rugosidade é o distrator mais defensável, porque a área efetiva de contato influencia de fato a sensação ao toque — é fator secundário diante da diferença de condutividade entre os dois materiais. A cor governa a troca por radiação, que é irrelevante no contato direto. O calor específico determina quanto a temperatura de cada material varia ao receber calor, e não a velocidade com que ele o retira da pele. E supor que o metal esteja realmente mais frio contraria a premissa do enunciado, segundo a qual ambos estão à temperatura do ambiente.",
+   "dificuldade": "media",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-97",
+   "texto_apoio": "Em regiões com atividade vulcânica ou geotérmica, como a Islândia, é possível aproveitar o calor proveniente do interior da Terra para gerar eletricidade.",
+   "enunciado": "A energia geotérmica é obtida, essencialmente, a partir do aproveitamento",
+   "alternativas": {
+    "a": "do calor natural armazenado no interior da Terra, que aquece água ou vapor subterrâneo, usados para movimentar turbinas e gerar eletricidade ou para aquecimento direto",
+    "b": "da diferença de temperatura entre as camadas superficiais e profundas dos oceanos",
+    "c": "do calor liberado pelo atrito entre as placas tectônicas em regiões de contato, energia que seria captada por trocadores instalados a poucas centenas de metros de profundidade no terreno",
+    "d": "exclusivamente da energia liberada por reações de fissão nuclear no núcleo terrestre, processo que não corresponde ao decaimento radioativo natural que origina o calor geotérmico",
+    "e": "da luz solar concentrada por espelhos posicionados sobre reservatórios subterrâneos de água, tecnologia que caracteriza a energia solar concentrada, não a geotérmica"
+   },
+   "resposta": "a",
+   "explicacao": "A energia geotérmica é obtida a partir do aproveitamento do calor natural armazenado no interior da Terra, que pode aquecer reservatórios subterrâneos de água ou vapor; esse calor pode ser utilizado diretamente para aquecimento ou para movimentar turbinas que geram eletricidade, sendo especialmente viável em regiões de intensa atividade geológica, como zonas vulcânicas.",
+   "dificuldade": "media",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-98",
+   "texto_apoio": "Estudos de saúde pública frequentemente destacam que fatores sociais e econômicos influenciam diretamente os indicadores de saúde de uma população, além de fatores estritamente biológicos.",
+   "enunciado": "O conceito de \"determinantes sociais da saúde\", utilizado por organismos como a Organização Mundial da Saúde, refere-se",
+   "alternativas": {
+    "a": "ao acesso individual a planos de saúde privados e à capacidade de cada pessoa de custear os tratamentos de que venha a necessitar ao longo da vida",
+    "b": "aos fatores ambientais e climáticos de cada região, como temperatura, umidade e qualidade do ar, que condicionariam por si sós a incidência das principais doenças e a expectativa de vida da população local",
+    "c": "à disponibilidade de tecnologia médica de alta complexidade em cada região",
+    "d": "aos fatores genéticos e biológicos herdados que predispõem o indivíduo a determinadas doenças, identificáveis por exame antes mesmo do aparecimento de sintomas",
+    "e": "às condições sociais, econômicas e ambientais em que as pessoas nascem, vivem, trabalham e envelhecem, que influenciam seus níveis de saúde e sua vulnerabilidade a doenças"
+   },
+   "resposta": "e",
+   "explicacao": "Determinantes sociais da saúde são as condições sociais, econômicas e ambientais em que as pessoas nascem, vivem, trabalham e envelhecem, e que moldam seus níveis de saúde e sua vulnerabilidade a doenças. Os fatores ambientais e climáticos são o distrator mais forte porque integram esse conjunto: o erro está em tomá-los como explicação suficiente, o que deixaria de fora renda, escolaridade, moradia e trabalho. Reduzir o conceito ao acesso a plano privado troca determinante social por capacidade de pagamento individual. Os fatores genéticos operam em outro plano, o biológico, e é precisamente a ele que o conceito se opõe. E a disponibilidade de tecnologia médica de alta complexidade é uma característica do sistema de serviços, não das condições de vida.",
+   "dificuldade": "media",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-102",
+   "texto_apoio": "Uma cooperativa triturou juntos dois polímeros de densidades diferentes e precisa separá-los antes de encaminhá-los a processos de reciclagem distintos.",
+   "enunciado": "O procedimento adequado consiste em preparar uma solução de ____________ apropriada, permitindo separar os materiais por ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+   "alternativas": {
+    "a": "densidade - filtração simples",
+    "b": "temperatura de fusão - flotação",
+    "c": "densidade - flotação",
+    "d": "acidez - dissolução seletiva",
+    "e": "densidade - destilação"
+   },
+   "resposta": "c",
+   "explicacao": "Ajustando a densidade da solução entre as densidades dos dois polímeros, um flutua e o outro afunda. Três opções acertam \"densidade\" e erram o método — destilação separa líquidos por ebulição e filtração separa sólido de líquido, nenhuma das duas distingue dois sólidos triturados.",
+   "formato": "lacunas",
+   "origem": "direito"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-109",
+   "texto_apoio": "Nuvens de grande desenvolvimento vertical formam-se quando ar quente e úmido próximo à superfície sobe na atmosfera.",
+   "enunciado": "O mecanismo de transporte de calor descrito é a ____________ , e ele ocorre porque o ar aquecido apresenta ____________ em relação ao ar mais frio ao redor.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+   "alternativas": {
+    "a": "irradiação - menor densidade",
+    "b": "convecção - maior calor específico",
+    "c": "convecção - menor densidade",
+    "d": "convecção - maior densidade",
+    "e": "condução - menor densidade"
+   },
+   "resposta": "c",
+   "explicacao": "Ar aquecido se expande, fica menos denso e sobe: é convecção. Duas opções acertam \"convecção\" e erram a causa — se o ar quente fosse mais denso, ele desceria, e não haveria nuvem de desenvolvimento vertical.",
+   "formato": "lacunas",
+   "origem": "direito"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-110",
+   "texto_apoio": "Determinada massa de chumbo sólido recebe calor de uma fonte de potência constante. A temperatura sobe até certo valor e permanece constante enquanto o material passa ao estado líquido.",
+   "enunciado": "Durante o patamar, o calor recebido é chamado de ____________ , e a energia fornecida está sendo usada para ____________ .\nAs lacunas do texto são preenchidas, respectivamente, por:",
+   "alternativas": {
+    "a": "calor específico - reduzir a massa do material",
+    "b": "calor latente - romper as ligações que mantêm a estrutura do sólido",
+    "c": "calor latente - aumentar a energia cinética média das partículas",
+    "d": "calor latente - elevar a temperatura do material",
+    "e": "calor sensível - romper as ligações que mantêm a estrutura do sólido"
+   },
+   "resposta": "b",
+   "explicacao": "No patamar a temperatura não varia, então a energia não está aumentando a agitação média: está desmontando a estrutura cristalina. Duas opções acertam \"calor latente\" e oferecem justificativas que descreveriam calor sensível — que é o que ocorre fora do patamar.",
+   "formato": "lacunas",
+   "origem": "direito"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-148",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q16.png",
+    "descricao": "Desenho do termoscópio de Galileu: uma esfera oca de vidro no alto, ligada a um tubo fino vertical cuja extremidade aberta mergulha num recipiente com água colorida. O líquido penetrou no tubo até certa altura, indicada pela coluna colorida. Ao lado, uma nota: o ar no termoscópio deve ser considerado um gás ideal."
+   },
+   "enunciado": "O termoscópio de Galileu, um dos primeiros instrumentos usados para indicar variações de temperatura, é formado por uma esfera oca de vidro ligada a um fino tubo, também de vidro, aberto em sua extremidade. O lado aberto do tubo está mergulhado em um recipiente contendo água com corante e pode-se observar que o líquido penetra no vidro até uma certa altura, como ilustra a figura. O sistema está à temperatura ambiente de 23 °C. Nestas condições, a esfera preenchida com ar é borrifada com álcool e a temperatura do ar dentro do termoscópio",
+   "alternativas": {
+    "a": "aumenta, e a água sobe no tubo.",
+    "b": "aumenta, e a água desce no tubo.",
+    "c": "diminui, e a água desce no tubo.",
+    "d": "diminui, e a água sobe no tubo.",
+    "e": "não varia, e a água permanece na mesma altura."
+   },
+   "resposta": "d",
+   "explicacao": "O álcool evapora rapidamente, e a vaporização é endotérmica: para mudar de estado ele retira calor do vidro e, por consequência, do ar aprisionado dentro da esfera. A temperatura do gás cai. Como o volume da esfera é praticamente fixo, a lei dos gases diz que a pressão interna cai junto, e a pressão atmosférica, agora maior, empurra a água para cima no tubo. O erro comum é imaginar que borrifar um líquido volátil aquece por atrito ou por contato, invertendo o sentido das duas mudanças.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-149",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q17.png",
+    "descricao": "Diagrama pressão versus volume do ciclo de Stirling, com quatro estados numerados. Duas curvas descendentes ligam 3 a 4 e 2 a 1, ambas em forma de hipérbole, que são as isotérmicas. Dois segmentos verticais fecham o ciclo: um sobe de 2 a 3 e outro desce de 4 a 1, ambos a volume constante."
+   },
+   "enunciado": "O motor de Stirling é um motor de combustão externa, cujo ciclo possui o mesmo princípio do ciclo de Carnot. Um esquema do diagrama pressão (P) x volume (V) para o ciclo termodinâmico de Stirling, com gás suposto ideal, está apresentado na figura, sendo as transformações 1→2 e 3→4, isotérmicas.\nConsidere as seguintes afirmações:\nI. Na compressão isotérmica, o gás perde calor.\nII. Na transformação isométrica 2→3, não há realização de trabalho e o gás recebe calor.\nIII. Na expansão isotérmica, o gás realiza trabalho e recebe calor.\nIV. Na transformação isométrica 4→1, o gás realiza trabalho e perde calor.\nEstão corretas apenas as afirmações:",
+   "alternativas": {
+    "a": "II e III.",
+    "b": "I e IV.",
+    "c": "I, III e IV.",
+    "d": "I, II e III.",
+    "e": "I, III."
+   },
+   "resposta": "d",
+   "explicacao": "Numa isotérmica de gás ideal a energia interna não muda, então o calor trocado iguala o trabalho: comprimindo, o gás recebe trabalho e perde calor (I correta); expandindo, realiza trabalho e recebe calor (III correta). Numa isométrica o volume é constante, logo o trabalho é nulo — e é justamente aí que IV erra, ao afirmar que o gás realiza trabalho em 4→1. A II está certa: sem trabalho, todo o calor recebido em 2→3 vai para a energia interna, e a pressão sobe.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-159",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Estudos sobre meio ambiente, em especial sobre mudanças climáticas, indicam que se o planeta Terra não tivesse atmosfera, sua temperatura média global seria 33 °C menor do que é hoje, resultado que mostra a importância do efeito estufa para a vida no nosso planeta. No entanto, o aumento da concentração de gases do efeito estufa, como CO₂, CH₄ e O₃, está acarretando o aumento da potência da radiação eletromagnética emitida pela atmosfera e, consequentemente, da temperatura média da superfície da Terra. Esses estudos também mostram que a taxa de absorção e emissão de radiação pela atmosfera varia com a sua frequência.",
+   "enunciado": "A partir dessas informações, pode-se afirmar que os gases do efeito estufa emitem radiação eletromagnética",
+   "alternativas": {
+    "a": "de forma intensa na faixa do infravermelho e a absorvem.",
+    "b": "de forma intensa na faixa do ultravioleta e a absorvem.",
+    "c": "de forma intensa na faixa do visível e a absorvem.",
+    "d": "na faixa do infravermelho, mas não a absorvem.",
+    "e": "na faixa do ultravioleta, mas não a absorvem."
+   },
+   "resposta": "a",
+   "explicacao": "A Terra, aquecida pelo Sol, reemite energia como radiação infravermelha, e é essa faixa que os gases estufa absorvem. Pela lei de Kirchhoff da radiação, um bom absorvedor numa dada frequência é também um bom EMISSOR naquela mesma frequência — daí a atmosfera reemitir infravermelho de volta para a superfície, que é o mecanismo do efeito estufa. As alternativas d e e quebram exatamente essa simetria entre absorver e emitir; ultravioleta e visível são as faixas que atravessam a atmosfera, não as que ela retém.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-11",
+   "texto_apoio": "Uma barra metálica de 2,0 m de comprimento a 20 °C é aquecida até 120 °C. O coeficiente de dilatação linear do material é 2,0 × 10⁻⁵ °C⁻¹.",
+   "enunciado": "A variação no comprimento da barra é de:",
+   "alternativas": {
+    "a": "0,04 mm",
+    "b": "0,40 mm",
+    "c": "40 mm",
+    "d": "4,0 cm",
+    "e": "4,0 mm"
+   },
+   "resposta": "e",
+   "explicacao": "ΔL = L₀ x α x ΔT = 2,0 x 2,0 x 10⁻⁵ x 100 = 4,0 x 10⁻³ m, ou 4,0 mm. A alternativa (c) resulta de usar a temperatura final em vez da variação, e (b), de errar uma casa decimal na conversão de unidades.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-12",
+   "texto_apoio": "Um bloco de gelo de 100 g a 0 °C recebe calor até se fundir completamente, permanecendo a 0 °C. O calor latente de fusão do gelo é 80 cal/g.",
+   "enunciado": "A quantidade de calor absorvida e a razão de a temperatura não variar durante o processo são:",
+   "alternativas": {
+    "a": "16.000 cal, e a constância da temperatura decorre da compensação exata entre o calor recebido e o calor perdido para o ambiente circundante",
+    "b": "800 cal, e a temperatura permanece constante porque a massa de gelo é pequena demais para registrar variação nos instrumentos usuais de medição",
+    "c": "8.000 cal, e a temperatura só voltaria a subir se a pressão sobre a amostra fosse simultaneamente reduzida durante a fusão do material",
+    "d": "80 cal, e a energia fornecida se distribui igualmente entre a elevação da temperatura e a alteração do estado físico da amostra considerada",
+    "e": "8.000 cal, e a energia é usada para romper as ligações entre as moléculas na mudança de estado, e não para elevar a energia cinética média"
+   },
+   "resposta": "e",
+   "explicacao": "Q = m x L = 100 x 80 = 8.000 cal. Durante a mudança de estado toda a energia é usada para vencer as interações que mantêm a estrutura do sólido, e não para aumentar a energia cinética média das partículas — que é o que a temperatura mede.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-22",
+   "texto_apoio": "Um gás ideal sofre uma transformação isotérmica em que seu volume é reduzido à metade. O sistema troca calor com o ambiente durante o processo.",
+   "enunciado": "Nessa transformação, a variação da energia interna do gás e o sinal do calor trocado são, respectivamente:",
+   "alternativas": {
+    "a": "nula, e o gás recebe calor do ambiente, já que o trabalho realizado sobre ele precisa ser compensado por um fluxo de energia térmica",
+    "b": "positiva, e o gás recebe calor do ambiente, uma vez que a compressão eleva a temperatura do sistema e exige aporte adicional de energia",
+    "c": "negativa, e o gás cede calor ao ambiente, condição decorrente da redução simultânea do volume e da temperatura do gás considerado",
+    "d": "nula, e o gás cede calor ao ambiente, pois num gás ideal a energia interna depende só da temperatura, mantida constante no processo",
+    "e": "positiva, e não há troca de calor, situação em que toda a energia do trabalho realizado permanece armazenada no interior do sistema"
+   },
+   "resposta": "d",
+   "explicacao": "Num gás ideal a energia interna depende só da temperatura; sendo isotérmica, a variação é nula. Pela primeira lei, o calor iguala o trabalho realizado pelo gás. Como o gás é comprimido, o trabalho realizado por ele é negativo, e o calor também: o gás cede energia ao ambiente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-23",
+   "texto_apoio": "Uma máquina térmica opera entre uma fonte quente a 600 K e uma fonte fria a 300 K. Um engenheiro afirma que conseguiu construir uma máquina com rendimento de 60% operando entre essas mesmas temperaturas.",
+   "enunciado": "A afirmação do engenheiro é:",
+   "alternativas": {
+    "a": "impossível, porque nenhuma máquina térmica consegue ultrapassar o rendimento de 40% em qualquer condição de operação já registrada",
+    "b": "possível, desde que a máquina utilize um fluido de trabalho com calor específico elevado e opere em ciclos de duração bastante curta",
+    "c": "possível, uma vez que o rendimento de uma máquina térmica depende exclusivamente da qualidade construtiva dos componentes empregados",
+    "d": "impossível, porque o rendimento máximo teórico entre essas temperaturas é de 50%, dado por 1 menos a razão entre os 300 K e os 600 K",
+    "e": "possível apenas se a máquina operar em ciclo reversível, condição em que o rendimento pode superar o limite previsto para o ciclo de Carnot"
+   },
+   "resposta": "d",
+   "explicacao": "O rendimento máximo é o do ciclo de Carnot: 1 − (T fria ÷ T quente) = 1 − (300 ÷ 600) = 0,50, ou 50%. Nenhuma máquina real supera esse limite, que decorre da segunda lei da termodinâmica. A alternativa (e) inverte o papel do ciclo reversível, que estabelece o teto e não o ultrapassa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-36",
+   "texto_apoio": "Dois corpos de massas diferentes são colocados em contato térmico dentro de um recipiente isolado. O corpo A está a 80 °C e o corpo B, a 20 °C. Após algum tempo, os dois atingem a mesma temperatura.",
+   "enunciado": "A temperatura final de equilíbrio:",
+   "alternativas": {
+    "a": "depende das massas e dos calores específicos dos dois corpos, resultando numa média ponderada pelas capacidades térmicas de cada um",
+    "b": "é igual à média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius para as combinações de massas consideradas no problema",
+    "c": "é sempre mais próxima da temperatura do corpo mais quente, uma vez que ele possui maior quantidade de energia térmica acumulada no início",
+    "d": "depende apenas da diferença entre as temperaturas iniciais, sem qualquer influência das características materiais de cada um dos corpos",
+    "e": "corresponde à temperatura do corpo de maior massa, que impõe sua condição térmica ao corpo menor durante o processo de equilíbrio"
+   },
+   "resposta": "a",
+   "explicacao": "O calor cedido por um iguala o recebido pelo outro, e cada parcela é o produto de massa, calor específico e variação de temperatura. A temperatura final é uma média ponderada por essas capacidades térmicas, e só coincide com a média aritmética quando os produtos massa vezes calor específico são iguais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-37",
+   "texto_apoio": "Uma panela metálica com cabo de baquelite é usada para ferver água em um fogão a gás. Observa-se que o fundo da panela aquece rapidamente, a água aquece por movimentos ascendentes e descendentes, e o cabo permanece frio ao toque.",
+   "enunciado": "Os três processos de transmissão de calor envolvidos na situação descrita são, respectivamente:",
+   "alternativas": {
+    "a": "radiação em todos os três casos, uma vez que a energia sempre se propaga por ondas eletromagnéticas independentemente do meio material",
+    "b": "radiação no metal, condução na água e convecção ao longo do cabo, que dissipa calor para o ambiente por meio de correntes de ar quente",
+    "c": "convecção no metal, radiação na água e condução no cabo, sequência determinada pelo estado físico de cada um dos materiais envolvidos",
+    "d": "condução no metal, radiação na água e convecção no cabo, arranjo que decorre das diferentes temperaturas atingidas em cada região da panela",
+    "e": "condução no metal, convecção na água e baixa condutividade do cabo"
+   },
+   "resposta": "e",
+   "explicacao": "Metais conduzem bem porque os elétrons livres transportam energia. Na água, o aquecimento no fundo reduz a densidade local e cria correntes ascendentes: convecção. A baquelite é isolante e transmite mal por condução, o que mantém o cabo frio — as três situações do enunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-47",
+   "texto_apoio": "Um recipiente contém água e um bloco de gelo flutuando. O conjunto é observado até que todo o gelo derreta, sem trocas de calor com o exterior além das necessárias à fusão.",
+   "enunciado": "Após a fusão completa do gelo, o nível da água no recipiente:",
+   "alternativas": {
+    "a": "sobe consideravelmente, uma vez que todo o volume do bloco de gelo, inclusive a porção emersa, se converte em água líquida ao final",
+    "b": "sobe, porque a água líquida ocupa volume maior que o gelo de mesma massa em razão da menor densidade apresentada pelo estado sólido",
+    "c": "desce, porque parte da água evapora durante o processo de fusão e escapa do recipiente na forma de vapor para o ambiente externo",
+    "d": "permanece o mesmo, porque o volume submerso do gelo já correspondia ao volume da água que ele originaria",
+    "e": "desce, porque a temperatura mais baixa da água resultante provoca contração do volume total contido no interior do recipiente utilizado"
+   },
+   "resposta": "d",
+   "explicacao": "O gelo flutua deslocando um volume de água cujo peso iguala o seu. Ao derreter, ele produz exatamente essa massa de água, que ocupa justamente o volume antes deslocado. O nível não muda — resultado que contraria a intuição de (a), e que explica por que o degelo marinho não eleva o nível do mar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-55",
+   "texto_apoio": "Um termômetro de mercúrio registra 40 °C. Deseja-se converter essa leitura para as escalas Fahrenheit e Kelvin.",
+   "enunciado": "Os valores correspondentes nas escalas Fahrenheit e Kelvin são, respectivamente:",
+   "alternativas": {
+    "a": "72 °F e 313 K",
+    "b": "104 °F e 313 K",
+    "c": "104 °F e 233 K",
+    "d": "40 °F e 273 K",
+    "e": "313 °F e 104 K"
+   },
+   "resposta": "b",
+   "explicacao": "Para Fahrenheit: (40 x 9 ÷ 5) + 32 = 72 + 32 = 104 °F. Para Kelvin: 40 + 273 = 313 K. A alternativa (a) esquece a soma de 32, que é a diferença entre os zeros das duas escalas — omissão que produz um valor sistematicamente baixo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-56",
+   "texto_apoio": "A água apresenta comportamento anômalo entre 0 °C e 4 °C: ao ser aquecida nesse intervalo, seu volume diminui em vez de aumentar. Acima de 4 °C, ela se comporta como a maioria das substâncias.",
+   "enunciado": "Uma consequência ecológica direta desse comportamento é que:",
+   "alternativas": {
+    "a": "os lagos congelam do fundo para a superfície, o que elimina qualquer possibilidade de sobrevivência da fauna aquática durante o inverno rigoroso",
+    "b": "lagos congelam de cima para baixo, porque a água a 4 °C é a mais densa e fica no fundo, e a camada de gelo isola a água líquida abaixo",
+    "c": "a temperatura da água de um lago permanece uniforme em toda a sua profundidade ao longo de todas as estações do ano na mesma região",
+    "d": "a evaporação da água aumenta durante o inverno, o que reduz progressivamente o volume total dos corpos hídricos das regiões temperadas",
+    "e": "os organismos aquáticos precisam migrar anualmente para regiões mais quentes, já que nenhuma camada líquida permanece disponível no inverno"
+   },
+   "resposta": "b",
+   "explicacao": "A água a 4 °C é a mais densa e se acomoda no fundo; a mais fria, menos densa, sobe e congela na superfície. O gelo formado flutua e isola termicamente a coluna abaixo, que permanece líquida — é isso que permite a vida aquática atravessar o inverno em lagos congelados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-63",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/med/fis-mudanca-de-estado.svg",
+    "descricao": "A temperatura de uma amostra de 200 g de uma substância em função do calor recebido. A curva sobe até 0 °C, permanece horizontal por um trecho, volta a subir até 100 °C, permanece horizontal por um trecho bem mais longo e volta a subir."
+   },
+   "enunciado": "Os dois trechos horizontais correspondem a ______, e o segundo é mais longo porque ______. As lacunas são preenchidas por:",
+   "alternativas": {
+    "a": "mudanças de estado – o calor latente de vaporização é maior que o de fusão",
+    "b": "erros de leitura do instrumento – a precisão do termômetro diminui em temperaturas mais elevadas do que a faixa de calibração adotada",
+    "c": "intervalos de resfriamento – a amostra perde calor para o ambiente com mais intensidade quando sua temperatura se aproxima de cem graus",
+    "d": "mudanças de estado – a massa da amostra aumenta durante a segunda transição em razão da absorção de vapor de água do ar circundante",
+    "e": "equilíbrios térmicos com o ambiente – a temperatura ambiente coincide com os dois patamares observados no gráfico construído no experimento"
+   },
+   "resposta": "a",
+   "explicacao": "Durante a mudança de estado a temperatura não varia: toda a energia vai para reorganizar as ligações. O patamar da vaporização é mais longo porque o calor latente correspondente é muito maior — separar completamente as moléculas custa bem mais que apenas permitir que deslizem umas sobre as outras.",
+   "formato": "lacunas",
+   "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-64",
+   "texto_apoio": "Um refrigerador retira calor do interior e o rejeita ao ambiente da cozinha, consumindo energia elétrica. Um estudante propõe resfriar a cozinha inteira deixando a porta da geladeira aberta.",
+   "enunciado": "A proposta não funciona porque o refrigerador:",
+   "alternativas": {
+    "a": "rejeita ao ambiente mais calor do que retira, pela energia elétrica que consome",
+    "b": "retira calor apenas do ar contido no interior do compartimento fechado, e a abertura da porta interrompe completamente o funcionamento do sistema",
+    "c": "produz frio, que se dispersaria rapidamente pela cozinha e seria neutralizado pelo calor vindo das paredes e do teto do ambiente considerado",
+    "d": "consome energia elétrica que se converte integralmente em trabalho mecânico, sem qualquer parcela dissipada na forma de calor no ambiente",
+    "e": "funciona apenas quando a diferença de temperatura entre o interior e o exterior supera determinado valor mínimo estabelecido pelo fabricante"
+   },
+   "resposta": "a",
+   "explicacao": "O refrigerador transfere calor do interior para o ambiente e ainda dissipa nele a energia elétrica consumida. O balanço líquido é de aquecimento da cozinha. A alternativa (c) trata o frio como substância que se dispersa — frio é ausência de calor, e não algo que se produz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-74",
+   "texto_apoio": "Uma placa metálica com um furo circular no centro é aquecida uniformemente. Um estudante prevê que o furo diminuirá de diâmetro, porque o metal ao redor se expandirá para dentro.",
+   "enunciado": "A previsão do estudante está incorreta, porque ao ser aquecida a placa faz o furo:",
+   "alternativas": {
+    "a": "assumir forma elíptica, em razão da diferença entre os coeficientes de dilatação nas duas direções principais da placa metálica aquecida",
+    "b": "manter exatamente o mesmo diâmetro, uma vez que o vazio não é composto por matéria capaz de sofrer dilatação térmica durante o aquecimento",
+    "c": "diminuir de diâmetro em proporção menor que a prevista, mas ainda assim na direção indicada pelo raciocínio apresentado pelo estudante",
+    "d": "aumentar de diâmetro, como se ele fosse feito do mesmo material que a placa, uma vez que todas as dimensões crescem na mesma proporção",
+    "e": "aumentar de diâmetro apenas se a placa for aquecida por uma de suas faces, e diminuir se o aquecimento for aplicado de modo uniforme"
+   },
+   "resposta": "d",
+   "explicacao": "Na dilatação térmica todas as dimensões crescem na mesma proporção, inclusive as de cavidades: o furo se comporta como se fosse feito do material da placa. É o princípio usado para encaixar peças por interferência — aquece-se o anel externo para que seu orifício aumente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-87",
+   "texto_apoio": "Um recipiente fechado contém gás ideal a temperatura constante. O volume é reduzido a um terço do valor inicial por meio de um êmbolo móvel.",
+   "enunciado": "A pressão final do gás, comparada à inicial, é:",
+   "alternativas": {
+    "a": "três vezes menor",
+    "b": "três vezes maior",
+    "c": "nove vezes maior",
+    "d": "a mesma",
+    "e": "um terço maior"
+   },
+   "resposta": "b",
+   "explicacao": "Numa transformação isotérmica de gás ideal o produto pressão-volume é constante. Reduzindo o volume a um terço, a pressão triplica. A alternativa (a) inverte a relação, tratando pressão e volume como diretamente proporcionais em vez de inversamente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-94",
+   "texto_apoio": "Um bloco de alumínio de 500 g a 20 °C recebe 4.500 J de calor. O calor específico do alumínio é 0,90 J·g⁻¹·°C⁻¹.",
+   "enunciado": "A temperatura final do bloco é de:",
+   "alternativas": {
+    "a": "30 °C",
+    "b": "10 °C",
+    "c": "50 °C",
+    "d": "120 °C",
+    "e": "25 °C"
+   },
+   "resposta": "a",
+   "explicacao": "A variação de temperatura é Q ÷ (m x c) = 4.500 ÷ (500 x 0,90) = 10 °C. Somando à inicial: 30 °C. A alternativa (b) apresenta apenas a variação, esquecendo de somá-la à temperatura de partida — omissão frequente nesse tipo de item.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-103",
+   "texto_apoio": "Um ciclo termodinâmico é representado num diagrama de pressão por volume como um retângulo percorrido no sentido horário. O gás realiza expansão isobárica, resfriamento isovolumétrico, compressão isobárica e aquecimento isovolumétrico.",
+   "enunciado": "Nesse ciclo, o trabalho líquido realizado pelo gás corresponde:",
+   "alternativas": {
+    "a": "à metade da área interna do retângulo, pois apenas as duas etapas isobáricas contribuem para o trabalho, e as isovolumétricas, por não realizarem trabalho, reduziriam esse total pela metade",
+    "b": "ao perímetro do retângulo traçado no diagrama, grandeza que reúne as contribuições de cada uma das quatro etapas do ciclo termodinâmico",
+    "c": "a zero, uma vez que o gás retorna ao estado inicial ao final do ciclo e todas as suas variáveis de estado recuperam os valores originais",
+    "d": "à área interna do retângulo, e é positivo por o ciclo ser percorrido no sentido horário",
+    "e": "à diferença entre as duas pressões envolvidas, multiplicada pela temperatura média registrada ao longo de todo o ciclo termodinâmico descrito"
+   },
+   "resposta": "d",
+   "explicacao": "O trabalho de cada etapa é a área sob seu trecho, e no ciclo fechado o saldo é a área interna. Percorrido no sentido horário, a expansão ocorre em pressão maior que a compressão, e o trabalho líquido é positivo: o sistema opera como máquina térmica. A energia interna, essa sim, volta ao valor inicial. A alternativa (a) acerta que as etapas isovolumétricas não contribuem com trabalho, mas erra ao supor que isso reduz a área total à metade: a área interna do retângulo já é o resultado líquido das duas etapas isobáricas, uma positiva e outra negativa, cuja diferença é exatamente essa área — não há divisão adicional a fazer.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-117",
+   "texto_apoio": "Um recipiente de vidro é preenchido completamente com um líquido e aquecido. Observa-se que parte do líquido transborda, embora o recipiente também tenha se dilatado.",
+   "enunciado": "O volume de líquido que transborda corresponde à dilatação:",
+   "alternativas": {
+    "a": "real do líquido, uma vez que o vidro do recipiente permanece com dimensões inalteradas durante todo o processo de aquecimento realizado",
+    "b": "aparente, que é a diferença entre a dilatação real do líquido e a do recipiente, os dois dilatando, mas o líquido em maior proporção",
+    "c": "real do recipiente, cujo aumento de volume expulsa o líquido contido em seu interior e provoca o transbordamento observado no experimento",
+    "d": "linear do líquido, grandeza que se aplica à variação de uma única dimensão do corpo submetido à elevação de temperatura descrita",
+    "e": "superficial do recipiente, correspondente ao aumento da área de suas paredes internas durante o aquecimento uniforme realizado no ensaio"
+   },
+   "resposta": "b",
+   "explicacao": "Os dois dilatam, mas o líquido em geral mais que o vidro. O que transborda é apenas o excedente: a dilatação aparente, igual à real do líquido menos a do frasco. Supor o recipiente indilatável, como em (a), superestima a dilatação real do líquido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-123",
+   "texto_apoio": "Cidades litorâneas apresentam variação diária de temperatura menor que cidades do interior situadas na mesma latitude. A água tem calor específico cerca de cinco vezes maior que o da areia.",
+   "enunciado": "A menor amplitude térmica no litoral se explica porque a água:",
+   "alternativas": {
+    "a": "evapora continuamente e forma uma camada de vapor que isola termicamente a superfície do continente da radiação proveniente do Sol",
+    "b": "reflete a maior parte da radiação solar incidente, o que reduz o aquecimento total da região costeira ao longo das horas de insolação",
+    "c": "aquece mais rapidamente que a areia durante o dia e resfria também mais rápido durante a noite, o que equilibra a média térmica diária",
+    "d": "absorve e libera muito calor com pequena variação de temperatura, por ter calor específico alto, amortecendo as oscilações térmicas",
+    "e": "possui condutividade térmica muito baixa, o que impede qualquer transferência de calor entre o oceano e a atmosfera nas regiões costeiras"
+   },
+   "resposta": "d",
+   "explicacao": "Calor específico alto significa que muita energia entra ou sai com pouca mudança de temperatura. O mar funciona como reservatório térmico: absorve calor de dia sem esquentar muito e o devolve à noite sem esfriar muito, o que amortece a variação no ar da costa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-124",
+   "texto_apoio": "Um bloco de 200 g de gelo a −10 °C é aquecido até virar água a 20 °C. Considere: calor específico do gelo 0,50 cal·g⁻¹·°C⁻¹, calor latente de fusão 80 cal/g, calor específico da água 1,0 cal·g⁻¹·°C⁻¹.",
+   "enunciado": "A quantidade total de calor necessária é de:",
+   "alternativas": {
+    "a": "16.000 cal",
+    "b": "21.000 cal",
+    "c": "5.000 cal",
+    "d": "20.000 cal",
+    "e": "1.000 cal"
+   },
+   "resposta": "b",
+   "explicacao": "São três etapas: aquecer o gelo, 200 x 0,50 x 10 = 1.000 cal; fundir, 200 x 80 = 16.000 cal; aquecer a água, 200 x 1,0 x 20 = 4.000 cal. O total é 21.000 cal. A alternativa (a) considera apenas a fusão, que domina o valor mas não é o processo inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-139",
+   "texto_apoio": "Um recipiente contém água em equilíbrio térmico a 25 °C. Um estudante afirma que, se colocar o recipiente em contato com um corpo mais frio, o calor poderá fluir espontaneamente do corpo frio para a água, desde que a diferença de temperatura seja pequena.",
+   "enunciado": "A afirmação contraria:",
+   "alternativas": {
+    "a": "o princípio da conservação da massa, uma vez que a transferência de calor implicaria variação na quantidade de matéria de cada um dos corpos",
+    "b": "a primeira lei da termodinâmica, que estabelece a conservação da energia em qualquer processo de troca térmica entre dois corpos em contato",
+    "c": "a lei zero da termodinâmica, que define o conceito de equilíbrio térmico entre corpos colocados em contato por tempo suficientemente longo",
+    "d": "a segunda lei da termodinâmica, segundo a qual o calor flui espontaneamente do corpo mais quente para o mais frio, nunca ao contrário",
+    "e": "a lei de resfriamento de Newton, que relaciona a taxa de perda de calor à diferença de temperatura entre o corpo e o ambiente"
+   },
+   "resposta": "d",
+   "explicacao": "A segunda lei estabelece o sentido dos processos espontâneos: calor flui do mais quente para o mais frio, e o inverso exige trabalho externo — é o que faz uma geladeira. A primeira lei sozinha não proíbe o fluxo invertido, já que ela apenas contabiliza a energia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-145",
+   "texto_apoio": "Uma pessoa nota que uma barra de ferro parece mais fria ao toque que uma barra de madeira, mesmo estando as duas há horas no mesmo ambiente e, portanto, à mesma temperatura.",
+   "enunciado": "A sensação descrita se explica porque o ferro:",
+   "alternativas": {
+    "a": "possui calor específico muito maior, o que faz sua temperatura permanecer estável enquanto a da madeira acompanha as variações do ambiente",
+    "b": "apresenta temperatura efetivamente mais baixa que a da madeira, uma vez que materiais metálicos atingem equilíbrio térmico em valores inferiores",
+    "c": "conduz calor muito melhor e retira energia da mão mais rapidamente que a madeira, e a sensação térmica mede essa taxa de perda de calor",
+    "d": "reflete a radiação infravermelha emitida pela mão, o que impede a transferência de energia entre a pele e a superfície metálica tocada",
+    "e": "libera continuamente energia para o ambiente por radiação, o que mantém sua superfície abaixo da temperatura do ar que a circunda"
+   },
+   "resposta": "c",
+   "explicacao": "Ambas estão à mesma temperatura, o que descarta (b). A sensação térmica não mede temperatura, e sim a taxa com que a pele perde calor. O ferro, bom condutor, drena energia da mão muito mais rápido que a madeira, e por isso parece mais frio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-169",
+   "texto_apoio": "Uma amostra de gás ideal ocupa 6,0 L sob pressão de 2,0 atm. O gás é comprimido lentamente dentro de um cilindro mergulhado em um banho térmico, que mantém sua temperatura constante, até ocupar 3,0 L.",
+   "enunciado": "A pressão final do gás é de:",
+   "alternativas": {
+    "a": "1,0 atm",
+    "b": "3,0 atm",
+    "c": "4,0 atm",
+    "d": "2,0 atm",
+    "e": "12 atm"
+   },
+   "resposta": "c",
+   "explicacao": "Na transformação isotérmica o produto pressão x volume permanece constante: 2,0 x 6,0 = P x 3,0, logo P = 4,0 atm. Reduzir o volume à metade dobra a pressão. A alternativa (a) inverte a razão, tratando a relação como se fosse direta em vez de inversa; (e) multiplica os dois valores em vez de dividir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-170",
+   "texto_apoio": "Um gás ideal ocupa 3,0 L a 27 °C dentro de um cilindro fechado por um êmbolo que desliza sem atrito, o que mantém a pressão constante. O gás é então aquecido até 127 °C.",
+   "enunciado": "O volume final ocupado pelo gás é de:",
+   "alternativas": {
+    "a": "14,1 L",
+    "b": "2,3 L",
+    "c": "6,0 L",
+    "d": "4,0 L",
+    "e": "3,0 L"
+   },
+   "resposta": "d",
+   "explicacao": "Na transformação isobárica o volume é proporcional à temperatura absoluta, e a conversão para kelvin é obrigatória: 27 °C = 300 K e 127 °C = 400 K. Assim V = 3,0 x 400 ÷ 300 = 4,0 L. A alternativa (a) é a armadilha da questão: quem usa a temperatura em graus Celsius calcula 3,0 x 127 ÷ 27 e chega a 14,1 L. A alternativa (b) inverte a razão das temperaturas.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-171",
+   "texto_apoio": "Um recipiente rígido e hermeticamente fechado contém gás ideal a 27 °C, sob pressão de 2,0 atm. O conjunto é aquecido até 87 °C.",
+   "enunciado": "A pressão final do gás é de:",
+   "alternativas": {
+    "a": "2,4 atm",
+    "b": "1,7 atm",
+    "c": "6,4 atm",
+    "d": "2,0 atm",
+    "e": "5,0 atm"
+   },
+   "resposta": "a",
+   "explicacao": "Recipiente rígido significa volume constante, e na transformação isovolumétrica a pressão é proporcional à temperatura absoluta: 300 K e 360 K. Logo P = 2,0 x 360 ÷ 300 = 2,4 atm. A alternativa (c) sai de usar graus Celsius, 2,0 x 87 ÷ 27 = 6,4 atm, e superestima a pressão em quase três vezes; (b) inverte a razão.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-172",
+   "texto_apoio": "Uma massa fixa de gás ideal ocupa 6,0 L sob pressão de 2,0 atm, à temperatura de 27 °C. O gás é levado a um novo estado, em que a pressão é de 1,0 atm e a temperatura, de 127 °C.",
+   "enunciado": "O volume ocupado pelo gás no estado final é de:",
+   "alternativas": {
+    "a": "4,0 L",
+    "b": "12 L",
+    "c": "56 L",
+    "d": "24 L",
+    "e": "16 L"
+   },
+   "resposta": "e",
+   "explicacao": "A lei geral dos gases dá P₁V₁ ÷ T₁ = P₂V₂ ÷ T₂, com temperaturas em kelvin: 300 K e 400 K. Assim V₂ = 6,0 x (2,0 ÷ 1,0) x (400 ÷ 300) = 16 L. A alternativa (b) considera apenas a queda de pressão e esquece o aquecimento; (c) aplica corretamente a pressão mas usa graus Celsius na razão de temperaturas, 6,0 x 2 x 127 ÷ 27, e chega a 56 L.",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-173",
+   "texto_apoio": "Um recipiente de 8,2 L contém gás ideal sob pressão de 3,0 atm, à temperatura de 27 °C. Adote R = 0,082 atm·L/(mol·K).",
+   "enunciado": "O número de mols de gás contido no recipiente é de:",
+   "alternativas": {
+    "a": "1,0 mol",
+    "b": "0,33 mol",
+    "c": "3,0 mol",
+    "d": "0,10 mol",
+    "e": "11 mol"
+   },
+   "resposta": "a",
+   "explicacao": "Da equação de Clapeyron, n = PV ÷ RT = (3,0 x 8,2) ÷ (0,082 x 300) = 24,6 ÷ 24,6 = 1,0 mol. A armadilha é (e): quem esquece de converter 27 °C em 300 K divide por 0,082 x 27 = 2,214 e obtém cerca de 11 mol, onze vezes o valor correto. O uso de R em atm·L exige pressão em atmosferas e volume em litros, unidades já fornecidas.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-174",
+   "texto_apoio": "Um cilindro rígido de 0,050 m³ contém 2,0 mol de gás ideal a 300 K. Adote R = 8,3 J/(mol·K).",
+   "enunciado": "A pressão do gás no interior do cilindro é de, aproximadamente:",
+   "alternativas": {
+    "a": "5,0 × 10³ Pa",
+    "b": "1,0 × 10⁵ Pa",
+    "c": "2,5 × 10⁴ Pa",
+    "d": "2,0 × 10⁶ Pa",
+    "e": "1,0 × 10² Pa"
+   },
+   "resposta": "b",
+   "explicacao": "De PV = nRT vem P = nRT ÷ V = (2,0 x 8,3 x 300) ÷ 0,050 = 4.980 ÷ 0,050 ≈ 1,0 × 10⁵ Pa, ou seja, cerca de 1 atm. A alternativa (a) é o numerador sozinho, de quem esqueceu de dividir pelo volume. A alternativa (e) é a armadilha de unidade: usar 50 L no lugar de 0,050 m³ com R em joules divide o resultado por mil.",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-175",
+   "texto_apoio": "No modelo cinético, a energia cinética média de translação das moléculas de um gás ideal é diretamente proporcional à sua temperatura absoluta.",
+   "enunciado": "Ao ser aquecido de 27 °C até 327 °C, a energia cinética média das moléculas desse gás:",
+   "alternativas": {
+    "a": "fica cerca de doze vezes maior",
+    "b": "dobra",
+    "c": "quadruplica",
+    "d": "não se altera, pois o aquecimento afeta apenas a pressão exercida sobre as paredes do recipiente",
+    "e": "aumenta cerca de 10%"
+   },
+   "resposta": "b",
+   "explicacao": "Convertendo para kelvin, 27 °C = 300 K e 327 °C = 600 K: a temperatura absoluta dobra e, com ela, a energia cinética média. A alternativa (a) é a armadilha central, de quem calcula 327 ÷ 27 ≈ 12 usando graus Celsius; (e) vem de comparar 327 com 300 misturando as duas escalas. A proporcionalidade só vale com a escala Kelvin, cujo zero corresponde à agitação térmica mínima.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-176",
+   "texto_apoio": "No modelo cinético dos gases, as moléculas movem-se desordenadamente em todas as direções e colidem continuamente com as paredes do recipiente.",
+   "enunciado": "Segundo esse modelo, a pressão exercida pelo gás sobre as paredes resulta:",
+   "alternativas": {
+    "a": "do peso da coluna de gás que se apoia sobre as paredes e sobre o fundo do recipiente que o contém",
+    "b": "da diferença de temperatura entre o gás e a parede, que só desaparece quando o equilíbrio térmico é atingido",
+    "c": "da repulsão elétrica entre as moléculas do gás e os átomos que constituem a superfície interna da parede",
+    "d": "da atração gravitacional mútua entre as moléculas, que as empurra continuamente contra as paredes do recipiente",
+    "e": "da força média por unidade de área devida às inúmeras colisões por segundo das moléculas contra a parede"
+   },
+   "resposta": "e",
+   "explicacao": "Cada colisão transfere quantidade de movimento à parede; a soma de um número enorme de colisões por segundo resulta numa força praticamente constante, e a pressão é essa força dividida pela área. A alternativa (c) contraria uma hipótese do próprio modelo, que despreza forças entre as moléculas e entre elas e a parede, exceto no instante do choque. Em (a), o peso do gás existe, mas é irrelevante frente ao efeito das colisões.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-178",
+   "texto_apoio": "O modelo do gás ideal despreza o volume próprio das moléculas e as forças de interação entre elas fora dos instantes de colisão.",
+   "enunciado": "Esse modelo descreve bem o comportamento de um gás real quando ele se encontra:",
+   "alternativas": {
+    "a": "a pressões altas e temperaturas baixas, condição em que as moléculas se movem de forma mais ordenada dentro do recipiente",
+    "b": "a pressões altas e temperaturas altas, situação em que o número de colisões por segundo cresce e o comportamento se regulariza",
+    "c": "em condições próximas às de liquefação, quando a substância se aproxima do estado de maior estabilidade termodinâmica",
+    "d": "em qualquer condição, uma vez que a equação de Clapeyron não impõe restrição alguma às variáveis de estado",
+    "e": "a pressões baixas e temperaturas altas, quando o volume próprio das moléculas e as atrações entre elas pouco influem"
+   },
+   "resposta": "e",
+   "explicacao": "Pressões baixas deixam as moléculas muito afastadas, de modo que o volume próprio delas se torna desprezível diante do volume do recipiente; temperaturas altas garantem energia cinética suficiente para que as atrações intermoleculares pouco influam. A alternativa (a) descreve exatamente o oposto: é aí que o gás real mais se afasta do modelo, justamente porque se aproxima da liquefação, situação repetida em (c).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-179",
+   "enunciado": "Um gás ideal é comprimido lentamente dentro de um cilindro mergulhado em um banho de água mantido à temperatura constante. Essa transformação é chamada ______, nela permanece constante o ______ e o gráfico da pressão em função do volume é ______.",
+   "alternativas": {
+    "a": "isobárica — produto pressão x volume — uma reta horizontal",
+    "b": "isotérmica — quociente pressão ÷ temperatura — uma reta que passa pela origem",
+    "c": "isovolumétrica — quociente volume ÷ temperatura — uma reta vertical",
+    "d": "isotérmica — produto pressão x volume — uma hipérbole",
+    "e": "isobárica — quociente volume ÷ temperatura — uma hipérbole"
+   },
+   "resposta": "d",
+   "explicacao": "Com a temperatura fixa, a equação de Clapeyron reduz-se a PV = constante, o que faz de P uma função inversamente proporcional a V: o gráfico é uma hipérbole, chamada isoterma. A armadilha está em (a): a reta horizontal no diagrama pressão-volume corresponde à transformação isobárica, em que o que não muda é a pressão, e não o produto PV.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-180",
+   "texto_apoio": "Um gás ideal se expande sob pressão constante de 2,0 × 10⁵ Pa, passando de 3,0 L para 6,0 L.",
+   "enunciado": "O trabalho realizado pelo gás nessa expansão é de:",
+   "alternativas": {
+    "a": "1,2 × 10³ J",
+    "b": "300 J",
+    "c": "600 J",
+    "d": "6,0 × 10⁵ J",
+    "e": "60 J"
+   },
+   "resposta": "c",
+   "explicacao": "Na transformação isobárica o trabalho é o produto da pressão pela variação de volume: W = 2,0 × 10⁵ x (6,0 − 3,0) × 10⁻³ = 600 J. A alternativa (d) é a armadilha de unidade, de quem mantém o volume em litros e infla o resultado mil vezes. A alternativa (a) usa o volume final em lugar da variação, e (b) divide por dois, como se a área no diagrama pressão-volume fosse um triângulo — sob pressão constante ela é um retângulo.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-181",
+   "enunciado": "Ao final de uma viagem longa, o motorista mede a pressão dos pneus e encontra valor maior que o medido antes de sair. Tratando o ar do pneu como gás ideal em volume praticamente constante, o atrito com o asfalto ______ a temperatura do ar e, numa transformação ______, a pressão ______.",
+   "alternativas": {
+    "a": "elevou — isotérmica — é inversamente proporcional ao volume ocupado",
+    "b": "elevou — isobárica — permanece constante enquanto o volume aumenta",
+    "c": "reduziu — isovolumétrica — é inversamente proporcional à temperatura absoluta",
+    "d": "elevou — isovolumétrica — é diretamente proporcional à temperatura absoluta",
+    "e": "reduziu — isotérmica — cresce à medida que o volume aumenta"
+   },
+   "resposta": "d",
+   "explicacao": "O pneu é praticamente indeformável, de modo que o volume quase não muda: a transformação é isovolumétrica, e nela P ÷ T é constante, com T em kelvin. Aquecido pelo atrito, o ar interno eleva a pressão. É por isso que a calibragem deve ser feita com o pneu frio: medir depois da viagem leva a tirar ar em excesso. A armadilha é (b), que confunde pressão constante com volume constante e inverte a transformação.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-182",
+   "texto_apoio": "Um cilindro rígido contém gás ideal sob pressão de 8,0 atm. Uma válvula é aberta e metade da massa de gás escapa lentamente, de modo que a temperatura do gás restante permanece igual à inicial.",
+   "enunciado": "A pressão do gás que permanece no cilindro passa a ser de:",
+   "alternativas": {
+    "a": "4,0 atm",
+    "b": "16 atm",
+    "c": "8,0 atm, pois o volume interno do cilindro não sofreu alteração alguma durante a saída do gás",
+    "d": "2,0 atm",
+    "e": "6,0 atm"
+   },
+   "resposta": "a",
+   "explicacao": "Na equação de Clapeyron, PV = nRT, a pressão é proporcional ao número de mols quando volume e temperatura não mudam. Perdida metade da massa, n cai à metade e a pressão vai a 4,0 atm. A armadilha é (c): o gás que sobra realmente ocupa todo o cilindro, mas com metade das moléculas o número de colisões por segundo contra a parede também cai pela metade, e é isso que a pressão mede.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-184",
+   "texto_apoio": "Considere uma massa fixa de gás ideal submetida a diferentes transformações.",
+   "enunciado": "Analise as afirmações a seguir.\nI. Numa transformação isotérmica, o produto da pressão pelo volume permanece constante.\nII. Numa transformação isovolumétrica, a razão entre a pressão e a temperatura em graus Celsius permanece constante.\nIII. Numa transformação isobárica, o volume é diretamente proporcional à temperatura absoluta.\nEstá correto o que se afirma em:",
+   "alternativas": {
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "II e III, apenas",
+    "d": "I e III, apenas",
+    "e": "I, II e III"
+   },
+   "resposta": "d",
+   "explicacao": "I e III são enunciados corretos das leis de Boyle e de Charles. II é falsa por uma única palavra: a razão constante é entre pressão e temperatura absoluta, em kelvin. A escala Celsius tem zero arbitrário, e nela um gás a 0 °C teria pressão nula pela fórmula, o que é absurdo. Marcar II como verdadeira é o erro que mais custa pontos em transformações gasosas.",
+   "formato": "escada",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-185",
+   "texto_apoio": "Um mergulhador solta uma pequena bolha de ar a 20 m de profundidade, onde a pressão total é de 3,0 atm. A bolha sobe até a superfície, onde a pressão é de 1,0 atm. Considere a temperatura da água praticamente a mesma em toda a coluna e o ar como gás ideal.",
+   "enunciado": "Ao chegar à superfície, o volume da bolha, comparado ao volume que ela tinha no fundo, é:",
+   "alternativas": {
+    "a": "um terço",
+    "b": "o dobro",
+    "c": "o triplo",
+    "d": "igual ao inicial",
+    "e": "nove vezes maior"
+   },
+   "resposta": "c",
+   "explicacao": "Com a temperatura constante, PV se conserva: 3,0 x V = 1,0 x V', logo V' = 3V. A alternativa (a) inverte a razão, supondo que a bolha encolhe ao subir. Esse mesmo cálculo explica por que um mergulhador jamais deve subir prendendo a respiração: o ar retido nos pulmões se expande na mesma proporção e pode romper o tecido pulmonar.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-208",
+   "texto_apoio": "Uma chaleira contém 500 g de água a 20 °C. O calor específico da água vale 1,0 cal/(g·°C).",
+   "enunciado": "A quantidade de calor necessária para elevar a temperatura dessa água até 100 °C, sem que ela chegue a entrar em ebulição, é de:",
+   "alternativas": {
+    "a": "10 kcal",
+    "b": "50 kcal",
+    "c": "4,0 kcal",
+    "d": "400 kcal",
+    "e": "40 kcal"
+   },
+   "resposta": "e",
+   "explicacao": "No aquecimento sem mudança de estado vale Q = m x c x ΔT = 500 x 1,0 x (100 − 20) = 40.000 cal, ou 40 kcal. A armadilha é (b): usar a temperatura final, 100 °C, no lugar da variação de 80 °C, produz 50 kcal. Como o enunciado interrompe o processo antes da ebulição, não há calor latente a somar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-209",
+   "enunciado": "Um bloco de gelo a 0 °C recebe calor continuamente até derreter por completo. Durante todo o processo de fusão, a temperatura do sistema ______, porque o calor recebido é ______, empregado em ______.",
+   "alternativas": {
+    "a": "aumenta lentamente — sensível — elevar a agitação térmica das moléculas de água",
+    "b": "permanece constante — latente — desfazer a estrutura cristalina que mantém o gelo coeso",
+    "c": "permanece constante — sensível — manter o sistema em equilíbrio térmico com o ambiente",
+    "d": "diminui — latente — resfriar a água líquida que vai se formando na superfície do bloco",
+    "e": "aumenta — latente — elevar a energia cinética média das moléculas do sistema"
+   },
+   "resposta": "b",
+   "explicacao": "Durante a mudança de estado toda a energia recebida vai para a energia potencial das ligações, rompendo o retículo cristalino, e não para a energia cinética das moléculas — por isso o termômetro não se move enquanto houver gelo e água juntos. A armadilha é (a): confundir calor latente com sensível leva a esperar aquecimento contínuo, quando o gráfico de temperatura por tempo apresenta ali um patamar horizontal.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-210",
+   "texto_apoio": "Num recipiente termicamente isolado, misturam-se 200 g de água a 80 °C com 300 g de água a 30 °C. Despreze a capacidade térmica do recipiente e as perdas para o ambiente.",
+   "enunciado": "A temperatura de equilíbrio térmico da mistura é de:",
+   "alternativas": {
+    "a": "50 °C",
+    "b": "45 °C",
+    "c": "60 °C",
+    "d": "40 °C",
+    "e": "55 °C"
+   },
+   "resposta": "a",
+   "explicacao": "A soma dos calores trocados é nula: 200 x (T − 80) + 300 x (T − 30) = 0, o que dá 500T = 25.000 e T = 50 °C. A armadilha é (e): a média aritmética das temperaturas, 55 °C, só valeria se as duas massas fossem iguais. Como há mais água fria, o equilíbrio se desloca para o lado dela — a média correta é ponderada pelas massas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-214",
+   "enunciado": "Quando uma barra de um certo material é aquecida até uma temperatura T a partir de uma temperatura inicial T0, seu comprimento inicial L0 sofre um aumento ΔL dado por ΔL = α L0 (T − T0), sendo α o coeficiente de expansão linear, que depende do material.\n\nO gráfico a seguir mostra, para o intervalo de 0°C a 200°C, o comprimento (em metros) de barras de três materiais distintos, todas com 10,0 m de comprimento a 0°C: a barra de Polietileno atinge aproximadamente 10,4 m a 200°C (aumento aproximadamente linear e mais acentuado); a barra de Cobre atinge aproximadamente 10,1 m a 200°C (aumento pequeno e aproximadamente linear); a barra de Alumínio permanece muito próxima de 10,0 m ao longo de toda a faixa de temperatura (variação praticamente imperceptível no gráfico).\n\nCom base no gráfico e nas informações apresentadas, é correto afirmar:",
+   "alternativas": {
+    "a": "O gráfico mostra curvas para três barras que possuem o mesmo comprimento à temperatura de 30°C.",
+    "b": "Em um processo de aquecimento entre 100°C e 200°C, o comprimento da barra de cobre aumenta em 0,1 m.",
+    "c": "O coeficiente de expansão linear do alumínio é maior do que o do cobre.",
+    "d": "Partindo de 0°C, aumentar em 10 cm o comprimento da barra de polietileno requer elevar sua temperatura até 50°C.",
+    "e": "Duas barras de comprimentos 5 m e 10 m a 0°C, feitas do mesmo material, sofrem iguais incrementos de comprimento quando levadas de 0°C a 100°C."
+   },
+   "resposta": "d",
+   "explicacao": "Pelo gráfico, o polietileno atinge 10,4 m (ΔL=0,4 m) em 200°C, o que dá α=ΔL/(L0ΔT)=0,4/(10×200)=2×10⁻⁴/°C. Para um aumento de 0,1 m (10 cm) a partir de 10 m, ΔT=ΔL/(αL0)=0,1/(2×10⁻⁴×10)=50°C.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-220",
+   "enunciado": "Para muitas pessoas, um ovo perfeitamente cozido tem uma gema cremosa e uma clara firme. A gema atinge uma textura cremosa a 65 °C, mas a clara fica totalmente firme a 85 °C. Métodos comuns de cozimento frequentemente resultam em um ovo com clara e gema duras (1), um ovo com clara dura e gema cremosa (2) ou um ovo com clara e gema cremosas (3). Pesquisadores da Universidade de Nápoles, entretanto, perceberam que alternar o cozimento dos ovos em água a 100 °C e 30 °C a cada dois minutos, totalizando 32 minutos (4), faz com que as duas regiões do ovo (clara e gema) respondam de formas diferentes às temperaturas alternadas. Aplicando o método estudado (4), a temperatura da clara oscila antes de finalmente se estabilizar em torno de 85 °C, enquanto a temperatura da gema sobe lentamente até atingir 67 °C, quando chega à consistência desejada.\n\nSuponha que, em cada método de cozimento, cada parte do ovo (clara e gema) seja aquecida de uma temperatura inicial de 20 °C até as respectivas temperaturas finais apresentadas acima. A quantidade de calor total recebida Qn pelo conjunto gema + clara para o método de cozimento (n = 1, 2, 3, 4), em ordem crescente, é:",
+   "alternativas": {
+    "a": "Q4 < Q1 < Q3 < Q2",
+    "b": "Q3 < Q4 < Q2 < Q1",
+    "c": "Q1 < Q3 < Q2 < Q4",
+    "d": "Q3 < Q2 < Q4 < Q1",
+    "e": "Q4 < Q3 < Q1 < Q2"
+   },
+   "resposta": "b",
+   "explicacao": "Comparando as quantidades de calor Q=mcΔT necessárias para cada método (considerando as temperaturas finais de clara e gema em cada caso), o método 3 (ambas cremosas, temperaturas finais mais baixas) exige o menor calor total, seguido do método 4 (clara firme e gema cremosa via alternância), depois o método 2, e por fim o método 1 (ambas duras, temperaturas finais mais altas), que exige o maior calor.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-224",
+   "enunciado": "A uniformidade da temperatura em um ambiente refrigerado depende, além do bom funcionamento do aparelho de ar condicionado, de uma instalação adequada, visando a uma transferência de calor eficiente. Isso pode ser verificado pelo instalador utilizando um termômetro de infravermelho para inspecionar diferentes áreas do recinto. Analise as afirmativas 1, 2, 3 e 4 sobre os mecanismos de transferência de calor: condução, convecção e radiação.\n\n1) A transferência de calor por condução térmica pode ocorrer tanto no vácuo quanto em um meio material.\n2) A taxa de condução de calor em uma barra não depende da diferença entre as temperaturas de suas extremidades.\n3) A convecção consiste no transporte de energia térmica de uma região para outra por meio do deslocamento de uma massa de fluido.\n4) A transferência de calor por radiação térmica pode ocorrer tanto no vácuo quanto em um meio material.\n\nAs afirmativas corretas são:",
+   "alternativas": {
+    "a": "1 e 2.",
+    "b": "1 e 4.",
+    "c": "2 e 3.",
+    "d": "3 e 4."
+   },
+   "resposta": "d",
+   "explicacao": "A condução térmica exige um meio material (não ocorre no vácuo), o que torna a afirmativa 1 falsa; a taxa de condução depende, sim, da diferença de temperatura entre as extremidades (afirmativa 2 falsa); a convecção de fato transporta energia pelo deslocamento de um fluido (afirmativa 3 correta); e a radiação térmica, ao contrário da condução, pode se propagar no vácuo (afirmativa 4 correta).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-235",
+   "enunciado": "Para aquecer um pouco de água, uma pessoa, em uma cidade no nível do mar, coloca 0,2 kg de água a 20 ºC em uma xícara dentro de um forno de micro-ondas de 1200 W de potência e programa o forno para o tempo de um minuto e quarenta segundos. Adotando o valor de 4 × 10³ J/(kg·ºC) para o calor específico da água e considerando que apenas 50% da energia elétrica consumida por esse forno são utilizados para aquecer a água, ao final do tempo programado a água na xícara terá atingido a temperatura de",
+   "alternativas": {
+    "a": "95 ºC e não terá sido iniciada a vaporização.",
+    "b": "100 ºC e terá sido iniciada a vaporização.",
+    "c": "85 ºC e não terá sido iniciada a vaporização.",
+    "d": "100 ºC e não terá sido iniciada a vaporização.",
+    "e": "90 ºC e não terá sido iniciada a vaporização."
+   },
+   "resposta": "a",
+   "explicacao": "A energia útil para aquecer a água é E=P×t×0,5=1200×100×0,5=60.000 J (t=100 s). O aumento de temperatura é ΔT=E/(mc)=60.000/(0,2×4000)=75°C, levando a água de 20°C a 95°C — abaixo dos 100°C necessários para iniciar a vaporização.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-241",
+   "enunciado": "O motor principal do BGM1 (ver questões anteriores), responsável pelo procedimento de pouso, opera a uma temperatura de 2462 ºF. As correspondências de temperaturas para as escalas Celsius e Fahrenheit são: fusão da água = 0 ºC / 32 ºF; ebulição da água = 100 ºC / 212 ºF. Considerando essas correspondências, o motor do BGM1 opera, em graus Celsius, a uma temperatura de",
+   "alternativas": {
+    "a": "1150 ºC.",
+    "b": "1350 ºC.",
+    "c": "1550 ºC.",
+    "d": "1750 ºC.",
+    "e": "1950 ºC."
+   },
+   "resposta": "b",
+   "explicacao": "Convertendo 2462°F para Celsius pela fórmula C=(F−32)×5/9: (2462−32)×5/9=2430×5/9=1350°C.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-246",
+   "enunciado": "A autoclave é um equipamento utilizado para esterilizar objetos em centros cirúrgicos, clínicas odontológicas e salões de beleza, por meio de aquecimento. Considere que um bisturi de massa igual a 40 g, inicialmente a uma temperatura de 10 ºC, seja colocado em uma autoclave cuja temperatura interna seja mantida constante em 130 ºC. Sabendo que o calor específico do aço cirúrgico que compõe o bisturi é igual a 0,1 cal/(g·ºC), a quantidade de calor transferida pela autoclave ao bisturi até ele atingir o equilíbrio térmico com o interior da autoclave é igual a",
+   "alternativas": {
+    "a": "400 cal.",
+    "b": "440 cal.",
+    "c": "480 cal.",
+    "d": "520 cal.",
+    "e": "560 cal."
+   },
+   "resposta": "c",
+   "explicacao": "A quantidade de calor é Q=mcΔT=40×0,1×(130−10)=40×0,1×120=480 cal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-258",
+   "enunciado": "Determinada quantidade constante de gás ideal está contida em um cilindro constituído, em sua base, por um material bom condutor térmico e, em suas paredes laterais, por um material isolante térmico. Esse cilindro é fechado, na sua região superior, por um pistão feito de material também isolante e que pode mover-se verticalmente livre de atrito. Quando esse gás recebe calor de uma fonte externa, ele sofre uma expansão isobárica de modo que o pistão se desloque verticalmente, a partir de uma posição inicial A, até passar por uma posição B, indicadas na figura. Devido à ação de massas colocadas sobre o pistão, seu movimento se desenvolve com velocidade constante.\n\nO diagrama que mostra como varia a temperatura absoluta (T) desse gás em função do volume ocupado por ele (V), quando o pistão se move da posição A até a posição B, está representado em:",
+   "alternativas": {
+    "a": "reta decrescente ligando o ponto A (T alta, V baixo) ao ponto B (T baixa, V alto).",
+    "b": "curva côncava decrescente ligando A a B.",
+    "c": "reta horizontal (T constante) ligando A a B, com V aumentando.",
+    "d": "reta crescente ligando o ponto A (T baixa, V baixo) ao ponto B (T alta, V alto).",
+    "e": "curva côncava crescente ligando A a B."
+   },
+   "resposta": "d",
+   "explicacao": "Na expansão isobárica de um gás ideal, pela lei de Gay-Lussac (V/T=constante a pressão constante), volume e temperatura absoluta são diretamente proporcionais — por isso o gráfico T×V é uma reta crescente partindo de valores baixos (ponto A) até valores altos (ponto B).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-271",
+   "enunciado": "A temperatura de uma amostra de 500 g de gálio, inicialmente no estado sólido, variou, em função do tempo, subindo de forma linear de 0 ºC a 30 ºC entre o instante 0 e o instante 4 minutos, permanecendo depois constante em 30 ºC.\n\nConsiderando que o calor específico do gálio no estado sólido seja constante e igual a 0,08 cal/(g·ºC) e que a amostra não perdeu calor durante o processo de aquecimento, a taxa com que a amostra absorveu calor foi de",
+   "alternativas": {
+    "a": "240 cal/min.",
+    "b": "200 cal/min.",
+    "c": "300 cal/min.",
+    "d": "150 cal/min.",
+    "e": "75 cal/min."
+   },
+   "resposta": "c",
+   "explicacao": "O calor total necessário é Q=mcΔT=500×0,08×30=1200 cal, absorvido em 4 minutos; a taxa de absorção de calor é 1200/4=300 cal/min.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-272",
+   "enunciado": "Devido ao aumento dos preços dos combustíveis e do custo de vida, cada vez mais os brasileiros vêm buscando carros econômicos. O que a maioria das pessoas não sabe é que o rendimento dos motores dos automóveis é baixo: de cada 1 litro de gasolina, somente 220 mL são transformados em trabalho para movimentação do carro.\n\nConsidere que o motor de um automóvel funcione como uma máquina térmica que desenvolve uma potência útil de 44 kW. A quantidade de energia que esse motor necessita para funcionar, a cada segundo, é",
+   "alternativas": {
+    "a": "9,7 kJ.",
+    "b": "97 kJ.",
+    "c": "970 kJ.",
+    "d": "20 kJ.",
+    "e": "200 kJ."
+   },
+   "resposta": "e",
+   "explicacao": "Se a potência útil (44 kW) representa a fração do combustível convertida em trabalho (22% do total, já que 220 mL de cada 1000 mL viram trabalho), a energia total necessária por segundo é 44/0,22=200 kJ.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-281",
+   "enunciado": "A calibração de uma proveta de vidro, de volume 500 mL, foi efetuada para a temperatura de 20 ºC. Considerando o coeficiente de dilatação linear desse vidro igual a 3,3 × 10⁻⁶ ºC⁻¹, a diferença entre o volume de 500 mL indicado pela proveta na temperatura de 25 ºC e o volume real do líquido nela contido, a essa mesma temperatura, é, aproximadamente,",
+   "alternativas": {
+    "a": "6,2 × 10⁻² mL.",
+    "b": "3,3 × 10⁻² mL.",
+    "c": "4,1 × 10⁻² mL.",
+    "d": "1,8 × 10⁻² mL.",
+    "e": "2,5 × 10⁻² mL."
+   },
+   "resposta": "e",
+   "explicacao": "A dilatação volumétrica do vidro é ΔV=V×3α×ΔT=500×3×3,3×10⁻⁶×5≈2,5×10⁻² mL — essa é a diferença entre o volume nominal indicado pela proveta (que também se dilatou) e o volume real do líquido nela contido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-289",
+   "enunciado": "Em um dia frio, uma pessoa esfrega suas mãos, uma na outra, para aquecê-las. Considere que, nesse movimento, a taxa com a qual a energia mecânica é dissipada pelo atrito seja de 20 J/s.\n\nAdmitindo que a massa de cada uma das mãos seja 200 g e que o calor específico das mãos seja 4 000 J/(kg·ºC), se toda a energia mecânica dissipada pelo atrito for utilizada para aquecer suas mãos, essa pessoa deverá esfregá-las, para aumentar sua temperatura em 1,5 ºC, durante um intervalo de tempo de",
+   "alternativas": {
+    "a": "3,0 min.",
+    "b": "4,5 min.",
+    "c": "2,0 min.",
+    "d": "2,5 min.",
+    "e": "1,0 min."
+   },
+   "resposta": "c",
+   "explicacao": "A energia necessária é Q=mcΔT=0,4 kg×4000 J/(kg·°C)×1,5°C=2400 J. Dividindo pela taxa de dissipação (20 J/s), o tempo necessário é 2400/20=120 s=2,0 min.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-294",
+   "enunciado": "Durante uma expedição científica na Patagônia, um grupo de pesquisadores coletou amostras de água de um lago parcialmente congelado. Para realizar as análises, eles precisaram derreter um bloco de gelo de 500 g que estava a −10 ºC e aquecê-lo até 20 ºC. Eles utilizaram um pequeno aquecedor portátil de potência 500 W, alimentado por energia solar.\n\nConsidere que o calor específico do gelo é de 0,5 cal/g°C, o calor específico da água é de 1 cal/g°C, o calor latente de fusão é de 80 cal/g e 1 cal equivale a aproximadamente 4,2 J.\n\nO tempo necessário para que todo o processo descrito no texto ocorra é de",
+   "alternativas": {
+    "a": "1 min e 24 s.",
+    "b": "1 min e 55 s.",
+    "c": "5 min e 36 s.",
+    "d": "5 min e 57 s.",
+    "e": "7 min e 21 s."
+   },
+   "resposta": "e",
+   "explicacao": "O processo envolve três etapas: aquecer o gelo de −10°C a 0°C (Q1=mcΔT), fundir o gelo (Q2=mL), e aquecer a água resultante de 0°C a 20°C (Q3=mcΔT). Somando as três quantidades de calor (em calorias, convertidas para joules) e dividindo pela potência do aquecedor (500 W), obtém-se o tempo total do processo, cerca de 7 min e 21 s.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-306",
+   "enunciado": "Uma usina termoelétrica cuja eficiência da conversão de calor em trabalho é 55% queima 7200 kg de gás natural por hora. O calor não utilizado na produção de trabalho aquece as águas de um rio de vazão igual a 4500 L por segundo. O aumento de temperatura da água do rio que passa pela usina é",
+   "alternativas": {
+    "a": "9,0 °C.",
+    "b": "5,5 °C.",
+    "c": "1,0 °C.",
+    "d": "2,5 °C.",
+    "e": "6,5 °C.\n\nDados: A queima de 1 kg de gás natural gera 50.000 kJ de energia. Calor específico da água = 1 cal/g°C. 1 cal = 4 J. Densidade da água = 1 g/cm³."
+   },
+   "resposta": "d",
+   "explicacao": "A energia total gerada por hora é 7200×50.000=3,6×10⁸ kJ; 45% (não convertida em trabalho) aquece o rio: 1,62×10⁸ kJ/h = 45.000 kJ/s = 11.250.000 cal/s (dividindo por 4). Com vazão de 4.500.000 g/s de água (c=1cal/g°C), ΔT=11.250.000/4.500.000=2,5°C.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-321",
+   "enunciado": "Um gás à pressão 6 x 10⁵ N/m² sofre uma expansão isobárica, do estado I ao II, conforme o diagrama de volume (V) x temperatura (T) mostrado abaixo. Neste processo, o trabalho realizado pelo gás, a variação de sua energia interna e a quantidade de calor trocada entre o gás e o ambiente são, respectivamente\n\n[Descrição do gráfico: eixo vertical V(l) com marcações em 24 e 32; eixo horizontal T(K) com marcações em 300 e 400. O estado I está no ponto (300K, 24L) e o estado II no ponto (400K, 32L), ligados por uma reta (processo isobárico).]",
+   "alternativas": {
+    "a": "4,8 x 10³ J; 2,4 x 10³ J; 1,8 x 10³ cal.",
+    "b": "8,0 x 10² J; 1,4 x 10³ J; 5,5 x 10³ cal.",
+    "c": "8,0 x 10² J; 7,2 x 10³ J; 4,0 x 10³ cal.",
+    "d": "4,8 x 10³ J; 7,2 x 10³ J; 3,0 x 10³ cal.",
+    "e": "4,8 x 10³ J; 2,4 x 10³ J; 7,2 x 10³ cal.\n\nConsidere:\nQue o gás seja perfeito.\nConstante universal dos gases = 8 J/mol K\n1 cal = 4 J"
+   },
+   "resposta": "d",
+   "explicacao": "O trabalho isobárico é W=PΔV=6×10⁵×(0,032−0,024)=4800J=4,8×10³J. Usando PV=nRT, n=6mol; a variação de energia interna (gás monoatômico, Cv=3/2R) é ΔU=n×(3/2×8)×(400−300)=7200J=7,2×10³J. Pela 1ª lei, Q=W+ΔU=12000J=3,0×10³cal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-323",
+   "enunciado": "Duas panelas, uma de pressão e outra comum aberta, estão sendo usadas para cozinhar quantidades iguais de um mesmo alimento. Assinale a afirmação correta.",
+   "alternativas": {
+    "a": "Na panela comum, o alimento é cozido mais lentamente porque o vapor escapa e a água ferve a temperatura inferior a 100°C.",
+    "b": "O alimento é cozido mais rapidamente na panela de pressão porque, embora a água em seu interior ferva à 100°C, a pressão interna é maior que 1 atm.",
+    "c": "Em ambas as panelas, a água ferve à 100°C, mas a espessura maior das paredes da panela de pressão permite que ela retenha mais calor.",
+    "d": "A válvula de escape da panela de pressão impede que seu interior atinja pressão superior a 1 atm, mas o vapor concentrado dentro dela faz com que o alimento seja cozido mais rapidamente.",
+    "e": "O alimento é cozido mais rapidamente na panela de pressão porque a água em seu interior ferve a temperatura superior a 100°C."
+   },
+   "resposta": "e",
+   "explicacao": "Na panela de pressão, o aumento da pressão interna eleva o ponto de ebulição da água para acima de 100°C, permitindo que o alimento cozinhe em temperatura mais alta e, portanto, mais rapidamente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-486",
+   "enunciado": "Em um recipiente termicamente isolado, misturam-se 300 g de água a 80 °C com 200 g de água a 30 °C. Considerando que só há troca de calor entre as duas porções e que o calor específico da água vale 1,0 cal/(g·°C), a temperatura de equilíbrio térmico da mistura é de:",
+   "alternativas": {
+    "a": "40 °C",
+    "b": "45 °C",
+    "c": "50 °C",
+    "d": "55 °C",
+    "e": "60 °C"
+   },
+   "resposta": "e",
+   "explicacao": "O calor cedido pela porção quente iguala o recebido pela fria: 300 × 1,0 × (80 − T) = 200 × 1,0 × (T − 30). Daí 24 000 − 300T = 200T − 6 000, ou seja, 500T = 30 000 e T = 60 °C. A temperatura de equilíbrio térmico fica mais próxima da porção de maior massa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-487",
+   "enunciado": "Um trilho de aço de 20 m de comprimento é assentado a 10 °C. Em um dia de verão, sua temperatura chega a 50 °C. Sendo 1,2 × 10⁻⁵ °C⁻¹ o coeficiente de dilatação linear do aço, o acréscimo de comprimento do trilho é de:",
+   "alternativas": {
+    "a": "0,96 mm",
+    "b": "4,8 mm",
+    "c": "9,6 mm",
+    "d": "12,0 mm",
+    "e": "19,2 mm"
+   },
+   "resposta": "c",
+   "explicacao": "Na dilatação linear, ΔL = L₀ · α · ΔT. Com L₀ = 20 m, α = 1,2 × 10⁻⁵ °C⁻¹ e ΔT = 50 − 10 = 40 °C, tem-se ΔL = 20 × 1,2 × 10⁻⁵ × 40 = 9,6 × 10⁻³ m, isto é, 9,6 mm. É por isso que se deixa folga entre trilhos consecutivos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "eng-fisica-05",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um professor montou um experimento com dois pêndulos simples, com fios de mesmo comprimento. Os pêndulos se mantiveram perfeitamente síncronos, cada qual com período de 2 s, em um dia cuja temperatura local era de 10 °C. Num outro dia, passados alguns minutos, notou-se que os pêndulos perdiam a sincronicidade. O professor associou tal fenômeno à variação de temperatura local, já que o termômetro do laboratório marcava 30 °C naquele dia e que o coeficiente de dilatação térmica dos fios era de α₁ = 2×10⁻⁵ °C⁻¹ e α₂ = 7×10⁻⁵ °C⁻¹.\nAssinale a alternativa que contém a melhor estimativa do intervalo de tempo entre o início do movimento e o instante em que os pêndulos apresentaram uma defasagem de meio ciclo pela primeira vez.",
+   "alternativas": {
+    "a": "17 min",
+    "b": "33 min",
+    "c": "40 min",
+    "d": "66 min",
+    "e": "80 min"
+   },
+   "resposta": "b",
+   "explicacao": "O período do pêndulo simples é T = 2π√(L/g), e a raiz faz a dilatação entrar pela metade: T' ≈ T(1 + ½αΔθ). Com ΔΘ = 20 °C, a diferença entre os dois períodos é ΔT = T·½·Δθ·(α₂ − α₁) = 2·½·20·(7 − 2)×10⁻⁵ = 1×10⁻³ s por oscilação. Meio ciclo de defasagem significa acumular T/2 = 1 s de atraso, o que exige 1/10⁻³ = 1000 oscilações. Como cada uma dura cerca de 2 s, são 2000 s ≈ 33 min. O erro que leva a 66 min é exigir um ciclo inteiro de defasagem em vez de meio; o que leva a 17 min é esquecer o fator ½ da raiz."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "eng-fisica-13",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O pneu de um automóvel foi calibrado, de acordo com o manual do proprietário, com pressão de 35 psi. Quando foi feita a calibragem, a temperatura ambiente era de 17 °C. Ao rodar com o automóvel no período da tarde, a temperatura dos pneus elevou-se para 43 °C.\nConsiderando que a variação de volume do pneu foi desprezível, a pressão aproximada dos pneus será de",
+   "alternativas": {
+    "a": "38 psi",
+    "b": "88 psi",
+    "c": "61 psi",
+    "d": "35 psi",
+    "e": "32 psi"
+   },
+   "resposta": "a",
+   "explicacao": "Volume constante é transformação isovolumétrica, e nela P/T se mantém. O passo que decide a questão é converter para kelvin: 17 °C = 290 K e 43 °C = 316 K. Daí P₂ = 35·(316/290) ≈ 38 psi. Fazer a mesma proporção com as temperaturas em grau Celsius, 35·(43/17), daria cerca de 88 psi — que é justamente a alternativa (b), e o motivo de ela estar lá. O aumento real é modesto, de menos de 10%, porque em kelvin a variação de 26 graus é pequena diante de 290."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "eng-fisica-21",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Em um dia extremamente quente, uma pessoa que vive numa casa sem ar-condicionado decide abrir a porta da geladeira, para reduzir um pouco a temperatura da sua cozinha.\nNessas condições, é correto afirmar que a temperatura da cozinha",
+   "alternativas": {
+    "a": "reduzirá pouco, dado que a geladeira não é tão potente quanto um aparelho de ar-condicionado.",
+    "b": "aumentará devido ao efeito Joule no motor elétrico da geladeira.",
+    "c": "permanecerá igual, pois toda a energia térmica absorvida pela parte frontal será irradiada na parte traseira do aparelho.",
+    "d": "reduzirá num primeiro momento, mas, tão logo o motor da geladeira começar a funcionar, a cozinha ficará mais quente do que antes.",
+    "e": "reduzirá, mas o consumo de energia da residência aumentará, pois a geladeira ficará com o motor ligado em potência máxima."
+   },
+   "resposta": "d",
+   "explicacao": "A geladeira não destrói calor: ela o bombeia de dentro para fora, e o que sai pela serpentina traseira é o calor retirado MAIS o trabalho elétrico do compressor. Com a porta aberta a cozinha vira o ambiente dos dois lados, e o saldo é positivo — ela esquenta. O primeiro instante realmente refresca, porque o ar frio já acumulado escapa, e é por isso que a alternativa (d) descreve as duas fases. A (c) erra ao supor um balanço nulo, ignorando a energia elétrica que entra; ela vale para uma máquina ideal sem consumo, que não existe. A (b) acerta o sentido, mas atribui o aquecimento só ao efeito Joule no motor, quando a maior parte é o calor bombeado de dentro para fora."
   }
  ],
  "fisica-ondas-optica": [
@@ -20203,78 +20239,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-ondas-optica",
-   "id": "dir-ciencias-natureza-60",
-   "texto_apoio": "Relatórios científicos internacionais têm associado as mudanças climáticas ao aumento da frequência e da intensidade de eventos climáticos extremos, como chuvas intensas e secas prolongadas.",
-   "enunciado": "Do ponto de vista científico, a relação entre o aquecimento global e o aumento de eventos climáticos extremos se explica, entre outros fatores, porque",
-   "alternativas": {
-    "a": "as mudanças climáticas se somam à variabilidade natural do clima, o que torna cada evento extremo isoladamente atribuível ao aquecimento, sem necessidade de análise estatística que separe a contribuição de cada uma das duas causas",
-    "b": "o aquecimento global reduz a umidade atmosférica, o que diminui a intensidade das chuvas",
-    "c": "o aumento da temperatura média eleva a energia e o vapor d'água disponíveis na atmosfera, intensificando chuvas concentradas e alterando padrões de circulação associados a secas em outras regiões",
-    "d": "o aquecimento global reduz a umidade atmosférica sobre os continentes, porque a evaporação mais intensa transfere água em definitivo para as bacias oceânicas",
-    "e": "o aumento da temperatura média distribui a energia atmosférica de modo mais uniforme pelo planeta, reduzindo os contrastes térmicos que dão origem a tempestades severas"
-   },
-   "resposta": "c",
-   "explicacao": "O aumento da temperatura média eleva a energia e o vapor d'água disponíveis na atmosfera, o que intensifica chuvas concentradas e altera padrões de circulação ligados a secas em outras regiões. A alternativa que dispensa a análise estatística é a mais instrutiva de descartar: mudanças climáticas e variabilidade natural coexistem, e é justamente por isso que atribuir um evento isolado ao aquecimento exige estudo de atribuição, e não inspeção direta. Dizer que o aquecimento reduz a umidade contraria a relação física entre temperatura e capacidade do ar de retê-la, cerca de 7% a mais por grau. Supor distribuição uniforme de energia apaga os contrastes que geram tempestade. E reduzir a intensidade das chuvas parte da mesma premissa invertida sobre umidade.",
-   "dificuldade": "dificil",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "dir-ciencias-natureza-61",
-   "texto_apoio": "A desertificação é um processo de degradação ambiental que afeta diversas regiões do planeta, inclusive áreas do semiárido brasileiro.",
-   "enunciado": "A desertificação de uma região resulta, tipicamente, da combinação entre",
-   "alternativas": {
-    "a": "elevação permanente do índice pluviométrico associada ao aumento da evaporação",
-    "b": "fatores climáticos, como secas prolongadas, e práticas humanas inadequadas, como desmatamento e superpastoreio, que reduzem a cobertura vegetal e degradam o solo",
-    "c": "expansão da irrigação e da adubação química em áreas de clima seco, que elevam a produtividade no curto prazo e tornam a lavoura dependente de insumos externos a cada safra",
-    "d": "aumento da fertilidade natural do solo em regiões áridas, resultado do acúmulo de sais minerais trazidos à superfície pela evaporação intensa da água de irrigação",
-    "e": "excesso de chuvas intensas e concentradas, que arrastam a camada superficial do solo e deixam exposto o material rochoso subjacente ao longo das encostas"
-   },
-   "resposta": "b",
-   "explicacao": "A desertificação combina fatores climáticos, como secas prolongadas, e práticas humanas inadequadas, como desmatamento e superpastoreio, que retiram a cobertura vegetal e degradam o solo. O acúmulo de sais trazidos à superfície pela evaporação é o distrator mais fino, porque descreve um processo que ocorre de verdade em região árida irrigada — e ele empobrece o solo em vez de fertilizá-lo, de modo que a alternativa acerta o mecanismo e erra o sinal. A dependência de insumos é problema agrícola real e distinto da desertificação. E as duas alternativas que apelam ao excesso de chuva descrevem erosão, processo que degrada solo em ambiente úmido, quando a desertificação se define pelo avanço da aridez.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "dir-ciencias-natureza-66",
-   "texto_apoio": "A segurança alimentar é um conceito utilizado por organismos internacionais, como a FAO (Organização das Nações Unidas para Alimentação e Agricultura), para avaliar o acesso da população a alimentos.",
-   "enunciado": "O conceito de \"segurança alimentar\", tal como utilizado por organismos internacionais, refere-se, principalmente,",
-   "alternativas": {
-    "a": "principalmente à quantidade total de alimentos produzidos no país, dando peso secundário ao acesso e à distribuição entre a população",
-    "b": "principalmente à segurança física e sanitária das instalações de armazenamento e transporte, aspecto relevante mas distinto do conceito amplo usado por organismos internacionais",
-    "c": "à autossuficiência de cada país na produção dos alimentos que consome",
-    "d": "à ausência completa de qualquer forma de comércio internacional de alimentos, hipótese irreal diante da interdependência comercial dos mercados agrícolas globais",
-    "e": "ao acesso regular e permanente da população a alimentos suficientes, seguros e nutritivos, conceito que envolve tanto a disponibilidade quanto o acesso econômico aos alimentos"
-   },
-   "resposta": "e",
-   "explicacao": "O conceito de segurança alimentar, tal como definido por organismos internacionais como a FAO, refere-se ao acesso regular e permanente de toda a população a alimentos em quantidade suficiente, seguros e nutricionalmente adequados para garantir uma vida ativa e saudável, envolvendo não apenas a produção, mas também a distribuição e o acesso econômico aos alimentos.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "dir-ciencias-natureza-76",
-   "texto_apoio": "Produtos de limpeza doméstica, como vinagre (ácido) e soda cáustica (base), são utilizados no cotidiano de acordo com suas propriedades químicas.",
-   "enunciado": "Quando uma solução ácida e uma solução básica são misturadas em proporções adequadas, ocorre uma reação de neutralização, cujo resultado típico é a formação de",
-   "alternativas": {
-    "a": "uma substância de caráter anfótero, capaz de atuar como ácido diante de uma base e como base diante de um ácido, conforme o meio em que venha a ser dissolvida em uma etapa posterior",
-    "b": "um novo ácido, mais concentrado do que o original, formado pela soma dos íons de hidrogênio presentes nas duas soluções misturadas",
-    "c": "predominantemente gás hidrogênio, liberado à medida que os íons de hidrogênio do ácido se combinam entre si dentro da solução",
-    "d": "um óxido básico e gás carbônico, liberados na forma gasosa",
-    "e": "um sal e, frequentemente, água, com o pH da solução resultante tendendo a se aproximar da neutralidade, conforme as quantidades utilizadas"
-   },
-   "resposta": "e",
-   "explicacao": "A neutralização entre um ácido e uma base forma um sal e, com frequência, água, e o pH da mistura tende à neutralidade conforme as quantidades empregadas. A substância anfótera é o distrator mais atraente porque o conceito existe e é vizinho do assunto: anfótero é o que se comporta como ácido ou como base, e não o produto de uma neutralização. Supor um ácido mais concentrado inverte o efeito da reação, que consome íons de hidrogênio em vez de somá-los. O gás hidrogênio aparece em reações de metais com ácidos, não aqui. E óxido básico com gás carbônico descreve a decomposição de um carbonato, que é outra reação.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
    "id": "dir-ciencias-natureza-77",
    "texto_apoio": "É comum perceber que o som de uma ambulância parece mais agudo quando ela se aproxima e mais grave quando ela se afasta do observador.",
    "enunciado": "Esse fenômeno, observado na variação da frequência percebida do som de uma fonte em movimento em relação a um observador, é conhecido como",
@@ -20287,42 +20251,6 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O efeito Doppler descreve a variação na frequência percebida de uma onda (sonora, no caso do exemplo) em razão do movimento relativo entre a fonte emissora e o observador: quando a fonte se aproxima, a frequência percebida aumenta (som mais agudo); quando se afasta, a frequência percebida diminui (som mais grave) — fenômeno também utilizado, por exemplo, em radares de velocidade e em equipamentos médicos de ultrassom Doppler.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "dir-ciencias-natureza-88",
-   "texto_apoio": "Durante a pandemia de covid-19, foram amplamente utilizados testes diagnósticos para identificar pessoas infectadas pelo vírus.",
-   "enunciado": "Em relação a testes diagnósticos para doenças infecciosas, os conceitos de \"sensibilidade\" e \"especificidade\" referem-se, respectivamente,",
-   "alternativas": {
-    "a": "à proporção de resultados positivos entre os examinados (sensibilidade) e à proporção de resultados negativos (especificidade), de modo que a soma das duas medidas corresponda ao conjunto inteiro da amostra testada",
-    "b": "ao custo do teste e ao tempo necessário para obter o resultado, parâmetros que orientam a escolha entre os métodos disponíveis na rede pública de saúde",
-    "c": "à capacidade de detectar a doença já em sua fase inicial (sensibilidade) e de distinguir entre variantes de um mesmo agente infeccioso (especificidade)",
-    "d": "ao intervalo de tempo entre a coleta da amostra e a liberação do resultado",
-    "e": "à capacidade de identificar corretamente indivíduos doentes (sensibilidade) e de identificar corretamente indivíduos saudáveis, sem a doença (especificidade)"
-   },
-   "resposta": "e",
-   "explicacao": "Sensibilidade é a capacidade de identificar corretamente quem tem a doença; especificidade, a de identificar corretamente quem não tem. A alternativa que fala em detectar a fase inicial e distinguir variantes é a mais tentadora, porque é assim que os dois termos são usados na conversa corrente — e os parâmetros se definem em relação ao estado real do paciente, não ao momento da infecção nem à cepa. A leitura em que as duas proporções somam o conjunto da amostra parece fechar a conta e troca os denominadores: sensibilidade se calcula entre os doentes, especificidade entre os sadios. Custo, tempo de resultado e distribuição de laboratórios são questões de logística e de política pública, não de desempenho do teste.",
-   "dificuldade": "dificil",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "dir-ciencias-natureza-92",
-   "texto_apoio": "O conceito de \"pegada de carbono\" tem sido utilizado para estimar o impacto de indivíduos, empresas ou produtos sobre as mudanças climáticas.",
-   "enunciado": "A \"pegada de carbono\" de uma atividade, produto ou indivíduo corresponde, em termos gerais,",
-   "alternativas": {
-    "a": "à quantidade total de água consumida ao longo da vida útil de um produto, somando o volume empregado no cultivo, no processamento e no transporte da mercadoria até chegar ao consumidor final",
-    "b": "à quantidade total, direta e indireta, de gases de efeito estufa emitida por determinada atividade, produto ou estilo de vida, geralmente expressa em equivalente de dióxido de carbono",
-    "c": "à quantidade de resíduos sólidos não recicláveis gerada por uma pessoa ao longo de um ano, convertida na massa de carbono contida no material que ela descarta",
-    "d": "ao número de árvores que uma empresa precisa plantar para compensar as emissões de determinado período, expresso em hectares de área reflorestada",
-    "e": "à área de vegetação necessária para absorver as emissões geradas pela atividade"
-   },
-   "resposta": "b",
-   "explicacao": "A pegada de carbono é o total de gases de efeito estufa emitido de forma direta e indireta por uma atividade, produto ou estilo de vida, em geral expresso em equivalente de dióxido de carbono. A área de vegetação necessária para absorver essas emissões é o distrator mais difícil de recusar, porque é um indicador real e vizinho — só que ele mede a compensação necessária, e não a emissão em si. O mesmo vale para o número de árvores plantadas, que é medida de contrapartida. A água consumida ao longo da cadeia é a pegada hídrica, outro indicador do mesmo conjunto. E converter resíduo sólido em massa de carbono mede um fluxo de material, não a emissão de gases à atmosfera.",
    "dificuldade": "media",
    "formato": "direta",
    "origem": "direito"
@@ -20568,7 +20496,7 @@ window.QUESTION_BANKS = {
     "b": "a metade – diminui, e o som se torna mais grave",
     "c": "o dobro – aumenta, e o som emitido se torna mais agudo",
     "d": "o quádruplo – aumenta, e o som se torna mais agudo",
-    "e": "a quarta parte – permanece a mesma, qualquer que seja o dedilhado"
+    "e": "a quarta parte – permanece a mesma, independentemente do dedilhado usado"
    },
    "resposta": "c",
    "explicacao": "No fundamental cabe meio comprimento de onda entre os dois nós, então o comprimento de onda é o dobro do da corda. Encurtar a corda reduz o comprimento de onda e, como a velocidade na corda não muda, a frequência sobe — é assim que se tocam notas mais agudas no braço do instrumento.",
@@ -20607,27 +20535,6 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A diferença é de 30 dB, ou três fatores de dez: 10³ = 1.000 vezes. A alternativa (a) toma a diferença em decibéis como se fosse a razão de intensidades, confundindo escala logarítmica com escala linear — o erro mais comum nesse tipo de item.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-31",
-   "visual": {
-    "tipo": "Gráfico",
-    "arquivo": "assets/med/fis-velocidade-tempo.svg",
-    "descricao": "A velocidade de um veículo em função do tempo. Entre 0 e 10 s a curva é uma reta crescente de 0 a 20 m/s; entre 10 e 30 s permanece horizontal em 20 m/s; entre 30 e 40 s decresce linearmente até zero."
-   },
-   "enunciado": "A distância total percorrida pelo veículo nos 40 s é de:",
-   "alternativas": {
-    "a": "600 m",
-    "b": "800 m",
-    "c": "400 m",
-    "d": "200 m",
-    "e": "1.000 m"
-   },
-   "resposta": "a",
-   "explicacao": "A distância é a área sob o gráfico. O primeiro trecho é um triângulo: 10 x 20 ÷ 2 = 100 m. O segundo é um retângulo: 20 x 20 = 400 m. O terceiro é outro triângulo: 10 x 20 ÷ 2 = 100 m. O total é 600 m. Somar apenas os retângulos deixaria 400 m, valor oferecido em (c).",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -21012,23 +20919,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-110",
-   "texto_apoio": "Duas esferas condutoras idênticas, uma com carga +8,0 μC e outra com carga −2,0 μC, são colocadas em contato e depois separadas.",
-   "enunciado": "Após a separação, a carga de cada esfera é de:",
-   "alternativas": {
-    "a": "+5,0 μC",
-    "b": "+6,0 μC",
-    "c": "+3,0 μC",
-    "d": "+10 μC",
-    "e": "zero"
-   },
-   "resposta": "c",
-   "explicacao": "Sendo idênticas, as esferas dividem igualmente a carga total após o contato. A soma algébrica é +8,0 − 2,0 = +6,0 μC, e cada uma fica com +3,0 μC. A alternativa (a) soma os módulos ignorando o sinal negativo de uma das cargas.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
    "id": "med-fisica-118",
    "texto_apoio": "Uma pessoa observa que, ao aproximar um alto-falante de uma taça de cristal e emitir um som de frequência específica, a taça vibra intensamente e pode se quebrar. Em outras frequências, nada acontece.",
    "enunciado": "A seletividade de frequência observada indica que a taça:",
@@ -21078,23 +20968,6 @@ window.QUESTION_BANKS = {
    "explicacao": "Frequência e comprimento de onda são inversamente proporcionais no vácuo, e a energia por fóton cresce com a frequência. Ionizar exige energia por fóton suficiente para arrancar elétrons, o que só ocorre a partir do ultravioleta mais energético — daí a preocupação com raios X e gama.",
    "formato": "lacunas",
    "banca": "santacasa",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-131",
-   "texto_apoio": "Um circuito contém três resistores: um de 10 Ω em série com uma associação em paralelo de dois resistores de 20 Ω cada. O conjunto é ligado a uma fonte de 30 V.",
-   "enunciado": "A resistência equivalente do circuito e a corrente fornecida pela fonte são, respectivamente:",
-   "alternativas": {
-    "a": "10 Ω e 3,0 A",
-    "b": "50 Ω e 0,60 A",
-    "c": "30 Ω e 1,0 A",
-    "d": "20 Ω e 1,5 A",
-    "e": "40 Ω e 0,75 A"
-   },
-   "resposta": "d",
-   "explicacao": "Os dois resistores de 20 Ω em paralelo equivalem a 10 Ω. Somando ao de 10 Ω em série: 20 Ω. A corrente é 30 ÷ 20 = 1,5 A. A alternativa (b) soma os três em série, ignorando a associação em paralelo descrita no enunciado.",
-   "formato": "direta",
    "origem": "medicina"
   },
   {
@@ -21164,41 +21037,6 @@ window.QUESTION_BANKS = {
    "resposta": "b",
    "explicacao": "Em oposição de fase, a crista de uma coincide com o vale da outra e as amplitudes se subtraem: sendo iguais, o resultado é zero — interferência destrutiva total. A alternativa (a) descreveria a interferência construtiva, com as ondas em fase.",
    "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-191",
-   "texto_apoio": "Duas esferas metálicas idênticas, montadas sobre suportes isolantes, têm cargas de +8,0 μC e −2,0 μC. Elas são postas em contato e, em seguida, afastadas uma da outra.",
-   "enunciado": "Após o afastamento, a carga elétrica de cada esfera é de:",
-   "alternativas": {
-    "a": "+5,0 μC",
-    "b": "+10 μC",
-    "c": "+6,0 μC",
-    "d": "+3,0 μC",
-    "e": "−3,0 μC"
-   },
-   "resposta": "d",
-   "explicacao": "A carga total se conserva e, como as esferas são idênticas, ela se divide igualmente: (+8,0 − 2,0) ÷ 2 = +3,0 μC em cada uma. A alternativa (a) é a armadilha: quem soma os módulos, sem respeitar os sinais, obtém +5,0 μC. A alternativa (c) esquece de dividir por dois, e (b) soma os módulos sem dividir.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-198",
-   "texto_apoio": "Duas cargas puntiformes, uma de +4,0 μC e outra de −4,0 μC, estão fixas no vácuo a 40 cm uma da outra. Adote k = 9,0 × 10⁹ N·m²/C².",
-   "enunciado": "A intensidade do campo elétrico resultante no ponto médio do segmento que une as duas cargas é de:",
-   "alternativas": {
-    "a": "zero",
-    "b": "1,8 × 10⁶ N/C",
-    "c": "2,25 × 10⁵ N/C",
-    "d": "9,0 × 10⁵ N/C",
-    "e": "4,5 × 10⁵ N/C"
-   },
-   "resposta": "b",
-   "explicacao": "Cada carga está a 0,20 m do ponto médio e cria ali campo de intensidade (9,0 × 10⁹ x 4,0 × 10⁻⁶) ÷ 0,040 = 9,0 × 10⁵ N/C. O campo da carga positiva aponta para longe dela e o da negativa aponta para ela: os dois vetores têm o mesmo sentido e se somam, dando 1,8 × 10⁶ N/C. A armadilha é (a): cargas de sinais opostos não anulam o campo no ponto médio, elas o reforçam — quem anula ali são duas cargas de mesmo sinal. A alternativa (c) usa 0,40 m no lugar da metade da distância.",
-   "formato": "direta",
-   "dificuldade": "dificil",
    "origem": "medicina"
   },
   {
@@ -21378,22 +21216,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-264",
-   "enunciado": "Quando um homem se coloca em pé, projeta sobre o solo plano e horizontal uma sombra com 1,35 m de comprimento, conforme a figura 1. Quando esse mesmo homem sobe em um banco de 40 cm de altura e se mantém em pé, o banco e o homem projetam sobre o solo uma sombra com 1,65 m de comprimento, conforme a figura 2 (imagem meramente ilustrativa, gerada por IA).\n\nSabendo que nas duas situações o homem se encontra no mesmo local e no mesmo horário, a altura desse homem é",
-   "alternativas": {
-    "a": "1,75 m.",
-    "b": "1,60 m.",
-    "c": "1,65 m.",
-    "d": "1,80 m.",
-    "e": "1,70 m."
-   },
-   "resposta": "e",
-   "explicacao": "Como o Sol está no mesmo local e horário nas duas situações, os triângulos formados pela altura dos objetos e suas sombras são semelhantes: H/1,35=(H+0,40)/1,65. Resolvendo, H=1,70 m (considerando H a altura do homem e 0,40 m a altura do banco).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
    "id": "med-fisica-265",
    "enunciado": "Conhecer como se dá a propagação do som no oceano é importante para a medição de profundidades. Para essa medição, utilizam-se instrumentos que operam com frequências que independem da profundidade do oceano. O gráfico mostra como varia a velocidade de propagação do som nas águas do oceano, em determinada região do planeta, em função da profundidade: a velocidade é de aproximadamente 1620 m/s na superfície (profundidade 0), diminui progressivamente até um mínimo de aproximadamente 1480–1490 m/s por volta de 200–300 m de profundidade, e a partir daí volta a aumentar continuamente até cerca de 1630 m/s em 800 m de profundidade (perfil típico de canal sonoro oceânico).\n\nDe acordo com as informações apresentadas, em relação a uma onda sonora propagando-se no oceano, na região do planeta citada no texto,",
    "alternativas": {
@@ -21469,38 +21291,6 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A velocidade da onda é v=f×λ=200×1,84=368 m/s. Usando a relação linear do gráfico entre velocidade e temperatura (crescendo de 320 m/s a −20°C até 380 m/s a 80°C), essa velocidade corresponde a uma temperatura de aproximadamente 60°C.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-284",
-   "enunciado": "Considere dois objetos de dimensões desprezíveis e eletrizados com cargas Q1 e Q2. Há um ponto P, localizado entre esses dois objetos e sobre o segmento de reta que os une, em que o campo elétrico resultante, produzido pelas cargas elétricas presentes em cada objeto, é nulo.\n\nNessas condições, e considerando o potencial elétrico no infinito igual a zero, as cargas Q1 e Q2 têm",
-   "alternativas": {
-    "a": "sinais opostos, e o potencial elétrico no ponto P é nulo.",
-    "b": "sinais opostos, e o potencial elétrico no ponto P é necessariamente positivo.",
-    "c": "sinais opostos, e o potencial elétrico no ponto P é necessariamente negativo.",
-    "d": "o mesmo sinal, e o potencial elétrico no ponto P é diferente de zero.",
-    "e": "o mesmo sinal, e o potencial elétrico no ponto P é nulo."
-   },
-   "resposta": "d",
-   "explicacao": "Para que o campo elétrico resultante seja nulo em um ponto entre as duas cargas (e não fora delas), as cargas precisam ter o mesmo sinal, de modo que seus campos se oponham nesse ponto; como o potencial elétrico de cargas de mesmo sinal se soma (não cancela) em pontos internos, o potencial em P é diferente de zero.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-286",
-   "enunciado": "No modelo de átomo do hidrogênio proposto por Bohr, o elétron pode se encontrar somente em determinados níveis de energia: n=1 (fundamental, –13,6 eV), n=2 (1º excitado, –3,4 eV), n=3 (2º excitado, –1,5 eV), n=4 (3º excitado, –0,85 eV), n=∞ (0 eV).\n\nConsidere que um elétron se encontre no estado fundamental de energia no átomo de hidrogênio. De acordo com o modelo de Bohr, a menor quantidade de energia necessária para remover esse elétron do átomo e a menor quantidade de energia necessária para excitá-lo são, respectivamente,",
-   "alternativas": {
-    "a": "13,6 eV e 10,2 eV.",
-    "b": "13,6 eV e 3,4 eV.",
-    "c": "10,2 eV e 1,9 eV.",
-    "d": "3,4 eV e 1,5 eV.",
-    "e": "3,4 eV e 13,6 eV."
-   },
-   "resposta": "a",
-   "explicacao": "A energia mínima para remover o elétron do estado fundamental (n=1, −13,6 eV) até o infinito (0 eV) é 13,6 eV (ionização); a menor energia de excitação é para o primeiro nível excitado (n=2, −3,4 eV), ou seja, 13,6−3,4=10,2 eV.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -21698,22 +21488,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-338",
-   "enunciado": "O valor energético de uma barra de 100 g de chocolate ao leite, segundo sua tabela de informação nutricional, é 550 kcal. Uma pessoa, após comer e digerir a barra, recebeu energia equivalente à consumida por uma TV de LED de 100 W ligada por, aproximadamente,\n\n(Considere 1 cal = 4 J.)",
-   "alternativas": {
-    "a": "0,5 horas",
-    "b": "1,5 horas",
-    "c": "2,2 horas",
-    "d": "3,6 horas",
-    "e": "6,0 horas"
-   },
-   "resposta": "e",
-   "explicacao": "A energia da barra é 550×4000=2.200.000 J (convertendo kcal para J). Dividindo pela potência da TV (100W), o tempo equivalente é 2.200.000/100=22.000s≈6,1 horas.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
    "id": "med-fisica-339",
    "enunciado": "Uma piscina tem duas partes, uma rasa e outra funda, e entre as duas partes há um degrau. Uma criança, brincando na parte rasa, provoca a propagação de uma onda plana na superfície da água, de comprimento de onda λ1, que incide obliquamente na linha de separação entre as partes rasa e funda com ângulo de incidência θ1. A onda na parte funda tem comprimento de onda λ2 e direção de propagação que forma um ângulo θ2 com a normal à linha que separa as duas partes da piscina.\n\n(A velocidade de propagação de ondas na água é maior em profundidades maiores.)\n\nNessas condições,",
    "alternativas": {
@@ -21840,25 +21614,6 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "É efeito Doppler com fonte parada e OBSERVADOR em movimento: f' = f·(v ± v_obs)/v. O microfone gira, então uma vez por volta ele se aproxima da sirene com os 7 m/s cheios e, meia volta depois, se afasta com a mesma rapidez. Os extremos são f' = 680·(340 + 7)/340 = 694 Hz e f' = 680·(340 − 7)/340 = 666 Hz. A opção \"680 e 680\" é a de quem considera que, como a DISTÂNCIA média não muda, a frequência também não mudaria — mas o que produz Doppler é a velocidade radial instantânea, não a distância."
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "eng-fisica-22",
-   "banca": "maua",
-   "sessao": "maua-inverno-2024",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "engenharia",
-   "enunciado": "A flauta de pã é composta por tubos fechados em uma das extremidades.\nConsiderando v_som = 330 m/s, o comprimento aproximado do tubo, para que, em seu primeiro harmônico, seja emitida a nota musical \"lá\", cuja frequência é de 440 Hz, é de",
-   "alternativas": {
-    "a": "19 cm",
-    "b": "9 cm",
-    "c": "4,5 cm",
-    "d": "38 cm",
-    "e": "75 cm"
-   },
-   "resposta": "a",
-   "explicacao": "O comprimento de onda é λ = v/f = 330/440 = 0,75 m. Num tubo FECHADO numa das pontas, a extremidade fechada é nó e a aberta é ventre, e a menor distância entre um nó e um ventre é um quarto de onda — daí, no primeiro harmônico, L = λ/4 = 0,1875 m ≈ 19 cm. A alternativa (d), 38 cm, é λ/2, que valeria para um tubo ABERTO nas duas pontas, e (e) é o próprio λ. Distinguir tubo aberto de fechado é exatamente o que a questão cobra ao mencionar que a flauta de pã tem uma extremidade tampada."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -21893,24 +21648,6 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Nas usinas eólicas, a energia cinética do vento movimenta as pás de uma turbina, gerando energia mecânica de rotação, que é então convertida em energia elétrica por um gerador acoplado ao eixo da turbina, sem qualquer processo de combustão ou reação nuclear envolvido.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "fisica-eletromagnetismo",
-   "id": "dir-ciencias-natureza-93",
-   "texto_apoio": "A economia circular é um modelo alternativo ao padrão tradicional de produção e consumo, conhecido como economia linear (extrair, produzir, descartar).",
-   "enunciado": "O modelo de economia circular propõe, entre outros princípios,",
-   "alternativas": {
-    "a": "o aumento constante e ilimitado da extração de matérias-primas virgens da natureza, sem qualquer preocupação com reaproveitamento",
-    "b": "a manutenção do padrão linear tradicional de produção, extração e descarte, sem qualquer alteração no ciclo de vida dos produtos",
-    "c": "a proibição total de qualquer forma de produção industrial em larga escala, medida radical incompatível com o objetivo de reaproveitamento da economia circular",
-    "d": "a substituição integral de materiais sintéticos por matérias-primas de origem vegetal",
-    "e": "a reutilização, a reciclagem e a extensão da vida útil de produtos, reduzindo a extração de recursos naturais e a geração de resíduos"
-   },
-   "resposta": "e",
-   "explicacao": "A economia circular propõe um modelo de produção e consumo baseado na reutilização, na reciclagem, no reparo e na extensão da vida útil de produtos e materiais, buscando reduzir a extração de novas matérias-primas e a geração de resíduos, em contraste com o modelo linear tradicional de \"extrair, produzir e descartar\".",
    "dificuldade": "media",
    "formato": "direta",
    "origem": "direito"
@@ -22383,6 +22120,23 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-eletromagnetismo",
+   "id": "med-fisica-131",
+   "texto_apoio": "Um circuito contém três resistores: um de 10 Ω em série com uma associação em paralelo de dois resistores de 20 Ω cada. O conjunto é ligado a uma fonte de 30 V.",
+   "enunciado": "A resistência equivalente do circuito e a corrente fornecida pela fonte são, respectivamente:",
+   "alternativas": {
+    "a": "10 Ω e 3,0 A",
+    "b": "50 Ω e 0,60 A",
+    "c": "30 Ω e 1,0 A",
+    "d": "20 Ω e 1,5 A",
+    "e": "40 Ω e 0,75 A"
+   },
+   "resposta": "d",
+   "explicacao": "Os dois resistores de 20 Ω em paralelo equivalem a 10 Ω. Somando ao de 10 Ω em série: 20 Ω. A corrente é 30 ÷ 20 = 1,5 A. A alternativa (b) soma os três em série, ignorando a associação em paralelo descrita no enunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
    "id": "med-fisica-133",
    "texto_apoio": "Uma carga de 4,0 × 10⁻⁶ C é deslocada entre dois pontos de um campo elétrico, e a força elétrica realiza sobre ela um trabalho de 8,0 × 10⁻⁴ J.",
    "enunciado": "A diferença de potencial entre os dois pontos é de:",
@@ -22457,7 +22211,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A circulação sem bomba é possível porque a água aquecida nas placas:",
    "alternativas": {
     "a": "reduz sua viscosidade a ponto de escoar espontaneamente contra a gravidade, sem necessidade de diferença de densidade entre as porções",
-    "b": "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa qualquer equipamento auxiliar",
+    "b": "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa o uso de equipamento auxiliar de bombeamento",
     "c": "evapora parcialmente e o vapor formado empurra a coluna líquida até o reservatório instalado na parte superior da montagem residencial",
     "d": "adquire carga elétrica pelo atrito com as paredes das tubulações, o que gera um campo capaz de movimentar o fluido ao longo do circuito",
     "e": "torna-se menos densa ao se dilatar e sobe por empuxo até o reservatório, sendo substituída pela água mais fria e mais densa que vem dele"
@@ -22539,6 +22293,23 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-eletromagnetismo",
+   "id": "med-fisica-191",
+   "texto_apoio": "Duas esferas metálicas idênticas, montadas sobre suportes isolantes, têm cargas de +8,0 μC e −2,0 μC. Elas são postas em contato e, em seguida, afastadas uma da outra.",
+   "enunciado": "Após o afastamento, a carga elétrica de cada esfera é de:",
+   "alternativas": {
+    "a": "+5,0 μC",
+    "b": "+10 μC",
+    "c": "+6,0 μC",
+    "d": "+3,0 μC",
+    "e": "−3,0 μC"
+   },
+   "resposta": "d",
+   "explicacao": "A carga total se conserva e, como as esferas são idênticas, ela se divide igualmente: (+8,0 − 2,0) ÷ 2 = +3,0 μC em cada uma. A alternativa (a) é a armadilha: quem soma os módulos, sem respeitar os sinais, obtém +5,0 μC. A alternativa (c) esquece de dividir por dois, e (b) soma os módulos sem dividir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
    "id": "med-fisica-193",
    "texto_apoio": "Uma carga puntiforme de 2,0 μC está fixa no vácuo. Adote k = 9,0 × 10⁹ N·m²/C² e potencial nulo no infinito.",
    "enunciado": "O potencial elétrico num ponto situado a 90 cm dessa carga vale:",
@@ -22553,6 +22324,23 @@ window.QUESTION_BANKS = {
    "explicacao": "O potencial de uma carga puntiforme é V = k x Q ÷ d, com a distância na primeira potência: (9,0 × 10⁹ x 2,0 × 10⁻⁶) ÷ 0,90 = 1,8 × 10⁴ ÷ 0,90 = 2,0 × 10⁴ V. A alternativa (a) é a armadilha conceitual da questão: quem eleva a distância ao quadrado, misturando a fórmula do potencial com a do campo, obtém 2,2 × 10⁴ V. A alternativa (b) deixa a distância em centímetros.",
    "formato": "direta",
    "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "med-fisica-194",
+   "texto_apoio": "Numa região do espaço, o potencial elétrico no ponto A vale 500 V e no ponto B, 100 V. Uma carga de +2,0 μC é transportada de A até B.",
+   "enunciado": "O trabalho realizado pela força elétrica nesse deslocamento é de:",
+   "alternativas": {
+    "a": "−8,0 × 10⁻⁴ J",
+    "b": "1,2 × 10⁻³ J",
+    "c": "1,0 × 10⁻³ J",
+    "d": "8,0 × 10⁻⁴ J",
+    "e": "2,0 × 10⁻⁴ J"
+   },
+   "resposta": "d",
+   "explicacao": "O trabalho da força elétrica é W = q x (V_A − V_B) = 2,0 × 10⁻⁶ x 400 = 8,0 × 10⁻⁴ J, positivo porque uma carga positiva se desloca espontaneamente do potencial maior para o menor. A alternativa (a) inverte a ordem da subtração e troca o sinal do resultado. A alternativa (b) soma os potenciais em vez de subtrair, e as alternativas (c) e (e) usam apenas um dos dois potenciais.",
+   "formato": "direta",
    "origem": "medicina"
   },
   {
@@ -22604,6 +22392,24 @@ window.QUESTION_BANKS = {
    "resposta": "c",
    "explicacao": "A carga se acumula onde a superfície é mais curva, e junto às pontas o campo pode superar a rigidez dielétrica do ar, ionizando-o. O ar ionizado conduz, e a descarga encontra ali o caminho mais fácil: é o poder das pontas. A armadilha está em (d), que acerta a densidade de carga e inverte a conclusão: campo mais intenso na ponta favorece a descarga, em vez de impedi-la.",
    "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "med-fisica-198",
+   "texto_apoio": "Duas cargas puntiformes, uma de +4,0 μC e outra de −4,0 μC, estão fixas no vácuo a 40 cm uma da outra. Adote k = 9,0 × 10⁹ N·m²/C².",
+   "enunciado": "A intensidade do campo elétrico resultante no ponto médio do segmento que une as duas cargas é de:",
+   "alternativas": {
+    "a": "zero",
+    "b": "1,8 × 10⁶ N/C",
+    "c": "2,25 × 10⁵ N/C",
+    "d": "9,0 × 10⁵ N/C",
+    "e": "4,5 × 10⁵ N/C"
+   },
+   "resposta": "b",
+   "explicacao": "Cada carga está a 0,20 m do ponto médio e cria ali campo de intensidade (9,0 × 10⁹ x 4,0 × 10⁻⁶) ÷ 0,040 = 9,0 × 10⁵ N/C. O campo da carga positiva aponta para longe dela e o da negativa aponta para ela: os dois vetores têm o mesmo sentido e se somam, dando 1,8 × 10⁶ N/C. A armadilha é (a): cargas de sinais opostos não anulam o campo no ponto médio, elas o reforçam — quem anula ali são duas cargas de mesmo sinal. A alternativa (c) usa 0,40 m no lugar da metade da distância.",
+   "formato": "direta",
+   "dificuldade": "dificil",
    "origem": "medicina"
   },
   {
@@ -22914,6 +22720,22 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A força eletromotriz induzida surge porque, ao girar a espira dentro do campo magnético fixo, o ângulo entre a espira e as linhas de campo varia continuamente, causando uma variação periódica do fluxo magnético através da espira (lei de Faraday).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "med-fisica-284",
+   "enunciado": "Considere dois objetos de dimensões desprezíveis e eletrizados com cargas Q1 e Q2. Há um ponto P, localizado entre esses dois objetos e sobre o segmento de reta que os une, em que o campo elétrico resultante, produzido pelas cargas elétricas presentes em cada objeto, é nulo.\n\nNessas condições, e considerando o potencial elétrico no infinito igual a zero, as cargas Q1 e Q2 têm",
+   "alternativas": {
+    "a": "sinais opostos, e o potencial elétrico no ponto P é nulo.",
+    "b": "sinais opostos, e o potencial elétrico no ponto P é necessariamente positivo.",
+    "c": "sinais opostos, e o potencial elétrico no ponto P é necessariamente negativo.",
+    "d": "o mesmo sinal, e o potencial elétrico no ponto P é diferente de zero.",
+    "e": "o mesmo sinal, e o potencial elétrico no ponto P é nulo."
+   },
+   "resposta": "d",
+   "explicacao": "Para que o campo elétrico resultante seja nulo em um ponto entre as duas cargas (e não fora delas), as cargas precisam ter o mesmo sinal, de modo que seus campos se oponham nesse ponto; como o potencial elétrico de cargas de mesmo sinal se soma (não cancela) em pontos internos, o potencial em P é diferente de zero.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -24407,6 +24229,23 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-54",
+   "texto_apoio": "Uma partícula carregada positivamente entra numa região de campo magnético uniforme com velocidade perpendicular às linhas de campo.",
+   "enunciado": "Sobre o movimento subsequente da partícula, é correto afirmar que ela:",
+   "alternativas": {
+    "a": "mantém trajetória retilínea, uma vez que a força magnética atua na mesma direção do movimento e não altera a direção da velocidade",
+    "b": "acelera uniformemente na direção do campo magnético, ganhando energia cinética de forma contínua ao longo de todo o trajeto percorrido",
+    "c": "descreve trajetória circular, já que a força magnética é sempre perpendicular à velocidade, e o campo não realiza trabalho sobre ela",
+    "d": "descreve trajetória parabólica, semelhante à de um projétil sob a ação exclusiva da atração gravitacional exercida pelo planeta Terra",
+    "e": "é imediatamente freada até o repouso, porque a força magnética se opõe sempre ao sentido do deslocamento da partícula carregada no campo"
+   },
+   "resposta": "c",
+   "explicacao": "A força magnética é sempre perpendicular à velocidade, o que a torna centrípeta: a trajetória é circular. Sendo perpendicular ao deslocamento, ela não realiza trabalho, e por isso o módulo da velocidade e a energia cinética permanecem constantes — só a direção muda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
    "id": "med-fisica-60",
    "texto_apoio": "Uma usina hidrelétrica aproveita a queda de água de uma barragem de 80 m de altura, com vazão de 500 kg de água por segundo. Adote g = 10 m/s².",
    "enunciado": "Supondo rendimento de 100%, a potência elétrica gerada seria de:",
@@ -24480,7 +24319,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Um objeto de 0,50 kg preso a uma mola oscila horizontalmente sobre superfície sem atrito. Na posição de máxima elongação, sua velocidade é nula; ao passar pela posição de equilíbrio, a velocidade é máxima.",
    "enunciado": "Ao longo de uma oscilação completa, a energia mecânica total do sistema:",
    "alternativas": {
-    "a": "depende exclusivamente da massa do bloco, sem qualquer contribuição da constante elástica ou da amplitude adotada na montagem experimental",
+    "a": "depende apenas da massa do bloco suspenso, sem contribuição alguma da constante elástica ou da amplitude adotada na montagem experimental do laboratório",
     "b": "aumenta continuamente, uma vez que a mola fornece energia adicional ao bloco a cada ciclo completo de oscilação realizado pelo sistema",
     "c": "diminui a cada ciclo, porque parte da energia se dissipa na deformação da mola mesmo na ausência de atrito com a superfície de apoio",
     "d": "é máxima na posição de equilíbrio e nula nos extremos, acompanhando a variação observada para a velocidade do bloco durante o movimento",
@@ -24506,6 +24345,24 @@ window.QUESTION_BANKS = {
    "resposta": "c",
    "explicacao": "O torque é o produto da força pela distância ao eixo de rotação. Dobrando o braço, o mesmo esforço produz o dobro de torque. A força aplicada pela pessoa não muda — o que muda é a alavanca, e é por isso que (b) inverte a explicação.",
    "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-177",
+   "texto_apoio": "Um recipiente contém uma mistura de gás hidrogênio, de massa molar 2 g/mol, e gás oxigênio, de massa molar 32 g/mol, em equilíbrio térmico. A velocidade quadrática média das moléculas é inversamente proporcional à raiz quadrada da massa molar.",
+   "enunciado": "A razão entre a velocidade quadrática média das moléculas de hidrogênio e a das moléculas de oxigênio vale:",
+   "alternativas": {
+    "a": "4",
+    "b": "2",
+    "c": "1, pois à mesma temperatura todas as moléculas se movem com a mesma velocidade",
+    "d": "16",
+    "e": "1/4"
+   },
+   "resposta": "a",
+   "explicacao": "A razão entre as velocidades é a raiz quadrada da razão inversa das massas molares: √(32 ÷ 2) = √16 = 4. A alternativa (d) é de quem usou a razão das massas sem extrair a raiz. A alternativa (c) esconde a confusão mais comum do tema: no equilíbrio térmico o que é igual para os dois gases é a energia cinética média, e não a velocidade — como a energia depende do produto da massa pelo quadrado da velocidade, a molécula mais leve compensa a diferença sendo mais rápida.",
+   "formato": "direta",
+   "dificuldade": "dificil",
    "origem": "medicina"
   },
   {
@@ -25520,7 +25377,7 @@ window.QUESTION_BANKS = {
     "b": "só se manifestam em velocidades muito próximas à da luz, condição jamais atingida por qualquer objeto construído pela engenharia humana",
     "c": "afetam exclusivamente partículas subatômicas em aceleradores, sem qualquer repercussão sobre instrumentos de escala macroscópica utilizados",
     "d": "têm consequências práticas mensuráveis em tecnologias de uso cotidiano, já que sem a correção o erro de posicionamento cresceria a cada dia",
-    "e": "contradizem as leis da mecânica clássica em todas as escalas, o que torna inválido o uso das equações de Newton em qualquer aplicação prática"
+    "e": "contradizem as leis da mecânica clássica nas diversas escalas, o que tornaria inválido o uso das equações de Newton nas aplicações práticas usuais"
    },
    "resposta": "d",
    "explicacao": "Sem as correções relativísticas — tanto a da velocidade orbital quanto a do campo gravitacional mais fraco em altitude —, o erro de posicionamento acumularia vários quilômetros por dia. A alternativa (e) exagera: a mecânica newtoniana continua válida como aproximação em baixas velocidades.",
@@ -26719,7 +26576,7 @@ window.QUESTION_BANKS = {
     "a": "produzir previsões meteorológicas diárias para diferentes regiões do planeta, tarefa que compete a serviços meteorológicos nacionais, não ao IPCC",
     "b": "conduzir diretamente as negociações internacionais sobre metas de redução de emissões",
     "c": "definir, de forma unilateral e vinculante, políticas ambientais que todos os países são legalmente obrigados a seguir de imediato",
-    "d": "realizar exclusivamente pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
+    "d": "realizar apenas pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade bastante distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
     "e": "sintetizar e avaliar, com base em evidências científicas revisadas por pares, o conhecimento sobre mudanças climáticas, servindo de base técnica para negociações e políticas públicas"
    },
    "resposta": "e",
@@ -27222,6 +27079,22 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Pela estequiometria (2O²⁻→O2+4e⁻, e depois O2+C→CO2), a cada 1 mol de Al2O3 (que fornece 3 mol de O²⁻) formam-se 1,5 mol de O2 e, portanto, 1,5 mol de CO2; no polo negativo (cátodo) ocorre a redução do Al³⁺ a Al metálico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-287",
+   "enunciado": "Biomassa é a matéria orgânica de origem vegetal ou animal utilizada como fonte de energia renovável. Sua importância está na redução da dependência de combustíveis fósseis e na diminuição das emissões de gases poluentes. Para um melhor aproveitamento dessa fonte, alguns processos incluem a trituração da biomassa com o objetivo de aumentar a velocidade de decomposição da matéria orgânica pelos microrganismos, contribuindo para uma produção mais estável e eficiente do biogás.\n\nA velocidade de decomposição da biomassa aumenta devido ao(à)",
+   "alternativas": {
+    "a": "diminuição da concentração dos reagentes, o que reduz a resistência do meio, acelerando a cinética.",
+    "b": "aumento da energia de ativação, o que torna as moléculas mais reativas, facilitando a ação microbiana.",
+    "c": "diminuição da temperatura do meio, o que estabiliza os microrganismos, favorecendo a decomposição.",
+    "d": "aumento da pressão parcial de oxigênio, o que intensifica a oxidação da biomassa pelos microrganismos, facilitando a decomposição.",
+    "e": "aumento da superfície de contato, o que favorece a interação entre os microrganismos e o substrato, acelerando reações heterogêneas."
+   },
+   "resposta": "e",
+   "explicacao": "A trituração da biomassa aumenta a superfície de contato entre o substrato e os micro-organismos decompositores, favorecendo reações heterogêneas (que ocorrem na interface sólido-líquido) e acelerando a velocidade de decomposição.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -27975,6 +27848,23 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "quimica-atomistica-ligacoes",
+   "id": "dir-ciencias-natureza-33",
+   "texto_apoio": "Além do dióxido de carbono, outros gases contribuem para o efeito estufa, cada um com diferente capacidade de retenção de calor na atmosfera.",
+   "enunciado": "O metano (CH4), emitido por atividades como a pecuária e a decomposição de resíduos orgânicos, é considerado um gás de efeito estufa relevante porque",
+   "alternativas": {
+    "a": "é o único gás de efeito estufa de origem biológica presente na atmosfera terrestre",
+    "b": "tem capacidade de retenção de calor muito inferior à do dióxido de carbono na atmosfera",
+    "c": "permanece na atmosfera por período muito superior ao do dióxido de carbono, o que amplia seu efeito acumulado",
+    "d": "é produzido principalmente pela queima de combustíveis fósseis em usinas termelétricas, de forma semelhante ao dióxido de carbono",
+    "e": "tem, molécula a molécula, potencial de aquecimento maior que o do CO2 em horizonte curto, apesar de durar menos"
+   },
+   "resposta": "e",
+   "explicacao": "O metano retém muito mais calor por molécula que o CO2, e é por isso que cortar suas emissões dá resultado climático rápido — mesmo que ele se decomponha em cerca de uma década. Em (c) está a inversão exata dessa característica, e ela engana porque parece a explicação natural para um gás ser considerado perigoso: aqui a potência compensa a permanência curta, e não o contrário. Em (b), a premissa nega o próprio enunciado. Em (d), a origem é sobretudo biológica. Em (a), há outros gases de origem biológica.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
    "id": "dir-ciencias-natureza-34",
    "texto_apoio": "Usinas nucleares geram eletricidade a partir de reações nucleares controladas, sendo utilizadas em diversos países como fonte de energia de baixa emissão de carbono.",
    "enunciado": "O processo utilizado em usinas nucleares convencionais para gerar energia é a",
@@ -28022,6 +27912,24 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A nanotecnologia envolve a manipulação da matéria em escala nanométrica, com aplicações em diversas áreas, como o desenvolvimento de sistemas de liberação controlada de medicamentos na medicina, componentes eletrônicos mais eficientes e materiais com propriedades específicas de resistência, condutividade ou funcionalidade, distintas das apresentadas pelo mesmo material em escala macroscópica.",
+   "dificuldade": "media",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "dir-ciencias-natureza-95",
+   "texto_apoio": "O forno de micro-ondas é um eletrodoméstico amplamente utilizado para aquecer e cozinhar alimentos rapidamente.",
+   "enunciado": "O princípio físico de funcionamento do forno de micro-ondas consiste em",
+   "alternativas": {
+    "a": "gerar ondas eletromagnéticas que fazem as moléculas de água do alimento vibrarem rapidamente, gerando calor por atrito molecular",
+    "b": "emitir radiação ionizante de baixa intensidade, que rompe ligações químicas das moléculas do alimento e libera nesse processo a energia responsável pelo aquecimento",
+    "c": "transferir calor por condução direta entre as paredes metálicas e o alimento",
+    "d": "gerar um campo magnético que alinha as moléculas de água do alimento e reduz o atrito entre elas, o que permite aquecimento uniforme da porção interna à superfície",
+    "e": "aquecer resistências metálicas ocultas nas paredes internas da câmara, que transferem calor ao alimento por radiação infravermelha em vez de contato direto"
+   },
+   "resposta": "a",
+   "explicacao": "O micro-ondas emite ondas eletromagnéticas de frequência que faz as moléculas de água do alimento oscilarem rapidamente, e é o atrito entre elas que gera calor. Chamar essa radiação de ionizante é o erro mais frequente sobre o aparelho: micro-ondas são radiação não ionizante, sem energia para romper ligações químicas ou alterar a estrutura atômica do alimento. A ideia de um campo que alinha as moléculas e reduz o atrito inverte o mecanismo, porque é o aumento do atrito que aquece. Resistências que irradiam calor descrevem o forno elétrico convencional. E condução direta pelas paredes metálicas é o que o micro-ondas justamente dispensa, já que aquece de dentro para fora.",
    "dificuldade": "media",
    "formato": "direta",
    "origem": "direito"
@@ -28201,7 +28109,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "tetraédrica, trigonal plana e linear, formas que decorrem apenas do número de átomos ligados ao elemento central de cada molécula",
     "b": "trigonal plana, piramidal e angular, arranjos determinados pelo número total de pares de elétrons presentes na camada de valência",
-    "c": "tetraédrica, tetraédrica e tetraédrica, uma vez que todas apresentam quatro pares de elétrons distribuídos ao redor do elemento central",
+    "c": "tetraédrica, tetraédrica e tetraédrica, uma vez que as três apresentam quatro pares de elétrons distribuídos ao redor do elemento central da molécula",
     "d": "linear, angular e tetraédrica, sequência que acompanha o aumento do número de pares não ligantes presentes no átomo central",
     "e": "tetraédrica, piramidal e angular, formas definidas pelas posições dos átomos ligados, e não pelas dos pares de elétrons não ligantes"
    },
@@ -28358,6 +28266,23 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-84",
+   "texto_apoio": "Duas amostras gasosas são comparadas nas mesmas condições de temperatura: uma de gás hidrogênio e outra de gás oxigênio. Mede-se a velocidade média das moléculas em cada uma delas.",
+   "enunciado": "Espera-se que as moléculas de hidrogênio apresentem velocidade média:",
+   "alternativas": {
+    "a": "igual, porque a temperatura é a mesma nas duas amostras e determina diretamente a velocidade das moléculas independentemente de sua natureza",
+    "b": "menor, uma vez que moléculas de massa reduzida sofrem maior número de colisões por segundo e têm seu deslocamento retardado por esse motivo",
+    "c": "maior, porque à mesma temperatura a energia cinética média é igual nas duas amostras, e a massa da molécula de hidrogênio é dezesseis vezes menor",
+    "d": "maior, porque o hidrogênio apresenta forças intermoleculares mais intensas que o oxigênio e transfere energia com mais eficiência entre partículas",
+    "e": "menor, porque a molécula de hidrogênio possui menos elétrons e portanto menor capacidade de armazenar a energia térmica fornecida ao sistema"
+   },
+   "resposta": "c",
+   "explicacao": "A temperatura mede a energia cinética média das partículas. Como essa energia é igual nas duas amostras e vale metade da massa vezes a velocidade ao quadrado, a molécula mais leve precisa se mover mais rápido. É o princípio por trás da lei de efusão de Graham.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
    "id": "med-quimica-92",
    "texto_apoio": "Um fóssil vegetal é datado pelo método do carbono-14, cuja meia-vida é de aproximadamente 5.730 anos. A razão entre carbono-14 e carbono-12 medida na amostra corresponde a um oitavo da razão encontrada em organismos vivos atuais.",
    "enunciado": "A idade estimada do fóssil é de, aproximadamente:",
@@ -28450,6 +28375,23 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-113",
+   "texto_apoio": "Um agrotóxico organoclorado usado em décadas passadas foi banido em muitos países por sua persistência no ambiente e por se acumular nos tecidos de aves predadoras, afinando a casca de seus ovos.",
+   "enunciado": "A persistência ambiental desse tipo de composto está associada, principalmente, a:",
+   "alternativas": {
+    "a": "sua rápida decomposição em compostos intermediários, cuja toxicidade supera a da substância original aplicada nas lavouras tratadas",
+    "b": "sua alta solubilidade em água, que o dispersa rapidamente pelos corpos hídricos e dificulta a remoção por processos convencionais de tratamento",
+    "c": "sua volatilidade elevada, que o mantém em circulação na atmosfera por períodos prolongados antes de retornar à superfície com a precipitação",
+    "d": "sua elevada estabilidade química e baixa biodegradabilidade, combinadas à lipossolubilidade, que o faz se alojar nos tecidos gordurosos",
+    "e": "sua reatividade com a matéria orgânica do solo, que forma continuamente novas moléculas ativas a partir dos resíduos deixados pela aplicação"
+   },
+   "resposta": "d",
+   "explicacao": "Ligações carbono-cloro são fortes e resistem à degradação microbiana, e a apolaridade faz o composto se alojar em tecidos gordurosos. As duas propriedades juntas produzem persistência e bioacumulação, com concentração crescente ao longo da cadeia — daí o efeito sobre predadores de topo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
    "id": "med-quimica-115",
    "texto_apoio": "Uma tabela apresenta a composição de três ligas metálicas: o aço, com ferro e carbono; o bronze, com cobre e estanho; e o latão, com cobre e zinco. Todas apresentam propriedades mecânicas distintas das dos metais puros que as compõem.",
    "enunciado": "A alteração das propriedades mecânicas nas ligas em relação aos metais puros decorre de:",
@@ -28518,6 +28460,23 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O preenchimento segue a ordem de energia crescente, mas a remoção segue a ordem de distância ao núcleo: saem primeiro os elétrons da camada mais externa, o 4s. O cátion divalente fica com 3d⁶. Essa inversão entre ordem de preenchimento e de remoção é o ponto que a questão testa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-142",
+   "texto_apoio": "Duas amostras do mesmo composto, obtidas por rotas diferentes, foram analisadas quanto à composição em massa. A primeira apresentou 40,0% de carbono, 6,7% de hidrogênio e 53,3% de oxigênio. A segunda apresentou exatamente os mesmos percentuais.",
+   "enunciado": "O resultado ilustra a lei:",
+   "alternativas": {
+    "a": "das proporções múltiplas, aplicável quando dois elementos se combinam formando mais de um composto distinto entre si na mesma reação",
+    "b": "da conservação da massa, segundo a qual a soma das massas dos reagentes iguala a soma das massas dos produtos em qualquer transformação",
+    "c": "das proporções definidas, segundo a qual um composto puro tem sempre a mesma composição em massa, qualquer que seja a sua procedência",
+    "d": "dos volumes de combinação, que estabelece relações numéricas simples entre os volumes dos gases participantes de uma reação química",
+    "e": "de Avogadro, segundo a qual volumes iguais de gases diferentes contêm o mesmo número de moléculas nas mesmas condições de temperatura"
+   },
+   "resposta": "c",
+   "explicacao": "A lei de Proust afirma que um composto puro tem sempre a mesma proporção em massa entre seus elementos, seja qual for sua origem ou método de preparação. É o que os dois resultados idênticos demonstram. A lei das proporções múltiplas trataria de compostos diferentes formados pelos mesmos elementos.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -28935,6 +28894,22 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A mistura de álcool isopropílico e água que ferve a uma temperatura constante (80,4 ºC), diferente da temperatura de ebulição de qualquer um dos componentes puros, é uma mistura azeotrópica; após a adição de NaCl, a maior densidade da fase salina promove a separação em duas fases líquidas, que podem ser separadas por decantação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-281",
+   "enunciado": "No conteúdo do béquer na situação 3 (da questão anterior), as forças de interação mais intensas existentes entre as espécies químicas presentes na fase 1 e as mais intensas na fase 2 são, respectivamente,",
+   "alternativas": {
+    "a": "ligação de hidrogênio e interação dipolo-dipolo induzido.",
+    "b": "interação íon-dipolo e ligação de hidrogênio.",
+    "c": "ligação de hidrogênio e interação íon-dipolo.",
+    "d": "interação dipolo induzido-dipolo induzido e interação íon-dipolo.",
+    "e": "interação dipolo-dipolo induzido e interação íon-dipolo."
+   },
+   "resposta": "c",
+   "explicacao": "Na fase menos densa (rica em álcool isopropílico e água), a interação mais intensa é a ligação de hidrogênio entre as moléculas polares; na fase mais densa (solução salina saturada), a interação mais intensa é do tipo íon-dipolo, entre os íons Na⁺/Cl⁻ e as moléculas de água.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -29429,7 +29404,7 @@ window.QUESTION_BANKS = {
     "b": "o pH é maior que 7, uma vez que a constante de ionização apresenta valor muito baixo em relação à concentração do ácido na solução",
     "c": "a adição de acetato de sódio aumentaria a ionização do ácido, elevando ainda mais a concentração de íons hidrogênio em solução",
     "d": "apenas uma pequena fração das moléculas está ionizada, e a concentração de íons hidrogênio resultante leva o pH a ficar em torno de 2,4",
-    "e": "o grau de ionização independe da concentração inicial, permanecendo constante em qualquer diluição realizada a partir da amostra original"
+    "e": "o grau de ionização independe da concentração inicial, permanecendo constante nas diluições sucessivas realizadas a partir da amostra original"
    },
    "resposta": "d",
    "explicacao": "O valor pequeno da constante indica ácido fraco, com ionização parcial. Estimando pela expressão do equilíbrio, a concentração de íons hidrogênio fica na ordem de 4 x 10⁻³ mol/L, o que corresponde a pH em torno de 2,4. Adicionar acetato deslocaria o equilíbrio no sentido inverso, o que torna (c) incorreta.",
@@ -29800,6 +29775,24 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-164",
+   "texto_apoio": "Para o equilíbrio A(g) + B(g) ⇌ 2 C(g), determinaram-se experimentalmente as constantes: a 300 K, Kc = 0,10; a 400 K, Kc = 0,80; a 500 K, Kc = 2,5.",
+   "enunciado": "Os dados apresentados permitem concluir que a reação direta é:",
+   "alternativas": {
+    "a": "exotérmica, pois a constante de equilíbrio a 500 K é maior que a 300 K, e a constante de uma reação exotérmica tende a crescer conforme a temperatura sobe",
+    "b": "endotérmica, porque o aumento da temperatura desloca o equilíbrio no sentido dos produtos e eleva o valor da constante",
+    "c": "exotérmica, e a variação observada na constante decorre do aumento da velocidade das moléculas com a temperatura, não de deslocamento",
+    "d": "endotérmica, mas o efeito só se manifesta acima de 400 K, temperatura a partir da qual a constante passa a superar a unidade",
+    "e": "atérmica, uma vez que a constante de equilíbrio de uma reação é, por definição, independente da temperatura"
+   },
+   "resposta": "b",
+   "explicacao": "Elevar a temperatura equivale a fornecer calor ao sistema, que responde deslocando-se no sentido capaz de absorvê-lo, o endotérmico. Como o deslocamento observado é para os produtos, indicado pelo crescimento de Kc, a reação direta é a endotérmica. A alternativa (a) usa os mesmos dados — Kc sobe de 0,10 para 2,5 — mas inverte a conclusão: constante que cresce com a temperatura é a assinatura de reação endotérmica, não exotérmica; numa reação exotérmica, elevar a temperatura desloca o equilíbrio no sentido dos reagentes e reduz o valor de Kc, o oposto do que os dados mostram aqui. A alternativa (c) troca o efeito termodinâmico pelo cinético: temperatura maior faz o equilíbrio ser atingido antes, mas isso não mudaria o valor de Kc. A temperatura é a única variável que altera a constante.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
    "id": "med-quimica-166",
    "texto_apoio": "Em um recipiente de 1,0 L foram colocados 0,50 mol de N2O4, que se dissocia segundo N2O4(g) ⇌ 2 NO2(g). Atingido o equilíbrio, mediu-se [NO2] = 0,20 mol/L.",
    "enunciado": "O grau de dissociação do N2O4 e o valor de Kc são, respectivamente:",
@@ -29830,6 +29823,24 @@ window.QUESTION_BANKS = {
    "resposta": "e",
    "explicacao": "O equilíbrio químico é dinâmico: as duas reações continuam ocorrendo, agora com a mesma velocidade, e por isso nada muda do ponto de vista macroscópico. Igualdade de velocidades não implica igualdade de concentrações — essa confusão é o que sustenta a alternativa (a), a mais escolhida entre as erradas. A alternativa (b) descreve um sistema inerte, e não um equilíbrio.",
    "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-203",
+   "texto_apoio": "O ácido acético, CH3COOH, é o componente responsável pelo sabor e pelo odor característicos do vinagre. Em sua fórmula estrutural, um grupo metila liga-se a um carbono que forma dupla ligação com um oxigênio e ligação simples com o grupo hidroxila.",
+   "enunciado": "Os números de ligações sigma e de ligações pi presentes em uma molécula de ácido acético são, respectivamente:",
+   "alternativas": {
+    "a": "8 e 0",
+    "b": "6 e 2",
+    "c": "7 e 1",
+    "d": "7 e 2",
+    "e": "5 e 1"
+   },
+   "resposta": "c",
+   "explicacao": "Contando as ligações da estrutura: três C–H na metila, uma C–C, a dupla C=O, uma C–O e uma O–H. Toda ligação simples é sigma, e a dupla contém uma sigma e uma pi. O total é, portanto, 7 sigma e 1 pi. A alternativa (a) trata a dupla como se fossem duas sigma, e a (b) esquece que uma das duas ligações da dupla também é sigma — a ligação pi nunca aparece sozinha entre dois átomos.",
+   "formato": "direta",
+   "dificuldade": "dificil",
    "origem": "medicina"
   },
   {
@@ -29973,6 +29984,22 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A diferença de 5 unidades de pH (de 7 para 2) corresponde a uma razão de concentração de H⁺ de 10⁵ vezes, já que cada unidade de pH representa uma variação de 10 vezes na concentração de íons H⁺.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-274",
+   "enunciado": "A ureia, OC(NH₂)₂, é empregada na agricultura para recomposição dos nutrientes do solo. Sua hidrólise resulta em dióxido de carbono (CO₂) e amônia (NH₃): OC(NH₂)₂(aq) + H₂O(l) → CO₂(g) + 2NH₃(g)\n\nAs geometrias ao redor dos átomos de carbono centrais das moléculas de reagente e produto dessa reação, ureia e dióxido de carbono, são, respectivamente,",
+   "alternativas": {
+    "a": "plana trigonal e angular.",
+    "b": "piramidal trigonal e angular.",
+    "c": "tetraédrica e angular.",
+    "d": "piramidal trigonal e linear.",
+    "e": "plana trigonal e linear."
+   },
+   "resposta": "e",
+   "explicacao": "A ureia tem geometria plana trigonal ao redor do carbono central (ligado a dois grupos NH2 e um oxigênio duplo, em arranjo trigonal); o CO2, com duas ligações duplas C=O em lados opostos e nenhum par isolado no carbono central, tem geometria linear.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -30475,1438 +30502,6 @@ window.QUESTION_BANKS = {
    "explicacao": "A palavra PARCIAL é a chave, e ela aparece na terceira posição. Na equação 2, o Zn(OH)₂ tem duas hidroxilas e só uma delas reage, sobrando o ZnOHCN — neutralização parcial. Na 3, todas as hidroxilas e todos os hidrogênios ionizáveis são consumidos: é neutralização total. Isso já elimina as opções que terminam em 3. Entre as que sobram, tanto a 1 quanto a 4 são combustões (a 4 incompleta, gerando CO), e tanto a 1 quanto a 4 e a 5 são oxirreduções — então a sequência que fecha as três posições ao mesmo tempo é 4, 1 e 2."
   }
  ],
- "quimica-estequiometria": [
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "dir-ciencias-natureza-33",
-   "texto_apoio": "Além do dióxido de carbono, outros gases contribuem para o efeito estufa, cada um com diferente capacidade de retenção de calor na atmosfera.",
-   "enunciado": "O metano (CH4), emitido por atividades como a pecuária e a decomposição de resíduos orgânicos, é considerado um gás de efeito estufa relevante porque",
-   "alternativas": {
-    "a": "é o único gás de efeito estufa de origem biológica presente na atmosfera terrestre",
-    "b": "tem capacidade de retenção de calor muito inferior à do dióxido de carbono na atmosfera",
-    "c": "permanece na atmosfera por período muito superior ao do dióxido de carbono, o que amplia seu efeito acumulado",
-    "d": "é produzido principalmente pela queima de combustíveis fósseis em usinas termelétricas, de forma semelhante ao dióxido de carbono",
-    "e": "tem, molécula a molécula, potencial de aquecimento maior que o do CO2 em horizonte curto, apesar de durar menos"
-   },
-   "resposta": "e",
-   "explicacao": "O metano retém muito mais calor por molécula que o CO2, e é por isso que cortar suas emissões dá resultado climático rápido — mesmo que ele se decomponha em cerca de uma década. Em (c) está a inversão exata dessa característica, e ela engana porque parece a explicação natural para um gás ser considerado perigoso: aqui a potência compensa a permanência curta, e não o contrário. Em (b), a premissa nega o próprio enunciado. Em (d), a origem é sobretudo biológica. Em (a), há outros gases de origem biológica.",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "dir-ciencias-natureza-68",
-   "texto_apoio": "O tratamento de esgoto doméstico envolve diferentes etapas até que a água possa ser devolvida com segurança ao meio ambiente ou reaproveitada.",
-   "enunciado": "Nas estações de tratamento de esgoto, a etapa biológica do tratamento tem como principal função",
-   "alternativas": {
-    "a": "substituir a etapa de desinfecção por cloro, adicionando diretamente esse composto junto aos microrganismos utilizados na degradação",
-    "b": "utilizar microrganismos, como bactérias, para degradar a matéria orgânica do esgoto, reduzindo poluentes antes do descarte ou reaproveitamento da água tratada",
-    "c": "adicionar cloro à água para eliminar diretamente todos os microrganismos patogênicos, etapa que corresponde, na verdade, à desinfecção química, não ao tratamento biológico",
-    "d": "aplicar radiação ultravioleta para inativar microrganismos remanescentes",
-    "e": "aumentar artificialmente a quantidade de matéria orgânica presente no efluente tratado, efeito oposto à redução de carga orgânica buscada nessa etapa do tratamento"
-   },
-   "resposta": "b",
-   "explicacao": "Na etapa biológica do tratamento de esgoto, microrganismos (principalmente bactérias) são utilizados para degradar a matéria orgânica presente no efluente, reduzindo significativamente a quantidade de poluentes orgânicos antes de etapas posteriores, como a desinfecção, e do descarte ou reaproveitamento da água tratada, processo distinto da etapa de cloração aplicada especificamente ao tratamento de água potável.",
-   "dificuldade": "dificil",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "dir-ciencias-natureza-75",
-   "texto_apoio": "Uma bolsa de gelo instantâneo, usada para tratar contusões, esfria rapidamente ao ser ativada, enquanto uma reação em uma fogueira libera grande quantidade de calor.",
-   "enunciado": "Do ponto de vista da termoquímica, reações que absorvem energia térmica do ambiente ao ocorrer, como a de uma bolsa de gelo instantâneo, são classificadas como",
-   "alternativas": {
-    "a": "exotérmicas, pois liberam para o ambiente ao redor o calor que estava armazenado nas ligações do sal antes de sua dissolução na água",
-    "b": "reações de dissolução, categoria à parte na termoquímica porque a energia envolvida na separação dos íons do sal não corresponde a uma ligação química rompida e sim a uma interação com as moléculas de água",
-    "c": "reações de equilíbrio, uma vez que a absorção de calor pode ser revertida pelo aquecimento externo da bolsa até que ela retorne ao estado inicial",
-    "d": "endotérmicas, pois absorvem calor do ambiente ao redor, o que reduz a temperatura da vizinhança, como ocorre na dissolução de certos sais usados em compressas frias",
-    "e": "catalíticas, por dependerem da presença de uma substância que acelera o processo"
-   },
-   "resposta": "d",
-   "explicacao": "Reações que absorvem calor do ambiente são endotérmicas, e a bolsa de gelo instantâneo resfria a vizinhança justamente por isso, ao dissolver certos sais. Classificar o caso como reação de dissolução à parte é o distrator mais difícil de recusar, porque a química que ele apresenta está correta — a energia envolvida é de interação com a água, e não de ligação rompida — e a conclusão não segue: a dissolução também é endotérmica ou exotérmica conforme o balanço energético. Chamá-la de exotérmica inverte o sentido do fluxo de calor observado. Tratá-la como reação de equilíbrio confunde reversibilidade com classificação térmica. E o termo catalítico se refere a quem acelera a reação, não a quanto calor ela troca.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "dir-ciencias-natureza-95",
-   "texto_apoio": "O forno de micro-ondas é um eletrodoméstico amplamente utilizado para aquecer e cozinhar alimentos rapidamente.",
-   "enunciado": "O princípio físico de funcionamento do forno de micro-ondas consiste em",
-   "alternativas": {
-    "a": "gerar ondas eletromagnéticas que fazem as moléculas de água do alimento vibrarem rapidamente, gerando calor por atrito molecular",
-    "b": "emitir radiação ionizante de baixa intensidade, que rompe ligações químicas das moléculas do alimento e libera nesse processo a energia responsável pelo aquecimento",
-    "c": "transferir calor por condução direta entre as paredes metálicas e o alimento",
-    "d": "gerar um campo magnético que alinha as moléculas de água do alimento e reduz o atrito entre elas, o que permite aquecimento uniforme da porção interna à superfície",
-    "e": "aquecer resistências metálicas ocultas nas paredes internas da câmara, que transferem calor ao alimento por radiação infravermelha em vez de contato direto"
-   },
-   "resposta": "a",
-   "explicacao": "O micro-ondas emite ondas eletromagnéticas de frequência que faz as moléculas de água do alimento oscilarem rapidamente, e é o atrito entre elas que gera calor. Chamar essa radiação de ionizante é o erro mais frequente sobre o aparelho: micro-ondas são radiação não ionizante, sem energia para romper ligações químicas ou alterar a estrutura atômica do alimento. A ideia de um campo que alinha as moléculas e reduz o atrito inverte o mecanismo, porque é o aumento do atrito que aquece. Resistências que irradiam calor descrevem o forno elétrico convencional. E condução direta pelas paredes metálicas é o que o micro-ondas justamente dispensa, já que aquece de dentro para fora.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "dir-ciencias-natureza-167",
-   "banca": "fgv",
-   "sessao": "fgv-unificado-2023.1",
-   "formato": "direta",
-   "texto_apoio": "Preço do ferro-gusa dispara com guerra\nA guerra entre a Rússia e a Ucrânia continua fazendo estragos na economia mundial, em especial nos setores que possuem commodities, que têm seu preço determinado pela oferta e procura internacional, entre as matérias-primas. A indústria da fundição, por exemplo, que tem enfrentado sucessivos aumentos no preço do ferro-gusa, acaba de receber mais um, agora de 60%, que vem a se somar aos reajustes de 41,6% praticados em janeiro e fevereiro.\n(Bianchetti, M. Diário do Comércio, 26/03/2022.)",
-   "enunciado": "O ferro-gusa é produzido a partir do minério de ferro em alto forno de acordo com a reação:\nFe₂O₃ + 3CO → 2Fe + 3CO₂\nEm um processo semelhante, 32000 kg de óxido de ferro (III) reagiram, e a quantidade máxima de ferro formado nesse processo corresponde, em kg, a:\nDados massas molares (g.mol⁻¹): Fe = 56; O = 16 e C = 12.",
-   "alternativas": {
-    "a": "28000",
-    "b": "22400",
-    "c": "17920",
-    "d": "2800",
-    "e": "2240"
-   },
-   "resposta": "b",
-   "explicacao": "A massa molar do Fe₂O₃ é 2 × 56 + 3 × 16 = 160 g/mol, então 32 000 kg correspondem a 200 kmol do óxido. Pela estequiometria, cada mol de Fe₂O₃ fornece 2 mols de Fe, logo são 400 kmol de ferro, que a 56 kg/kmol dão 22 400 kg. A alternativa 28 000 é a de quem esquece o fator 2 da equação; 17 920 sai de usar a massa do ferro sobre a do óxido sem a proporção molar.",
-   "origem": "direito",
-   "frenteOrigem": "ciencias-natureza"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-07",
-   "texto_apoio": "Um sinalizador de fumaça de embarcação contém clorato de sódio, que se decompõe quando aquecido segundo a equação: 2 NaClO3 → 2 NaCl + 3 O2. Considere as massas molares: NaClO3 = 106,5 g/mol e O2 = 32 g/mol.",
-   "enunciado": "A massa de clorato de sódio necessária para produzir 48 g de oxigênio é de, aproximadamente:",
-   "alternativas": {
-    "a": "71 g",
-    "b": "107 g",
-    "c": "160 g",
-    "d": "213 g",
-    "e": "320 g"
-   },
-   "resposta": "b",
-   "explicacao": "48 g de O2 correspondem a 1,5 mol. Pela estequiometria, 3 mol de O2 vêm de 2 mol de NaClO3, então 1,5 mol de O2 exige 1,0 mol de NaClO3, ou 106,5 g. A alternativa (c) resulta de usar a proporção invertida, e (d) de esquecer de converter a massa de oxigênio em quantidade de matéria.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-13",
-   "texto_apoio": "Um comprimido contém 500 mg de ácido acetilsalicílico, cuja massa molar é 180 g/mol.",
-   "enunciado": "A quantidade de matéria de princípio ativo presente em um comprimido é de, aproximadamente:",
-   "alternativas": {
-    "a": "2,8 mol",
-    "b": "0,28 mol",
-    "c": "2,8 × 10⁻³ mol",
-    "d": "9,0 × 10⁻³ mol",
-    "e": "3,6 × 10⁻⁴ mol"
-   },
-   "resposta": "c",
-   "explicacao": "Convertendo a massa: 500 mg equivalem a 0,500 g. Dividindo pela massa molar: 0,500 ÷ 180 ≈ 2,8 x 10⁻³ mol. As alternativas (a) e (b) resultam de esquecer a conversão de miligramas para gramas, erro de ordem de grandeza que as bancas exploram deliberadamente.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-23",
-   "texto_apoio": "O peróxido de hidrogênio em solução aquosa decompõe-se lentamente em água e oxigênio. Ao se adicionar um pedaço de fígado cru à solução, observa-se efervescência intensa e imediata. O fígado contém a enzima catalase.",
-   "enunciado": "A catalase acelera a decomposição do peróxido porque:",
-   "alternativas": {
-    "a": "eleva a temperatura do meio reacional, fornecendo a energia necessária para que as moléculas de peróxido atinjam o estado de transição",
-    "b": "desloca o equilíbrio da reação no sentido dos produtos, aumentando a quantidade de oxigênio formada ao final do processo de decomposição",
-    "c": "aumenta a concentração de peróxido disponível na solução, o que eleva a frequência de colisões entre as moléculas de reagente presentes",
-    "d": "diminui a energia de ativação ao oferecer um caminho alternativo, o que amplia a fração de colisões com energia suficiente para reagir",
-    "e": "é consumida durante o processo, e sua degradação libera a energia necessária para que a decomposição do peróxido ocorra rapidamente"
-   },
-   "resposta": "d",
-   "explicacao": "Um catalisador oferece um caminho de menor energia de ativação, o que aumenta a fração de colisões efetivas e acelera a reação nos dois sentidos igualmente. Por isso não altera a posição do equilíbrio nem a quantidade final de produto, o que descarta (b), e não é consumido, o que descarta (e).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-31",
-   "textoId": "med-med-qui-t3",
-   "enunciado": "Segundo o texto, a destilação comum não consegue elevar a concentração do etanol acima de cerca de 96% em massa porque, nesse ponto:",
-   "alternativas": {
-    "a": "a mistura forma um azeótropo, e vapor e líquido passam a ter a mesma composição",
-    "b": "o etanol começa a se decompor termicamente, o que impede que sua concentração continue a aumentar durante o aquecimento prolongado da mistura",
-    "c": "a temperatura de ebulição da água se iguala à do etanol, o que faz as duas substâncias passarem simultaneamente ao estado de vapor",
-    "d": "a água restante fica ligada quimicamente ao etanol por ligações covalentes, formando um composto que não pode mais ser separado por aquecimento",
-    "e": "o vapor produzido passa a conter apenas água, de modo que o destilado recolhido deixa de contribuir para o aumento do teor alcoólico obtido"
-   },
-   "resposta": "a",
-   "explicacao": "No azeótropo, a composição do vapor em equilíbrio iguala a do líquido, e cada nova etapa de destilação reproduz a mesma mistura. Não é decomposição nem ligação química: as duas substâncias continuam distintas, apenas deixam de se separar por esse método. O anidro exige uma etapa adicional, como peneira molecular.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-32",
-   "textoId": "med-med-qui-t3",
-   "enunciado": "O texto afirma que a vantagem energética da gasolina sobre o etanol cai de forma expressiva quando a comparação passa de mol para grama. Isso ocorre porque:",
-   "alternativas": {
-    "a": "a gasolina contém aditivos que reduzem seu poder calorífico quando medido em relação à massa em vez da quantidade de matéria empregada",
-    "b": "o octano tem massa molar de cerca de 114 g/mol contra 46 g/mol do etanol, e um mol de gasolina corresponde assim a muito mais massa",
-    "c": "a combustão do etanol é sempre completa, enquanto a da gasolina libera parte da energia na forma de monóxido de carbono não aproveitado",
-    "d": "a densidade do etanol é maior que a da gasolina, o que faz um mesmo volume conter mais massa de combustível no caso do álcool hidratado",
-    "e": "as entalpias de combustão informadas no texto se referem a condições de temperatura e pressão diferentes para cada combustível"
-   },
-   "resposta": "b",
-   "explicacao": "O octano tem massa molar em torno de 114 g/mol e o etanol, 46 g/mol. Ao dividir a energia liberada pela massa correspondente, a diferença por mol se comprime bastante. É um caso clássico de por que a base de comparação escolhida muda a conclusão sem que nenhum dado esteja errado.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-33",
-   "texto_apoio": "Um cilindro contém gás oxigênio a 27 °C e pressão de 5,0 atm, ocupando volume de 12 L. Considere a constante universal dos gases R = 0,082 atm·L·mol⁻¹·K⁻¹.",
-   "enunciado": "A quantidade de matéria de oxigênio contida no cilindro é de, aproximadamente:",
-   "alternativas": {
-    "a": "0,49 mol",
-    "b": "1,2 mol",
-    "c": "2,4 mol",
-    "d": "7,3 mol",
-    "e": "24 mol"
-   },
-   "resposta": "c",
-   "explicacao": "Pela equação de Clapeyron, n = PV/RT. A temperatura precisa estar em kelvin: 27 °C correspondem a 300 K. Assim n = (5,0 x 12) ÷ (0,082 x 300) = 60 ÷ 24,6 ≈ 2,4 mol. A alternativa (d) resulta de usar a temperatura em graus Celsius, erro que a questão testa deliberadamente.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-41",
-   "texto_apoio": "Uma peça metálica é submetida a galvanoplastia para receber uma camada de prata. A eletrólise é conduzida com corrente de 5,0 A durante 1.930 segundos, em solução contendo íons Ag⁺. Considere a constante de Faraday igual a 96.500 C/mol e a massa molar da prata igual a 108 g/mol.",
-   "enunciado": "A massa de prata depositada sobre a peça é de, aproximadamente:",
-   "alternativas": {
-    "a": "1,08 g",
-    "b": "5,40 g",
-    "c": "10,8 g",
-    "d": "21,6 g",
-    "e": "54,0 g"
-   },
-   "resposta": "c",
-   "explicacao": "A carga total é Q = i x t = 5,0 x 1.930 = 9.650 C. Dividindo pela constante de Faraday, obtém-se 0,10 mol de elétrons. Como Ag⁺ recebe um elétron por átomo, formam-se 0,10 mol de prata, ou 10,8 g. A alternativa (d) resulta de supor dois elétrons por íon, carga que a prata não apresenta.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-49",
-   "texto_apoio": "O ferro é obtido industrialmente em alto-forno, a partir da hematita (Fe2O3), com uso de carvão coque e calcário. O monóxido de carbono formado no processo reage com o óxido de ferro, liberando o metal.",
-   "enunciado": "Na reação Fe2O3 + 3 CO → 2 Fe + 3 CO2, o agente redutor e a espécie que sofre redução são, respectivamente:",
-   "alternativas": {
-    "a": "o coque e o oxigênio atmosférico injetado, par que responde diretamente pela transferência de elétrons observada durante o processo descrito",
-    "b": "a hematita e o carbono do monóxido, uma vez que é o carbono que apresenta aumento do seu número de oxidação ao longo de toda a transformação",
-    "c": "o ferro metálico e o gás carbônico formado, espécies em que os elementos atingem seus estados de oxidação mais estáveis nas condições do forno",
-    "d": "o calcário adicionado e o oxigênio presente na hematita, que se combinam formando escória e liberando o metal em estado de pureza elevada",
-    "e": "o monóxido de carbono e o ferro do óxido"
-   },
-   "resposta": "e",
-   "explicacao": "O carbono passa de +2 no monóxido para +4 no gás carbônico: oxida, e por isso o monóxido é o agente redutor. O ferro passa de +3 no óxido para zero no metal: reduz. A alternativa (b) inverte os papéis, trocando quem oxida por quem se reduz — a confusão mais comum nesse tipo de item.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-51",
-   "texto_apoio": "Uma amostra de 4,6 g de um composto orgânico contém 2,4 g de carbono, 0,6 g de hidrogênio e o restante de oxigênio. Sua massa molar é 46 g/mol. Considere as massas molares: C = 12, H = 1 e O = 16 g/mol.",
-   "enunciado": "As fórmulas mínima e molecular do composto são, respectivamente:",
-   "alternativas": {
-    "a": "C2H6O e C4H12O2",
-    "b": "CH3O e C2H6O2",
-    "c": "CH2O e C2H4O2",
-    "d": "C2H6O e C2H6O",
-    "e": "CHO e C2H2O2"
-   },
-   "resposta": "d",
-   "explicacao": "As quantidades são 0,2 mol de C, 0,6 mol de H e 1,6 g de O, que dão 0,1 mol. A proporção 2:6:1 já é a fórmula mínima C2H6O, cuja massa é 46 g/mol — igual à massa molar informada. Logo mínima e molecular coincidem, e o composto é o etanol.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-52",
-   "texto_apoio": "Um esquema mostra três recipientes fechados de mesmo volume, à mesma temperatura, contendo respectivamente gás hélio, gás nitrogênio e gás carbônico. Todos apresentam o mesmo número de moléculas.",
-   "enunciado": "Nessas condições, os três recipientes apresentam:",
-   "alternativas": {
-    "a": "pressões proporcionais às massas molares, de modo que o recipiente com gás carbônico apresenta a maior pressão entre os três analisados",
-    "b": "a mesma pressão e as mesmas massas, uma vez que o número de partículas é idêntico nos três recipientes considerados no enunciado",
-    "c": "pressões diferentes e massas iguais, resultado da diferença entre as massas molares das três substâncias gasosas presentes nos frascos",
-    "d": "a mesma pressão e massas diferentes, já que a pressão depende do número de partículas e a massa depende da massa molar de cada gás",
-    "e": "pressões diferentes e volumes molares distintos, condição que decorre das diferentes forças intermoleculares atuantes em cada um dos gases"
-   },
-   "resposta": "d",
-   "explicacao": "Pela equação dos gases ideais, a pressão depende de quantidade de matéria, volume e temperatura — todos iguais aqui —, e não da identidade do gás. Já a massa depende da massa molar, que difere entre hélio, nitrogênio e gás carbônico. É a hipótese de Avogadro aplicada a um caso concreto.",
-   "formato": "direta",
-   "visual": {
-    "tipo": "Esquema",
-    "arquivo": "assets/med/qui-tres-recipientes.svg",
-    "descricao": "Três recipientes fechados de mesmo volume, à mesma temperatura, contendo respectivamente gás hélio, gás nitrogênio e gás carbônico. Todos apresentam o mesmo número de moléculas."
-   },
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-56",
-   "texto_apoio": "Um recipiente fechado contém o equilíbrio 2 NO2(g) ⇌ N2O4(g), com variação de entalpia negativa no sentido direto. O dióxido de nitrogênio é castanho e o tetróxido é incolor. O recipiente é mergulhado em banho de gelo.",
-   "enunciado": "Após o resfriamento, espera-se que a mistura no recipiente:",
-   "alternativas": {
-    "a": "escureça, porque a queda de temperatura desloca o equilíbrio no sentido do gás castanho, que absorve calor ao ser formado no processo",
-    "b": "clareie, porque o gelo condensa parte do dióxido de nitrogênio na parede do recipiente e reduz sua concentração na fase gasosa remanescente",
-    "c": "mantenha a coloração original, uma vez que a temperatura não interfere na posição de equilíbrios que envolvem apenas substâncias gasosas",
-    "d": "escureça, porque a redução da temperatura diminui a pressão interna e favorece o lado com maior número de mols de gás presente no sistema",
-    "e": "clareie, porque a retirada de calor desloca o equilíbrio no sentido que libera calor, que neste caso é o da formação do tetróxido incolor"
-   },
-   "resposta": "e",
-   "explicacao": "Retirar calor desloca o equilíbrio no sentido que libera calor, o exotérmico — aqui, o da formação do tetróxido incolor. A mistura clareia. A alternativa (a) acerta o princípio e erra o sentido, atribuindo ao lado castanho a liberação de calor que o enunciado atribui ao lado oposto.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-64",
-   "texto_apoio": "Uma reação ocorre em duas etapas: a etapa I, lenta, é A + B → C; a etapa II, rápida, é C + B → D. A soma das duas corresponde à equação global A + 2 B → D.",
-   "enunciado": "A lei de velocidade experimental esperada para essa reação é:",
-   "alternativas": {
-    "a": "v = k[A][B], expressão que reproduz os reagentes da etapa I, a mais lenta das duas e por isso determinante da velocidade global",
-    "b": "v = k[A][B]², expressão que decorre diretamente dos coeficientes estequiométricos da equação global apresentada no enunciado da questão",
-    "c": "v = k[C][B], já que o intermediário formado na primeira etapa é o reagente que participa da etapa determinante da velocidade global",
-    "d": "v = k[D], uma vez que a velocidade de uma reação é sempre proporcional à concentração do produto formado ao longo do processo",
-    "e": "v = k[A] + k[B], soma que reflete a contribuição independente de cada um dos dois reagentes presentes na mistura reacional inicial"
-   },
-   "resposta": "a",
-   "explicacao": "A velocidade global é determinada pela etapa lenta, e a lei de velocidade reflete os reagentes dela. Como a etapa I envolve um A e um B, a expressão é v = k[A][B]. Deduzir a lei dos coeficientes da equação global, como em (b), só vale por acaso quando a reação ocorre em etapa única.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-66",
-   "texto_apoio": "Uma amostra de água apresenta concentração de íons fluoreto igual a 0,7 mg/L, valor considerado adequado para prevenção de cárie. A massa molar do fluoreto é 19 g/mol.",
-   "enunciado": "Essa concentração, expressa em partes por milhão, corresponde a:",
-   "alternativas": {
-    "a": "0,07 ppm",
-    "b": "0,7 ppm",
-    "c": "7 ppm",
-    "d": "70 ppm",
-    "e": "700 ppm"
-   },
-   "resposta": "b",
-   "explicacao": "Para soluções aquosas diluídas, cuja densidade é próxima de 1 g/mL, um litro pesa cerca de 1.000 g ou 10⁶ mg. Assim, 0,7 mg por litro equivale a 0,7 mg por 10⁶ mg de solução, ou seja, 0,7 ppm. A equivalência entre mg/L e ppm em meio aquoso é a chave da questão.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-76",
-   "texto_apoio": "Uma tabela compara três óleos e gorduras quanto ao número de insaturações por cadeia: o material I é rico em cadeias sem duplas ligações; o II apresenta uma dupla por cadeia; o III apresenta duas ou mais duplas por cadeia.",
-   "enunciado": "Espera-se que, à temperatura ambiente, o material I e o material III estejam, respectivamente, nos estados:",
-   "alternativas": {
-    "a": "gasoso e líquido, condição decorrente da diferença de massa molar entre cadeias saturadas e cadeias que apresentam múltiplas insaturações",
-    "b": "líquido e sólido, porque as duplas ligações aumentam a área de contato entre cadeias vizinhas e intensificam as forças de dispersão atuantes",
-    "c": "sólido e sólido, uma vez que o grau de insaturação não influencia o estado físico de compostos de cadeia longa nas condições ambientes",
-    "d": "líquido e líquido, já que todos os triglicerídeos apresentam temperaturas de fusão bem abaixo da temperatura ambiente considerada",
-    "e": "sólido e líquido, porque as insaturações dificultam o empacotamento das cadeias e reduzem as interações entre elas"
-   },
-   "resposta": "e",
-   "explicacao": "Cadeias saturadas são lineares e se empilham bem, com forças de dispersão somando ao longo de todo o comprimento: fundem em temperatura mais alta e são sólidas, como as gorduras animais. Duplas em configuração cis dobram a cadeia e impedem o empacotamento, o que baixa a fusão — daí os óleos vegetais serem líquidos.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-82",
-   "texto_apoio": "A fissão nuclear do urânio-235 libera energia da ordem de 2 × 10¹⁰ kJ por mol, enquanto a combustão do metano libera cerca de 890 kJ por mol. Reatores nucleares aproveitam a primeira; termelétricas a gás, a segunda.",
-   "enunciado": "A diferença de várias ordens de grandeza entre os dois valores decorre de que, na fissão:",
-   "alternativas": {
-    "a": "os elétrons das camadas mais internas participam do processo, e sua energia de ligação supera em muito a dos elétrons de valência envolvidos",
-    "b": "o número de ligações químicas rompidas por mol é muito superior ao observado na combustão de um hidrocarboneto de cadeia curta como o metano",
-    "c": "a reação ocorre em temperatura muito mais elevada, o que amplia proporcionalmente a quantidade de energia liberada por unidade de matéria",
-    "d": "há conversão de massa em energia, envolvendo forças do núcleo atômico, de escala muito superior à das ligações químicas entre os átomos",
-    "e": "o urânio possui massa molar muito superior à do metano, e a energia liberada é diretamente proporcional à massa dos átomos envolvidos"
-   },
-   "resposta": "d",
-   "explicacao": "Reações químicas rearranjam elétrons de valência; a fissão altera o próprio núcleo, e parte da massa se converte em energia conforme a relação de Einstein. As forças envolvidas são de outra escala, e daí a diferença de ordens de grandeza. Nenhuma ligação química é rompida no processo, o que descarta (b).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-84",
-   "texto_apoio": "Duas amostras gasosas são comparadas nas mesmas condições de temperatura: uma de gás hidrogênio e outra de gás oxigênio. Mede-se a velocidade média das moléculas em cada uma delas.",
-   "enunciado": "Espera-se que as moléculas de hidrogênio apresentem velocidade média:",
-   "alternativas": {
-    "a": "igual, porque a temperatura é a mesma nas duas amostras e determina diretamente a velocidade das moléculas independentemente de sua natureza",
-    "b": "menor, uma vez que moléculas de massa reduzida sofrem maior número de colisões por segundo e têm seu deslocamento retardado por esse motivo",
-    "c": "maior, porque à mesma temperatura a energia cinética média é igual nas duas amostras, e a massa da molécula de hidrogênio é dezesseis vezes menor",
-    "d": "maior, porque o hidrogênio apresenta forças intermoleculares mais intensas que o oxigênio e transfere energia com mais eficiência entre partículas",
-    "e": "menor, porque a molécula de hidrogênio possui menos elétrons e portanto menor capacidade de armazenar a energia térmica fornecida ao sistema"
-   },
-   "resposta": "c",
-   "explicacao": "A temperatura mede a energia cinética média das partículas. Como essa energia é igual nas duas amostras e vale metade da massa vezes a velocidade ao quadrado, a molécula mais leve precisa se mover mais rápido. É o princípio por trás da lei de efusão de Graham.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-85",
-   "texto_apoio": "Uma amostra de leite é analisada e apresenta pH em torno de 6,7. Após alguns dias em temperatura ambiente, nova medição indica pH próximo de 4,5, com coagulação das proteínas e alteração do sabor.",
-   "enunciado": "A queda do pH observada decorre da:",
-   "alternativas": {
-    "a": "oxidação das gorduras do leite pelo oxigênio atmosférico, processo que libera íons hidrogênio e acidifica progressivamente a amostra armazenada",
-    "b": "evaporação parcial da água presente no leite, o que concentra os componentes ácidos originalmente dissolvidos e reduz o valor medido de pH",
-    "c": "fermentação da lactose por bactérias lácticas, com produção de ácido lático, cujo acúmulo aproxima o meio do ponto isoelétrico das caseínas",
-    "d": "dissolução de gás carbônico do ar na amostra, que forma ácido carbônico em quantidade suficiente para reduzir o pH em mais de duas unidades",
-    "e": "desnaturação espontânea das proteínas, que expõe grupos ácidos antes ocultos no interior da estrutura enovelada de cada uma das moléculas"
-   },
-   "resposta": "c",
-   "explicacao": "Bactérias lácticas convertem a lactose em ácido lático, e o acúmulo desse ácido derruba o pH. Ao se aproximar do ponto isoelétrico da caseína, as proteínas perdem a repulsão que as mantinha dispersas e coagulam — a mesma reação usada deliberadamente na produção de iogurte e queijo.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-88",
-   "texto_apoio": "Uma amostra de 100 g de calcário impuro reage com ácido clorídrico em excesso e libera 8,8 g de gás carbônico. Considere as massas molares: CaCO3 = 100 g/mol e CO2 = 44 g/mol, e que apenas o carbonato de cálcio reage.",
-   "enunciado": "O grau de pureza da amostra de calcário é de:",
-   "alternativas": {
-    "a": "8,8%",
-    "b": "88%",
-    "c": "44%",
-    "d": "80%",
-    "e": "20%"
-   },
-   "resposta": "e",
-   "explicacao": "8,8 g de gás carbônico correspondem a 0,20 mol. Pela estequiometria 1:1, reagiram 0,20 mol de carbonato de cálcio, ou 20 g. Numa amostra de 100 g, isso corresponde a 20% de pureza. A alternativa (b) resulta de tomar a massa de gás como se fosse a massa de carbonato.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-90",
-   "texto_apoio": "Um recipiente fechado contém o equilíbrio N2O4(g) ⇌ 2 NO2(g). Partindo de 1,0 mol de N2O4 num volume de 1,0 L, o sistema atinge o equilíbrio com 0,20 mol de N2O4 remanescente.",
-   "enunciado": "O grau de dissociação do N2O4 e a quantidade de NO2 formada no equilíbrio são, respectivamente:",
-   "alternativas": {
-    "a": "80% e 0,80 mol",
-    "b": "20% e 0,40 mol",
-    "c": "80% e 1,6 mol",
-    "d": "40% e 1,6 mol",
-    "e": "20% e 1,6 mol"
-   },
-   "resposta": "c",
-   "explicacao": "Dissociaram-se 0,80 mol dos 1,0 mol iniciais, o que dá grau de 80%. Pela estequiometria, cada mol de N2O4 gera dois de NO2: 0,80 x 2 = 1,6 mol. A alternativa (a) acerta o grau e esquece o coeficiente 2, e (b) toma o remanescente como se fosse o dissociado.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-93",
-   "texto_apoio": "Reagem 10 g de gás hidrogênio com 160 g de gás oxigênio para formar água, segundo a equação 2 H2 + O2 → 2 H2O. Considere as massas molares: H2 = 2 g/mol e O2 = 32 g/mol.",
-   "enunciado": "O reagente limitante e a massa de água formada são, respectivamente:",
-   "alternativas": {
-    "a": "o oxigênio e 90 g, uma vez que a quantidade de matéria desse gás é insuficiente para consumir todo o hidrogênio colocado no recipiente",
-    "b": "o hidrogênio e 90 g, pois os 5,0 mol de H2 exigiriam apenas 2,5 mol de O2, e sobra oxigênio no recipiente ao final da reação",
-    "c": "o oxigênio e 45 g, valor que corresponde à metade da massa total dos dois gases que foram colocados a reagir no início do experimento",
-    "d": "o hidrogênio e 170 g, quantidade que resulta da soma das massas dos dois reagentes empregados na transformação química descrita acima",
-    "e": "nenhum deles, pois os dois gases estão em proporção estequiométrica exata e são integralmente consumidos"
-   },
-   "resposta": "b",
-   "explicacao": "São 5,0 mol de hidrogênio e 5,0 mol de oxigênio. A proporção exige 2 de hidrogênio para 1 de oxigênio, então os 5,0 mol de hidrogênio consomem apenas 2,5 mol de oxigênio: o hidrogênio é o limitante e sobra oxigênio. Formam-se 5,0 mol de água, ou 90 g.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-94",
-   "texto_apoio": "Um recipiente de 10 L contém uma mistura gasosa a 27 °C composta por 0,20 mol de nitrogênio e 0,30 mol de oxigênio. Considere R = 0,082 atm·L·mol⁻¹·K⁻¹.",
-   "enunciado": "A pressão parcial do oxigênio e a pressão total da mistura são, respectivamente:",
-   "alternativas": {
-    "a": "0,74 atm e 1,23 atm, valores obtidos ao aplicar a equação de Clapeyron ao oxigênio e, em seguida, ao total de 0,50 mol da mistura a 300 K",
-    "b": "1,23 atm e 0,74 atm, valores que decorrem da aplicação da equação de Clapeyron a cada um dos gases presentes na mistura considerada",
-    "c": "0,49 atm e 1,23 atm, resultado obtido ao se considerar a fração molar do nitrogênio como base para o cálculo da pressão parcial pedida",
-    "d": "0,74 atm e 0,74 atm, uma vez que a pressão total de uma mistura gasosa corresponde à maior das pressões parciais dos componentes presentes",
-    "e": "2,46 atm e 4,10 atm, valores que resultam do uso da temperatura em graus Celsius na aplicação da equação geral dos gases ideais"
-   },
-   "resposta": "a",
-   "explicacao": "Pela lei de Dalton, cada gás exerce a pressão que teria sozinho no volume total. Para o oxigênio: P = (0,30 x 0,082 x 300) ÷ 10 = 0,74 atm. A pressão total corresponde a 0,50 mol: (0,50 x 0,082 x 300) ÷ 10 = 1,23 atm — igual à soma das parciais.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-102",
-   "texto_apoio": "O gás hidrogênio e o gás hélio, ambos a 25 °C, escapam por um pequeno orifício de um recipiente. Mede-se o tempo necessário para que a mesma quantidade de matéria de cada gás atravesse o orifício. As massas molares são 2 g/mol e 4 g/mol, respectivamente.",
-   "enunciado": "A relação entre as velocidades de efusão do hidrogênio e do hélio é de, aproximadamente:",
-   "alternativas": {
-    "a": "igual para os dois gases, uma vez que ambos se encontram à mesma temperatura e portanto possuem a mesma energia cinética média por molécula",
-    "b": "2,0 vezes maior para o hidrogênio, valor que corresponde diretamente à razão entre as massas molares dos dois gases considerados no experimento",
-    "c": "1,4 vez maior para o hélio, em razão de sua maior massa molar e da consequente redução da energia cinética média de suas partículas",
-    "d": "4,0 vezes maior para o hidrogênio, resultado do quadrado da razão entre as massas molares dos dois gases envolvidos na comparação feita",
-    "e": "1,4 vez maior para o hidrogênio, número que corresponde à raiz quadrada da razão entre as massas molares dos dois gases considerados"
-   },
-   "resposta": "e",
-   "explicacao": "Pela lei de Graham, a velocidade de efusão é inversamente proporcional à raiz quadrada da massa molar. A razão é a raiz de 4/2, ou seja, raiz de 2, cerca de 1,4. A alternativa (b) usa a razão direta das massas, esquecendo a raiz quadrada — o erro que a lei justamente corrige.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-103",
-   "texto_apoio": "Uma tabela apresenta as energias médias de ligação: H–H = 436 kJ/mol; Cl–Cl = 243 kJ/mol; H–Cl = 431 kJ/mol. Considere a reação H2(g) + Cl2(g) → 2 HCl(g).",
-   "enunciado": "A variação de entalpia da reação, calculada a partir das energias de ligação, é de:",
-   "alternativas": {
-    "a": "−862 kJ",
-    "b": "+183 kJ",
-    "c": "−248 kJ",
-    "d": "+248 kJ",
-    "e": "−183 kJ"
-   },
-   "resposta": "e",
-   "explicacao": "Romper as ligações dos reagentes consome 436 + 243 = 679 kJ. Formar duas ligações H–Cl libera 2 x 431 = 862 kJ. O saldo é 679 − 862 = −183 kJ: exotérmica. Inverter a ordem da subtração produz o valor positivo de (b), que é o erro mais frequente nesse cálculo.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-104",
-   "texto_apoio": "Um esquema representa uma cuba eletrolítica com duas células ligadas em série, contendo respectivamente solução de nitrato de prata e solução de sulfato de cobre. A mesma corrente atravessa as duas células durante o mesmo intervalo de tempo.",
-   "enunciado": "Nessas condições, a razão entre as quantidades de matéria de prata e de cobre depositadas é:",
-   "alternativas": {
-    "a": "4:1, resultado da combinação entre a diferença de carga dos íons e a diferença entre as massas molares dos dois metais considerados",
-    "b": "1:1, uma vez que a mesma quantidade de carga atravessa as duas células ao longo do mesmo intervalo de tempo em que a corrente circula",
-    "c": "1:2, porque o cobre apresenta massa molar inferior à da prata e deposita, portanto, o dobro de átomos para a mesma carga fornecida ao sistema",
-    "d": "108:64, razão que corresponde diretamente à proporção entre as massas molares dos dois metais envolvidos no processo eletrolítico descrito",
-    "e": "2:1, porque a prata precisa de um elétron por átomo e o cobre, de dois, e a mesma carga atravessa as duas células no mesmo intervalo"
-   },
-   "resposta": "e",
-   "explicacao": "A mesma carga atravessa as duas células, mas Ag⁺ precisa de um elétron por átomo e Cu²⁺ de dois. Com o mesmo número de elétrons, deposita-se o dobro de mols de prata em relação ao de cobre. Massa molar afeta a massa depositada, e não a quantidade de matéria, o que descarta (d).",
-   "formato": "direta",
-   "visual": {
-    "tipo": "Esquema",
-    "arquivo": "assets/med/qui-eletrolise-serie.svg",
-    "descricao": "Uma cuba eletrolítica com duas células ligadas em série, contendo respectivamente solução de nitrato de prata e solução de sulfato de cobre. A mesma corrente atravessa as duas células durante o mesmo intervalo de tempo."
-   },
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-105",
-   "texto_apoio": "Uma amostra de carbonato de cálcio é aquecida e se decompõe em óxido de cálcio e gás carbônico. Ao final do experimento, obtêm-se 2,24 g de óxido de cálcio. O rendimento teórico previsto pela estequiometria é de 2,80 g.",
-   "enunciado": "O rendimento percentual da reação é de:",
-   "alternativas": {
-    "a": "22,4%",
-    "b": "44,8%",
-    "c": "56%",
-    "d": "125%",
-    "e": "80%"
-   },
-   "resposta": "e",
-   "explicacao": "Rendimento é a razão entre o obtido e o teórico: 2,24 ÷ 2,80 = 0,80, ou 80%. A alternativa (d) inverte a razão, produzindo um valor acima de 100% — impossível, já que não se obtém mais produto do que a estequiometria permite.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-113",
-   "texto_apoio": "Um agrotóxico organoclorado usado em décadas passadas foi banido em muitos países por sua persistência no ambiente e por se acumular nos tecidos de aves predadoras, afinando a casca de seus ovos.",
-   "enunciado": "A persistência ambiental desse tipo de composto está associada, principalmente, a:",
-   "alternativas": {
-    "a": "sua rápida decomposição em compostos intermediários, cuja toxicidade supera a da substância original aplicada nas lavouras tratadas",
-    "b": "sua alta solubilidade em água, que o dispersa rapidamente pelos corpos hídricos e dificulta a remoção por processos convencionais de tratamento",
-    "c": "sua volatilidade elevada, que o mantém em circulação na atmosfera por períodos prolongados antes de retornar à superfície com a precipitação",
-    "d": "sua elevada estabilidade química e baixa biodegradabilidade, combinadas à lipossolubilidade, que o faz se alojar nos tecidos gordurosos",
-    "e": "sua reatividade com a matéria orgânica do solo, que forma continuamente novas moléculas ativas a partir dos resíduos deixados pela aplicação"
-   },
-   "resposta": "d",
-   "explicacao": "Ligações carbono-cloro são fortes e resistem à degradação microbiana, e a apolaridade faz o composto se alojar em tecidos gordurosos. As duas propriedades juntas produzem persistência e bioacumulação, com concentração crescente ao longo da cadeia — daí o efeito sobre predadores de topo.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-114",
-   "texto_apoio": "Uma amostra contém uma amina primária e uma amida, ambas com quatro átomos de carbono. Testes indicam que a amina apresenta caráter básico em água, enquanto a amida é praticamente neutra.",
-   "enunciado": "A diferença de basicidade entre os dois compostos se explica porque, na amida:",
-   "alternativas": {
-    "a": "a presença do oxigênio confere caráter ácido à molécula, que passa a doar prótons em vez de recebê-los quando dissolvida em meio aquoso",
-    "b": "o nitrogênio se encontra ligado a um número maior de átomos de carbono, o que impede estericamente a aproximação de qualquer próton do meio",
-    "c": "o par de elétrons do nitrogênio é deslocalizado por ressonância com a carbonila vizinha e fica menos disponível para capturar um próton",
-    "d": "o nitrogênio perde completamente seu par de elétrons não ligante ao formar a ligação com o carbono da carbonila presente na estrutura",
-    "e": "a molécula apresenta massa molar mais elevada, o que reduz proporcionalmente sua capacidade de interagir com as moléculas de água do meio"
-   },
-   "resposta": "c",
-   "explicacao": "A basicidade depende da disponibilidade do par de elétrons do nitrogênio para capturar um próton. Na amida, esse par é deslocalizado por ressonância com a carbonila, e fica muito menos disponível. O par não desaparece, o que descarta (d) — ele apenas se distribui pela estrutura.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-124",
-   "texto_apoio": "Uma amostra de 5,6 L de gás nitrogênio, medida nas condições normais de temperatura e pressão, reage completamente com hidrogênio para formar amônia. Nas CNTP, um mol de qualquer gás ocupa 22,4 L.",
-   "enunciado": "A quantidade de matéria de amônia formada é de:",
-   "alternativas": {
-    "a": "0,25 mol",
-    "b": "0,50 mol",
-    "c": "1,00 mol",
-    "d": "2,00 mol",
-    "e": "5,60 mol"
-   },
-   "resposta": "b",
-   "explicacao": "5,6 L nas CNTP correspondem a 0,25 mol de nitrogênio. Pela equação N2 + 3 H2 → 2 NH3, cada mol de nitrogênio gera dois de amônia: 0,25 x 2 = 0,50 mol. A alternativa (a) esquece o coeficiente 2 e apresenta a quantidade do reagente em vez da do produto.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-129",
-   "texto_apoio": "Um esquema apresenta o mecanismo de destruição do ozônio estratosférico por clorofluorcarbonos. A radiação ultravioleta rompe a ligação carbono-cloro, liberando um átomo de cloro que reage com o ozônio e é regenerado ao final do ciclo.",
-   "enunciado": "O fato de o átomo de cloro ser regenerado ao final de cada ciclo significa que ele atua como:",
-   "alternativas": {
-    "a": "agente redutor, que transfere elétrons ao ozônio e o converte em oxigênio molecular numa reação que se encerra após uma única etapa",
-    "b": "reagente limitante, consumido integralmente ao longo do processo e responsável por determinar a extensão máxima da destruição observada",
-    "c": "produto intermediário estável, que se acumula na estratosfera e reduz progressivamente a velocidade da reação de destruição do ozônio",
-    "d": "inibidor da reação, cuja presença retarda a decomposição natural do ozônio que ocorreria mesmo na ausência de compostos clorados na atmosfera",
-    "e": "catalisador, e por isso um único átomo de cloro percorre o ciclo milhares de vezes seguidas, destruindo milhares de moléculas de ozônio"
-   },
-   "resposta": "e",
-   "explicacao": "Ser regenerado ao final do ciclo é a definição operacional de catalisador. Por isso a relação entre quantidade de CFC emitido e ozônio destruído é desproporcional — um átomo de cloro percorre o ciclo milhares de vezes antes de ser removido, e é isso que torna o problema tão persistente.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-131",
-   "texto_apoio": "Considere o equilíbrio em fase gasosa 2 SO2(g) + O2(g) ⇌ 2 SO3(g), estabelecido em recipiente fechado a temperatura constante. Foram medidas a constante em termos de concentração, Kc, e a constante em termos de pressão parcial, Kp.",
-   "enunciado": "Sobre a relação entre Kc e Kp nesse equilíbrio, é correto afirmar que:",
-   "alternativas": {
-    "a": "os valores só podem ser comparados após a conversão de todas as pressões parciais em frações molares dos componentes presentes na mistura",
-    "b": "os valores são sempre idênticos, uma vez que ambos descrevem o mesmo estado de equilíbrio atingido pelo sistema nas condições estabelecidas",
-    "c": "os valores são diferentes apenas em temperaturas superiores a cem graus Celsius, faixa em que o comportamento dos gases se afasta da idealidade",
-    "d": "a constante em pressão é sempre maior, independentemente da estequiometria da reação considerada e das condições em que o equilíbrio se estabelece",
-    "e": "os valores são diferentes, porque há variação no número de mols de gás entre reagentes e produtos"
-   },
-   "resposta": "e",
-   "explicacao": "As duas constantes se relacionam por um fator que depende da variação no número de mols de gás. Aqui, três mols de reagentes gasosos produzem dois de produto: a variação não é nula e os valores diferem. Só coincidiriam se o número de mols gasosos fosse igual nos dois lados.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-137",
-   "texto_apoio": "Análises forenses usam o teste de luminol para detectar vestígios de sangue em superfícies aparentemente limpas. Na presença de ferro da hemoglobina, o luminol reage com peróxido de hidrogênio e emite luz azulada visível no escuro.",
-   "enunciado": "O papel do ferro presente na hemoglobina nessa reação é o de:",
-   "alternativas": {
-    "a": "inibidor da decomposição espontânea do peróxido, o que prolonga a duração da emissão luminosa e facilita o registro fotográfico da cena",
-    "b": "fonte da luz emitida, uma vez que os elétrons do átomo de ferro são excitados e liberam fótons ao retornarem ao seu estado fundamental",
-    "c": "reagente consumido em proporção estequiométrica com o luminol, o que permite quantificar a massa de sangue presente na superfície analisada",
-    "d": "catalisador da oxidação do luminol pelo peróxido de hidrogênio, reação que se torna rápida sem que o próprio ferro seja consumido por ela",
-    "e": "solvente do luminol, que sem essa mediação permaneceria insolúvel e incapaz de entrar em contato com o peróxido aplicado sobre a superfície"
-   },
-   "resposta": "d",
-   "explicacao": "O ferro acelera a oxidação do luminol sem ser consumido, o que caracteriza catálise. O produto dessa oxidação é formado em estado excitado e emite luz ao decair — a quimiluminescência. A luz vem do produto orgânico, e não do ferro, o que descarta (b).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-138",
-   "texto_apoio": "Uma reação apresenta energia de ativação elevada e ocorre muito lentamente à temperatura ambiente. Ao se aquecer o sistema em dez graus, observa-se que a velocidade praticamente dobra.",
-   "enunciado": "O efeito acentuado do aquecimento sobre a velocidade se explica porque a elevação da temperatura:",
-   "alternativas": {
-    "a": "aumenta a concentração dos reagentes na mistura, uma vez que a dilatação térmica reduz o volume ocupado por cada uma das espécies presentes",
-    "b": "reduz o valor da energia de ativação da reação, o que aproxima os reagentes do estado de transição necessário para que a transformação ocorra",
-    "c": "desloca o equilíbrio da reação no sentido dos produtos, elevando o rendimento final obtido ao término do processo conduzido em sistema fechado",
-    "d": "aumenta a fração de moléculas com energia suficiente para superar a barreira de ativação",
-    "e": "converte parte das colisões não efetivas em efetivas ao alterar a orientação com que as moléculas se aproximam umas das outras no meio"
-   },
-   "resposta": "d",
-   "explicacao": "A distribuição de energias das moléculas se desloca com a temperatura, e a fração acima da energia de ativação cresce de forma acentuada — daí o efeito ser tão grande. A energia de ativação em si não muda com a temperatura: quem a reduz é o catalisador, o que torna (b) incorreta.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-142",
-   "texto_apoio": "Duas amostras do mesmo composto, obtidas por rotas diferentes, foram analisadas quanto à composição em massa. A primeira apresentou 40,0% de carbono, 6,7% de hidrogênio e 53,3% de oxigênio. A segunda apresentou exatamente os mesmos percentuais.",
-   "enunciado": "O resultado ilustra a lei:",
-   "alternativas": {
-    "a": "das proporções múltiplas, aplicável quando dois elementos se combinam formando mais de um composto distinto entre si na mesma reação",
-    "b": "da conservação da massa, segundo a qual a soma das massas dos reagentes iguala a soma das massas dos produtos em qualquer transformação",
-    "c": "das proporções definidas, segundo a qual um composto puro tem sempre a mesma composição em massa, qualquer que seja a sua procedência",
-    "d": "dos volumes de combinação, que estabelece relações numéricas simples entre os volumes dos gases participantes de uma reação química",
-    "e": "de Avogadro, segundo a qual volumes iguais de gases diferentes contêm o mesmo número de moléculas nas mesmas condições de temperatura"
-   },
-   "resposta": "c",
-   "explicacao": "A lei de Proust afirma que um composto puro tem sempre a mesma proporção em massa entre seus elementos, seja qual for sua origem ou método de preparação. É o que os dois resultados idênticos demonstram. A lei das proporções múltiplas trataria de compostos diferentes formados pelos mesmos elementos.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-151",
-   "texto_apoio": "Em um recipiente fechado de 1,0 L, mantido a 440 °C, foram colocados 1,0 mol de H2 e 1,0 mol de I2. Estabelecido o equilíbrio H2(g) + I2(g) ⇌ 2 HI(g), verificou-se que restavam 0,20 mol de H2.",
-   "enunciado": "O valor da constante de equilíbrio Kc, nessa temperatura, é:",
-   "alternativas": {
-    "a": "40",
-    "b": "2,56",
-    "c": "16",
-    "d": "64",
-    "e": "0,016"
-   },
-   "resposta": "d",
-   "explicacao": "Reagiram 0,80 mol de H2 e, pela proporção 1:1:2, restam 0,20 mol de I2 e formam-se 1,60 mol de HI. Como o volume é 1,0 L, esses números já são as concentrações. Kc = (1,60)² ÷ (0,20 × 0,20) = 2,56 ÷ 0,04 = 64. A alternativa (a) é de quem não eleva a concentração de HI ao quadrado, e a (c), de quem usa 0,80 como concentração do HI, esquecendo o coeficiente 2 da equação.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-152",
-   "texto_apoio": "Nas altas temperaturas do interior dos motores de combustão, nitrogênio e oxigênio do ar reagem segundo N2(g) + O2(g) ⇌ 2 NO(g). O monóxido de nitrogênio formado é um dos precursores da poluição fotoquímica nas grandes cidades.",
-   "enunciado": "Reduzindo-se à metade o volume do recipiente em que esse equilíbrio se estabeleceu, a temperatura constante, o que ocorre com a posição do equilíbrio?",
-   "alternativas": {
-    "a": "Desloca-se para a direita, pois o aumento da pressão sempre favorece a formação dos produtos em sistemas gasosos.",
-    "b": "Desloca-se para a esquerda, porque a compressão aproxima as moléculas e favorece a reação inversa, que é a mais lenta das duas.",
-    "c": "Desloca-se para a direita, porque o volume menor aumenta a frequência das colisões entre as moléculas de nitrogênio e de oxigênio.",
-    "d": "Não se desloca, porque um sistema que já atingiu o equilíbrio deixa de responder a perturbações externas de qualquer natureza.",
-    "e": "Não se desloca, porque o número de mols de gás é o mesmo nos dois lados da equação, e o quociente de reação permanece igual a Kc."
-   },
-   "resposta": "e",
-   "explicacao": "A pressão só desloca um equilíbrio gasoso quando os dois lados têm números diferentes de mols de gás. Aqui são 2 mols de reagentes contra 2 mols de produto: comprimir aumenta igualmente todas as concentrações e o quociente de reação permanece igual a Kc. A alternativa (c) é a mais escolhida entre as erradas porque troca efeito sobre a velocidade por efeito sobre o equilíbrio — a compressão realmente acelera a reação, mas acelera os dois sentidos na mesma medida.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-153",
-   "texto_apoio": "Para o equilíbrio 2 SO3(g) ⇌ 2 SO2(g) + O2(g), a 1000 K, a constante Kc vale 0,050. Use R = 0,082 atm·L·mol⁻¹·K⁻¹ e a relação Kp = Kc × (RT)^Δn, em que Δn é a variação do número de mols de gás na equação.",
-   "enunciado": "O valor de Kp, nessa temperatura, é:",
-   "alternativas": {
-    "a": "0,050",
-    "b": "4,1",
-    "c": "6,1 × 10⁻⁴",
-    "d": "3,4 × 10²",
-    "e": "82"
-   },
-   "resposta": "b",
-   "explicacao": "Δn = (2 + 1) − 2 = 1. Logo Kp = 0,050 × (0,082 × 1000)¹ = 0,050 × 82 = 4,1. A alternativa (a) supõe Kp igual a Kc, o que só valeria se Δn fosse zero; a (c) inverte a operação e divide por RT; e a (d) usa Δn = 2, confundindo a variação do número de mols com o número de mols de um dos lados: 0,050 × 82² dá cerca de 3,4 × 10².",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-154",
-   "texto_apoio": "Em um recipiente fechado de 2,0 L foram introduzidos 2,0 mol de PCl5, que se decompõe segundo PCl5(g) ⇌ PCl3(g) + Cl2(g). Atingido o equilíbrio, verificou-se que 50% do PCl5 inicial havia se decomposto.",
-   "enunciado": "A constante de equilíbrio Kc, nessas condições, vale:",
-   "alternativas": {
-    "a": "0,25",
-    "b": "0,50",
-    "c": "1,0",
-    "d": "2,0",
-    "e": "4,0"
-   },
-   "resposta": "b",
-   "explicacao": "Metade dos 2,0 mol se decompõe: restam 1,0 mol de PCl5 e formam-se 1,0 mol de PCl3 e 1,0 mol de Cl2. Dividindo pelos 2,0 L, todas as concentrações valem 0,50 mol/L, e Kc = (0,50 × 0,50) ÷ 0,50 = 0,50. A alternativa (c) é o resultado de quem usa as quantidades em mol sem dividir pelo volume — (1,0 × 1,0) ÷ 1,0 = 1,0 — erro que passa despercebido justamente porque também produz um número redondo.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-157",
-   "texto_apoio": "Para o equilíbrio CO(g) + H2O(g) ⇌ CO2(g) + H2(g), etapa empregada na produção industrial de hidrogênio, a constante Kc vale 4,0 a determinada temperatura. Em um reator mantido nessa temperatura, mediram-se, em certo instante: [CO] = 0,20 mol/L; [H2O] = 0,50 mol/L; [CO2] = 0,40 mol/L; [H2] = 0,40 mol/L.",
-   "enunciado": "O quociente de reação nesse instante e o sentido em que o sistema evolui até o equilíbrio são, respectivamente:",
-   "alternativas": {
-    "a": "1,6 e o sentido de formação de CO e H2O.",
-    "b": "0,625 e o sentido de formação de CO2 e H2.",
-    "c": "4,0 e nenhum, pois o sistema já se encontra em equilíbrio.",
-    "d": "0,16 e o sentido de formação de CO e H2O.",
-    "e": "1,6 e o sentido de formação de CO2 e H2."
-   },
-   "resposta": "e",
-   "explicacao": "Q = ([CO2] × [H2]) ÷ ([CO] × [H2O]) = (0,40 × 0,40) ÷ (0,20 × 0,50) = 0,16 ÷ 0,10 = 1,6. Como Q é menor que Kc, faltam produtos, e o sistema caminha no sentido direto até que Q suba até 4,0. A alternativa (a) faz a conta certa e inverte a conclusão: o sistema sempre evolui no sentido que aproxima Q de K, e Q só cresce se os produtos aumentarem. A (b) inverte a razão, colocando reagentes no numerador.",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-162",
-   "texto_apoio": "A hemoglobina liga-se de forma reversível tanto ao oxigênio quanto ao monóxido de carbono, este último com afinidade muito maior. Em uma intoxicação por monóxido, vale considerar o equilíbrio HbCO + O2 ⇌ HbO2 + CO. O tratamento consiste em administrar oxigênio puro, por vezes em câmara hiperbárica, sob pressão superior à atmosférica.",
-   "enunciado": "O tratamento descrito é eficaz porque:",
-   "alternativas": {
-    "a": "o oxigênio administrado reage com o monóxido de carbono do sangue e o converte em gás carbônico, depois eliminado pela expiração",
-    "b": "o aumento da concentração de oxigênio desloca o equilíbrio para a direita, o que regenera a hemoglobina ligada ao oxigênio e libera o monóxido para ser exalado",
-    "c": "a pressão elevada aumenta o valor da constante desse equilíbrio, e é esse aumento que torna a ligação do oxigênio mais forte que a do monóxido",
-    "d": "o oxigênio sob pressão destrói as hemoglobinas saturadas por monóxido e estimula a medula óssea a repor moléculas novas em poucas horas",
-    "e": "o monóxido de carbono se liga de forma irreversível à hemoglobina, e o oxigênio hiperbárico apenas se dissolve no plasma, sem interferir nesse equilíbrio"
-   },
-   "resposta": "b",
-   "explicacao": "Aumentar a concentração de um reagente desloca o equilíbrio no sentido de consumi-lo: mais oxigênio empurra a reação para a direita, refazendo a HbO2 e liberando o monóxido, que é exalado. A alternativa (c) comete o erro clássico de afirmar que a pressão altera a constante — só a temperatura faz isso; pressão e concentração deslocam a posição do equilíbrio sem mudar o valor de K. A (e) contraria o próprio enunciado, que descreve a ligação como reversível.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-163",
-   "texto_apoio": "Em um recipiente rígido de 1,0 L, a temperatura constante, foram colocados 4,0 mol de SO2 e 2,0 mol de O2. Atingido o equilíbrio 2 SO2(g) + O2(g) ⇌ 2 SO3(g), constatou-se a presença de 3,0 mol de SO3.",
-   "enunciado": "O valor de Kc nessa temperatura é:",
-   "alternativas": {
-    "a": "4,5",
-    "b": "6,0",
-    "c": "9,0",
-    "d": "18",
-    "e": "0,056"
-   },
-   "resposta": "d",
-   "explicacao": "Formar 3,0 mol de SO3 consome 3,0 mol de SO2 e apenas 1,5 mol de O2, pela estequiometria 2:1:2. Restam 1,0 mol de SO2 e 0,50 mol de O2 e, como o volume é 1,0 L, esses números são as concentrações. Kc = (3,0)² ÷ [(1,0)² × 0,50] = 9,0 ÷ 0,50 = 18. A alternativa (a) é de quem esquece que o oxigênio também é consumido e mantém 2,0 mol no denominador; a (b), de quem não eleva o SO3 ao quadrado.",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-164",
-   "texto_apoio": "Para o equilíbrio A(g) + B(g) ⇌ 2 C(g), determinaram-se experimentalmente as constantes: a 300 K, Kc = 0,10; a 400 K, Kc = 0,80; a 500 K, Kc = 2,5.",
-   "enunciado": "Os dados apresentados permitem concluir que a reação direta é:",
-   "alternativas": {
-    "a": "exotérmica, pois a constante de equilíbrio a 500 K é maior que a 300 K, e a constante de uma reação exotérmica tende a crescer conforme a temperatura sobe",
-    "b": "endotérmica, porque o aumento da temperatura desloca o equilíbrio no sentido dos produtos e eleva o valor da constante",
-    "c": "exotérmica, e a variação observada na constante decorre do aumento da velocidade das moléculas com a temperatura, não de deslocamento",
-    "d": "endotérmica, mas o efeito só se manifesta acima de 400 K, temperatura a partir da qual a constante passa a superar a unidade",
-    "e": "atérmica, uma vez que a constante de equilíbrio de uma reação é, por definição, independente da temperatura"
-   },
-   "resposta": "b",
-   "explicacao": "Elevar a temperatura equivale a fornecer calor ao sistema, que responde deslocando-se no sentido capaz de absorvê-lo, o endotérmico. Como o deslocamento observado é para os produtos, indicado pelo crescimento de Kc, a reação direta é a endotérmica. A alternativa (a) usa os mesmos dados — Kc sobe de 0,10 para 2,5 — mas inverte a conclusão: constante que cresce com a temperatura é a assinatura de reação endotérmica, não exotérmica; numa reação exotérmica, elevar a temperatura desloca o equilíbrio no sentido dos reagentes e reduz o valor de Kc, o oposto do que os dados mostram aqui. A alternativa (c) troca o efeito termodinâmico pelo cinético: temperatura maior faz o equilíbrio ser atingido antes, mas isso não mudaria o valor de Kc. A temperatura é a única variável que altera a constante.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-165",
-   "texto_apoio": "Considere o equilíbrio N2O4(g) ⇌ 2 NO2(g), estabelecido em recipiente fechado.",
-   "enunciado": "Mantidos volume e temperatura constantes, a injeção de argônio, um gás inerte, ______ as pressões parciais dos participantes e ______ a posição do equilíbrio; já a compressão do sistema a temperatura constante desloca o equilíbrio no sentido ______. As lacunas são corretamente preenchidas, na ordem, por:",
-   "alternativas": {
-    "a": "não altera – não desloca – do N2O4",
-    "b": "altera – desloca – do NO2",
-    "c": "não altera – desloca – do NO2",
-    "d": "altera – não desloca – do N2O4",
-    "e": "não altera – não desloca – do NO2"
-   },
-   "resposta": "a",
-   "explicacao": "A volume constante, o argônio não muda o número de mols nem o espaço ocupado pelos demais gases: as pressões parciais permanecem as mesmas e o equilíbrio não sente nada, embora a pressão total suba. Comprimir o sistema, ao contrário, aumenta de fato todas as pressões parciais, e o equilíbrio responde indo para o lado com menos mols de gás: 1 mol de N2O4 contra 2 mols de NO2. Confundir pressão total com pressão parcial é o que leva às alternativas (b) e (c).",
-   "formato": "lacunas",
-   "dificuldade": "dificil",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-169",
-   "texto_apoio": "Um recipiente contém, em equilíbrio a determinada temperatura, 1,0 mol de PCl5, 2,0 mol de PCl3 e 2,0 mol de Cl2, segundo PCl5(g) ⇌ PCl3(g) + Cl2(g). A pressão total da mistura é 2,0 atm.",
-   "enunciado": "O valor de Kp, nessas condições, expresso em atm, é:",
-   "alternativas": {
-    "a": "0,40",
-    "b": "0,64",
-    "c": "1,6",
-    "d": "2,5",
-    "e": "4,0"
-   },
-   "resposta": "c",
-   "explicacao": "As pressões parciais saem das frações em quantidade de matéria: há 5,0 mol no total, então o PCl5 responde por 1/5 de 2,0 atm, ou 0,40 atm, e cada um dos outros dois por 2/5, ou 0,80 atm. Kp = (0,80 × 0,80) ÷ 0,40 = 1,6. A alternativa (e) é de quem usa as quantidades em mol no lugar das pressões parciais, obtendo (2,0 × 2,0) ÷ 1,0 = 4,0; a (b) calcula o numerador e esquece de dividir pelo reagente.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-174",
-   "texto_apoio": "Uma peça metálica é recoberta de cobre por eletrodeposição, em solução contendo íons Cu²⁺. A célula é percorrida por corrente constante de 10 A durante 965 s. Dados: constante de Faraday = 96 500 C por mol de elétrons; massa molar do cobre = 63,5 g/mol.",
-   "enunciado": "A massa de cobre depositada sobre a peça é de, aproximadamente:",
-   "alternativas": {
-    "a": "0,32 g",
-    "b": "1,6 g",
-    "c": "3,2 g",
-    "d": "6,4 g",
-    "e": "32 g"
-   },
-   "resposta": "c",
-   "explicacao": "A carga que atravessa a célula é Q = i × t = 10 × 965 = 9 650 C, o que corresponde a 9 650 ÷ 96 500 = 0,10 mol de elétrons. Como Cu²⁺ + 2 e⁻ → Cu, cada mol de cobre exige 2 mol de elétrons: depositam-se 0,050 mol, ou 0,050 × 63,5 ≈ 3,2 g. A alternativa (d) é o resultado de quem esquece os dois elétrons da semirreação e converte 0,10 mol de elétrons em 0,10 mol de cobre.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-179",
-   "texto_apoio": "Um objeto é prateado por eletrodeposição a partir de solução contendo íons Ag⁺, com corrente constante de 5,0 A. Dados: constante de Faraday = 96 500 C por mol de elétrons; massa molar da prata = 108 g/mol.",
-   "enunciado": "O tempo necessário para depositar 10,8 g de prata sobre o objeto é de:",
-   "alternativas": {
-    "a": "965 s",
-    "b": "1 000 s",
-    "c": "1 930 s",
-    "d": "3 860 s",
-    "e": "19 300 s"
-   },
-   "resposta": "c",
-   "explicacao": "10,8 g de prata correspondem a 0,10 mol. Como a semirreação é Ag⁺ + e⁻ → Ag, são necessários 0,10 mol de elétrons, isto é, 0,10 × 96 500 = 9 650 C. Com corrente de 5,0 A, o tempo é 9 650 ÷ 5,0 = 1 930 s. A alternativa (d) é de quem aplica à prata a relação de dois elétrons válida para cobre e zinco: a prata transfere apenas um elétron por átomo, e esquecer de conferir a carga do cátion é o erro mais caro nesse tipo de cálculo.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-184",
-   "texto_apoio": "Duas cubas eletrolíticas são ligadas em série, de modo que a mesma quantidade de carga atravessa as duas. Na primeira, contendo íons Ag⁺, depositam-se 10,8 g de prata. Na segunda há íons Al³⁺ em sal fundido. Dados: massas molares Ag = 108 g/mol e Al = 27 g/mol.",
-   "enunciado": "A massa de alumínio depositada na segunda cuba é de:",
-   "alternativas": {
-    "a": "0,30 g",
-    "b": "1,35 g",
-    "c": "2,7 g",
-    "d": "0,90 g",
-    "e": "8,1 g"
-   },
-   "resposta": "d",
-   "explicacao": "10,8 g de prata são 0,10 mol e, como Ag⁺ + e⁻ → Ag, passaram 0,10 mol de elétrons pelas duas cubas. Para o alumínio, Al³⁺ + 3 e⁻ → Al, de modo que 0,10 mol de elétrons produzem 0,10 ÷ 3 ≈ 0,033 mol de alumínio, ou 0,033 × 27 = 0,90 g. A alternativa (c) é de quem transfere ao alumínio a proporção de um elétron da prata e obtém 0,10 × 27 = 2,7 g; a (e) multiplica por 3 em vez de dividir.",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-186",
-   "texto_apoio": "A combustão completa do etanol libera 1 368 kJ por mol de álcool queimado. Massa molar do etanol: 46 g/mol.",
-   "enunciado": "A energia liberada na combustão completa de 92 g de etanol é de:",
-   "alternativas": {
-    "a": "684 kJ",
-    "b": "1 368 kJ",
-    "c": "5 472 kJ",
-    "d": "125 856 kJ",
-    "e": "2 736 kJ"
-   },
-   "resposta": "e",
-   "explicacao": "92 g de etanol correspondem a 92 ÷ 46 = 2,0 mol, e cada mol libera 1 368 kJ: o total é 2 × 1 368 = 2 736 kJ. A alternativa (b) é de quem devolve o dado do enunciado sem converter a massa em quantidade de matéria, e a (d), de quem multiplica 1 368 pelos 92 g, tratando o valor tabelado como se fosse por grama e não por mol.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-188",
-   "texto_apoio": "Energias médias de ligação, em kJ/mol: N≡N = 941; H–H = 436; N–H = 391. Considere a reação de síntese da amônia, N2(g) + 3 H2(g) → 2 NH3(g), com todas as espécies no estado gasoso.",
-   "enunciado": "A variação de entalpia dessa reação, calculada a partir das energias de ligação, é de:",
-   "alternativas": {
-    "a": "−97 kJ",
-    "b": "+97 kJ",
-    "c": "−48,5 kJ",
-    "d": "+1 076 kJ",
-    "e": "−969 kJ"
-   },
-   "resposta": "a",
-   "explicacao": "Romper as ligações dos reagentes consome 941 + 3 × 436 = 2 249 kJ. Cada molécula de amônia tem três ligações N–H e há duas moléculas, ou seja, formam-se 6 ligações, liberando 6 × 391 = 2 346 kJ. ΔH = 2 249 − 2 346 = −97 kJ. A alternativa (d) conta apenas 3 ligações N–H, esquecendo o coeficiente 2 da amônia; a (c) divide o resultado por dois e responde por mol de amônia, quando a equação pede o valor para a reação tal como escrita.",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-193",
-   "texto_apoio": "Em um calorímetro de capacidade térmica desprezível, 0,10 mol de um sal é dissolvido em 200 g de água e a temperatura da solução sobe 5,0 °C. Considere o calor específico da solução igual ao da água, 4,2 J/(g·°C), e a massa da solução aproximadamente igual à da água.",
-   "enunciado": "A entalpia de dissolução desse sal, por mol, é de aproximadamente:",
-   "alternativas": {
-    "a": "−42 kJ/mol",
-    "b": "+42 kJ/mol",
-    "c": "−4,2 kJ/mol",
-    "d": "−420 kJ/mol",
-    "e": "+4,2 kJ/mol"
-   },
-   "resposta": "a",
-   "explicacao": "O calor recebido pela solução é q = m × c × ΔT = 200 × 4,2 × 5,0 = 4 200 J, ou 4,2 kJ. Esse calor veio da dissolução de 0,10 mol de sal, o que dá 42 kJ por mol. Como a temperatura subiu, o processo é exotérmico e o sinal é negativo: −42 kJ/mol. A alternativa (c) esquece de dividir pela quantidade de matéria e responde o calor total; a (b) acerta o módulo e erra o sinal, tratando o aquecimento da vizinhança como se fosse absorção de calor pelo sistema.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-197",
-   "texto_apoio": "Etanol e éter dimetílico têm a mesma fórmula molecular, C2H6O, e portanto a mesma massa molar, 46 g/mol. À pressão atmosférica, o etanol ferve a 78 °C e o éter dimetílico, a −24 °C.",
-   "enunciado": "A grande diferença entre os pontos de ebulição se explica porque:",
-   "alternativas": {
-    "a": "apenas o etanol possui hidrogênio ligado diretamente ao oxigênio e forma ligações de hidrogênio entre suas moléculas",
-    "b": "o etanol é composto iônico e o éter dimetílico é molecular, o que impõe ao primeiro um ponto de ebulição muito mais alto",
-    "c": "as ligações covalentes do etanol são mais fortes e exigem mais energia para ser rompidas na passagem ao estado gasoso",
-    "d": "o éter dimetílico é apolar e por isso não apresenta nenhuma interação entre suas moléculas no estado líquido",
-    "e": "a cadeia carbônica do etanol é maior, o que intensifica as forças de dispersão de London entre suas moléculas"
-   },
-   "resposta": "a",
-   "explicacao": "Com a mesma fórmula e a mesma massa molar, a diferença não pode vir do tamanho nem da massa das moléculas: as forças de dispersão são comparáveis, o que descarta a alternativa (e). No etanol, o hidrogênio ligado ao oxigênio permite ligações de hidrogênio, as mais intensas entre as forças intermoleculares; no éter, o oxigênio está entre dois carbonos e esse hidrogênio não existe. A alternativa (c) traz o erro conceitual mais comum do tema: ferver rompe interações entre moléculas, e não ligações dentro delas.",
-   "formato": "direta",
-   "dificuldade": "media",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-203",
-   "texto_apoio": "O ácido acético, CH3COOH, é o componente responsável pelo sabor e pelo odor característicos do vinagre. Em sua fórmula estrutural, um grupo metila liga-se a um carbono que forma dupla ligação com um oxigênio e ligação simples com o grupo hidroxila.",
-   "enunciado": "Os números de ligações sigma e de ligações pi presentes em uma molécula de ácido acético são, respectivamente:",
-   "alternativas": {
-    "a": "8 e 0",
-    "b": "6 e 2",
-    "c": "7 e 1",
-    "d": "7 e 2",
-    "e": "5 e 1"
-   },
-   "resposta": "c",
-   "explicacao": "Contando as ligações da estrutura: três C–H na metila, uma C–C, a dupla C=O, uma C–O e uma O–H. Toda ligação simples é sigma, e a dupla contém uma sigma e uma pi. O total é, portanto, 7 sigma e 1 pi. A alternativa (a) trata a dupla como se fossem duas sigma, e a (b) esquece que uma das duas ligações da dupla também é sigma — a ligação pi nunca aparece sozinha entre dois átomos.",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-211",
-   "enunciado": "A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em PbSO4 (Kps = 1,0 × 10⁻⁸).\n\nSabendo que a legislação estabelece a concentração máxima de Pb de 0,01 mg/L para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.",
-   "alternativas": {
-    "a": "Não é segura, pois a concentração de Pb na água será de 2,07×10¹ mg/L, maior que o valor permitido.",
-    "b": "É segura, pois a concentração de Pb na água será de 1×10⁻⁴ mg/L, menor que o valor permitido.",
-    "c": "Não é segura, pois a concentração de Pb na água será de 1×10⁻⁸ mg/L, menor que o valor permitido.",
-    "d": "É segura, pois a concentração de Pb na água será de 1×10⁻² mg/L, igual ao valor permitido.",
-    "e": "É segura, pois a concentração de Pb na água será de 2,07×10⁻⁶ mg/L, maior que o valor permitido."
-   },
-   "resposta": "a",
-   "explicacao": "Como Ksp = [Pb²⁺][SO₄²⁻] = s², a solubilidade é s = √(1,0×10⁻⁸) = 1,0×10⁻⁴ mol/L; convertendo para mg/L usando a massa molar do chumbo (207 g/mol), obtém-se cerca de 2,07×10¹ mg/L, muito acima do limite legal de 0,01 mg/L — portanto a água não é segura.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-213",
-   "enunciado": "Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação CH4(l) + 2 O2(l) → CO2(g) + 2 H2O(g).\n\nNessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a",
-   "alternativas": {
-    "a": "0,186.",
-    "b": "0,375.",
-    "c": "0,75.",
-    "d": "1,5.",
-    "e": "3."
-   },
-   "resposta": "b",
-   "explicacao": "Como a razão de volumes é V(O₂)=1,5×V(CH4) e a proporção molar da equação é 1 CH4 : 2 O2, a razão de massas m(CH4)/m(O2) = [n×16]/[2n×32] = 16/64 = 0,25 em mols; ajustando pela razão de volumes (dividindo pela densidade), obtém-se a razão de densidades ρ(CH4)/ρ(O2) = 0,375.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-219",
-   "enunciado": "A massa de clorato de sódio consumida na reação (ver questão anterior, sobre a geração química de oxigênio em máscaras de avião) deve ser suficiente para gerar, no mínimo, 15 minutos de oxigênio, permitindo que a aeronave baixe sua altitude, restabelecendo a pressão da cabine. Calcule a massa de clorato de sódio mínima, em gramas, que deve ser utilizada por reservatório, para gerar oxigênio suficiente por 15 minutos, considerando que a taxa de respiração média de oxigênio de um adulto é de 1,2 L/min ao nível do mar a 20 °C.",
-   "alternativas": {
-    "a": "27",
-    "b": "53",
-    "c": "80",
-    "d": "94",
-    "e": "119"
-   },
-   "resposta": "c",
-   "explicacao": "Calculando os mols de O₂ necessários para suprir a respiração durante 15 minutos (pela equação dos gases ideais) e convertendo para mols de NaClO₃ pela proporção estequiométrica da decomposição 2NaClO₃ → 2NaCl + 3O₂, chega-se à massa mínima necessária de clorato de sódio por reservatório.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-220",
-   "enunciado": "Aviões são os únicos meios de transporte que cruzam continentes em um dia. Apesar dos avanços em eficiência energética, as aeronaves contribuem com 3,5% do aquecimento global. Por isso, existe o interesse em substituir o querosene usado por essas aeronaves por hidrogênio, com destaque para o uso do hidrogênio líquido combustível. A tabela a seguir apresenta dados desses dois tipos de combustíveis na aviação.\n\n| Combustível | Energia combustão (kJ·mol⁻¹) | Densidade do líquido (g·cm⁻³) | Massa molar (g·mol⁻¹) |\n|---|---|---|---|\n| Querosene* | 6745 | 0,804 | 153 |\n| Hidrogênio | 240 | 0,071 | 2 |\n\n*valores médios e aproximados.\n\nCaracterísticas como massa e volume da aeronave são fatores importantes para seu desempenho. Levando em conta essa informação, para uma mesma quantidade de energia gerada pelo combustível, é correto afirmar que o hidrogênio é melhor que o querosene, pois",
-   "alternativas": {
-    "a": "sua razão energia por volume é maior.",
-    "b": "o volume utilizado será menor.",
-    "c": "sua razão energia por massa é maior.",
-    "d": "a massa utilizada será maior."
-   },
-   "resposta": "c",
-   "explicacao": "Dividindo a energia de combustão pela massa molar, o hidrogênio libera cerca de 120 kJ/g, contra apenas cerca de 44 kJ/g do querosene — ou seja, para a mesma energia gerada, seria necessária uma massa muito menor de hidrogênio, tornando sua razão energia/massa maior (apesar de sua razão energia/volume ser menor, por causa da baixa densidade do H₂ líquido).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-221",
-   "enunciado": "A Agência Nacional do Petróleo (ANP) é responsável por implementar a política nacional de combustíveis e proteger os interesses dos consumidores quanto a preço, qualidade e oferta de produtos, além de especificar a qualidade dos derivados de petróleo, do gás natural e de seus derivados e dos biocombustíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica algumas características do Etanol Anidro Combustível (EAC), do Etanol Hidratado Combustível (EHC) e do Etanol Hidratado Combustível Premium (EHCP). Algumas dessas características estão na tabela a seguir e nas alternativas.\n\n| Combustível | Massa Específica (kg/m³) | Teor Alcoólico (% massa) |\n|---|---|---|\n| EAC | 791,5 (a) | 99,3 (b) |\n| EHC | (c) | entre 92,5 e 94,6 |\n| EHCP | (d) | entre 95,5 e 96,5 |\n\nConsiderando que água e etanol formam uma mistura ideal, para preencher corretamente essa tabela, as letras a, b, c e d devem corresponder, respectivamente, a",
-   "alternativas": {
-    "a": "máximo; mínimo; entre 805 e 811 e entre 800 e 803.",
-    "b": "mínimo; máximo; entre 805 e 811 e entre 800 e 803.",
-    "c": "máximo; mínimo; entre 800 e 803 e entre 805 e 811.",
-    "d": "mínimo; máximo; entre 800 e 803 e entre 805 e 811."
-   },
-   "resposta": "a",
-   "explicacao": "Como a densidade da mistura água-etanol aumenta com o teor de água, o etanol anidro (EAC), com o menor teor de água possível, tem massa específica máxima permitida (a) e teor alcoólico mínimo (b) para garantir pureza; já o EHC, com mais água que o EHCP, apresenta a maior faixa de densidade (c, entre 805 e 811 kg/m³), e o EHCP, mais concentrado, densidade um pouco menor (d, entre 800 e 803 kg/m³).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-224",
-   "enunciado": "O gás natural veicular (GNV) é um combustível automotivo disponibilizado por postos de abastecimento credenciados. Os veículos automotores, originalmente fabricados para funcionarem apenas com combustíveis líquidos, são adaptados por um kit que permite o funcionamento também com o GNV. Uma das partes desse kit é o reservatório de gás, feito de material metálico não expansível, sendo normalmente instalado no compartimento traseiro do veículo.\n\nUm reservatório de GNV com massa de gás (m₁) e pressão (P₁) igual a 40 atm é reabastecido com esse gás, em temperatura constante, até a pressão interna do compartimento atingir a massa de gás (m₂) e pressão (P₂) igual a 160 atm. Considerando que a composição do GNV seja constante, a comparação das massas m₁ e m₂ é dada por:",
-   "alternativas": {
-    "a": "m₂ = 8m₁",
-    "b": "m₂ = 4m₁",
-    "c": "m₂ = (1/8)m₁",
-    "d": "m₂ = (1/4)m₁",
-    "e": "m₂ = 2m₁"
-   },
-   "resposta": "b",
-   "explicacao": "Em temperatura e volume constantes, a pressão de um gás é proporcional à quantidade de matéria (massa): se a pressão quadruplicou (de 40 para 160 atm), a massa de gás no reservatório também quadruplicou, ou seja, m₂=4m₁.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-228",
-   "enunciado": "Em uma aula de química, foi realizado um experimento em três etapas: na etapa 1, mediu-se a temperatura da água empregada no experimento (20 ºC, em um béquer com 100 mL de água). Na etapa 2, adicionou-se à água, sob agitação (usando um agitador magnético), 0,1 mol de cloreto de cálcio anidro (CaCl₂), uma substância empregada em produtos de uso doméstico para evitar a formação de mofo e umidade em armários — a adição foi sinalizada com um pictograma de risco. Na etapa 3, foi anotada a temperatura máxima atingida ao final do processo de dissolução do cloreto de cálcio anidro na água (35 ºC).\n\nA dissolução do cloreto de cálcio anidro em água é um processo [lacuna 1] e a sua entalpia padrão de dissolução (ΔH⁰ dissolução) é [lacuna 2].\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
-   "alternativas": {
-    "a": "endotérmico – maior do que zero, pois a energia necessária para romper a rede cristalina do CaCl₂ anidro seria sempre superior à liberada na hidratação dos íons",
-    "b": "endotérmico – menor do que zero.",
-    "c": "exotérmico – menor do que zero.",
-    "d": "endotérmico – maior do que zero.",
-    "e": "endotérmico – igual a zero."
-   },
-   "resposta": "c",
-   "explicacao": "A temperatura da água subiu de 20 para 35 ºC durante a dissolução do CaCl₂, evidenciando liberação de calor pela solução — um processo exotérmico, com ΔH de dissolução negativo (menor que zero). A alternativa (a) parte de uma generalização real, mas nem sempre verdadeira — a de que romper a rede cristalina sempre consome mais energia do que a liberada na hidratação dos íons —, e ignora o próprio dado experimental do enunciado: se fosse esse o caso aqui, a temperatura da água teria caído, não subido.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-235",
-   "enunciado": "Com base na fórmula estrutural da acetilcisteína (ver questão anterior) — uma molécula com um anel simples contendo um grupo tiol (-SH), um grupo amida (ligação -NH-CO-CH₃) e um grupo ácido carboxílico (-COOH) — a fórmula molecular da acetilcisteína é",
-   "alternativas": {
-    "a": "C₅H₉NO₃S",
-    "b": "C₅H₇NO₃S",
-    "c": "C₅H₈NO₃S",
-    "d": "C₄H₆NO₃S",
-    "e": "C₄H₇NO₃S"
-   },
-   "resposta": "a",
-   "explicacao": "A fórmula molecular da acetilcisteína, coerente com os grupos tiol, amida e ácido carboxílico descritos e a massa molar de 162 g/mol, é C₅H₉NO₃S.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-252",
-   "enunciado": "Uma fina camada de prata foi depositada sobre uma peça metálica, por meio da eletrólise de uma solução aquosa contendo íons de prata (Ag+). O processo foi realizado pela circulação de uma corrente elétrica constante de 75 mA, durante 3 h, pela solução. Sabendo que a constante de Faraday é igual a 96 500 C/mol de elétrons, a quantidade de prata depositada no processo, expressa em mol de prata, foi de, aproximadamente,",
-   "alternativas": {
-    "a": "0,004.",
-    "b": "0,006.",
-    "c": "0,010.",
-    "d": "0,008.",
-    "e": "0,002."
-   },
-   "resposta": "d",
-   "explicacao": "A carga elétrica é Q=i×t=0,075 A×10.800 s=810 C; dividindo pela constante de Faraday (96.500 C/mol), obtém-se cerca de 0,0084 mol de elétrons, que corresponde à mesma quantidade de mol de Ag depositada (1 elétron por íon Ag⁺ reduzido).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-255",
-   "enunciado": "Com o passar do tempo, o óxido de magnésio (MgO) puro, quando armazenado em um frasco não hermeticamente fechado, torna-se impuro, pois absorve umidade do ar transformando-se parcialmente em hidróxido de magnésio, Mg(OH)2, conforme a seguinte reação:\n\nMgO(s) + H2O(g) → Mg(OH)2(s)\n\nEssa reação pode ser revertida por aquecimento, regenerando-se, assim, o óxido de magnésio:\n\nMg(OH)2(s) → MgO(s) + H2O(g)\n\nUma amostra de 5,8 g de óxido de magnésio impuro foi colocada em um cadinho e submetida a uma calcinação. Após o resfriamento do cadinho, verificou-se que a massa da mesma foi 0,18 g menor do que a inicial.\n\nCom base nessas informações, o grau de pureza do óxido de magnésio impuro nessa amostra era cerca de",
-   "alternativas": {
-    "a": "50%.",
-    "b": "90%.",
-    "c": "20%.",
-    "d": "40%.",
-    "e": "70%."
-   },
-   "resposta": "b",
-   "explicacao": "A perda de massa (0,18 g) corresponde à água liberada na conversão de Mg(OH)2 de volta a MgO durante a calcinação; a partir da estequiometria da reação, calcula-se a quantidade de Mg(OH)2 presente na amostra original e, por diferença, o grau de pureza do MgO, que resulta em cerca de 90%.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-260",
-   "enunciado": "A figura representa um calorímetro de paredes adiabáticas e de capacidade térmica desprezível, cuja câmara de reação está imersa em 1 000 g de um líquido de calor específico 4,0 kJ/(kg·ºC). Dentro dessa câmara foi realizada a combustão completa de 9 g de glicose (C6H12O6, 180 g/mol) utilizando, para isso, oxigênio pressurizado em quantidade suficiente para que a reação ocorresse completamente.\n\n*(Figura esquemática padrão de calorímetro de bomba: recipiente externo com líquido, termômetro inserido no topo, cabos de ignição e câmara de reação interna contendo a glicose e o oxigênio — diagrama didático genérico.)*\n\nNesse processo, o calor liberado na reação foi totalmente absorvido pelo líquido, que teve sua temperatura elevada de 20 ºC para 55 ºC, e a pressão dentro do calorímetro manteve-se constante. Nessas condições, o calor absorvido pelo líquido e a entalpia da reação de combustão completa da glicose foram, respectivamente,",
-   "alternativas": {
-    "a": "140 kJ e −2 800 kJ/mol.",
-    "b": "25,2 kJ e −25,2 kJ/mol.",
-    "c": "1,26 kJ e −2 800 kJ/mol.",
-    "d": "140 kJ e −25,2 kJ/mol.",
-    "e": "1,26 kJ e −25,2 kJ/mol."
-   },
-   "resposta": "a",
-   "explicacao": "O calor absorvido é Q=m×c×ΔT=1000 g×4,0 J/(g·ºC)×35 ºC=140.000 J=140 kJ. Como isso equivale à combustão de 9 g de glicose (9/180=0,05 mol), a entalpia molar de combustão é 140/0,05=2800 kJ/mol, liberados (portanto negativa), ou seja, −2800 kJ/mol.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-261",
-   "enunciado": "O ácido rosmarínico é um polifenol constituído apenas por carbono, hidrogênio e oxigênio, sendo obtido naturalmente de ervas utilizadas na culinária. A análise elementar por combustão completa do ácido rosmarínico revelou que para cada 1 mol desse ácido são formados 18 mol de CO₂ e 8 mol de H₂O. A massa de oxigênio na molécula do ácido rosmarínico corresponde a 8 vezes a sua massa de hidrogênio.\n\nA fórmula mínima do ácido rosmarínico é:",
-   "alternativas": {
-    "a": "C₉H₈O₆₄",
-    "b": "C₉H₈O₃₂",
-    "c": "C₉H₄O₃₂",
-    "d": "C₉H₈O₄",
-    "e": "C₉H₄O₄"
-   },
-   "resposta": "d",
-   "explicacao": "De 1 mol do ácido, formam-se 18 mol de CO2 (18 átomos de C) e 8 mol de H2O (16 átomos de H); usando a relação massa de O = 8× massa de H (16g), obtém-se 128g de O, ou 8 mol de O. A fórmula C18H16O8 simplifica, dividindo por 2, para a fórmula mínima C9H8O4.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-265",
-   "enunciado": "Os gases atmosféricos poluentes, resultantes da queima de combustível fóssil, realizam reações secundárias gerando diversos produtos. A reação entre dois desses gases, NO₂(g) + O₃(g) → NO₃(g) + O₂(g), teve a sua cinética estudada a 20 ºC:\n\n| Experimento | [NO₂] mol/L | [O₃] mol/L | Taxa (mol·L⁻¹·s⁻¹) |\n|---|---|---|---|\n| 1 | 5,0 × 10⁻⁵ | 1,0 × 10⁻⁵ | 0,033 |\n| 2 | 5,0 × 10⁻⁵ | 2,0 × 10⁻⁵ | 0,066 |\n| 3 | 2,5 × 10⁻⁵ | 2,0 × 10⁻⁵ | 0,033 |\n\nConsidere que a equação da rapidez dessa reação, v, seja representada pela equação: v = k[NO₂]ˣ·[O₃]ʸ\n\nA ordem global dessa reação, dada pela soma dos valores de x e y, é igual a",
-   "alternativas": {
-    "a": "3",
-    "b": "1",
-    "c": "1/2",
-    "d": "0",
-    "e": "2"
-   },
-   "resposta": "e",
-   "explicacao": "Comparando os experimentos 1 e 3 (mesma [O3], [NO2] varia pela metade e a taxa também cai pela metade): ordem 1 em relação a NO2. Comparando 1 e 2 (mesma [NO2], [O3] dobra e a taxa dobra): ordem 1 em relação a O3. A ordem global é a soma: 1+1=2.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-266",
-   "enunciado": "A reação entre o cloreto de antimônio(III), SbCl₃ (massa molar = 228 g/mol), e a água resulta na formação de óxido de antimônio(III), Sb₂O₃, e cloreto de hidrogênio gasoso, HCl: SbCl₃(s) + H₂O(l) → Sb₂O₃(s) + HCl(g) (equação não balanceada).\n\nA uma certa massa de cloreto de antimônio(III) foram adicionados 180 mL de água (d = 1 g/mL). Nas condições adequadas de reação, formaram-se 18 mol de HCl.\n\nA massa de cloreto de antimônio(III) e a quantidade, em mol, de água que participaram dessa reação são",
-   "alternativas": {
-    "a": "456 g e 10 mol.",
-    "b": "456 g e 6 mol.",
-    "c": "1 368 g e 9 mol.",
-    "d": "228 g e 1 mol.",
-    "e": "1 368 g e 10 mol."
-   },
-   "resposta": "c",
-   "explicacao": "Balanceando a equação (2SbCl3+3H2O→Sb2O3+6HCl), a proporção é de 2 mol de SbCl3 para 6 mol de HCl, ou seja, 1:3; para 18 mol de HCl formado, reagiram 6 mol de SbCl3 (1368 g, usando M=228g/mol) e, pela proporção 2:3 entre SbCl3 e H2O, 9 mol de água.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-270",
-   "enunciado": "A tabela apresenta a abundância isotópica do magnésio encontrado na natureza.\n\n| Isótopo (número de massa) | Abundância isotópica |\n|---|---|\n| 24 | 78,99% |\n| 25 | 10,00% |\n| 26 | 11,01% |\n\nConsiderando a constante de Avogadro igual a 6,0 × 10²³ mol⁻¹, em 4,86 g de magnésio, a quantidade de átomos de magnésio-25 é igual a",
-   "alternativas": {
-    "a": "1,3 × 10²¹.",
-    "b": "3,0 × 10²⁰.",
-    "c": "1,2 × 10²².",
-    "d": "9,4 × 10²².",
-    "e": "6,0 × 10²³."
-   },
-   "resposta": "c",
-   "explicacao": "Em 4,86 g de magnésio (massa molar aproximada 24,3 g/mol), há cerca de 0,2 mol de átomos totais; 10% desses átomos correspondem ao isótopo magnésio-25, ou seja, cerca de 0,02 mol, que multiplicados pela constante de Avogadro (6,0×10²³) resultam em aproximadamente 1,2×10²² átomos.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-271",
-   "enunciado": "Um medicamento para combater a azia e o excesso de acidez estomacal causado pelo ácido clorídrico (HCl) é disponibilizado na forma de pastilhas mastigáveis que contêm 500 mg de carbonato de cálcio (CaCO₃).\n\nConsidere que haja a reação completa do conteúdo de uma pastilha desse medicamento no aparelho digestório de um indivíduo com temperatura corpórea 37 ºC, que a pressão nesse local seja de 1,0 atm e que a constante R seja 0,08 atm·L·mol⁻¹·K⁻¹. O volume máximo de dióxido de carbono (CO₂) formado nessa reação será de, aproximadamente,",
-   "alternativas": {
-    "a": "500 mL.",
-    "b": "120 mL.",
-    "c": "1,5 L.",
-    "d": "1,2 L.",
-    "e": "140 mL."
-   },
-   "resposta": "b",
-   "explicacao": "500 mg de CaCO3 (100 g/mol) correspondem a 0,005 mol, que pela estequiometria da reação com HCl produzem 0,005 mol de CO2. Usando PV=nRT a 310 K (37ºC) e 1 atm, o volume é V=nRT/P=0,005×0,08×310/1≈0,124 L≈120 mL.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-273",
-   "enunciado": "Para o estudo de equilíbrio reacional foram realizados, separadamente, os experimentos 1, 2, 3 e 4, com reações químicas no estado gasoso em sistemas fechados, comparando as condições do equilíbrio I (V=10L, T=125°C, P=1,0 atm) e do equilíbrio II (V=2L, T=125°C, P=5,0 atm):\n\n1. NH₃(g) + CH₄(g) ⇌ HCN(g) + 3H₂(g)\n2. 2HCN(g) + 6H₂O(g) ⇌ 2NH₃(g) + 2CH₄(g) + 3O₂(g)\n3. N₂(g) + 3H₂(g) ⇌ 2NH₃(g)\n4. CO₂(g) + H₂(g) ⇌ CO(g) + H₂O(g)\n\nConsiderando-se separadamente cada um dos experimentos realizados, as reações que tiveram aumento da formação dos produtos ao se passar das condições do equilíbrio I para as condições do equilíbrio II são as dos experimentos",
-   "alternativas": {
-    "a": "2 e 4.",
-    "b": "1 e 3.",
-    "c": "3 e 4.",
-    "d": "2 e 3.",
-    "e": "1 e 4."
-   },
-   "resposta": "d",
-   "explicacao": "Passar do equilíbrio I (menor pressão, maior volume) para o II (maior pressão, menor volume) favorece o lado com menor número de mols gasosos: nas reações 2 e 3, os produtos têm menos mols de gás do que os reagentes, então o aumento de pressão desloca o equilíbrio para a formação de mais produtos.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-274",
-   "enunciado": "A ureia, OC(NH₂)₂, é empregada na agricultura para recomposição dos nutrientes do solo. Sua hidrólise resulta em dióxido de carbono (CO₂) e amônia (NH₃): OC(NH₂)₂(aq) + H₂O(l) → CO₂(g) + 2NH₃(g)\n\nAs geometrias ao redor dos átomos de carbono centrais das moléculas de reagente e produto dessa reação, ureia e dióxido de carbono, são, respectivamente,",
-   "alternativas": {
-    "a": "plana trigonal e angular.",
-    "b": "piramidal trigonal e angular.",
-    "c": "tetraédrica e angular.",
-    "d": "piramidal trigonal e linear.",
-    "e": "plana trigonal e linear."
-   },
-   "resposta": "e",
-   "explicacao": "A ureia tem geometria plana trigonal ao redor do carbono central (ligado a dois grupos NH2 e um oxigênio duplo, em arranjo trigonal); o CO2, com duas ligações duplas C=O em lados opostos e nenhum par isolado no carbono central, tem geometria linear.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-275",
-   "enunciado": "Um estudo da rapidez da hidrólise da ureia (catalisada pela enzima urease) foi realizado em cinco experimentos, variando concentração de ureia e temperatura da solução, medindo o tempo para iniciar a liberação dos gases:\n\n| Experimento | Concentração | Temperatura | Tempo p/ iniciar liberação |\n|---|---|---|---|\n| 1 | 10 mol/L | 20 ºC | 8 minutos |\n| 2 | 10 mol/L | 60 ºC | 3 minutos |\n| 3 | 2,5 mol/L | 20 ºC | 12 minutos |\n| 4 | 2,5 mol/L | 20 ºC | 2 minutos |\n| 5 | 2,5 mol/L | 60 ºC | 8 minutos |\n\nO experimento em que foi empregada a enzima urease foi o de número",
-   "alternativas": {
-    "a": "2.",
-    "b": "3.",
-    "c": "5.",
-    "d": "4.",
-    "e": "1."
-   },
-   "resposta": "d",
-   "explicacao": "O experimento com a maior velocidade relativa à sua concentração (experimento 4: menor concentração, mesma temperatura do experimento 3, porém tempo muito menor) indica a presença de um catalisador biológico (a enzima urease), que acelera a reação sem que se altere a temperatura ou a concentração de substrato.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-281",
-   "enunciado": "No conteúdo do béquer na situação 3 (da questão anterior), as forças de interação mais intensas existentes entre as espécies químicas presentes na fase 1 e as mais intensas na fase 2 são, respectivamente,",
-   "alternativas": {
-    "a": "ligação de hidrogênio e interação dipolo-dipolo induzido.",
-    "b": "interação íon-dipolo e ligação de hidrogênio.",
-    "c": "ligação de hidrogênio e interação íon-dipolo.",
-    "d": "interação dipolo induzido-dipolo induzido e interação íon-dipolo.",
-    "e": "interação dipolo-dipolo induzido e interação íon-dipolo."
-   },
-   "resposta": "c",
-   "explicacao": "Na fase menos densa (rica em álcool isopropílico e água), a interação mais intensa é a ligação de hidrogênio entre as moléculas polares; na fase mais densa (solução salina saturada), a interação mais intensa é do tipo íon-dipolo, entre os íons Na⁺/Cl⁻ e as moléculas de água.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-282",
-   "enunciado": "O nitreto de tório(IV), Th₃N₄, é um composto empregado em tecnologia nuclear. O Brasil detém reservas de minério de tório, a monazita. A partir desse minério, obtém-se o composto óxido de tório(IV), ThO₂, que é usado como matéria-prima no processo de obtenção de nitreto de tório, representado pela equação de reação a seguir, processada em um reator selado:\n\n3ThO₂(s) + 6C(s) + 2N₂(g) → Th₃N₄(s) + 6CO(g)\n\nAo serem adicionados no reator 12 mol de cada um dos reagentes, a quantidade máxima de Th₃N₄, em mol, que se forma é igual a",
-   "alternativas": {
-    "a": "6.",
-    "b": "2.",
-    "c": "12.",
-    "d": "4.",
-    "e": "8."
-   },
-   "resposta": "b",
-   "explicacao": "Com 12 mol de cada reagente disponíveis, o número de \"porções\" da reação que cada um permite é 12/3=4 (para o ThO2), 12/6=2 (para o C) e 12/2=6 (para o N2); o carbono é o reagente limitante, permitindo a formação de apenas 2 mol de Th3N4.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-286",
-   "enunciado": "Na etapa de coagulação do tratamento de água, utiliza-se sulfato de alumínio [Al2(SO4)3] para formar flocos de hidróxido de alumínio [Al(OH)3], que agregam impurezas. A reação química desse processo é:\n\nAl2(SO4)3 + 3 Ca(HCO3)2 → 2 Al(OH)3 + 3 CaSO4 + 6 CO2\n\nUma estação de tratamento de água (ETA) consome 147 kg de sulfato de alumínio [Al2(SO4)3] por dia para coagular impurezas.\n\nConsidere as seguintes massas molares: Al2(SO4)3 = 342 g/mol; Al(OH)3 = 78 g/mol; Ca(HCO3)2 = 162 g/mol; CaSO4 = 136 g/mol e CO2 = 44 g/mol.\n\nA massa aproximada, em quilograma, de hidróxido de alumínio produzido diariamente é igual a",
-   "alternativas": {
-    "a": "33,5.",
-    "b": "67,0.",
-    "c": "70,4.",
-    "d": "134,1.",
-    "e": "209,0."
-   },
-   "resposta": "b",
-   "explicacao": "Pela estequiometria da equação (1 mol de Al2(SO4)3 produz 2 mol de Al(OH)3), 147 kg de Al2(SO4)3 (342 g/mol) correspondem a cerca de 429,8 mol, que produzem 859,6 mol de Al(OH)3 (78 g/mol), totalizando aproximadamente 67,0 kg.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-287",
-   "enunciado": "Biomassa é a matéria orgânica de origem vegetal ou animal utilizada como fonte de energia renovável. Sua importância está na redução da dependência de combustíveis fósseis e na diminuição das emissões de gases poluentes. Para um melhor aproveitamento dessa fonte, alguns processos incluem a trituração da biomassa com o objetivo de aumentar a velocidade de decomposição da matéria orgânica pelos microrganismos, contribuindo para uma produção mais estável e eficiente do biogás.\n\nA velocidade de decomposição da biomassa aumenta devido ao(à)",
-   "alternativas": {
-    "a": "diminuição da concentração dos reagentes, o que reduz a resistência do meio, acelerando a cinética.",
-    "b": "aumento da energia de ativação, o que torna as moléculas mais reativas, facilitando a ação microbiana.",
-    "c": "diminuição da temperatura do meio, o que estabiliza os microrganismos, favorecendo a decomposição.",
-    "d": "aumento da pressão parcial de oxigênio, o que intensifica a oxidação da biomassa pelos microrganismos, facilitando a decomposição.",
-    "e": "aumento da superfície de contato, o que favorece a interação entre os microrganismos e o substrato, acelerando reações heterogêneas."
-   },
-   "resposta": "e",
-   "explicacao": "A trituração da biomassa aumenta a superfície de contato entre o substrato e os micro-organismos decompositores, favorecendo reações heterogêneas (que ocorrem na interface sólido-líquido) e acelerando a velocidade de decomposição.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-288",
-   "enunciado": "O trítio é um dos isótopos do hidrogênio que apesar de ser raro na Terra, está presente em grande quantidade no Sol. Seu processo de decaimento ocorre com meia-vida de 12 anos, segundo a reação:\n\n³₁H → ³₂He + β\n\nA massa, em gramas, de Hélio-3 produzida pelo decaimento de 1 mol de trítio após 24 anos é de:",
-   "alternativas": {
-    "a": "1,50",
-    "b": "0,50",
-    "c": "2,75",
-    "d": "2,25",
-    "e": "0,25"
-   },
-   "resposta": "d",
-   "explicacao": "Em 24 anos se passam duas meias-vidas (2×12 anos). De 1 mol de trítio, restam 1/4 mol (0,25 mol) sem decair e 3/4 mol (0,75 mol) decaem em Hélio-3; como a massa molar do ³He é 3 g/mol, a massa formada é 0,75×3=2,25 g.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-290",
-   "enunciado": "A eletrólise do cloreto de sódio dissolvido em água é a base da indústria de cloro e de álcali. Os produtos mais importantes desse processo são o cloro gasoso e o hidróxido de sódio.\n\n2 NaCl (aq) + 2 H2O (l) → 2 NaOH (aq) + H2 (g) + Cl2 (g)\n\nQuando, através desse processo, ocorre a produção de 800 kg de hidróxido de sódio, o volume produzido de cloro gasoso, medido nas CNTP, é de:",
-   "alternativas": {
-    "a": "2,24 x 10³ L",
-    "b": "448 L",
-    "c": "2,24 x 10⁵ L",
-    "d": "224 L",
-    "e": "4,48 x 10⁵ L\n\nDados: Massa molar (g.mol⁻¹) Na = 23, O = 16, H = 1"
-   },
-   "resposta": "c",
-   "explicacao": "800 kg (800.000 g) de NaOH (40 g/mol) correspondem a 20.000 mol; pela proporção 2 NaOH : 1 Cl2 da equação, formam-se 10.000 mol de Cl2, que nas CNTP ocupam 10.000×22,4 L = 2,24×10⁵ L.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-291",
-   "enunciado": "A mineração de ouro na Amazônia está associada a um grande problema: a utilização do mercúrio. O mercúrio é usado para separar o ouro de outros materiais, mas, devido à sua alta toxidade, constitui um grave problema ambiental. Numa das etapas da obtenção de mercúrio para utilização nesse tipo de garimpo, ocorre a redução do HgO. Esse óxido é aquecido junto com carvão, que atua como agente redutor. O carvão retira o oxigênio do óxido de mercúrio, deixando mercúrio livre. Se, nesse processo de redução do mercúrio, houver a transferência de uma carga de 10F (faradays), a quantidade máxima de mercúrio metálico obtido será de:",
-   "alternativas": {
-    "a": "50g",
-    "b": "250g",
-    "c": "400g",
-    "d": "500g",
-    "e": "1000g\n\nDados: Massa molar (g.mol⁻¹) Hg = 200"
-   },
-   "resposta": "e",
-   "explicacao": "Com transferência de 10 mol de elétrons (10 F) e sendo necessários 2 elétrons para reduzir cada Hg²⁺ a Hg metálico, formam-se 5 mol de Hg, que pesam 5×200=1000 g.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "med-quimica-307",
-   "enunciado": "Lâmpadas fluorescentes foram importantes substitutos de lâmpadas incandescentes, que tinham gastos\nenergéticos mais altos. Entretanto, as lâmpadas fluorescentes usam vapor de mercúrio em sua composição, o\nque torna seu descarte possivelmente prejudicial ao meio ambiente e, atualmente, alavanca sua\nsubstituição por lâmpadas de LED.\n\nUma lâmpada fluorescente de 40W tem volume interno de cerca de 200 mL e pressão interna do mercúrio de\n2,1 × 10⁻³ atm. Considerando a constante universal dos gases igual a 0,08 atm·L·mol⁻¹·K⁻¹, a massa de Hg\n(M = 200 g/mol) no interior dessa lâmpada, em miligramas, a uma temperatura de 300 K, é",
-   "alternativas": {
-    "a": "1,75.",
-    "b": "2,70.",
-    "c": "3,50.",
-    "d": "4,50.",
-    "e": "5,25."
-   },
-   "resposta": "c",
-   "explicacao": "Usando PV=nRT com P=2,1×10⁻³ atm, V=0,2 L, R=0,08 atm·L·mol⁻¹·K⁻¹ e T=300 K, calcula-se o número de mols de mercúrio e, multiplicando pela massa molar (200 g/mol), obtém-se a massa de Hg no interior da lâmpada.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "quimica-estequiometria",
-   "id": "eng-quimica-23",
-   "banca": "maua",
-   "sessao": "maua-inverno-2024",
-   "formato": "direta",
-   "dificuldade": "dificil",
-   "origem": "engenharia",
-   "enunciado": "Um fertilizante tem rótulo NPK 04 – 14 – 08, isto é, percentuais em massa de 4% de nitrogênio total, 14% de fósforo (como P₂O₅) e 8% de óxido de potássio (K₂O).\nConsidere a aplicação desse fertilizante em um terreno trapezoidal com bases de 15 m e 25 m e altura de 10 m. Sabendo que 1 hectare (ha) equivale a 10.000 m², e que o solo desse terreno necessita de 50 kg de nitrogênio por hectare, a quantidade mínima do fertilizante utilizada, para garantir essa necessidade, é de",
-   "alternativas": {
-    "a": "1 kg",
-    "b": "7 kg",
-    "c": "12 kg",
-    "d": "25 kg",
-    "e": "50 kg"
-   },
-   "resposta": "d",
-   "explicacao": "São três passos encaixados. A área do trapézio é (15 + 25)/2 × 10 = 200 m², o que equivale a 200/10 000 = 0,02 ha. A necessidade de nitrogênio é 50 × 0,02 = 1 kg. Só que 1 kg é a massa do NUTRIENTE, não a do fertilizante: como o produto tem apenas 4% de nitrogênio, são precisos 1/0,04 = 25 kg de fertilizante. Parar no segundo passo dá exatamente 1 kg, que é a alternativa oferecida para esse erro. Os números 14 e 8 do rótulo não entram na conta — a exigência declarada é só de nitrogênio."
-  }
- ],
  "quimica-organica": [
   {
    "subtema": "quimica-organica",
@@ -32395,6 +30990,24 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "quimica-organica",
+   "id": "med-quimica-197",
+   "texto_apoio": "Etanol e éter dimetílico têm a mesma fórmula molecular, C2H6O, e portanto a mesma massa molar, 46 g/mol. À pressão atmosférica, o etanol ferve a 78 °C e o éter dimetílico, a −24 °C.",
+   "enunciado": "A grande diferença entre os pontos de ebulição se explica porque:",
+   "alternativas": {
+    "a": "apenas o etanol possui hidrogênio ligado diretamente ao oxigênio e forma ligações de hidrogênio entre suas moléculas",
+    "b": "o etanol é composto iônico e o éter dimetílico é molecular, o que impõe ao primeiro um ponto de ebulição muito mais alto",
+    "c": "as ligações covalentes do etanol são mais fortes e exigem mais energia para ser rompidas na passagem ao estado gasoso",
+    "d": "o éter dimetílico é apolar e por isso não apresenta nenhuma interação entre suas moléculas no estado líquido",
+    "e": "a cadeia carbônica do etanol é maior, o que intensifica as forças de dispersão de London entre suas moléculas"
+   },
+   "resposta": "a",
+   "explicacao": "Com a mesma fórmula e a mesma massa molar, a diferença não pode vir do tamanho nem da massa das moléculas: as forças de dispersão são comparáveis, o que descarta a alternativa (e). No etanol, o hidrogênio ligado ao oxigênio permite ligações de hidrogênio, as mais intensas entre as forças intermoleculares; no éter, o oxigênio está entre dois carbonos e esse hidrogênio não existe. A alternativa (c) traz o erro conceitual mais comum do tema: ferver rompe interações entre moléculas, e não ligações dentro delas.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
    "id": "med-quimica-201",
    "texto_apoio": "A vitamina C tem em sua estrutura vários grupos hidroxila ligados a uma cadeia curta, enquanto a vitamina A é formada por uma longa cadeia carbônica com apenas um grupo hidroxila na extremidade. A primeira precisa ser reposta diariamente; a segunda se acumula no organismo e pode causar intoxicação em doses altas e prolongadas.",
    "enunciado": "A diferença de comportamento descrita relaciona-se à polaridade das moléculas, de modo que:",
@@ -32820,7 +31433,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "monômero, unidade estrutural simples que ainda não reagiu para formar uma cadeia maior",
     "b": "isômero, composto de mesma fórmula molecular e estrutura diferente de outro composto",
-    "c": "hidrocarboneto, composto formado exclusivamente por átomos de carbono e hidrogênio ao longo de toda a cadeia",
+    "c": "hidrocarboneto, composto formado apenas por átomos de carbono e hidrogênio ao longo da cadeia principal inteira",
     "d": "eletrólito, substância capaz de conduzir corrente elétrica quando dissolvida ou fundida",
     "e": "polímero, macromolécula formada pela repetição de unidades estruturais menores ligadas entre si"
    },
@@ -32998,7 +31611,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O naftaleno, usado antigamente em repelentes de traça, é formado por dois anéis benzênicos fundidos, cada um mantendo o padrão de ligações deslocalizadas do benzeno.",
    "enunciado": "A presença de anéis com esse padrão de ligação classifica o naftaleno como um hidrocarboneto:",
    "alternativas": {
-    "a": "alifático saturado, formado exclusivamente por ligações simples entre os átomos de carbono da cadeia",
+    "a": "alifático saturado, formado apenas por ligações simples entre os átomos de carbono da cadeia principal",
     "b": "alicíclico, formado por um anel fechado sem as ligações deslocalizadas típicas do benzeno",
     "c": "alifático insaturado, formado por uma cadeia aberta com duplas ligações isoladas entre carbonos",
     "d": "heterocíclico, por apresentar em seu anel um átomo diferente de carbono na composição da cadeia",
@@ -33323,6 +31936,42 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "quimica-solucoes",
+   "id": "dir-ciencias-natureza-75",
+   "texto_apoio": "Uma bolsa de gelo instantâneo, usada para tratar contusões, esfria rapidamente ao ser ativada, enquanto uma reação em uma fogueira libera grande quantidade de calor.",
+   "enunciado": "Do ponto de vista da termoquímica, reações que absorvem energia térmica do ambiente ao ocorrer, como a de uma bolsa de gelo instantâneo, são classificadas como",
+   "alternativas": {
+    "a": "exotérmicas, pois liberam para o ambiente ao redor o calor que estava armazenado nas ligações do sal antes de sua dissolução na água",
+    "b": "reações de dissolução, categoria à parte na termoquímica porque a energia envolvida na separação dos íons do sal não corresponde a uma ligação química rompida e sim a uma interação com as moléculas de água",
+    "c": "reações de equilíbrio, uma vez que a absorção de calor pode ser revertida pelo aquecimento externo da bolsa até que ela retorne ao estado inicial",
+    "d": "endotérmicas, pois absorvem calor do ambiente ao redor, o que reduz a temperatura da vizinhança, como ocorre na dissolução de certos sais usados em compressas frias",
+    "e": "catalíticas, por dependerem da presença de uma substância que acelera o processo"
+   },
+   "resposta": "d",
+   "explicacao": "Reações que absorvem calor do ambiente são endotérmicas, e a bolsa de gelo instantâneo resfria a vizinhança justamente por isso, ao dissolver certos sais. Classificar o caso como reação de dissolução à parte é o distrator mais difícil de recusar, porque a química que ele apresenta está correta — a energia envolvida é de interação com a água, e não de ligação rompida — e a conclusão não segue: a dissolução também é endotérmica ou exotérmica conforme o balanço energético. Chamá-la de exotérmica inverte o sentido do fluxo de calor observado. Tratá-la como reação de equilíbrio confunde reversibilidade com classificação térmica. E o termo catalítico se refere a quem acelera a reação, não a quanto calor ela troca.",
+   "dificuldade": "media",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "dir-ciencias-natureza-76",
+   "texto_apoio": "Produtos de limpeza doméstica, como vinagre (ácido) e soda cáustica (base), são utilizados no cotidiano de acordo com suas propriedades químicas.",
+   "enunciado": "Quando uma solução ácida e uma solução básica são misturadas em proporções adequadas, ocorre uma reação de neutralização, cujo resultado típico é a formação de",
+   "alternativas": {
+    "a": "uma substância de caráter anfótero, capaz de atuar como ácido diante de uma base e como base diante de um ácido, conforme o meio em que venha a ser dissolvida em uma etapa posterior",
+    "b": "um novo ácido, mais concentrado do que o original, formado pela soma dos íons de hidrogênio presentes nas duas soluções misturadas",
+    "c": "predominantemente gás hidrogênio, liberado à medida que os íons de hidrogênio do ácido se combinam entre si dentro da solução",
+    "d": "um óxido básico e gás carbônico, liberados na forma gasosa",
+    "e": "um sal e, frequentemente, água, com o pH da solução resultante tendendo a se aproximar da neutralidade, conforme as quantidades utilizadas"
+   },
+   "resposta": "e",
+   "explicacao": "A neutralização entre um ácido e uma base forma um sal e, com frequência, água, e o pH da mistura tende à neutralidade conforme as quantidades empregadas. A substância anfótera é o distrator mais atraente porque o conceito existe e é vizinho do assunto: anfótero é o que se comporta como ácido ou como base, e não o produto de uma neutralização. Supor um ácido mais concentrado inverte o efeito da reação, que consome íons de hidrogênio em vez de somá-los. O gás hidrogênio aparece em reações de metais com ácidos, não aqui. E óxido básico com gás carbônico descreve a decomposição de um carbonato, que é outra reação.",
+   "dificuldade": "media",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "quimica-solucoes",
    "id": "dir-ciencias-natureza-87",
    "texto_apoio": "Autoridades de saúde monitoram constantemente a ocorrência de doenças infecciosas para classificar sua magnitude e adotar medidas adequadas de resposta.",
    "enunciado": "Do ponto de vista epidemiológico, a diferença entre um \"surto\", uma \"epidemia\" e uma \"pandemia\" está relacionada, principalmente,",
@@ -33534,6 +32183,23 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A água ferve a 100 °C, enquanto os sais dissolvidos têm temperaturas de ebulição na casa dos milhares de graus. Aquecendo a mistura, apenas a água vaporiza e é condensada no coletor, restando os sais no balão. Filtração não separa soluto dissolvido, o que descarta (a).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-23",
+   "texto_apoio": "O peróxido de hidrogênio em solução aquosa decompõe-se lentamente em água e oxigênio. Ao se adicionar um pedaço de fígado cru à solução, observa-se efervescência intensa e imediata. O fígado contém a enzima catalase.",
+   "enunciado": "A catalase acelera a decomposição do peróxido porque:",
+   "alternativas": {
+    "a": "eleva a temperatura do meio reacional, fornecendo a energia necessária para que as moléculas de peróxido atinjam o estado de transição",
+    "b": "desloca o equilíbrio da reação no sentido dos produtos, aumentando a quantidade de oxigênio formada ao final do processo de decomposição",
+    "c": "aumenta a concentração de peróxido disponível na solução, o que eleva a frequência de colisões entre as moléculas de reagente presentes",
+    "d": "diminui a energia de ativação ao oferecer um caminho alternativo, o que amplia a fração de colisões com energia suficiente para reagir",
+    "e": "é consumida durante o processo, e sua degradação libera a energia necessária para que a decomposição do peróxido ocorra rapidamente"
+   },
+   "resposta": "d",
+   "explicacao": "Um catalisador oferece um caminho de menor energia de ativação, o que aumenta a fração de colisões efetivas e acelera a reação nos dois sentidos igualmente. Por isso não altera a posição do equilíbrio nem a quantidade final de produto, o que descarta (b), e não é consumido, o que descarta (e).",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -33783,6 +32449,23 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "quimica-solucoes",
+   "id": "med-quimica-85",
+   "texto_apoio": "Uma amostra de leite é analisada e apresenta pH em torno de 6,7. Após alguns dias em temperatura ambiente, nova medição indica pH próximo de 4,5, com coagulação das proteínas e alteração do sabor.",
+   "enunciado": "A queda do pH observada decorre da:",
+   "alternativas": {
+    "a": "oxidação das gorduras do leite pelo oxigênio atmosférico, processo que libera íons hidrogênio e acidifica progressivamente a amostra armazenada",
+    "b": "evaporação parcial da água presente no leite, o que concentra os componentes ácidos originalmente dissolvidos e reduz o valor medido de pH",
+    "c": "fermentação da lactose por bactérias lácticas, com produção de ácido lático, cujo acúmulo aproxima o meio do ponto isoelétrico das caseínas",
+    "d": "dissolução de gás carbônico do ar na amostra, que forma ácido carbônico em quantidade suficiente para reduzir o pH em mais de duas unidades",
+    "e": "desnaturação espontânea das proteínas, que expõe grupos ácidos antes ocultos no interior da estrutura enovelada de cada uma das moléculas"
+   },
+   "resposta": "c",
+   "explicacao": "Bactérias lácticas convertem a lactose em ácido lático, e o acúmulo desse ácido derruba o pH. Ao se aproximar do ponto isoelétrico da caseína, as proteínas perdem a repulsão que as mantinha dispersas e coagulam — a mesma reação usada deliberadamente na produção de iogurte e queijo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
    "id": "med-quimica-87",
    "texto_apoio": "Um frasco contém uma mistura de areia, sal de cozinha e limalha de ferro. O laboratorista precisa recuperar os três componentes separadamente, em estado sólido.",
    "enunciado": "A sequência de operações adequada é ______, seguida de ______, e por fim ______. As lacunas são preenchidas por:",
@@ -33986,6 +32669,23 @@ window.QUESTION_BANKS = {
    "explicacao": "Na expressão Ka = [H⁺]² ÷ [HA], tem-se [H⁺]² = 1,0 × 10⁻⁵ × 0,10 = 1,0 × 10⁻⁶, logo [H⁺] = 1,0 × 10⁻³ mol/L e pH = 3. A alternativa (e) é o erro mais comum do tema: ler o expoente do Ka como se fosse o pH. A alternativa (a) trataria o ácido como forte, com ionização total, o que daria [H⁺] = 0,10 mol/L.",
    "formato": "direta",
    "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-162",
+   "texto_apoio": "A hemoglobina liga-se de forma reversível tanto ao oxigênio quanto ao monóxido de carbono, este último com afinidade muito maior. Em uma intoxicação por monóxido, vale considerar o equilíbrio HbCO + O2 ⇌ HbO2 + CO. O tratamento consiste em administrar oxigênio puro, por vezes em câmara hiperbárica, sob pressão superior à atmosférica.",
+   "enunciado": "O tratamento descrito é eficaz porque:",
+   "alternativas": {
+    "a": "o oxigênio administrado reage com o monóxido de carbono do sangue e o converte em gás carbônico, depois eliminado pela expiração",
+    "b": "o aumento da concentração de oxigênio desloca o equilíbrio para a direita, o que regenera a hemoglobina ligada ao oxigênio e libera o monóxido para ser exalado",
+    "c": "a pressão elevada aumenta o valor da constante desse equilíbrio, e é esse aumento que torna a ligação do oxigênio mais forte que a do monóxido",
+    "d": "o oxigênio sob pressão destrói as hemoglobinas saturadas por monóxido e estimula a medula óssea a repor moléculas novas em poucas horas",
+    "e": "o monóxido de carbono se liga de forma irreversível à hemoglobina, e o oxigênio hiperbárico apenas se dissolve no plasma, sem interferir nesse equilíbrio"
+   },
+   "resposta": "b",
+   "explicacao": "Aumentar a concentração de um reagente desloca o equilíbrio no sentido de consumi-lo: mais oxigênio empurra a reação para a direita, refazendo a HbO2 e liberando o monóxido, que é exalado. A alternativa (c) comete o erro clássico de afirmar que a pressão altera a constante — só a temperatura faz isso; pressão e concentração deslocam a posição do equilíbrio sem mudar o valor de K. A (e) contraria o próprio enunciado, que descreve a ligação como reversível.",
+   "formato": "direta",
    "origem": "medicina"
   },
   {
@@ -34487,6 +33187,1164 @@ window.QUESTION_BANKS = {
    "explicacao": "Em 2 L de água dissolvem-se, no máximo, 2 × 659 = 1318 g de sal. Como foram colocados 2000 g, o excesso que fica como CORPO DE FUNDO é 2000 − 1318 = 682 g. A massa molar do K₂CrO₄ é 2(39,1) + 52,0 + 4(16,0) = 194,2 g/mol, então 682 g correspondem a 3,5 mol do sal. O último passo é a proporção da fórmula: cada K₂CrO₄ traz DOIS potássios, e por isso são 7,0 mol de K⁺. O valor 3,5 é o de quem para no sal e esquece o índice 2, e 682 é a massa em gramas oferecida como se fosse quantidade de matéria."
   }
  ],
+ "quimica-estequiometria": [
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "dir-ciencias-natureza-68",
+   "texto_apoio": "O tratamento de esgoto doméstico envolve diferentes etapas até que a água possa ser devolvida com segurança ao meio ambiente ou reaproveitada.",
+   "enunciado": "Nas estações de tratamento de esgoto, a etapa biológica do tratamento tem como principal função",
+   "alternativas": {
+    "a": "substituir a etapa de desinfecção por cloro, adicionando diretamente esse composto junto aos microrganismos utilizados na degradação",
+    "b": "utilizar microrganismos, como bactérias, para degradar a matéria orgânica do esgoto, reduzindo poluentes antes do descarte ou reaproveitamento da água tratada",
+    "c": "adicionar cloro à água para eliminar diretamente todos os microrganismos patogênicos, etapa que corresponde, na verdade, à desinfecção química, não ao tratamento biológico",
+    "d": "aplicar radiação ultravioleta para inativar microrganismos remanescentes",
+    "e": "aumentar artificialmente a quantidade de matéria orgânica presente no efluente tratado, efeito oposto à redução de carga orgânica buscada nessa etapa do tratamento"
+   },
+   "resposta": "b",
+   "explicacao": "Na etapa biológica do tratamento de esgoto, microrganismos (principalmente bactérias) são utilizados para degradar a matéria orgânica presente no efluente, reduzindo significativamente a quantidade de poluentes orgânicos antes de etapas posteriores, como a desinfecção, e do descarte ou reaproveitamento da água tratada, processo distinto da etapa de cloração aplicada especificamente ao tratamento de água potável.",
+   "dificuldade": "dificil",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "dir-ciencias-natureza-167",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Preço do ferro-gusa dispara com guerra\nA guerra entre a Rússia e a Ucrânia continua fazendo estragos na economia mundial, em especial nos setores que possuem commodities, que têm seu preço determinado pela oferta e procura internacional, entre as matérias-primas. A indústria da fundição, por exemplo, que tem enfrentado sucessivos aumentos no preço do ferro-gusa, acaba de receber mais um, agora de 60%, que vem a se somar aos reajustes de 41,6% praticados em janeiro e fevereiro.\n(Bianchetti, M. Diário do Comércio, 26/03/2022.)",
+   "enunciado": "O ferro-gusa é produzido a partir do minério de ferro em alto forno de acordo com a reação:\nFe₂O₃ + 3CO → 2Fe + 3CO₂\nEm um processo semelhante, 32000 kg de óxido de ferro (III) reagiram, e a quantidade máxima de ferro formado nesse processo corresponde, em kg, a:\nDados massas molares (g.mol⁻¹): Fe = 56; O = 16 e C = 12.",
+   "alternativas": {
+    "a": "28000",
+    "b": "22400",
+    "c": "17920",
+    "d": "2800",
+    "e": "2240"
+   },
+   "resposta": "b",
+   "explicacao": "A massa molar do Fe₂O₃ é 2 × 56 + 3 × 16 = 160 g/mol, então 32 000 kg correspondem a 200 kmol do óxido. Pela estequiometria, cada mol de Fe₂O₃ fornece 2 mols de Fe, logo são 400 kmol de ferro, que a 56 kg/kmol dão 22 400 kg. A alternativa 28 000 é a de quem esquece o fator 2 da equação; 17 920 sai de usar a massa do ferro sobre a do óxido sem a proporção molar.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-07",
+   "texto_apoio": "Um sinalizador de fumaça de embarcação contém clorato de sódio, que se decompõe quando aquecido segundo a equação: 2 NaClO3 → 2 NaCl + 3 O2. Considere as massas molares: NaClO3 = 106,5 g/mol e O2 = 32 g/mol.",
+   "enunciado": "A massa de clorato de sódio necessária para produzir 48 g de oxigênio é de, aproximadamente:",
+   "alternativas": {
+    "a": "71 g",
+    "b": "107 g",
+    "c": "160 g",
+    "d": "213 g",
+    "e": "320 g"
+   },
+   "resposta": "b",
+   "explicacao": "48 g de O2 correspondem a 1,5 mol. Pela estequiometria, 3 mol de O2 vêm de 2 mol de NaClO3, então 1,5 mol de O2 exige 1,0 mol de NaClO3, ou 106,5 g. A alternativa (c) resulta de usar a proporção invertida, e (d) de esquecer de converter a massa de oxigênio em quantidade de matéria.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-13",
+   "texto_apoio": "Um comprimido contém 500 mg de ácido acetilsalicílico, cuja massa molar é 180 g/mol.",
+   "enunciado": "A quantidade de matéria de princípio ativo presente em um comprimido é de, aproximadamente:",
+   "alternativas": {
+    "a": "2,8 mol",
+    "b": "0,28 mol",
+    "c": "2,8 × 10⁻³ mol",
+    "d": "9,0 × 10⁻³ mol",
+    "e": "3,6 × 10⁻⁴ mol"
+   },
+   "resposta": "c",
+   "explicacao": "Convertendo a massa: 500 mg equivalem a 0,500 g. Dividindo pela massa molar: 0,500 ÷ 180 ≈ 2,8 x 10⁻³ mol. As alternativas (a) e (b) resultam de esquecer a conversão de miligramas para gramas, erro de ordem de grandeza que as bancas exploram deliberadamente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-31",
+   "textoId": "med-med-qui-t3",
+   "enunciado": "Segundo o texto, a destilação comum não consegue elevar a concentração do etanol acima de cerca de 96% em massa porque, nesse ponto:",
+   "alternativas": {
+    "a": "a mistura forma um azeótropo, e vapor e líquido passam a ter a mesma composição",
+    "b": "o etanol começa a se decompor termicamente, o que impede que sua concentração continue a aumentar durante o aquecimento prolongado da mistura",
+    "c": "a temperatura de ebulição da água se iguala à do etanol, o que faz as duas substâncias passarem simultaneamente ao estado de vapor",
+    "d": "a água restante fica ligada quimicamente ao etanol por ligações covalentes, formando um composto que não pode mais ser separado por aquecimento",
+    "e": "o vapor produzido passa a conter apenas água, de modo que o destilado recolhido deixa de contribuir para o aumento do teor alcoólico obtido"
+   },
+   "resposta": "a",
+   "explicacao": "No azeótropo, a composição do vapor em equilíbrio iguala a do líquido, e cada nova etapa de destilação reproduz a mesma mistura. Não é decomposição nem ligação química: as duas substâncias continuam distintas, apenas deixam de se separar por esse método. O anidro exige uma etapa adicional, como peneira molecular.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-32",
+   "textoId": "med-med-qui-t3",
+   "enunciado": "O texto afirma que a vantagem energética da gasolina sobre o etanol cai de forma expressiva quando a comparação passa de mol para grama. Isso ocorre porque:",
+   "alternativas": {
+    "a": "a gasolina contém aditivos que reduzem seu poder calorífico quando medido em relação à massa em vez da quantidade de matéria empregada",
+    "b": "o octano tem massa molar de cerca de 114 g/mol contra 46 g/mol do etanol, e um mol de gasolina corresponde assim a muito mais massa",
+    "c": "a combustão do etanol é sempre completa, enquanto a da gasolina libera parte da energia na forma de monóxido de carbono não aproveitado",
+    "d": "a densidade do etanol é maior que a da gasolina, o que faz um mesmo volume conter mais massa de combustível no caso do álcool hidratado",
+    "e": "as entalpias de combustão informadas no texto se referem a condições de temperatura e pressão diferentes para cada combustível"
+   },
+   "resposta": "b",
+   "explicacao": "O octano tem massa molar em torno de 114 g/mol e o etanol, 46 g/mol. Ao dividir a energia liberada pela massa correspondente, a diferença por mol se comprime bastante. É um caso clássico de por que a base de comparação escolhida muda a conclusão sem que nenhum dado esteja errado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-33",
+   "texto_apoio": "Um cilindro contém gás oxigênio a 27 °C e pressão de 5,0 atm, ocupando volume de 12 L. Considere a constante universal dos gases R = 0,082 atm·L·mol⁻¹·K⁻¹.",
+   "enunciado": "A quantidade de matéria de oxigênio contida no cilindro é de, aproximadamente:",
+   "alternativas": {
+    "a": "0,49 mol",
+    "b": "1,2 mol",
+    "c": "2,4 mol",
+    "d": "7,3 mol",
+    "e": "24 mol"
+   },
+   "resposta": "c",
+   "explicacao": "Pela equação de Clapeyron, n = PV/RT. A temperatura precisa estar em kelvin: 27 °C correspondem a 300 K. Assim n = (5,0 x 12) ÷ (0,082 x 300) = 60 ÷ 24,6 ≈ 2,4 mol. A alternativa (d) resulta de usar a temperatura em graus Celsius, erro que a questão testa deliberadamente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-41",
+   "texto_apoio": "Uma peça metálica é submetida a galvanoplastia para receber uma camada de prata. A eletrólise é conduzida com corrente de 5,0 A durante 1.930 segundos, em solução contendo íons Ag⁺. Considere a constante de Faraday igual a 96.500 C/mol e a massa molar da prata igual a 108 g/mol.",
+   "enunciado": "A massa de prata depositada sobre a peça é de, aproximadamente:",
+   "alternativas": {
+    "a": "1,08 g",
+    "b": "5,40 g",
+    "c": "10,8 g",
+    "d": "21,6 g",
+    "e": "54,0 g"
+   },
+   "resposta": "c",
+   "explicacao": "A carga total é Q = i x t = 5,0 x 1.930 = 9.650 C. Dividindo pela constante de Faraday, obtém-se 0,10 mol de elétrons. Como Ag⁺ recebe um elétron por átomo, formam-se 0,10 mol de prata, ou 10,8 g. A alternativa (d) resulta de supor dois elétrons por íon, carga que a prata não apresenta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-49",
+   "texto_apoio": "O ferro é obtido industrialmente em alto-forno, a partir da hematita (Fe2O3), com uso de carvão coque e calcário. O monóxido de carbono formado no processo reage com o óxido de ferro, liberando o metal.",
+   "enunciado": "Na reação Fe2O3 + 3 CO → 2 Fe + 3 CO2, o agente redutor e a espécie que sofre redução são, respectivamente:",
+   "alternativas": {
+    "a": "o coque e o oxigênio atmosférico injetado, par que responde diretamente pela transferência de elétrons observada durante o processo descrito",
+    "b": "a hematita e o carbono do monóxido, uma vez que é o carbono que apresenta aumento do seu número de oxidação ao longo de toda a transformação",
+    "c": "o ferro metálico e o gás carbônico formado, espécies em que os elementos atingem seus estados de oxidação mais estáveis nas condições do forno",
+    "d": "o calcário adicionado e o oxigênio presente na hematita, que se combinam formando escória e liberando o metal em estado de pureza elevada",
+    "e": "o monóxido de carbono e o ferro do óxido"
+   },
+   "resposta": "e",
+   "explicacao": "O carbono passa de +2 no monóxido para +4 no gás carbônico: oxida, e por isso o monóxido é o agente redutor. O ferro passa de +3 no óxido para zero no metal: reduz. A alternativa (b) inverte os papéis, trocando quem oxida por quem se reduz — a confusão mais comum nesse tipo de item.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-51",
+   "texto_apoio": "Uma amostra de 4,6 g de um composto orgânico contém 2,4 g de carbono, 0,6 g de hidrogênio e o restante de oxigênio. Sua massa molar é 46 g/mol. Considere as massas molares: C = 12, H = 1 e O = 16 g/mol.",
+   "enunciado": "As fórmulas mínima e molecular do composto são, respectivamente:",
+   "alternativas": {
+    "a": "C2H6O e C4H12O2",
+    "b": "CH3O e C2H6O2",
+    "c": "CH2O e C2H4O2",
+    "d": "C2H6O e C2H6O",
+    "e": "CHO e C2H2O2"
+   },
+   "resposta": "d",
+   "explicacao": "As quantidades são 0,2 mol de C, 0,6 mol de H e 1,6 g de O, que dão 0,1 mol. A proporção 2:6:1 já é a fórmula mínima C2H6O, cuja massa é 46 g/mol — igual à massa molar informada. Logo mínima e molecular coincidem, e o composto é o etanol.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-52",
+   "texto_apoio": "Um esquema mostra três recipientes fechados de mesmo volume, à mesma temperatura, contendo respectivamente gás hélio, gás nitrogênio e gás carbônico. Todos apresentam o mesmo número de moléculas.",
+   "enunciado": "Nessas condições, os três recipientes apresentam:",
+   "alternativas": {
+    "a": "pressões proporcionais às massas molares, de modo que o recipiente com gás carbônico apresenta a maior pressão entre os três analisados",
+    "b": "a mesma pressão e as mesmas massas, uma vez que o número de partículas é idêntico nos três recipientes considerados no enunciado",
+    "c": "pressões diferentes e massas iguais, resultado da diferença entre as massas molares das três substâncias gasosas presentes nos frascos",
+    "d": "a mesma pressão e massas diferentes, já que a pressão depende do número de partículas e a massa depende da massa molar de cada gás",
+    "e": "pressões diferentes e volumes molares distintos, condição que decorre das diferentes forças intermoleculares atuantes em cada um dos gases"
+   },
+   "resposta": "d",
+   "explicacao": "Pela equação dos gases ideais, a pressão depende de quantidade de matéria, volume e temperatura — todos iguais aqui —, e não da identidade do gás. Já a massa depende da massa molar, que difere entre hélio, nitrogênio e gás carbônico. É a hipótese de Avogadro aplicada a um caso concreto.",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/med/qui-tres-recipientes.svg",
+    "descricao": "Três recipientes fechados de mesmo volume, à mesma temperatura, contendo respectivamente gás hélio, gás nitrogênio e gás carbônico. Todos apresentam o mesmo número de moléculas."
+   },
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-56",
+   "texto_apoio": "Um recipiente fechado contém o equilíbrio 2 NO2(g) ⇌ N2O4(g), com variação de entalpia negativa no sentido direto. O dióxido de nitrogênio é castanho e o tetróxido é incolor. O recipiente é mergulhado em banho de gelo.",
+   "enunciado": "Após o resfriamento, espera-se que a mistura no recipiente:",
+   "alternativas": {
+    "a": "escureça, porque a queda de temperatura desloca o equilíbrio no sentido do gás castanho, que absorve calor ao ser formado no processo",
+    "b": "clareie, porque o gelo condensa parte do dióxido de nitrogênio na parede do recipiente e reduz sua concentração na fase gasosa remanescente",
+    "c": "mantenha a coloração original, uma vez que a temperatura não interfere na posição de equilíbrios que envolvem apenas substâncias gasosas",
+    "d": "escureça, porque a redução da temperatura diminui a pressão interna e favorece o lado com maior número de mols de gás presente no sistema",
+    "e": "clareie, porque a retirada de calor desloca o equilíbrio no sentido que libera calor, que neste caso é o da formação do tetróxido incolor"
+   },
+   "resposta": "e",
+   "explicacao": "Retirar calor desloca o equilíbrio no sentido que libera calor, o exotérmico — aqui, o da formação do tetróxido incolor. A mistura clareia. A alternativa (a) acerta o princípio e erra o sentido, atribuindo ao lado castanho a liberação de calor que o enunciado atribui ao lado oposto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-64",
+   "texto_apoio": "Uma reação ocorre em duas etapas: a etapa I, lenta, é A + B → C; a etapa II, rápida, é C + B → D. A soma das duas corresponde à equação global A + 2 B → D.",
+   "enunciado": "A lei de velocidade experimental esperada para essa reação é:",
+   "alternativas": {
+    "a": "v = k[A][B], expressão que reproduz os reagentes da etapa I, a mais lenta das duas e por isso determinante da velocidade global",
+    "b": "v = k[A][B]², expressão que decorre diretamente dos coeficientes estequiométricos da equação global apresentada no enunciado da questão",
+    "c": "v = k[C][B], já que o intermediário formado na primeira etapa é o reagente que participa da etapa determinante da velocidade global",
+    "d": "v = k[D], uma vez que a velocidade de uma reação é sempre proporcional à concentração do produto formado ao longo do processo",
+    "e": "v = k[A] + k[B], soma que reflete a contribuição independente de cada um dos dois reagentes presentes na mistura reacional inicial"
+   },
+   "resposta": "a",
+   "explicacao": "A velocidade global é determinada pela etapa lenta, e a lei de velocidade reflete os reagentes dela. Como a etapa I envolve um A e um B, a expressão é v = k[A][B]. Deduzir a lei dos coeficientes da equação global, como em (b), só vale por acaso quando a reação ocorre em etapa única.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-66",
+   "texto_apoio": "Uma amostra de água apresenta concentração de íons fluoreto igual a 0,7 mg/L, valor considerado adequado para prevenção de cárie. A massa molar do fluoreto é 19 g/mol.",
+   "enunciado": "Essa concentração, expressa em partes por milhão, corresponde a:",
+   "alternativas": {
+    "a": "0,07 ppm",
+    "b": "0,7 ppm",
+    "c": "7 ppm",
+    "d": "70 ppm",
+    "e": "700 ppm"
+   },
+   "resposta": "b",
+   "explicacao": "Para soluções aquosas diluídas, cuja densidade é próxima de 1 g/mL, um litro pesa cerca de 1.000 g ou 10⁶ mg. Assim, 0,7 mg por litro equivale a 0,7 mg por 10⁶ mg de solução, ou seja, 0,7 ppm. A equivalência entre mg/L e ppm em meio aquoso é a chave da questão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-76",
+   "texto_apoio": "Uma tabela compara três óleos e gorduras quanto ao número de insaturações por cadeia: o material I é rico em cadeias sem duplas ligações; o II apresenta uma dupla por cadeia; o III apresenta duas ou mais duplas por cadeia.",
+   "enunciado": "Espera-se que, à temperatura ambiente, o material I e o material III estejam, respectivamente, nos estados:",
+   "alternativas": {
+    "a": "gasoso e líquido, condição decorrente da diferença de massa molar entre cadeias saturadas e cadeias que apresentam múltiplas insaturações",
+    "b": "líquido e sólido, porque as duplas ligações aumentam a área de contato entre cadeias vizinhas e intensificam as forças de dispersão atuantes",
+    "c": "sólido e sólido, uma vez que o grau de insaturação não influencia o estado físico de compostos de cadeia longa nas condições ambientes",
+    "d": "líquido e líquido, já que todos os triglicerídeos apresentam temperaturas de fusão bem abaixo da temperatura ambiente considerada",
+    "e": "sólido e líquido, porque as insaturações dificultam o empacotamento das cadeias e reduzem as interações entre elas"
+   },
+   "resposta": "e",
+   "explicacao": "Cadeias saturadas são lineares e se empilham bem, com forças de dispersão somando ao longo de todo o comprimento: fundem em temperatura mais alta e são sólidas, como as gorduras animais. Duplas em configuração cis dobram a cadeia e impedem o empacotamento, o que baixa a fusão — daí os óleos vegetais serem líquidos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-82",
+   "texto_apoio": "A fissão nuclear do urânio-235 libera energia da ordem de 2 × 10¹⁰ kJ por mol, enquanto a combustão do metano libera cerca de 890 kJ por mol. Reatores nucleares aproveitam a primeira; termelétricas a gás, a segunda.",
+   "enunciado": "A diferença de várias ordens de grandeza entre os dois valores decorre de que, na fissão:",
+   "alternativas": {
+    "a": "os elétrons das camadas mais internas participam do processo, e sua energia de ligação supera em muito a dos elétrons de valência envolvidos",
+    "b": "o número de ligações químicas rompidas por mol é muito superior ao observado na combustão de um hidrocarboneto de cadeia curta como o metano",
+    "c": "a reação ocorre em temperatura muito mais elevada, o que amplia proporcionalmente a quantidade de energia liberada por unidade de matéria",
+    "d": "há conversão de massa em energia, envolvendo forças do núcleo atômico, de escala muito superior à das ligações químicas entre os átomos",
+    "e": "o urânio possui massa molar muito superior à do metano, e a energia liberada é diretamente proporcional à massa dos átomos envolvidos"
+   },
+   "resposta": "d",
+   "explicacao": "Reações químicas rearranjam elétrons de valência; a fissão altera o próprio núcleo, e parte da massa se converte em energia conforme a relação de Einstein. As forças envolvidas são de outra escala, e daí a diferença de ordens de grandeza. Nenhuma ligação química é rompida no processo, o que descarta (b).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-88",
+   "texto_apoio": "Uma amostra de 100 g de calcário impuro reage com ácido clorídrico em excesso e libera 8,8 g de gás carbônico. Considere as massas molares: CaCO3 = 100 g/mol e CO2 = 44 g/mol, e que apenas o carbonato de cálcio reage.",
+   "enunciado": "O grau de pureza da amostra de calcário é de:",
+   "alternativas": {
+    "a": "8,8%",
+    "b": "88%",
+    "c": "44%",
+    "d": "80%",
+    "e": "20%"
+   },
+   "resposta": "e",
+   "explicacao": "8,8 g de gás carbônico correspondem a 0,20 mol. Pela estequiometria 1:1, reagiram 0,20 mol de carbonato de cálcio, ou 20 g. Numa amostra de 100 g, isso corresponde a 20% de pureza. A alternativa (b) resulta de tomar a massa de gás como se fosse a massa de carbonato.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-90",
+   "texto_apoio": "Um recipiente fechado contém o equilíbrio N2O4(g) ⇌ 2 NO2(g). Partindo de 1,0 mol de N2O4 num volume de 1,0 L, o sistema atinge o equilíbrio com 0,20 mol de N2O4 remanescente.",
+   "enunciado": "O grau de dissociação do N2O4 e a quantidade de NO2 formada no equilíbrio são, respectivamente:",
+   "alternativas": {
+    "a": "80% e 0,80 mol",
+    "b": "20% e 0,40 mol",
+    "c": "80% e 1,6 mol",
+    "d": "40% e 1,6 mol",
+    "e": "20% e 1,6 mol"
+   },
+   "resposta": "c",
+   "explicacao": "Dissociaram-se 0,80 mol dos 1,0 mol iniciais, o que dá grau de 80%. Pela estequiometria, cada mol de N2O4 gera dois de NO2: 0,80 x 2 = 1,6 mol. A alternativa (a) acerta o grau e esquece o coeficiente 2, e (b) toma o remanescente como se fosse o dissociado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-93",
+   "texto_apoio": "Reagem 10 g de gás hidrogênio com 160 g de gás oxigênio para formar água, segundo a equação 2 H2 + O2 → 2 H2O. Considere as massas molares: H2 = 2 g/mol e O2 = 32 g/mol.",
+   "enunciado": "O reagente limitante e a massa de água formada são, respectivamente:",
+   "alternativas": {
+    "a": "o oxigênio e 90 g, uma vez que a quantidade de matéria desse gás é insuficiente para consumir todo o hidrogênio colocado no recipiente",
+    "b": "o hidrogênio e 90 g, pois os 5,0 mol de H2 exigiriam apenas 2,5 mol de O2, e sobra oxigênio no recipiente ao final da reação",
+    "c": "o oxigênio e 45 g, valor que corresponde à metade da massa total dos dois gases que foram colocados a reagir no início do experimento",
+    "d": "o hidrogênio e 170 g, quantidade que resulta da soma das massas dos dois reagentes empregados na transformação química descrita acima",
+    "e": "nenhum deles, pois os dois gases estão em proporção estequiométrica exata e são integralmente consumidos"
+   },
+   "resposta": "b",
+   "explicacao": "São 5,0 mol de hidrogênio e 5,0 mol de oxigênio. A proporção exige 2 de hidrogênio para 1 de oxigênio, então os 5,0 mol de hidrogênio consomem apenas 2,5 mol de oxigênio: o hidrogênio é o limitante e sobra oxigênio. Formam-se 5,0 mol de água, ou 90 g.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-94",
+   "texto_apoio": "Um recipiente de 10 L contém uma mistura gasosa a 27 °C composta por 0,20 mol de nitrogênio e 0,30 mol de oxigênio. Considere R = 0,082 atm·L·mol⁻¹·K⁻¹.",
+   "enunciado": "A pressão parcial do oxigênio e a pressão total da mistura são, respectivamente:",
+   "alternativas": {
+    "a": "0,74 atm e 1,23 atm, valores obtidos ao aplicar a equação de Clapeyron ao oxigênio e, em seguida, ao total de 0,50 mol da mistura a 300 K",
+    "b": "1,23 atm e 0,74 atm, valores que decorrem da aplicação da equação de Clapeyron a cada um dos gases presentes na mistura considerada",
+    "c": "0,49 atm e 1,23 atm, resultado obtido ao se considerar a fração molar do nitrogênio como base para o cálculo da pressão parcial pedida",
+    "d": "0,74 atm e 0,74 atm, uma vez que a pressão total de uma mistura gasosa corresponde à maior das pressões parciais dos componentes presentes",
+    "e": "2,46 atm e 4,10 atm, valores que resultam do uso da temperatura em graus Celsius na aplicação da equação geral dos gases ideais"
+   },
+   "resposta": "a",
+   "explicacao": "Pela lei de Dalton, cada gás exerce a pressão que teria sozinho no volume total. Para o oxigênio: P = (0,30 x 0,082 x 300) ÷ 10 = 0,74 atm. A pressão total corresponde a 0,50 mol: (0,50 x 0,082 x 300) ÷ 10 = 1,23 atm — igual à soma das parciais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-102",
+   "texto_apoio": "O gás hidrogênio e o gás hélio, ambos a 25 °C, escapam por um pequeno orifício de um recipiente. Mede-se o tempo necessário para que a mesma quantidade de matéria de cada gás atravesse o orifício. As massas molares são 2 g/mol e 4 g/mol, respectivamente.",
+   "enunciado": "A relação entre as velocidades de efusão do hidrogênio e do hélio é de, aproximadamente:",
+   "alternativas": {
+    "a": "igual para os dois gases, uma vez que ambos se encontram à mesma temperatura e portanto possuem a mesma energia cinética média por molécula",
+    "b": "2,0 vezes maior para o hidrogênio, valor que corresponde diretamente à razão entre as massas molares dos dois gases considerados no experimento",
+    "c": "1,4 vez maior para o hélio, em razão de sua maior massa molar e da consequente redução da energia cinética média de suas partículas",
+    "d": "4,0 vezes maior para o hidrogênio, resultado do quadrado da razão entre as massas molares dos dois gases envolvidos na comparação feita",
+    "e": "1,4 vez maior para o hidrogênio, número que corresponde à raiz quadrada da razão entre as massas molares dos dois gases considerados"
+   },
+   "resposta": "e",
+   "explicacao": "Pela lei de Graham, a velocidade de efusão é inversamente proporcional à raiz quadrada da massa molar. A razão é a raiz de 4/2, ou seja, raiz de 2, cerca de 1,4. A alternativa (b) usa a razão direta das massas, esquecendo a raiz quadrada — o erro que a lei justamente corrige.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-103",
+   "texto_apoio": "Uma tabela apresenta as energias médias de ligação: H–H = 436 kJ/mol; Cl–Cl = 243 kJ/mol; H–Cl = 431 kJ/mol. Considere a reação H2(g) + Cl2(g) → 2 HCl(g).",
+   "enunciado": "A variação de entalpia da reação, calculada a partir das energias de ligação, é de:",
+   "alternativas": {
+    "a": "−862 kJ",
+    "b": "+183 kJ",
+    "c": "−248 kJ",
+    "d": "+248 kJ",
+    "e": "−183 kJ"
+   },
+   "resposta": "e",
+   "explicacao": "Romper as ligações dos reagentes consome 436 + 243 = 679 kJ. Formar duas ligações H–Cl libera 2 x 431 = 862 kJ. O saldo é 679 − 862 = −183 kJ: exotérmica. Inverter a ordem da subtração produz o valor positivo de (b), que é o erro mais frequente nesse cálculo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-104",
+   "texto_apoio": "Um esquema representa uma cuba eletrolítica com duas células ligadas em série, contendo respectivamente solução de nitrato de prata e solução de sulfato de cobre. A mesma corrente atravessa as duas células durante o mesmo intervalo de tempo.",
+   "enunciado": "Nessas condições, a razão entre as quantidades de matéria de prata e de cobre depositadas é:",
+   "alternativas": {
+    "a": "4:1, resultado da combinação entre a diferença de carga dos íons e a diferença entre as massas molares dos dois metais considerados",
+    "b": "1:1, uma vez que a mesma quantidade de carga atravessa as duas células ao longo do mesmo intervalo de tempo em que a corrente circula",
+    "c": "1:2, porque o cobre apresenta massa molar inferior à da prata e deposita, portanto, o dobro de átomos para a mesma carga fornecida ao sistema",
+    "d": "108:64, razão que corresponde diretamente à proporção entre as massas molares dos dois metais envolvidos no processo eletrolítico descrito",
+    "e": "2:1, porque a prata precisa de um elétron por átomo e o cobre, de dois, e a mesma carga atravessa as duas células no mesmo intervalo"
+   },
+   "resposta": "e",
+   "explicacao": "A mesma carga atravessa as duas células, mas Ag⁺ precisa de um elétron por átomo e Cu²⁺ de dois. Com o mesmo número de elétrons, deposita-se o dobro de mols de prata em relação ao de cobre. Massa molar afeta a massa depositada, e não a quantidade de matéria, o que descarta (d).",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/med/qui-eletrolise-serie.svg",
+    "descricao": "Uma cuba eletrolítica com duas células ligadas em série, contendo respectivamente solução de nitrato de prata e solução de sulfato de cobre. A mesma corrente atravessa as duas células durante o mesmo intervalo de tempo."
+   },
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-105",
+   "texto_apoio": "Uma amostra de carbonato de cálcio é aquecida e se decompõe em óxido de cálcio e gás carbônico. Ao final do experimento, obtêm-se 2,24 g de óxido de cálcio. O rendimento teórico previsto pela estequiometria é de 2,80 g.",
+   "enunciado": "O rendimento percentual da reação é de:",
+   "alternativas": {
+    "a": "22,4%",
+    "b": "44,8%",
+    "c": "56%",
+    "d": "125%",
+    "e": "80%"
+   },
+   "resposta": "e",
+   "explicacao": "Rendimento é a razão entre o obtido e o teórico: 2,24 ÷ 2,80 = 0,80, ou 80%. A alternativa (d) inverte a razão, produzindo um valor acima de 100% — impossível, já que não se obtém mais produto do que a estequiometria permite.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-114",
+   "texto_apoio": "Uma amostra contém uma amina primária e uma amida, ambas com quatro átomos de carbono. Testes indicam que a amina apresenta caráter básico em água, enquanto a amida é praticamente neutra.",
+   "enunciado": "A diferença de basicidade entre os dois compostos se explica porque, na amida:",
+   "alternativas": {
+    "a": "a presença do oxigênio confere caráter ácido à molécula, que passa a doar prótons em vez de recebê-los quando dissolvida em meio aquoso",
+    "b": "o nitrogênio se encontra ligado a um número maior de átomos de carbono, o que impede estericamente a aproximação de qualquer próton do meio",
+    "c": "o par de elétrons do nitrogênio é deslocalizado por ressonância com a carbonila vizinha e fica menos disponível para capturar um próton",
+    "d": "o nitrogênio perde completamente seu par de elétrons não ligante ao formar a ligação com o carbono da carbonila presente na estrutura",
+    "e": "a molécula apresenta massa molar mais elevada, o que reduz proporcionalmente sua capacidade de interagir com as moléculas de água do meio"
+   },
+   "resposta": "c",
+   "explicacao": "A basicidade depende da disponibilidade do par de elétrons do nitrogênio para capturar um próton. Na amida, esse par é deslocalizado por ressonância com a carbonila, e fica muito menos disponível. O par não desaparece, o que descarta (d) — ele apenas se distribui pela estrutura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-124",
+   "texto_apoio": "Uma amostra de 5,6 L de gás nitrogênio, medida nas condições normais de temperatura e pressão, reage completamente com hidrogênio para formar amônia. Nas CNTP, um mol de qualquer gás ocupa 22,4 L.",
+   "enunciado": "A quantidade de matéria de amônia formada é de:",
+   "alternativas": {
+    "a": "0,25 mol",
+    "b": "0,50 mol",
+    "c": "1,00 mol",
+    "d": "2,00 mol",
+    "e": "5,60 mol"
+   },
+   "resposta": "b",
+   "explicacao": "5,6 L nas CNTP correspondem a 0,25 mol de nitrogênio. Pela equação N2 + 3 H2 → 2 NH3, cada mol de nitrogênio gera dois de amônia: 0,25 x 2 = 0,50 mol. A alternativa (a) esquece o coeficiente 2 e apresenta a quantidade do reagente em vez da do produto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-129",
+   "texto_apoio": "Um esquema apresenta o mecanismo de destruição do ozônio estratosférico por clorofluorcarbonos. A radiação ultravioleta rompe a ligação carbono-cloro, liberando um átomo de cloro que reage com o ozônio e é regenerado ao final do ciclo.",
+   "enunciado": "O fato de o átomo de cloro ser regenerado ao final de cada ciclo significa que ele atua como:",
+   "alternativas": {
+    "a": "agente redutor, que transfere elétrons ao ozônio e o converte em oxigênio molecular numa reação que se encerra após uma única etapa",
+    "b": "reagente limitante, consumido integralmente ao longo do processo e responsável por determinar a extensão máxima da destruição observada",
+    "c": "produto intermediário estável, que se acumula na estratosfera e reduz progressivamente a velocidade da reação de destruição do ozônio",
+    "d": "inibidor da reação, cuja presença retarda a decomposição natural do ozônio que ocorreria mesmo na ausência de compostos clorados na atmosfera",
+    "e": "catalisador, e por isso um único átomo de cloro percorre o ciclo milhares de vezes seguidas, destruindo milhares de moléculas de ozônio"
+   },
+   "resposta": "e",
+   "explicacao": "Ser regenerado ao final do ciclo é a definição operacional de catalisador. Por isso a relação entre quantidade de CFC emitido e ozônio destruído é desproporcional — um átomo de cloro percorre o ciclo milhares de vezes antes de ser removido, e é isso que torna o problema tão persistente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-131",
+   "texto_apoio": "Considere o equilíbrio em fase gasosa 2 SO2(g) + O2(g) ⇌ 2 SO3(g), estabelecido em recipiente fechado a temperatura constante. Foram medidas a constante em termos de concentração, Kc, e a constante em termos de pressão parcial, Kp.",
+   "enunciado": "Sobre a relação entre Kc e Kp nesse equilíbrio, é correto afirmar que:",
+   "alternativas": {
+    "a": "os valores só podem ser comparados após a conversão de todas as pressões parciais em frações molares dos componentes presentes na mistura",
+    "b": "os valores são sempre idênticos, uma vez que ambos descrevem o mesmo estado de equilíbrio atingido pelo sistema nas condições estabelecidas",
+    "c": "os valores são diferentes apenas em temperaturas superiores a cem graus Celsius, faixa em que o comportamento dos gases se afasta da idealidade",
+    "d": "a constante em pressão é sempre maior, independentemente da estequiometria da reação considerada e das condições em que o equilíbrio se estabelece",
+    "e": "os valores são diferentes, porque há variação no número de mols de gás entre reagentes e produtos"
+   },
+   "resposta": "e",
+   "explicacao": "As duas constantes se relacionam por um fator que depende da variação no número de mols de gás. Aqui, três mols de reagentes gasosos produzem dois de produto: a variação não é nula e os valores diferem. Só coincidiriam se o número de mols gasosos fosse igual nos dois lados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-137",
+   "texto_apoio": "Análises forenses usam o teste de luminol para detectar vestígios de sangue em superfícies aparentemente limpas. Na presença de ferro da hemoglobina, o luminol reage com peróxido de hidrogênio e emite luz azulada visível no escuro.",
+   "enunciado": "O papel do ferro presente na hemoglobina nessa reação é o de:",
+   "alternativas": {
+    "a": "inibidor da decomposição espontânea do peróxido, o que prolonga a duração da emissão luminosa e facilita o registro fotográfico da cena",
+    "b": "fonte da luz emitida, uma vez que os elétrons do átomo de ferro são excitados e liberam fótons ao retornarem ao seu estado fundamental",
+    "c": "reagente consumido em proporção estequiométrica com o luminol, o que permite quantificar a massa de sangue presente na superfície analisada",
+    "d": "catalisador da oxidação do luminol pelo peróxido de hidrogênio, reação que se torna rápida sem que o próprio ferro seja consumido por ela",
+    "e": "solvente do luminol, que sem essa mediação permaneceria insolúvel e incapaz de entrar em contato com o peróxido aplicado sobre a superfície"
+   },
+   "resposta": "d",
+   "explicacao": "O ferro acelera a oxidação do luminol sem ser consumido, o que caracteriza catálise. O produto dessa oxidação é formado em estado excitado e emite luz ao decair — a quimiluminescência. A luz vem do produto orgânico, e não do ferro, o que descarta (b).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-151",
+   "texto_apoio": "Em um recipiente fechado de 1,0 L, mantido a 440 °C, foram colocados 1,0 mol de H2 e 1,0 mol de I2. Estabelecido o equilíbrio H2(g) + I2(g) ⇌ 2 HI(g), verificou-se que restavam 0,20 mol de H2.",
+   "enunciado": "O valor da constante de equilíbrio Kc, nessa temperatura, é:",
+   "alternativas": {
+    "a": "40",
+    "b": "2,56",
+    "c": "16",
+    "d": "64",
+    "e": "0,016"
+   },
+   "resposta": "d",
+   "explicacao": "Reagiram 0,80 mol de H2 e, pela proporção 1:1:2, restam 0,20 mol de I2 e formam-se 1,60 mol de HI. Como o volume é 1,0 L, esses números já são as concentrações. Kc = (1,60)² ÷ (0,20 × 0,20) = 2,56 ÷ 0,04 = 64. A alternativa (a) é de quem não eleva a concentração de HI ao quadrado, e a (c), de quem usa 0,80 como concentração do HI, esquecendo o coeficiente 2 da equação.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-152",
+   "texto_apoio": "Nas altas temperaturas do interior dos motores de combustão, nitrogênio e oxigênio do ar reagem segundo N2(g) + O2(g) ⇌ 2 NO(g). O monóxido de nitrogênio formado é um dos precursores da poluição fotoquímica nas grandes cidades.",
+   "enunciado": "Reduzindo-se à metade o volume do recipiente em que esse equilíbrio se estabeleceu, a temperatura constante, o que ocorre com a posição do equilíbrio?",
+   "alternativas": {
+    "a": "Desloca-se para a direita, pois o aumento da pressão sempre favorece a formação dos produtos em sistemas gasosos.",
+    "b": "Desloca-se para a esquerda, porque a compressão aproxima as moléculas e favorece a reação inversa, que é a mais lenta das duas.",
+    "c": "Desloca-se para a direita, porque o volume menor aumenta a frequência das colisões entre as moléculas de nitrogênio e de oxigênio.",
+    "d": "Não se desloca, porque um sistema que já atingiu o equilíbrio deixa de responder a perturbações externas de qualquer natureza.",
+    "e": "Não se desloca, porque o número de mols de gás é o mesmo nos dois lados da equação, e o quociente de reação permanece igual a Kc."
+   },
+   "resposta": "e",
+   "explicacao": "A pressão só desloca um equilíbrio gasoso quando os dois lados têm números diferentes de mols de gás. Aqui são 2 mols de reagentes contra 2 mols de produto: comprimir aumenta igualmente todas as concentrações e o quociente de reação permanece igual a Kc. A alternativa (c) é a mais escolhida entre as erradas porque troca efeito sobre a velocidade por efeito sobre o equilíbrio — a compressão realmente acelera a reação, mas acelera os dois sentidos na mesma medida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-153",
+   "texto_apoio": "Para o equilíbrio 2 SO3(g) ⇌ 2 SO2(g) + O2(g), a 1000 K, a constante Kc vale 0,050. Use R = 0,082 atm·L·mol⁻¹·K⁻¹ e a relação Kp = Kc × (RT)^Δn, em que Δn é a variação do número de mols de gás na equação.",
+   "enunciado": "O valor de Kp, nessa temperatura, é:",
+   "alternativas": {
+    "a": "0,050",
+    "b": "4,1",
+    "c": "6,1 × 10⁻⁴",
+    "d": "3,4 × 10²",
+    "e": "82"
+   },
+   "resposta": "b",
+   "explicacao": "Δn = (2 + 1) − 2 = 1. Logo Kp = 0,050 × (0,082 × 1000)¹ = 0,050 × 82 = 4,1. A alternativa (a) supõe Kp igual a Kc, o que só valeria se Δn fosse zero; a (c) inverte a operação e divide por RT; e a (d) usa Δn = 2, confundindo a variação do número de mols com o número de mols de um dos lados: 0,050 × 82² dá cerca de 3,4 × 10².",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-154",
+   "texto_apoio": "Em um recipiente fechado de 2,0 L foram introduzidos 2,0 mol de PCl5, que se decompõe segundo PCl5(g) ⇌ PCl3(g) + Cl2(g). Atingido o equilíbrio, verificou-se que 50% do PCl5 inicial havia se decomposto.",
+   "enunciado": "A constante de equilíbrio Kc, nessas condições, vale:",
+   "alternativas": {
+    "a": "0,25",
+    "b": "0,50",
+    "c": "1,0",
+    "d": "2,0",
+    "e": "4,0"
+   },
+   "resposta": "b",
+   "explicacao": "Metade dos 2,0 mol se decompõe: restam 1,0 mol de PCl5 e formam-se 1,0 mol de PCl3 e 1,0 mol de Cl2. Dividindo pelos 2,0 L, todas as concentrações valem 0,50 mol/L, e Kc = (0,50 × 0,50) ÷ 0,50 = 0,50. A alternativa (c) é o resultado de quem usa as quantidades em mol sem dividir pelo volume — (1,0 × 1,0) ÷ 1,0 = 1,0 — erro que passa despercebido justamente porque também produz um número redondo.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-157",
+   "texto_apoio": "Para o equilíbrio CO(g) + H2O(g) ⇌ CO2(g) + H2(g), etapa empregada na produção industrial de hidrogênio, a constante Kc vale 4,0 a determinada temperatura. Em um reator mantido nessa temperatura, mediram-se, em certo instante: [CO] = 0,20 mol/L; [H2O] = 0,50 mol/L; [CO2] = 0,40 mol/L; [H2] = 0,40 mol/L.",
+   "enunciado": "O quociente de reação nesse instante e o sentido em que o sistema evolui até o equilíbrio são, respectivamente:",
+   "alternativas": {
+    "a": "1,6 e o sentido de formação de CO e H2O.",
+    "b": "0,625 e o sentido de formação de CO2 e H2.",
+    "c": "4,0 e nenhum, pois o sistema já se encontra em equilíbrio.",
+    "d": "0,16 e o sentido de formação de CO e H2O.",
+    "e": "1,6 e o sentido de formação de CO2 e H2."
+   },
+   "resposta": "e",
+   "explicacao": "Q = ([CO2] × [H2]) ÷ ([CO] × [H2O]) = (0,40 × 0,40) ÷ (0,20 × 0,50) = 0,16 ÷ 0,10 = 1,6. Como Q é menor que Kc, faltam produtos, e o sistema caminha no sentido direto até que Q suba até 4,0. A alternativa (a) faz a conta certa e inverte a conclusão: o sistema sempre evolui no sentido que aproxima Q de K, e Q só cresce se os produtos aumentarem. A (b) inverte a razão, colocando reagentes no numerador.",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-163",
+   "texto_apoio": "Em um recipiente rígido de 1,0 L, a temperatura constante, foram colocados 4,0 mol de SO2 e 2,0 mol de O2. Atingido o equilíbrio 2 SO2(g) + O2(g) ⇌ 2 SO3(g), constatou-se a presença de 3,0 mol de SO3.",
+   "enunciado": "O valor de Kc nessa temperatura é:",
+   "alternativas": {
+    "a": "4,5",
+    "b": "6,0",
+    "c": "9,0",
+    "d": "18",
+    "e": "0,056"
+   },
+   "resposta": "d",
+   "explicacao": "Formar 3,0 mol de SO3 consome 3,0 mol de SO2 e apenas 1,5 mol de O2, pela estequiometria 2:1:2. Restam 1,0 mol de SO2 e 0,50 mol de O2 e, como o volume é 1,0 L, esses números são as concentrações. Kc = (3,0)² ÷ [(1,0)² × 0,50] = 9,0 ÷ 0,50 = 18. A alternativa (a) é de quem esquece que o oxigênio também é consumido e mantém 2,0 mol no denominador; a (b), de quem não eleva o SO3 ao quadrado.",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-165",
+   "texto_apoio": "Considere o equilíbrio N2O4(g) ⇌ 2 NO2(g), estabelecido em recipiente fechado.",
+   "enunciado": "Mantidos volume e temperatura constantes, a injeção de argônio, um gás inerte, ______ as pressões parciais dos participantes e ______ a posição do equilíbrio; já a compressão do sistema a temperatura constante desloca o equilíbrio no sentido ______. As lacunas são corretamente preenchidas, na ordem, por:",
+   "alternativas": {
+    "a": "não altera – não desloca – do N2O4",
+    "b": "altera – desloca – do NO2",
+    "c": "não altera – desloca – do NO2",
+    "d": "altera – não desloca – do N2O4",
+    "e": "não altera – não desloca – do NO2"
+   },
+   "resposta": "a",
+   "explicacao": "A volume constante, o argônio não muda o número de mols nem o espaço ocupado pelos demais gases: as pressões parciais permanecem as mesmas e o equilíbrio não sente nada, embora a pressão total suba. Comprimir o sistema, ao contrário, aumenta de fato todas as pressões parciais, e o equilíbrio responde indo para o lado com menos mols de gás: 1 mol de N2O4 contra 2 mols de NO2. Confundir pressão total com pressão parcial é o que leva às alternativas (b) e (c).",
+   "formato": "lacunas",
+   "dificuldade": "dificil",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-169",
+   "texto_apoio": "Um recipiente contém, em equilíbrio a determinada temperatura, 1,0 mol de PCl5, 2,0 mol de PCl3 e 2,0 mol de Cl2, segundo PCl5(g) ⇌ PCl3(g) + Cl2(g). A pressão total da mistura é 2,0 atm.",
+   "enunciado": "O valor de Kp, nessas condições, expresso em atm, é:",
+   "alternativas": {
+    "a": "0,40",
+    "b": "0,64",
+    "c": "1,6",
+    "d": "2,5",
+    "e": "4,0"
+   },
+   "resposta": "c",
+   "explicacao": "As pressões parciais saem das frações em quantidade de matéria: há 5,0 mol no total, então o PCl5 responde por 1/5 de 2,0 atm, ou 0,40 atm, e cada um dos outros dois por 2/5, ou 0,80 atm. Kp = (0,80 × 0,80) ÷ 0,40 = 1,6. A alternativa (e) é de quem usa as quantidades em mol no lugar das pressões parciais, obtendo (2,0 × 2,0) ÷ 1,0 = 4,0; a (b) calcula o numerador e esquece de dividir pelo reagente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-174",
+   "texto_apoio": "Uma peça metálica é recoberta de cobre por eletrodeposição, em solução contendo íons Cu²⁺. A célula é percorrida por corrente constante de 10 A durante 965 s. Dados: constante de Faraday = 96 500 C por mol de elétrons; massa molar do cobre = 63,5 g/mol.",
+   "enunciado": "A massa de cobre depositada sobre a peça é de, aproximadamente:",
+   "alternativas": {
+    "a": "0,32 g",
+    "b": "1,6 g",
+    "c": "3,2 g",
+    "d": "6,4 g",
+    "e": "32 g"
+   },
+   "resposta": "c",
+   "explicacao": "A carga que atravessa a célula é Q = i × t = 10 × 965 = 9 650 C, o que corresponde a 9 650 ÷ 96 500 = 0,10 mol de elétrons. Como Cu²⁺ + 2 e⁻ → Cu, cada mol de cobre exige 2 mol de elétrons: depositam-se 0,050 mol, ou 0,050 × 63,5 ≈ 3,2 g. A alternativa (d) é o resultado de quem esquece os dois elétrons da semirreação e converte 0,10 mol de elétrons em 0,10 mol de cobre.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-179",
+   "texto_apoio": "Um objeto é prateado por eletrodeposição a partir de solução contendo íons Ag⁺, com corrente constante de 5,0 A. Dados: constante de Faraday = 96 500 C por mol de elétrons; massa molar da prata = 108 g/mol.",
+   "enunciado": "O tempo necessário para depositar 10,8 g de prata sobre o objeto é de:",
+   "alternativas": {
+    "a": "965 s",
+    "b": "1 000 s",
+    "c": "1 930 s",
+    "d": "3 860 s",
+    "e": "19 300 s"
+   },
+   "resposta": "c",
+   "explicacao": "10,8 g de prata correspondem a 0,10 mol. Como a semirreação é Ag⁺ + e⁻ → Ag, são necessários 0,10 mol de elétrons, isto é, 0,10 × 96 500 = 9 650 C. Com corrente de 5,0 A, o tempo é 9 650 ÷ 5,0 = 1 930 s. A alternativa (d) é de quem aplica à prata a relação de dois elétrons válida para cobre e zinco: a prata transfere apenas um elétron por átomo, e esquecer de conferir a carga do cátion é o erro mais caro nesse tipo de cálculo.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-184",
+   "texto_apoio": "Duas cubas eletrolíticas são ligadas em série, de modo que a mesma quantidade de carga atravessa as duas. Na primeira, contendo íons Ag⁺, depositam-se 10,8 g de prata. Na segunda há íons Al³⁺ em sal fundido. Dados: massas molares Ag = 108 g/mol e Al = 27 g/mol.",
+   "enunciado": "A massa de alumínio depositada na segunda cuba é de:",
+   "alternativas": {
+    "a": "0,30 g",
+    "b": "1,35 g",
+    "c": "2,7 g",
+    "d": "0,90 g",
+    "e": "8,1 g"
+   },
+   "resposta": "d",
+   "explicacao": "10,8 g de prata são 0,10 mol e, como Ag⁺ + e⁻ → Ag, passaram 0,10 mol de elétrons pelas duas cubas. Para o alumínio, Al³⁺ + 3 e⁻ → Al, de modo que 0,10 mol de elétrons produzem 0,10 ÷ 3 ≈ 0,033 mol de alumínio, ou 0,033 × 27 = 0,90 g. A alternativa (c) é de quem transfere ao alumínio a proporção de um elétron da prata e obtém 0,10 × 27 = 2,7 g; a (e) multiplica por 3 em vez de dividir.",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-186",
+   "texto_apoio": "A combustão completa do etanol libera 1 368 kJ por mol de álcool queimado. Massa molar do etanol: 46 g/mol.",
+   "enunciado": "A energia liberada na combustão completa de 92 g de etanol é de:",
+   "alternativas": {
+    "a": "684 kJ",
+    "b": "1 368 kJ",
+    "c": "5 472 kJ",
+    "d": "125 856 kJ",
+    "e": "2 736 kJ"
+   },
+   "resposta": "e",
+   "explicacao": "92 g de etanol correspondem a 92 ÷ 46 = 2,0 mol, e cada mol libera 1 368 kJ: o total é 2 × 1 368 = 2 736 kJ. A alternativa (b) é de quem devolve o dado do enunciado sem converter a massa em quantidade de matéria, e a (d), de quem multiplica 1 368 pelos 92 g, tratando o valor tabelado como se fosse por grama e não por mol.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-188",
+   "texto_apoio": "Energias médias de ligação, em kJ/mol: N≡N = 941; H–H = 436; N–H = 391. Considere a reação de síntese da amônia, N2(g) + 3 H2(g) → 2 NH3(g), com todas as espécies no estado gasoso.",
+   "enunciado": "A variação de entalpia dessa reação, calculada a partir das energias de ligação, é de:",
+   "alternativas": {
+    "a": "−97 kJ",
+    "b": "+97 kJ",
+    "c": "−48,5 kJ",
+    "d": "+1 076 kJ",
+    "e": "−969 kJ"
+   },
+   "resposta": "a",
+   "explicacao": "Romper as ligações dos reagentes consome 941 + 3 × 436 = 2 249 kJ. Cada molécula de amônia tem três ligações N–H e há duas moléculas, ou seja, formam-se 6 ligações, liberando 6 × 391 = 2 346 kJ. ΔH = 2 249 − 2 346 = −97 kJ. A alternativa (d) conta apenas 3 ligações N–H, esquecendo o coeficiente 2 da amônia; a (c) divide o resultado por dois e responde por mol de amônia, quando a equação pede o valor para a reação tal como escrita.",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-193",
+   "texto_apoio": "Em um calorímetro de capacidade térmica desprezível, 0,10 mol de um sal é dissolvido em 200 g de água e a temperatura da solução sobe 5,0 °C. Considere o calor específico da solução igual ao da água, 4,2 J/(g·°C), e a massa da solução aproximadamente igual à da água.",
+   "enunciado": "A entalpia de dissolução desse sal, por mol, é de aproximadamente:",
+   "alternativas": {
+    "a": "−42 kJ/mol",
+    "b": "+42 kJ/mol",
+    "c": "−4,2 kJ/mol",
+    "d": "−420 kJ/mol",
+    "e": "+4,2 kJ/mol"
+   },
+   "resposta": "a",
+   "explicacao": "O calor recebido pela solução é q = m × c × ΔT = 200 × 4,2 × 5,0 = 4 200 J, ou 4,2 kJ. Esse calor veio da dissolução de 0,10 mol de sal, o que dá 42 kJ por mol. Como a temperatura subiu, o processo é exotérmico e o sinal é negativo: −42 kJ/mol. A alternativa (c) esquece de dividir pela quantidade de matéria e responde o calor total; a (b) acerta o módulo e erra o sinal, tratando o aquecimento da vizinhança como se fosse absorção de calor pelo sistema.",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-211",
+   "enunciado": "A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em PbSO4 (Kps = 1,0 × 10⁻⁸).\n\nSabendo que a legislação estabelece a concentração máxima de Pb de 0,01 mg/L para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.",
+   "alternativas": {
+    "a": "Não é segura, pois a concentração de Pb na água será de 2,07×10¹ mg/L, maior que o valor permitido.",
+    "b": "É segura, pois a concentração de Pb na água será de 1×10⁻⁴ mg/L, menor que o valor permitido.",
+    "c": "Não é segura, pois a concentração de Pb na água será de 1×10⁻⁸ mg/L, menor que o valor permitido.",
+    "d": "É segura, pois a concentração de Pb na água será de 1×10⁻² mg/L, igual ao valor permitido.",
+    "e": "É segura, pois a concentração de Pb na água será de 2,07×10⁻⁶ mg/L, maior que o valor permitido."
+   },
+   "resposta": "a",
+   "explicacao": "Como Ksp = [Pb²⁺][SO₄²⁻] = s², a solubilidade é s = √(1,0×10⁻⁸) = 1,0×10⁻⁴ mol/L; convertendo para mg/L usando a massa molar do chumbo (207 g/mol), obtém-se cerca de 2,07×10¹ mg/L, muito acima do limite legal de 0,01 mg/L — portanto a água não é segura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-213",
+   "enunciado": "Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação CH4(l) + 2 O2(l) → CO2(g) + 2 H2O(g).\n\nNessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a",
+   "alternativas": {
+    "a": "0,186.",
+    "b": "0,375.",
+    "c": "0,75.",
+    "d": "1,5.",
+    "e": "3."
+   },
+   "resposta": "b",
+   "explicacao": "Como a razão de volumes é V(O₂)=1,5×V(CH4) e a proporção molar da equação é 1 CH4 : 2 O2, a razão de massas m(CH4)/m(O2) = [n×16]/[2n×32] = 16/64 = 0,25 em mols; ajustando pela razão de volumes (dividindo pela densidade), obtém-se a razão de densidades ρ(CH4)/ρ(O2) = 0,375.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-219",
+   "enunciado": "A massa de clorato de sódio consumida na reação (ver questão anterior, sobre a geração química de oxigênio em máscaras de avião) deve ser suficiente para gerar, no mínimo, 15 minutos de oxigênio, permitindo que a aeronave baixe sua altitude, restabelecendo a pressão da cabine. Calcule a massa de clorato de sódio mínima, em gramas, que deve ser utilizada por reservatório, para gerar oxigênio suficiente por 15 minutos, considerando que a taxa de respiração média de oxigênio de um adulto é de 1,2 L/min ao nível do mar a 20 °C.",
+   "alternativas": {
+    "a": "27",
+    "b": "53",
+    "c": "80",
+    "d": "94",
+    "e": "119"
+   },
+   "resposta": "c",
+   "explicacao": "Calculando os mols de O₂ necessários para suprir a respiração durante 15 minutos (pela equação dos gases ideais) e convertendo para mols de NaClO₃ pela proporção estequiométrica da decomposição 2NaClO₃ → 2NaCl + 3O₂, chega-se à massa mínima necessária de clorato de sódio por reservatório.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-220",
+   "enunciado": "Aviões são os únicos meios de transporte que cruzam continentes em um dia. Apesar dos avanços em eficiência energética, as aeronaves contribuem com 3,5% do aquecimento global. Por isso, existe o interesse em substituir o querosene usado por essas aeronaves por hidrogênio, com destaque para o uso do hidrogênio líquido combustível. A tabela a seguir apresenta dados desses dois tipos de combustíveis na aviação.\n\n| Combustível | Energia combustão (kJ·mol⁻¹) | Densidade do líquido (g·cm⁻³) | Massa molar (g·mol⁻¹) |\n|---|---|---|---|\n| Querosene* | 6745 | 0,804 | 153 |\n| Hidrogênio | 240 | 0,071 | 2 |\n\n*valores médios e aproximados.\n\nCaracterísticas como massa e volume da aeronave são fatores importantes para seu desempenho. Levando em conta essa informação, para uma mesma quantidade de energia gerada pelo combustível, é correto afirmar que o hidrogênio é melhor que o querosene, pois",
+   "alternativas": {
+    "a": "sua razão energia por volume é maior.",
+    "b": "o volume utilizado será menor.",
+    "c": "sua razão energia por massa é maior.",
+    "d": "a massa utilizada será maior."
+   },
+   "resposta": "c",
+   "explicacao": "Dividindo a energia de combustão pela massa molar, o hidrogênio libera cerca de 120 kJ/g, contra apenas cerca de 44 kJ/g do querosene — ou seja, para a mesma energia gerada, seria necessária uma massa muito menor de hidrogênio, tornando sua razão energia/massa maior (apesar de sua razão energia/volume ser menor, por causa da baixa densidade do H₂ líquido).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-221",
+   "enunciado": "A Agência Nacional do Petróleo (ANP) é responsável por implementar a política nacional de combustíveis e proteger os interesses dos consumidores quanto a preço, qualidade e oferta de produtos, além de especificar a qualidade dos derivados de petróleo, do gás natural e de seus derivados e dos biocombustíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica algumas características do Etanol Anidro Combustível (EAC), do Etanol Hidratado Combustível (EHC) e do Etanol Hidratado Combustível Premium (EHCP). Algumas dessas características estão na tabela a seguir e nas alternativas.\n\n| Combustível | Massa Específica (kg/m³) | Teor Alcoólico (% massa) |\n|---|---|---|\n| EAC | 791,5 (a) | 99,3 (b) |\n| EHC | (c) | entre 92,5 e 94,6 |\n| EHCP | (d) | entre 95,5 e 96,5 |\n\nConsiderando que água e etanol formam uma mistura ideal, para preencher corretamente essa tabela, as letras a, b, c e d devem corresponder, respectivamente, a",
+   "alternativas": {
+    "a": "máximo; mínimo; entre 805 e 811 e entre 800 e 803.",
+    "b": "mínimo; máximo; entre 805 e 811 e entre 800 e 803.",
+    "c": "máximo; mínimo; entre 800 e 803 e entre 805 e 811.",
+    "d": "mínimo; máximo; entre 800 e 803 e entre 805 e 811."
+   },
+   "resposta": "a",
+   "explicacao": "Como a densidade da mistura água-etanol aumenta com o teor de água, o etanol anidro (EAC), com o menor teor de água possível, tem massa específica máxima permitida (a) e teor alcoólico mínimo (b) para garantir pureza; já o EHC, com mais água que o EHCP, apresenta a maior faixa de densidade (c, entre 805 e 811 kg/m³), e o EHCP, mais concentrado, densidade um pouco menor (d, entre 800 e 803 kg/m³).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-224",
+   "enunciado": "O gás natural veicular (GNV) é um combustível automotivo disponibilizado por postos de abastecimento credenciados. Os veículos automotores, originalmente fabricados para funcionarem apenas com combustíveis líquidos, são adaptados por um kit que permite o funcionamento também com o GNV. Uma das partes desse kit é o reservatório de gás, feito de material metálico não expansível, sendo normalmente instalado no compartimento traseiro do veículo.\n\nUm reservatório de GNV com massa de gás (m₁) e pressão (P₁) igual a 40 atm é reabastecido com esse gás, em temperatura constante, até a pressão interna do compartimento atingir a massa de gás (m₂) e pressão (P₂) igual a 160 atm. Considerando que a composição do GNV seja constante, a comparação das massas m₁ e m₂ é dada por:",
+   "alternativas": {
+    "a": "m₂ = 8m₁",
+    "b": "m₂ = 4m₁",
+    "c": "m₂ = (1/8)m₁",
+    "d": "m₂ = (1/4)m₁",
+    "e": "m₂ = 2m₁"
+   },
+   "resposta": "b",
+   "explicacao": "Em temperatura e volume constantes, a pressão de um gás é proporcional à quantidade de matéria (massa): se a pressão quadruplicou (de 40 para 160 atm), a massa de gás no reservatório também quadruplicou, ou seja, m₂=4m₁.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-228",
+   "enunciado": "Em uma aula de química, foi realizado um experimento em três etapas: na etapa 1, mediu-se a temperatura da água empregada no experimento (20 ºC, em um béquer com 100 mL de água). Na etapa 2, adicionou-se à água, sob agitação (usando um agitador magnético), 0,1 mol de cloreto de cálcio anidro (CaCl₂), uma substância empregada em produtos de uso doméstico para evitar a formação de mofo e umidade em armários — a adição foi sinalizada com um pictograma de risco. Na etapa 3, foi anotada a temperatura máxima atingida ao final do processo de dissolução do cloreto de cálcio anidro na água (35 ºC).\n\nA dissolução do cloreto de cálcio anidro em água é um processo [lacuna 1] e a sua entalpia padrão de dissolução (ΔH⁰ dissolução) é [lacuna 2].\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+   "alternativas": {
+    "a": "endotérmico – maior do que zero, pois a energia necessária para romper a rede cristalina do CaCl₂ anidro seria sempre superior à liberada na hidratação dos íons",
+    "b": "endotérmico – menor do que zero.",
+    "c": "exotérmico – menor do que zero.",
+    "d": "endotérmico – maior do que zero.",
+    "e": "endotérmico – igual a zero."
+   },
+   "resposta": "c",
+   "explicacao": "A temperatura da água subiu de 20 para 35 ºC durante a dissolução do CaCl₂, evidenciando liberação de calor pela solução — um processo exotérmico, com ΔH de dissolução negativo (menor que zero). A alternativa (a) parte de uma generalização real, mas nem sempre verdadeira — a de que romper a rede cristalina sempre consome mais energia do que a liberada na hidratação dos íons —, e ignora o próprio dado experimental do enunciado: se fosse esse o caso aqui, a temperatura da água teria caído, não subido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-235",
+   "enunciado": "Com base na fórmula estrutural da acetilcisteína (ver questão anterior) — uma molécula com um anel simples contendo um grupo tiol (-SH), um grupo amida (ligação -NH-CO-CH₃) e um grupo ácido carboxílico (-COOH) — a fórmula molecular da acetilcisteína é",
+   "alternativas": {
+    "a": "C₅H₉NO₃S",
+    "b": "C₅H₇NO₃S",
+    "c": "C₅H₈NO₃S",
+    "d": "C₄H₆NO₃S",
+    "e": "C₄H₇NO₃S"
+   },
+   "resposta": "a",
+   "explicacao": "A fórmula molecular da acetilcisteína, coerente com os grupos tiol, amida e ácido carboxílico descritos e a massa molar de 162 g/mol, é C₅H₉NO₃S.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-252",
+   "enunciado": "Uma fina camada de prata foi depositada sobre uma peça metálica, por meio da eletrólise de uma solução aquosa contendo íons de prata (Ag+). O processo foi realizado pela circulação de uma corrente elétrica constante de 75 mA, durante 3 h, pela solução. Sabendo que a constante de Faraday é igual a 96 500 C/mol de elétrons, a quantidade de prata depositada no processo, expressa em mol de prata, foi de, aproximadamente,",
+   "alternativas": {
+    "a": "0,004.",
+    "b": "0,006.",
+    "c": "0,010.",
+    "d": "0,008.",
+    "e": "0,002."
+   },
+   "resposta": "d",
+   "explicacao": "A carga elétrica é Q=i×t=0,075 A×10.800 s=810 C; dividindo pela constante de Faraday (96.500 C/mol), obtém-se cerca de 0,0084 mol de elétrons, que corresponde à mesma quantidade de mol de Ag depositada (1 elétron por íon Ag⁺ reduzido).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-255",
+   "enunciado": "Com o passar do tempo, o óxido de magnésio (MgO) puro, quando armazenado em um frasco não hermeticamente fechado, torna-se impuro, pois absorve umidade do ar transformando-se parcialmente em hidróxido de magnésio, Mg(OH)2, conforme a seguinte reação:\n\nMgO(s) + H2O(g) → Mg(OH)2(s)\n\nEssa reação pode ser revertida por aquecimento, regenerando-se, assim, o óxido de magnésio:\n\nMg(OH)2(s) → MgO(s) + H2O(g)\n\nUma amostra de 5,8 g de óxido de magnésio impuro foi colocada em um cadinho e submetida a uma calcinação. Após o resfriamento do cadinho, verificou-se que a massa da mesma foi 0,18 g menor do que a inicial.\n\nCom base nessas informações, o grau de pureza do óxido de magnésio impuro nessa amostra era cerca de",
+   "alternativas": {
+    "a": "50%.",
+    "b": "90%.",
+    "c": "20%.",
+    "d": "40%.",
+    "e": "70%."
+   },
+   "resposta": "b",
+   "explicacao": "A perda de massa (0,18 g) corresponde à água liberada na conversão de Mg(OH)2 de volta a MgO durante a calcinação; a partir da estequiometria da reação, calcula-se a quantidade de Mg(OH)2 presente na amostra original e, por diferença, o grau de pureza do MgO, que resulta em cerca de 90%.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-260",
+   "enunciado": "A figura representa um calorímetro de paredes adiabáticas e de capacidade térmica desprezível, cuja câmara de reação está imersa em 1 000 g de um líquido de calor específico 4,0 kJ/(kg·ºC). Dentro dessa câmara foi realizada a combustão completa de 9 g de glicose (C6H12O6, 180 g/mol) utilizando, para isso, oxigênio pressurizado em quantidade suficiente para que a reação ocorresse completamente.\n\n*(Figura esquemática padrão de calorímetro de bomba: recipiente externo com líquido, termômetro inserido no topo, cabos de ignição e câmara de reação interna contendo a glicose e o oxigênio — diagrama didático genérico.)*\n\nNesse processo, o calor liberado na reação foi totalmente absorvido pelo líquido, que teve sua temperatura elevada de 20 ºC para 55 ºC, e a pressão dentro do calorímetro manteve-se constante. Nessas condições, o calor absorvido pelo líquido e a entalpia da reação de combustão completa da glicose foram, respectivamente,",
+   "alternativas": {
+    "a": "140 kJ e −2 800 kJ/mol.",
+    "b": "25,2 kJ e −25,2 kJ/mol.",
+    "c": "1,26 kJ e −2 800 kJ/mol.",
+    "d": "140 kJ e −25,2 kJ/mol.",
+    "e": "1,26 kJ e −25,2 kJ/mol."
+   },
+   "resposta": "a",
+   "explicacao": "O calor absorvido é Q=m×c×ΔT=1000 g×4,0 J/(g·ºC)×35 ºC=140.000 J=140 kJ. Como isso equivale à combustão de 9 g de glicose (9/180=0,05 mol), a entalpia molar de combustão é 140/0,05=2800 kJ/mol, liberados (portanto negativa), ou seja, −2800 kJ/mol.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-261",
+   "enunciado": "O ácido rosmarínico é um polifenol constituído apenas por carbono, hidrogênio e oxigênio, sendo obtido naturalmente de ervas utilizadas na culinária. A análise elementar por combustão completa do ácido rosmarínico revelou que para cada 1 mol desse ácido são formados 18 mol de CO₂ e 8 mol de H₂O. A massa de oxigênio na molécula do ácido rosmarínico corresponde a 8 vezes a sua massa de hidrogênio.\n\nA fórmula mínima do ácido rosmarínico é:",
+   "alternativas": {
+    "a": "C₉H₈O₆₄",
+    "b": "C₉H₈O₃₂",
+    "c": "C₉H₄O₃₂",
+    "d": "C₉H₈O₄",
+    "e": "C₉H₄O₄"
+   },
+   "resposta": "d",
+   "explicacao": "De 1 mol do ácido, formam-se 18 mol de CO2 (18 átomos de C) e 8 mol de H2O (16 átomos de H); usando a relação massa de O = 8× massa de H (16g), obtém-se 128g de O, ou 8 mol de O. A fórmula C18H16O8 simplifica, dividindo por 2, para a fórmula mínima C9H8O4.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-265",
+   "enunciado": "Os gases atmosféricos poluentes, resultantes da queima de combustível fóssil, realizam reações secundárias gerando diversos produtos. A reação entre dois desses gases, NO₂(g) + O₃(g) → NO₃(g) + O₂(g), teve a sua cinética estudada a 20 ºC:\n\n| Experimento | [NO₂] mol/L | [O₃] mol/L | Taxa (mol·L⁻¹·s⁻¹) |\n|---|---|---|---|\n| 1 | 5,0 × 10⁻⁵ | 1,0 × 10⁻⁵ | 0,033 |\n| 2 | 5,0 × 10⁻⁵ | 2,0 × 10⁻⁵ | 0,066 |\n| 3 | 2,5 × 10⁻⁵ | 2,0 × 10⁻⁵ | 0,033 |\n\nConsidere que a equação da rapidez dessa reação, v, seja representada pela equação: v = k[NO₂]ˣ·[O₃]ʸ\n\nA ordem global dessa reação, dada pela soma dos valores de x e y, é igual a",
+   "alternativas": {
+    "a": "3",
+    "b": "1",
+    "c": "1/2",
+    "d": "0",
+    "e": "2"
+   },
+   "resposta": "e",
+   "explicacao": "Comparando os experimentos 1 e 3 (mesma [O3], [NO2] varia pela metade e a taxa também cai pela metade): ordem 1 em relação a NO2. Comparando 1 e 2 (mesma [NO2], [O3] dobra e a taxa dobra): ordem 1 em relação a O3. A ordem global é a soma: 1+1=2.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-266",
+   "enunciado": "A reação entre o cloreto de antimônio(III), SbCl₃ (massa molar = 228 g/mol), e a água resulta na formação de óxido de antimônio(III), Sb₂O₃, e cloreto de hidrogênio gasoso, HCl: SbCl₃(s) + H₂O(l) → Sb₂O₃(s) + HCl(g) (equação não balanceada).\n\nA uma certa massa de cloreto de antimônio(III) foram adicionados 180 mL de água (d = 1 g/mL). Nas condições adequadas de reação, formaram-se 18 mol de HCl.\n\nA massa de cloreto de antimônio(III) e a quantidade, em mol, de água que participaram dessa reação são",
+   "alternativas": {
+    "a": "456 g e 10 mol.",
+    "b": "456 g e 6 mol.",
+    "c": "1 368 g e 9 mol.",
+    "d": "228 g e 1 mol.",
+    "e": "1 368 g e 10 mol."
+   },
+   "resposta": "c",
+   "explicacao": "Balanceando a equação (2SbCl3+3H2O→Sb2O3+6HCl), a proporção é de 2 mol de SbCl3 para 6 mol de HCl, ou seja, 1:3; para 18 mol de HCl formado, reagiram 6 mol de SbCl3 (1368 g, usando M=228g/mol) e, pela proporção 2:3 entre SbCl3 e H2O, 9 mol de água.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-270",
+   "enunciado": "A tabela apresenta a abundância isotópica do magnésio encontrado na natureza.\n\n| Isótopo (número de massa) | Abundância isotópica |\n|---|---|\n| 24 | 78,99% |\n| 25 | 10,00% |\n| 26 | 11,01% |\n\nConsiderando a constante de Avogadro igual a 6,0 × 10²³ mol⁻¹, em 4,86 g de magnésio, a quantidade de átomos de magnésio-25 é igual a",
+   "alternativas": {
+    "a": "1,3 × 10²¹.",
+    "b": "3,0 × 10²⁰.",
+    "c": "1,2 × 10²².",
+    "d": "9,4 × 10²².",
+    "e": "6,0 × 10²³."
+   },
+   "resposta": "c",
+   "explicacao": "Em 4,86 g de magnésio (massa molar aproximada 24,3 g/mol), há cerca de 0,2 mol de átomos totais; 10% desses átomos correspondem ao isótopo magnésio-25, ou seja, cerca de 0,02 mol, que multiplicados pela constante de Avogadro (6,0×10²³) resultam em aproximadamente 1,2×10²² átomos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-271",
+   "enunciado": "Um medicamento para combater a azia e o excesso de acidez estomacal causado pelo ácido clorídrico (HCl) é disponibilizado na forma de pastilhas mastigáveis que contêm 500 mg de carbonato de cálcio (CaCO₃).\n\nConsidere que haja a reação completa do conteúdo de uma pastilha desse medicamento no aparelho digestório de um indivíduo com temperatura corpórea 37 ºC, que a pressão nesse local seja de 1,0 atm e que a constante R seja 0,08 atm·L·mol⁻¹·K⁻¹. O volume máximo de dióxido de carbono (CO₂) formado nessa reação será de, aproximadamente,",
+   "alternativas": {
+    "a": "500 mL.",
+    "b": "120 mL.",
+    "c": "1,5 L.",
+    "d": "1,2 L.",
+    "e": "140 mL."
+   },
+   "resposta": "b",
+   "explicacao": "500 mg de CaCO3 (100 g/mol) correspondem a 0,005 mol, que pela estequiometria da reação com HCl produzem 0,005 mol de CO2. Usando PV=nRT a 310 K (37ºC) e 1 atm, o volume é V=nRT/P=0,005×0,08×310/1≈0,124 L≈120 mL.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-273",
+   "enunciado": "Para o estudo de equilíbrio reacional foram realizados, separadamente, os experimentos 1, 2, 3 e 4, com reações químicas no estado gasoso em sistemas fechados, comparando as condições do equilíbrio I (V=10L, T=125°C, P=1,0 atm) e do equilíbrio II (V=2L, T=125°C, P=5,0 atm):\n\n1. NH₃(g) + CH₄(g) ⇌ HCN(g) + 3H₂(g)\n2. 2HCN(g) + 6H₂O(g) ⇌ 2NH₃(g) + 2CH₄(g) + 3O₂(g)\n3. N₂(g) + 3H₂(g) ⇌ 2NH₃(g)\n4. CO₂(g) + H₂(g) ⇌ CO(g) + H₂O(g)\n\nConsiderando-se separadamente cada um dos experimentos realizados, as reações que tiveram aumento da formação dos produtos ao se passar das condições do equilíbrio I para as condições do equilíbrio II são as dos experimentos",
+   "alternativas": {
+    "a": "2 e 4.",
+    "b": "1 e 3.",
+    "c": "3 e 4.",
+    "d": "2 e 3.",
+    "e": "1 e 4."
+   },
+   "resposta": "d",
+   "explicacao": "Passar do equilíbrio I (menor pressão, maior volume) para o II (maior pressão, menor volume) favorece o lado com menor número de mols gasosos: nas reações 2 e 3, os produtos têm menos mols de gás do que os reagentes, então o aumento de pressão desloca o equilíbrio para a formação de mais produtos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-275",
+   "enunciado": "Um estudo da rapidez da hidrólise da ureia (catalisada pela enzima urease) foi realizado em cinco experimentos, variando concentração de ureia e temperatura da solução, medindo o tempo para iniciar a liberação dos gases:\n\n| Experimento | Concentração | Temperatura | Tempo p/ iniciar liberação |\n|---|---|---|---|\n| 1 | 10 mol/L | 20 ºC | 8 minutos |\n| 2 | 10 mol/L | 60 ºC | 3 minutos |\n| 3 | 2,5 mol/L | 20 ºC | 12 minutos |\n| 4 | 2,5 mol/L | 20 ºC | 2 minutos |\n| 5 | 2,5 mol/L | 60 ºC | 8 minutos |\n\nO experimento em que foi empregada a enzima urease foi o de número",
+   "alternativas": {
+    "a": "2.",
+    "b": "3.",
+    "c": "5.",
+    "d": "4.",
+    "e": "1."
+   },
+   "resposta": "d",
+   "explicacao": "O experimento com a maior velocidade relativa à sua concentração (experimento 4: menor concentração, mesma temperatura do experimento 3, porém tempo muito menor) indica a presença de um catalisador biológico (a enzima urease), que acelera a reação sem que se altere a temperatura ou a concentração de substrato.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-282",
+   "enunciado": "O nitreto de tório(IV), Th₃N₄, é um composto empregado em tecnologia nuclear. O Brasil detém reservas de minério de tório, a monazita. A partir desse minério, obtém-se o composto óxido de tório(IV), ThO₂, que é usado como matéria-prima no processo de obtenção de nitreto de tório, representado pela equação de reação a seguir, processada em um reator selado:\n\n3ThO₂(s) + 6C(s) + 2N₂(g) → Th₃N₄(s) + 6CO(g)\n\nAo serem adicionados no reator 12 mol de cada um dos reagentes, a quantidade máxima de Th₃N₄, em mol, que se forma é igual a",
+   "alternativas": {
+    "a": "6.",
+    "b": "2.",
+    "c": "12.",
+    "d": "4.",
+    "e": "8."
+   },
+   "resposta": "b",
+   "explicacao": "Com 12 mol de cada reagente disponíveis, o número de \"porções\" da reação que cada um permite é 12/3=4 (para o ThO2), 12/6=2 (para o C) e 12/2=6 (para o N2); o carbono é o reagente limitante, permitindo a formação de apenas 2 mol de Th3N4.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-286",
+   "enunciado": "Na etapa de coagulação do tratamento de água, utiliza-se sulfato de alumínio [Al2(SO4)3] para formar flocos de hidróxido de alumínio [Al(OH)3], que agregam impurezas. A reação química desse processo é:\n\nAl2(SO4)3 + 3 Ca(HCO3)2 → 2 Al(OH)3 + 3 CaSO4 + 6 CO2\n\nUma estação de tratamento de água (ETA) consome 147 kg de sulfato de alumínio [Al2(SO4)3] por dia para coagular impurezas.\n\nConsidere as seguintes massas molares: Al2(SO4)3 = 342 g/mol; Al(OH)3 = 78 g/mol; Ca(HCO3)2 = 162 g/mol; CaSO4 = 136 g/mol e CO2 = 44 g/mol.\n\nA massa aproximada, em quilograma, de hidróxido de alumínio produzido diariamente é igual a",
+   "alternativas": {
+    "a": "33,5.",
+    "b": "67,0.",
+    "c": "70,4.",
+    "d": "134,1.",
+    "e": "209,0."
+   },
+   "resposta": "b",
+   "explicacao": "Pela estequiometria da equação (1 mol de Al2(SO4)3 produz 2 mol de Al(OH)3), 147 kg de Al2(SO4)3 (342 g/mol) correspondem a cerca de 429,8 mol, que produzem 859,6 mol de Al(OH)3 (78 g/mol), totalizando aproximadamente 67,0 kg.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-288",
+   "enunciado": "O trítio é um dos isótopos do hidrogênio que apesar de ser raro na Terra, está presente em grande quantidade no Sol. Seu processo de decaimento ocorre com meia-vida de 12 anos, segundo a reação:\n\n³₁H → ³₂He + β\n\nA massa, em gramas, de Hélio-3 produzida pelo decaimento de 1 mol de trítio após 24 anos é de:",
+   "alternativas": {
+    "a": "1,50",
+    "b": "0,50",
+    "c": "2,75",
+    "d": "2,25",
+    "e": "0,25"
+   },
+   "resposta": "d",
+   "explicacao": "Em 24 anos se passam duas meias-vidas (2×12 anos). De 1 mol de trítio, restam 1/4 mol (0,25 mol) sem decair e 3/4 mol (0,75 mol) decaem em Hélio-3; como a massa molar do ³He é 3 g/mol, a massa formada é 0,75×3=2,25 g.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-290",
+   "enunciado": "A eletrólise do cloreto de sódio dissolvido em água é a base da indústria de cloro e de álcali. Os produtos mais importantes desse processo são o cloro gasoso e o hidróxido de sódio.\n\n2 NaCl (aq) + 2 H2O (l) → 2 NaOH (aq) + H2 (g) + Cl2 (g)\n\nQuando, através desse processo, ocorre a produção de 800 kg de hidróxido de sódio, o volume produzido de cloro gasoso, medido nas CNTP, é de:",
+   "alternativas": {
+    "a": "2,24 x 10³ L",
+    "b": "448 L",
+    "c": "2,24 x 10⁵ L",
+    "d": "224 L",
+    "e": "4,48 x 10⁵ L\n\nDados: Massa molar (g.mol⁻¹) Na = 23, O = 16, H = 1"
+   },
+   "resposta": "c",
+   "explicacao": "800 kg (800.000 g) de NaOH (40 g/mol) correspondem a 20.000 mol; pela proporção 2 NaOH : 1 Cl2 da equação, formam-se 10.000 mol de Cl2, que nas CNTP ocupam 10.000×22,4 L = 2,24×10⁵ L.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-291",
+   "enunciado": "A mineração de ouro na Amazônia está associada a um grande problema: a utilização do mercúrio. O mercúrio é usado para separar o ouro de outros materiais, mas, devido à sua alta toxidade, constitui um grave problema ambiental. Numa das etapas da obtenção de mercúrio para utilização nesse tipo de garimpo, ocorre a redução do HgO. Esse óxido é aquecido junto com carvão, que atua como agente redutor. O carvão retira o oxigênio do óxido de mercúrio, deixando mercúrio livre. Se, nesse processo de redução do mercúrio, houver a transferência de uma carga de 10F (faradays), a quantidade máxima de mercúrio metálico obtido será de:",
+   "alternativas": {
+    "a": "50g",
+    "b": "250g",
+    "c": "400g",
+    "d": "500g",
+    "e": "1000g\n\nDados: Massa molar (g.mol⁻¹) Hg = 200"
+   },
+   "resposta": "e",
+   "explicacao": "Com transferência de 10 mol de elétrons (10 F) e sendo necessários 2 elétrons para reduzir cada Hg²⁺ a Hg metálico, formam-se 5 mol de Hg, que pesam 5×200=1000 g.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "med-quimica-307",
+   "enunciado": "Lâmpadas fluorescentes foram importantes substitutos de lâmpadas incandescentes, que tinham gastos\nenergéticos mais altos. Entretanto, as lâmpadas fluorescentes usam vapor de mercúrio em sua composição, o\nque torna seu descarte possivelmente prejudicial ao meio ambiente e, atualmente, alavanca sua\nsubstituição por lâmpadas de LED.\n\nUma lâmpada fluorescente de 40W tem volume interno de cerca de 200 mL e pressão interna do mercúrio de\n2,1 × 10⁻³ atm. Considerando a constante universal dos gases igual a 0,08 atm·L·mol⁻¹·K⁻¹, a massa de Hg\n(M = 200 g/mol) no interior dessa lâmpada, em miligramas, a uma temperatura de 300 K, é",
+   "alternativas": {
+    "a": "1,75.",
+    "b": "2,70.",
+    "c": "3,50.",
+    "d": "4,50.",
+    "e": "5,25."
+   },
+   "resposta": "c",
+   "explicacao": "Usando PV=nRT com P=2,1×10⁻³ atm, V=0,2 L, R=0,08 atm·L·mol⁻¹·K⁻¹ e T=300 K, calcula-se o número de mols de mercúrio e, multiplicando pela massa molar (200 g/mol), obtém-se a massa de Hg no interior da lâmpada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "eng-quimica-23",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um fertilizante tem rótulo NPK 04 – 14 – 08, isto é, percentuais em massa de 4% de nitrogênio total, 14% de fósforo (como P₂O₅) e 8% de óxido de potássio (K₂O).\nConsidere a aplicação desse fertilizante em um terreno trapezoidal com bases de 15 m e 25 m e altura de 10 m. Sabendo que 1 hectare (ha) equivale a 10.000 m², e que o solo desse terreno necessita de 50 kg de nitrogênio por hectare, a quantidade mínima do fertilizante utilizada, para garantir essa necessidade, é de",
+   "alternativas": {
+    "a": "1 kg",
+    "b": "7 kg",
+    "c": "12 kg",
+    "d": "25 kg",
+    "e": "50 kg"
+   },
+   "resposta": "d",
+   "explicacao": "São três passos encaixados. A área do trapézio é (15 + 25)/2 × 10 = 200 m², o que equivale a 200/10 000 = 0,02 ha. A necessidade de nitrogênio é 50 × 0,02 = 1 kg. Só que 1 kg é a massa do NUTRIENTE, não a do fertilizante: como o produto tem apenas 4% de nitrogênio, são precisos 1/0,04 = 25 kg de fertilizante. Parar no segundo passo dá exatamente 1 kg, que é a alternativa oferecida para esse erro. Os números 14 e 8 do rótulo não entram na conta — a exigência declarada é só de nitrogênio."
+  }
+ ],
  "quimica-termoquimica-cinetica": [
   {
    "subtema": "quimica-termoquimica-cinetica",
@@ -34638,7 +34496,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A principal dificuldade técnica para viabilizar a fusão controlada na Terra é:",
    "alternativas": {
     "a": "impedir a reação em cadeia descontrolada, que se propaga espontaneamente uma vez iniciada e libera energia de forma explosiva no reator",
-    "b": "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em qualquer proporção",
+    "b": "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em proporção aproveitável",
     "c": "conter os resíduos radioativos de meia-vida muito longa gerados pelo processo, cujo armazenamento exige instalações geológicas profundas",
     "d": "atingir e manter temperaturas altíssimas, necessárias para vencer a repulsão elétrica entre núcleos de carga positiva, e confinar o plasma",
     "e": "resfriar o combustível até temperaturas próximas do zero absoluto, condição em que os núcleos se aproximam o suficiente para se fundirem"
@@ -34664,6 +34522,23 @@ window.QUESTION_BANKS = {
    "explicacao": "Partículas coloidais têm tamanho comparável ao comprimento de onda da luz visível e a espalham, tornando o feixe visível — o efeito Tyndall, que não ocorre em solução verdadeira. Elas atravessam papel de filtro comum, e por isso a separação exige ultracentrifugação ou membranas de porosidade muito fina.",
    "formato": "lacunas",
    "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-138",
+   "texto_apoio": "Uma reação apresenta energia de ativação elevada e ocorre muito lentamente à temperatura ambiente. Ao se aquecer o sistema em dez graus, observa-se que a velocidade praticamente dobra.",
+   "enunciado": "O efeito acentuado do aquecimento sobre a velocidade se explica porque a elevação da temperatura:",
+   "alternativas": {
+    "a": "aumenta a concentração dos reagentes na mistura, uma vez que a dilatação térmica reduz o volume ocupado por cada uma das espécies presentes",
+    "b": "reduz o valor da energia de ativação da reação, o que aproxima os reagentes do estado de transição necessário para que a transformação ocorra",
+    "c": "desloca o equilíbrio da reação no sentido dos produtos, elevando o rendimento final obtido ao término do processo conduzido em sistema fechado",
+    "d": "aumenta a fração de moléculas com energia suficiente para superar a barreira de ativação",
+    "e": "converte parte das colisões não efetivas em efetivas ao alterar a orientação com que as moléculas se aproximam umas das outras no meio"
+   },
+   "resposta": "d",
+   "explicacao": "A distribuição de energias das moléculas se desloca com a temperatura, e a fração acima da energia de ativação cresce de forma acentuada — daí o efeito ser tão grande. A energia de ativação em si não muda com a temperatura: quem a reduz é o catalisador, o que torna (b) incorreta.",
+   "formato": "direta",
    "origem": "medicina"
   },
   {
@@ -35799,6 +35674,23 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "gramatica-coesao-semantica",
+   "id": "dir-gramatica-21",
+   "texto_apoio": "\"O projeto prevê reduzir custos, a modernização dos equipamentos e que os processos sejam mais ágeis.\"",
+   "enunciado": "A frase apresenta quebra de paralelismo sintático. Assinale a alternativa que a corrige adequadamente.",
+   "alternativas": {
+    "a": "O projeto prevê reduzir custos, a modernização dos equipamentos e que os processos sejam mais ágeis.",
+    "b": "O projeto prevê reduzir custos, modernização de equipamentos e ampliar a produção.",
+    "c": "O projeto prevê redução de custos, modernizar equipamentos e processos ágeis.",
+    "d": "O projeto prevê reduzir custos, modernizar os equipamentos e agilizar os processos.",
+    "e": "O projeto prevê que os custos sejam reduzidos, modernização e agilizar processos."
+   },
+   "resposta": "d",
+   "explicacao": "O paralelismo sintático exige que elementos coordenados sigam a mesma estrutura gramatical; a forma correta emprega três infinitivos em sequência: reduzir, modernizar e agilizar.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
    "id": "dir-gramatica-25",
    "texto_apoio": "\"A diretora conversou com a professora sobre o projeto antes de ela viajar a trabalho.\"",
    "enunciado": "Sobre a coesão referencial da frase, é correto afirmar que",
@@ -36047,6 +35939,24 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "gramatica-coesao-semantica",
+   "id": "dir-gramatica-143",
+   "texto_apoio": "\"Precisamos de mais voluntários para o mutirão deste sábado, mas ainda não conseguimos precisar exatamente quantas pessoas participarão do evento.\"",
+   "enunciado": "Sobre a regência e o sentido do verbo 'precisar' nas duas ocorrências da frase, é correto afirmar que",
+   "alternativas": {
+    "a": "na primeira ocorrência, 'precisar' significa 'necessitar' e é transitivo indireto, regido pela preposição 'de'; na segunda, significa 'determinar com exatidão' e é transitivo direto, sem preposição.",
+    "b": "em ambas as ocorrências o verbo é transitivo indireto, variando apenas o grau de formalidade do complemento.",
+    "c": "na primeira ocorrência, o verbo está incorreto e deveria ser 'precisamos mais voluntários', sem preposição, tratando o complemento como objeto direto, confusão com o sentido de 'determinar com exatidão', esse sim transitivo direto.",
+    "d": "em ambas as ocorrências o verbo mantém o sentido de necessidade e por isso pede a preposição 'de', ainda que na segunda a ideia de exatidão pareça mais evidente para quem lê a frase rapidamente",
+    "e": "na segunda ocorrência o verbo está incorreto e deveria ser 'precisar de quantas pessoas', porque a interrogativa indireta que o segue funciona como complemento e complementos desse tipo pedem preposição"
+   },
+   "resposta": "a",
+   "explicacao": "Na primeira ocorrência 'precisar' significa necessitar e é transitivo indireto, regido por 'de'; na segunda significa determinar com exatidão e é transitivo direto, sem preposição. Ler as duas como necessidade é o desvio mais compreensível, porque 'não conseguimos precisar' soa próximo de 'não temos certeza', que ainda tem sabor de carência — e é a mudança de sentido que arrasta a regência. Exigir preposição diante da interrogativa indireta trata a oração como complemento preposicionado, quando ela é objeto direto. Retirar a preposição da primeira aplica ao sentido de necessitar a regência do outro. E dizer que as duas são indiretas variando só o grau de formalidade apaga a diferença semântica.",
+   "dificuldade": "dificil",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
    "id": "med-gramatica-05",
    "texto_apoio": "\"Ele é um dos residentes que mais ______ na enfermaria.\"",
    "enunciado": "A forma verbal que preenche a lacuna, conforme a norma culta, é:",
@@ -36183,6 +36093,23 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-95",
+   "texto_apoio": "\"______ imediatamente após a chegada da ambulância.\"",
+   "enunciado": "Iniciando o período, a lacuna é corretamente preenchida por:",
+   "alternativas": {
+    "a": "Me comunicaram",
+    "b": "Comunicaram-me",
+    "c": "Comunicar-me-iam",
+    "d": "Comunicaram eu",
+    "e": "Tinham-me comunicado"
+   },
+   "resposta": "b",
+   "explicacao": "Sem palavra atrativa antes, o pronome vai depois do verbo. A norma escrita não admite iniciar período com átono, ainda que a fala brasileira o faça o tempo todo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
    "id": "med-gramatica-106",
    "texto_apoio": "\"O paciente está internado ______ três dias e será reavaliado daqui ______ duas horas.\"",
    "enunciado": "As lacunas são preenchidas, na ordem, por:",
@@ -36212,6 +36139,23 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "\"Iminente\" é o que está prestes a acontecer; \"eminente\" é quem se destaca. As duas palavras diferem por uma letra e por todo o sentido — um par de parônimos clássico em prova.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-109",
+   "texto_apoio": "\"A comissão decidiu ______ a penalidade a quem ______ a norma.\"",
+   "enunciado": "As lacunas são preenchidas, na ordem, por:",
+   "alternativas": {
+    "a": "inflingir – infringir",
+    "b": "infringir – infligir",
+    "c": "infligir – infligir",
+    "d": "infringir – infringir",
+    "e": "infligir – infringir"
+   },
+   "resposta": "e",
+   "explicacao": "\"Infligir\" é aplicar uma punição; \"infringir\" é violar uma regra. A forma \"inflingir\", com as duas letras juntas, não existe — é cruzamento das duas e erro frequente.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -36980,23 +36924,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "gramatica-regencia-crase",
-   "id": "dir-gramatica-21",
-   "texto_apoio": "\"O projeto prevê reduzir custos, a modernização dos equipamentos e que os processos sejam mais ágeis.\"",
-   "enunciado": "A frase apresenta quebra de paralelismo sintático. Assinale a alternativa que a corrige adequadamente.",
-   "alternativas": {
-    "a": "O projeto prevê reduzir custos, a modernização dos equipamentos e que os processos sejam mais ágeis.",
-    "b": "O projeto prevê reduzir custos, modernização de equipamentos e ampliar a produção.",
-    "c": "O projeto prevê redução de custos, modernizar equipamentos e processos ágeis.",
-    "d": "O projeto prevê reduzir custos, modernizar os equipamentos e agilizar os processos.",
-    "e": "O projeto prevê que os custos sejam reduzidos, modernização e agilizar processos."
-   },
-   "resposta": "d",
-   "explicacao": "O paralelismo sintático exige que elementos coordenados sigam a mesma estrutura gramatical; a forma correta emprega três infinitivos em sequência: reduzir, modernizar e agilizar.",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "gramatica-regencia-crase",
    "id": "dir-gramatica-22",
    "texto_apoio": "\"O relatório final deve ser entregue à mão na secretaria, às vezes até às vésperas do prazo final.\"",
    "enunciado": "Sobre o emprego da crase na frase, é correto afirmar que",
@@ -37658,42 +37585,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "gramatica-regencia-crase",
-   "id": "dir-gramatica-142",
-   "texto_apoio": "\"A ata da reunião registrou o seguinte trecho da fala do diretor (transcrito conforme gravação oficial): 'Vamos revisar todo o cronograma até sexta-feira.'\"",
-   "enunciado": "Sobre o uso dos parênteses na frase, é correto afirmar que",
-   "alternativas": {
-    "a": "deveriam ser substituídos por colchetes, porque em transcrição de fala a norma editorial reserva os colchetes às intervenções de quem transcreve, distinguindo-as do que foi efetivamente dito pelo falante",
-    "b": "estão empregados corretamente para inserir um comentário ou esclarecimento adicional ('transcrito conforme gravação oficial') sem interromper a estrutura sintática principal da frase.",
-    "c": "estão incorretos porque o esclarecimento deveria vir isolado por um par de travessões, sinal que a norma prefere quando o comentário intercalado traz informação de natureza técnica sobre o próprio texto",
-    "d": "estão corretos, mas poderiam ser substituídos por aspas, sinal de idêntico valor para comentários do autor.",
-    "e": "estão incorretos quanto à posição do ponto final, que deveria vir dentro do parêntese por integrar o comentário nele contido, e não depois do fechamento como aparece no período transcrito"
-   },
-   "resposta": "b",
-   "explicacao": "Os parênteses inserem um comentário do autor — 'transcrito conforme gravação oficial' — sem interromper a estrutura sintática da frase, e é isso que a passagem faz. A recomendação dos colchetes é o distrator mais forte, porque existe de fato em norma editorial de transcrição, para marcar a intervenção de quem transcreve: aqui, porém, o comentário é do próprio texto que apresenta a ata, e não uma interpolação na fala. O par de travessões seria alternativa possível, e a escolha entre ele e os parênteses é de ênfase, não de correção. A dúvida sobre o ponto dentro ou fora do parêntese é real e se resolve pelo alcance do comentário, que aqui é interno à frase. E substituí-los por aspas trocaria comentário por citação.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "gramatica-regencia-crase",
-   "id": "dir-gramatica-143",
-   "texto_apoio": "\"Precisamos de mais voluntários para o mutirão deste sábado, mas ainda não conseguimos precisar exatamente quantas pessoas participarão do evento.\"",
-   "enunciado": "Sobre a regência e o sentido do verbo 'precisar' nas duas ocorrências da frase, é correto afirmar que",
-   "alternativas": {
-    "a": "na primeira ocorrência, 'precisar' significa 'necessitar' e é transitivo indireto, regido pela preposição 'de'; na segunda, significa 'determinar com exatidão' e é transitivo direto, sem preposição.",
-    "b": "em ambas as ocorrências o verbo é transitivo indireto, variando apenas o grau de formalidade do complemento.",
-    "c": "na primeira ocorrência, o verbo está incorreto e deveria ser 'precisamos mais voluntários', sem preposição, tratando o complemento como objeto direto, confusão com o sentido de 'determinar com exatidão', esse sim transitivo direto.",
-    "d": "em ambas as ocorrências o verbo mantém o sentido de necessidade e por isso pede a preposição 'de', ainda que na segunda a ideia de exatidão pareça mais evidente para quem lê a frase rapidamente",
-    "e": "na segunda ocorrência o verbo está incorreto e deveria ser 'precisar de quantas pessoas', porque a interrogativa indireta que o segue funciona como complemento e complementos desse tipo pedem preposição"
-   },
-   "resposta": "a",
-   "explicacao": "Na primeira ocorrência 'precisar' significa necessitar e é transitivo indireto, regido por 'de'; na segunda significa determinar com exatidão e é transitivo direto, sem preposição. Ler as duas como necessidade é o desvio mais compreensível, porque 'não conseguimos precisar' soa próximo de 'não temos certeza', que ainda tem sabor de carência — e é a mudança de sentido que arrasta a regência. Exigir preposição diante da interrogativa indireta trata a oração como complemento preposicionado, quando ela é objeto direto. Retirar a preposição da primeira aplica ao sentido de necessitar a regência do outro. E dizer que as duas são indiretas variando só o grau de formalidade apaga a diferença semântica.",
-   "dificuldade": "dificil",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "gramatica-regencia-crase",
    "id": "dir-gramatica-146",
    "texto_apoio": "\"Poucos alunos aspiravam à vaga na universidade pública mais concorrida do estado, mas todos se dedicaram igualmente aos estudos durante o ano letivo.\"",
    "enunciado": "Sobre o uso da crase em 'aspiravam à vaga' na frase, é correto afirmar que",
@@ -38120,58 +38011,6 @@ window.QUESTION_BANKS = {
    "resposta": "a",
    "explicacao": "Palavras de sentido negativo atraem o pronome para antes do verbo. \"Ninguém\", \"nada\", \"nunca\" e \"jamais\" são as mais frequentes nesse papel.",
    "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "gramatica-regencia-crase",
-   "id": "med-gramatica-95",
-   "texto_apoio": "\"______ imediatamente após a chegada da ambulância.\"",
-   "enunciado": "Iniciando o período, a lacuna é corretamente preenchida por:",
-   "alternativas": {
-    "a": "Me comunicaram",
-    "b": "Comunicaram-me",
-    "c": "Comunicar-me-iam",
-    "d": "Comunicaram eu",
-    "e": "Tinham-me comunicado"
-   },
-   "resposta": "b",
-   "explicacao": "Sem palavra atrativa antes, o pronome vai depois do verbo. A norma escrita não admite iniciar período com átono, ainda que a fala brasileira o faça o tempo todo.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "gramatica-regencia-crase",
-   "id": "med-gramatica-109",
-   "texto_apoio": "\"A comissão decidiu ______ a penalidade a quem ______ a norma.\"",
-   "enunciado": "As lacunas são preenchidas, na ordem, por:",
-   "alternativas": {
-    "a": "inflingir – infringir",
-    "b": "infringir – infligir",
-    "c": "infligir – infligir",
-    "d": "infringir – infringir",
-    "e": "infligir – infringir"
-   },
-   "resposta": "e",
-   "explicacao": "\"Infligir\" é aplicar uma punição; \"infringir\" é violar uma regra. A forma \"inflingir\", com as duas letras juntas, não existe — é cruzamento das duas e erro frequente.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "gramatica-regencia-crase",
-   "id": "med-gramatica-118",
-   "texto_apoio": "Compare: (I) \"É importante revisar os protocolos.\" (II) \"É importante revisarmos os protocolos.\"",
-   "enunciado": "Em I o infinitivo é ______, em II é ______, e a flexão se justifica quando ______. As lacunas são preenchidas por:",
-   "alternativas": {
-    "a": "nominal – verbal – o sujeito da oração principal coincide com o da subordinada em uma das duas construções apresentadas para comparação",
-    "b": "pessoal – impessoal – o verbo da oração principal se encontra empregado no presente do indicativo em ambas as construções propostas na comparação",
-    "c": "reduzido – desenvolvido – a oração subordinada apresenta conectivo explícito ligando-a à oração principal do período composto por subordinação",
-    "d": "impessoal – pessoal – se quer explicitar quem pratica a ação",
-    "e": "simples – composto – a forma verbal vem acompanhada de auxiliar em uma das duas construções propostas no enunciado da questão apresentada"
-   },
-   "resposta": "d",
-   "explicacao": "Sem flexão, a afirmação vale para qualquer um. Flexionado, o infinitivo ganha sujeito próprio e diz quem deve revisar. A flexão é opcional, e a escolha entre as duas formas é de clareza.",
-   "formato": "lacunas",
-   "banca": "unesp",
    "origem": "medicina"
   },
   {
@@ -39140,6 +38979,24 @@ window.QUESTION_BANKS = {
    "resposta": "e",
    "explicacao": "A regra vale para \"aceito/aceitado\", \"pago/pagado\", \"impresso/imprimido\": a forma curta acompanha os auxiliares da passiva, a longa acompanha os dos tempos compostos.",
    "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-118",
+   "texto_apoio": "Compare: (I) \"É importante revisar os protocolos.\" (II) \"É importante revisarmos os protocolos.\"",
+   "enunciado": "Em I o infinitivo é ______, em II é ______, e a flexão se justifica quando ______. As lacunas são preenchidas por:",
+   "alternativas": {
+    "a": "nominal – verbal – o sujeito da oração principal coincide com o da subordinada em uma das duas construções apresentadas para comparação",
+    "b": "pessoal – impessoal – o verbo da oração principal se encontra empregado no presente do indicativo em ambas as construções propostas na comparação",
+    "c": "reduzido – desenvolvido – a oração subordinada apresenta conectivo explícito ligando-a à oração principal do período composto por subordinação",
+    "d": "impessoal – pessoal – se quer explicitar quem pratica a ação",
+    "e": "simples – composto – a forma verbal vem acompanhada de auxiliar em uma das duas construções propostas no enunciado da questão apresentada"
+   },
+   "resposta": "d",
+   "explicacao": "Sem flexão, a afirmação vale para qualquer um. Flexionado, o infinitivo ganha sujeito próprio e diz quem deve revisar. A flexão é opcional, e a escolha entre as duas formas é de clareza.",
+   "formato": "lacunas",
+   "banca": "unesp",
    "origem": "medicina"
   },
   {
@@ -40930,6 +40787,24 @@ window.QUESTION_BANKS = {
    "dificuldade": "media",
    "formato": "direta",
    "banca": "fgv",
+   "origem": "direito"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "dir-gramatica-142",
+   "texto_apoio": "\"A ata da reunião registrou o seguinte trecho da fala do diretor (transcrito conforme gravação oficial): 'Vamos revisar todo o cronograma até sexta-feira.'\"",
+   "enunciado": "Sobre o uso dos parênteses na frase, é correto afirmar que",
+   "alternativas": {
+    "a": "deveriam ser substituídos por colchetes, porque em transcrição de fala a norma editorial reserva os colchetes às intervenções de quem transcreve, distinguindo-as do que foi efetivamente dito pelo falante",
+    "b": "estão empregados corretamente para inserir um comentário ou esclarecimento adicional ('transcrito conforme gravação oficial') sem interromper a estrutura sintática principal da frase.",
+    "c": "estão incorretos porque o esclarecimento deveria vir isolado por um par de travessões, sinal que a norma prefere quando o comentário intercalado traz informação de natureza técnica sobre o próprio texto",
+    "d": "estão corretos, mas poderiam ser substituídos por aspas, sinal de idêntico valor para comentários do autor.",
+    "e": "estão incorretos quanto à posição do ponto final, que deveria vir dentro do parêntese por integrar o comentário nele contido, e não depois do fechamento como aparece no período transcrito"
+   },
+   "resposta": "b",
+   "explicacao": "Os parênteses inserem um comentário do autor — 'transcrito conforme gravação oficial' — sem interromper a estrutura sintática da frase, e é isso que a passagem faz. A recomendação dos colchetes é o distrator mais forte, porque existe de fato em norma editorial de transcrição, para marcar a intervenção de quem transcreve: aqui, porém, o comentário é do próprio texto que apresenta a ata, e não uma interpolação na fala. O par de travessões seria alternativa possível, e a escolha entre ele e os parênteses é de ênfase, não de correção. A dúvida sobre o ponto dentro ou fora do parêntese é real e se resolve pelo alcance do comentário, que aqui é interno à frase. E substituí-los por aspas trocaria comentário por citação.",
+   "dificuldade": "media",
+   "formato": "direta",
    "origem": "direito"
   },
   {
@@ -52127,7 +52002,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A doutrina funciona na obra como:",
    "alternativas": {
     "a": "resumo das teorias científicas em circulação, apresentadas sem qualquer julgamento ao leitor",
-    "b": "exposição séria do pensamento do autor, que teria adotado essa doutrina como fundamento de toda a sua produção literária a partir daquele momento",
+    "b": "exposição séria do pensamento do autor, que teria adotado essa doutrina como fundamento da sua produção literária inteira a partir daquele momento",
     "c": "paródia das filosofias que transformam a força em direito, levando ao ridículo o darwinismo social do período",
     "d": "recurso de caracterização psicológica da personagem principal, sem qualquer relação com os debates intelectuais em curso naquele período",
     "e": "homenagem às correntes positivistas então dominantes no país, cujas ideias o autor divulgaria"
@@ -52676,7 +52551,7 @@ window.QUESTION_BANKS = {
     "a": "aparece sempre idealizada como espaço de progresso e de oportunidade, leitura que atravessa sem alteração os cinco momentos apresentados",
     "b": "mantém ao longo de todo o período a mesma função de pano de fundo neutro, sem qualquer influência sobre as personagens que nela circulam",
     "c": "deixa de ser cenário e passa a ser assunto e problema, aquilo de que a história trata e não apenas onde ela se passa",
-    "d": "é progressivamente abandonada em favor do espaço rural, deslocamento que se completa com a produção do romance regionalista dos anos trinta",
+    "d": "é progressivamente abandonada em favor do espaço rural e essa mudança se completaria com a produção do romance regionalista dos anos trinta",
     "e": "recebe tratamento exclusivamente documental, com registro estatístico das mudanças"
    },
    "resposta": "c",
@@ -54179,7 +54054,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "enunciado": "A metáfora da devoração, no Manifesto Antropófago, serve para defender",
    "alternativas": {
-    "a": "o isolamento cultural do país em relação a toda influência estrangeira.",
+    "a": "o isolamento cultural do país em relação às influências estrangeiras europeias.",
     "b": "a imitação fiel dos modelos europeus como caminho de modernização.",
     "c": "a apropriação transformadora do que vem de fora, sem recusa nem cópia.",
     "d": "o retorno a uma origem indígena tida como pura e anterior ao contato.",
@@ -56195,7 +56070,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "recusar o tema nacional em favor de assuntos universais, próximos das correntes europeias",
     "b": "abandonar por completo os recursos da retórica romântica, adotando linguagem contida",
-    "c": "restringir-se ao registro documental dos fatos observados, sem que o poeta manifeste qualquer posição sobre a situação que descreve nos versos",
+    "c": "restringir-se ao registro documental dos fatos observados, sem que o poeta manifeste posição alguma sobre a situação que descreve nos versos",
     "d": "deslocar o sofrimento do eu lírico para um sujeito coletivo e concreto, mantendo intacta a retórica romântica",
     "e": "adotar formas fixas rigorosas herdadas da tradição clássica, em contraste com os antecessores"
    },
@@ -57183,7 +57058,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "abandonar o português como língua literária e substituí-lo por uma língua formada a partir dos idiomas indígenas",
     "b": "reconhecer autonomia à variedade brasileira diante da norma lisboeta, recusando Lisboa como única medida de correção",
-    "c": "aceitar sem restrições todos os estrangeirismos em circulação no país, medida que os críticos portugueses consideravam empobrecedora do idioma",
+    "c": "aceitar sem restrições os estrangeirismos em circulação no país, medida que os críticos portugueses consideravam empobrecedora do idioma nacional",
     "d": "restringir a literatura brasileira a temas locais, deixando de lado o que interessasse a outros países",
     "e": "eliminar da escrita literária as marcas da oralidade, aproximando o texto de um padrão único"
    },
@@ -65585,7 +65460,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A leitura dessa data:",
    "alternativas": {
     "a": "difere entre o padrão britânico e o americano: três de abril no Reino Unido e quatro de março nos Estados Unidos",
-    "b": "é idêntica nos dois padrões, uma vez que a ordem dos elementos foi uniformizada por convenção internacional adotada por todos os países",
+    "b": "é idêntica nos dois padrões, uma vez que a ordem dos elementos foi uniformizada por convenção internacional adotada pelos países signatários",
     "c": "segue sempre a ordem ano, mês e dia nos textos escritos em língua inglesa, independentemente da variedade adotada por quem escreve",
     "d": "depende exclusivamente do contexto em que a data aparece, sem que exista qualquer convenção estabelecida para a escrita em cada país",
     "e": "é impossível de determinar sem a indicação expressa do dia da semana correspondente"
@@ -67389,8 +67264,8 @@ window.SUBTEMAS_POR_FRENTE = {
   "matematica-polinomios"
  ],
  "fisica": [
-  "fisica-termologia",
   "fisica-mecanica",
+  "fisica-termologia",
   "fisica-ondas-optica",
   "fisica-eletromagnetismo",
   "fisica-hidrostatica",
@@ -67401,9 +67276,9 @@ window.SUBTEMAS_POR_FRENTE = {
   "quimica-eletroquimica",
   "quimica-atomistica-ligacoes",
   "quimica-equilibrio-acido-base",
-  "quimica-estequiometria",
   "quimica-organica",
   "quimica-solucoes",
+  "quimica-estequiometria",
   "quimica-termoquimica-cinetica"
  ],
  "gramatica": [

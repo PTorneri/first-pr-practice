@@ -253,7 +253,7 @@ const SUBTEMAS = {
       [/tabela peri[óo]dica|per[íi]odo\b|fam[íi]lia\b|grupo \d+|metal alcalino|halog[êe]nio|g[áa]s nobre/i, 5],
       [/liga[çc][ãa]o (i[ôo]nica|covalente|met[áa]lica|de hidrog[êe]nio)|for[çc]as intermolec|dipolo|van der waals/i, 5],
       [/eletronegatividade|raio at[ôo]mico|energia de ioniza[çc][ãa]o|afinidade eletr/i, 5],
-      [/geometria molecular|polaridade|molecula (polar|apolar)|\bVSEPR\b|hibrid/i, 5],
+      [/geometria molecular|polaridade|molecula (polar|apolar)|\bV	R\b|hibrid/i, 5],
       [/is[óo]topo|is[óo]baro|is[óo]tono|n[úu]mero at[ôo]mico|n[úu]mero de massa|radioativ|meia-vida/i, 4],
     ] },
     { id: "quimica-termoquimica-cinetica", nome: "Termoquímica e Cinética", regras: [
@@ -398,7 +398,9 @@ const SUBTEMAS = {
       [/relevo|planalto|plan[íi]cie|depress[ãa]o (relativa|absoluta)|\bserra\b|escudo cristalino|intemperismo|eros[ãa]o/i, 5],
       [/solo[s]?\b|lat[ée]rit|pedolog|fertilidade do solo|salini/i, 4],
       [/vegeta[çc][ãa]o|bioma|cerrado|caatinga|mata atl[âa]ntica|floresta amaz[ôo]nica|pampa|manguezal/i, 5],
-      [/hidrograf|bacia (hidrogr|do rio)|aqu[íi]fero|len[çc]ol fre[áa]tico|\brio\b|nascente/i, 5],
+      // `\brio\b(?! de janeiro)`: a cidade aparece em texto de qualquer assunto,
+      // e sem a exceção toda questão ambientada no Rio virava hidrografia.
+      [/hidrograf|bacia (hidrogr|do rio)|aqu[íi]fero|len[çc]ol fre[áa]tico|\brio\b(?! de janeiro)|nascente/i, 5],
       [/placa[s]? tect[ôo]nica|terremoto|vulc[ãa]o|s[íi]smic|tsunami/i, 5],
     ] },
     { id: "geografia-populacao-urbana", nome: "População e Espaço Urbano", regras: [
@@ -652,7 +654,7 @@ const SUBTEMAS = {
       [/epistemolog|teoria do conhecimento|conhecimento (verdadeiro|cient[íi]fico)|verdade|ceticismo|d[úu]vida met[óo]dica|descartes|cogito/i, 5],
       [/racionalis|empiris|hume|kant .*(raz[ãa]o|conhecimento)|a priori|a posteriori|criticismo/i, 5],
       [/plat[ãa]o|mito da caverna|mundo das ideias|s[óo]crates|maiêutica|maieutica|sofista/i, 5],
-      [/l[óo]gica|silogismo|premissa|falacia|fal[áa]cia|argumento (v[áa]lido|dedutivo|indutivo)|dedu[çc][ãa]o|indu[çc][ãa]o/i, 5],
+      [/\bl[óo]gica|silogismo|premissa|falacia|fal[áa]cia|argumento (v[áa]lido|dedutivo|indutivo)|dedu[çc][ãa]o|indu[çc][ãa]o/i, 5],
       [/filosofia da ci[êe]ncia|popper|kuhn|paradigma cient[íi]fico|falseabilidade|m[ée]todo cient[íi]fico/i, 5],
       [/metaf[íi]sica|ontolog|exist[êe]ncia|ser\b.*(enquanto|em si)|nietzsche|existencialis|sartre/i, 4],
     ] },
@@ -660,7 +662,7 @@ const SUBTEMAS = {
       [/marx|marxis|mais-valia|luta de classes|classe (social|trabalhadora|dominante)|burguesia|proletariado|aliena[çc][ãa]o/i, 5],
       [/capitalismo|modo de produ[çc][ãa]o|acumula[çc][ãa]o|explora[çc][ãa]o do trabalho|for[çc]a de trabalho|mercadoria/i, 5],
       [/durkheim|divis[ãa]o (social )?do trabalho|solidariedade (mec[âa]nica|org[âa]nica)|anomia|fato social|coer[çc][ãa]o social/i, 5],
-      [/weber|a[çc][ãa]o social|tipo ideal|racionaliza[çc][ãa]o|burocracia|\b[ée]tica protestante|desencantamento/i, 5],
+      [/weber|\ba[çc][ãa]o social|tipo ideal|racionaliza[çc][ãa]o|burocracia|\b[ée]tica protestante|desencantamento/i, 5],
       [/desigualdade (social|de renda)|mobilidade social|estratifica[çc][ãa]o|pobreza|precariza[çc][ãa]o|uberiza[çc][ãa]o|trabalho (informal|por plataforma)/i, 5],
       [/taylorismo|fordismo|toyotismo|reestrutura[çc][ãa]o produtiva|desemprego estrutural/i, 5],
     ] },
@@ -1146,6 +1148,68 @@ const REVISADAS = {
   // Antissemitismo no Brasil dos anos 1930. "Anarquista e comunista" puxava
   // para história geral contemporânea, mas o episódio é da Era Vargas.
   "enem-historia-12": "historia-brasil-republica",
+
+  // Geografia do mesmo caderno. Aqui o problema não é falta de sinal, é
+  // EXCESSO: o texto do ENEM é transversal por vocação, e a mesma questão cita
+  // agricultura, indústria e mineração na mesma frase. A regra mais forte ganha,
+  // e nem sempre é a do assunto que a questão de fato cobra.
+  //
+  // Soja e desmatamento na Amazônia — o tema é grilagem de terra pública, não
+  // conservação; "desmatamento" levava a questão para sustentabilidade.
+  "enem-geografia-06": "geografia-agraria-economica",
+  // Xinjiang: a migração han é o INSTRUMENTO, e a integridade territorial é o
+  // objetivo. "Migrantes" puxava para população.
+  "enem-geografia-02": "geografia-geopolitica",
+  // Acordo Mercosul–UE: quem é citado é o setor industrial europeu, mas o
+  // assunto é barreira comercial entre blocos.
+  "enem-geografia-10": "geografia-geopolitica",
+  // Milton Santos sobre competitividade e dumping — globalização, e "produção
+  // industrial" é texto de distrator.
+  "enem-geografia-11": "geografia-geopolitica",
+  // Cenários do IPCC. "Deslocamento de população" aparece só como consequência.
+  "enem-geografia-12": "geografia-fisica-clima",
+  // Mocambos sobre o mangue do Recife: o mangue é o cenário, a ocupação urbana
+  // é o assunto.
+  "enem-geografia-05": "geografia-populacao-urbana",
+  // Agricultura urbana no Rio de Janeiro — cidade, não hidrografia.
+  "enem-geografia-08": "geografia-populacao-urbana",
+  // Degradação do solo: a lista de causas (agricultura, mineração, despejo
+  // industrial) é o enunciado inteiro, e nenhuma delas é o assunto cobrado.
+  "enem-geografia-09": "geografia-ambiente-sustentabilidade",
+
+  // Filosofia e Sociologia do mesmo caderno. A tabela dessas seis áreas é a
+  // mais porosa do banco: "moral", "cultura", "social" e "lógica" aparecem em
+  // qualquer questão de Humanas, e metade do lote fecha em zero ponto.
+  //
+  // Plataforma Ancestralidades: crítica ao eurocentrismo na formação cultural.
+  "enem-filosofia-sociologia-12": "sociologia-cultura-identidade",
+  // Balzac e a educação de Anaïs — papel de gênero rompido.
+  "enem-filosofia-sociologia-15": "sociologia-cultura-identidade",
+  // Adorno e Horkheimer: o lazer como prolongamento do trabalho. "Indústria
+  // cultural" tem as duas palavras, e "cultura" ganhava de "trabalho".
+  "enem-filosofia-sociologia-04": "sociologia-trabalho-classes",
+  // Os linguistas que treinam o Google Assistant: trabalho invisível.
+  "enem-filosofia-sociologia-09": "sociologia-trabalho-classes",
+  // Carolina Maria de Jesus e Petrolândia: a fome que atravessa 70 anos.
+  "enem-filosofia-sociologia-11": "sociologia-trabalho-classes",
+  // Gerineldo e Sartre: determinismo contra transcendência.
+  "enem-filosofia-sociologia-13": "filosofia-etica-moral",
+  // Ricoeur sobre o perdão que não se pode exigir. Fecha em zero em todos os
+  // subtemas e ia parar onde a ordem da lista mandasse.
+  "enem-filosofia-sociologia-06": "filosofia-etica-moral",
+  // Lei Maria da Penha e violência patrimonial — instituição, não ética.
+  "enem-filosofia-sociologia-08": "sociologia-instituicoes-movimentos",
+  // Lina Bo Bardi: o reconhecimento veio da mobilização por equidade de gênero.
+  "enem-filosofia-sociologia-10": "sociologia-instituicoes-movimentos",
+
+  // Atualidades e Artes do mesmo caderno.
+  // Juízas afegãs escondidas sob o Talibã — geopolítica, não política interna.
+  "enem-atualidades-02": "atualidades-geopolitica",
+  // A corrida espacial dos bilionários e a charge que desconfia dela.
+  "enem-atualidades-03": "atualidades-tecnologia",
+  // Cavalgada de Sant'Ana, registrada pelo IPHAN. A palavra "catedral" puxava
+  // para arte clássica; o assunto é festa popular e patrimônio imaterial.
+  "enem-artes-cultura-01": "artes-patrimonio-cultura-popular",
 };
 
 // ------------------------------------------------------------------- classificação
@@ -1264,7 +1328,7 @@ function casaDentroDePalavra(frenteAlvo) {
         while (b < txt.length && LETRA_RX.test(txt[b])) b++;
         const palavra = txt.slice(a, b);
         if (palavra.toLowerCase() === m[0].toLowerCase()) continue;
-        const k = tabela + "/" + s.id + " " + m[0].toLowerCase() + " " + palavra.toLowerCase();
+        const k = tabela + "/" + s.id + "\t" + m[0].toLowerCase() + "\t" + palavra.toLowerCase();
         achados[k] = (achados[k] || 0) + 1;
       }
     });
@@ -1273,7 +1337,7 @@ function casaDentroDePalavra(frenteAlvo) {
   const ord = Object.entries(achados).sort((x, y) => y[1] - x[1]);
   console.log(textos.length + " questões varridas, " + ord.length + " pares regra×palavra\n");
   ord.slice(0, 40).forEach(([k, n]) => {
-    const [ondeVai, casou, palavra] = k.split(" ");
+    const [ondeVai, casou, palavra] = k.split("\t");
     console.log(String(n).padStart(6) + "  " + ondeVai.padEnd(44) + '"' + casou + '" dentro de "' + palavra + '"');
   });
   if (ord.length > 40) console.log("\n  … e mais " + (ord.length - 40) + " pares.");

@@ -176,16 +176,16 @@ window.VIDEO_TOPICS = {
    "busca": "aula relações de Girard teorema do resto polinômios vestibular"
   }
  ],
- "fisica-termologia": [
-  {
-   "tema": "Termologia e gases ideais",
-   "busca": "aula termologia gases ideais vestibular"
-  }
- ],
  "fisica-mecanica": [
   {
    "tema": "Cinemática e leis de Newton",
    "busca": "aula cinemática leis de newton vestibular"
+  }
+ ],
+ "fisica-termologia": [
+  {
+   "tema": "Termologia e gases ideais",
+   "busca": "aula termologia gases ideais vestibular"
   }
  ],
  "fisica-ondas-optica": [
@@ -256,12 +256,6 @@ window.VIDEO_TOPICS = {
    "busca": "aula equilíbrio químico pH vestibular"
   }
  ],
- "quimica-estequiometria": [
-  {
-   "tema": "Estequiometria e cálculos com mol",
-   "busca": "aula estequiometria mol vestibular medicina"
-  }
- ],
  "quimica-organica": [
   {
    "tema": "Química orgânica: funções e isomeria",
@@ -272,6 +266,12 @@ window.VIDEO_TOPICS = {
   {
    "tema": "Soluções e concentração",
    "busca": "aula concentração molaridade soluções vestibular"
+  }
+ ],
+ "quimica-estequiometria": [
+  {
+   "tema": "Estequiometria e cálculos com mol",
+   "busca": "aula estequiometria mol vestibular medicina"
   }
  ],
  "quimica-termoquimica-cinetica": [

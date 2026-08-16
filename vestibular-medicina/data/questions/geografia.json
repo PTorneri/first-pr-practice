@@ -5539,6 +5539,246 @@
       },
       "resposta": "b",
       "explicacao": "O território brasileiro está no INTERIOR da placa Sul-Americana, longe das bordas onde as placas colidem — por isso não tem dobramentos modernos, vulcões ativos nem terremotos de porte. Sobre um embasamento rochoso muito antigo, quem esculpiu o relevo foram as forças exógenas: erosão pela chuva, pelos rios e pelo vento, ao longo de centenas de milhões de anos, rebaixando o que era montanha e produzindo o predomínio de planaltos e depressões. As alternativas que atribuem o relevo brasileiro a tectonismo recente ou a formação no Terciário e no Quaternário descrevem justamente o que aqui NÃO acontece, e valeriam para os Andes, do outro lado do continente."
+    },
+    {
+      "id": "enem-geografia-01",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "No Cerrado, o conhecimento local está sendo cada vez mais subordinado à lógica do agronegócio. De um lado, o capital impõe os conhecimentos biotecnológicos, como mecanismo de universalização de práticas agrícolas e de novas tecnologias, e de outro, o modelo capitalista subordina homens e mulheres à lógica do mercado. Assim, as águas, as sementes, os minerais, as terras (bens comuns) tornam-se propriedade privada. Além do mais, há outros fatores negativos, como a mecanização pesada, a \"pragatização\" dos seres humanos e não humanos, a violência simbólica, a superexploração, as chuvas de veneno e a violência contra a pessoa.",
+      "fonte_texto": "CALAÇA, M.; SILVA, E. B.; JESUS, J. N. Territorialização do agronegócio e subordinação do campesinato no Cerrado. Élisée, Rev. Geo. UEG, n. 1, jan.-jun. 2021 (adaptado).",
+      "enunciado": "Os elementos descritos no texto, a respeito da territorialização da produção, demonstram que há um",
+      "alternativas": {
+        "a": "cerco aos camponeses, inviabilizando a manutenção das condições para a vida.",
+        "b": "descaso aos latifundiários, impactando a plantação de alimentos para a exportação.",
+        "c": "desprezo ao assalariado, afetando o engajamento dos sindicatos para o trabalhador.",
+        "d": "desrespeito aos governantes, comprometendo a criação de empregos para o lavrador.",
+        "e": "assédio ao empresariado, dificultando o investimento de maquinários para a produção."
+      },
+      "resposta": "a",
+      "explicacao": "Repare no que a lista do texto tira do camponês, um item de cada vez: a água, a semente, o mineral e a terra deixam de ser bens comuns e viram propriedade privada; o veneno cai sobre o que sobrou; e a violência se dirige à própria pessoa. Retirados os meios de produzir e o direito de permanecer, o que resta é o cerco — a impossibilidade de continuar vivendo ali. O erro dos outros quatro é o mesmo e é fácil de ver: todos elegem como vítima quem o texto aponta como beneficiário do processo (latifundiário, empresariado) ou quem ele nem menciona (assalariado com sindicato, governante). Quem perde no Cerrado descrito é o campesinato."
+    },
+    {
+      "id": "enem-geografia-02",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "TEXTO I\nCom uma população de 25 milhões de habitantes (cerca de 60% de minorias muçulmanas, principalmente da etnia Uigur), Xinjiang é uma região estratégica para a China. Faz fronteira com oito países, é uma artéria crucial do megaprojeto de infraestrutura chinês Cinturão e Rota e tem as maiores reservas nacionais de carvão e gás natural.\n\nTEXTO II\nDentre as províncias da Região Oeste, Xinjiang se destaca ao receber mais de 1,7 milhão de migrantes entre 2000 e 2010. O principal motivo desse fluxo migratório é que o governo fornece subsídios à população visando aumentar a proporção de chineses da etnia Han em relação à população local de etnias turca e muçulmana.",
+      "fonte_texto": "TEXTO I: NINIO, M. Disponível em: https://oglobo.globo.com. Acesso em: 5 out. 2021 (adaptado). — TEXTO II: ALVES, F.; TOYOSHIMA, S. Disparidade socioeconômica e fluxo migratório chinês. Revista de Economia Contemporânea, n. 1, jan.-abr. 2017 (adaptado).",
+      "enunciado": "A política demográfica para a província mencionada nos textos é parte da seguinte ação estratégica do governo chinês:",
+      "alternativas": {
+        "a": "Promover a ocupação rural.",
+        "b": "Favorecer a liberdade religiosa.",
+        "c": "Descentralizar a gestão pública.",
+        "d": "Incentivar a pluralidade cultural.",
+        "e": "Assegurar a integridade territorial."
+      },
+      "resposta": "e",
+      "explicacao": "Os dois textos precisam ser lidos juntos. O primeiro diz por que Xinjiang importa: oito fronteiras, o corredor da Nova Rota da Seda e as maiores reservas de carvão e gás do país. O segundo diz o que o governo faz: subsidia a migração de chineses han para diluir a proporção de uigures. Trocar a composição étnica de uma província fronteiriça e estratégica, onde a maioria é de outra etnia e outra religião, é uma forma de reduzir o risco de reivindicação separatista — ou seja, de assegurar que aquele território continue sendo China. Duas opções dizem o oposto do descrito: uma política que dilui deliberadamente uma minoria não favorece nem a liberdade religiosa nem a pluralidade cultural. E o texto não trata de povoar o campo nem de transferir poder às províncias — pelo contrário, a iniciativa é do governo central."
+    },
+    {
+      "id": "enem-geografia-03",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "A Cordilheira do Himalaia tem mais de 50 milhões de anos, sendo classificada como a maior cordilheira do planeta. Originário da língua sânscrito, comum na região, seu nome quer dizer \"morada da neve\". É possível encontrar nessa cordilheira as quinze maiores montanhas do mundo. Ao todo, existem mais de cem picos, que contam com altitudes bem maiores que 7 000 m. O Everest, considerado o ponto mais alto da Terra, tem nada menos que 8 848 m de altitude, e continua crescendo, aproximadamente, 0,8 mm a cada ano.",
+      "fonte_texto": "Disponível em: https://meioambiente.culturamix.com. Acesso em: 12 nov. 2021 (adaptado).",
+      "enunciado": "Qual dinâmica natural é responsável pelo fenômeno apresentado?",
+      "alternativas": {
+        "a": "Derrame de lava vulcânica.",
+        "b": "Encontro de placas tectônicas.",
+        "c": "Ação do intemperismo químico.",
+        "d": "Sedimentação de erosão eólica.",
+        "e": "Derretimento de geleiras glaciais."
+      },
+      "resposta": "b",
+      "explicacao": "O detalhe que o enunciado pede é o crescimento: 0,8 mm por ano, ainda hoje. Isso só se explica por soerguimento ativo, e o Himalaia é o caso clássico — a placa Indiana avança contra a Euroasiática desde cerca de 50 milhões de anos atrás, e a colisão entre duas crostas continentais, sem que nenhuma afunde sob a outra, dobra e empilha a rocha para cima. As demais alternativas descrevem processos que ou não formam cadeias desse porte ou fazem o contrário. Vulcanismo constrói montanhas isoladas, não uma cordilheira de cem picos acima de 7 000 m. Intemperismo químico, erosão eólica e degelo são agentes de desgaste: eles rebaixam o relevo, e nenhum deles faria uma montanha ganhar altura."
+    },
+    {
+      "id": "enem-geografia-04",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "No sul da Bahia, desde o século XVIII, tem-se registros de um tipo de sistema agroflorestal. Até hoje, esse sistema é característica marcante da paisagem da região, conhecido como cabruca, que consiste no cultivo do cacau à sombra do dossel da floresta nativa. Esse sistema de cultivo do cacau (graças à tolerância da espécie à sombra) é considerado amigável para a vida silvestre, pois apresenta superioridade em termos de conservação da biodiversidade quando comparado com outras plantações tropicais (monoculturas de dendê, seringa ou café), agricultura ou pastagens.",
+      "fonte_texto": "SOLLBERG, I.; SCHIAVETTI, A.; MORAES, M. E. B. Manejo agrícola no Refúgio de Vida Silvestre de Una. Revista Árvore, n. 2, 2014 (adaptado).",
+      "enunciado": "A prática produtiva apresentada é um exemplo de",
+      "alternativas": {
+        "a": "difusão comercial de lavouras temporárias.",
+        "b": "utilização sustentável dos recursos naturais.",
+        "c": "ampliação tecnológica da pecuária intensiva.",
+        "d": "padronização alimentar dos povos tradicionais.",
+        "e": "modernização logística de plantios convencionais."
+      },
+      "resposta": "b",
+      "explicacao": "A cabruca produz e conserva ao mesmo tempo: o cacau cresce sob o dossel da mata nativa, que permanece de pé, e por isso o sistema mantém mais biodiversidade que as monoculturas vizinhas. Produzir sem destruir a base natural do que se produz é a definição prática de uso sustentável. Os distratores erram no que descrevem. O cacau é lavoura permanente, não temporária. Não há pecuária no texto — a pastagem aparece justamente como termo de comparação desfavorável. Não se trata de alimentação de povos tradicionais, e sim de um sistema de cultivo. E a cabruca não moderniza o plantio convencional: ela é a alternativa a ele, e é anterior a ele na região, com registros desde o século XVIII."
+    },
+    {
+      "id": "enem-geografia-05",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "texto_apoio": "O masseiro, a mulher, e quatro filhos, dormindo numa tapera de quatro paredes de caixão, coberta de zinco. A água do mangue, na maré cheia, ia dentro de casa. Os maruins de noite encalombavam o corpo dos meninos. O mangue tinha ocasião que fedia, e os urubus faziam ponto por ali atrás dos petiscos. Perto da rua lavavam couro de boi, pele de bode para o curtume de um espanhol. Morria peixe envenenado, e quando a maré secava, os urubus enchiam o papo, ciscavam a lama, passeando banzeiros pelas biqueiras dos mocambos no Recife.",
+      "fonte_texto": "RÊGO, J. L. O moleque Ricardo. Rio de Janeiro: J. Olympio, 1966 (adaptado).",
+      "enunciado": "A aglomeração urbana representada no texto resulta em",
+      "alternativas": {
+        "a": "conservação do meio rural.",
+        "b": "crescimento da vegetação ciliar.",
+        "c": "interferência do espaço geográfico.",
+        "d": "equilíbrio do ambiente das cidades.",
+        "e": "controle da proliferação dos animais."
+      },
+      "resposta": "c",
+      "explicacao": "O trecho mostra a cidade ocupando o manguezal e alterando tudo o que encontra ali: casas de tábua de caixão erguidas sobre a maré, o curtume despejando resíduo, o peixe morrendo envenenado, os urubus atraídos pelos restos. Não é a natureza como cenário, é a natureza modificada pela ocupação — a interferência humana produzindo um espaço geográfico novo. As outras quatro afirmam melhorias que o texto desmente linha a linha: não há conservação de nada, a vegetação do mangue está sendo suprimida e não crescendo, o ambiente descrito é o oposto de equilibrado, e a fauna não está sob controle — os urubus se multiplicam justamente porque a degradação lhes oferece alimento."
+    },
+    {
+      "id": "enem-geografia-06",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "texto_apoio": "Alternativas logísticas estão servindo de instrumentos que ativam os mercados especuladores de terras nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e, com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parto da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas.",
+      "fonte_texto": "OLIVEIRA, A. U. A Amazônia e a nova geografia da produção da soja. Terra Livre, n. 26, jan.-jun. 2006 (adaptado).",
+      "enunciado": "Na visão do autor, o problema central da situação descrita é desencadeado pela",
+      "alternativas": {
+        "a": "apropriação de áreas devolutas.",
+        "b": "sonegação de impostos federais.",
+        "c": "incorporação de exportação ilegal.",
+        "d": "desoneração de setores produtivos.",
+        "e": "flexibilização de legislação ambiental."
+      },
+      "resposta": "a",
+      "explicacao": "O autor faz questão de deslocar a culpa: a soja participa, mas não é o fator principal; o motor é o tripé grileiros, madeireiros e pecuaristas. E quem abre a sequência é o grileiro — aquele que se apossa de terra pública sem título, em geral área devoluta, e a converte em propriedade com documento falso. É essa apropriação que põe o resto em movimento, porque cria o ativo que os mercados especuladores negociam. As demais opções são problemas reais da região, mas nenhuma é apontada no texto: não há menção a imposto, a exportação, a desoneração de setor nem a mudança na lei ambiental. A palavra que o autor usa é grileiro, e grilagem é tomada de terra."
+    },
+    {
+      "id": "enem-geografia-07",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Taxa de fecundidade no Brasil, em filhos por mulher (IBGE). De 1960 a 2020, o número de filhos baixa de 6,3 para 1,5:\n1960: 6,3 — 1970: 5,8 — 1980: 4,1 — 1990: 2,8 — 2000: 2,4 — 2010: 1,8 — 2020: 1,5\nA projeção mantém o valor de 1,5 filho por mulher em 2030, 2040 e 2050.",
+      "fonte_texto": "Disponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado).",
+      "enunciado": "Qual fator foi determinante para a mudança do indicador apresentado no gráfico?",
+      "alternativas": {
+        "a": "Flexibilização legal da prática de aborto.",
+        "b": "Envelhecimento da população brasileira.",
+        "c": "Crescimento dos casos de gravidez precoce.",
+        "d": "Participação feminina no mercado de trabalho.",
+        "e": "Diminuição dos benefícios na licença-maternidade."
+      },
+      "resposta": "d",
+      "explicacao": "A queda de 6,3 para 1,5 filho por mulher em sessenta anos acompanha a entrada maciça das mulheres no mercado de trabalho, junto com a urbanização, a escolarização feminina e o acesso a métodos contraceptivos. Uma mulher com renda e carreira própria adia a maternidade e tem menos filhos — é o mecanismo demográfico mais bem documentado da transição brasileira. Duas opções erram o sentido: gravidez precoce aumentaria a fecundidade, e cortar licença-maternidade não é o que ocorreu no período. Uma erra a causalidade: o envelhecimento da população é CONSEQUÊNCIA da queda da fecundidade, não a causa dela. E a legislação brasileira sobre aborto não foi flexibilizada nesses sessenta anos."
+    },
+    {
+      "id": "enem-geografia-08",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Os movimentos da agricultura urbana no Rio de Janeiro vêm crescendo nos últimos vinte anos, tanto por meio de reproduções de modelos de vida antigos, vinculados ao resgate dos próprios costumes, como — e cada vez mais — são revelados hábitos inventivos nos quais moradores urbanos de diferentes classes sociais, sem nenhuma referência anterior com o campo, passam a se dedicar a essas atividades. Ao possibilitar o acesso ao plantio e, consequentemente, à alimentação, permite-se uma nova relação com o que se come, reduzindo o percurso da cadeia produtiva e aproximando produtores de consumidores, pois ambos se confundem nas experiências de agricultura urbana.",
+      "fonte_texto": "PORTILHO, M.; RODRIGUES, C. G. O.; FERNANDEZ, A. C. F. Cultivando relações no arranjo local da Penha. Cidades, Comunidades e Territórios, n. 42, jun. 2021.",
+      "enunciado": "A prática agrícola destacada no texto apresenta como vantagem no espaço urbano a",
+      "alternativas": {
+        "a": "ocupação de lugares ociosos.",
+        "b": "densificação da área central.",
+        "c": "valorização do mercado externo.",
+        "d": "priorização de insumos químicos.",
+        "e": "mecanização de técnicas de cultivo."
+      },
+      "resposta": "a",
+      "explicacao": "Plantar na cidade exige chão, e o chão que a cidade tem sobrando é o terreno baldio, a laje, o canteiro abandonado, a faixa sob a linha de transmissão. A horta dá função a esses vazios, e essa é a vantagem propriamente urbana da prática — as outras (comida mais fresca, cadeia mais curta) são vantagens alimentares, não espaciais. Os distratores descrevem o contrário do que o texto conta: a horta não adensa a área central, ela ocupa vazios; a produção é local e vai para quem mora perto, o oposto do mercado externo; e a agricultura urbana comunitária tende ao cultivo agroecológico em pequena escala, sem insumo químico pesado nem maquinário."
+    },
+    {
+      "id": "enem-geografia-09",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Diversos são os fatores causadores da degradação do solo, atuando de forma direta ou indireta, mas quase sempre a grande maioria das terras degradadas inicia esse processo com o desmatamento, que pode ser seguido por diversas formas de ocupação desordenada, como: corte de taludes para a construção de casas, rodovias e ferrovias, agricultura, com uso da queimada, vários tipos de mineração, irrigação excessiva, crescimento desordenado das cidades, superpastoreio, uso do solo para diversos tipos de despejos industriais e domésticos, sem tratamento da área que recebe esses despejos; enfim, de uma forma ou de outra, os solos tornam-se degradados, sendo muitas vezes difícil, ou quase impossível, a sua recuperação.",
+      "fonte_texto": "GUERRA, A. T. Degradação dos solos: conceitos e temas. In: GUERRA, A. T.; JORGE, M. C. O. (Org.). Degradação dos solos no Brasil. Rio de Janeiro: Difel, 2018.",
+      "enunciado": "A partir da ocupação desordenada exposta no texto, o que impede a recuperação do recurso natural destacado é a",
+      "alternativas": {
+        "a": "elevação da biomassa.",
+        "b": "redução da salinização.",
+        "c": "diminuição da fertilidade.",
+        "d": "ampliação da microfauna.",
+        "e": "decomposição do substrato."
+      },
+      "resposta": "c",
+      "explicacao": "Retirada a cobertura vegetal, a chuva leva embora a camada superficial — justamente a que concentra a matéria orgânica e os nutrientes. Sem esse horizonte, o solo perde a capacidade de sustentar as plantas que o refariam, e a degradação se fecha num círculo: é a perda de fertilidade que trava a recuperação. Três alternativas descrevem melhoras, e um solo em degradação não melhora: mais biomassa, menos salinização e mais microfauna são sinais de solo saudável, e a irrigação excessiva citada no texto aumenta a salinização em vez de reduzi-la. A decomposição do substrato, por sua vez, troca o processo pelo objeto: o que se decompõe e se perde é a matéria orgânica, não a rocha que dá origem ao solo."
+    },
+    {
+      "id": "enem-geografia-10",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "texto_apoio": "Produtores rurais europeus são antigos opositores de um grande acordo com o Mercosul. Na visão deles, existe um nítido risco de concorrência desleal, pois, na Europa, é preciso seguir regras mais rígidas de produção, o que encarece o processo. Assim, eles não conseguiriam competir com os preços, por exemplo, da carne brasileira e teriam seus negócios ameaçados. Por outro lado, o setor industrial europeu se mobiliza a favor do acordo, uma vez que as reduções de tarifas no comércio internacional dariam maior acesso ao mercado sul-americano. Um exemplo é o setor automotivo europeu, que prevê maior participação e concorrência nos países do Mercosul caso o acordo siga em frente.",
+      "fonte_texto": "ROUBICEK, M. Como o risco ambiental afeta o acordo entre Mercosul e União Europeia. Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.",
+      "enunciado": "No contexto do acordo citado, os dois grupos econômicos europeus defendem, respectivamente, a",
+      "alternativas": {
+        "a": "restrição dos fluxos migratórios e a maior atuação de sindicatos.",
+        "b": "ampliação das leis trabalhistas e a plena importação de manufaturados.",
+        "c": "proteção das florestas nacionais e a ampla transferência de tecnologias.",
+        "d": "manutenção das barreiras fitossanitárias e a livre circulação de mercadorias.",
+        "e": "remoção dos entraves alfandegários e a melhor remuneração de empregados."
+      },
+      "resposta": "d",
+      "explicacao": "O enunciado pede duas posições opostas, na ordem em que aparecem. O produtor rural europeu teme a carne brasileira mais barata e se apoia nas \"regras mais rígidas de produção\" para barrá-la — as exigências sanitárias e de qualidade funcionam, na prática, como barreira comercial que ele quer manter. O industrial quer o inverso: cortar tarifas para vender automóveis ao Mercosul, isto é, livre circulação de mercadorias. Só uma alternativa traz esse par contraditório na ordem certa. A que fala em remover entraves alfandegários e melhorar salários inverte o primeiro grupo, e as demais introduzem temas ausentes do texto: migração, sindicato, legislação trabalhista e transferência de tecnologia."
+    },
+    {
+      "id": "enem-geografia-11",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "texto_apoio": "Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados finais, exige o respeito a certas regras de convivência preestabelecidas ou não. Já a competitividade se funda na invenção de novas armas de luta, num exercício em que a única regra é a conquista da melhor posição. A competitividade é uma espécie de guerra em que tudo vale e, desse modo, sua prática provoca um afrouxamento dos valores morais e um convite ao exercício da violência.",
+      "fonte_texto": "SANTOS, M. Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2006.",
+      "enunciado": "De acordo com a diferenciação feita pelo autor, que prática econômica é considerada moralmente condenável?",
+      "alternativas": {
+        "a": "Adoção do dumping comercial.",
+        "b": "Fusão da função administrativa.",
+        "c": "Criação de holding empresarial.",
+        "d": "Limitação do mercado monopolista.",
+        "e": "Modernização da produção industrial."
+      },
+      "resposta": "a",
+      "explicacao": "Milton Santos separa concorrência de competitividade pelo respeito às regras: na primeira há limites aceitos, na segunda \"a única regra é a conquista da melhor posição\". A prática que encarna essa segunda lógica é o dumping — vender abaixo do custo para quebrar o concorrente e, eliminado ele, dominar o mercado. É guerra econômica em que tudo vale, exatamente o que o autor condena. As outras opções descrevem arranjos empresariais legais e moralmente neutros (fusão administrativa, holding, modernização industrial), e uma delas anda no sentido contrário ao da crítica: limitar o mercado monopolista é impor regra à disputa, não afrouxá-la."
+    },
+    {
+      "id": "enem-geografia-12",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Dois conjuntos de mapas do IPCC simulam, para três cenários de aquecimento global — 1,5 °C, 2 °C e 4 °C acima do período pré-industrial —, a mudança da temperatura média anual (variação em °C, de 0,5 a 6,5, do menos para o mais quente) e a mudança da pluviosidade média anual (variação em %, de -40 a valores positivos, do mais seco para o mais úmido). Quanto maior o aquecimento global do cenário, mais intensas as duas alterações.",
+      "fonte_texto": "PIVETTA, M. O clima no Antropoceno. Revista Pesquisa Fapesp, n. 307, set. 2021.",
+      "enunciado": "Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
+      "alternativas": {
+        "a": "Expandir o transporte marítimo.",
+        "b": "Incentivar os fluxos migratórios.",
+        "c": "Monitorar as atividades vulcânicas.",
+        "d": "Controlar as emissões de carbono.",
+        "e": "Priorizar a utilização de termoelétricas."
+      },
+      "resposta": "d",
+      "explicacao": "Os três cenários das simulações são definidos por níveis de aquecimento, e o aquecimento é função da concentração de gases de efeito estufa na atmosfera. Atacar a causa significa, portanto, reduzir a emissão de carbono — é o que define o próprio cenário em que o planeta vai parar. Duas alternativas agravariam o quadro: transporte marítimo e termoelétricas queimam combustível fóssil e emitem mais. O deslocamento forçado de populações é consequência da mudança do clima, não instrumento contra ela. E o vulcanismo, embora emita gases, é fonte natural de contribuição pequena diante da queima de fósseis — monitorá-lo produz aviso, não redução."
     }
   ]
 }

@@ -1591,173 +1591,6 @@ window.FLASHCARDS = {
    "verso": "A diminuição da ionização (ou da solubilidade) causada pela adição de um íon já presente no equilíbrio, deslocando-o no sentido inverso."
   }
  ],
- "quimica-estequiometria": [
-  {
-   "id": "flash-quimica-estequiometria-01",
-   "frente": "O que é 1 mol de uma substância?",
-   "verso": "A quantidade que contém 6,02 × 10²³ entidades (átomos, moléculas, íons) — o número de Avogadro."
-  },
-  {
-   "id": "flash-quimica-estequiometria-02",
-   "frente": "O que é a massa molar de uma substância?",
-   "verso": "A massa de 1 mol dela, em g/mol; numericamente igual à massa molecular em unidades de massa atômica."
-  },
-  {
-   "id": "flash-quimica-estequiometria-03",
-   "frente": "Como se calcula o número de mols a partir da massa?",
-   "verso": "n = massa (g) ÷ massa molar (g/mol)."
-  },
-  {
-   "id": "flash-quimica-estequiometria-04",
-   "frente": "Qual é o volume molar de um gás nas CNTP?",
-   "verso": "22,4 L/mol, a 0 °C e 1 atm."
-  },
-  {
-   "id": "flash-quimica-estequiometria-05",
-   "frente": "Como calcular a massa molar da água (H₂O)?",
-   "verso": "2 × 1 + 16 = 18 g/mol."
-  },
-  {
-   "id": "flash-quimica-estequiometria-06",
-   "frente": "O que significa balancear uma equação química?",
-   "verso": "Igualar o número de átomos de cada elemento nos dois lados, respeitando a Lei da Conservação das Massas."
-  },
-  {
-   "id": "flash-quimica-estequiometria-07",
-   "frente": "O que diz a Lei de Lavoisier?",
-   "verso": "Numa reação química, a massa total dos reagentes é igual à massa total dos produtos — nada se perde, nada se cria."
-  },
-  {
-   "id": "flash-quimica-estequiometria-08",
-   "frente": "O que diz a Lei de Proust (proporções definidas)?",
-   "verso": "Uma substância pura sempre apresenta a mesma proporção em massa entre seus elementos, qualquer que seja sua origem."
-  },
-  {
-   "id": "flash-quimica-estequiometria-09",
-   "frente": "O que os coeficientes de uma equação balanceada representam?",
-   "verso": "A proporção em MOLS (e, para gases nas mesmas condições, em volume) entre reagentes e produtos — não em massa."
-  },
-  {
-   "id": "flash-quimica-estequiometria-10",
-   "frente": "Como montar uma regra de três estequiométrica?",
-   "verso": "Escreva a proporção em mols da equação balanceada, converta para a grandeza pedida (massa, volume, moléculas) e monte a proporção."
-  },
-  {
-   "id": "flash-quimica-estequiometria-11",
-   "frente": "O que é o reagente limitante?",
-   "verso": "Aquele que se esgota primeiro e, por isso, determina a quantidade máxima de produto formada."
-  },
-  {
-   "id": "flash-quimica-estequiometria-12",
-   "frente": "Como identificar o reagente limitante num problema?",
-   "verso": "Calcule quantos mols de produto cada reagente geraria sozinho; o que gerar MENOS produto é o limitante."
-  },
-  {
-   "id": "flash-quimica-estequiometria-13",
-   "frente": "O que é o reagente em excesso?",
-   "verso": "Aquele que sobra depois que o limitante se esgota; a quantidade que sobra pode ser calculada por diferença."
-  },
-  {
-   "id": "flash-quimica-estequiometria-14",
-   "frente": "O que é rendimento de uma reação?",
-   "verso": "A razão entre a massa realmente obtida e a massa teoricamente prevista, em porcentagem."
-  },
-  {
-   "id": "flash-quimica-estequiometria-15",
-   "frente": "Como calcular a massa real obtida a partir do rendimento?",
-   "verso": "Massa real = massa teórica × (rendimento ÷ 100)."
-  },
-  {
-   "id": "flash-quimica-estequiometria-16",
-   "frente": "O que significa dizer que uma amostra tem 80% de pureza?",
-   "verso": "Só 80% da massa da amostra é a substância que reage; os 20% restantes são inertes e devem ser descontados antes do cálculo."
-  },
-  {
-   "id": "flash-quimica-estequiometria-17",
-   "frente": "Em que ordem se aplicam pureza e rendimento num cálculo estequiométrico?",
-   "verso": "Primeiro desconte a pureza (entra menos reagente), faça a estequiometria, e só então aplique o rendimento ao produto."
-  },
-  {
-   "id": "flash-quimica-estequiometria-18",
-   "frente": "Quantas moléculas há em 1 mol de qualquer substância molecular?",
-   "verso": "6,02 × 10²³ moléculas."
-  },
-  {
-   "id": "flash-quimica-estequiometria-19",
-   "frente": "Como converter mols em número de partículas?",
-   "verso": "Multiplique o número de mols pelo número de Avogadro (6,02 × 10²³)."
-  },
-  {
-   "id": "flash-quimica-estequiometria-20",
-   "frente": "Como converter volume de gás nas CNTP em mols?",
-   "verso": "Divida o volume em litros por 22,4 L/mol."
-  },
-  {
-   "id": "flash-quimica-estequiometria-21",
-   "frente": "Como se calcula a massa molecular do CO₂?",
-   "verso": "12 + 2 × 16 = 44 u, portanto massa molar de 44 g/mol."
-  },
-  {
-   "id": "flash-quimica-estequiometria-22",
-   "frente": "O que diz a Lei de Gay-Lussac para volumes gasosos?",
-   "verso": "Nas mesmas condições de pressão e temperatura, os volumes dos gases participantes guardam entre si uma proporção de números inteiros e pequenos."
-  },
-  {
-   "id": "flash-quimica-estequiometria-23",
-   "frente": "Numa reação, se dobro a massa do reagente limitante, o que acontece com o produto?",
-   "verso": "A massa de produto também dobra — a relação estequiométrica é proporcional."
-  },
-  {
-   "id": "flash-quimica-estequiometria-24",
-   "frente": "O que é uma fórmula mínima (empírica)?",
-   "verso": "A que exprime a MENOR proporção de números inteiros entre os átomos dos elementos de um composto."
-  },
-  {
-   "id": "flash-quimica-estequiometria-25",
-   "frente": "Qual é a diferença entre fórmula mínima e molecular?",
-   "verso": "A molecular indica o número real de átomos por molécula; a mínima, apenas a proporção. A molecular é sempre um múltiplo inteiro da mínima."
-  },
-  {
-   "id": "flash-quimica-estequiometria-26",
-   "frente": "Como se determina a fórmula mínima a partir das porcentagens em massa?",
-   "verso": "Divida cada porcentagem pela massa atômica do elemento e, em seguida, todos os resultados pelo menor deles."
-  },
-  {
-   "id": "flash-quimica-estequiometria-27",
-   "frente": "Por que não se pode somar massas diretamente na proporção de uma equação?",
-   "verso": "Porque os coeficientes valem para mols, e mols diferentes têm massas diferentes — é preciso converter antes."
-  },
-  {
-   "id": "flash-quimica-estequiometria-28",
-   "frente": "Como calcular a massa de produto a partir de um volume de solução com concentração conhecida?",
-   "verso": "Multiplique volume por concentração para obter mols, aplique a proporção estequiométrica e converta o resultado em massa."
-  },
-  {
-   "id": "flash-quimica-estequiometria-29",
-   "frente": "O que é a equação geral dos gases ideais?",
-   "verso": "PV = nRT, com n em mols e R a constante universal dos gases."
-  },
-  {
-   "id": "flash-quimica-estequiometria-30",
-   "frente": "Como usar PV = nRT num cálculo estequiométrico fora das CNTP?",
-   "verso": "Isole n = PV/RT para achar os mols do gás e siga com a proporção da equação balanceada."
-  },
-  {
-   "id": "flash-quimica-estequiometria-31",
-   "frente": "Numa combustão completa de hidrocarboneto, quais são os produtos?",
-   "verso": "Gás carbônico (CO₂) e água (H₂O)."
-  },
-  {
-   "id": "flash-quimica-estequiometria-32",
-   "frente": "Por que o balanceamento de uma combustão costuma começar por carbono e hidrogênio?",
-   "verso": "Porque eles aparecem em um único produto cada; o oxigênio, presente em ambos, é balanceado por último."
-  },
-  {
-   "id": "flash-quimica-estequiometria-33",
-   "frente": "O que é o excesso de reagente em termos práticos de laboratório?",
-   "verso": "Usar mais de um reagente (geralmente o mais barato) para garantir o consumo total do outro, mais caro ou limitante."
-  }
- ],
  "quimica-organica": [
   {
    "id": "flash-quimica-organica-01",
@@ -2117,6 +1950,173 @@ window.FLASHCARDS = {
    "verso": "Porque o soluto ocupa volume ao se dissolver — o volume final da solução não é a soma dos volumes iniciais."
   }
  ],
+ "quimica-estequiometria": [
+  {
+   "id": "flash-quimica-estequiometria-01",
+   "frente": "O que é 1 mol de uma substância?",
+   "verso": "A quantidade que contém 6,02 × 10²³ entidades (átomos, moléculas, íons) — o número de Avogadro."
+  },
+  {
+   "id": "flash-quimica-estequiometria-02",
+   "frente": "O que é a massa molar de uma substância?",
+   "verso": "A massa de 1 mol dela, em g/mol; numericamente igual à massa molecular em unidades de massa atômica."
+  },
+  {
+   "id": "flash-quimica-estequiometria-03",
+   "frente": "Como se calcula o número de mols a partir da massa?",
+   "verso": "n = massa (g) ÷ massa molar (g/mol)."
+  },
+  {
+   "id": "flash-quimica-estequiometria-04",
+   "frente": "Qual é o volume molar de um gás nas CNTP?",
+   "verso": "22,4 L/mol, a 0 °C e 1 atm."
+  },
+  {
+   "id": "flash-quimica-estequiometria-05",
+   "frente": "Como calcular a massa molar da água (H₂O)?",
+   "verso": "2 × 1 + 16 = 18 g/mol."
+  },
+  {
+   "id": "flash-quimica-estequiometria-06",
+   "frente": "O que significa balancear uma equação química?",
+   "verso": "Igualar o número de átomos de cada elemento nos dois lados, respeitando a Lei da Conservação das Massas."
+  },
+  {
+   "id": "flash-quimica-estequiometria-07",
+   "frente": "O que diz a Lei de Lavoisier?",
+   "verso": "Numa reação química, a massa total dos reagentes é igual à massa total dos produtos — nada se perde, nada se cria."
+  },
+  {
+   "id": "flash-quimica-estequiometria-08",
+   "frente": "O que diz a Lei de Proust (proporções definidas)?",
+   "verso": "Uma substância pura sempre apresenta a mesma proporção em massa entre seus elementos, qualquer que seja sua origem."
+  },
+  {
+   "id": "flash-quimica-estequiometria-09",
+   "frente": "O que os coeficientes de uma equação balanceada representam?",
+   "verso": "A proporção em MOLS (e, para gases nas mesmas condições, em volume) entre reagentes e produtos — não em massa."
+  },
+  {
+   "id": "flash-quimica-estequiometria-10",
+   "frente": "Como montar uma regra de três estequiométrica?",
+   "verso": "Escreva a proporção em mols da equação balanceada, converta para a grandeza pedida (massa, volume, moléculas) e monte a proporção."
+  },
+  {
+   "id": "flash-quimica-estequiometria-11",
+   "frente": "O que é o reagente limitante?",
+   "verso": "Aquele que se esgota primeiro e, por isso, determina a quantidade máxima de produto formada."
+  },
+  {
+   "id": "flash-quimica-estequiometria-12",
+   "frente": "Como identificar o reagente limitante num problema?",
+   "verso": "Calcule quantos mols de produto cada reagente geraria sozinho; o que gerar MENOS produto é o limitante."
+  },
+  {
+   "id": "flash-quimica-estequiometria-13",
+   "frente": "O que é o reagente em excesso?",
+   "verso": "Aquele que sobra depois que o limitante se esgota; a quantidade que sobra pode ser calculada por diferença."
+  },
+  {
+   "id": "flash-quimica-estequiometria-14",
+   "frente": "O que é rendimento de uma reação?",
+   "verso": "A razão entre a massa realmente obtida e a massa teoricamente prevista, em porcentagem."
+  },
+  {
+   "id": "flash-quimica-estequiometria-15",
+   "frente": "Como calcular a massa real obtida a partir do rendimento?",
+   "verso": "Massa real = massa teórica × (rendimento ÷ 100)."
+  },
+  {
+   "id": "flash-quimica-estequiometria-16",
+   "frente": "O que significa dizer que uma amostra tem 80% de pureza?",
+   "verso": "Só 80% da massa da amostra é a substância que reage; os 20% restantes são inertes e devem ser descontados antes do cálculo."
+  },
+  {
+   "id": "flash-quimica-estequiometria-17",
+   "frente": "Em que ordem se aplicam pureza e rendimento num cálculo estequiométrico?",
+   "verso": "Primeiro desconte a pureza (entra menos reagente), faça a estequiometria, e só então aplique o rendimento ao produto."
+  },
+  {
+   "id": "flash-quimica-estequiometria-18",
+   "frente": "Quantas moléculas há em 1 mol de qualquer substância molecular?",
+   "verso": "6,02 × 10²³ moléculas."
+  },
+  {
+   "id": "flash-quimica-estequiometria-19",
+   "frente": "Como converter mols em número de partículas?",
+   "verso": "Multiplique o número de mols pelo número de Avogadro (6,02 × 10²³)."
+  },
+  {
+   "id": "flash-quimica-estequiometria-20",
+   "frente": "Como converter volume de gás nas CNTP em mols?",
+   "verso": "Divida o volume em litros por 22,4 L/mol."
+  },
+  {
+   "id": "flash-quimica-estequiometria-21",
+   "frente": "Como se calcula a massa molecular do CO₂?",
+   "verso": "12 + 2 × 16 = 44 u, portanto massa molar de 44 g/mol."
+  },
+  {
+   "id": "flash-quimica-estequiometria-22",
+   "frente": "O que diz a Lei de Gay-Lussac para volumes gasosos?",
+   "verso": "Nas mesmas condições de pressão e temperatura, os volumes dos gases participantes guardam entre si uma proporção de números inteiros e pequenos."
+  },
+  {
+   "id": "flash-quimica-estequiometria-23",
+   "frente": "Numa reação, se dobro a massa do reagente limitante, o que acontece com o produto?",
+   "verso": "A massa de produto também dobra — a relação estequiométrica é proporcional."
+  },
+  {
+   "id": "flash-quimica-estequiometria-24",
+   "frente": "O que é uma fórmula mínima (empírica)?",
+   "verso": "A que exprime a MENOR proporção de números inteiros entre os átomos dos elementos de um composto."
+  },
+  {
+   "id": "flash-quimica-estequiometria-25",
+   "frente": "Qual é a diferença entre fórmula mínima e molecular?",
+   "verso": "A molecular indica o número real de átomos por molécula; a mínima, apenas a proporção. A molecular é sempre um múltiplo inteiro da mínima."
+  },
+  {
+   "id": "flash-quimica-estequiometria-26",
+   "frente": "Como se determina a fórmula mínima a partir das porcentagens em massa?",
+   "verso": "Divida cada porcentagem pela massa atômica do elemento e, em seguida, todos os resultados pelo menor deles."
+  },
+  {
+   "id": "flash-quimica-estequiometria-27",
+   "frente": "Por que não se pode somar massas diretamente na proporção de uma equação?",
+   "verso": "Porque os coeficientes valem para mols, e mols diferentes têm massas diferentes — é preciso converter antes."
+  },
+  {
+   "id": "flash-quimica-estequiometria-28",
+   "frente": "Como calcular a massa de produto a partir de um volume de solução com concentração conhecida?",
+   "verso": "Multiplique volume por concentração para obter mols, aplique a proporção estequiométrica e converta o resultado em massa."
+  },
+  {
+   "id": "flash-quimica-estequiometria-29",
+   "frente": "O que é a equação geral dos gases ideais?",
+   "verso": "PV = nRT, com n em mols e R a constante universal dos gases."
+  },
+  {
+   "id": "flash-quimica-estequiometria-30",
+   "frente": "Como usar PV = nRT num cálculo estequiométrico fora das CNTP?",
+   "verso": "Isole n = PV/RT para achar os mols do gás e siga com a proporção da equação balanceada."
+  },
+  {
+   "id": "flash-quimica-estequiometria-31",
+   "frente": "Numa combustão completa de hidrocarboneto, quais são os produtos?",
+   "verso": "Gás carbônico (CO₂) e água (H₂O)."
+  },
+  {
+   "id": "flash-quimica-estequiometria-32",
+   "frente": "Por que o balanceamento de uma combustão costuma começar por carbono e hidrogênio?",
+   "verso": "Porque eles aparecem em um único produto cada; o oxigênio, presente em ambos, é balanceado por último."
+  },
+  {
+   "id": "flash-quimica-estequiometria-33",
+   "frente": "O que é o excesso de reagente em termos práticos de laboratório?",
+   "verso": "Usar mais de um reagente (geralmente o mais barato) para garantir o consumo total do outro, mais caro ou limitante."
+  }
+ ],
  "quimica-termoquimica-cinetica": [
   {
    "id": "flash-quimica-termoquimica-cinetica-01",
@@ -2292,188 +2292,6 @@ window.FLASHCARDS = {
    "id": "flash-quimica-termoquimica-cinetica-35",
    "frente": "Como o gráfico de energia mostra o efeito de um catalisador?",
    "verso": "A curva catalisada tem um pico mais baixo, mas parte e chega aos mesmos níveis de reagentes e produtos."
-  }
- ],
- "fisica-termologia": [
-  {
-   "id": "flash-fisica-termologia-01",
-   "frente": "Qual é a diferença entre calor e temperatura?",
-   "verso": "Temperatura mede o grau de agitação das partículas; calor é a energia térmica em TRÂNSITO entre corpos de temperaturas diferentes."
-  },
-  {
-   "id": "flash-fisica-termologia-02",
-   "frente": "Um corpo pode 'ter' calor?",
-   "verso": "Não. Calor só existe em trânsito; o corpo tem energia interna, e o calor é a transferência dessa energia."
-  },
-  {
-   "id": "flash-fisica-termologia-03",
-   "frente": "Como converter Celsius em Kelvin?",
-   "verso": "K = °C + 273."
-  },
-  {
-   "id": "flash-fisica-termologia-04",
-   "frente": "Qual é a relação entre as escalas Celsius e Fahrenheit?",
-   "verso": "°C/5 = (°F − 32)/9."
-  },
-  {
-   "id": "flash-fisica-termologia-05",
-   "frente": "O que é o zero absoluto?",
-   "verso": "0 K (−273 °C), a menor temperatura teoricamente possível, com agitação mínima das partículas."
-  },
-  {
-   "id": "flash-fisica-termologia-06",
-   "frente": "O que é equilíbrio térmico?",
-   "verso": "A situação em que dois corpos em contato atingem a mesma temperatura e cessa a troca líquida de calor."
-  },
-  {
-   "id": "flash-fisica-termologia-07",
-   "frente": "O que é calor sensível?",
-   "verso": "O calor que provoca variação de TEMPERATURA, sem mudança de estado físico."
-  },
-  {
-   "id": "flash-fisica-termologia-08",
-   "frente": "Qual é a fórmula do calor sensível?",
-   "verso": "Q = m · c · ΔT."
-  },
-  {
-   "id": "flash-fisica-termologia-09",
-   "frente": "O que é calor específico?",
-   "verso": "A quantidade de calor necessária para elevar em 1 °C a temperatura de 1 g (ou 1 kg) de uma substância."
-  },
-  {
-   "id": "flash-fisica-termologia-10",
-   "frente": "Por que a água demora a esquentar e a esfriar?",
-   "verso": "Porque tem calor específico alto (1 cal/g·°C), exigindo muita energia para variar sua temperatura."
-  },
-  {
-   "id": "flash-fisica-termologia-11",
-   "frente": "O que é calor latente?",
-   "verso": "O calor que provoca MUDANÇA DE ESTADO, sem variação de temperatura."
-  },
-  {
-   "id": "flash-fisica-termologia-12",
-   "frente": "Qual é a fórmula do calor latente?",
-   "verso": "Q = m · L."
-  },
-  {
-   "id": "flash-fisica-termologia-13",
-   "frente": "Por que a temperatura não sobe enquanto o gelo derrete?",
-   "verso": "Porque toda a energia recebida é usada para romper as ligações entre as moléculas, não para aumentar a agitação térmica."
-  },
-  {
-   "id": "flash-fisica-termologia-14",
-   "frente": "Quais são as mudanças de estado que ABSORVEM calor?",
-   "verso": "Fusão, vaporização e sublimação."
-  },
-  {
-   "id": "flash-fisica-termologia-15",
-   "frente": "Quais são as mudanças de estado que LIBERAM calor?",
-   "verso": "Solidificação, condensação e ressublimação."
-  },
-  {
-   "id": "flash-fisica-termologia-16",
-   "frente": "Por que o suor refresca o corpo?",
-   "verso": "Porque sua evaporação absorve calor latente da pele, retirando energia do corpo."
-  },
-  {
-   "id": "flash-fisica-termologia-17",
-   "frente": "O que é dilatação térmica?",
-   "verso": "O aumento das dimensões de um corpo pelo aumento da temperatura, causado pela maior agitação e afastamento das partículas."
-  },
-  {
-   "id": "flash-fisica-termologia-18",
-   "frente": "Qual é a fórmula da dilatação linear?",
-   "verso": "ΔL = L₀ · α · ΔT."
-  },
-  {
-   "id": "flash-fisica-termologia-19",
-   "frente": "Como se relacionam os coeficientes de dilatação linear, superficial e volumétrica?",
-   "verso": "β = 2α e γ = 3α."
-  },
-  {
-   "id": "flash-fisica-termologia-20",
-   "frente": "Por que se deixam juntas de dilatação entre trilhos e lajes?",
-   "verso": "Para acomodar a expansão do material com o aumento da temperatura sem gerar tensões que o deformem ou rompam."
-  },
-  {
-   "id": "flash-fisica-termologia-21",
-   "frente": "O que é a dilatação anômala da água?",
-   "verso": "Entre 0 °C e 4 °C a água CONTRAI ao ser aquecida; por isso o gelo flutua e os lagos congelam de cima para baixo."
-  },
-  {
-   "id": "flash-fisica-termologia-22",
-   "frente": "Como o calor se propaga por condução?",
-   "verso": "De partícula a partícula, sem transporte de matéria; é o mecanismo típico dos sólidos, sobretudo dos metais."
-  },
-  {
-   "id": "flash-fisica-termologia-23",
-   "frente": "Como o calor se propaga por convecção?",
-   "verso": "Pelo deslocamento de massas do próprio fluido, com o material quente subindo e o frio descendo; só ocorre em fluidos."
-  },
-  {
-   "id": "flash-fisica-termologia-24",
-   "frente": "Como o calor se propaga por irradiação?",
-   "verso": "Por ondas eletromagnéticas, sem necessidade de meio material — é assim que o calor do Sol chega à Terra."
-  },
-  {
-   "id": "flash-fisica-termologia-25",
-   "frente": "Por que garrafas térmicas têm parede dupla espelhada e vácuo entre elas?",
-   "verso": "O vácuo bloqueia condução e convecção, e o espelhamento reflete a irradiação."
-  },
-  {
-   "id": "flash-fisica-termologia-26",
-   "frente": "O que estabelece a Lei Geral dos Gases?",
-   "verso": "P·V/T é constante para uma dada massa de gás ideal, permitindo relacionar dois estados: P₁V₁/T₁ = P₂V₂/T₂."
-  },
-  {
-   "id": "flash-fisica-termologia-27",
-   "frente": "O que é uma transformação isotérmica?",
-   "verso": "Aquela em que a temperatura permanece constante, com pressão e volume inversamente proporcionais (Lei de Boyle)."
-  },
-  {
-   "id": "flash-fisica-termologia-28",
-   "frente": "O que é uma transformação isobárica?",
-   "verso": "Aquela em que a pressão permanece constante, com volume diretamente proporcional à temperatura absoluta."
-  },
-  {
-   "id": "flash-fisica-termologia-29",
-   "frente": "O que é uma transformação isovolumétrica (isocórica)?",
-   "verso": "Aquela em que o volume permanece constante, com pressão diretamente proporcional à temperatura absoluta."
-  },
-  {
-   "id": "flash-fisica-termologia-30",
-   "frente": "O que é uma transformação adiabática?",
-   "verso": "Aquela em que não há troca de calor com o meio (Q = 0); toda variação de energia interna vem do trabalho."
-  },
-  {
-   "id": "flash-fisica-termologia-31",
-   "frente": "O que diz a Primeira Lei da Termodinâmica?",
-   "verso": "ΔU = Q − τ: a variação da energia interna é o calor recebido menos o trabalho realizado pelo gás."
-  },
-  {
-   "id": "flash-fisica-termologia-32",
-   "frente": "Numa transformação isotérmica, quanto vale a variação da energia interna?",
-   "verso": "Zero — a energia interna de um gás ideal depende só da temperatura, que não muda."
-  },
-  {
-   "id": "flash-fisica-termologia-33",
-   "frente": "O que diz a Segunda Lei da Termodinâmica?",
-   "verso": "O calor flui espontaneamente do corpo mais quente para o mais frio, e nenhuma máquina térmica converte integralmente calor em trabalho."
-  },
-  {
-   "id": "flash-fisica-termologia-34",
-   "frente": "O que é uma máquina térmica?",
-   "verso": "Um dispositivo que retira calor de uma fonte quente, converte parte em trabalho e rejeita o restante numa fonte fria."
-  },
-  {
-   "id": "flash-fisica-termologia-35",
-   "frente": "Como se calcula o rendimento máximo de uma máquina de Carnot?",
-   "verso": "η = 1 − (T_fria / T_quente), com as temperaturas em Kelvin."
-  },
-  {
-   "id": "flash-fisica-termologia-36",
-   "frente": "Por que uma geladeira não esfria a cozinha se ficar aberta?",
-   "verso": "Porque ela transfere calor de dentro para fora e ainda dissipa o calor do trabalho do motor — o saldo líquido AQUECE o ambiente."
   }
  ],
  "fisica-mecanica": [
@@ -2666,6 +2484,188 @@ window.FLASHCARDS = {
    "id": "flash-fisica-mecanica-38",
    "frente": "O que diz a Segunda Lei de Kepler (Lei das Áreas)?",
    "verso": "O raio que liga o planeta ao Sol varre áreas iguais em tempos iguais, o que faz o planeta acelerar no periélio."
+  }
+ ],
+ "fisica-termologia": [
+  {
+   "id": "flash-fisica-termologia-01",
+   "frente": "Qual é a diferença entre calor e temperatura?",
+   "verso": "Temperatura mede o grau de agitação das partículas; calor é a energia térmica em TRÂNSITO entre corpos de temperaturas diferentes."
+  },
+  {
+   "id": "flash-fisica-termologia-02",
+   "frente": "Um corpo pode 'ter' calor?",
+   "verso": "Não. Calor só existe em trânsito; o corpo tem energia interna, e o calor é a transferência dessa energia."
+  },
+  {
+   "id": "flash-fisica-termologia-03",
+   "frente": "Como converter Celsius em Kelvin?",
+   "verso": "K = °C + 273."
+  },
+  {
+   "id": "flash-fisica-termologia-04",
+   "frente": "Qual é a relação entre as escalas Celsius e Fahrenheit?",
+   "verso": "°C/5 = (°F − 32)/9."
+  },
+  {
+   "id": "flash-fisica-termologia-05",
+   "frente": "O que é o zero absoluto?",
+   "verso": "0 K (−273 °C), a menor temperatura teoricamente possível, com agitação mínima das partículas."
+  },
+  {
+   "id": "flash-fisica-termologia-06",
+   "frente": "O que é equilíbrio térmico?",
+   "verso": "A situação em que dois corpos em contato atingem a mesma temperatura e cessa a troca líquida de calor."
+  },
+  {
+   "id": "flash-fisica-termologia-07",
+   "frente": "O que é calor sensível?",
+   "verso": "O calor que provoca variação de TEMPERATURA, sem mudança de estado físico."
+  },
+  {
+   "id": "flash-fisica-termologia-08",
+   "frente": "Qual é a fórmula do calor sensível?",
+   "verso": "Q = m · c · ΔT."
+  },
+  {
+   "id": "flash-fisica-termologia-09",
+   "frente": "O que é calor específico?",
+   "verso": "A quantidade de calor necessária para elevar em 1 °C a temperatura de 1 g (ou 1 kg) de uma substância."
+  },
+  {
+   "id": "flash-fisica-termologia-10",
+   "frente": "Por que a água demora a esquentar e a esfriar?",
+   "verso": "Porque tem calor específico alto (1 cal/g·°C), exigindo muita energia para variar sua temperatura."
+  },
+  {
+   "id": "flash-fisica-termologia-11",
+   "frente": "O que é calor latente?",
+   "verso": "O calor que provoca MUDANÇA DE ESTADO, sem variação de temperatura."
+  },
+  {
+   "id": "flash-fisica-termologia-12",
+   "frente": "Qual é a fórmula do calor latente?",
+   "verso": "Q = m · L."
+  },
+  {
+   "id": "flash-fisica-termologia-13",
+   "frente": "Por que a temperatura não sobe enquanto o gelo derrete?",
+   "verso": "Porque toda a energia recebida é usada para romper as ligações entre as moléculas, não para aumentar a agitação térmica."
+  },
+  {
+   "id": "flash-fisica-termologia-14",
+   "frente": "Quais são as mudanças de estado que ABSORVEM calor?",
+   "verso": "Fusão, vaporização e sublimação."
+  },
+  {
+   "id": "flash-fisica-termologia-15",
+   "frente": "Quais são as mudanças de estado que LIBERAM calor?",
+   "verso": "Solidificação, condensação e ressublimação."
+  },
+  {
+   "id": "flash-fisica-termologia-16",
+   "frente": "Por que o suor refresca o corpo?",
+   "verso": "Porque sua evaporação absorve calor latente da pele, retirando energia do corpo."
+  },
+  {
+   "id": "flash-fisica-termologia-17",
+   "frente": "O que é dilatação térmica?",
+   "verso": "O aumento das dimensões de um corpo pelo aumento da temperatura, causado pela maior agitação e afastamento das partículas."
+  },
+  {
+   "id": "flash-fisica-termologia-18",
+   "frente": "Qual é a fórmula da dilatação linear?",
+   "verso": "ΔL = L₀ · α · ΔT."
+  },
+  {
+   "id": "flash-fisica-termologia-19",
+   "frente": "Como se relacionam os coeficientes de dilatação linear, superficial e volumétrica?",
+   "verso": "β = 2α e γ = 3α."
+  },
+  {
+   "id": "flash-fisica-termologia-20",
+   "frente": "Por que se deixam juntas de dilatação entre trilhos e lajes?",
+   "verso": "Para acomodar a expansão do material com o aumento da temperatura sem gerar tensões que o deformem ou rompam."
+  },
+  {
+   "id": "flash-fisica-termologia-21",
+   "frente": "O que é a dilatação anômala da água?",
+   "verso": "Entre 0 °C e 4 °C a água CONTRAI ao ser aquecida; por isso o gelo flutua e os lagos congelam de cima para baixo."
+  },
+  {
+   "id": "flash-fisica-termologia-22",
+   "frente": "Como o calor se propaga por condução?",
+   "verso": "De partícula a partícula, sem transporte de matéria; é o mecanismo típico dos sólidos, sobretudo dos metais."
+  },
+  {
+   "id": "flash-fisica-termologia-23",
+   "frente": "Como o calor se propaga por convecção?",
+   "verso": "Pelo deslocamento de massas do próprio fluido, com o material quente subindo e o frio descendo; só ocorre em fluidos."
+  },
+  {
+   "id": "flash-fisica-termologia-24",
+   "frente": "Como o calor se propaga por irradiação?",
+   "verso": "Por ondas eletromagnéticas, sem necessidade de meio material — é assim que o calor do Sol chega à Terra."
+  },
+  {
+   "id": "flash-fisica-termologia-25",
+   "frente": "Por que garrafas térmicas têm parede dupla espelhada e vácuo entre elas?",
+   "verso": "O vácuo bloqueia condução e convecção, e o espelhamento reflete a irradiação."
+  },
+  {
+   "id": "flash-fisica-termologia-26",
+   "frente": "O que estabelece a Lei Geral dos Gases?",
+   "verso": "P·V/T é constante para uma dada massa de gás ideal, permitindo relacionar dois estados: P₁V₁/T₁ = P₂V₂/T₂."
+  },
+  {
+   "id": "flash-fisica-termologia-27",
+   "frente": "O que é uma transformação isotérmica?",
+   "verso": "Aquela em que a temperatura permanece constante, com pressão e volume inversamente proporcionais (Lei de Boyle)."
+  },
+  {
+   "id": "flash-fisica-termologia-28",
+   "frente": "O que é uma transformação isobárica?",
+   "verso": "Aquela em que a pressão permanece constante, com volume diretamente proporcional à temperatura absoluta."
+  },
+  {
+   "id": "flash-fisica-termologia-29",
+   "frente": "O que é uma transformação isovolumétrica (isocórica)?",
+   "verso": "Aquela em que o volume permanece constante, com pressão diretamente proporcional à temperatura absoluta."
+  },
+  {
+   "id": "flash-fisica-termologia-30",
+   "frente": "O que é uma transformação adiabática?",
+   "verso": "Aquela em que não há troca de calor com o meio (Q = 0); toda variação de energia interna vem do trabalho."
+  },
+  {
+   "id": "flash-fisica-termologia-31",
+   "frente": "O que diz a Primeira Lei da Termodinâmica?",
+   "verso": "ΔU = Q − τ: a variação da energia interna é o calor recebido menos o trabalho realizado pelo gás."
+  },
+  {
+   "id": "flash-fisica-termologia-32",
+   "frente": "Numa transformação isotérmica, quanto vale a variação da energia interna?",
+   "verso": "Zero — a energia interna de um gás ideal depende só da temperatura, que não muda."
+  },
+  {
+   "id": "flash-fisica-termologia-33",
+   "frente": "O que diz a Segunda Lei da Termodinâmica?",
+   "verso": "O calor flui espontaneamente do corpo mais quente para o mais frio, e nenhuma máquina térmica converte integralmente calor em trabalho."
+  },
+  {
+   "id": "flash-fisica-termologia-34",
+   "frente": "O que é uma máquina térmica?",
+   "verso": "Um dispositivo que retira calor de uma fonte quente, converte parte em trabalho e rejeita o restante numa fonte fria."
+  },
+  {
+   "id": "flash-fisica-termologia-35",
+   "frente": "Como se calcula o rendimento máximo de uma máquina de Carnot?",
+   "verso": "η = 1 − (T_fria / T_quente), com as temperaturas em Kelvin."
+  },
+  {
+   "id": "flash-fisica-termologia-36",
+   "frente": "Por que uma geladeira não esfria a cozinha se ficar aberta?",
+   "verso": "Porque ela transfere calor de dentro para fora e ainda dissipa o calor do trabalho do motor — o saldo líquido AQUECE o ambiente."
   }
  ],
  "fisica-ondas-optica": [

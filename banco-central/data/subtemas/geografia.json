@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "geografia",
- "total": 550,
+ "total": 562,
  "residuo": [
   "dir-geografia-24",
   "dir-geografia-28",
@@ -825,7 +825,7 @@
    "subtema": "geografia-agraria-economica",
    "frenteDestino": "geografia",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "dir-geografia-136": {
    "subtema": "geografia-populacao-urbana",
@@ -1598,7 +1598,7 @@
    "subtema": "geografia-agraria-economica",
    "frenteDestino": "geografia",
    "pontos": 13,
-   "margem": 8
+   "margem": 13
   },
   "med-geografia-94": {
    "subtema": "geografia-agraria-economica",
@@ -2259,7 +2259,7 @@
    "subtema": "geografia-populacao-urbana",
    "frenteDestino": "geografia",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-geografia-205": {
    "subtema": "geografia-fisica-clima",
@@ -3302,6 +3302,70 @@
    "frenteDestino": "geografia",
    "pontos": 15,
    "margem": 15
+  },
+  "enem-geografia-01": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "enem-geografia-02": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "enem-geografia-03": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-geografia-04": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-geografia-05": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "enem-geografia-06": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "enem-geografia-07": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "enem-geografia-08": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "enem-geografia-09": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "enem-geografia-10": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "enem-geografia-11": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "enem-geografia-12": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "revisado": true
   }
  }
 }

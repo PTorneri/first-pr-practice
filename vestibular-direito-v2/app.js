@@ -5,10 +5,14 @@
   // em /medicina/ e nas outras trilhas.
   //
   // Só faz falta para caminho montado em tempo de execução — os do HTML já
-  // saem reescritos do gerador. Hoje são dois, ambos das capas das obras: o
-  // fetch do PROCEDENCIA.json e o <img> do cartão. Sem isto eles quebrariam
-  // em silêncio, porque "assets/..." resolve contra o DOCUMENTO: de /medicina/
-  // o navegador pediria /medicina/assets/, que não existe.
+  // saem reescritos do gerador. Hoje são três: o fetch do PROCEDENCIA.json, o
+  // <img> do cartão de obra e a imagem da questão (renderVisual). Sem isto
+  // quebram em silêncio, porque "assets/..." resolve contra o DOCUMENTO: de
+  // /medicina/ o navegador pediria /medicina/assets/, que não existe.
+  //
+  // Este comentário já dizia "dois" enquanto renderVisual estava sem o
+  // prefixo. Quem acrescentar um quarto caminho: conte aqui também, ou o
+  // próximo a chegar vai supor que a lista está completa.
   const APP_BASE = window.VD_APP_BASE || "";
 
   // O v1 e o v2 moram no MESMO domínio (ptorneri.github.io), e o localStorage
@@ -5798,8 +5802,13 @@
   function renderVisual(visual) {
     if (!visual || !visual.descricao) return "";
     const arquivoOk = visual.arquivo && VISUAL_PATH_OK.test(visual.arquivo) && !visual.arquivo.includes("..");
+    // APP_BASE, e não o caminho cru: `assets/provas/x.jpg` resolve contra o
+    // DOCUMENTO, e o documento é /direito/ (ou /medicina/, /economia/…). As
+    // 101 questões com imagem pediam /direito/assets/… e levavam 404 — o app
+    // continuava funcionando, porque a descrição sozinha responde a questão,
+    // e por isso o erro atravessou a publicação sem barulho.
     const imgHtml = arquivoOk
-      ? `<img src="${escapeHtml(visual.arquivo)}" alt="${escapeHtml(visual.descricao)}" loading="lazy">`
+      ? `<img src="${APP_BASE}${escapeHtml(visual.arquivo)}" alt="${escapeHtml(visual.descricao)}" loading="lazy">`
       : "";
     const tipoHtml = visual.tipo ? `<span class="q-visual-tipo">${escapeHtml(visual.tipo)}</span>` : "";
     return `

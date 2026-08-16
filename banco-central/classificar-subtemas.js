@@ -1955,6 +1955,94 @@ const REVISADAS = {
   "fuvest-ingles-34": "ingles-main-idea",
   "fuvest-literatura-33": "literatura-colonial-romantismo",
 
+
+  // Simulado oficial da FUVEST 2026 (outubro de 2025) -- 31 pinos em 70
+  // questões (44%). Três alocações minhas foram desfeitas em favor do
+  // classificador: o texto sobre a inteligência acolhedora é de argumentação;
+  // a explicação do interesse por eclipses é a ideia central do artigo; e a
+  // Cúpula da Amazônia discute sustentabilidade antes de geopolítica.
+
+  // Chiziane (duas), o poema de Sophia e a citação de Balada de amor ao vento
+  // caíram em colonial-romantismo e teoria-análise -- as três autoras são
+  // contemporâneas, e o que puxa a classificação é o vocabulário de rito,
+  // realeza e faca.
+  "fuvest-literatura-39": "literatura-contemporanea",
+  "fuvest-literatura-40": "literatura-contemporanea",
+  "fuvest-literatura-41": "literatura-contemporanea",
+  "fuvest-literatura-42": "literatura-contemporanea",
+
+  // A coordenação justaposta do primeiro parágrafo caiu em pontuação, pelas
+  // vírgulas e pontos e vírgulas que a realizam; e o "você" genérico foi para
+  // concordância.
+  "fuvest-gramatica-6": "gramatica-sintaxe-periodo",
+  "fuvest-gramatica-7": "gramatica-morfologia",
+
+  // A escolha do excerto que caracteriza a pose de isentão caiu em recursos
+  // de linguagem.
+  "fuvest-interpretacao-texto-17": "interpretacao-argumentacao",
+
+  // As três da fofoca caíram em inferência, e as três respondem a "segundo o
+  // texto" com frase que está escrita no texto: são detalhe.
+  "fuvest-ingles-37": "ingles-detail",
+  "fuvest-ingles-38": "ingles-detail",
+  "fuvest-ingles-39": "ingles-detail",
+
+  // Os esportes do século XIX foram para antiga-medieval; o chocolate asteca
+  // e os cercamentos ingleses, para Brasil-colônia -- nenhum dos três passa
+  // pelo Brasil.
+  "fuvest-historia-47": "historia-geral-contemporanea",
+  "fuvest-historia-50": "historia-geral-moderna",
+  "fuvest-historia-51": "historia-geral-moderna",
+
+  // As soluções para lavoura e recursos hídricos caíram em física-clima.
+  "fuvest-geografia-35": "geografia-ambiente-sustentabilidade",
+
+  // Modernização e fascismo trocaram de lugar entre si; Descartes e as paixões
+  // foi para conhecimento-lógica, sendo questão de ética; e o self-espelho de
+  // Cooley também.
+  "fuvest-filosofia-sociologia-26": "sociologia-instituicoes-movimentos",
+  "fuvest-filosofia-sociologia-27": "filosofia-politica",
+  "fuvest-filosofia-sociologia-28": "filosofia-etica-moral",
+  "fuvest-filosofia-sociologia-30": "sociologia-cultura-identidade",
+
+  // O raio da órbita do elétron na aurora polar caiu em mecânica pelo
+  // movimento circular, e a força que o produz é magnética.
+  "fuvest-fisica-32": "fisica-eletromagnetismo",
+
+  // Hipertermia maligna e estômatos do cerrado foram para citologia pela
+  // organela e pela célula; a febre maculosa, para fisiologia -- e ela cobra
+  // fatores bióticos e abióticos.
+  "fuvest-biologia-38": "biologia-fisiologia",
+  "fuvest-biologia-39": "biologia-ecologia",
+  "fuvest-biologia-41": "biologia-fisiologia",
+
+  // O fulgurito caiu em eletroquímica por "descarga elétrica", sendo energia
+  // para fundir sílica; o tampão do limão foi para soluções; o antiácido, para
+  // estequiometria; e as duas de ácidos graxos, para atomística e para
+  // equilíbrio ácido-base.
+  "fuvest-quimica-39": "quimica-termoquimica-cinetica",
+  "fuvest-quimica-42": "quimica-equilibrio-acido-base",
+  "fuvest-quimica-43": "quimica-equilibrio-acido-base",
+  "fuvest-quimica-44": "quimica-organica",
+  "fuvest-quimica-45": "quimica-organica",
+
+  // O enigma do mentiroso caiu em sequências, e o fator de aumento mensal em
+  // álgebra -- este é PG de razão r com r¹² = 64.
+  "fuvest-matematica-37": "matematica-logica-conjuntos",
+  "fuvest-matematica-39": "matematica-sequencias",
+
+  // Bruegel e Portinari puxaram a questão sobre o brincar para clássica-
+  // moderna, pelos pintores; e os cinco textos sobre arte, também.
+  "fuvest-artes-cultura-13": "artes-patrimonio-cultura-popular",
+  "fuvest-artes-cultura-14": "artes-contemporanea",
+  // Empate em zero: nenhuma regra pontuou o alvo NEM a rival, e o pre-voo
+  // imprime a rival como se ela tivesse vencido. Aceitar a sugestao nao
+  // resolve -- na classificacao completa a questao cai no subtema padrao da
+  // frente do mesmo jeito. So o pino segura.
+  "fuvest-filosofia-sociologia-29": "filosofia-etica-moral",
+  "fuvest-ingles-41": "ingles-main-idea",
+  "fuvest-interpretacao-texto-15": "interpretacao-ideia-central",
+
 };
 
 // ------------------------------------------------------------------- classificação

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "biologia",
- "total": 537,
+ "total": 541,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -3198,6 +3198,27 @@
    "frenteDestino": "biologia",
    "pontos": 9,
    "margem": 9
+  },
+  "fuvest-biologia-38": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fuvest-biologia-39": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fuvest-biologia-40": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "fuvest-biologia-41": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
   }
  }
 }

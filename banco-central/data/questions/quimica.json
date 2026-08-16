@@ -8871,6 +8871,177 @@
    },
    "resposta": "d",
    "explicacao": "Primeiro o limite em mol: 0,224 mg·L⁻¹ é 2,24×10⁻⁴ g·L⁻¹, que dividido por 112 g·mol⁻¹ dá 2×10⁻⁶ mol·L⁻¹ de Cd²⁺. Com Kps = [Cd²⁺][OH⁻]² = 2×10⁻¹⁶, vem [OH⁻]² = 2×10⁻¹⁶ / 2×10⁻⁶ = 1×10⁻¹⁰, logo [OH⁻] = 1×10⁻⁵ mol·L⁻¹. Isso é pOH 5 e, portanto, pH 9 — alternativa D. Abaixo desse pH não há hidroxila suficiente para precipitar o cádmio até o limite legal; acima, precipita mais, mas 9 é o mínimo pedido. As alternativas A e B correspondem a pH ácido, onde o Cd(OH)2 sequer se forma, e E resulta de esquecer que a hidroxila entra ao quadrado."
+  },
+  {
+   "id": "fuvest-quimica-38",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A Antártica é um ambiente altamente sensível às mudanças climáticas. Por essa razão, cientistas estudam, por meio de imagens de sensoriamento remoto e levantamentos de campo, as consequências dos efeitos da diminuição da camada de ozônio, bem como as reações que ocorrem entre espécies químicas presentes no oceano e na atmosfera do continente gelado. Sergio J. Gonçalves Jr et al. Photochemical reactions on aerosols at West Antarctica: A molecular case-study of nitrate formation among sea salt aerosols. Science of The Total Environment, 2021.",
+   "enunciado": "A partir das informações apresentadas, considere as seguintes afirmações:\nI. Com a diminuição da espessura da camada de ozônio, aumenta a incidência da radiação solar sobre a atmosfera terrestre e a superfície do planeta, acelerando ou incrementando reações de natureza fotoquímica sobre os mantos de gelo polares.\nII. Em processos químicos envolvendo cloretos, estes podem ser oxidados a ClO4⁻ pelo O3, sob a ação de raios UV. Em razão de sua propriedade anticongelante, os percloratos contribuem para manter a água no estado líquido mesmo a temperaturas abaixo de 0 ºC.\nIII. Mesmo em condições extremas de frio, a presença de água líquida no manto congelado flutuante na Antártica é condição suficiente para garantir a sobrevivência do ser humano e de outros mamíferos sobre a camada de gelo.\nÉ correto apenas o que se afirma em:",
+   "alternativas": {
+    "a": "I.",
+    "b": "III.",
+    "c": "I e II.",
+    "d": "I e III.",
+    "e": "II e III."
+   },
+   "resposta": "c",
+   "explicacao": "I é verdadeira: menos ozônio significa mais radiação ultravioleta chegando à superfície, e reação fotoquímica é justamente a que depende dessa energia. II também: o cloreto do sal marinho tem cloro no estado de oxidação −1 e pode ser oxidado até +7 no perclorato, com o ozônio atuando como oxidante sob UV; e percloratos são sais fortemente anticongelantes, capazes de manter salmouras líquidas bem abaixo de 0 °C. III é falsa e por larga margem: água líquida não é condição suficiente para a sobrevivência humana em um manto de gelo antártico, onde faltam temperatura, abrigo e alimento. Só I e II, alternativa C."
+  },
+  {
+   "id": "fuvest-quimica-39",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Material muito versátil, o vidro pode ser produzido em laboratório com diferentes características e para várias finalidades. Ele também pode se formar naturalmente no meio ambiente, como no caso do fulgurito, vidro natural que é gerado durante tempestades de raios em regiões desérticas.",
+   "enunciado": "A formação desse vidro natural acontece porque",
+   "alternativas": {
+    "a": "a descarga elétrica do raio transfere energia suficiente para fundir a sílica presente na areia, formando a massa de vidro.",
+    "b": "os raios fornecem energia de ativação suficiente para que os grãos de areia reajam com o oxigênio atmosférico e produzam o material que constitui o vidro.",
+    "c": "os materiais necessários para a produção de vidro são lixiviados durante as tempestades de raios e entram em contato com a atmosfera, permitindo a oxidação do silício e a formação do vidro.",
+    "d": "os materiais que estão soterrados no fundo das dunas atingem a superfície durante as tempestades de raios e podem ser expostos à carga elétrica das nuvens, originando a massa de vidro de forma natural.",
+    "e": "as tempestades de raios permitem que a lava existente sob o deserto seja liberada, alcançando a areia e formando a massa de vidro para derretê-la."
+   },
+   "resposta": "a",
+   "explicacao": "Fulgurito é areia derretida. A descarga do raio despeja em um ponto uma quantidade enorme de energia em fração de segundo, ultrapassando os cerca de 1.700 °C de que a sílica precisa para fundir; ao esfriar rápido demais para se organizar em cristal, a massa solidifica como vidro. Alternativa A. A alternativa B faz a areia reagir com o oxigênio, e a sílica já é um óxido; C fala em lixiviação e oxidação do silício; D imagina materiais soterrados vindo à superfície para receber a carga; e E invoca lava sob o deserto, que nada tem a ver com o fenômeno."
+  },
+  {
+   "id": "fuvest-quimica-40",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Para armazenar uma solução de sulfato de cobre dispõe-se de frascos dos metais Al, Zn, Pb e Ag, cujos potenciais padrão de redução são apresentados a seguir:\nAl³⁺ + 3e⁻ → Al ... E° = −1,66 V\nZn²⁺ + 2e⁻ → Zn ... E° = −0,76 V\nPb²⁺ + 2e⁻ → Pb ... E° = −0,13 V\nCu²⁺ + 2e⁻ → Cu ... E° = +0,34 V\nAg⁺ + e⁻ → Ag ... E° = +0,80 V",
+   "enunciado": "Considerando os dados fornecidos, em qual ou quais frascos a solução poderá ser armazenada sem que ocorra corrosão do frasco?",
+   "alternativas": {
+    "a": "Apenas no frasco de alumínio.",
+    "b": "Apenas nos frascos de alumínio, zinco e chumbo.",
+    "c": "Apenas nos frascos de chumbo e prata.",
+    "d": "Apenas no frasco de prata.",
+    "e": "Em nenhum dos frascos disponíveis."
+   },
+   "resposta": "d",
+   "explicacao": "O frasco corrói se o metal for oxidado pelo Cu²⁺ da solução, e isso acontece sempre que seu potencial de redução for menor que o do cobre, +0,34 V. Alumínio (−1,66), zinco (−0,76) e chumbo (−0,13) estão todos abaixo: os três seriam consumidos, depositando cobre metálico. Só a prata, com +0,80 V, está acima e não reage — alternativa D. A alternativa B junta exatamente os três que corroem; A e C incluem parte deles; e E descarta também a prata, ignorando que um potencial maior que o do cobre é justamente a condição de estabilidade."
+  },
+  {
+   "id": "fuvest-quimica-41",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Diversos vídeos disponibilizados na internet mostram a vigorosa reação resultante da adição de balas mentos em garrafas de refrigerantes de cola, formando uma “erupção” de refrigerante. A rugosidade das pastilhas da bala forma pontos de nucleação que aceleram a formação de bolhas de CO2, antes dissolvido no refrigerante, que se expandem rapidamente arrastando o líquido pela boca da garrafa.\n\nNote e adote:\nConsidere a abertura da garrafa em ambiente com 1 atm e a 27 °C.\nMassa molar (g/mol): CO2 = 44\nT(K) = T(°C) + 273\nConstante dos gases ideais: R = 0,082 atm·L·K⁻¹·mol⁻¹",
+   "enunciado": "Sabe-se que uma garrafa de refrigerante contém 7,15 g de CO2 dissolvido por litro, enquanto fechada. Considerando a abertura de uma garrafa de 2 L de refrigerante seguida da adição de bala mentos, caso todo CO2(aq) passe imediatamente para a fase gasosa, quantas vezes o volume do CO2 liberado é maior que o da garrafa no qual ele estava dissolvido?",
+   "alternativas": {
+    "a": "1 vez.",
+    "b": "2 vezes.",
+    "c": "4 vezes.",
+    "d": "8 vezes.",
+    "e": "16 vezes."
+   },
+   "resposta": "c",
+   "explicacao": "A garrafa de 2 L traz 7,15 g de CO2 por litro, ou seja, 14,3 g, o que dá 14,3/44 ≈ 0,325 mol. Passando tudo à fase gasosa a 1 atm e 300 K, o volume é nRT/P = 0,325 × 0,082 × 300 ≈ 8 L. Comparado aos 2 L da garrafa, são 4 vezes — alternativa C. A alternativa B, 2 vezes, sai de usar só 7,15 g em vez dos 14,3 g dos dois litros; D e E vêm de erro na temperatura, usando 27 K ou esquecendo a conversão; e A ignora a expansão."
+  },
+  {
+   "id": "fuvest-quimica-42",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Considere dois frascos contendo o mesmo volume de (I) água e (II) solução com mesma concentração de H2CO3 e NaHCO3. No frasco (II), observa-se o seguinte equilíbrio: H2CO3 (aq) ⇌ HCO3ꟷ (aq) + H+ (aq) Ao acrescentar quantidades iguais de um mesmo suco de limão em (I) e (II), notou-se uma variação de pH em ambos. Como o limão possui ácido cítrico em sua composição, isso lhe confere um caráter ___1___ , de forma que o pH ___2___ nos dois frascos após adição do suco de limão. Porém, essa variação de pH foi ___3___ no frasco (II), pois o H+ proveniente do ácido cítrico deslocou o equilíbrio da reação para ___4___.",
+   "enunciado": "Com base no experimento realizado, as lacunas podem ser preenchidas corretamente por: 1 2 3 4",
+   "alternativas": {
+    "a": "ácido diminuiu menor esquerda",
+    "b": "básico diminuiu maior direita",
+    "c": "ácido aumentou maior esquerda",
+    "d": "básico aumentou maior direita",
+    "e": "ácido diminuiu menor direita"
+   },
+   "resposta": "a",
+   "explicacao": "O ácido cítrico torna o limão ácido, e acrescentá-lo abaixa o pH nos dois frascos — daí as lacunas 1 e 2. A diferença está no frasco II, que contém H2CO3 e sua base conjugada HCO3⁻ em concentrações iguais: é uma solução-tampão. O H⁺ que entra é consumido pelo HCO3⁻, deslocando o equilíbrio para a esquerda, no sentido do H2CO3, e a variação de pH fica menor que na água pura. Alternativa A. As alternativas B e D chamam o limão de básico; C diz que o pH aumentou; e E acerta os três primeiros campos mas manda o equilíbrio para a direita, o que só aconteceria se o H⁺ estivesse sendo retirado."
+  },
+  {
+   "id": "fuvest-quimica-43",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Os antiácidos estomacais são consumidos para neutralizar o excesso de HCl do suco gástrico presente em nosso estômago e, consequentemente, aliviar sintomas como dores ou desconforto abdominal, chamado de azia.\n\nNote e adote:\nMassa molar (g/mol): Mg(OH)2 = 58.\nConsidere que o leite de magnésia é uma suspensão de hidróxido de magnésio de concentração 58 mg/mL.",
+   "enunciado": "Supondo que o volume do estômago seja de 400 mL, que seu conteúdo tenha pH igual a 2 e que todo H⁺ do suco gástrico seja oriundo do HCl, qual volume mínimo de leite de magnésia (Mg(OH)2), em mL, seria necessário para neutralizar totalmente o ácido do estômago?",
+   "alternativas": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+   },
+   "resposta": "b",
+   "explicacao": "pH 2 significa [H⁺] = 10⁻² mol/L, e em 0,400 L há 4×10⁻³ mol de H⁺. Cada Mg(OH)2 traz duas hidroxilas, então bastam 2×10⁻³ mol da base, que a 58 g/mol pesam 0,116 g, ou 116 mg. Na suspensão de 58 mg/mL, isso corresponde a 2 mL — alternativa B. A alternativa D, 4, é a resposta de quem esquece que o hidróxido de magnésio é uma base diácida e trata a neutralização como um para um; A vem de errar o volume do estômago; e C e E não correspondem a nenhum passo da conta."
+  },
+  {
+   "id": "fuvest-quimica-44",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma pesquisa desenvolvida na Faculdade de Zootecnia e Engenharia de Alimentos da USP mostrou que a suplementação com óleos vegetais na dieta de vacas leiteiras pode alterar o percentual da gordura e a composição do leite por elas produzido, tornando o perfil dos ácidos graxos do leite ainda mais saudável para a alimentação humana. Nesse estudo, as vacas foram divididas em 3 grupos:\n- Grupo 1: recebeu alimentação sem suplementação;\n- Grupo 2: recebeu alimentação suplementada com óleo de soja;\n- Grupo 3: recebeu alimentação suplementada com óleo de linhaça.\n\nSuplementação | % de gordura no leite | % de ácidos graxos saturados na gordura | % de ácidos graxos insaturados na gordura\nGrupo 1: sem suplementação | 3,4 | 66,9 | 33,1\nGrupo 2: óleo de soja | 2,8 | 56,5 | 43,5\nGrupo 3: óleo de linhaça | 2,9 | 56,6 | 43,4\n\nEm particular, a alteração na dieta dos animais melhorou a proporção de Ômega-6 (Ω-6) e Ômega-3 (Ω-3) que, em quantidades adequadas, têm um importante papel na prevenção, por exemplo, de doenças cardiovasculares e inflamatórias crônicas, além de alguns tipos de câncer. O estudo mostrou que a suplementação de óleo de linhaça na dieta das vacas diminuiu no leite a proporção Ω-6 / Ω-3 de 7,92 para 2,72. Essa proporção mais baixa no leite pode contribuir para que a proporção desses ácidos graxos na alimentação diária total dos seres humanos esteja dentro da faixa indicada pela OMS, que é de 5 a 10. Mauricio X. S. Oliveira et al. (2021). PLoS ONE 16(2): e0246357.",
+   "enunciado": "Em relação ao leite produzido pelas vacas com alimentação suplementada, é correto afirmar:",
+   "alternativas": {
+    "a": "A suplementação da alimentação aumentou a proporção de ácidos graxos com duplas ligações entre os átomos de carbono no leite.",
+    "b": "O ponto de ebulição do leite produzido pelas vacas do grupo 1 deve ser inferior ao daquele produzido pelas vacas dos grupos 2 e 3.",
+    "c": "A composição do leite produzido pelas vacas do grupo 2 foi significativamente diferente do leite produzido pelas vacas do grupo 3.",
+    "d": "O leite produzido pelas vacas do grupo 1 tem ácidos graxos de cadeias mais longas do que o leite produzido pelas vacas dos grupos 2 e 3.",
+    "e": "A quantidade absoluta de ácidos graxos saturados é menor no leite das vacas do grupo 1."
+   },
+   "resposta": "a",
+   "explicacao": "Insaturado quer dizer, por definição, que há dupla ligação entre carbonos da cadeia. A tabela mostra a fração de insaturados subindo de 33,1% no grupo sem suplementação para 43,5% e 43,4% nos suplementados — logo a suplementação aumentou a proporção de ácidos graxos com dupla ligação, alternativa A. A alternativa B inverte a relação entre insaturação e ponto de ebulição, que cai com as duplas; C afirma diferença significativa entre soja e linhaça, e os números são quase iguais; D fala em comprimento de cadeia, que a tabela não mede; e E diz que os saturados são menores no grupo 1, quando são maiores (66,9%)."
+  },
+  {
+   "id": "fuvest-quimica-45",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Uma pesquisa desenvolvida na Faculdade de Zootecnia e Engenharia de Alimentos da USP mostrou que a suplementação com óleos vegetais na dieta de vacas leiteiras pode alterar o percentual da gordura e a composição do leite por elas produzido, tornando o perfil dos ácidos graxos do leite ainda mais saudável para a alimentação humana. Nesse estudo, as vacas foram divididas em 3 grupos: - Grupo 1: recebeu alimentação sem suplementação; - Grupo 2: recebeu alimentação suplementada com óleo de soja; - Grupo 3: recebeu alimentação suplementada com óleo de linhaça. A análise do teor de gordura e de ácidos graxos no leite de cada grupo de vacas é apresentada a seguir. Suplementação da alimentação das vacas % de gordura no leite % de ácidos graxos saturados na gordura % ácidos graxos insaturados na gordura Grupo 1: Sem suplementação 3,4 66,9 33,1 Grupo 2: Óleo de Soja 2,8 56,5 43,5 Grupo 3: Óleo de Linhaça 2,9 56,6 43,4 Em particular, a alteração na dieta dos animais melhorou a proporção de Ômega-6 (Ω-6) e Ômega-3 (Ω-3) que, em quantidades adequadas, têm um importante papel na prevenção, por exemplo, de doenças cardiovasculares e inflamatórias crônicas, além de alguns tipos de câncer. O estudo mostrou que a suplementação de óleo de linhaça na dieta das vacas diminuiu no leite a proporção Ω-6 / Ω-3 de 7,92 para 2,72. Essa proporção mais baixa no leite pode contribuir para que a proporção desses ácidos graxos na alimentação diária total dos seres humanos esteja dentro da faixa indicada pela OMS, que é de 5 a 10. Mauricio X. S. Oliveira et al. (2021). PLoS ONE 16(2): e0246357. Disponível em https://doi.org/10.1371/journal.pone.0246357/.",
+   "enunciado": "Os resultados apresentados permitem concluir que, após a dieta de óleo de linhaça,",
+   "alternativas": {
+    "a": "a quantidade de Ω-6 no leite das vacas foi 7,92 vezes maior do que a quantidade de Ω-3.",
+    "b": "a quantidade de Ω-6 no leite das vacas foi 2,72 vezes maior do que a quantidade de Ω-3.",
+    "c": "a quantidade de Ω-6 no leite das vacas foi 5 a 10 vezes maior do que a quantidade de Ω-6 encontrada no leite sem o uso da dieta.",
+    "d": "a quantidade de Ω-3 no leite das vacas foi 2,72 vezes maior do que a quantidade de Ω-3 encontrada no leite sem o uso da dieta.",
+    "e": "a quantidade de Ω-6 no leite das vacas aumentou em 5 vezes, ao mesmo tempo em que a quantidade de Ω-3 diminuiu em 10 vezes."
+   },
+   "resposta": "b",
+   "explicacao": "A proporção Ω-6/Ω-3 é uma razão, e o texto diz que a linhaça a levou de 7,92 para 2,72. Ler a razão é direto: depois da dieta, há 2,72 vezes mais Ω-6 do que Ω-3 no leite. Alternativa B. A alternativa A usa o valor anterior à dieta, 7,92; C e D tratam a razão como se comparasse o leite novo com o antigo, quando ela compara os dois ácidos entre si dentro do mesmo leite; e E inventa variações absolutas de 5 e 10 vezes a partir da faixa recomendada pela OMS, que é o intervalo de referência para a dieta humana total, não uma medida do leite."
+  },
+  {
+   "id": "fuvest-quimica-46",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "No início do século XX, motores conhecidos como \"hot-bulb\" tornaram-se muito populares, sendo utilizados em tratores e outros maquinários. Diferentemente dos motores a diesel, em que a compressão do combustível causa sua ignição, esses motores funcionam por meio de uma superfície metálica aquecida a alta temperatura, que é responsável por vaporizar e permitir a detonação do combustível. Para ligar esse motor, portanto, é necessário usar uma chama externa até que tal superfície esteja quente o suficiente para que o motor entre em operação, momento no qual a chama externa deve ser apagada.",
+   "enunciado": "Nesses motores, uma das funções da chama externa é",
+   "alternativas": {
+    "a": "fornecer a energia de ativação necessária para que a combustão se inicie e o motor entre em funcionamento.",
+    "b": "atuar como comburente para o funcionamento do motor, permitindo que a combustão aconteça.",
+    "c": "evitar o vazamento de combustível, fazendo com que qualquer quantidade que possa entre em combustão.",
+    "d": "fornecer calor ao motor para manter a lubrificação constante e o motor em funcionamento.",
+    "e": "fornecer calor para aquecer o comburente, de forma que o processo de combustão não cesse."
+   },
+   "resposta": "a",
+   "explicacao": "Combustão é exotérmica, mas não começa sozinha: é preciso vencer uma barreira inicial, a energia de ativação. A chama externa fornece essa energia até que a superfície metálica fique quente o bastante para sustentar o processo — e por isso pode ser apagada logo depois, como o próprio enunciado diz. Alternativa A. A alternativa B chama a chama de comburente, papel que cabe ao oxigênio; C lhe atribui a função de evitar vazamento; D a liga à lubrificação; e E diz que ela aquece o comburente para que a combustão não cesse, quando o motor passa a operar sem ela."
   }
  ],
  "textos": [

@@ -6631,6 +6631,63 @@
       },
       "resposta": "b",
       "explicacao": "A Turquia combina as duas formas de poder, e é isso que a alternativa B reconhece: ocupa posição de charneira entre Europa e Ásia, controla os estreitos, integra a OTAN desde 1952 — tudo isso é hard power — e ainda projeta influência cultural pelas séries. A alternativa A afirma que ela não usa hard power, o que a própria condição de membro da OTAN desmente; C, D e E fazem afirmações sobre o alcance das séries — presença na América do Sul, em todos os continentes, ausência nos Estados Unidos — que a pergunta sobre a posição geopolítica não sustenta e que a alternativa B dispensa."
+    },
+    {
+      "id": "fuvest-geografia-34",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2026",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "O trânsito nas megacidades é considerado um problema para grande parte dos seus habitantes. Na Cidade do México, predomina o deslocamento por meio de automotores, diferentemente do que ocorre em Mumbai, uma península, e em São Paulo.\n\nDensidade populacional urbana:\nMumbai — 24.073 pessoas por km²\nSão Paulo — 5.888 pessoas por km²\nCidade do México — 8.657 pessoas por km²\nDemographia World Urban Areas - 19th Annual Edition: August 2023.",
+      "enunciado": "Sobre a mobilidade urbana nas megacidades, é correto afirmar:",
+      "alternativas": {
+        "a": "O tempo de deslocamento tende a aumentar com a expansão da área urbana.",
+        "b": "O tempo médio de viagem em Mumbai é menor por apresentar maior área urbana.",
+        "c": "O uso dos transportes coletivos aumenta o tempo de deslocamento nas metrópoles.",
+        "d": "A utilização de veículos particulares torna-se eficiente quanto ao tempo de deslocamento.",
+        "e": "O elevado nível econômico da população leva à utilização de veículos particulares."
+      },
+      "resposta": "a",
+      "explicacao": "Cidade que se espalha alonga o percurso: quanto maior a mancha urbana, maiores as distâncias entre moradia e trabalho e maior o tempo gasto, ainda mais quando o espalhamento vem acompanhado de dependência do automóvel. Alternativa A, e os números ajudam — Mumbai, confinada numa península, tem quatro vezes a densidade de São Paulo em área muito menor. A alternativa B atribui a Mumbai maior área urbana, e é o contrário; C culpa o transporte coletivo pelo tempo de deslocamento, quando ele o reduz; D chama o veículo particular de eficiente, e é o modal que congestiona a Cidade do México; e E explica o uso do carro pelo nível econômico, ignorando a oferta de transporte público."
+    },
+    {
+      "id": "fuvest-geografia-35",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2026",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Um aumento no consumo de água e produtos agropecuários pela população humana, direta ou indiretamente, geralmente vem atrelado a um aumento na pressão exercida sobre o meio ambiente. Por outro lado, há uma crescente preocupação com a preservação dos biomas brasileiros, de forma a garantir o suprimento de recursos ambientais e evitar a extinção de espécies.",
+      "enunciado": "Assinale a alternativa que apresenta duas soluções de amplo alcance geográfico e sustentáveis (dos pontos de vista ambiental e econômico) para diminuir o impacto da expansão da lavoura sobre a vegetação nativa (I) e para o melhor aproveitamento de recursos hídricos (II).",
+      "alternativas": {
+        "a": "I - Diminuição da produção agrícola. II - Instalação de condensadores de umidade do ar nas áreas rurais.",
+        "b": "I - Aumento da produtividade nas lavouras sem aumento da área cultivada. II - Preservação e recuperação de nascentes e matas ciliares.",
+        "c": "I - Uso extensivo de sementes transgênicas. II - Instalação de um maior número de poços artesianos nas cidades e no campo.",
+        "d": "I - Diminuição da produção agrícola. II - Criação de novas represas para o armazenamento de água dos rios.",
+        "e": "I - Aumento da carga tributária sobre os alimentos. II - Aumento da eficiência dos sistemas de distribuição de água e irrigação."
+      },
+      "resposta": "b",
+      "explicacao": "A pergunta pede soluções que sejam ao mesmo tempo amplas, ambientalmente e economicamente sustentáveis. Produzir mais na mesma área — intensificação por produtividade — atende o item I sem avançar sobre a vegetação nativa; e preservar nascentes e matas ciliares atende o II, porque é o que garante a recarga e a qualidade dos cursos d'água. Alternativa B. As alternativas A e D partem de diminuir a produção agrícola, o que é insustentável economicamente; C propõe mais poços artesianos, que aprofundam a pressão sobre o aquífero, e trata transgênicos como solução de área; e E encarece o alimento por tributo, embora acerte no segundo item."
+    },
+    {
+      "id": "fuvest-geografia-36",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2026",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fuvest",
+      "texto_apoio": "A Cúpula da Amazônia, realizada em 2023, na cidade de Belém, foi marcada não apenas pelas prováveis convergências sobre a necessidade de preservação da Amazônia, mas por divergências e uma contradição: o que fazer com as enormes reservas de petróleo já descobertas nos países da região? De um lado, há um grupo formado por países como Venezuela e Brasil e os recém-chegados Suriname e Guiana, que têm significativas reservas de petróleo e que não dão demonstrações de que pretendem deixar de explorar os recursos no curto e no médio prazo. Do outro lado, está a voz dissonante da Colômbia, que anunciou o fim da liberação de novas licenças para explorar petróleo no início deste ano como uma forma de mover sua economia na direção da chamada transição energética - a passagem de uma matriz energética focada na queima de combustíveis fósseis para uma baseada em fontes renováveis. Leandro Prazeres, BBC News Brasil, 4 de agosto de 2023. Adaptado.",
+      "enunciado": "A partir da leitura do texto e de seus conhecimentos, é correto afirmar:",
+      "alternativas": {
+        "a": "Mesmo com o alto grau de fragilidade da região amazônica e a intensificação da exploração de petróleo, os impactos socioambientais na floresta serão reversíveis, uma vez que os países citados serão recompensados financeiramente para investir na conservação dos recursos naturais.",
+        "b": "A necessidade de preservar a Floresta Amazônica não se justifica, pois a principal fonte de emissões de gases do efeito estufa do Brasil, país detentor da maior parte da floresta, vem da queima de combustíveis fósseis, e não do desmatamento.",
+        "c": "Do ponto de vista econômico, é necessário preservar as reservas florestais da Amazônia e seus ecossistemas para que seja viável continuar explorando reservas de combustíveis fósseis pelo mundo, mas em lugares com menor biodiversidade.",
+        "d": "Apesar de Suriname e Guiana estarem entre as novas fronteiras locais do petróleo, depois de terem descoberto novas reservas nas águas de petróleo, esses países não têm interesse em alterar os ecossistemas locais e, por isso, defendem uma matriz energética mais sustentável.",
+        "e": "Os líderes dos países da região amazônica travam embates sobre a exploração do petróleo na região; por um lado, há países que apoiam a exploração, de olho nos dividendos, por outro, há países que defendem frear a extração de combustíveis fosseis para alterar a matriz energética."
+      },
+      "resposta": "e",
+      "explicacao": "O texto monta a contradição em dois blocos: de um lado Venezuela, Brasil, Suriname e Guiana, com reservas significativas e sem sinal de que vão parar de explorá-las; de outro a Colômbia, que suspendeu novas licenças para acelerar a transição energética. A alternativa E descreve exatamente esse embate. A alternativa A promete reversibilidade dos impactos mediante compensação financeira; B afirma que a maior fonte brasileira de gases de efeito estufa é a queima de fósseis, quando é o desmatamento e a mudança de uso da terra; C inverte a lógica, preservando a Amazônia para explorar fósseis alhures; e D põe Suriname e Guiana defendendo matriz sustentável, e o texto os coloca no grupo oposto."
     }
   ]
 }

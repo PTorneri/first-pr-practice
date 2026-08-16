@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "fisica",
- "total": 586,
+ "total": 594,
  "residuo": [
   "med-fisica-31",
   "med-fisica-92",
@@ -3504,6 +3504,53 @@
    "frenteDestino": "fisica",
    "pontos": 5,
    "margem": 5
+  },
+  "fuvest-fisica-30": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "fuvest-fisica-31": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "fuvest-fisica-32": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "revisado": true
+  },
+  "fuvest-fisica-33": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "fuvest-fisica-34": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "fuvest-fisica-35": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-fisica-36": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "fuvest-fisica-37": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 8
   }
  }
 }

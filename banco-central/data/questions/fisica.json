@@ -9478,6 +9478,158 @@
    },
    "resposta": "c",
    "explicacao": "A normal à face é perpendicular a ela; como a face está a 45º da horizontal, a normal também está, e um raio horizontal incide sobre ela a 45º. A reflexão total começa quando o ângulo refratado atinge 90º, isto é, quando n·sen 45º = 1·sen 90º = 1. Daí n = 1/sen 45º = 2/√2 = √2 — alternativa C. Abaixo disso o raio escapa para o ar. A alternativa A, √2/2, é menor que 1 e não existe como índice de meio material; B, igual a 1, é o índice do próprio ar; e D e E são maiores que o mínimo, valores para os quais há reflexão total mas que não respondem ao \"mínimo\" pedido."
+  },
+  {
+   "id": "fuvest-fisica-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um aparelho de ar-condicionado opera entre uma sala fechada e o ambiente externo, que está a uma temperatura maior que a da sala. A cada ciclo de operação, o ar-condicionado retira da sala uma quantidade de calor quatro vezes maior que o trabalho realizado pelo aparelho. Durante um certo intervalo de tempo, o aparelho transfere 1600 cal de calor da sala para o ambiente externo.",
+   "enunciado": "O trabalho realizado pelo ar-condicionado durante esse intervalo de tempo é de",
+   "alternativas": {
+    "a": "320 cal.",
+    "b": "400 cal.",
+    "c": "720 cal.",
+    "d": "1280 cal.",
+    "e": "1600 cal."
+   },
+   "resposta": "a",
+   "explicacao": "O aparelho é uma máquina frigorífica: retira calor da sala (Qf), recebe trabalho (W) e despeja no ambiente externo Qq = Qf + W. O enunciado diz que Qf = 4W e que o total transferido para fora é 1600 cal, ou seja, Qq = 1600. Então 4W + W = 1600, e W = 320 cal — alternativa A. A alternativa D, 1280, é o Qf, o calor retirado da sala; E, 1600, é o próprio Qq; B, 400, sai de dividir 1600 por 4, esquecendo que o trabalho também vai para fora; e C não corresponde a nenhum passo da conta."
+  },
+  {
+   "id": "fuvest-fisica-31",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "No dia 30 de maio de 2020, o foguete \"Falcon 9\" foi lançado ao espaço levando uma cápsula com destino à Estação Espacial Internacional (ISS). Em menos de 15 minutos após o lançamento, a espaçonave Dragon já se encontrava a quase 200 km de altitude, separada do foguete. Porém, teve de seguir orbitando a Terra para ascender à Estação, localizada a cerca de 400 km de altitude.",
+   "enunciado": "O procedimento adotado para o encontro da espaçonave e da Estação Espacial pode ser explicado",
+   "alternativas": {
+    "a": "pela diferença de momento angular, pois a espaçonave encontrava-se com velocidade maior que a da ISS; com a ascensão da espaçonave, as velocidades orbitais igualaram-se, permitindo o acoplamento de ambas.",
+    "b": "pelas condições atmosféricas turbulentas da troposfera, o que obrigou a espaçonave a ascender a camadas mais altas da atmosfera, onde as condições de temperatura e pressão seriam mais favoráveis ao acoplamento.",
+    "c": "pelas condições de inércia, pois a ausência de gravidade no vácuo causa incrementos na aceleração adquirida durante o lançamento do foguete, fazendo com que a espaçonave ganhe altitude até encontrar a ISS.",
+    "d": "pela maior resistência do ar na camada da atmosfera em que se encontrava a espaçonave, forçando sua ascensão a camadas de maior altitude, onde o ar é mais rarefeito e a resistência do ar é menor.",
+    "e": "pelo torque relacionado à energia rotacional, segundo a qual órbitas menores estão associadas a menores acelerações; por isso, a espaçonave teve de ascender para aumentar sua velocidade e se encontrar com a ISS."
+   },
+   "resposta": "a",
+   "explicacao": "Órbita mais baixa é órbita mais rápida: a 200 km a Dragon completava voltas em menos tempo e com velocidade orbital maior que a da ISS, a 400 km. Para acoplar, não bastava alcançá-la — era preciso subir, e subir reduz a velocidade orbital até que as duas se igualem. Alternativa A. A alternativa B invoca turbulência da troposfera, camada que a espaçonave deixou nos primeiros minutos; C afirma ausência de gravidade no vácuo, quando é a gravidade que mantém a órbita; D fala em resistência do ar forçando a ascensão, e a 200 km ela é desprezível para esse fim; e E inverte a relação, dizendo que subir aumenta a velocidade."
+  },
+  {
+   "id": "fuvest-fisica-32",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Aurora polar é um fenômeno conhecido nos hemisférios norte e sul do planeta Terra e caracteriza-se por um brilho observado no céu em decorrência do impacto entre as partículas carregadas lançadas pela erupção solar (predominantemente elétrons) que são canalizadas pelo campo magnético terrestre e os átomos da atmosfera, predominantemente oxigênio e nitrogênio.\n\nNote e adote:\nMódulo da força magnética de uma partícula de carga q e velocidade v na presença de um campo magnético uniforme B perpendicular à velocidade: FB = q·v·B.\nMódulo da força centrípeta de uma partícula de massa m em movimento circular uniforme de raio R com velocidade escalar v: Fc = mv²/R.\nMassa do elétron: m = 10⁻³⁰ kg.\nCarga do elétron: e⁻ = 1,6×10⁻¹⁹ C.",
+   "enunciado": "Considerando que os elétrons lançados pela erupção solar possuem energia cinética da ordem de 2×10−16 J e supondo que eles descrevem órbitas circulares sob ação do campo magnético terrestre da ordem de 10−4 T (suposto uniforme), a ordem de grandeza do raio da órbita desses elétrons é:",
+   "alternativas": {
+    "a": "10³ m",
+    "b": "10⁰ m",
+    "c": "10⁻³ m",
+    "d": "10⁻⁶ m",
+    "e": "10⁻⁹ m"
+   },
+   "resposta": "b",
+   "explicacao": "Primeiro a velocidade, pela energia cinética: ½mv² = 2×10⁻¹⁶ J com m = 10⁻³⁰ kg dá v² = 4×10¹⁴ e v = 2×10⁷ m/s. Depois o raio, igualando força magnética e centrípeta: qvB = mv²/R, ou seja, R = mv/(qB) = (10⁻³⁰ × 2×10⁷)/(1,6×10⁻¹⁹ × 10⁻⁴) ≈ 1,25 m. A ordem de grandeza é 10⁰ m — alternativa B. Os demais valores correspondem a errar uma potência de dez em algum dos dois passos, sobretudo ao esquecer o fator ½ da energia cinética ou ao trocar a carga pela massa no denominador."
+  },
+  {
+   "id": "fuvest-fisica-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O fenômeno da difração constitui uma importante característica do comportamento ondulatório da luz. Nesse fenômeno, ondas desviam-se em relação à sua direção de propagação inicial quando encontram obstáculos ou atravessam orifícios com aberturas da ordem de seu comprimento de onda. A difração é conveniente para estimar distâncias consideradas “pequenas”, em relação às quais os instrumentos tradicionais de medição usuais tornam-se imprecisos. Disponível em https://commons.wikimedia.org/. A figura mostra o padrão de intensidade luminosa produzido pela incidência de luz sobre um fio de cabelo, exibindo uma alternância de máximos e mínimos de intensidade. No caso de uma detecção distante da fenda, a espessura 𝐿 do fio de cabelo pode ser calculada a partir da largura do máximo central de intensidade, dada por 𝑦= 2𝜆𝐷/𝐿, sendo 𝜆 e 𝐷 o comprimento de onda da luz incidente e a distância entre o fio de cabelo e o anteparo, respectivamente.\n\nNote e adote:\nA precisão relativa é definida como a razão entre o erro intrínseco à medida e o valor da própria medida.",
+   "enunciado": "Considere que luz incida sobre um fio de cabelo, de espessura da ordem de 50 𝜇m, e que a imagem seja projetada sobre um anteparo a uma distância de 1 m. Entre os comprimentos de onda indicados a seguir, qual permitiria uma melhor precisão relativa na medida da espessura do fio de cabelo realizada com auxílio de uma régua de precisão 1 mm?",
+   "alternativas": {
+    "a": "200 nm",
+    "b": "300 nm",
+    "c": "400 nm",
+    "d": "500 nm",
+    "e": "600 nm"
+   },
+   "resposta": "e",
+   "explicacao": "A largura do máximo central é y = 2λD/L. Com D = 1 m e L = 50 μm, y = 4×10⁴·λ: para 200 nm dá 8 mm; para 600 nm, 24 mm. Como a régua erra sempre 1 mm, a precisão relativa é 1 mm dividido por y — quanto maior y, menor o erro relativo. Entre as opções, o maior comprimento de onda é o que produz a franja mais larga e a melhor medida: 600 nm, alternativa E. As alternativas A a D vão na direção contrária, estreitando o máximo central e fazendo o mesmo milímetro de erro pesar mais na medida."
+  },
+  {
+   "id": "fuvest-fisica-34",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Nas últimas décadas, diferentes descobertas na área da tecnologia médica têm permitido diagnósticos mais precisos para muitas doenças. Muitos deles são obtidos em exames radiológicos e se baseiam nas interações entre as células do corpo humano e a radiação, por meio de colisões entre elétrons e fótons de raios-X. A frequência dos fótons após a colisão é diferente daquela antes da colisão. Um fóton de frequência f transporta energia dada por hf, sendo h a constante de Planck.\n\nNote e adote:\nConstante de Planck: h ≅ 6×10⁻³⁴ J·s",
+   "enunciado": "Considere que a frequência de um fóton de raios-X varia de 5×1016 s-1 para 2,5×1016 s-1 devido à colisão com um elétron e que a energia perdida pelo fóton é totalmente transferida para o elétron. Nessas condições, a variação da energia do elétron devido à colisão é",
+   "alternativas": {
+    "a": "−4,5×10ꟷ17J",
+    "b": "−1,5×10ꟷ17J",
+    "c": "0 J",
+    "d": "1,5×10ꟷ17J",
+    "e": "4,5×10ꟷ17J"
+   },
+   "resposta": "d",
+   "explicacao": "A energia do fóton cai de hf₁ para hf₂: h(f₂ − f₁) = 6×10⁻³⁴ × (2,5×10¹⁶ − 5×10¹⁶) = 6×10⁻³⁴ × (−2,5×10¹⁶) = −1,5×10⁻¹⁷ J. O enunciado diz que toda a energia perdida pelo fóton vai para o elétron, então a variação da energia do elétron é a mesma em módulo e de sinal oposto: +1,5×10⁻¹⁷ J, alternativa D. A alternativa B é a variação do fóton, com o sinal que a pergunta não pede; A e E usam a soma das frequências em vez da diferença; e C afirma que nada muda, contra o enunciado."
+  },
+  {
+   "id": "fuvest-fisica-35",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere que o cozimento total de um determinado alimento em uma cidade ao nível do mar requer mantê-lo por, no mínimo, 5 minutos na água após a fervura.",
+   "enunciado": "Para a obtenção desse alimento totalmente cozido no alto de uma montanha onde a pressão atmosférica é de cerca de 0,6 atm, o tempo que o alimento deverá permanecer na água após a fervura é",
+   "alternativas": {
+    "a": "o mesmo que na cidade ao nível do mar porque o ponto de ebulição da água não depende do local em que é medido.",
+    "b": "menor do que o necessário na cidade ao nível do mar porque o ponto de ebulição da água diminui com a diminuição da pressão.",
+    "c": "maior do que o necessário na cidade ao nível do mar porque o ponto de ebulição da água aumenta com a diminuição da pressão.",
+    "d": "maior do que o necessário na cidade ao nível do mar porque o ponto de ebulição da água diminui com a diminuição da pressão.",
+    "e": "menor do que o necessário na cidade ao nível do mar porque o ponto de ebulição da água aumenta com a diminuição da pressão."
+   },
+   "resposta": "d",
+   "explicacao": "Cozinhar não depende de a água ferver, e sim da temperatura que ela atinge. A 0,6 atm a água entra em ebulição bem abaixo de 100 °C, e a partir daí não esquenta mais por mais fogo que se dê: a temperatura de cozimento cai e o processo fica mais lento, exigindo mais tempo. Alternativa D. A alternativa A afirma que o ponto de ebulição não depende do local; B acerta que ele diminui, mas conclui menos tempo; C e E invertem a física, fazendo o ponto de ebulição subir quando a pressão cai — se fosse assim, panela de pressão e altitude teriam efeitos trocados."
+  },
+  {
+   "id": "fuvest-fisica-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um caminhão de 2 toneladas carrega uma caixa de 100 kg e trafega em linha reta a uma velocidade de 36 km/h. O coeficiente de atrito estático entre a superfície da caixa e a superfície da carroceria é de 0,5 e não há ganchos ou amarras prendendo a caixa ao caminhão. Sabendo disso e ao notar um sinal vermelho à frente, o motorista freia suavemente o caminhão para que a caixa não deslize.\n\nNote e adote:\nConsidere que a força exercida pelos freios do caminhão seja feita de modo que a aceleração do caminhão seja constante durante a frenagem.\nDespreze eventuais inclinações da carroceria do caminhão durante a frenagem.\nAceleração da gravidade: g = 10 m/s².",
+   "enunciado": "Para que a caixa permaneça sem deslizar, a distância mínima que o caminhão percorre entre o instante de início da frenagem e a parada total do veículo é de",
+   "alternativas": {
+    "a": "1 m.",
+    "b": "5 m.",
+    "c": "10 m.",
+    "d": "50 m.",
+    "e": "100 m."
+   },
+   "resposta": "c",
+   "explicacao": "Quem segura a caixa é o atrito estático, e ele não passa de μmg. A maior desaceleração que a caixa suporta sem deslizar é, portanto, a = μg = 0,5 × 10 = 5 m/s² — e note que a massa some, de modo que os 100 kg e as 2 toneladas não entram na conta. Com v = 36 km/h = 10 m/s, a distância mínima sai de v² = 2ad: d = 100/10 = 10 m, alternativa C. A alternativa B, 5 m, resulta de esquecer o fator 2; D e E vêm de usar 36 m/s em vez de 10; e A, de dividir a velocidade pela aceleração."
+  },
+  {
+   "id": "fuvest-fisica-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Em pistas de dança, há dispositivos que convertem energia do movimento dos frequentadores em energia elétrica. Considere um ímã, preso a uma mola ideal, que pode oscilar verticalmente, com resistência do ar desprezível, ao longo de uma linha imaginária que passa pelo centro de uma espira metálica conectada a uma lâmpada de filamento. Em certo instante inicial, uma estudante transfere energia para o sistema ímã-mola, deformando a mola e abandonando o ímã a partir do repouso, fazendo-o oscilar. Ela registra que, após algum tempo, não se observam mais oscilações do ímã.",
+   "enunciado": "A respeito dessa situação, considere as seguintes afirmações:\nI. A corrente elétrica induzida no anel pelo movimento do ímã tem intensidade variável e percorre o anel sempre no mesmo sentido.\nII. Uma vez iniciadas as oscilações, a intensidade com que a lâmpada brilha atinge um máximo e, em seguida, diminui um pouco, permanecendo constante a partir de então.\nIII. Se a estudante reiniciar o experimento, agora duplicando a deformação inicial da mola, a energia total irradiada pela lâmpada quadruplicará.\nÉ correto apenas o que se afirma em:",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "I e II.",
+    "e": "II e III."
+   },
+   "resposta": "c",
+   "explicacao": "I é falsa: o ímã sobe e desce, o fluxo através da espira cresce e decresce alternadamente, e pela lei de Lenz a corrente inverte o sentido a cada meio ciclo. II também: como não há atrito nem resistência do ar, a única perda é a energia levada pela corrente induzida, de modo que as oscilações vão diminuindo até cessarem — o brilho não se estabiliza, apaga. III é verdadeira: a energia armazenada na mola é kx²/2, e dobrar x quadruplica essa energia; como ela acaba toda dissipada na lâmpada, a energia irradiada também quadruplica. Só III, alternativa C."
   }
  ],
  "textos": [

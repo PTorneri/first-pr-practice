@@ -17553,6 +17553,157 @@
    },
    "resposta": "a",
    "explicacao": "A parte mais curta caiu de 50 mm para 40 mm, logo se gastaram 10 mm de uma mina de 60 mm. Como o cilindro tem seção constante, o volume consumido é 10/60 = 1/6 do inicial — o que já elimina D e E. A superfície de desgaste é a interseção do cilindro com o plano do papel: uma elipse cujo semieixo menor é o próprio raio, 1 mm, e cujo semieixo maior é 1/cos 30º, porque a mina faz 60º com o papel e o plano de corte está, portanto, a 30º da seção reta. A área é π·1·(1/cos 30º) = π/(√3/2) = 2π√3/3 — alternativa A."
+  },
+  {
+   "id": "fuvest-matematica-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O cubo truncado é o sólido arquimediano resultante da remoção de uma pirâmide de base triangular em torno de cada vértice de um cubo, que será chamado de cubo de partida. As faces do sólido resultante são octógonos regulares e triângulos equiláteros. Suponha que as arestas do cubo de partida tenham comprimento de 1 unidade de medida.",
+   "enunciado": "Qual é o número de arestas do cubo truncado?",
+   "alternativas": {
+    "a": "12",
+    "b": "24",
+    "c": "36",
+    "d": "48",
+    "e": "72"
+   },
+   "resposta": "c",
+   "explicacao": "O sólido tem duas famílias de faces: 8 triângulos, um por vértice cortado do cubo, e 6 octógonos, um por face original. Contando as arestas pelas faces, são 8×3 + 6×8 = 72 lados, mas cada aresta é compartilhada por exatamente duas faces, então o total é 72/2 = 36 — alternativa C. A alternativa E, 72, é a contagem sem dividir por dois; A, 12, são as arestas do cubo de partida; B, 24, é o número de vértices do cubo truncado; e D, 48, não corresponde a nenhuma dessas contagens. A relação de Euler confirma: 14 faces + 24 vértices − 36 arestas = 2."
+  },
+  {
+   "id": "fuvest-matematica-34",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O cubo truncado é o sólido arquimediano resultante da remoção de uma pirâmide de base triangular em torno de cada vértice de um cubo, que será chamado de cubo de partida. As faces do sólido resultante são octógonos regulares e triângulos equiláteros. Suponha que as arestas do cubo de partida tenham comprimento de 1 unidade de medida.\n\nNote e adote:\nConsidere √2 = 1,4.",
+   "enunciado": "Qual é a medida mais aproximada das arestas do cubo truncado?",
+   "alternativas": {
+    "a": "0,4",
+    "b": "0,6",
+    "c": "0,7",
+    "d": "1,0",
+    "e": "1,4"
+   },
+   "resposta": "a",
+   "explicacao": "Chame de x o pedaço cortado em cada ponta das arestas do cubo. Sobre cada aresta original resta o segmento central 1 − 2x, e o corte diagonal, hipotenusa de um triângulo retângulo de catetos x, mede x√2. Para que o octógono seja regular, esses dois lados têm de ser iguais: 1 − 2x = x√2, ou seja, x = 1/(2 + √2). Com √2 = 1,4, x = 1/3,4 ≈ 0,29, e a aresta procurada é x√2 ≈ 0,29 × 1,4 ≈ 0,41 — alternativa A. A alternativa D, 1,0, é a aresta do cubo de partida; as demais correspondem a resolver a igualdade sem impor a regularidade do octógono."
+  },
+  {
+   "id": "fuvest-matematica-35",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma folha de papel retangular de 20 cm por 30 cm é vincada de modo que o vinco ℓ incide sobre os lados maiores, dividindo-os em segmentos de comprimentos x e y, de modo alternado. Seja θ o menor ângulo formado entre ℓ e qualquer dos lados maiores do papel.",
+   "enunciado": "Qual o valor de sen θ se ℓ for a diagonal do retângulo, isto é, quando x = 0?",
+   "alternativas": {
+    "a": "2/√13",
+    "b": "3/√13",
+    "c": "√13/2",
+    "d": "√50/3",
+    "e": "2√50"
+   },
+   "resposta": "a",
+   "explicacao": "Com x = 0 o vinco é a diagonal, e o triângulo em jogo tem catetos 20 e 30 e hipotenusa √(20² + 30²) = √1300 = 10√13. O ângulo θ é o menor entre a diagonal e o lado maior, de 30 cm, logo o cateto oposto a ele é o de 20 cm: sen θ = 20/(10√13) = 2/√13 — alternativa A. A alternativa B, 3/√13, é o cosseno, resultado de trocar o cateto oposto pelo adjacente; C inverte a razão; e D e E usam √50, que sairia de somar 20 e 30 dentro da raiz em vez de seus quadrados."
+  },
+  {
+   "id": "fuvest-matematica-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "enunciado": "A probabilidade de dois lançamentos de um dado (de 6 faces equiprováveis, numeradas de 1 a 6) somarem 10 ou mais é",
+   "alternativas": {
+    "a": "1/9.",
+    "b": "1/6.",
+    "c": "1/5.",
+    "d": "1/4.",
+    "e": "1/2."
+   },
+   "resposta": "b",
+   "explicacao": "São 36 resultados igualmente prováveis em dois lançamentos. Somar 10 ou mais acontece em seis deles: (4,6), (6,4), (5,5), (5,6), (6,5) e (6,6). A probabilidade é 6/36 = 1/6, alternativa B. A alternativa A, 1/9, sai de contar apenas quatro casos, esquecendo que (4,6) e (6,4) são resultados distintos; C, 1/5, e D, 1/4, superestimam a contagem; e E, 1/2, trataria \"10 ou mais\" como metade dos resultados, quando as somas vão de 2 a 12 e as altas são raras justamente por exigirem faces altas nos dois dados."
+  },
+  {
+   "id": "fuvest-matematica-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Ana, Beto, Cíntia, Dênis e Elza são amigos. Quatro deles sempre dizem a verdade e um deles sempre mente. Ana diz que Elza fala a verdade. Beto diz que Cíntia mente. Cíntia diz que sempre fala a verdade. Dênis diz que Beto mente. Elza diz que Dênis fala a verdade.",
+   "enunciado": "Qual deles mente?",
+   "alternativas": {
+    "a": "Ana.",
+    "b": "Beto.",
+    "c": "Cíntia.",
+    "d": "Dênis.",
+    "e": "Elza."
+   },
+   "resposta": "b",
+   "explicacao": "Teste a hipótese de que Beto mente. Então \"Cíntia mente\" é falso, e Cíntia diz a verdade — coerente com ela afirmar que sempre fala a verdade. Dênis diz \"Beto mente\", verdade. Elza diz que Dênis fala a verdade, verdade. Ana diz que Elza fala a verdade, verdade. Sobra exatamente um mentiroso, como o enunciado exige: alternativa B. Qualquer outra hipótese estoura a conta — se Cíntia mentisse, Beto estaria certo ao acusá-la, mas então Dênis, ao dizer que Beto mente, também mentiria, e já seriam dois. O mesmo ocorre ao supor Ana, Dênis ou Elza como o mentiroso."
+  },
+  {
+   "id": "fuvest-matematica-38",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um jogo de talheres tem colheres de sobremesa e colheres de sopa. Os dois tipos têm formatos perfeitamente iguais, exceto pelo tamanho: a colher de sopa é 1,6 vezes maior do que a colher de sobremesa.",
+   "enunciado": "Nesse caso, o conteúdo de uma colher de sopa cheia de água, se transferido para colheres de sobremesa, sem perdas,",
+   "alternativas": {
+    "a": "enche 1 mas não enche 2 colheres.",
+    "b": "enche 2 mas não enche 3 colheres.",
+    "c": "enche 3 mas não enche 4 colheres.",
+    "d": "enche 4 mas não enche 5 colheres.",
+    "e": "enche 5 mas não enche 6 colheres."
+   },
+   "resposta": "d",
+   "explicacao": "As colheres têm formatos iguais, então são sólidos semelhantes: quando o comprimento é multiplicado por 1,6, o volume é multiplicado por 1,6³. E 1,6³ = 4,096, um pouco mais que 4. A colher de sopa enche 4 colheres de sobremesa e sobra um resto pequeno demais para completar a quinta — alternativa D. A alternativa B, 2, corresponderia a escalar pelo quadrado, como se o que crescesse fosse área; A, 1, ignoraria a escala; e C e E resultam de arredondar 1,6³ para baixo ou para cima sem fazer a conta."
+  },
+  {
+   "id": "fuvest-matematica-39",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um fabricante notou que o interesse em seu novo produto tem crescido bastante e, prevendo que suas vendas vão aumentar exponencialmente por mais de um ano, planejou aumentar suas compras de insumos, de cada mês para o mês seguinte, por um fator multiplicativo que fará a compra do mesmo mês no ano seguinte ser 64 vezes a compra do primeiro mês.",
+   "enunciado": "Qual fator de aumento mensal ele deve utilizar?",
+   "alternativas": {
+    "a": "√2",
+    "b": "√8",
+    "c": "√12",
+    "d": "¹²√2",
+    "e": "⁸√2"
+   },
+   "resposta": "a",
+   "explicacao": "As compras crescem em progressão geométrica de razão r, e do primeiro mês ao mesmo mês do ano seguinte passam-se 12 meses, ou seja, 12 multiplicações: r¹² = 64. Como 64 = 2⁶, vem r = 2^(6/12) = 2^(1/2) = √2 — alternativa A. A alternativa D, ¹²√2, é a armadilha de quem lê \"64 vezes\" como \"2 vezes\" ou resolve r¹² = 2; E, ⁸√2, viria de um expoente 8; e B e C são raízes quadradas de 8 e de 12, números que não aparecem em nenhuma etapa da conta."
+  },
+  {
+   "id": "fuvest-matematica-40",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "No mercado de agronegócio, a razão entre o custo total de produção por hectare e a produção esperada (também por hectare) é denominada preço equilíbrio. Um agricultor teve um custo total de R$ 4.300,00 por hectare para produção de milho, e espera produzir 99 sacas por hectare.",
+   "enunciado": "O valor mínimo aproximado de venda, por saca, para obter lucro de 40% sobre o preço equilíbrio é",
+   "alternativas": {
+    "a": "R$ 60,81.",
+    "b": "R$ 63,20.",
+    "c": "R$ 65,45.",
+    "d": "R$ 67,31.",
+    "e": "R$ 68,21."
+   },
+   "resposta": "a",
+   "explicacao": "O preço equilíbrio é a razão entre custo e produção por hectare: 4.300/99 ≈ R$ 43,43 por saca — é o valor em que a venda apenas cobre o custo. Para lucrar 40% sobre ele, o preço de venda precisa ser 43,43 × 1,4 ≈ R$ 60,81, alternativa A. As demais correspondem a margens diferentes da pedida: aplicar 40% sobre outro valor, ou somar o lucro depois de arredondar o preço equilíbrio, produz os R$ 63,20, R$ 65,45, R$ 67,31 e R$ 68,21 — todos acima do mínimo que a questão procura."
   }
  ],
  "textos": [

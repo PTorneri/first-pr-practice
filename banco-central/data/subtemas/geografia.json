@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "geografia",
- "total": 607,
+ "total": 610,
  "residuo": [
   "dir-geografia-24",
   "dir-geografia-28",
@@ -3616,6 +3616,23 @@
    "frenteDestino": "geografia",
    "pontos": 5,
    "margem": 5
+  },
+  "fuvest-geografia-34": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "fuvest-geografia-35": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "fuvest-geografia-36": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
   }
  }
 }

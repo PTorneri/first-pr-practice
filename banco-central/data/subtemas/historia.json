@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "historia",
- "total": 563,
+ "total": 571,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -3354,6 +3354,51 @@
    "frenteDestino": "historia",
    "pontos": 10,
    "margem": 5
+  },
+  "fuvest-historia-44": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "fuvest-historia-45": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "fuvest-historia-46": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-historia-47": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "fuvest-historia-48": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fuvest-historia-49": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-historia-50": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "fuvest-historia-51": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "revisado": true
   }
  }
 }

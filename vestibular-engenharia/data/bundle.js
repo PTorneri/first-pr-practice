@@ -3725,6 +3725,86 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A parte mais curta caiu de 50 mm para 40 mm, logo se gastaram 10 mm de uma mina de 60 mm. Como o cilindro tem seção constante, o volume consumido é 10/60 = 1/6 do inicial — o que já elimina D e E. A superfície de desgaste é a interseção do cilindro com o plano do papel: uma elipse cujo semieixo menor é o próprio raio, 1 mm, e cujo semieixo maior é 1/cos 30º, porque a mina faz 60º com o papel e o plano de corte está, portanto, a 30º da seção reta. A área é π·1·(1/cos 30º) = π/(√3/2) = 2π√3/3 — alternativa A."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O cubo truncado é o sólido arquimediano resultante da remoção de uma pirâmide de base triangular em torno de cada vértice de um cubo, que será chamado de cubo de partida. As faces do sólido resultante são octógonos regulares e triângulos equiláteros. Suponha que as arestas do cubo de partida tenham comprimento de 1 unidade de medida.",
+   "enunciado": "Qual é o número de arestas do cubo truncado?",
+   "alternativas": {
+    "a": "12",
+    "b": "24",
+    "c": "36",
+    "d": "48",
+    "e": "72"
+   },
+   "resposta": "c",
+   "explicacao": "O sólido tem duas famílias de faces: 8 triângulos, um por vértice cortado do cubo, e 6 octógonos, um por face original. Contando as arestas pelas faces, são 8×3 + 6×8 = 72 lados, mas cada aresta é compartilhada por exatamente duas faces, então o total é 72/2 = 36 — alternativa C. A alternativa E, 72, é a contagem sem dividir por dois; A, 12, são as arestas do cubo de partida; B, 24, é o número de vértices do cubo truncado; e D, 48, não corresponde a nenhuma dessas contagens. A relação de Euler confirma: 14 faces + 24 vértices − 36 arestas = 2."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-34",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O cubo truncado é o sólido arquimediano resultante da remoção de uma pirâmide de base triangular em torno de cada vértice de um cubo, que será chamado de cubo de partida. As faces do sólido resultante são octógonos regulares e triângulos equiláteros. Suponha que as arestas do cubo de partida tenham comprimento de 1 unidade de medida.\n\nNote e adote:\nConsidere √2 = 1,4.",
+   "enunciado": "Qual é a medida mais aproximada das arestas do cubo truncado?",
+   "alternativas": {
+    "a": "0,4",
+    "b": "0,6",
+    "c": "0,7",
+    "d": "1,0",
+    "e": "1,4"
+   },
+   "resposta": "a",
+   "explicacao": "Chame de x o pedaço cortado em cada ponta das arestas do cubo. Sobre cada aresta original resta o segmento central 1 − 2x, e o corte diagonal, hipotenusa de um triângulo retângulo de catetos x, mede x√2. Para que o octógono seja regular, esses dois lados têm de ser iguais: 1 − 2x = x√2, ou seja, x = 1/(2 + √2). Com √2 = 1,4, x = 1/3,4 ≈ 0,29, e a aresta procurada é x√2 ≈ 0,29 × 1,4 ≈ 0,41 — alternativa A. A alternativa D, 1,0, é a aresta do cubo de partida; as demais correspondem a resolver a igualdade sem impor a regularidade do octógono."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-35",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma folha de papel retangular de 20 cm por 30 cm é vincada de modo que o vinco ℓ incide sobre os lados maiores, dividindo-os em segmentos de comprimentos x e y, de modo alternado. Seja θ o menor ângulo formado entre ℓ e qualquer dos lados maiores do papel.",
+   "enunciado": "Qual o valor de sen θ se ℓ for a diagonal do retângulo, isto é, quando x = 0?",
+   "alternativas": {
+    "a": "2/√13",
+    "b": "3/√13",
+    "c": "√13/2",
+    "d": "√50/3",
+    "e": "2√50"
+   },
+   "resposta": "a",
+   "explicacao": "Com x = 0 o vinco é a diagonal, e o triângulo em jogo tem catetos 20 e 30 e hipotenusa √(20² + 30²) = √1300 = 10√13. O ângulo θ é o menor entre a diagonal e o lado maior, de 30 cm, logo o cateto oposto a ele é o de 20 cm: sen θ = 20/(10√13) = 2/√13 — alternativa A. A alternativa B, 3/√13, é o cosseno, resultado de trocar o cateto oposto pelo adjacente; C inverte a razão; e D e E usam √50, que sairia de somar 20 e 30 dentro da raiz em vez de seus quadrados."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-38",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um jogo de talheres tem colheres de sobremesa e colheres de sopa. Os dois tipos têm formatos perfeitamente iguais, exceto pelo tamanho: a colher de sopa é 1,6 vezes maior do que a colher de sobremesa.",
+   "enunciado": "Nesse caso, o conteúdo de uma colher de sopa cheia de água, se transferido para colheres de sobremesa, sem perdas,",
+   "alternativas": {
+    "a": "enche 1 mas não enche 2 colheres.",
+    "b": "enche 2 mas não enche 3 colheres.",
+    "c": "enche 3 mas não enche 4 colheres.",
+    "d": "enche 4 mas não enche 5 colheres.",
+    "e": "enche 5 mas não enche 6 colheres."
+   },
+   "resposta": "d",
+   "explicacao": "As colheres têm formatos iguais, então são sólidos semelhantes: quando o comprimento é multiplicado por 1,6, o volume é multiplicado por 1,6³. E 1,6³ = 4,096, um pouco mais que 4. A colher de sopa enche 4 colheres de sobremesa e sobra um resto pequeno demais para completar a quinta — alternativa D. A alternativa B, 2, corresponderia a escalar pelo quadrado, como se o que crescesse fosse área; A, 1, ignoraria a escala; e C e E resultam de arredondar 1,6³ para baixo ou para cima sem fazer a conta."
   }
  ],
  "matematica-financeira": [
@@ -7565,6 +7645,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Cada componente custa a massa em gramas vezes o preço por grama. A: 0,200 g × 700 = R$ 140,00; B: 0,070 × 500 = R$ 35,00; C: 0,130 × 300 = R$ 39,00; D: 0,100 × 120 = R$ 12,00. O aumento é a soma das variações: A sobe 7% de 140, ou R$ 9,80; B cai 5% de 35, ou −R$ 1,75; C não muda; D sobe 10% de 12, ou R$ 1,20. Total: 9,80 − 1,75 + 1,20 = R$ 9,25. O valor 12,00 sai de esquecer a queda de B e a alta de D; e 86,00 é o que se obteria aplicando os percentuais sobre os preços por grama, sem converter miligrama em grama."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "fuvest-matematica-40",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "No mercado de agronegócio, a razão entre o custo total de produção por hectare e a produção esperada (também por hectare) é denominada preço equilíbrio. Um agricultor teve um custo total de R$ 4.300,00 por hectare para produção de milho, e espera produzir 99 sacas por hectare.",
+   "enunciado": "O valor mínimo aproximado de venda, por saca, para obter lucro de 40% sobre o preço equilíbrio é",
+   "alternativas": {
+    "a": "R$ 60,81.",
+    "b": "R$ 63,20.",
+    "c": "R$ 65,45.",
+    "d": "R$ 67,31.",
+    "e": "R$ 68,21."
+   },
+   "resposta": "a",
+   "explicacao": "O preço equilíbrio é a razão entre custo e produção por hectare: 4.300/99 ≈ R$ 43,43 por saca — é o valor em que a venda apenas cobre o custo. Para lucrar 40% sobre ele, o preço de venda precisa ser 43,43 × 1,4 ≈ R$ 60,81, alternativa A. As demais correspondem a margens diferentes da pedida: aplicar 40% sobre outro valor, ou somar o lucro depois de arredondar o preço equilíbrio, produz os R$ 63,20, R$ 65,45, R$ 67,31 e R$ 68,21 — todos acima do mínimo que a questão procura."
   }
  ],
  "matematica-algebra": [
@@ -13926,6 +14026,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Cada partida vale +0,1 ou −0,1 com a mesma probabilidade, então há lucro quando as vitórias superam as derrotas. Em 10 partidas isso significa vencer 6, 7, 8, 9 ou 10 — vencer exatamente 5 empata o saldo em zero, que não é lucro. Somando as combinações: 210 + 120 + 45 + 10 + 1 = 386, sobre os 2¹⁰ = 1024 resultados possíveis, o que dá 386/1024 = 193/512, alternativa A. A alternativa C, 1/2, é a armadilha da simetria: ela valeria se o caso de 5 vitórias não existisse, mas ele ocupa 252 dos 1024 resultados e fica de fora dos dois lados, tornando a probabilidade de lucro menor que a metade."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "fuvest-matematica-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "enunciado": "A probabilidade de dois lançamentos de um dado (de 6 faces equiprováveis, numeradas de 1 a 6) somarem 10 ou mais é",
+   "alternativas": {
+    "a": "1/9.",
+    "b": "1/6.",
+    "c": "1/5.",
+    "d": "1/4.",
+    "e": "1/2."
+   },
+   "resposta": "b",
+   "explicacao": "São 36 resultados igualmente prováveis em dois lançamentos. Somar 10 ou mais acontece em seis deles: (4,6), (6,4), (5,5), (5,6), (6,5) e (6,6). A probabilidade é 6/36 = 1/6, alternativa B. A alternativa A, 1/9, sai de contar apenas quatro casos, esquecendo que (4,6) e (6,4) são resultados distintos; C, 1/5, e D, 1/4, superestimam a contagem; e E, 1/2, trataria \"10 ou mais\" como metade dos resultados, quando as somas vão de 2 a 12 e as altas são raras justamente por exigirem faces altas nos dois dados."
   }
  ],
  "matematica-sequencias": [
@@ -15309,6 +15428,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "As diferenças entre termos consecutivos são 3, 6, 9, 12 — uma PA de primeiro termo 3 e razão 3 —, o que dá Tn = 1 + 3·(1+2+...+(n−1)) = 1 + 3n(n−1)/2. Como 3n(n−1)/2 é sempre múltiplo de 3, todo Tn deixa resto 1 na divisão por 3: alternativa D. A alternativa B erra o primeiro termo da PA, que é 3 e não 1, e E chama a mesma sequência de PG. Em A, T101 = T100 + 3·100 = 14851 + 300 = 15151, não 15051. E em C, os valores corretos são T7 = 64 e T8 = 85, não 62 e 83."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "fuvest-matematica-39",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um fabricante notou que o interesse em seu novo produto tem crescido bastante e, prevendo que suas vendas vão aumentar exponencialmente por mais de um ano, planejou aumentar suas compras de insumos, de cada mês para o mês seguinte, por um fator multiplicativo que fará a compra do mesmo mês no ano seguinte ser 64 vezes a compra do primeiro mês.",
+   "enunciado": "Qual fator de aumento mensal ele deve utilizar?",
+   "alternativas": {
+    "a": "√2",
+    "b": "√8",
+    "c": "√12",
+    "d": "¹²√2",
+    "e": "⁸√2"
+   },
+   "resposta": "a",
+   "explicacao": "As compras crescem em progressão geométrica de razão r, e do primeiro mês ao mesmo mês do ano seguinte passam-se 12 meses, ou seja, 12 multiplicações: r¹² = 64. Como 64 = 2⁶, vem r = 2^(6/12) = 2^(1/2) = √2 — alternativa A. A alternativa D, ¹²√2, é a armadilha de quem lê \"64 vezes\" como \"2 vezes\" ou resolve r¹² = 2; E, ⁸√2, viria de um expoente 8; e B e C são raízes quadradas de 8 e de 12, números que não aparecem em nenhuma etapa da conta."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -16449,6 +16588,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Os dias 11 e 22 obrigam os dois cubos a terem 1 e 2, e os dias de 01 a 09 obrigam os dois a terem 0 — são três faces gastas em cada cubo, restando três livres em cada. Os dígitos 3, 4, 5, 6/9, 7 e 8 precisam caber nessas seis faces. Como o segundo cubo já mostra 3, 4 e 5, ele fica {0,1,2,3,4,5}, e ao primeiro sobram 6/9, 7 e 8, isto é, {0,1,2,6/9,7,8} — alternativa B, coerente com o 2 e o 5 das faces frontais formando 25. A alternativa A deixa o 0 fora de um dos cubos, impedindo 01 a 09; C tira o 0 do segundo cubo; D põe 7 no lugar do 0; e E não acomoda o 11."
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "fuvest-matematica-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Ana, Beto, Cíntia, Dênis e Elza são amigos. Quatro deles sempre dizem a verdade e um deles sempre mente. Ana diz que Elza fala a verdade. Beto diz que Cíntia mente. Cíntia diz que sempre fala a verdade. Dênis diz que Beto mente. Elza diz que Dênis fala a verdade.",
+   "enunciado": "Qual deles mente?",
+   "alternativas": {
+    "a": "Ana.",
+    "b": "Beto.",
+    "c": "Cíntia.",
+    "d": "Dênis.",
+    "e": "Elza."
+   },
+   "resposta": "b",
+   "explicacao": "Teste a hipótese de que Beto mente. Então \"Cíntia mente\" é falso, e Cíntia diz a verdade — coerente com ela afirmar que sempre fala a verdade. Dênis diz \"Beto mente\", verdade. Elza diz que Dênis fala a verdade, verdade. Ana diz que Elza fala a verdade, verdade. Sobra exatamente um mentiroso, como o enunciado exige: alternativa B. Qualquer outra hipótese estoura a conta — se Cíntia mentisse, Beto estaria certo ao acusá-la, mas então Dênis, ao dizer que Beto mente, também mentiria, e já seriam dois. O mesmo ocorre ao supor Ana, Dênis ou Elza como o mentiroso."
   }
  ],
  "matematica-complexos": [
@@ -20951,6 +21110,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A desaceleração é uniforme, então a velocidade angular cai linearmente de 600 rpm a zero e a velocidade média no intervalo é a metade da inicial: 300 rpm. Em 30 segundos, meio minuto, isso dá 300 × 0,5 = 150 voltas — alternativa D. A alternativa E, 180, sai de multiplicar 600 rpm pelos 30 s inteiros como se não houvesse frenagem, dividido por dois de forma errada; C, 120, e B, 100, resultam de trocar o fator; e A, 60, confunde as 600 rotações por minuto com rotações por segundo. O único cuidado é a unidade: 30 segundos são 0,5 minuto, e a taxa está por minuto."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fuvest-fisica-31",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "No dia 30 de maio de 2020, o foguete \"Falcon 9\" foi lançado ao espaço levando uma cápsula com destino à Estação Espacial Internacional (ISS). Em menos de 15 minutos após o lançamento, a espaçonave Dragon já se encontrava a quase 200 km de altitude, separada do foguete. Porém, teve de seguir orbitando a Terra para ascender à Estação, localizada a cerca de 400 km de altitude.",
+   "enunciado": "O procedimento adotado para o encontro da espaçonave e da Estação Espacial pode ser explicado",
+   "alternativas": {
+    "a": "pela diferença de momento angular, pois a espaçonave encontrava-se com velocidade maior que a da ISS; com a ascensão da espaçonave, as velocidades orbitais igualaram-se, permitindo o acoplamento de ambas.",
+    "b": "pelas condições atmosféricas turbulentas da troposfera, o que obrigou a espaçonave a ascender a camadas mais altas da atmosfera, onde as condições de temperatura e pressão seriam mais favoráveis ao acoplamento.",
+    "c": "pelas condições de inércia, pois a ausência de gravidade no vácuo causa incrementos na aceleração adquirida durante o lançamento do foguete, fazendo com que a espaçonave ganhe altitude até encontrar a ISS.",
+    "d": "pela maior resistência do ar na camada da atmosfera em que se encontrava a espaçonave, forçando sua ascensão a camadas de maior altitude, onde o ar é mais rarefeito e a resistência do ar é menor.",
+    "e": "pelo torque relacionado à energia rotacional, segundo a qual órbitas menores estão associadas a menores acelerações; por isso, a espaçonave teve de ascender para aumentar sua velocidade e se encontrar com a ISS."
+   },
+   "resposta": "a",
+   "explicacao": "Órbita mais baixa é órbita mais rápida: a 200 km a Dragon completava voltas em menos tempo e com velocidade orbital maior que a da ISS, a 400 km. Para acoplar, não bastava alcançá-la — era preciso subir, e subir reduz a velocidade orbital até que as duas se igualem. Alternativa A. A alternativa B invoca turbulência da troposfera, camada que a espaçonave deixou nos primeiros minutos; C afirma ausência de gravidade no vácuo, quando é a gravidade que mantém a órbita; D fala em resistência do ar forçando a ascensão, e a 200 km ela é desprezível para esse fim; e E inverte a relação, dizendo que subir aumenta a velocidade."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fuvest-fisica-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um caminhão de 2 toneladas carrega uma caixa de 100 kg e trafega em linha reta a uma velocidade de 36 km/h. O coeficiente de atrito estático entre a superfície da caixa e a superfície da carroceria é de 0,5 e não há ganchos ou amarras prendendo a caixa ao caminhão. Sabendo disso e ao notar um sinal vermelho à frente, o motorista freia suavemente o caminhão para que a caixa não deslize.\n\nNote e adote:\nConsidere que a força exercida pelos freios do caminhão seja feita de modo que a aceleração do caminhão seja constante durante a frenagem.\nDespreze eventuais inclinações da carroceria do caminhão durante a frenagem.\nAceleração da gravidade: g = 10 m/s².",
+   "enunciado": "Para que a caixa permaneça sem deslizar, a distância mínima que o caminhão percorre entre o instante de início da frenagem e a parada total do veículo é de",
+   "alternativas": {
+    "a": "1 m.",
+    "b": "5 m.",
+    "c": "10 m.",
+    "d": "50 m.",
+    "e": "100 m."
+   },
+   "resposta": "c",
+   "explicacao": "Quem segura a caixa é o atrito estático, e ele não passa de μmg. A maior desaceleração que a caixa suporta sem deslizar é, portanto, a = μg = 0,5 × 10 = 5 m/s² — e note que a massa some, de modo que os 100 kg e as 2 toneladas não entram na conta. Com v = 36 km/h = 10 m/s, a distância mínima sai de v² = 2ad: d = 100/10 = 10 m, alternativa C. A alternativa B, 5 m, resulta de esquecer o fator 2; D e E vêm de usar 36 m/s em vez de 10; e A, de dividir a velocidade pela aceleração."
   }
  ],
  "fisica-termologia": [
@@ -22342,6 +22541,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O ar preso na garrafa é o mesmo do começo ao fim, e a temperatura não muda: vale Boyle, P1V1 = P2V2. Na cabine, esse ar ocupava os 500 mL da garrafa à pressão procurada. No solo, com a tampa aberta sob a água, a pressão interna iguala 1 atm e entram 125 mL de água — logo o ar ficou com 500 − 125 = 375 mL. Então P1 × 500 = 1 × 375, e P1 = 0,75 atm: alternativa A. A alternativa E, 1,25, sai de somar em vez de subtrair o volume de água; B, 0,80, de arredondar mal a fração; C, 1,00, ignora que a garrafa amassou; e D supõe cabine pressurizada acima da atmosfera."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "fuvest-fisica-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um aparelho de ar-condicionado opera entre uma sala fechada e o ambiente externo, que está a uma temperatura maior que a da sala. A cada ciclo de operação, o ar-condicionado retira da sala uma quantidade de calor quatro vezes maior que o trabalho realizado pelo aparelho. Durante um certo intervalo de tempo, o aparelho transfere 1600 cal de calor da sala para o ambiente externo.",
+   "enunciado": "O trabalho realizado pelo ar-condicionado durante esse intervalo de tempo é de",
+   "alternativas": {
+    "a": "320 cal.",
+    "b": "400 cal.",
+    "c": "720 cal.",
+    "d": "1280 cal.",
+    "e": "1600 cal."
+   },
+   "resposta": "a",
+   "explicacao": "O aparelho é uma máquina frigorífica: retira calor da sala (Qf), recebe trabalho (W) e despeja no ambiente externo Qq = Qf + W. O enunciado diz que Qf = 4W e que o total transferido para fora é 1600 cal, ou seja, Qq = 1600. Então 4W + W = 1600, e W = 320 cal — alternativa A. A alternativa D, 1280, é o Qf, o calor retirado da sala; E, 1600, é o próprio Qq; B, 400, sai de dividir 1600 por 4, esquecendo que o trabalho também vai para fora; e C não corresponde a nenhum passo da conta."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "fuvest-fisica-35",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere que o cozimento total de um determinado alimento em uma cidade ao nível do mar requer mantê-lo por, no mínimo, 5 minutos na água após a fervura.",
+   "enunciado": "Para a obtenção desse alimento totalmente cozido no alto de uma montanha onde a pressão atmosférica é de cerca de 0,6 atm, o tempo que o alimento deverá permanecer na água após a fervura é",
+   "alternativas": {
+    "a": "o mesmo que na cidade ao nível do mar porque o ponto de ebulição da água não depende do local em que é medido.",
+    "b": "menor do que o necessário na cidade ao nível do mar porque o ponto de ebulição da água diminui com a diminuição da pressão.",
+    "c": "maior do que o necessário na cidade ao nível do mar porque o ponto de ebulição da água aumenta com a diminuição da pressão.",
+    "d": "maior do que o necessário na cidade ao nível do mar porque o ponto de ebulição da água diminui com a diminuição da pressão.",
+    "e": "menor do que o necessário na cidade ao nível do mar porque o ponto de ebulição da água aumenta com a diminuição da pressão."
+   },
+   "resposta": "d",
+   "explicacao": "Cozinhar não depende de a água ferver, e sim da temperatura que ela atinge. A 0,6 atm a água entra em ebulição bem abaixo de 100 °C, e a partir daí não esquenta mais por mais fogo que se dê: a temperatura de cozimento cai e o processo fica mais lento, exigindo mais tempo. Alternativa D. A alternativa A afirma que o ponto de ebulição não depende do local; B acerta que ele diminui, mas conclui menos tempo; C e E invertem a física, fazendo o ponto de ebulição subir quando a pressão cai — se fosse assim, panela de pressão e altitude teriam efeitos trocados."
   }
  ],
  "fisica-ondas-optica": [
@@ -24034,6 +24273,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A normal à face é perpendicular a ela; como a face está a 45º da horizontal, a normal também está, e um raio horizontal incide sobre ela a 45º. A reflexão total começa quando o ângulo refratado atinge 90º, isto é, quando n·sen 45º = 1·sen 90º = 1. Daí n = 1/sen 45º = 2/√2 = √2 — alternativa C. Abaixo disso o raio escapa para o ar. A alternativa A, √2/2, é menor que 1 e não existe como índice de meio material; B, igual a 1, é o índice do próprio ar; e D e E são maiores que o mínimo, valores para os quais há reflexão total mas que não respondem ao \"mínimo\" pedido."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "fuvest-fisica-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O fenômeno da difração constitui uma importante característica do comportamento ondulatório da luz. Nesse fenômeno, ondas desviam-se em relação à sua direção de propagação inicial quando encontram obstáculos ou atravessam orifícios com aberturas da ordem de seu comprimento de onda. A difração é conveniente para estimar distâncias consideradas “pequenas”, em relação às quais os instrumentos tradicionais de medição usuais tornam-se imprecisos. Disponível em https://commons.wikimedia.org/. A figura mostra o padrão de intensidade luminosa produzido pela incidência de luz sobre um fio de cabelo, exibindo uma alternância de máximos e mínimos de intensidade. No caso de uma detecção distante da fenda, a espessura 𝐿 do fio de cabelo pode ser calculada a partir da largura do máximo central de intensidade, dada por 𝑦= 2𝜆𝐷/𝐿, sendo 𝜆 e 𝐷 o comprimento de onda da luz incidente e a distância entre o fio de cabelo e o anteparo, respectivamente.\n\nNote e adote:\nA precisão relativa é definida como a razão entre o erro intrínseco à medida e o valor da própria medida.",
+   "enunciado": "Considere que luz incida sobre um fio de cabelo, de espessura da ordem de 50 𝜇m, e que a imagem seja projetada sobre um anteparo a uma distância de 1 m. Entre os comprimentos de onda indicados a seguir, qual permitiria uma melhor precisão relativa na medida da espessura do fio de cabelo realizada com auxílio de uma régua de precisão 1 mm?",
+   "alternativas": {
+    "a": "200 nm",
+    "b": "300 nm",
+    "c": "400 nm",
+    "d": "500 nm",
+    "e": "600 nm"
+   },
+   "resposta": "e",
+   "explicacao": "A largura do máximo central é y = 2λD/L. Com D = 1 m e L = 50 μm, y = 4×10⁴·λ: para 200 nm dá 8 mm; para 600 nm, 24 mm. Como a régua erra sempre 1 mm, a precisão relativa é 1 mm dividido por y — quanto maior y, menor o erro relativo. Entre as opções, o maior comprimento de onda é o que produz a franja mais larga e a melhor medida: 600 nm, alternativa E. As alternativas A a D vão na direção contrária, estreitando o máximo central e fazendo o mesmo milímetro de erro pesar mais na medida."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -25561,6 +25820,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O campo elétrico aponta da placa positiva para a negativa, e a força sobre uma carga negativa tem sentido contrário ao campo: os elétrons são atraídos pela placa positiva. Alternativa A — e foi assim que Thomson mostrou que os raios catódicos eram feitos de partículas de carga negativa. A alternativa B inverte o sinal da carga. As alternativas C e D descrevem desvio perpendicular ao plano da figura, que exigiria força magnética, e o enunciado fala apenas em campo elétrico. E afirma que a trajetória não muda, o que só valeria se o feixe fosse neutro — a conclusão oposta à do experimento."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "fuvest-fisica-32",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Aurora polar é um fenômeno conhecido nos hemisférios norte e sul do planeta Terra e caracteriza-se por um brilho observado no céu em decorrência do impacto entre as partículas carregadas lançadas pela erupção solar (predominantemente elétrons) que são canalizadas pelo campo magnético terrestre e os átomos da atmosfera, predominantemente oxigênio e nitrogênio.\n\nNote e adote:\nMódulo da força magnética de uma partícula de carga q e velocidade v na presença de um campo magnético uniforme B perpendicular à velocidade: FB = q·v·B.\nMódulo da força centrípeta de uma partícula de massa m em movimento circular uniforme de raio R com velocidade escalar v: Fc = mv²/R.\nMassa do elétron: m = 10⁻³⁰ kg.\nCarga do elétron: e⁻ = 1,6×10⁻¹⁹ C.",
+   "enunciado": "Considerando que os elétrons lançados pela erupção solar possuem energia cinética da ordem de 2×10−16 J e supondo que eles descrevem órbitas circulares sob ação do campo magnético terrestre da ordem de 10−4 T (suposto uniforme), a ordem de grandeza do raio da órbita desses elétrons é:",
+   "alternativas": {
+    "a": "10³ m",
+    "b": "10⁰ m",
+    "c": "10⁻³ m",
+    "d": "10⁻⁶ m",
+    "e": "10⁻⁹ m"
+   },
+   "resposta": "b",
+   "explicacao": "Primeiro a velocidade, pela energia cinética: ½mv² = 2×10⁻¹⁶ J com m = 10⁻³⁰ kg dá v² = 4×10¹⁴ e v = 2×10⁷ m/s. Depois o raio, igualando força magnética e centrípeta: qvB = mv²/R, ou seja, R = mv/(qB) = (10⁻³⁰ × 2×10⁷)/(1,6×10⁻¹⁹ × 10⁻⁴) ≈ 1,25 m. A ordem de grandeza é 10⁰ m — alternativa B. Os demais valores correspondem a errar uma potência de dez em algum dos dois passos, sobretudo ao esquecer o fator ½ da energia cinética ou ao trocar a carga pela massa no denominador."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "fuvest-fisica-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Em pistas de dança, há dispositivos que convertem energia do movimento dos frequentadores em energia elétrica. Considere um ímã, preso a uma mola ideal, que pode oscilar verticalmente, com resistência do ar desprezível, ao longo de uma linha imaginária que passa pelo centro de uma espira metálica conectada a uma lâmpada de filamento. Em certo instante inicial, uma estudante transfere energia para o sistema ímã-mola, deformando a mola e abandonando o ímã a partir do repouso, fazendo-o oscilar. Ela registra que, após algum tempo, não se observam mais oscilações do ímã.",
+   "enunciado": "A respeito dessa situação, considere as seguintes afirmações:\nI. A corrente elétrica induzida no anel pelo movimento do ímã tem intensidade variável e percorre o anel sempre no mesmo sentido.\nII. Uma vez iniciadas as oscilações, a intensidade com que a lâmpada brilha atinge um máximo e, em seguida, diminui um pouco, permanecendo constante a partir de então.\nIII. Se a estudante reiniciar o experimento, agora duplicando a deformação inicial da mola, a energia total irradiada pela lâmpada quadruplicará.\nÉ correto apenas o que se afirma em:",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "I e II.",
+    "e": "II e III."
+   },
+   "resposta": "c",
+   "explicacao": "I é falsa: o ímã sobe e desce, o fluxo através da espira cresce e decresce alternadamente, e pela lei de Lenz a corrente inverte o sentido a cada meio ciclo. II também: como não há atrito nem resistência do ar, a única perda é a energia levada pela corrente induzida, de modo que as oscilações vão diminuindo até cessarem — o brilho não se estabiliza, apaga. III é verdadeira: a energia armazenada na mola é kx²/2, e dobrar x quadruplica essa energia; como ela acaba toda dissipada na lâmpada, a energia irradiada também quadruplica. Só III, alternativa C."
   }
  ],
  "fisica-hidrostatica": [
@@ -29395,6 +29694,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O núcleo parte do repouso, então o momento total é zero e continua zero: alfa e tálio saem com momentos de mesmo módulo e sentidos opostos. A energia liberada no decaimento é fixa e, ao admitir o recuo, ela passa a ser repartida entre os dois — o tálio leva uma fatia que a aproximação anterior dava toda à alfa. Com menos energia cinética, a alfa sai mais devagar: alternativa D. A alternativa A mantém a energia cinética inalterada e B a aumenta, ambas violando a repartição; C anula a velocidade da alfa, quando ela apenas diminui; e E nega a conservação do momento, que é justamente o princípio que resolve o problema."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fuvest-fisica-34",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Nas últimas décadas, diferentes descobertas na área da tecnologia médica têm permitido diagnósticos mais precisos para muitas doenças. Muitos deles são obtidos em exames radiológicos e se baseiam nas interações entre as células do corpo humano e a radiação, por meio de colisões entre elétrons e fótons de raios-X. A frequência dos fótons após a colisão é diferente daquela antes da colisão. Um fóton de frequência f transporta energia dada por hf, sendo h a constante de Planck.\n\nNote e adote:\nConstante de Planck: h ≅ 6×10⁻³⁴ J·s",
+   "enunciado": "Considere que a frequência de um fóton de raios-X varia de 5×1016 s-1 para 2,5×1016 s-1 devido à colisão com um elétron e que a energia perdida pelo fóton é totalmente transferida para o elétron. Nessas condições, a variação da energia do elétron devido à colisão é",
+   "alternativas": {
+    "a": "−4,5×10ꟷ17J",
+    "b": "−1,5×10ꟷ17J",
+    "c": "0 J",
+    "d": "1,5×10ꟷ17J",
+    "e": "4,5×10ꟷ17J"
+   },
+   "resposta": "d",
+   "explicacao": "A energia do fóton cai de hf₁ para hf₂: h(f₂ − f₁) = 6×10⁻³⁴ × (2,5×10¹⁶ − 5×10¹⁶) = 6×10⁻³⁴ × (−2,5×10¹⁶) = −1,5×10⁻¹⁷ J. O enunciado diz que toda a energia perdida pelo fóton vai para o elétron, então a variação da energia do elétron é a mesma em módulo e de sinal oposto: +1,5×10⁻¹⁷ J, alternativa D. A alternativa B é a variação do fóton, com o sinal que a pergunta não pede; A e E usam a soma das frequências em vez da diferença; e C afirma que nada muda, contra o enunciado."
   }
  ],
  "quimica-eletroquimica": [
@@ -30806,6 +31125,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O texto entrega o mecanismo: sob o gelo, sem oxigênio, a água com ferro(II) é incolor; ao encontrar o ar, a cor aparece. O que o ar traz é o O2, e o que ele faz é oxidar Fe²⁺ a Fe³⁺, íon responsável pelo tom avermelhado da ferrugem. É a alternativa C, a única em que o oxigênio é reagente e o ferro passa de +2 a +3. A alternativa A reduz Fe²⁺ a ferro metálico; B reduz Fe³⁺ a Fe²⁺, o caminho inverso; D parte de ferro metálico, que não é a espécie dissolvida no lago; e E é precipitação de hidróxido, etapa que só faria sentido depois de já existir o Fe³⁺ que a pergunta quer explicar."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "fuvest-quimica-38",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A Antártica é um ambiente altamente sensível às mudanças climáticas. Por essa razão, cientistas estudam, por meio de imagens de sensoriamento remoto e levantamentos de campo, as consequências dos efeitos da diminuição da camada de ozônio, bem como as reações que ocorrem entre espécies químicas presentes no oceano e na atmosfera do continente gelado. Sergio J. Gonçalves Jr et al. Photochemical reactions on aerosols at West Antarctica: A molecular case-study of nitrate formation among sea salt aerosols. Science of The Total Environment, 2021.",
+   "enunciado": "A partir das informações apresentadas, considere as seguintes afirmações:\nI. Com a diminuição da espessura da camada de ozônio, aumenta a incidência da radiação solar sobre a atmosfera terrestre e a superfície do planeta, acelerando ou incrementando reações de natureza fotoquímica sobre os mantos de gelo polares.\nII. Em processos químicos envolvendo cloretos, estes podem ser oxidados a ClO4⁻ pelo O3, sob a ação de raios UV. Em razão de sua propriedade anticongelante, os percloratos contribuem para manter a água no estado líquido mesmo a temperaturas abaixo de 0 ºC.\nIII. Mesmo em condições extremas de frio, a presença de água líquida no manto congelado flutuante na Antártica é condição suficiente para garantir a sobrevivência do ser humano e de outros mamíferos sobre a camada de gelo.\nÉ correto apenas o que se afirma em:",
+   "alternativas": {
+    "a": "I.",
+    "b": "III.",
+    "c": "I e II.",
+    "d": "I e III.",
+    "e": "II e III."
+   },
+   "resposta": "c",
+   "explicacao": "I é verdadeira: menos ozônio significa mais radiação ultravioleta chegando à superfície, e reação fotoquímica é justamente a que depende dessa energia. II também: o cloreto do sal marinho tem cloro no estado de oxidação −1 e pode ser oxidado até +7 no perclorato, com o ozônio atuando como oxidante sob UV; e percloratos são sais fortemente anticongelantes, capazes de manter salmouras líquidas bem abaixo de 0 °C. III é falsa e por larga margem: água líquida não é condição suficiente para a sobrevivência humana em um manto de gelo antártico, onde faltam temperatura, abrigo e alimento. Só I e II, alternativa C."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "fuvest-quimica-40",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Para armazenar uma solução de sulfato de cobre dispõe-se de frascos dos metais Al, Zn, Pb e Ag, cujos potenciais padrão de redução são apresentados a seguir:\nAl³⁺ + 3e⁻ → Al ... E° = −1,66 V\nZn²⁺ + 2e⁻ → Zn ... E° = −0,76 V\nPb²⁺ + 2e⁻ → Pb ... E° = −0,13 V\nCu²⁺ + 2e⁻ → Cu ... E° = +0,34 V\nAg⁺ + e⁻ → Ag ... E° = +0,80 V",
+   "enunciado": "Considerando os dados fornecidos, em qual ou quais frascos a solução poderá ser armazenada sem que ocorra corrosão do frasco?",
+   "alternativas": {
+    "a": "Apenas no frasco de alumínio.",
+    "b": "Apenas nos frascos de alumínio, zinco e chumbo.",
+    "c": "Apenas nos frascos de chumbo e prata.",
+    "d": "Apenas no frasco de prata.",
+    "e": "Em nenhum dos frascos disponíveis."
+   },
+   "resposta": "d",
+   "explicacao": "O frasco corrói se o metal for oxidado pelo Cu²⁺ da solução, e isso acontece sempre que seu potencial de redução for menor que o do cobre, +0,34 V. Alumínio (−1,66), zinco (−0,76) e chumbo (−0,13) estão todos abaixo: os três seriam consumidos, depositando cobre metálico. Só a prata, com +0,80 V, está acima e não reage — alternativa D. A alternativa B junta exatamente os três que corroem; A e C incluem parte deles; e E descarta também a prata, ignorando que um potencial maior que o do cobre é justamente a condição de estabilidade."
   }
  ],
  "quimica-atomistica-ligacoes": [
@@ -33840,6 +34199,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Primeiro o limite em mol: 0,224 mg·L⁻¹ é 2,24×10⁻⁴ g·L⁻¹, que dividido por 112 g·mol⁻¹ dá 2×10⁻⁶ mol·L⁻¹ de Cd²⁺. Com Kps = [Cd²⁺][OH⁻]² = 2×10⁻¹⁶, vem [OH⁻]² = 2×10⁻¹⁶ / 2×10⁻⁶ = 1×10⁻¹⁰, logo [OH⁻] = 1×10⁻⁵ mol·L⁻¹. Isso é pOH 5 e, portanto, pH 9 — alternativa D. Abaixo desse pH não há hidroxila suficiente para precipitar o cádmio até o limite legal; acima, precipita mais, mas 9 é o mínimo pedido. As alternativas A e B correspondem a pH ácido, onde o Cd(OH)2 sequer se forma, e E resulta de esquecer que a hidroxila entra ao quadrado."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "fuvest-quimica-42",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Considere dois frascos contendo o mesmo volume de (I) água e (II) solução com mesma concentração de H2CO3 e NaHCO3. No frasco (II), observa-se o seguinte equilíbrio: H2CO3 (aq) ⇌ HCO3ꟷ (aq) + H+ (aq) Ao acrescentar quantidades iguais de um mesmo suco de limão em (I) e (II), notou-se uma variação de pH em ambos. Como o limão possui ácido cítrico em sua composição, isso lhe confere um caráter ___1___ , de forma que o pH ___2___ nos dois frascos após adição do suco de limão. Porém, essa variação de pH foi ___3___ no frasco (II), pois o H+ proveniente do ácido cítrico deslocou o equilíbrio da reação para ___4___.",
+   "enunciado": "Com base no experimento realizado, as lacunas podem ser preenchidas corretamente por: 1 2 3 4",
+   "alternativas": {
+    "a": "ácido diminuiu menor esquerda",
+    "b": "básico diminuiu maior direita",
+    "c": "ácido aumentou maior esquerda",
+    "d": "básico aumentou maior direita",
+    "e": "ácido diminuiu menor direita"
+   },
+   "resposta": "a",
+   "explicacao": "O ácido cítrico torna o limão ácido, e acrescentá-lo abaixa o pH nos dois frascos — daí as lacunas 1 e 2. A diferença está no frasco II, que contém H2CO3 e sua base conjugada HCO3⁻ em concentrações iguais: é uma solução-tampão. O H⁺ que entra é consumido pelo HCO3⁻, deslocando o equilíbrio para a esquerda, no sentido do H2CO3, e a variação de pH fica menor que na água pura. Alternativa A. As alternativas B e D chamam o limão de básico; C diz que o pH aumentou; e E acerta os três primeiros campos mas manda o equilíbrio para a direita, o que só aconteceria se o H⁺ estivesse sendo retirado."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "fuvest-quimica-43",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Os antiácidos estomacais são consumidos para neutralizar o excesso de HCl do suco gástrico presente em nosso estômago e, consequentemente, aliviar sintomas como dores ou desconforto abdominal, chamado de azia.\n\nNote e adote:\nMassa molar (g/mol): Mg(OH)2 = 58.\nConsidere que o leite de magnésia é uma suspensão de hidróxido de magnésio de concentração 58 mg/mL.",
+   "enunciado": "Supondo que o volume do estômago seja de 400 mL, que seu conteúdo tenha pH igual a 2 e que todo H⁺ do suco gástrico seja oriundo do HCl, qual volume mínimo de leite de magnésia (Mg(OH)2), em mL, seria necessário para neutralizar totalmente o ácido do estômago?",
+   "alternativas": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+   },
+   "resposta": "b",
+   "explicacao": "pH 2 significa [H⁺] = 10⁻² mol/L, e em 0,400 L há 4×10⁻³ mol de H⁺. Cada Mg(OH)2 traz duas hidroxilas, então bastam 2×10⁻³ mol da base, que a 58 g/mol pesam 0,116 g, ou 116 mg. Na suspensão de 58 mg/mL, isso corresponde a 2 mL — alternativa B. A alternativa D, 4, é a resposta de quem esquece que o hidróxido de magnésio é uma base diácida e trata a neutralização como um para um; A vem de errar o volume do estômago; e C e E não correspondem a nenhum passo da conta."
   }
  ],
  "quimica-organica": [
@@ -35399,6 +35798,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Um átomo central ligado a quatro vizinhos exige quatro ligações, e a configuração dada mostra quem faz isso: o carbono, com quatro elétrons na camada de valência. Nitrogênio e fósforo, com cinco, fazem três; o hidrogênio faz uma. A figura é, portanto, um CH4 — o hidrocarboneto mais simples —, e o risco diagonal significa \"livre de hidrocarbonetos leves\": alternativa A. A alternativa B pede compostos nitrogenados e D, fosforados, e nem N nem P formam quatro ligações simples nesse arranjo; C fala em derivados do petróleo de cadeias grandes, e a figura tem um átomo central só; e E, em carboidratos, que têm oxigênio e cadeias maiores."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "fuvest-quimica-44",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma pesquisa desenvolvida na Faculdade de Zootecnia e Engenharia de Alimentos da USP mostrou que a suplementação com óleos vegetais na dieta de vacas leiteiras pode alterar o percentual da gordura e a composição do leite por elas produzido, tornando o perfil dos ácidos graxos do leite ainda mais saudável para a alimentação humana. Nesse estudo, as vacas foram divididas em 3 grupos:\n- Grupo 1: recebeu alimentação sem suplementação;\n- Grupo 2: recebeu alimentação suplementada com óleo de soja;\n- Grupo 3: recebeu alimentação suplementada com óleo de linhaça.\n\nSuplementação | % de gordura no leite | % de ácidos graxos saturados na gordura | % de ácidos graxos insaturados na gordura\nGrupo 1: sem suplementação | 3,4 | 66,9 | 33,1\nGrupo 2: óleo de soja | 2,8 | 56,5 | 43,5\nGrupo 3: óleo de linhaça | 2,9 | 56,6 | 43,4\n\nEm particular, a alteração na dieta dos animais melhorou a proporção de Ômega-6 (Ω-6) e Ômega-3 (Ω-3) que, em quantidades adequadas, têm um importante papel na prevenção, por exemplo, de doenças cardiovasculares e inflamatórias crônicas, além de alguns tipos de câncer. O estudo mostrou que a suplementação de óleo de linhaça na dieta das vacas diminuiu no leite a proporção Ω-6 / Ω-3 de 7,92 para 2,72. Essa proporção mais baixa no leite pode contribuir para que a proporção desses ácidos graxos na alimentação diária total dos seres humanos esteja dentro da faixa indicada pela OMS, que é de 5 a 10. Mauricio X. S. Oliveira et al. (2021). PLoS ONE 16(2): e0246357.",
+   "enunciado": "Em relação ao leite produzido pelas vacas com alimentação suplementada, é correto afirmar:",
+   "alternativas": {
+    "a": "A suplementação da alimentação aumentou a proporção de ácidos graxos com duplas ligações entre os átomos de carbono no leite.",
+    "b": "O ponto de ebulição do leite produzido pelas vacas do grupo 1 deve ser inferior ao daquele produzido pelas vacas dos grupos 2 e 3.",
+    "c": "A composição do leite produzido pelas vacas do grupo 2 foi significativamente diferente do leite produzido pelas vacas do grupo 3.",
+    "d": "O leite produzido pelas vacas do grupo 1 tem ácidos graxos de cadeias mais longas do que o leite produzido pelas vacas dos grupos 2 e 3.",
+    "e": "A quantidade absoluta de ácidos graxos saturados é menor no leite das vacas do grupo 1."
+   },
+   "resposta": "a",
+   "explicacao": "Insaturado quer dizer, por definição, que há dupla ligação entre carbonos da cadeia. A tabela mostra a fração de insaturados subindo de 33,1% no grupo sem suplementação para 43,5% e 43,4% nos suplementados — logo a suplementação aumentou a proporção de ácidos graxos com dupla ligação, alternativa A. A alternativa B inverte a relação entre insaturação e ponto de ebulição, que cai com as duplas; C afirma diferença significativa entre soja e linhaça, e os números são quase iguais; D fala em comprimento de cadeia, que a tabela não mede; e E diz que os saturados são menores no grupo 1, quando são maiores (66,9%)."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "fuvest-quimica-45",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Uma pesquisa desenvolvida na Faculdade de Zootecnia e Engenharia de Alimentos da USP mostrou que a suplementação com óleos vegetais na dieta de vacas leiteiras pode alterar o percentual da gordura e a composição do leite por elas produzido, tornando o perfil dos ácidos graxos do leite ainda mais saudável para a alimentação humana. Nesse estudo, as vacas foram divididas em 3 grupos: - Grupo 1: recebeu alimentação sem suplementação; - Grupo 2: recebeu alimentação suplementada com óleo de soja; - Grupo 3: recebeu alimentação suplementada com óleo de linhaça. A análise do teor de gordura e de ácidos graxos no leite de cada grupo de vacas é apresentada a seguir. Suplementação da alimentação das vacas % de gordura no leite % de ácidos graxos saturados na gordura % ácidos graxos insaturados na gordura Grupo 1: Sem suplementação 3,4 66,9 33,1 Grupo 2: Óleo de Soja 2,8 56,5 43,5 Grupo 3: Óleo de Linhaça 2,9 56,6 43,4 Em particular, a alteração na dieta dos animais melhorou a proporção de Ômega-6 (Ω-6) e Ômega-3 (Ω-3) que, em quantidades adequadas, têm um importante papel na prevenção, por exemplo, de doenças cardiovasculares e inflamatórias crônicas, além de alguns tipos de câncer. O estudo mostrou que a suplementação de óleo de linhaça na dieta das vacas diminuiu no leite a proporção Ω-6 / Ω-3 de 7,92 para 2,72. Essa proporção mais baixa no leite pode contribuir para que a proporção desses ácidos graxos na alimentação diária total dos seres humanos esteja dentro da faixa indicada pela OMS, que é de 5 a 10. Mauricio X. S. Oliveira et al. (2021). PLoS ONE 16(2): e0246357. Disponível em https://doi.org/10.1371/journal.pone.0246357/.",
+   "enunciado": "Os resultados apresentados permitem concluir que, após a dieta de óleo de linhaça,",
+   "alternativas": {
+    "a": "a quantidade de Ω-6 no leite das vacas foi 7,92 vezes maior do que a quantidade de Ω-3.",
+    "b": "a quantidade de Ω-6 no leite das vacas foi 2,72 vezes maior do que a quantidade de Ω-3.",
+    "c": "a quantidade de Ω-6 no leite das vacas foi 5 a 10 vezes maior do que a quantidade de Ω-6 encontrada no leite sem o uso da dieta.",
+    "d": "a quantidade de Ω-3 no leite das vacas foi 2,72 vezes maior do que a quantidade de Ω-3 encontrada no leite sem o uso da dieta.",
+    "e": "a quantidade de Ω-6 no leite das vacas aumentou em 5 vezes, ao mesmo tempo em que a quantidade de Ω-3 diminuiu em 10 vezes."
+   },
+   "resposta": "b",
+   "explicacao": "A proporção Ω-6/Ω-3 é uma razão, e o texto diz que a linhaça a levou de 7,92 para 2,72. Ler a razão é direto: depois da dieta, há 2,72 vezes mais Ω-6 do que Ω-3 no leite. Alternativa B. A alternativa A usa o valor anterior à dieta, 7,92; C e D tratam a razão como se comparasse o leite novo com o antigo, quando ela compara os dois ácidos entre si dentro do mesmo leite; e E inventa variações absolutas de 5 e 10 vezes a partir da faixa recomendada pela OMS, que é o intervalo de referência para a dieta humana total, não uma medida do leite."
   }
  ],
  "quimica-solucoes": [
@@ -38265,6 +38704,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Em 15 minutos a 1,2 L/min são consumidos 18 L de O2, que a 24 L/mol equivalem a 0,75 mol. A decomposição é 2 NaClO3 → 2 NaCl + 3 O2, ou seja, 3 mol de gás para cada 2 mol de sal: são necessários 0,75 × 2/3 = 0,50 mol de clorato. Multiplicando pela massa molar, 0,50 × 106 = 53 g. O valor 80 g sairia de tomar a proporção como um para um, e 27 g de invertê-la."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fuvest-quimica-41",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Diversos vídeos disponibilizados na internet mostram a vigorosa reação resultante da adição de balas mentos em garrafas de refrigerantes de cola, formando uma “erupção” de refrigerante. A rugosidade das pastilhas da bala forma pontos de nucleação que aceleram a formação de bolhas de CO2, antes dissolvido no refrigerante, que se expandem rapidamente arrastando o líquido pela boca da garrafa.\n\nNote e adote:\nConsidere a abertura da garrafa em ambiente com 1 atm e a 27 °C.\nMassa molar (g/mol): CO2 = 44\nT(K) = T(°C) + 273\nConstante dos gases ideais: R = 0,082 atm·L·K⁻¹·mol⁻¹",
+   "enunciado": "Sabe-se que uma garrafa de refrigerante contém 7,15 g de CO2 dissolvido por litro, enquanto fechada. Considerando a abertura de uma garrafa de 2 L de refrigerante seguida da adição de bala mentos, caso todo CO2(aq) passe imediatamente para a fase gasosa, quantas vezes o volume do CO2 liberado é maior que o da garrafa no qual ele estava dissolvido?",
+   "alternativas": {
+    "a": "1 vez.",
+    "b": "2 vezes.",
+    "c": "4 vezes.",
+    "d": "8 vezes.",
+    "e": "16 vezes."
+   },
+   "resposta": "c",
+   "explicacao": "A garrafa de 2 L traz 7,15 g de CO2 por litro, ou seja, 14,3 g, o que dá 14,3/44 ≈ 0,325 mol. Passando tudo à fase gasosa a 1 atm e 300 K, o volume é nRT/P = 0,325 × 0,082 × 300 ≈ 8 L. Comparado aos 2 L da garrafa, são 4 vezes — alternativa C. A alternativa B, 2 vezes, sai de usar só 7,15 g em vez dos 14,3 g dos dois litros; D e E vêm de erro na temperatura, usando 27 K ou esquecendo a conversão; e A ignora a expansão."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -39679,6 +40138,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Quebrar C−F custa 500 kJ·mol⁻¹ contra 415 da C−H: são 85 a mais por ligação. Como toda combustão começa rompendo ligações do combustível, trocar hidrogênios por flúor eleva a barreira inicial, isto é, a energia de ativação — e daí a alta temperatura de ignição que o texto atribui ao PVDF. Alternativa D. A alternativa A conclui maior calor liberado, quando ligações fortes no reagente reduzem o saldo exotérmico; B chama a combustão de endotérmica; C diz que a C−H tem maior diferença de eletronegatividade, e o flúor é o elemento mais eletronegativo da tabela; e E afirma que o flúor diminui a polaridade da cadeia, aumentando-a."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-39",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Material muito versátil, o vidro pode ser produzido em laboratório com diferentes características e para várias finalidades. Ele também pode se formar naturalmente no meio ambiente, como no caso do fulgurito, vidro natural que é gerado durante tempestades de raios em regiões desérticas.",
+   "enunciado": "A formação desse vidro natural acontece porque",
+   "alternativas": {
+    "a": "a descarga elétrica do raio transfere energia suficiente para fundir a sílica presente na areia, formando a massa de vidro.",
+    "b": "os raios fornecem energia de ativação suficiente para que os grãos de areia reajam com o oxigênio atmosférico e produzam o material que constitui o vidro.",
+    "c": "os materiais necessários para a produção de vidro são lixiviados durante as tempestades de raios e entram em contato com a atmosfera, permitindo a oxidação do silício e a formação do vidro.",
+    "d": "os materiais que estão soterrados no fundo das dunas atingem a superfície durante as tempestades de raios e podem ser expostos à carga elétrica das nuvens, originando a massa de vidro de forma natural.",
+    "e": "as tempestades de raios permitem que a lava existente sob o deserto seja liberada, alcançando a areia e formando a massa de vidro para derretê-la."
+   },
+   "resposta": "a",
+   "explicacao": "Fulgurito é areia derretida. A descarga do raio despeja em um ponto uma quantidade enorme de energia em fração de segundo, ultrapassando os cerca de 1.700 °C de que a sílica precisa para fundir; ao esfriar rápido demais para se organizar em cristal, a massa solidifica como vidro. Alternativa A. A alternativa B faz a areia reagir com o oxigênio, e a sílica já é um óxido; C fala em lixiviação e oxidação do silício; D imagina materiais soterrados vindo à superfície para receber a carga; e E invoca lava sob o deserto, que nada tem a ver com o fenômeno."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-46",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "No início do século XX, motores conhecidos como \"hot-bulb\" tornaram-se muito populares, sendo utilizados em tratores e outros maquinários. Diferentemente dos motores a diesel, em que a compressão do combustível causa sua ignição, esses motores funcionam por meio de uma superfície metálica aquecida a alta temperatura, que é responsável por vaporizar e permitir a detonação do combustível. Para ligar esse motor, portanto, é necessário usar uma chama externa até que tal superfície esteja quente o suficiente para que o motor entre em operação, momento no qual a chama externa deve ser apagada.",
+   "enunciado": "Nesses motores, uma das funções da chama externa é",
+   "alternativas": {
+    "a": "fornecer a energia de ativação necessária para que a combustão se inicie e o motor entre em funcionamento.",
+    "b": "atuar como comburente para o funcionamento do motor, permitindo que a combustão aconteça.",
+    "c": "evitar o vazamento de combustível, fazendo com que qualquer quantidade que possa entre em combustão.",
+    "d": "fornecer calor ao motor para manter a lubrificação constante e o motor em funcionamento.",
+    "e": "fornecer calor para aquecer o comburente, de forma que o processo de combustão não cesse."
+   },
+   "resposta": "a",
+   "explicacao": "Combustão é exotérmica, mas não começa sozinha: é preciso vencer uma barreira inicial, a energia de ativação. A chama externa fornece essa energia até que a superfície metálica fique quente o bastante para sustentar o processo — e por isso pode ser apagada logo depois, como o próprio enunciado diz. Alternativa A. A alternativa B chama a chama de comburente, papel que cabe ao oxigênio; C lhe atribui a função de evitar vazamento; D a liga à lubrificação; e E diz que ela aquece o comburente para que a combustão não cesse, quando o motor passa a operar sem ela."
   }
  ],
  "gramatica-coesao-semantica": [
@@ -44520,6 +45019,26 @@ window.QUESTION_BANKS = {
    "explicacao": "A classificação morfológica de uma palavra depende do papel que ela exerce. Em I, \"meio\" modifica o adjetivo com valor de mais ou menos: é advérbio e fica invariável. Em II, quantifica o nome: é numeral fracionário e se ajusta ao nome que acompanha.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "fuvest-gramatica-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Há um fenômeno interessante nas redes sociais, os influenciadores isentões. Talvez não seja novidade para ninguém e eu seja só a tia atrasada do rolê. Talvez todo mundo ache que a vida é assim, mas quando percebi a mutreta, achei muito esperto e, também, bastante desonesto. São celebridades e perfis que ganharam projeção com fofocas do meio artístico, cobertura sobre a programação de TV, que hoje abrange o streaming, alguns com comentários bem-humorados e, muitas vezes, críticas bastante ácidas. Eu passei a seguir algumas dessas páginas, que muitas vezes nem rosto têm, por causa do humor e das sacadas geniais para zombar da vida e de gente famosa. Não foi de cara que percebi a repetição do mesmo padrão, foto ou vídeo postados não vêm mais com uma legenda opinativa, mas com a descrição do episódio — às vezes, nem isso, e uma pergunta: \"o que vocês acharam disso?\", \"qual dos dois está certo?\", \"fulano tem razão?\" Quem está distraído pode até pensar que a boa alma, que quase sempre tem milhões de seguidores, quer dar voz ao seguidor, abrir espaço para que todos deem sua opinião, democratizar o debate. Na prática, é só um jeito de conseguir muito engajamento sem expor a própria opinião, sem fazer nenhum esforço de reflexão, sem correr o risco de ser cancelado por desagradar A ou B. Muitos desses perfis romperam a barreira do assunto entretenimento e possuem também conteúdo político. Quem resiste, não é mesmo? Parece que se você não falar de política nos dias de hoje, você nem existe. Mas como falar do assunto para quem só está ali porque quer ver as tretas sobre o BBB? Posando de isentão. Mariliz Pereira Jorge. Os influenciadores isentões. Folha de S. Paulo. 31.05.2022. Adaptado.",
+   "enunciado": "No trecho “Parece que se você não falar de política nos dias de hoje, você nem existe\", o uso do pronome “você\"",
+   "alternativas": {
+    "a": "refere-se exclusivamente à pessoa que lê o texto e constitui atributo do gênero textual em questão.",
+    "b": "apresenta o mesmo sentido dos pronomes pessoais “ela/ele”.",
+    "c": "integra uma estratégia argumentativa formal, excluindo o leitor da discussão em curso.",
+    "d": "indica polidez no tratamento com o leitor, mas o responsabiliza pelo que circula nas redes sociais.",
+    "e": "apresenta caráter genérico, reforçando o alcance da mensagem que se pretende expressar."
+   },
+   "resposta": "e",
+   "explicacao": "\"Se você não falar de política nos dias de hoje, você nem existe\" não fala do leitor em particular: fala de qualquer um, é o \"você\" indeterminado que equivale a \"a gente\" ou a \"se\". Esse uso genérico é o que amplia o alcance da constatação, alternativa E. A alternativa A restringe o pronome à pessoa que lê; B o iguala a \"ela/ele\", terceira pessoa de referência definida; C o chama de estratégia formal que exclui o leitor, quando o efeito é justamente incluir todo mundo; e D vê polidez com responsabilização, e não há acusação dirigida a ninguém."
   }
  ],
  "gramatica-pontuacao": [
@@ -46890,6 +47409,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Impessoalizar é apagar o agente, e a voz passiva faz exatamente isso: \"A estrutura da intervenção foi planejada... e adaptada\" não diz por quem. Alternativa A. As outras quatro exemplificam o oposto ou algo alheio: B é primeira pessoa do singular, a marca mais pessoal possível; D é discurso direto, que devolve a fala a um sujeito identificado e entre aspas; C é uma concessiva, relação lógica que nada tem a ver com a presença do agente; e E são estrangeirismos, escolha de vocabulário, não de pessoa."
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "fuvest-gramatica-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Intelectuais e farsantes amiúde se confundem. Sinal dos tempos, gritos se tornam equivalentes a ênfases, ataques passam a valer como expressão de individualidade e a retórica mais rude toma ares de argumentação. A confusão não é nova, é quase natural. Afinal, a inteligência parece poder alimentar tanto a reflexão quanto o canalha; contra toda aparência, inteligências há de diversa natureza. Pior ainda. A quase todos a inteligência parece ser da ordem das coisas cítricas e não naturalmente doce; seria em geral áspera e raramente acolhedora. E o lugar-comum da tradição nos faz mesmo julgar tolo o otimista e profundo o pessimista; a vocação natural da razão parece ser o negativo, a destruição e, portanto, o esclarecimento condenado a ser talhado em penumbra. Ao contrário, por tolice convicta ou por experiência bem assentada, penso que a inteligência pode ser acolhedora, expansiva. O indivíduo arguto não precisa ser quem prefere sempre a ironia à crítica, se verdadeiramente arguto, não precisa preferir a cizânia à concórdia, a vitória ao consenso, a persuasão ao convencimento. Chego a guardar a lembrança viva de amigos assim, muitíssimo inteligentes. Minha tristeza mais íntima é quase todos eles terem morrido. Porém, ao encontrá-los outrora, eles pareciam mesmo felizes em me ver, como se, ao me olharem fixamente, escolhessem de mim o que poderia haver de melhor. Amigos que, em vez de lamentar o peso da existência, como o fazem alguns cínicos, saudavam, com alma lírica, sua força instigante, seu permanente desafio. João Carlos Salles. Eu sei lá: nota sobre as forças selvagens da inteligência. Revista Cult. 29 de março de 2018. Adaptado.",
+   "enunciado": "Considerando a estruturação sintática do primeiro parágrafo do texto, é correto afirmar que o autor, predominantemente,",
+   "alternativas": {
+    "a": "utiliza períodos compostos por subordinação para apresentar seu ponto de vista.",
+    "b": "inverte a ordem das orações para criar um efeito de sentido dicotômico.",
+    "c": "justapõe orações por coordenação para apresentar um panorama do problema.",
+    "d": "opta por período simples para reforçar os argumentos favoráveis ao tema.",
+    "e": "oscila entre subordinação e coordenação para subverter a perspectiva do leitor."
+   },
+   "resposta": "c",
+   "explicacao": "O primeiro parágrafo enfileira orações independentes separadas por vírgula e ponto e vírgula — \"gritos se tornam equivalentes a ênfases, ataques passam a valer como expressão de individualidade e a retórica mais rude toma ares de argumentação\" —, sem que nenhuma dependa sintaticamente da outra. É coordenação justaposta, e o efeito é o de listar sintomas, montar um panorama: alternativa C. A alternativa A afirma predomínio da subordinação; B fala em inversão da ordem das orações; D reduz o parágrafo a períodos simples, e há vários compostos; e E descreve oscilação entre os dois processos, quando um deles predomina claramente."
   }
  ],
  "interpretacao-argumentacao": [
@@ -48521,6 +49060,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O texto lista o que a festa exerce — direito à cidade, à manifestação, à associação, à liberdade de expressão e religiosa — e fecha dizendo que lutar por meio da arte é como brasileiros fazem ecoar uma voz esquecida. Chamar o carnaval de político é, portanto, defender direitos e posições através de formas culturais e artísticas. A alternativa A reduz tudo à necessidade de lazer; B transforma a ocupação da rua em resistência contra quem não gosta de folia; C inverte o sinal e faz o texto criticar direitos conquistados; e E o desloca para uma reflexão sobre consumo que acentuaria diferenças."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "fuvest-interpretacao-texto-14",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Intelectuais e farsantes amiúde se confundem. Sinal dos tempos, gritos se tornam equivalentes a ênfases, ataques passam a valer como expressão de individualidade e a retórica mais rude toma ares de argumentação. A confusão não é nova, é quase natural. Afinal, a inteligência parece poder alimentar tanto a reflexão quanto o canalha; contra toda aparência, inteligências há de diversa natureza. Pior ainda. A quase todos a inteligência parece ser da ordem das coisas cítricas e não naturalmente doce; seria em geral áspera e raramente acolhedora. E o lugar-comum da tradição nos faz mesmo julgar tolo o otimista e profundo o pessimista; a vocação natural da razão parece ser o negativo, a destruição e, portanto, o esclarecimento condenado a ser talhado em penumbra. Ao contrário, por tolice convicta ou por experiência bem assentada, penso que a inteligência pode ser acolhedora, expansiva. O indivíduo arguto não precisa ser quem prefere sempre a ironia à crítica, se verdadeiramente arguto, não precisa preferir a cizânia à concórdia, a vitória ao consenso, a persuasão ao convencimento. Chego a guardar a lembrança viva de amigos assim, muitíssimo inteligentes. Minha tristeza mais íntima é quase todos eles terem morrido. Porém, ao encontrá-los outrora, eles pareciam mesmo felizes em me ver, como se, ao me olharem fixamente, escolhessem de mim o que poderia haver de melhor. Amigos que, em vez de lamentar o peso da existência, como o fazem alguns cínicos, saudavam, com alma lírica, sua força instigante, seu permanente desafio. João Carlos Salles. Eu sei lá: nota sobre as forças selvagens da inteligência. Revista Cult. 29 de março de 2018. Adaptado.",
+   "enunciado": "Com base no texto, depreende-se que",
+   "alternativas": {
+    "a": "a confusão entre intelectuais e farsantes é fruto das aparências, causada em decorrência do tempo e do fortalecimento de individualidades.",
+    "b": "a razão possui uma natureza dúbia, predominantemente positiva, de acordo com o nível de esclarecimento das pessoas.",
+    "c": "a inteligência e a argúcia não precisam se expressar de forma árdua, podendo manifestar satisfação diante dos desafios.",
+    "d": "a amizade possibilita o reconhecimento das melhores características do indivíduo, transformando cinismo em felicidade.",
+    "e": "a experiência serve de lugar-comum para entender o comportamento humano, distanciando-o do âmbito da ironia e da crítica."
+   },
+   "resposta": "c",
+   "explicacao": "O texto se divide em dois movimentos: primeiro o lugar-comum de que a inteligência é ácida, que faz \"julgar tolo o otimista e profundo o pessimista\"; depois a virada — \"penso que a inteligência pode ser acolhedora, expansiva\" —, com os amigos que saudavam a existência \"com alma lírica, sua força instigante, seu permanente desafio\". É a alternativa C. A alternativa A atribui a confusão entre intelectuais e farsantes ao tempo e às individualidades, e o autor a chama de quase natural; B diz que a razão é predominantemente positiva, quando o texto aponta sua vocação negativa como tradição a ser contestada; D transforma cinismo em felicidade; e E faz da experiência um lugar-comum, sendo ela o que sustenta a discordância."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "fuvest-interpretacao-texto-17",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Há um fenômeno interessante nas redes sociais, os influenciadores isentões. Talvez não seja novidade para ninguém e eu seja só a tia atrasada do rolê. Talvez todo mundo ache que a vida é assim, mas quando percebi a mutreta, achei muito esperto e, também, bastante desonesto. São celebridades e perfis que ganharam projeção com fofocas do meio artístico, cobertura sobre a programação de TV, que hoje abrange o streaming, alguns com comentários bem-humorados e, muitas vezes, críticas bastante ácidas. Eu passei a seguir algumas dessas páginas, que muitas vezes nem rosto têm, por causa do humor e das sacadas geniais para zombar da vida e de gente famosa. Não foi de cara que percebi a repetição do mesmo padrão, foto ou vídeo postados não vêm mais com uma legenda opinativa, mas com a descrição do episódio — às vezes, nem isso, e uma pergunta: \"o que vocês acharam disso?\", \"qual dos dois está certo?\", \"fulano tem razão?\" Quem está distraído pode até pensar que a boa alma, que quase sempre tem milhões de seguidores, quer dar voz ao seguidor, abrir espaço para que todos deem sua opinião, democratizar o debate. Na prática, é só um jeito de conseguir muito engajamento sem expor a própria opinião, sem fazer nenhum esforço de reflexão, sem correr o risco de ser cancelado por desagradar A ou B. Muitos desses perfis romperam a barreira do assunto entretenimento e possuem também conteúdo político. Quem resiste, não é mesmo? Parece que se você não falar de política nos dias de hoje, você nem existe. Mas como falar do assunto para quem só está ali porque quer ver as tretas sobre o BBB? Posando de isentão. Mariliz Pereira Jorge. Os influenciadores isentões. Folha de S. Paulo. 31.05.2022. Adaptado.",
+   "enunciado": "A pose de isentão no texto é melhor caracterizada pelo excerto:",
+   "alternativas": {
+    "a": "“Há um fenômeno interessante nas redes sociais, os influenciadores isentões. Talvez não seja novidade para ninguém e eu seja só a tia atrasada do rolê\".",
+    "b": "\"quase sempre tem milhões de seguidores, quer dar voz ao seguidor, abrir espaço para que todos deem sua opinião, democratizar o debate”.",
+    "c": "”um jeito de conseguir muito engajamento sem correr o risco de ser cancelado por desagradar A ou B”.",
+    "d": "“Muitos desses perfis romperam a barreira do assunto entretenimento e possuem também conteúdo político\".",
+    "e": "“Mas como falar do assunto para quem só está ali porque quer ver as tretas sobre o BBB?”"
+   },
+   "resposta": "c",
+   "explicacao": "A autora define a pose de isentão pelo que ela evita: postar sem legenda opinativa e perguntar \"o que vocês acharam disso?\" é \"só um jeito de conseguir muito engajamento sem expor a própria opinião, sem fazer nenhum esforço de reflexão, sem correr o risco de ser cancelado por desagradar A ou B\". É o excerto da alternativa C. O da alternativa B descreve a aparência que a pose produz — dar voz ao seguidor, democratizar o debate —, que o texto apresenta como o engano de quem está distraído; A é a abertura irônica sobre a própria autora; D constata a migração para o conteúdo político; e E formula a pergunta que motiva a pose, não a pose."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "fuvest-interpretacao-texto-18",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "No trecho a seguir, o personagem Quincas Borba pretende criticar uma opinião bastante comum sobre as doenças infecciosas letais. Para tanto, ele apresenta um argumento: “Aparentemente, há nada mais contristador que uma dessas terríveis pestes que devastam um ponto do globo? E, todavia, esse suposto mal é um benefício, não só porque elimina os organismos fracos, incapazes de resistência, como porque dá lugar à observação, à descoberta da droga curativa.” Machado de Assis. Quincas Borba.",
+   "enunciado": "Qual das sentenças a seguir enfraquece o argumento desenvolvido no texto?",
+   "alternativas": {
+    "a": "Organismos fracos são mais suscetíveis a doenças contagiosas.",
+    "b": "Normalmente as pessoas ignoram os benefícios de situações devastadoras.",
+    "c": "Não é preciso esperar a disseminação de uma peste para estudar as drogas que a combatem.",
+    "d": "Os organismos incapazes de resistência dependem da seleção natural para não ser eliminados.",
+    "e": "A observação cientifica se serve das pestes para progredir."
+   },
+   "resposta": "c",
+   "explicacao": "Quincas Borba sustenta que a peste é um benefício por duas razões: elimina os fracos e dá lugar à descoberta da droga curativa. Enfraquecer o argumento é remover uma dessas pernas, e a alternativa C remove a segunda — se não é preciso esperar a peste para pesquisar o remédio, a epidemia deixa de ser condição do avanço. A alternativa A reforça a primeira premissa; B faz um comentário sobre a percepção alheia, sem tocar no argumento; D reafirma a seleção natural que ele invoca; e E repete que a observação científica se serve das pestes, que é exatamente o que Quincas Borba afirma."
   }
  ],
  "interpretacao-inferencia": [
@@ -52702,6 +53301,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Repetido cinco vezes e devolvido pelo pássaro no fecho — \"O passado nunca mais\" —, o \"nunca mais\" deixa de somar exemplos e passa a dar veredito: o que foi evocado está encerrado. É o valor categórico e o sentido conclusivo da alternativa C, reforçado pelo eco do \"nevermore\" de Poe, que a própria canção cita. A alternativa A mantém aberta a possibilidade de retorno, que a expressão fecha; B diz que a repetição não altera a posição crítica, quando é ela que a converte em conclusão; D afirma que aproxima os planos temporais e reduz a tensão, sendo que os separa; e E a trata como mera intensificação nostálgica, o que o enunciado já descarta."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "fuvest-interpretacao-texto-16",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O Retorno do Rei: Queda e Ascensão de Elvis Presley é uma jornada fascinante por trás do icônico especial de retorno de Elvis Presley, que marcou um dos momentos mais decisivos da carreira do lendário cantor. No verão de 1968, Elvis estava em uma encruzilhada. Após uma meteórica ascensão ao estrelato nos anos 1950, dois anos no exército e uma carreira em declínio com filmes de Hollywood sem sucesso, ele estava longe do auge de sua fama. Disponível em https://www.adorocinema.com/filmes/. Adaptado.",
+   "enunciado": "O uso do adjetivo “meteórica” no trecho que descreve a ascensão de Elvis nos anos 1950 revela a intenção de se enfatizar",
+   "alternativas": {
+    "a": "a intensidade do sucesso de Elvis, caracterizando-o como algo efêmero.",
+    "b": "a falta de profundidade e consistência no sucesso de Elvis durante os anos 1950.",
+    "c": "o planejamento meticuloso por trás da ascensão de Elvis no cenário musical.",
+    "d": "a ligação de Elvis ao movimento astronômico, sugerindo algo grandioso e distante.",
+    "e": "o sucesso duradouro e gradual de Elvis, que foi consolidado ao longo do tempo."
+   },
+   "resposta": "a",
+   "explicacao": "Meteoro é o corpo que risca o céu com brilho intenso e some. Chamar a ascensão de \"meteórica\" empresta as duas coisas — a intensidade e a brevidade —, e a segunda é confirmada pelo que vem depois na frase: exército, filmes sem sucesso, declínio. Alternativa A. A alternativa B lê falta de consistência, e o texto fala em ascensão ao estrelato, não em sucesso raso; C encontra planejamento meticuloso, que a imagem não sugere; D toma o adjetivo ao pé da letra, como referência astronômica; e E o inverte, atribuindo sucesso duradouro e gradual justamente onde o termo marca rapidez."
   }
  ],
  "interpretacao-estrutura-coesao": [
@@ -56575,6 +57194,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O título nomeia a metáfora que a canção desenvolve e o próprio verso a fecha: \"o passado é uma roupa que não nos serve mais\". Roupa colorida é o traje datado — serviu, hoje não veste. Daí a alternativa B: a inadequação dos valores do passado ao presente sustenta a crítica a mantê-los sem reflexão, e é o que justifica \"precisamos todos rejuvenescer\". A alternativa A lê nostalgia validadora, quando o refrão responde \"o passado nunca mais\"; C reduz tudo a contentamento individual pela juventude perdida; D faz do passado uma identidade estável preservada, o contrário da roupa que não serve; e E chama o vestuário de acessório, sendo ele o eixo do texto."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "fuvest-interpretacao-texto-15",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "O Retorno do Rei: Queda e Ascensão de Elvis Presley é uma jornada fascinante por trás do icônico especial de retorno de Elvis Presley, que marcou um dos momentos mais decisivos da carreira do lendário cantor. No verão de 1968, Elvis estava em uma encruzilhada. Após uma meteórica ascensão ao estrelato nos anos 1950, dois anos no exército e uma carreira em declínio com filmes de Hollywood sem sucesso, ele estava longe do auge de sua fama. Disponível em https://www.adorocinema.com/filmes/. Adaptado.",
+   "enunciado": "Em relação à descrição do momento de 1968 na carreira de Elvis Presley, a sinopse destaca um ponto crucial na trajetória do cantor, referindo-se ao ano como uma fase de decisão. O retorno de Elvis é representado principalmente como",
+   "alternativas": {
+    "a": "um distanciamento da popularidade dos anos 1950.",
+    "b": "uma busca por revitalização artística após declínio.",
+    "c": "um esforço para resgatar sua imagem no cinema.",
+    "d": "uma ascensão gradual, sem grandes destaques.",
+    "e": "uma tentativa de continuar o sucesso no cinema."
+   },
+   "resposta": "b",
+   "explicacao": "A sinopse coloca Elvis \"em uma encruzilhada\" no verão de 1968: depois da ascensão dos anos 1950, dois anos de exército e uma carreira em declínio com filmes sem sucesso, ele está longe do auge. O especial é a resposta a isso — busca de revitalização artística após o declínio, alternativa B. A alternativa A descreve o estado anterior, não o retorno; C põe a recuperação no cinema, que é justamente de onde ele sai; D fala em ascensão gradual sem destaques, quando o texto chama o especial de um dos momentos mais decisivos; e E propõe continuar o sucesso no cinema, que a sinopse classifica como fracasso."
   }
  ],
  "literatura-realismo-naturalismo": [
@@ -60891,6 +61530,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A descrição junta três marcas que só uma das obras reúne: protagonista feminina em busca de liberdade, militância operária dos anos 1930 e o descompasso entre o discurso de igualdade do partido e os preconceitos que persistem. É Caminho de pedras, de Rachel de Queiroz, alternativa A. Memórias de Martha (B) é de 1899 e não trata de militância política; A paixão segundo G.H. (C) é uma travessia existencial sem lutas operárias; Canção para ninar menino grande (D) é contemporânea e centrada em relações afetivas e raciais; e Opúsculo Humanitário (E) é ensaio do século XIX, não romance."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "fuvest-literatura-43",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Consoada Quando a Indesejada das gentes chegar (Não sei se dura ou caroável), Talvez eu tenha medo. Talvez sorria, ou diga: - Alô, iniludível! O meu dia foi bom, pode a noite descer. (A noite com os seus sortilégios.) Encontrará lavrado o campo, a casa limpa, A mesa posta, Com cada coisa em seu lugar. Manuel Bandeira. Opus 10.",
+   "enunciado": "Nos versos “Quando a Indesejada das gentes chegar” e “O meu dia foi bom, pode a noite descer”, destacam-se as seguintes figuras de linguagem:",
+   "alternativas": {
+    "a": "Anáfora e hipérbole.",
+    "b": "Ironia e catacrese.",
+    "c": "Eufemismo e antítese.",
+    "d": "Metonímia e onomatopeia.",
+    "e": "Catacrese e hipérbole."
+   },
+   "resposta": "c",
+   "explicacao": "\"A Indesejada das gentes\" nomeia a morte sem dizer a palavra, suavizando o que se teme — é eufemismo, e a perífrase com maiúscula ainda a personifica. Já \"O meu dia foi bom, pode a noite descer\" opõe dia e noite, e por trás deles vida e morte, numa contraposição que dá o tom sereno do poema: antítese. Alternativa C. As demais nomeiam figuras que não estão ali: anáfora exigiria repetição no início de versos; hipérbole, exagero, e o poema é contido; catacrese é o uso forçado por falta de termo próprio; metonímia e onomatopeia não comparecem em nenhum dos dois versos."
   }
  ],
  "literatura-teoria-analise": [
@@ -64597,6 +65256,86 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Sophia não descreve a leitura de Bandeira: mostra os versos dele já incorporados à sua vida — as três mulheres do sabonete Araxá que a \"acompanhavam / Tão visíveis\", os poemas que \"caminharam comigo e com a brisa\" e \"foram parte do tempo respirado\". A poesia lida vira matéria da própria subjetividade, e a memória individual se faz experiência literária partilhada: alternativa C. A alternativa A nega interferência na constituição da voz poética; B opõe as duas literaturas e chama Bandeira de intangível, quando o poema o reconhece \"há muitos anos\"; D lê negação da idealização do passado; e E conclui que a poesia é incapaz de preservar experiências, o contrário do que o poema realiza."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-39",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“Foi nessa manhã que se realizou o último conselho da Corte do Rei Zucula. Ditadas as últimas vontades, o rei foi acocorar-se na raiz da figueira secular falando com os antepassados remotos e recentes. Diz-se que nesse momento apareceu uma cobra enorme que se enrolou no tronco da figueira, lançando línguas de fogo. Foi nesse momento que a sua vida se esfumou. O rei morreu de cócoras, e de cócoras foi enterrado, com a lança do guerreiro à direita, e o escudo à esquerda, pois se outra coisa fizessem não choveria.” “Ela teve uma morte repentina, quase igual à do seu defunto rei. Foi no oitavo dia da morte do marido que ela se aproximou da figueira para fazer as oferendas. Apareceu a mesma cobra que lançou línguas de fogo, levando consigo a vida da rainha. Ela morreu de joelhos, e de joelhos foi enterrada, com uma faca encravada na palma da mão direita, uma moeda de ouro e grãos de mapira [sorgo; milho-zaburro] na outra, pois se outra coisa se fizesse, não haveria paz para todos os seus descendentes.”",
+   "enunciado": "Os mitos da figueira ancestral e da cobra que lança línguas de fogo são comuns nas descrições dos dois falecimentos. Os sepultamentos do rei e da rainha, no entanto, trazem tanto elementos comuns (como o sepultamento na mesma posição do óbito) quanto diferenciadores a respeito do que cada um trazia consigo ao ser enterrado e quanto às finalidades da observância daquelas tradições. Nesse contexto, é correto afirmar que não chover guarda relação com a",
+   "alternativas": {
+    "a": "pacificação daquela sociedade.",
+    "b": "prosperidade militar do povo.",
+    "c": "pacificação espiritual da família.",
+    "d": "prosperidade econômica da sociedade.",
+    "e": "prosperidade econômica da família real."
+   },
+   "resposta": "d",
+   "explicacao": "A comparação entre os dois sepultamentos entrega a resposta. O rei é enterrado de cócoras com lança e escudo, e a fórmula diz que, se fizessem diferente, \"não choveria\" — chuva é colheita, e colheita é a subsistência de todo o povo, não de uma família. A rainha é enterrada de joelhos com faca, moeda de ouro e grãos, e ali a consequência é a paz entre os descendentes. Um cuida da sociedade, o outro da linhagem: alternativa D. As alternativas A e C tomam a consequência do enterro da rainha; B fala em prosperidade militar, que as armas sugerem mas o texto não afirma; e E restringe a prosperidade à família real."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-40",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“Foi nessa manhã que se realizou o último conselho da Corte do Rei Zucula. Ditadas as últimas vontades, o rei foi acocorar-se na raiz da figueira secular falando com os antepassados remotos e recentes. Diz-se que nesse momento apareceu uma cobra enorme que se enrolou no tronco da figueira, lançando línguas de fogo. Foi nesse momento que a sua vida se esfumou. O rei morreu de cócoras, e de cócoras foi enterrado, com a lança do guerreiro à direita, e o escudo à esquerda, pois se outra coisa fizessem não choveria.” “Ela teve uma morte repentina, quase igual à do seu defunto rei. Foi no oitavo dia da morte do marido que ela se aproximou da figueira para fazer as oferendas. Apareceu a mesma cobra que lançou línguas de fogo, levando consigo a vida da rainha. Ela morreu de joelhos, e de joelhos foi enterrada, com uma faca encravada na palma da mão direita, uma moeda de ouro e grãos de mapira [sorgo; milho-zaburro] na outra, pois se outra coisa se fizesse, não haveria paz para todos os seus descendentes.”",
+   "enunciado": "A busca pela paz entre todos os descendentes da rainha é uma possível alusão às disputas",
+   "alternativas": {
+    "a": "pela posição de preferido da mãe e avó.",
+    "b": "entre os filhos legítimos do falecido rei.",
+    "c": "pela sucessão das joias da rainha.",
+    "d": "entre as demais esposas do falecido rei.",
+    "e": "entre os filhos da rainha e das demais esposas do falecido rei."
+   },
+   "resposta": "b",
+   "explicacao": "A fórmula fala em paz \"para todos os seus descendentes\" — os da rainha. Como ela é a esposa do rei morto, seus descendentes são os filhos reconhecidos da casa real, e é entre eles que a sucessão se disputa quando o trono vaga. Alternativa B. A alternativa A reduz o conflito à preferência da mãe e avó; C o transforma em partilha de joias, e os objetos enterrados são de rito, não de herança; D põe a disputa entre as outras esposas, que não são descendentes; e E entre os filhos da rainha e os das demais esposas, o que extrapola o \"seus descendentes\" da fórmula."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-41",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Tenho uma filha crescida que ainda estuda embora já tenha estudado muito. Um dia disse-me (...) Que a terra é a mãe da natureza e tudo suporta para parir a vida. Como a mulher. Os golpes da vida a mulher suporta no silêncio da terra. Na amargura suave segrega um líquido triste e viscoso como o melão. Quem já viajou no mundo da mulher? Quem ainda não foi, que vá. Basta dar um golpe profundo, profundo, que do centro vermelho explodirá um fogo mesmo igual à erupção de um vulcão. Paulina Chiziane. Balada de amor ao vento.",
+   "enunciado": "A citação apresentada estabelece argumentos que serão desenvolvidos ao longo do romance de Paulina Chiziane. Considerando a comparação que constitui esse argumento, é correto afirmar:",
+   "alternativas": {
+    "a": "A comparação da mulher com a terra, força geradora da vida, ecoa em Sarnau. Contudo, apesar de experimentar a maternidade e ter de lidar com as tradições, a conclusão da narrativa informa que ela não encontra seu lugar na sociedade.",
+    "b": "A ideia de que a mulher suporta os \"golpes da vida no silêncio da terra\" reflete apenas as experiências de Sarnau. As outras personagens femininas do romance não compartilham do mesmo sofrimento.",
+    "c": "Ao narrar a vida de Sarnau, o romance convida a \"viajar no mundo da mulher\", dando voz às experiências e complexidades da vida feminina em Moçambique e expondo um universo bem compreendido pelos homens.",
+    "d": "A metáfora do vulcão que explode de um \"centro vermelho\" ao receber um \"golpe profundo\" relaciona-se aos momentos de ruptura com as tradições e à resistência de Sarnau à pressão social.",
+    "e": "O trecho sugere haver uma força feminina oculta capaz de explodir em face da violência, mas a comparação da mulher com a terra, enfatizando o silêncio e a dor suportada, reflete a atitude passiva com que Sarnau reage às adversidades de sua jornada."
+   },
+   "resposta": "d",
+   "explicacao": "A passagem monta uma imagem em duas partes: a terra que tudo suporta em silêncio, como a mulher, e o vulcão que explode do centro vermelho quando o golpe é profundo o bastante. A segunda parte é a que importa para a trajetória de Sarnau — os momentos em que ela rompe com a tradição e resiste à pressão social. Alternativa D. A alternativa A conclui que ela não encontra seu lugar; B restringe o sofrimento a Sarnau, quando as demais personagens o partilham; C afirma que o universo feminino é bem compreendido pelos homens, o contrário do \"quem já viajou no mundo da mulher?\"; e E lê passividade, ignorando a erupção."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-42",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "viii. Canção de matar Do dia nada sei O teu amor em mim Está como o gume De uma faca nua Ele me atravessa E atravessa os dias Ele me divide Tudo o que em mim vive Traz dentro uma faca O teu amor em mim Que por dentro me corta Com uma faca limpa Me libertarei Do teu sangue que põe Na minha alma nódoas O teu amor em mim De tudo me separa No gume de uma faca O meu viver se corta Do dia nada sei E a própria noite azul Me fecha a sua porta Do dia nada sei Com uma faca limpa Me libertarei. Sophia de Mello Breyner Andresen. O Cristo cigano (Grifos nossos).",
+   "enunciado": "O Cristo cigano é um poema narrativo, dividido em onze poemas numerados e um prefácio. A palavra faca é repetida diversas vezes, assumindo diferentes possibilidades de significação. No texto, a palavra faca indica a separação",
+   "alternativas": {
+    "a": "de objetos: a escultura de Cristo e o rosto do cigano que a inspirará.",
+    "b": "em partes do sujeito poético: o que mata e o que ama.",
+    "c": "em partes de um mesmo ato: esculpir e matar.",
+    "d": "das vozes que compõem o poema: o escultor e o assassino.",
+    "e": "da noite e do dia, a sombra que recobre toda a narrativa."
+   },
+   "resposta": "b",
+   "explicacao": "A faca do poema não fere: divide. \"Ele me atravessa / E atravessa os dias / Ele me divide / Tudo o que em mim vive\" — o amor parte o sujeito poético em dois, e a libertação virá \"com uma faca limpa\", isto é, do mesmo corte. Alternativa B. A alternativa A transfere a separação para objetos, a escultura e o rosto do cigano; C a põe entre esculpir e matar, dois atos da narrativa maior mas não do trecho; D a atribui às vozes do escultor e do assassino, que aqui não falam; e E a desloca para noite e dia, que no poema marcam o tempo do desconhecimento, não a divisão."
   }
  ],
  "ingles-inference": [
@@ -70475,6 +71214,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O texto percorre o trajeto: a nostalgia nasce como doença diagnosticada em servos deslocados e soldados suíços no século XVII, com sintomas clínicos — \"erroneous representations\", \"a haggard countenance\" —, e chega ao Romantismo como emoção histórica, ligada à cultura de salão, aos álbuns e à moda melancólica do fim do século XIX. De diagnóstico a sensibilidade inscrita em práticas culturais urbanas: alternativa A. A alternativa B congela a nostalgia no quadro clínico inicial; C fala em projeto político revolucionário; D nega o vínculo entre memória e transformações modernas, que é o eixo do texto; e E anuncia um método científico de tratamento."
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "fuvest-ingles-41",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Returning to my hometown is an occasion not to worry about street parking or dinner reservations. But on April 8 — thanks to the region’s position in the path of the total solar eclipse — I’ll be among the throngs of out-of-towners donning funky glasses to watch the sun disappear behind the moon’s shadow. In a small town in the USA a judge has already declared a state of emergency in anticipation of the population doubling or tripling in the days leading up to the eclipse. Maybe you don’t plan to be among the solar pilgrims battling highway gridlock. Maybe you are wondering if people have lost their minds. Why all the fuss about a predictable alignment of the Earth, moon and sun? Here’s a reason to give in to eclipse-mania. Post-pandemic, many of us feel less a part of our communities. In a polarized world, we lack common cause. Amid this disconnection and alienation, a solar eclipse is an opportunity not only for awe and wonder— but for binding ourselves to the past and future of humanity. People have been looking up to the stars for answers for millennia, whether it was to know the will of their gods or to navigate their ships across unknown seas. The solar eclipse carried omens for the ancient Mayans and Greeks. We can only imagine what it might mean to our descendants in the future, or to the artificial intelligence overlords that might govern them. What we do know is that total eclipses will recur for the next half-billion years, and that as long as people inhabit Earth, these events will be a spectacle if only for their rarity. Total solar eclipses happen about once every year to three years, but most are visible only from the poles or the middle of the ocean. From any specific location, they can be seen just about once every four centuries. They are one thing about the foreseeable future that, despite the dramatic technological and planetary changes ahead, will remain consistent with our past. This is why a trip to see the eclipse will be a trip home even for those not raised in the path of this year’s event. It will be a chance to be reminded of our place in the solar system and the cosmos — something that, no matter how stark our differences, we still share. Disponível em https://www.washingtonpost.com/. Adaptado.",
+   "enunciado": "No texto, uma das explicações relativas ao interesse atual por eclipses tem relação com a",
+   "alternativas": {
+    "a": "busca por espiritualidade em uma sociedade voltada para valores materialistas.",
+    "b": "intenção por parte dos cientistas em corrigir mitos criados em sociedades primitivas.",
+    "c": "popularidade do tema em filmes e séries no campo da ficção científica.",
+    "d": "difusão das pesquisas contemporâneas sobre astronomia em revistas especializadas.",
+    "e": "manutenção de um sentido de coletivo em meio a um mundo fragmentado."
+   },
+   "resposta": "e",
+   "explicacao": "O argumento do texto é social antes de ser astronômico: \"Post-pandemic, many of us feel less a part of our communities. In a polarized world, we lack common cause. Amid this disconnection and alienation, a solar eclipse is an opportunity...\" O eclipse interessa porque devolve algo comum a um mundo fragmentado, e o fecho repete — \"something that, no matter how stark our differences, we still share\". Alternativa E. A alternativa A fala em busca de espiritualidade; B, em cientistas corrigindo mitos; C, em popularidade do tema na ficção científica; e D, em difusão de pesquisas em revistas especializadas."
   }
  ],
  "ingles-detail": [
@@ -73400,6 +74159,106 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O parágrafo é direto: estufas e aquários eram \"a piece of nature transplanted into the urban home, framed and domesticated\", e o que se prezava era \"the fossil, the ruin, the miniature, the souvenir\". Natureza e passado recriados em fragmento, emoldurados e idealizados — alternativa E. A alternativa A fala em entusiasmo irrestrito pelo avanço industrial, e o gosto descrito é reação a ele; B propõe retorno efetivo à vida rural, quando se trata de natureza artificial dentro da casa urbana; C inventa uma crítica às elites letradas, que são as próprias praticantes do álbum; e D anuncia abandono das artes visuais."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Perhaps you’ve noticed that more and more people are “creative” these days: creative directors, creative consultants, content creators. In recent essays, researchers reflect upon how a word once applied to artists was co-opted by the corporate and tech worlds. In the postwar consumer economy, businesses began to prize “creative” thinkers who could figure out how to brand and sell products. The vogue for creativity led to such intense and wacky ideas as Synectics, a kind of group therapy designed to solve problems by accessing the subconscious. Creativity has become a life style, with “coders dressed like bohemians,” and also the paragon of human flourishing: “Uncreative people are rigid and repressed; creative people are authentically themselves, and therefore fully human.” That sounds nice, but reading more about the topic could help to understand how in such cases creativity has always been more about economics than about aesthetics. Disponível em https://www.newyorker.com/magazine/. Adaptado.",
+   "enunciado": "De acordo com o texto, o emprego da “criatividade” pelo mundo corporativo tem como objetivo",
+   "alternativas": {
+    "a": "ampliar o apelo comercial dos produtos criados por meio de recursos estéticos.",
+    "b": "aprimorar a qualidade de vida dos funcionários das grandes empresas.",
+    "c": "difundir métodos alternativos de investigação no campo da psicologia aplicada.",
+    "d": "incentivar a contratação de historiadores da arte pelas companhias de marketing.",
+    "e": "investir em pesquisas acadêmicas sobre o intercâmbio entre arte e economia."
+   },
+   "resposta": "a",
+   "explicacao": "O texto data e explica a apropriação: \"In the postwar consumer economy, businesses began to prize “creative” thinkers who could figure out how to brand and sell products\". Marcar e vender é ampliar o apelo comercial, e o fecho confirma o eixo — \"creativity has always been more about economics than about aesthetics\". Alternativa A. A alternativa B fala em qualidade de vida dos funcionários, e o \"life style\" citado é aparência, não bem-estar; C toma a Synectics como objetivo, sendo ela um sintoma da moda; D inventa a contratação de historiadores da arte; e E propõe investir em pesquisa acadêmica sobre arte e economia, que é o assunto dos ensaios, não das empresas."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Gossip may not be good for you, per se, but it’s deeply connected to human nature. The historian Yuval Noah Harari wrote that gossip helped early Homo sapiens form larger and more stable bands. He borrowed the idea from the anthropologist Robin Dunbar, who theorized that language — and by extension, gossip — replaced grooming, a social bonding practice still seen among our primate cousins. Humans needed something that would help them keep up-to-date with friends and family as they spread out across distances, and networks of Homo sapiens were becoming too large for everyone to effectively groom everyone else. Or, to put it another way, humans evolved to gossip. The language of social bonding is thought to play a pivotal part in ensuring our survival and later flourishing. Gossip’s ability to drive “vicarious learning” and facilitate “social connection” was the subject of a recent study by scientists at Dartmouth’s Computational Social Affective Neuroscience Laboratory. Luke Chang, a professor of psychological and brain sciences, explained that he and his co-researcher, Eshin Jolly, dug into the topic because gossip is ubiquitous but not well-studied. They created a game where individuals received small amounts of money and were divided into groups of six. Each round, an individual could choose to keep the money or put it into a pot, benefiting everyone. To replicate the societal pressures of gossip, they gave the players the option to exchange private communications, which inevitably turned into a way for people to size up who was hoarding or who was contributing. “Our work suggests that there’s a lot more richness there than we’re willing to think about,” Mr. Jolly said. “When I’m talking with you about somebody, even if it’s negative or positive, it’s this idea that we’ve decided to temperature check how we feel about the social world at large.” The New York Times, 28 May, 2021. Adaptado.",
+   "enunciado": "Segundo o texto, para os primeiros Homo Sapiens, a fofoca",
+   "alternativas": {
+    "a": "exerceu papel auxiliar na constituição de grupos maiores e mais equilibrados.",
+    "b": "gerou uso de maledicência com o intuito de causar intrigas.",
+    "c": "diminuiu a necessidade do contato entre bandos de linhagens distintas.",
+    "d": "contribuiu para o estabelecimento de padrões hierárquicos entre povos primitivos.",
+    "e": "funcionou como filtro para eles distinguirem manifestações agressivas de sinais amigáveis."
+   },
+   "resposta": "a",
+   "explicacao": "A frase está no segundo parágrafo: Harari escreveu que \"gossip helped early Homo sapiens form larger and more stable bands\". Ajudar é papel auxiliar, e \"larger and more stable\" é maiores e mais equilibrados — alternativa A. A alternativa B fala em maledicência para causar intrigas, juízo moral que o texto evita; C diz que a fofoca diminuiu a necessidade de contato entre bandos, quando ela serviu para manter contato à distância; D introduz padrões hierárquicos entre povos primitivos; e E a descreve como filtro entre agressão e amizade, papel que o texto atribui ao grooming que a linguagem substituiu."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-38",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Gossip may not be good for you, per se, but it’s deeply connected to human nature. The historian Yuval Noah Harari wrote that gossip helped early Homo sapiens form larger and more stable bands. He borrowed the idea from the anthropologist Robin Dunbar, who theorized that language — and by extension, gossip — replaced grooming, a social bonding practice still seen among our primate cousins. Humans needed something that would help them keep up-to-date with friends and family as they spread out across distances, and networks of Homo sapiens were becoming too large for everyone to effectively groom everyone else. Or, to put it another way, humans evolved to gossip. The language of social bonding is thought to play a pivotal part in ensuring our survival and later flourishing. Gossip’s ability to drive “vicarious learning” and facilitate “social connection” was the subject of a recent study by scientists at Dartmouth’s Computational Social Affective Neuroscience Laboratory. Luke Chang, a professor of psychological and brain sciences, explained that he and his co-researcher, Eshin Jolly, dug into the topic because gossip is ubiquitous but not well-studied. They created a game where individuals received small amounts of money and were divided into groups of six. Each round, an individual could choose to keep the money or put it into a pot, benefiting everyone. To replicate the societal pressures of gossip, they gave the players the option to exchange private communications, which inevitably turned into a way for people to size up who was hoarding or who was contributing. “Our work suggests that there’s a lot more richness there than we’re willing to think about,” Mr. Jolly said. “When I’m talking with you about somebody, even if it’s negative or positive, it’s this idea that we’ve decided to temperature check how we feel about the social world at large.” The New York Times, 28 May, 2021. Adaptado.",
+   "enunciado": "De acordo com o texto, no estudo conduzido por cientistas de Dartmouth College, um aspecto associado à fofoca refere-se",
+   "alternativas": {
+    "a": "à toxicidade presente no hábito de falar dos outros.",
+    "b": "à desvalorização das características de pessoas próximas.",
+    "c": "ao aprendizado alcançado por meio do contato com o outro.",
+    "d": "ao seu potencial para a manutenção da ordem econômica.",
+    "e": "à estratégia de autoproteção construída pelo indivíduo frente aos mexericos."
+   },
+   "resposta": "c",
+   "explicacao": "O estudo de Dartmouth é apresentado por dois efeitos entre aspas: a capacidade da fofoca de impulsionar \"vicarious learning\" e de facilitar \"social connection\". Aprendizado vicário é justamente aprender pela experiência do outro, sem passar por ela — alternativa C. A alternativa A fala em toxicidade do hábito, e o texto abre dizendo que a fofoca pode não fazer bem mas não é esse o objeto do estudo; B trata de desvalorizar pessoas próximas; D fala em manutenção da ordem econômica, quando o dinheiro no jogo é instrumento, não fim; e E descreve autoproteção contra mexericos, que o experimento não mede."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-39",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Gossip may not be good for you, per se, but it’s deeply connected to human nature. The historian Yuval Noah Harari wrote that gossip helped early Homo sapiens form larger and more stable bands. He borrowed the idea from the anthropologist Robin Dunbar, who theorized that language — and by extension, gossip — replaced grooming, a social bonding practice still seen among our primate cousins. Humans needed something that would help them keep up-to-date with friends and family as they spread out across distances, and networks of Homo sapiens were becoming too large for everyone to effectively groom everyone else. Or, to put it another way, humans evolved to gossip. The language of social bonding is thought to play a pivotal part in ensuring our survival and later flourishing. Gossip’s ability to drive “vicarious learning” and facilitate “social connection” was the subject of a recent study by scientists at Dartmouth’s Computational Social Affective Neuroscience Laboratory. Luke Chang, a professor of psychological and brain sciences, explained that he and his co-researcher, Eshin Jolly, dug into the topic because gossip is ubiquitous but not well-studied. They created a game where individuals received small amounts of money and were divided into groups of six. Each round, an individual could choose to keep the money or put it into a pot, benefiting everyone. To replicate the societal pressures of gossip, they gave the players the option to exchange private communications, which inevitably turned into a way for people to size up who was hoarding or who was contributing. “Our work suggests that there’s a lot more richness there than we’re willing to think about,” Mr. Jolly said. “When I’m talking with you about somebody, even if it’s negative or positive, it’s this idea that we’ve decided to temperature check how we feel about the social world at large.” The New York Times, 28 May, 2021. Adaptado.",
+   "enunciado": "Conforme o texto, uma característica relativa à pesquisa mencionada sobre a fofoca envolve",
+   "alternativas": {
+    "a": "testar o fator disciplinar entre participantes do jogo durante a troca de mensagens.",
+    "b": "estabelecer mecanismos de sanções para condutas condenáveis.",
+    "c": "compreender a motivação de diálogos com conteúdo neutro.",
+    "d": "medir a frequência de tópicos sociais nas discussões propostas durante o experimento.",
+    "e": "poder avaliar pessoas com atitudes cooperativas ou egoístas."
+   },
+   "resposta": "e",
+   "explicacao": "O desenho do experimento está descrito: em grupos de seis, cada um decide guardar o dinheiro ou pô-lo no pote em benefício de todos, e as mensagens privadas \"inevitably turned into a way for people to size up who was hoarding or who was contributing\". Avaliar quem acumula e quem contribui é medir egoísmo e cooperação — alternativa E. A alternativa A fala em testar o fator disciplinar; B, em mecanismos de sanção, que o jogo não prevê; C, em diálogos de conteúdo neutro, e as conversas eram avaliativas; e D, em medir frequência de tópicos sociais, que não é o que os pesquisadores relatam."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-42",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Returning to my hometown is an occasion not to worry about street parking or dinner reservations. But on April 8 — thanks to the region’s position in the path of the total solar eclipse — I’ll be among the throngs of out-of-towners donning funky glasses to watch the sun disappear behind the moon’s shadow. In a small town in the USA a judge has already declared a state of emergency in anticipation of the population doubling or tripling in the days leading up to the eclipse. Maybe you don’t plan to be among the solar pilgrims battling highway gridlock. Maybe you are wondering if people have lost their minds. Why all the fuss about a predictable alignment of the Earth, moon and sun? Here’s a reason to give in to eclipse-mania. Post-pandemic, many of us feel less a part of our communities. In a polarized world, we lack common cause. Amid this disconnection and alienation, a solar eclipse is an opportunity not only for awe and wonder— but for binding ourselves to the past and future of humanity. People have been looking up to the stars for answers for millennia, whether it was to know the will of their gods or to navigate their ships across unknown seas. The solar eclipse carried omens for the ancient Mayans and Greeks. We can only imagine what it might mean to our descendants in the future, or to the artificial intelligence overlords that might govern them. What we do know is that total eclipses will recur for the next half-billion years, and that as long as people inhabit Earth, these events will be a spectacle if only for their rarity. Total solar eclipses happen about once every year to three years, but most are visible only from the poles or the middle of the ocean. From any specific location, they can be seen just about once every four centuries. They are one thing about the foreseeable future that, despite the dramatic technological and planetary changes ahead, will remain consistent with our past. This is why a trip to see the eclipse will be a trip home even for those not raised in the path of this year’s event. It will be a chance to be reminded of our place in the solar system and the cosmos — something that, no matter how stark our differences, we still share. Disponível em https://www.washingtonpost.com/. Adaptado.",
+   "enunciado": "De acordo com o texto, no futuro da humanidade, a observação de fenômenos como eclipses",
+   "alternativas": {
+    "a": "será mais rara devido às mudanças climáticas recentes.",
+    "b": "continuará a constituir um elo com o passado coletivo.",
+    "c": "poderá ser prevista por meio do uso de Inteligências Artificiais.",
+    "d": "receberá maior atenção da comunidade científica internacional.",
+    "e": "poderá ser apreciada apenas nas regiões polares do planeta."
+   },
+   "resposta": "b",
+   "explicacao": "O texto projeta o futuro em duas frases: \"total eclipses will recur for the next half-billion years\" e elas são \"one thing about the foreseeable future that, despite the dramatic technological and planetary changes ahead, will remain consistent with our past\". Elo com o passado coletivo — alternativa B. A alternativa A prevê raridade maior por causa do clima, e a recorrência é orbital; C atribui a previsão a inteligências artificiais, que no texto apenas talvez governem os descendentes; D fala em atenção da comunidade científica; e E restringe a observação aos polos, quando o texto diz que a maioria é visível dos polos ou do meio do oceano, não todas."
   }
  ],
  "ingles-vocabulary": [
@@ -74625,6 +75484,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O parágrafo diz que os fungos mantêm o solo unido, que seus corpos estão tecidos no agregado e que produzem substâncias grudentas difíceis de degradar; e conclui: \"Take away that scaffolding and soils would erode and disappear\". Andaime é a imagem de sustentação que responde por essa coesão — alternativa C. A alternativa A atribui a manutenção do solo à intervenção técnica de agricultores; B toma \"scaffolding\" como estrutura artificial de fato instalada no subsolo; D também o lê literalmente, como suportes minerais; e E põe os fungos na periferia e na superfície, quando o texto trata de ecossistemas subterrâneos centrais."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "fuvest-ingles-40",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "No quadro a seguir, são reproduzidos três trocadilhos, frases que possuem a função de serem engraçadas. I don’t trust stairs because they’re always up to something. I was wondering why the ball was getting bigger. Then it hit me. I can’t believe I got fired from the calendar factory. All I did was take a day off! Disponível em https://parade.com/1024249/marynliles/.",
+   "enunciado": "O efeito de humor dos trocadilhos decorre da compreensão da",
+   "alternativas": {
+    "a": "aproximação de termos com sentidos diversos e pronúncias semelhantes.",
+    "b": "mudança da ordem sintática das palavras em relação ao uso cotidiano da linguagem.",
+    "c": "diferença entre o significado literal e o significado conotativo das expressões idiomáticas usadas.",
+    "d": "adoção de vocábulos eruditos consagrados pela tradição literária da língua inglesa.",
+    "e": "utilização de recursos sonoros como aliterações e onomatopeias para criar interpretações absurdas."
+   },
+   "resposta": "c",
+   "explicacao": "Os três trocadilhos exploram expressões que têm um sentido literal e outro idiomático, e o riso vem de ler a idiomática ao pé da letra. \"Up to something\" é tramar algo, mas escadas de fato sobem; \"then it hit me\" é \"então me dei conta\", e a bola realmente acerta; \"take a day off\" é tirar um dia de folga, e na fábrica de calendários seria remover um dia. Alternativa C. A alternativa A descreve homófonos, e as palavras aqui são as mesmas; B fala em ordem sintática invertida; D, em vocábulos eruditos; e E, em aliterações e onomatopeias, ausentes nos três."
   }
  ]
 };

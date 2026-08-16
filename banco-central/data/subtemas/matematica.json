@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "matematica",
- "total": 1067,
+ "total": 1075,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -6345,6 +6345,52 @@
    "frenteDestino": "matematica",
    "pontos": 13,
    "margem": 10
+  },
+  "fuvest-matematica-33": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 17
+  },
+  "fuvest-matematica-34": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 20,
+   "margem": 17
+  },
+  "fuvest-matematica-35": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 16,
+   "margem": 13
+  },
+  "fuvest-matematica-36": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "fuvest-matematica-37": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "fuvest-matematica-38": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 0
+  },
+  "fuvest-matematica-39": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "fuvest-matematica-40": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
   }
  }
 }

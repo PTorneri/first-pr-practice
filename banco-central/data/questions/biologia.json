@@ -8989,6 +8989,82 @@
    },
    "resposta": "e",
    "explicacao": "Homólogos são órgãos com a mesma origem embrionária e o mesmo ancestral comum, ainda que a função difira; análogos têm função parecida e origens distintas. Nadadeira de baleia e asa de pinguim são as duas o membro anterior de tetrápodes, herdado do mesmo ancestral — homólogas, alternativa E. A alternativa A chama nadadeira de tubarão e asa de pinguim de homólogas justificando com adaptação independente, que é a definição de análogas; B nega ancestralidade comum entre foca e pinguim, ambos tetrápodes; C diz que asas de pinguim e de morcego derivam de folhetos embrionários distintos, e são igualmente membros anteriores; e D chama de homólogas por terem evoluído independentemente, invertendo os termos."
+  },
+  {
+   "id": "fuvest-biologia-38",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A hipertermia maligna é uma condição grave em que pessoas portadoras da mutação no gene do receptor de rianodina desenvolvem reação à anestesia, gerando calor por contração muscular intensa e aumentando a temperatura corporal de forma letal, caso não seja tratada imediatamente. A mutação permite liberação de altas concentrações de cálcio para o citosol.",
+   "enunciado": "A organela celular responsável pela maior parte do armazenamento de cálcio na célula muscular e um mecanismo fisiológico para a redução da temperatura corporal em humanos são:",
+   "alternativas": {
+    "a": "Retículo endoplasmático e sudorese.",
+    "b": "Mitocôndria e vasoconstrição periférica.",
+    "c": "Ribossomo e vasodilatação periférica.",
+    "d": "Retículo endoplasmático e redução da frequência respiratória.",
+    "e": "Núcleo e aumento da frequência respiratória."
+   },
+   "resposta": "a",
+   "explicacao": "Na fibra muscular o cálcio fica estocado no retículo sarcoplasmático, que é o retículo endoplasmático especializado dessa célula — e é dele que o receptor de rianodina libera o íon. Para baixar a temperatura, o corpo humano recorre à sudorese, cuja evaporação retira calor, e à vasodilatação periférica. Alternativa A. A alternativa B acerta o segundo termo pela metade e erra os dois: mitocôndria não é o principal estoque, e vasoconstrição conserva calor em vez de dissipá-lo; C põe o ribossomo, que não armazena cálcio; D acerta a organela mas propõe reduzir a frequência respiratória; e E indica o núcleo."
+  },
+  {
+   "id": "fuvest-biologia-39",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Um sistema de inteligência artificial formulou o seguinte texto para explicar a relação entre a febre maculosa e os fatores bióticos e abióticos a ela relacionados: “A febre maculosa, uma doença infecciosa transmitida por carrapatos, está intrinsecamente ligada a fatores bióticos e abióticos presentes em seu ambiente. Os fatores bióticos incluem a presença do carrapato estrela, vetor da bactéria Rickettsia rickettsii, e dos hospedeiros necessários para a alimentação do carrapato, como roedores e outros animais. Além disso, os fatores abióticos desempenham um papel significativo na disseminação da doença. A umidade é um fator-chave, uma vez que carrapatos preferem ambientes úmidos para se desenvolverem e sobreviverem. A temperatura também desempenha um papel importante, afetando tanto a atividade dos carrapatos quanto a sobrevivência da bactéria. Outros fatores abióticos, como o clima, a vegetação e a disponibilidade de água, podem influenciar a abundância e a distribuição dos carrapatos e, consequentemente, a propagação da febre maculosa. Portanto, compreender e monitorar esses fatores bióticos e abióticos é fundamental para prevenir e controlar a febre maculosa. Estratégias de controle de carrapatos, conscientização pública e medidas de proteção pessoal são essenciais para reduzir a incidência da doença.”",
+   "enunciado": "Assinale a alternativa que corrige, adequadamente, uma informação incorreta do texto gerado pelo sistema.",
+   "alternativas": {
+    "a": "A febre maculosa é transmitida por roedor, e não por carrapato.",
+    "b": "A vegetação é um componente biológico, e não um fator abiótico.",
+    "c": "A febre maculosa tem origem viral, e não bacteriana.",
+    "d": "O carrapato estrela alimenta-se da vegetação, e não do roedor.",
+    "e": "A temperatura é um fator ambiental, e não um fator abiótico."
+   },
+   "resposta": "b",
+   "explicacao": "Fator abiótico é componente não vivo do ambiente — luz, temperatura, umidade, disponibilidade de água, tipo de solo. A vegetação é feita de organismos vivos e, portanto, é fator biótico; listá-la entre os abióticos é o erro do texto gerado pela máquina, e a alternativa B o corrige. As demais \"corrigem\" o que estava certo: a febre maculosa é de fato transmitida pelo carrapato, e não pelo roedor (A); é bacteriana, causada por Rickettsia rickettsii, e não viral (C); o carrapato-estrela alimenta-se de sangue de hospedeiros como o roedor, e não de vegetação (D); e temperatura é fator ambiental e abiótico ao mesmo tempo, sem oposição entre os termos (E)."
+  },
+  {
+   "id": "fuvest-biologia-40",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O nitrogênio é um elemento químico essencial na vida dos organismos por fazer parte de proteínas e ácidos nucleicos, e circula no ambiente por meio do ciclo biogeoquímico do nitrogênio.",
+   "enunciado": "Em relação a esse ciclo, é correto afirmar:",
+   "alternativas": {
+    "a": "Todas as plantas absorvem o nitrogênio diretamente da atmosfera.",
+    "b": "A transformação de NO3ꟷ em N2 é uma reação de oxidação dependente do metabolismo da planta.",
+    "c": "A transformação de N2 em NH4+ depende essencialmente da fixação por bactérias.",
+    "d": "Todo o NH4+ produzido no ciclo do nitrogênio tem origem na atividade de organismos produtores.",
+    "e": "Os compostos orgânicos nitrogenados são produzidos exclusivamente por animais."
+   },
+   "resposta": "c",
+   "explicacao": "O N2 da atmosfera é inerte demais para as plantas: a tripla ligação só é rompida por bactérias fixadoras, de vida livre ou associadas a raízes de leguminosas, que o convertem em amônia e amônio. Alternativa C. A alternativa A diz que todas as plantas absorvem nitrogênio direto do ar, e é precisamente o que elas não fazem; B chama a desnitrificação de oxidação dependente do metabolismo vegetal, quando é redução feita por bactérias; D atribui todo o NH4+ aos produtores, ignorando a decomposição da matéria orgânica; e E dá aos animais a exclusividade dos compostos nitrogenados orgânicos, que as plantas também produzem."
+  },
+  {
+   "id": "fuvest-biologia-41",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Um bioma brasileiro encontra-se sob um clima tropical estacional, com inverno seco e ausência de chuva por alguns meses. Suas árvores e arbustos típicos possuem adaptações para lidar com esse período seco.",
+   "enunciado": "Considere o preenchimento das lacunas do texto a seguir:\n\"Suas árvores e arbustos típicos possuem adaptações para lidar com esse período seco, como raízes __I__, que buscam o solo mais úmido. Para evitar perder água, as folhas geralmente são __II__. Nas horas mais quentes do dia, especialmente na estação seca do ano, essas árvores tendem a __III__ seus estômatos, a fim de __IV__ a transpiração, a qual ocorre principalmente na fase clara da fotossíntese.\"\nAs lacunas de I a IV são corretamente preenchidas por:",
+   "alternativas": {
+    "a": "adventícias pilosas e sem cutícula abrir cessar",
+    "b": "profundas pilosas ou com cutícula espessa fechar reduzir",
+    "c": "respiratórias sem pelos e com cutícula espessa perder aumentar",
+    "d": "retorcidas sem pelos ou sem cutícula abrir reduzir",
+    "e": "superficiais compostas e sem pelos fechar aumentar"
+   },
+   "resposta": "b",
+   "explicacao": "A lógica é uma só: economizar água. Raízes profundas alcançam o lençol nos meses sem chuva; folhas com pelos ou cutícula espessa reduzem a evaporação na superfície; e nas horas de calor os estômatos fecham, o que reduz a transpiração. Alternativa B. A alternativa A manda abrir os estômatos e cessar a transpiração, duas coisas incompatíveis entre si; C e E querem aumentar a transpiração no pior momento do dia; e D combina raízes retorcidas com folhas sem cutícula e estômatos abertos, o oposto da estratégia. As raízes adventícias de A e as respiratórias de C pertencem a outros ambientes, não ao cerrado."
   }
  ],
  "textos": [

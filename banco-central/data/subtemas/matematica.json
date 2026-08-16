@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "matematica",
- "total": 1035,
+ "total": 1041,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -6159,6 +6159,39 @@
   },
   "enem-matematica-61": {
    "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "fuvest-matematica-1": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "fuvest-matematica-2": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "fuvest-matematica-3": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "fuvest-matematica-4": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 7
+  },
+  "fuvest-matematica-5": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "fuvest-matematica-6": {
+   "subtema": "matematica-sequencias",
    "frenteDestino": "matematica",
    "revisado": true
   }

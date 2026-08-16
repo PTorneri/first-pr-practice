@@ -1595,6 +1595,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O alvo aparece em três momentos: gente “investindo alto na mentira”, alunos e pais divulgando conteúdos “sem saber o que havia por trás das palavras” e, no fecho, notícias falsas e imagens manipuladas circulando como verdade. A resposta proposta — letramento midiático e checagem — confirma o diagnóstico. A alternativa (c) inverte a reportagem, que valoriza o trabalho pedagógico com meios digitais; e as (d) e (e) tomam humor e política, citados como usos possíveis do meme, pelo problema, que é a manipulação."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "fuvest-interpretacao-texto-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“O preconceito linguístico é tanto mais poderoso porque, em grande medida, ele é ‘invisível’, no sentido de que quase ninguém fala dele, com exceção dos raros cientistas sociais que se dedicam a estudá-lo. Pouquíssimas pessoas reconhecem a existência do preconceito linguístico, quem dirá a sua gravidade como um sério problema social.” BAGNO, Marcos. Preconceito linguístico: o que é, como se faz. Edições Loyola, São Paulo, 1999.",
+   "enunciado": "Com base na leitura do texto, é possível depreender que o preconceito linguístico, apesar de nocivo para a sociedade, muitas vezes é despercebido. Nesse sentido, assinale a alternativa que apresenta um exemplo de preconceito linguístico.",
+   "alternativas": {
+    "a": "A língua falada é um instrumento de sobrevivência em sociedade.",
+    "b": "A língua varia tão rapidamente quanto as mudanças que ocorrem na sociedade.",
+    "c": "Existem muitas maneiras de se expressar a mesma ideia.",
+    "d": "Os habitantes de uma cidade grande não possuem sotaque na língua falada.",
+    "e": "Todo falante nativo de uma língua a conhece plenamente."
+   },
+   "resposta": "d",
+   "explicacao": "Dizer que quem mora em cidade grande \"não tem sotaque\" é o exemplo pedido: trata a fala de um grupo como neutra e, por consequência, a dos demais como desvio — que é exatamente o preconceito invisível de que Bagno fala, já que todo falante tem sotaque. As outras quatro alternativas enunciam fatos correntes da linguística: a língua é instrumento de sobrevivência social, varia com a sociedade, permite dizer a mesma ideia de vários modos e é dominada pelo falante nativo. Nenhuma delas hierarquiza variedades."
   }
  ],
  "interpretacao-inferencia": [
@@ -9429,6 +9449,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O aplicativo remove a barreira técnica que tornava a escrita dessas línguas quase artesanal: sem ele, era preciso produzir diacríticos manualmente; com ele, sete páginas saíram em dois dias. Ao permitir que qualquer falante escreva sua língua num teclado comum, o Linklado democratiza o registro escrito — que é o que a antropóloga aponta como forma de preservação. A alternativa (a) inverte um ponto sutil do texto: o aplicativo facilita criar representações GRÁFICAS para fonemas já existentes, não os fonemas em si. E a (c) toma o exemplo inicial, um jogo traduzido, como se fosse a contribuição geral."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "fuvest-interpretacao-texto-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Por quê? Porque pensar em direitos humanos tem um pressuposto: reconhecer que aquilo que consideramos indispensável para nós é também indispensável para o próximo. (...). Nesse ponto as pessoas são frequentemente vítimas de uma curiosa obnubilação. Elas afirmam que o próximo tem direito, sem dúvida, a certos bens fundamentais, como casa, comida, instrução, saúde, coisas que ninguém bem formado admite hoje em dia que sejam privilégio de minorias, como são no Brasil. Mas será que pensam que seu semelhante pobre teria direito a ler Dostoievski ou ouvir os quartetos de Beethoven? (...). Ora, o esforço para incluir o semelhante no mesmo elenco de bens que reivindicamos está na base da reflexão sobre os direitos humanos.” CANDIDO, Antonio. Vários escritos. 3ª ed. revista e ampliada. São Paulo: Duas Cidades, 1995.",
+   "enunciado": "Com base na leitura do texto, pode-se afirmar que Antonio Candido defende que o acesso a bens como a literatura e a música",
+   "alternativas": {
+    "a": "é privilégio de minorias, pois são bens que exigem reflexão.",
+    "b": "deve ser reivindicado como um direito, e não como um privilégio.",
+    "c": "vitimiza as pessoas que não têm acesso a bens fundamentais para viver.",
+    "d": "humaniza as minorias privilegiadas, incentivando-as a compartilhar seu conhecimento.",
+    "e": "é indispensável para quem luta pelos direitos humanos."
+   },
+   "resposta": "b",
+   "explicacao": "Antonio Candido parte da constatação de que casa, comida, instrução e saúde já são reconhecidos como direitos de todos, e pergunta se pensamos o mesmo de ler Dostoievski ou ouvir Beethoven. A tese que ele defende é que também esses bens devem ser reivindicados como direito, e não tolerados como privilégio de minorias. A alternativa A afirma justamente o que ele combate; C troca o argumento por uma constatação sobre vítimas; D inverte a direção, pois o texto não fala em minorias privilegiadas que compartilham; e E confunde o objeto: o acesso é o que se reivindica, não um requisito de quem luta."
   }
  ],
  "gramatica-coesao-semantica": [
@@ -20602,6 +20642,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A cena põe duas posições frente a frente. Paulo Honório rejeita o texto por artificial — “há lá ninguém que fale dessa forma!” — e defende a linguagem como ela se usa. Gondim sustenta que “um artista não pode escrever como fala”, separando literatura e conversa. O choque é entre o rebuscamento e a naturalidade da fala cotidiana, e é essa oposição que o fragmento encena. A alternativa (c) escolhe apenas um dos lados do debate, e o texto não conclui por ele; a (a) inverte a discussão, que não é sobre norma padrão, e sim sobre afetação."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "fuvest-literatura-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O SOBREVIVENTE Impossível compor um poema a essa altura da evolução [da humanidade. Impossível escrever um poema – uma linha que seja – de [verdadeira poesia. O último trovador morreu em 1914. Tinha um nome de que ninguém se lembra mais. Há máquinas terrivelmente complicadas para as [necessidades mais simples. Se quer fumar um charuto aperte um botão. Paletós abotoam-se por eletricidade. Amor se faz pelo sem-fio. Não precisa estômago para digestão. Um sábio declarou a O Jornal que ainda falta muito para atingirmos um nível razoável de cultura. Mas até lá, felizmente, estarei morto. Os homens não melhoraram e matam-se como percevejos. Os percevejos heroicos renascem. Inabitável o mundo é cada vez mais habitado. E se os olhos reaprendessem a chorar seria um segundo [dilúvio. (Desconfio que escrevi um poema.) Carlos Drummond de Andrade. Alguma Poesia, 1930.",
+   "enunciado": "Entre o primeiro e o último verso, há uma aparente contradição, que, todavia, não se sustenta porque",
+   "alternativas": {
+    "a": "os entraves à plenitude lírica são removidos.",
+    "b": "os trovadores ainda inspiram os enamorados.",
+    "c": "a sabedoria controla o poder das máquinas.",
+    "d": "os heróis sempre ressuscitam neste mundo.",
+    "e": "a poesia resiste à negatividade do seu tempo."
+   },
+   "resposta": "e",
+   "explicacao": "O poema abre declarando impossível compor um poema e fecha com \"(Desconfio que escrevi um poema.)\". A contradição só é aparente porque o próprio texto é a prova de que a poesia sobrevive ao mundo mecanizado e violento que ele denuncia — ela resiste à negatividade do seu tempo. Os entraves não são removidos, permanecem (A); os trovadores estão mortos e esquecidos (B); as máquinas não são controladas por sabedoria alguma (C); e os percevejos que renascem são a imagem irônica da violência que se repete, não de heróis (D)."
   }
  ],
  "literatura-teoria-analise": [
@@ -22459,6 +22519,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A questão pede o que sobra depois de descontar carta e receita — e o que sobra é o trabalho com a linguagem. O feijão espera “feliz, de molho”; o torresmo frita “desmilinguindo-se de gozo”; a couve vai a “fogo alegre e presto”. Personificação, escolha sonora, métrica e rima transformam o procedimento culinário em texto poético: é a função poética da linguagem operando sobre a mensagem. As alternativas (a) e (b) descrevem a carta, e as (c) e (e), a receita — justamente os dois gêneros que o enunciado já descartou."
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "fuvest-literatura-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Leia o texto a seguir: Uma vida inteira pela frente. O tiro veio por trás. Cíntia Moscovich, Os cem menores contos brasileiros do século (organização: Marcelino Freire).",
+   "enunciado": "Embora seja um texto composto por apenas duas linhas, é possível caracterizá-lo como uma narrativa. Nesse texto, essa caracterização deve-se ao fato de que ele apresenta",
+   "alternativas": {
+    "a": "adjetivação de tempos.",
+    "b": "diálogo entre narradores.",
+    "c": "referenciação de espaços.",
+    "d": "descrição de personagens.",
+    "e": "sequência de ações."
+   },
+   "resposta": "e",
+   "explicacao": "\"Uma vida inteira pela frente. O tiro veio por trás.\" São duas ações em sucessão, e é essa sequência — uma expectativa de futuro seguida do disparo que a encerra — que faz do fragmento uma narrativa, e não uma descrição. Adjetivação, referenciação de espaços e descrição de personagens são recursos descritivos, que sozinhos não narram; e não há diálogo algum entre narradores."
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "fuvest-literatura-10",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Texto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava- me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62.",
+   "enunciado": "Os trechos transcritos foram retirados dos livros dos moçambicanos Luís Bernardo Honwana e Paulina Chiziane. Em ambos, observa-se a ocorrência da palavra “machamba”. A respeito do uso desse termo, é correto afirmar:",
+   "alternativas": {
+    "a": "No texto I, machamba refere-se a um matagal, em sentido denotativo; no texto II, ao papel de esposa de Sarnau, em sentido conotativo.",
+    "b": "No texto I, machamba possui sentido literal, referindo-se às terras para cultivo; no texto II, o sentido é figurado, referindo-se ao útero de Sarnau.",
+    "c": "No texto I, machamba possui sentido figurado, referindo- se à colheita; no texto II, o sentido é literal, referindo-se a um problema.",
+    "d": "Em ambos os textos, machamba apresenta sentido literal e refere-se a um terreno agrícola de produção familiar.",
+    "e": "Em ambos os textos, machamba possui sentido figurado e refere-se às terras férteis ocupadas pelos portugueses."
+   },
+   "resposta": "b",
+   "explicacao": "No texto I, Maria está no meio da machamba quando o capataz a agarra: a palavra designa a roça, a terra de cultivo, em sentido literal. No texto II, Nguila diz que Sarnau \"parece ser uma machamba difícil\", que ele \"semeia e não vê resultado\" e que não está para \"lavrar sem colher\" — a lavoura é metáfora do corpo da mulher e de sua fertilidade. O sentido, portanto, é literal no primeiro e figurado no segundo, na ordem oposta à de C e diferente das leituras uniformes de D e E."
   }
  ],
  "literatura-contemporanea": [
@@ -23811,6 +23911,163 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A fragilidade do corpo é o cenário, não o assunto. O que o trecho constrói é o entendimento silencioso entre as duas: Marília sabe que a narradora quer levantar sozinha e apenas põe o andador ao lado; busca a manta velha sem que ninguém peça; aperta os ombros com força demais. O fecho dá a chave — a narradora reinterpreta o excesso como carinho, porque “naquela força está o nosso carinho”. É o afeto que anos de convívio moldaram, imperfeito e reconhecível. As alternativas (a), (c) e (e) ficam na superfície física da cena e perdem o que a torna lírica."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Tempo de nos aquilombar É tempo de caminhar em fingido silêncio, e buscar o momento certo no grito, aparentar fechar um olho evitando o cisco e abrir escancaradamente o outro. É tempo de fazer os ouvidos moucos para os vazios lero-leros, e cuidar dos passos assuntando as vias, ir se vigiando atento, que o buraco é fundo. É tempo de ninguém se soltar de ninguém, mas olhar fundo na palma aberta a alma de quem lhe oferece o gesto. O laçar de mãos não pode ser algemas, e sim acertada tática, necessário esquema. É tempo de formar novos quilombos, em qualquer lugar que estejamos e que venham dias futuros, salve 2020 A mística quilombola persiste afirmando: “a liberdade é uma luta constante”. Conceição Evaristo. Jornal O Globo, 31/12/2019.",
+   "enunciado": "O verso “É tempo de formar novos quilombos” é um exemplo de",
+   "alternativas": {
+    "a": "paradoxo, na medida em que propõe retomar o passado num contexto atual.",
+    "b": "metonímia, já que os quilombos fazem parte de um novo contexto cultural, sem relação com o passado.",
+    "c": "metáfora, representando uma união coletiva como forma de resistência social.",
+    "d": "antítese, ao relacionar a noção de tempo passado a uma nova configuração de futuro.",
+    "e": "hipérbole, apresentando o termo “quilombos” no plural para indicar o grau de difusão do movimento."
+   },
+   "resposta": "c",
+   "explicacao": "O quilombo histórico era o povoado de escravizados fugidos; no poema de Conceição Evaristo ele nomeia outra coisa — a união coletiva como forma de resistência hoje. Chamar uma realidade pelo nome de outra, com base na semelhança entre as duas, é metáfora. Não é metonímia, que exigiria relação de contiguidade (parte pelo todo, autor pela obra); não é antítese nem paradoxo, porque o verso não põe dois termos opostos lado a lado; e não é hipérbole, porque não há exagero, e sim transposição de sentido."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Tempo de nos aquilombar É tempo de caminhar em fingido silêncio, e buscar o momento certo no grito, aparentar fechar um olho evitando o cisco e abrir escancaradamente o outro. É tempo de fazer os ouvidos moucos para os vazios lero-leros, e cuidar dos passos assuntando as vias, ir se vigiando atento, que o buraco é fundo. É tempo de ninguém se soltar de ninguém, mas olhar fundo na palma aberta a alma de quem lhe oferece o gesto. O laçar de mãos não pode ser algemas, e sim acertada tática, necessário esquema. É tempo de formar novos quilombos, em qualquer lugar que estejamos e que venham dias futuros, salve 2020 A mística quilombola persiste afirmando: “a liberdade é uma luta constante”. Conceição Evaristo. Jornal O Globo, 31/12/2019.",
+   "enunciado": "Considerando o enfoque do texto na denúncia social, o eu lírico revela, predominantemente,",
+   "alternativas": {
+    "a": "a crítica às reações da nossa sociedade frente aos problemas que ficaram no passado.",
+    "b": "as justificativas para a segregação social no mundo contemporâneo.",
+    "c": "as tensões sociais presentes há tempos, sob a luz dos embates do momento atual.",
+    "d": "a importância de contornar os problemas sociais do passado.",
+    "e": "as peculiaridades das diferentes classes sociais ao enfrentar os problemas sociais atuais."
+   },
+   "resposta": "c",
+   "explicacao": "O eu lírico não trata os problemas como encerrados no passado: ele diz que \"é tempo\" de agir agora, e fecha citando Angela Davis sobre a liberdade como luta constante. Ou seja, lê tensões sociais antigas à luz dos embates do presente. A alternativa A inverte isso ao situar os problemas no passado; B e E deslocam o foco para justificativas e peculiaridades que o poema não apresenta; D fala em contornar, quando o poema convoca ao enfrentamento."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "enunciado": "Em Dois irmãos, de Milton Hatoum, os gêmeos Yaqub e Omar representam duas personalidades antagônicas que se enfrentam ao longo da narrativa. A rivalidade entre eles tem como resultado:",
+   "alternativas": {
+    "a": "A prosperidade econômica de ambos.",
+    "b": "A reconstrução dos laços entre eles.",
+    "c": "A ida de Nael a São Paulo para viver com Yaqub.",
+    "d": "A morte de Rânia, a irmã dos gêmeos.",
+    "e": "A desagregação e a ruína da família."
+   },
+   "resposta": "e",
+   "explicacao": "Em Dois irmãos, a rivalidade entre Yaqub e Omar corrói tudo à volta: Zana adoece e morre, Halim se apaga, a casa é vendida a Rochiram e a família se dispersa. O desfecho é a desagregação e a ruína, não a prosperidade (A) nem a reconciliação (B). Nael não vai a São Paulo com Yaqub (C), e Rânia sobrevive aos irmãos (D)."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "A partir da leitura de Dois irmãos, com o foco na questão da paternidade de Nael, narrador do romance, pode-se afirmar:",
+   "alternativas": {
+    "a": "Nenhum dos dois irmãos assumiu a paternidade de Nael, nem Nael os reconheceu como pais.",
+    "b": "Nael é filho de Rochiram, de quem ganha a casa no fundo do terreno para escrever suas memórias.",
+    "c": "Nael gostaria que Yaqub fosse seu pai, pelos projetos e visão de mundo que compartilhava com ele.",
+    "d": "A cena final do romance, na qual Omar e Nael se encontram, confirma a paternidade de Omar.",
+    "e": "Embora não quisesse ter tido filhos, Halim é o pai de Nael, Omar e Yaqub."
+   },
+   "resposta": "a",
+   "explicacao": "Nael narra o romance sem nunca resolver de quem é filho — a mãe, Domingas, não conta, e os gêmeos jamais o assumem; ele tampouco os reconhece como pais. É justamente essa indefinição que sustenta o ponto de vista do narrador, um agregado que observa a família de fora. Rochiram é o comprador da casa, não o pai (B); a preferência por Yaqub não é o que o texto sustenta (C); a cena final não confirma paternidade nenhuma (D); e Halim é pai dos gêmeos e de Rânia, não de Nael (E)."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Todos os dias que depois vieram, eram tempo de doer. Miguilim tinha sido arrancado de uma porção de coisas, e estava no mesmo lugar. Quando chegava o poder de chorar, era até bom – enquanto estava chorando, parecia que a alma toda se sacudia, misturando ao vivo todas as lembranças, as mais novas e as muito antigas. Mas, no mais das horas, ele estava cansado. Cansado e como que assustado. Sufocado. Ele não era ele mesmo. Diante dele, as pessoas, as coisas, perdiam o peso de ser. Os lugares, o Mutum – se esvaziavam, numa ligeireza, vagarosos. E Miguilim mesmo se achava diferente de todos. Ao vago, dava a mesma ideia de uma vez, em que, muito pequeno, tinha dormido de dia, fora de seu costume – quando acordou, sentiu o existir do mundo em hora estranha, e perguntou assustado: – ‘Uai, Mãe, hoje já é amanhã?!’” João Guimarães Rosa. Campo Geral.",
+   "enunciado": "Conforme sugere o trecho, o sofrimento perturba a noção que Miguilim tinha do tempo, porque",
+   "alternativas": {
+    "a": "a falta de acuidade visual não lhe permite distinguir as épocas.",
+    "b": "o desamor ao pai o faz romper com a infância cedo demais.",
+    "c": "o aprendizado da morte embaralha os planos da memória.",
+    "d": "a sensação de vazio o leva a se sentir seguro no presente.",
+    "e": "os dias vividos no Mutum mostram-se cada vez mais curtos."
+   },
+   "resposta": "c",
+   "explicacao": "O trecho vem depois da morte do pai e do irmão de Miguilim. É o contato com a morte que desarruma o tempo do menino: as lembranças \"as mais novas e as muito antigas\" se misturam num só plano, e ele revive a sensação de acordar fora de hora e perguntar se hoje já é amanhã. A miopia de Miguilim existe no livro, mas não é o que embaralha o tempo aqui (A); o texto não fala em desamor ao pai (B); a sensação de vazio o desampara, não o torna seguro (D); e os dias não encurtam, ao contrário, \"eram tempo de doer\" (E)."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "A respeito dos contos “Nós matamos o Cão Tinhoso!”, “Dina”, “Papá, cobra e eu” e “Nhinguitimo”, de Nós matamos o Cão Tinhoso!, é possível afirmar:",
+   "alternativas": {
+    "a": "Os narradores e os protagonistas são crianças.",
+    "b": "São narrados em primeira pessoa, por narradores- protagonistas.",
+    "c": "Os protagonistas são oprimidos socialmente, e a reação deles não é endereçada aos opressores.",
+    "d": "São fábulas, e os protagonistas são animais.",
+    "e": "O espaço representado é o das grandes cidades moçambicanas."
+   },
+   "resposta": "c",
+   "explicacao": "Nos quatro contos, quem sofre a opressão desconta em alvo mais fraco ou se cala: os meninos matam o cão em vez de enfrentar o administrador, Madala é humilhado e nada faz, o pai apanha diante do filho. A reação existe, mas nunca chega ao opressor. Nem todos os narradores e protagonistas são crianças, e \"Nhinguitimo\" tem narrador adulto (A e B); não são fábulas com animais como protagonistas (D); e o espaço é rural e suburbano, não o das grandes cidades (E)."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "“Mas quantas vezes a insônia é um dom. De repente acordar no meio da noite e ter essa coisa rara: solidão. Quase nenhum ruído. Só o das ondas do mar batendo na praia. E tomo café com gosto, toda sozinha no mundo. Ninguém me interrompe o nada. É um nada a um tempo vazio e rico. E o telefone mudo, sem aquele toque súbito que sobressalta. Depois vai amanhecendo. As nuvens se clareando sob um sol às vezes pálido como uma lua, às vezes de fogo puro. Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar. O mar é meu, o sol é meu, a terra é minha. E sinto-me feliz por nada, por tudo. Até que, como o sol subindo, a casa vai acordando e há o reencontro com meus filhos sonolentos.” Clarice Lispector. “Insônia infeliz e feliz”. In: A descoberta do mundo. Rio de Janeiro: Rocco, 1999.",
+   "enunciado": "Considerando as características do trecho apresentado, pode- se afirmar que ele pertence a uma crônica, pois",
+   "alternativas": {
+    "a": "representa uma história paralela ligada a uma história principal.",
+    "b": "há apenas um conflito que se resolve em pouco tempo.",
+    "c": "possui estrutura simples e apresenta um cunho pedagógico.",
+    "d": "é uma narrativa breve que comenta um evento do cotidiano.",
+    "e": "compõe uma crítica indireta a alguém ou a algum fato."
+   },
+   "resposta": "d",
+   "explicacao": "Clarice comenta um episódio miúdo do dia a dia — acordar de madrugada, tomar café sozinha, ver o mar clarear — num texto curto, em primeira pessoa e de tom subjetivo. É a definição da crônica: narrativa breve que parte de um evento cotidiano. História paralela à principal descreve o entrecho de um romance (A); conflito único e resolvido rápido, o conto (B); estrutura simples com cunho pedagógico, a fábula (C); crítica indireta a alguém, a sátira (E)."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-11",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Texto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava- me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62.",
+   "enunciado": "Nos excertos, os escritores moçambicanos descrevem, cada um em seu contexto, cenas de violência. Sobre elas, é correto afirmar:",
+   "alternativas": {
+    "a": "Luís Bernardo Honwana descreve uma cena de violência psicológica velada do capataz contra a mulher, sem que ela perceba a agressão sofrida.",
+    "b": "Luís Bernardo Honwana expõe a violência social de que a mulher é vítima ao relatar uma discussão acalorada que ela trava com o capataz.",
+    "c": "Luís Bernardo Honwana narra uma luta física entre o capataz e a mulher, a qual tenta resistir à agressão sofrida, mas acaba por consentir com a relação.",
+    "d": "Paulina Chiziane apresenta elementos narrativos que permitem identificar a agressão psicológica e física praticada, pelo marido, contra a mulher.",
+    "e": "Paulina Chiziane associa a violência contra a mulher a um processo educativo que visa zelar pela estabilidade da relação conjugal e pela felicidade do casal."
+   },
+   "resposta": "d",
+   "explicacao": "Em Chiziane, o marido admite a bofetada e a chama de \"disciplina\", cobre a mulher de elogios e a pressiona pela falta de filhos: há agressão física e psicológica no mesmo trecho. Em Honwana, a violência é física e sexual e Maria a percebe e resiste — ela esbraceja e tenta libertar as pernas —, o que derruba as leituras de A (violência velada e não percebida), B (uma discussão) e C (consentimento). E inverte o sentido do texto II ao apresentar a agressão como zelo pelo casal."
   }
  ],
  "ingles-inference": [
@@ -27016,6 +27273,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "“Instead of” marca substituição: troca-se uma coisa pela outra. A canção coloca de um lado o que se faz hoje — polir as bombas da guerra santa, odiar, temer, erguer muros — e do outro o que se deveria fazer: amar alguém, importar-se um pouco mais. O marcador é o pivô entre os dois, e o que ele propõe é justamente abandonar uma conduta e adotar outra: mudança de comportamento. As alternativas (b), (d) e (e) descrevem o cenário que a canção quer superar, não a ideia que o conector introduz."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "fuvest-ingles-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "The main players in the Spanish–Aztec War (1519–21) are well known: Hernán Cortés and Montezuma. Lesser-known, though no less important, is a multilingual exiled Aztec woman who was enslaved, then served as a guide and interpreter, then became Cortés’s mistress. She was known as Doña Marina, and as La Malinche. Scholar and researcher Cordelia Candelaria writes: her paramount value to the Spaniards was not merely linguistic. She was an interpreter/liaison who served as a guide to the region, as an advisor on native customs and beliefs, and as a strategist. La Malinche was the daughter of an Aztec cacique (chief). This gave her an unusual level of education, which she would later leverage as a guide and interpreter for the Spanish. Throughout Cortés’s travels, she became indispensable as a translator, not only capable of functionally translating from one language to the other, but of speaking compellingly, strategizing, and forging political connections. Integral as she was to Spain’s success, La Malinche is a controversial figure. Candelaria quotes T. R. Fehrenbach as saying, “If there is one villainess in Mexican history, she is La Malinche. She was to become the ethnic traitress supreme.” But Candelaria argues that La Malinche’s act of turning her back on her own people makes more psychological sense when we consider that, at a young age, she had been sold by her own mother into slavery. Candelaria asks, “What else could this outcast from the Aztecs, ‘her own people,’ have done?” Disponível em https://daily.jstor.org/. Adaptado.",
+   "enunciado": "Segundo o texto, em relação à imagem de La Malinche como traidora do povo Asteca, a pesquisadora Cordelia Candelaria argumenta que a intérprete",
+   "alternativas": {
+    "a": "havia sido preterida no seio da própria família.",
+    "b": "fez uso de idiomas em proveito próprio.",
+    "c": "era invejada pelos privilégios alcançados.",
+    "d": "ignorou as vulnerabilidades do povo mexicano.",
+    "e": "tentou se sobrepor aos líderes da época."
+   },
+   "resposta": "a",
+   "explicacao": "Candelaria não nega que La Malinche tenha servido aos espanhóis; ela argumenta que a traição faz mais sentido psicológico quando se lembra que, ainda jovem, ela \"had been sold by her own mother into slavery\" — foi vendida como escrava pela própria mãe — e pergunta o que mais poderia fazer alguém rejeitada pelos seus. O argumento é o da preterição dentro da própria família. O texto descreve o uso dos idiomas como serviço aos espanhóis, não como proveito próprio (B); e não fala em inveja (C), em vulnerabilidades ignoradas (D) nem em disputa com os líderes (E)."
   }
  ],
  "ingles-grammar-structure": [
@@ -31994,6 +32271,66 @@ window.QUESTION_BANKS = {
    "explicacao": "O texto enuncia uma crença corrente (\"students are told\"), declara que ela é falsa e explica por que ela sobrevive: é estrutura de refutação, não de descrição. A alternativa (e) exagera a tese — o autor mostra que a memória sustenta o raciocínio clínico, o que está longe de proclamá-la método único de ensino.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Vincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is “immersive”, the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of “immersive” retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn’t do much in the way of sensory stimulation. My favourite element of an “immersive” show I have been to was their faithful recreation of Van Gogh’s bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don’t even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation “immersive experiences” have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces. Disponível em https://www.vice.com/en/article/. Adaptado.",
+   "enunciado": "De acordo com o texto, muitos visitantes das exposições de arte imersivas demonstram",
+   "alternativas": {
+    "a": "fascínio pelas novidades tecnológicas utilizadas pelos curadores.",
+    "b": "desconforto causado pelo excesso de estímulos sensoriais.",
+    "c": "curiosidade sobre a biografia dos pintores e os movimentos artísticos.",
+    "d": "apreciação pelas informações oferecidas por guias e educadores.",
+    "e": "indiferença diante das simulações das obras de arte."
+   },
+   "resposta": "e",
+   "explicacao": "O penúltimo parágrafo diz que as instalações são por vezes tão banais e rasas que os visitantes \"have often walked through installations entirely oblivious to whatever is happening around them\" — atravessam a exposição sem se dar conta do que acontece à volta. Isso é indiferença diante das simulações. O texto atribui fascínio pela novidade aos organizadores, não ao público (A); o desconforto que menciona é o dos assentos, não excesso de estímulo (B); e nada diz sobre curiosidade biográfica (C) nem sobre guias e educadores (D)."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Vincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is “immersive”, the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of “immersive” retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn’t do much in the way of sensory stimulation. My favourite element of an “immersive” show I have been to was their faithful recreation of Van Gogh’s bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don’t even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation “immersive experiences” have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces. Disponível em https://www.vice.com/en/article/. Adaptado.",
+   "enunciado": "O texto apresenta uma crítica às exposições de arte imersivas que está relacionada com",
+   "alternativas": {
+    "a": "a manipulação digital das imagens exibidas pelos usuários do TikTok.",
+    "b": "o emprego das obras de arte para fins publicitários ilícitos.",
+    "c": "a cobrança pelo uso de equipamentos para simular a experiência de imersão nas obras.",
+    "d": "a falta de informação para o público leigo nos catálogos das exibições.",
+    "e": "o investimento necessário para a criação da tecnologia usada nas instalações."
+   },
+   "resposta": "c",
+   "explicacao": "O autor conta que muitas exposições não incluem os óculos de realidade virtual no ingresso comum, e que por duas vezes sua volta à realidade foi acompanhada de \"an usher brandishing a credit card machine\" — um funcionário com a maquininha de cartão. A crítica recai sobre a cobrança à parte pelo equipamento que produz a imersão. O texto não trata de manipulação digital por usuários do TikTok (A), de uso publicitário ilícito (B), de catálogos (D) nem do custo de desenvolver a tecnologia (E)."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Over the last two decades, technology companies and policymakers warned of a “digital divide” in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level. A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion- dollar enterprise offering new opportunities — at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching. “What’s happened as sports has become privatized is that it has become the haves and have-nots,” said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. “Particularly for low-income kids, if they don’t have access to sports within the school setting, where are they going to get their physical activity?” Mr. Solomon said. “The answer is nowhere.” The New York Times. 24 March 2023. Adaptado.",
+   "enunciado": "Conforme o texto, um dos motivos para a disparidade relativa à prática de atividades físicas por alunos, segundo o nível de renda, reside",
+   "alternativas": {
+    "a": "no abismo persistente entre as notas de estudantes ricos e pobres.",
+    "b": "no corte de gastos e mudanças de prioridades em algumas escolas públicas.",
+    "c": "na preferência por jogadores com potencial superior para competição.",
+    "d": "na redução de bolsas de estudos para adolescentes de famílias abaixo da linha de pobreza.",
+    "e": "na realização de campeonatos contemplados com doações de ONGs."
+   },
+   "resposta": "b",
+   "explicacao": "O terceiro parágrafo enumera as causas e abre com ela: \"Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports\" — cortes de gasto e mudança de prioridades em algumas escolas públicas reduziram a educação física e os esportes organizados. As demais alternativas trazem fatores que o texto não menciona: notas escolares, seleção por talento, bolsas de estudo e campeonatos com doações de ONGs."
   }
  ],
  "ingles-vocabulary": [
@@ -33139,6 +33476,26 @@ window.QUESTION_BANKS = {
    "explicacao": "O termo \"shed light on\" descreve o efeito de um único dente sobre o conhecimento de uma população quase sem vestígios, detalhado nas frases seguintes sobre o DNA. Ele equivale a \"esclarecer\", \"lançar luz sobre\" — o oposto de esconder ou destruir.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "fuvest-ingles-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Over the last two decades, technology companies and policymakers warned of a “digital divide” in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level. A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion- dollar enterprise offering new opportunities — at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching. “What’s happened as sports has become privatized is that it has become the haves and have-nots,” said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. “Particularly for low-income kids, if they don’t have access to sports within the school setting, where are they going to get their physical activity?” Mr. Solomon said. “The answer is nowhere.” The New York Times. 24 March 2023. Adaptado.",
+   "enunciado": "Considerado o contexto, o termo “far”, na expressão “far less” (2º parágrafo), expressa",
+   "alternativas": {
+    "a": "temporalidade.",
+    "b": "distância.",
+    "c": "antecipação.",
+    "d": "intensidade.",
+    "e": "progresso."
+   },
+   "resposta": "d",
+   "explicacao": "Em \"poor children and adolescents are participating far less in sports\", \"far\" não localiza nada no espaço nem no tempo: é um intensificador que reforça o comparativo \"less\", como em \"far better\" ou \"far more\". Equivale a \"muito menos\". O sentido de distância (B) é o literal da palavra, mas não o que ela tem diante de um comparativo; temporalidade, antecipação e progresso não cabem na construção."
   }
  ],
  "matematica-geometria": [
@@ -36622,6 +36979,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Escala é razão entre comprimentos; para áreas, a razão é o quadrado dela — 1 : 200 em comprimento vira 1 : 40 000 em área. Convertendo primeiro a unidade: 1 672 m² = 1 672 × 10 000 = 16 720 000 cm². Dividindo por 40 000, chega-se a 418 cm². O erro que a questão persegue é dividir a área por 200 em vez de por 200², o que levaria a um valor 200 vezes maior; as alternativas menores vêm de conversões incompletas entre metro e centímetro quadrado."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O reservatório de um caminhão-pipa tem a forma de um cilindro circular reto com eixo horizontal e dimensões internas de 6 metros de comprimento e 2 metros de diâmetro. Uma escola contratou o serviço do caminhão-pipa para abastecer sua caixa d’água. Após o abastecimento, o motorista percebeu que o reservatório do caminhão estava cheio até 3/4 de sua altura, conforme ilustrado na figura.",
+   "enunciado": "Qual foi o volume, em metros cúbicos, de água utilizada para abastecer a caixa d’água da escola, sabendo que o reservatório do caminhão estava cheio antes do abastecimento?",
+   "alternativas": {
+    "a": "(2π − √3/4) m³",
+    "b": "(2π − 3√3/2) m³",
+    "c": "(2π + 3√3/2) m³",
+    "d": "(4π + √3/4) m³",
+    "e": "(4π + 3√3/2) m³"
+   },
+   "resposta": "b",
+   "explicacao": "O tanque é um cilindro deitado de raio 1 m e comprimento 6 m, e o que saiu para a caixa d’água é o volume que faltou para completá-lo: a parte acima da altura 3/4, ou seja, acima de 0,25 m do topo. Na secção circular, essa parte é o segmento circular de altura 0,5 m acima do centro. O ângulo central vale 2·arccos(0,5) = 2π/3, e a área do segmento é (r²/2)(θ − sen θ) = (1/2)(2π/3 − √3/2) = π/3 − √3/4. Multiplicando pelos 6 m de comprimento: 6(π/3 − √3/4) = 2π − 3√3/2 m³, aproximadamente 3,7 m³. As alternativas com sinal de mais dariam volume maior que o do cilindro inteiro, que é 6π."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma empresa de alimentos utiliza embalagens, no formato de paralelepípedo reto-retângulo, de dimensões 2 cm × 3 cm × 11 cm, para armazenar biscoitos. Para o transporte desse produto, são utilizadas caixas para acondicionar essas embalagens, também no formato de paralelepípedo reto-retângulo, de dimensões 12 cm × 13 cm × 26 cm.",
+   "enunciado": "Determine o número máximo de embalagens que podem ser acondicionadas em cada caixa fechada para transporte, sem que o produto seja danificado.",
+   "alternativas": {
+    "a": "48",
+    "b": "52",
+    "c": "56",
+    "d": "60",
+    "e": "61"
+   },
+   "resposta": "d",
+   "explicacao": "O volume da caixa é 12 × 13 × 26 = 4056 cm³ e o da embalagem, 2 × 3 × 11 = 66 cm³, o que põe o teto em 61 — mas esse teto só se alcançaria sem sobra alguma, e 11 não divide nenhuma aresta da caixa. Um arranjo que chega a 60 divide a caixa em duas partes ao longo da aresta de 26: um bloco de 12 × 13 × 22, com a aresta de 11 na vertical em duas camadas, e uma laje de 12 × 13 × 4. Na secção 12 × 13, os retângulos 2 × 3 cabem sem folga, porque 13 = 3 + 3 + 3 + 2 + 2: as três faixas de 12 × 3 levam 6 peças cada e as duas de 12 × 2 levam 4 cada, somando 26 por camada, ou 52 nas duas. Na laje de 4 cm, entram duas camadas de 2 cm com as faces 3 × 11 deitadas, 4 embalagens em cada, mais 8. Total 60, e o 61 do cálculo de volume fica inatingível."
   }
  ],
  "matematica-financeira": [
@@ -40442,6 +40839,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Por cento significa dividido por cem: 135,25% = 135,25/100 = 1,3525. Na prática, basta deslocar a vírgula duas casas para a esquerda. A alternativa (b) apenas repete o número sem converter, e a (e) desloca três casas — erro de quem confunde a divisão por 100 com divisão por 1 000. Note que o resultado é maior que 1, coerente com um crescimento superior a 100%: a população mais que dobrou."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "fuvest-matematica-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma empresa farmacêutica produz certo medicamento, formado por quatro componentes, conforme a tabela I, que também traz o custo do grama de cada um deles.\n\nTabela I — Composição do medicamento\nComponente A: 200 mg, R$ 700,00/g\nComponente B: 70 mg, R$ 500,00/g\nComponente C: 130 mg, R$ 300,00/g\nComponente D: 100 mg, R$ 120,00/g\n\nPara a produção do próximo lote, a empresa terá um gasto diferente, pois os custos de alguns componentes sofreram alterações, conforme a tabela II.\n\nTabela II — Variação no custo\nComponente A: + 7%\nComponente B: − 5%\nComponente C: 0%\nComponente D: + 10%",
+   "enunciado": "Qual é o aumento, em reais, no custo do medicamento?",
+   "alternativas": {
+    "a": "9,25",
+    "b": "12,00",
+    "c": "12,75",
+    "d": "36,00",
+    "e": "86,00"
+   },
+   "resposta": "a",
+   "explicacao": "Cada componente custa a massa em gramas vezes o preço por grama. A: 0,200 g × 700 = R$ 140,00; B: 0,070 × 500 = R$ 35,00; C: 0,130 × 300 = R$ 39,00; D: 0,100 × 120 = R$ 12,00. O aumento é a soma das variações: A sobe 7% de 140, ou R$ 9,80; B cai 5% de 35, ou −R$ 1,75; C não muda; D sobe 10% de 12, ou R$ 1,20. Total: 9,80 − 1,75 + 1,20 = R$ 9,25. O valor 12,00 sai de esquecer a queda de B e a alta de D; e 86,00 é o que se obteria aplicando os percentuais sobre os preços por grama, sem converter miligrama em grama."
   }
  ],
  "matematica-algebra": [
@@ -46567,6 +46984,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A senha tem duas partes independentes, e o princípio multiplicativo junta as duas no fim. Os algarismos: há 5 teclas disponíveis (1, 2, 5, 7 e 0) e eles devem ser distintos, logo 5 × 4 = 20 pares ordenados. As letras: as teclas 2, 5 e 7 oferecem 3 + 3 + 4 = 10 letras, e escolher 3 diferentes em ordem dá 10 × 9 × 8 = 720. Multiplicando, 20 × 720 = 14 400. A alternativa (c) resulta de permitir algarismos repetidos (25 × 720), e as maiores vêm de contar letras repetidas."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "fuvest-matematica-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Os conceitos de moda, mediana, média e amplitude definem medidas utilizadas para estudar um conjunto de informações numéricas. Por exemplo, na lista de 5 números (2, 2, 4, 8, 14), temos que a moda é igual a 2, a mediana é igual a 4, a média é igual 6 e a amplitude é igual a 12.",
+   "enunciado": "Assinale a alternativa que representa a quantidade de listas de 5 números inteiros positivos que cumprem a condição: moda = mediana = média = amplitude = 23.",
+   "alternativas": {
+    "a": "8",
+    "b": "9",
+    "c": "11",
+    "d": "22",
+    "e": "44"
+   },
+   "resposta": "a",
+   "explicacao": "Ordenando a lista como a₁ ≤ a₂ ≤ a₃ ≤ a₄ ≤ a₅, cada condição fixa uma coisa: mediana 23 dá a₃ = 23; amplitude 23 dá a₅ = a₁ + 23; média 23 dá soma 115, o que, substituído, deixa 2a₁ + a₂ + a₄ = 69. A moda é a condição decisiva: para 23 ser moda ele precisa repetir, e como a₁ e a₅ diferem entre si em 23, a repetição só pode vir de a₂ = 23 ou a₄ = 23. Se a₂ = 23, então a₄ = 46 − 2a₁, e as desigualdades a₁ ≤ 23 ≤ a₄ ≤ a₁ + 23 restringem a₁ a 8, 9, 10 e 11. Se a₄ = 23, então a₂ = 46 − 2a₁, e as mesmas desigualdades restringem a₁ a 12, 13, 14 e 15. Os dois casos não se sobrepõem, porque teriam de valer a₁ = 11,5. São quatro listas de cada lado, oito ao todo — por exemplo (8, 23, 23, 30, 31) e (15, 16, 23, 23, 38). Contagens maiores admitem listas de valores todos distintos, que não têm moda alguma."
   }
  ],
  "matematica-sequencias": [
@@ -47831,6 +48268,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Cada etapa duplica o que já estava no visor, então a quantidade de figuras é uma progressão geométrica de razão 2 começando em 3. Na 1ª etapa há 3 figuras; na 2ª, 6; na 3ª, 12. O termo geral é 3 × 2^(n−1), e para n = 20 isso dá 3 × 2^19. A alternativa (b) é o erro mais frequente: usar o expoente 20 esquecendo que a primeira etapa não envolveu duplicação alguma — ela apenas criou as três figuras iniciais."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "fuvest-matematica-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Uma Árvore Pitagórica é uma figura plana construída por etapas. Na Etapa 1, ela começa com um quadrado de lado 1 cm. Na Etapa 2, constroem-se dois quadrados acima do quadrado da Etapa 1, de tal forma que a medida de seus lados seja igual à medida dos catetos do triângulo retângulo isósceles que possui hipotenusa igual ao lado do quadrado da Etapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos quadrados obtidos, e assim por diante.",
+   "enunciado": "A partir de qual etapa da construção o lado de cada um dos novos quadrados obtidos fica, pela primeira vez, menor do que 1 décimo de milésimo do lado do quadrado da Etapa 1?",
+   "alternativas": {
+    "a": "26",
+    "b": "27",
+    "c": "28",
+    "d": "29",
+    "e": "30"
+   },
+   "resposta": "c",
+   "explicacao": "Num triângulo retângulo isósceles de hipotenusa L, cada cateto mede L/√2. Então o lado encolhe por um fator 1/√2 a cada etapa, e na etapa n vale (1/√2)^(n−1). A condição é (1/√2)^(n−1) < 10⁻⁴, ou seja (n−1)·log√2 > 4. Como log√2 = (log 2)/2 = 0,15, vem n − 1 > 4 ÷ 0,15 = 26,67, isto é, n > 27,67. O primeiro inteiro que satisfaz é 28. As alternativas 26 e 27 param antes de o produto passar de 4, e 29 e 30 já ultrapassaram — a pergunta é pela primeira etapa em que a condição vale."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "fuvest-matematica-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Números figurados são números que expressam o total de pontos em certas configurações geométricas. Os números triangulares são os que podem ser representados na forma de um triângulo — 1, 3, 6, 10 e assim por diante —, e o número 1, embora não represente um triângulo, é considerado triangular. Os números oblongos representam o total de pontos de um quadro retangular em que o número de colunas é uma unidade a mais do que o número de linhas — 2, 6, 12, 20 e assim por diante —, e o número 2, embora não represente um quadro retangular, é considerado oblongo.",
+   "enunciado": "A respeito de números triangulares e números oblongos, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "162 é o 15º número triangular.",
+    "b": "O 13º número triangular é primo e o 30º número oblongo é ímpar.",
+    "c": "156 não é um número oblongo, nem triangular.",
+    "d": "210 é um número triangular e oblongo.",
+    "e": "A diferença entre dois números triangulares consecutivos são termos de uma progressão geométrica."
+   },
+   "resposta": "d",
+   "explicacao": "O n-ésimo triangular é n(n+1)/2 e o n-ésimo oblongo é n(n+1) — o oblongo é o dobro do triangular de mesma ordem. Para 210: 20 × 21 ÷ 2 = 210, logo é o 20º triangular; e 14 × 15 = 210, logo é o 14º oblongo. A alternativa A erra porque o 15º triangular é 15 × 16 ÷ 2 = 120, não 162; B erra duas vezes, pois o 13º triangular é 91 = 7 × 13, que não é primo, e todo oblongo n(n+1) é produto de dois inteiros consecutivos e portanto par; C erra porque 156 = 12 × 13 é oblongo; e E erra porque a diferença entre triangulares consecutivos é n+1, que forma progressão aritmética, não geométrica."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -53180,6 +53657,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O segundo texto é explícito quanto ao alcance social do regatão: seu comércio se apoiava em relações com quilombolas, pequenos produtores, comerciantes locais e indígenas. O barco que sobe e desce os rios não leva só mercadoria — leva notícia, contato e vínculo entre povoados isolados, tecendo redes de sociabilidade onde não havia estrada. As demais alternativas atribuem ao regatão funções de fuga, emprego, saúde ou lazer que nenhum dos dois textos menciona."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "fuvest-historia-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Na coluna do ativo como na do passivo, seria difícil exagerar o papel do açúcar na história do Brasil colonial. Se ele foi o produto que proporcionou a base inicial solidamente econômica para o esforço do colonizador, foi também o que plasmou o regime de propriedade latifundiária, instalou a escravidão africana na América portuguesa e, no seu exclusivismo, inibiu o desenvolvimento da policultura (...), embora estimulando, em áreas apartadas, a pecuária e a lavoura de subsistência. (...) Ele desenvolveu um estilo de vida que marcou a existência de todas as camadas da população que integrou, reservando, contudo, seus privilégios a uns poucos.” MELLO, Evaldo Cabral de. Um imenso Portugal: História e historiografia. São Paulo: Ed. 34, 2002. p.110.",
+   "enunciado": "O texto indica que, no Nordeste açucareiro dos séculos XVI e XVII,",
+   "alternativas": {
+    "a": "a mão de obra de escravizados de origem africana e indígena era empregada nos canaviais, na pecuária e na lavoura de subsistência.",
+    "b": "a distribuição de terras baseava-se na concessão, pela Coroa portuguesa, de privilégios e pequenos lotes a donatários.",
+    "c": "os privilégios concentravam-se nas mãos dos senhores de engenho, em detrimento da população escravizada ou livre e pobre.",
+    "d": "o desenvolvimento de relações socioeconômicas fundadas na horizontalidade recebia estímulos governamentais.",
+    "e": "o modo de produção feudal prevaleceu na exploração agrícola pela metrópole."
+   },
+   "resposta": "c",
+   "explicacao": "Evaldo Cabral de Mello diz que o açúcar plasmou o latifúndio, instalou a escravidão africana e desenvolveu um estilo de vida que marcou todas as camadas da população \"reservando, contudo, seus privilégios a uns poucos\". Esses poucos são os senhores de engenho, e é dessa concentração que o texto trata. A alternativa A inverte o argumento do exclusivismo, já que a pecuária e a subsistência eram justamente as atividades apartadas; B fala em pequenos lotes, quando as sesmarias eram vastas; D atribui horizontalidade a uma sociedade que o texto descreve como desigual; e E chama de feudal um sistema escravista voltado ao mercado externo."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "fuvest-historia-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Para praticar a agricultura, os tupis derrubavam árvores e faziam a queimada – técnica que iria ser incorporada pelos colonizadores. Plantavam feijão, milho, abóbora e principalmente mandioca, cuja farinha se tornou também um alimento básico da Colônia. A economia era basicamente de subsistência e destinada ao consumo próprio. Cada aldeia produzia para satisfazer a suas necessidades, havendo poucas trocas de gêneros alimentícios com outras aldeias. Mas existiam contatos entre elas para a troca de mulheres e de bens de luxo, como penas de tucano e pedras para se fazer botoque. Dos contatos resultavam alianças em que grupos de aldeias se posicionavam uns contra os outros. A guerra e a captura de inimigos – mortos em meio à celebração de um ritual canibalístico – eram elementos integrantes da sociedade tupi. Dessas atividades, reservadas aos homens, dependiam a obtenção de prestígio e a renovação das mulheres.” FAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2006. p.40.",
+   "enunciado": "De acordo com o texto, é correto afirmar que, no período colonial brasileiro, as sociedades pertencentes ao tronco linguístico Tupi",
+   "alternativas": {
+    "a": "praticavam o canibalismo devido à escassez de alimentos nas regiões em que viviam.",
+    "b": "desenvolviam uma cultura agrícola de subsistência que não abolia a existência de sistemas de troca.",
+    "c": "cultivavam produtos agrícolas que deixaram de ser consumidos após a chegada dos colonizadores.",
+    "d": "organizavam-se em unidades políticas autônomas, que evitavam contatos comerciais entre si.",
+    "e": "realizavam rituais em que homens e mulheres desempenhavam funções idênticas."
+   },
+   "resposta": "b",
+   "explicacao": "Boris Fausto diz que a economia tupi era de subsistência e que havia poucas trocas de gêneros alimentícios entre aldeias — mas acrescenta que existiam contatos para troca de mulheres e de bens de luxo, como penas de tucano e pedras de botoque. Subsistência, portanto, sem abolir os sistemas de troca. O texto trata o canibalismo como ritual ligado à guerra e ao prestígio, não à fome (A); a mandioca e o milho continuaram a ser consumidos e viraram base alimentar da Colônia (C); as aldeias mantinham contatos e alianças (D); e a guerra e a captura são explicitamente reservadas aos homens (E)."
   }
  ],
  "historia-brasil-republica": [
@@ -55082,6 +55599,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A Constituição de 1988 reconheceu no artigo 68 do ADCT o direito das comunidades remanescentes de quilombos à titulação definitiva de suas terras, e no artigo 216 tratou seus bens como patrimônio cultural brasileiro. Trata-se de reparação histórica: grupos antes ignorados pelo Estado passam a ter direitos territoriais e culturais assegurados — políticas de inserção social. A alternativa (e) descreve o oposto do que a Constituição fez, já que ela garantiu educação diferenciada, e a (b) contradiz a própria liberdade religiosa que o texto constitucional assegura."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "fuvest-historia-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Industrializar é uma condição de vida, é uma absoluta e imperiosa necessidade, é mesmo um dever de que já não está ao nosso alcance declinar. Nem que o quiséssemos, não poderíamos sobreviver conservando-nos nação pastoril e agrícola, no velho estilo, exportando café e umas poucas matérias-primas [...] Industrializar um país não é uma obra mágica que possa ser feita sem preparo, ao simples sopro de uma aspiração. É necessário que exista uma mentalidade industrial, um estado de espírito propício ao desenvolvimento, é necessário que existam gerações preparadas para a ação.” OLIVEIRA, Juscelino Kubitschek de. Industrialização: batalha pela própria sobrevivência da nacionalidade. São Paulo: Serviço de Publicações da Federação e Centro das Indústrias do Estado de S. Paulo, 1957. p.9-10.",
+   "enunciado": "A “mentalidade industrial”, proposta pelo então presidente Juscelino Kubitschek, concretiza-se em seu governo (1956- 1961) sob a forma",
+   "alternativas": {
+    "a": "de grandes investimentos na educação básica e na fundação de centros de pesquisa.",
+    "b": "de incentivos à diversificação e mecanização da produção agrícola.",
+    "c": "da implantação de formas racionais de organização do trabalho.",
+    "d": "da ação governamental embasada em concepção nacionalista e trabalhista.",
+    "e": "de um projeto desenvolvimentista amparado por incentivos e captação de recursos estrangeiros."
+   },
+   "resposta": "e",
+   "explicacao": "A mentalidade industrial de Juscelino virou Plano de Metas: energia, transporte, indústria de base e automobilística, financiados por capital estrangeiro atraído com incentivos cambiais e pela Instrução 113 da SUMOC. É o desenvolvimentismo amparado em recursos externos. Investimento maciço em educação básica não caracterizou o governo (A); a diversificação agrícola não foi o eixo (B); a racionalização do trabalho remete ao taylorismo do período Vargas (C); e a matriz nacionalista e trabalhista é a de Vargas, de quem JK se afastou justamente ao abrir a economia ao capital estrangeiro (D)."
   }
  ],
  "historia-geral-contemporanea": [
@@ -57925,6 +58462,86 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "As Madres de Plaza de Mayo circulavam diante da Casa Rosada exigindo notícias dos filhos desaparecidos durante a ditadura militar argentina (1976-1983). O texto diz que elas “escancararam as entranhas da repressão” e desafiaram o aparato militar: o que denunciaram foram sequestros, tortura e desaparecimentos forçados — violação de direitos humanos, e essa denúncia atravessou a fronteira. As demais alternativas tratam de problemas sociais reais, mas nenhum deles é o que as Madres expuseram."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "fuvest-historia-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“O lugar do ensino superior agora tem as portas abertas. A (...) Constituição é que impõe essa situação por decreto. Mas (...) este não pode garantir que todos tenham a tal ‘capacidade’ que lhes vai permitir o aproveitamento dessa educação. Há rapazes – até agora são poucas as moças com a força de vontade que Jabu, ainda menina, tinha para dar e vender – que recebem bolsas ou auxílios de algum tipo (...). As ‘aulas de reforço’ (...): um band-aid. Steve sabe que isso não é uma solução para o abismo da educação ruim do fundo do qual os alunos tentam emergir. A Luta não terminou. – (...) Eu tenho alunos de estudos africanos que não sabem escrever (...). – Então o que é que nós devíamos estar fazendo? (...) O professor Nielson ainda usa terno (...), embora o padrão da indumentária tenha relaxado a partir do exemplo dado pelas túnicas de Mandela. (...) – Você não está propondo que a gente baixe ainda mais os critérios de admissão à universidade. Então a universidade é pra avançar no conhecimento ou é pra andar pra trás? O que Steve está perguntando é se esse ensino adicional de faz de conta na esperança de elevar os alunos a um nível universitário pode compensar dez anos de educação primária e secundária de péssimo nível.” GORDIMER, Nadine. O melhor tempo é o tempo presente. São Paulo: Companhia das Letras, 2014. p.82-83.",
+   "enunciado": "No excerto do romance da escritora sul-africana Nadine Gordimer, é possível identificar:",
+   "alternativas": {
+    "a": "o regime de apartheid em vigor na África do Sul na época em que o romance se passa, que mantinha alunos e professores negros fora da universidade.",
+    "b": "a segregação formal das mulheres no acesso à educação, conforme estabelecido pela Constituição promulgada no pós-apartheid.",
+    "c": "as eficazes estratégias de apoio aos estudantes pobres para assegurar a boa qualidade da educação básica e superior na época do apartheid.",
+    "d": "as incertezas sobre as estratégias adotadas para enfrentar desigualdades sociais e educacionais legadas pelo regime do apartheid na África do Sul.",
+    "e": "o reconhecimento consensual do sucesso do projeto de inclusão educacional no cenário sul-africano pós- apartheid."
+   },
+   "resposta": "d",
+   "explicacao": "O romance se passa na África do Sul do pós-apartheid: a universidade está aberta por decreto constitucional, mas os alunos chegam depois de dez anos de escola básica ruim, e Steve e Nielson discutem sem chegar a acordo se as aulas de reforço resolvem ou se seria preciso baixar critérios. O que o trecho registra são as incertezas quanto às estratégias para enfrentar a desigualdade herdada. A alternativa A situa a cena durante o apartheid, quando as portas estavam fechadas; B inventa uma segregação formal de mulheres na Constituição; C chama de eficazes as estratégias que o texto trata como band-aid; e E fala em consenso onde há desacordo explícito."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "fuvest-historia-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Em uma onda sem precedentes de medo, confusão e pânico, hoje quase 13 milhões de ações mudaram de mãos na Bolsa de Valores de Nova York. Corretores atordoados atravessaram um mar de papel segurando ordens de investidores assustados para ‘vender a qualquer preço’.” “Wall Street cai”. The Guardian (Londres), 24/10/1929, p.1. “O mercado esteve ontem numa situação de verdadeiro pânico. Em São Paulo pedem-se a moratória e a emissão de papel-moeda. O presidente da República receberá hoje uma comissão do comércio de Santos.” “A crise do café”. Correio da Manhã (Rio de Janeiro), 29/10/1929, p.1.",
+   "enunciado": "Os excertos, extraídos de matérias jornalísticas publicadas à época, relatam reações ante a Crise de 1929. Essa crise",
+   "alternativas": {
+    "a": "atingiu as atividades agrícolas, incentivou a mecanização do processo produtivo e a absorção dos trabalhadores pelo setor industrial.",
+    "b": "afetou as bases do liberalismo econômico, obrigando a intervenção do Estado por meio de regulações e investimentos.",
+    "c": "impulsionou a indústria do entretenimento, responsável por forjar comportamentos que se opunham ao pessimismo.",
+    "d": "favoreceu a substituição do dólar pela libra esterlina enquanto moeda empregada no comércio internacional.",
+    "e": "contribuiu para o desenvolvimento industrial com a substituição de importações e a ampliação do crédito para investimentos."
+   },
+   "resposta": "b",
+   "explicacao": "A quebra de 1929 desmontou a confiança na autorregulação do mercado: nos Estados Unidos veio o New Deal, com regulação bancária, obras públicas e legislação social; no Brasil, o governo passou a comprar e queimar café. Em ambos os casos o Estado interveio onde o liberalismo dizia não ser preciso. As demais alternativas descrevem consequências que a crise não teve nesses termos: ela expulsou trabalhadores em vez de absorvê-los (A), a libra já vinha sendo substituída pelo dólar e não o contrário (D), e o crédito se contraiu, em vez de se ampliar (E)."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "fuvest-historia-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“O plano dos Estados Unidos de derrubarem a Revolução já estava esboçado na ocasião em que Mikoyan [vice-líder no governo soviético de Nikita Kruschev] visitou Havana, em fevereiro de 1960 (...). A CIA propunha a sabotagem das refinarias de açúcar de Cuba, a principal fonte de riqueza da ilha. (...) Como prometido, Fidel Castro reagiu contra os Estados Unidos (...). Ele anunciou a nacionalização de todas as propriedades norte-americanas importantes da ilha. (...) Numa frase sinistra (...), Castro salientou que a Cuba revolucionária tinha agora o apoio militar de fora do continente. Cuba ‘aceitaria com gratidão’, disse ele, ‘a ajuda dos foguetes da União Soviética (...)’. Naquele mês, a lenha fora jogada na fogueira, quando Castro chegou a Nova York para falar na Assembleia Geral da ONU, instalando-se no Harlem. (...) Castro ficou no [hotel] Theresa, cercado por um grupo de admiradores (...) e numa tarde memorável foi visitado pelo líder soviético. (...) Kruschev escreveu nas suas memórias que ‘indo a um hotel negro num bairro negro, nós estávamos fazendo uma dupla demonstração contra as políticas discriminatórias dos Estados Unidos em relação aos negros, assim como em relação a Cuba’”. GOTT, Richard. Cuba: uma nova história. Rio de Janeiro: Zahar, 2006. p.210-213. Adaptado.",
+   "enunciado": "As tensões políticas abordadas no texto referem-se",
+   "alternativas": {
+    "a": "à indecisão de Fidel Castro sobre o alinhamento político de Cuba na Guerra Fria e ao isolamento da ilha em relação a outros debates políticos da época.",
+    "b": "às garantias do governo revolucionário em Cuba aos capitais norte-americanos e à salvaguarda dos direitos civis da população negra na ilha.",
+    "c": "à aliança entre Cuba e URSS selada na origem da guerrilha em Sierra Maestra e à consequente oposição dos EUA ao movimento insurgente.",
+    "d": "ao gradual alinhamento entre Cuba e a URSS e ao aceno dos dois governantes de apoio ao movimento negro norte- americano.",
+    "e": "à articulação entre os governos da URSS e dos EUA para enfraquecer Fidel Castro e os movimentos sociais no Harlem."
+   },
+   "resposta": "d",
+   "explicacao": "O trecho encadeia duas coisas: a aproximação crescente entre Cuba e a União Soviética — visita de Mikoyan, nacionalização das empresas norte-americanas, menção aos foguetes soviéticos — e o gesto de Castro e Kruschev de se encontrarem num hotel do Harlem, que o próprio líder soviético descreve como demonstração contra a discriminação racial nos Estados Unidos. A alternativa A fala em indecisão e isolamento, quando o texto mostra alinhamento e projeção internacional; B afirma garantias ao capital norte-americano, justamente o que foi nacionalizado; C antecipa a aliança para a fase de guerrilha em Sierra Maestra; e E inverte os lados ao aliar soviéticos e norte-americanos contra Castro."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "fuvest-historia-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "“Desde os anos 20 governado pela dinastia Pahlevi, o Irã vinha sendo modernizado e ocidentalizado pelas sucessivas gerações de xás, que viam na observância estrita da religião um atraso a ser superado. País de numerosa população xiita, no entanto, o regime modernizante sempre precisou contar com uma grande dose de repressão, para conter a oposição dos grupos religiosos, que se fazia cada vez mais popular. Na década de 1970, este movimento conheceu um líder, que, refugiado na França, preparava-se para voltar ao país: era o aiatolá Khomeini, que apelava aos muçulmanos para que restaurassem a autoridade do islã na sociedade.” GRINBERG, Keila. O mundo árabe e as guerras árabe-israelenses. In: REIS FILHO, Daniel Aarão; FERREIRA, Jorge; ZENHA, Celeste (orgs.). O século XX: o tempo das dúvidas. Rio de Janeiro: Civilização Brasileira, 2002. p.116.",
+   "enunciado": "O texto descreve o contexto histórico que antecedeu",
+   "alternativas": {
+    "a": "uma intervenção norte-americana em território iraniano.",
+    "b": "a integração do Irã aos países do bloco socialista soviético.",
+    "c": "a laicização integral do Estado iraniano.",
+    "d": "o estabelecimento de uma república teocrática no Irã.",
+    "e": "uma cooperação militar entre Irã e Iraque contra o Ocidente."
+   },
+   "resposta": "d",
+   "explicacao": "A modernização forçada dos Pahlevi, sustentada pela repressão, e o retorno anunciado de Khomeini do exílio na França são o prólogo da Revolução Iraniana de 1979, que derrubou o xá e instalou a República Islâmica, um Estado teocrático sob autoridade religiosa xiita. A intervenção norte-americana no Irã havia sido em 1953, contra Mossadegh, e antecede o quadro descrito (A); o Irã não se integrou ao bloco soviético (B); a laicização é o projeto Pahlevi que a revolução derrotou (C); e Irã e Iraque foram à guerra um contra o outro em 1980 (E)."
   }
  ],
  "historia-geral-moderna": [
@@ -59225,6 +59842,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Habermas descreve dois efeitos simultâneos, e a resposta precisa conter os dois. Separação: o salão vira reduto do Alto Iluminismo e o café fica com os “tipos inferiores de literário” — os pensadores se dividem por origem social. Difusão: ambos são instituições do espaço público literário, onde as ideias circulam, e o café é aberto a todos, “a um passo da rua”. Segregar pensadores e ao mesmo tempo aumentar a circulação de ideias não é contradição, é exatamente o quadro que o texto pinta. As demais alternativas atribuem aos espaços funções de perseguição ou censura que ele não descreve."
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "fuvest-historia-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“A Enciclopédia conseguiu destronar a antiga rainha das ciências e elevar a filosofia para o seu lugar. Longe de ser um compêndio neutro de informações, a obra modelava o conhecimento de tal maneira que o tirava do clero e o colocava nas mãos de intelectuais comprometidos com o Iluminismo. (...) Mas o combate mais importante ocorreu na década de 1750, quando os enciclopedistas reconheceram que conhecimento era poder e, mapeando o universo do saber, partiram para a conquista.” DARNTON, Robert. O grande massacre de gatos. Rio de Janeiro: Graal, 1986. p.270. Adaptado.",
+   "enunciado": "Segundo o excerto, a Enciclopédia preparada pelos pensadores Diderot e D’Alembert propunha um novo papel para os filósofos e uma reordenação do conhecimento científico. Tal proposta se caracterizou pela",
+   "alternativas": {
+    "a": "conexão com um modelo de saber que justificava a hierarquia social do Antigo Regime.",
+    "b": "revelação de que o conhecimento filosófico oferecia as bases políticas para o absolutismo.",
+    "c": "valorização do mecenato como forma de proteção aos novos pensadores.",
+    "d": "aclamação dos pensadores como defensores da neutralidade científica.",
+    "e": "legitimação dos filósofos enquanto portadores de virtudes derivadas do culto do conhecimento empírico."
+   },
+   "resposta": "e",
+   "explicacao": "Darnton descreve a Enciclopédia tirando o conhecimento das mãos do clero e entregando-o a intelectuais do Iluminismo, que reconheceram que conhecimento era poder e partiram para a conquista. O filósofo deixa de ser servo da teologia e passa a se legitimar pelo saber empírico, cultivado como virtude própria. A alternativa A põe a obra a serviço da hierarquia do Antigo Regime, que ela combatia; B a alinha ao absolutismo; C valoriza o mecenato, que o excerto não menciona; e D atribui neutralidade a uma obra que o próprio texto diz estar longe de ser um compêndio neutro."
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "fuvest-historia-10",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“Colombo não reconhece a diversidade das línguas e, por isso, quando se vê diante de uma língua estrangeira, só há dois comportamentos possíveis, e complementares: reconhecer que é uma língua, e recusar-se a aceitar que seja diferente, ou então reconhecer a diferença e recusar-se a admitir que seja uma língua... Os índios que encontra logo no início, a 12 de outubro de 1492, provocam uma reação do segundo tipo; ao vê-los, promete: ‘Se Deus assim o quiser, no momento da partida levarei seis deles a Vossas Altezas, para que aprendam a falar’ (...).” TODOROV, Tzvetán. A conquista da América: a questão do outro. São Paulo: Martins Fontes, 1993. p.29-30.",
+   "enunciado": "Ao tratar das reações iniciais de Colombo ao chegar à América, o excerto indica que o navegador",
+   "alternativas": {
+    "a": "reconheceu a necessidade de tradução mútua entre as línguas.",
+    "b": "considerou as línguas indígenas como expressão de outras culturas.",
+    "c": "interpretou as diferenças linguísticas como estratégia de resistência dos nativos.",
+    "d": "mostrou-se disposto a estudar e compreender as línguas dos indígenas.",
+    "e": "entendeu o ensino do castelhano aos indígenas como forma de civilização."
+   },
+   "resposta": "e",
+   "explicacao": "Ao prometer levar seis indígenas à corte para que aprendam a falar, Colombo trata quem tem outra língua como quem não tem língua nenhuma: falar é falar castelhano, e ensiná-lo é trazer o outro para a civilização. É o segundo comportamento descrito por Todorov, o de reconhecer a diferença e negar que seja uma língua. Reconhecer a necessidade de tradução mútua (A), ver nas línguas indígenas expressão de outra cultura (B) e dispor-se a estudá-las (D) supõem a diversidade que o texto diz que ele não reconhece; e nada no trecho sugere que ele lesse a diferença como resistência (C)."
   }
  ],
  "historia-geral-antiga-medieval": [
@@ -60475,6 +61132,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O argumento do autor é que a universidade vale mais que as catedrais porque é instituição viva, ao lado do parlamento e do júri: ela atravessa os séculos preservando um modo de produzir e transmitir saber. Esse legado une continuidade — a tradição de estudo herdada da Antiguidade e conservada nos mosteiros — com a construção de conhecimento próprio, o que a alternativa (e) resume. A (c) atribui à universidade uma função comercial que ela não tinha, e a (b) uma rejeição ao Oriente que contradiz a história: foi por tradutores árabes que Aristóteles voltou ao Ocidente."
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "fuvest-historia-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O mapa a seguir retrata o Nordeste da África e a Península Arábica, no século IV. CARNINE, Douglas et alii. World History: Ancient through Modern Times. Evanston, IL: McDougal Littell, 2009. Adaptado.",
+   "enunciado": "Considerando as rotas comerciais representadas no mapa, pelas quais se transportavam, por exemplo, cereais, marfim e escravizados, e que envolviam sociedades antigas, em especial os reinos de Axum, Cuxe e Egito, é correto afirmar que",
+   "alternativas": {
+    "a": "o comércio praticado no nordeste da África isolava a região de outras áreas do continente.",
+    "b": "os comerciantes do Egito participavam apenas de rotas comerciais marítimas.",
+    "c": "as atividades mercantis do Reino de Axum conectavam o Mediterrâneo ao Oceano Índico.",
+    "d": "as rotas terrestres e marítimas na África e na Península Arábica não se conectavam umas às outras.",
+    "e": "a cidade de Berenice se colocava como obstáculo ao comércio do Mediterrâneo com o interior da África."
+   },
+   "resposta": "c",
+   "explicacao": "Axum, no atual norte da Etiópia e Eritreia, controlava o porto de Adúlis, no mar Vermelho, e por ali escoava marfim, cereais e escravizados vindos do interior africano para o Mediterrâneo, ao norte, e para o oceano Índico, a leste — o reino era a dobradiça entre os dois mares. As demais alternativas negam o que o próprio enunciado afirma ao falar em sociedades ligadas por rotas: A diz que o comércio isolava a região, B restringe o Egito às rotas marítimas, D nega a conexão entre rotas terrestres e marítimas, e E transforma um entreposto do mar Vermelho em obstáculo ao comércio."
   }
  ],
  "geografia-populacao-urbana": [
@@ -64322,6 +64999,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O primeiro texto quantifica a evapotranspiração: cada árvore devolve centenas de litros de água à atmosfera todo dia. O segundo mostra a floresta sendo derrubada em ritmo acelerado. Menos árvores significam menos vapor no ar e, portanto, menos chuva convectiva — aquela que se forma quando o ar úmido e aquecido sobe, condensa e precipita ali mesmo. É o mecanismo que sustenta os “rios voadores”. A alternativa (b) inverte o efeito: solo desnudo esquenta mais, não menos; e a (d) também, já que retirar a floresta aumenta o albedo da superfície."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "fuvest-geografia-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Em fevereiro de 2023, ocorreu uma precipitação pluviométrica extrema no litoral norte de São Paulo, com volume que excedeu os 600 mm de chuva em menos de 24 horas. Foi um dos maiores índices pluviométricos já registrados no Brasil para um dia. Essa grande quantidade de chuva provocou muitos deslizamentos de terra.",
+   "enunciado": "Considerando o contexto socioambiental em que esse episódio ocorreu, é correto afirmar:",
+   "alternativas": {
+    "a": "Apesar das altas declividades nas encostas da Serra do Mar, eventos como esse são raros, uma vez que os solos profundos e a vegetação primária dificultam os deslizamentos de terra.",
+    "b": "No local do deslizamento de terra, ocorrerá um processo de sucessão primária e, após poucos anos, uma floresta madura estará estabelecida.",
+    "c": "A baixa umidade da região e a indisponibilidade de nutrientes no solo retardarão a instalação de organismos pioneiros, como os líquens, que iniciarão o processo de sucessão nesse local.",
+    "d": "Fenômenos desse tipo são causados por fatores naturais da região, relacionados ao clima, à geologia e ao relevo, mas são agravados pela ocupação desordenada das encostas.",
+    "e": "No local do deslizamento de terra, a biomassa vegetal aumentará ao longo da sucessão ecológica graças a um equilíbrio energético no sistema, em que as taxas de fotossíntese e respiração permanecerão equivalentes."
+   },
+   "resposta": "d",
+   "explicacao": "As encostas da serra do Mar reúnem declividade alta, solos rasos sobre rocha cristalina e chuvas orográficas intensas: o escorregamento é um processo natural ali. O que transformou o evento de 2023 em tragédia foi a ocupação das encostas por moradias sem terraceamento nem drenagem, muitas em área de risco. Natureza e ocupação, portanto, somadas. A alternativa A chama o fenômeno de raro numa das regiões mais deslizantes do país; B promete floresta madura em poucos anos, quando a sucessão leva décadas; C descreve sucessão primária sobre rocha nua, e ali restou solo; e E supõe fotossíntese e respiração equivalentes, o que descreveria um sistema estagnado, não em recuperação."
   }
  ],
  "geografia-agraria-economica": [
@@ -66308,6 +67005,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O enunciado pergunta especificamente por rentabilidade, e o texto explica de onde ela vem: a conexão integra pequenos agricultores e produtores florestais a cadeias de abastecimento maiores, eliminando intermediários e abrindo mercados antes inacessíveis. O produto local passa a alcançar preço melhor — é a economia local que se valoriza. As demais alternativas citam efeitos possíveis da internet (cultura, educação, normas), mas nenhum deles explica ganho de renda para a comunidade."
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "fuvest-geografia-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Sobre o papel da cafeicultura na dinâmica territorial dos estados de São Paulo e do Rio de Janeiro nos séculos XIX e XX, é correto afirmar:",
+   "alternativas": {
+    "a": "Iniciada no Vale do Paraíba do Sul, entre São Paulo e Rio de Janeiro, na década de 1830, a cafeicultura teve pouco êxito nessa região pelas dificuldades de cultivo, em função do clima frio e da escassez de trabalho escravizado.",
+    "b": "A expansão da produção cafeeira no estado de São Paulo se deu em direção à zona oriental do estado, na década de 1850, em decorrência da infraestrutura de transporte existente na região e da presença de trabalho assalariado.",
+    "c": "O início da cafeicultura no estado de São Paulo se deu na região oeste, na década de 1930, em decorrência da expansão da produção no norte do Paraná, com expansão para o oeste paulista, aproveitando-se da qualidade do solo.",
+    "d": "A produção cafeeira, nos séculos XIX e XX, concentrava-se nos estados de Minas Gerais e Espírito Santo, com a introdução de novas variedades altamente produtivas e resistentes ao clima frio dessas regiões.",
+    "e": "Expandindo-se na direção oeste do território paulista, a produção cafeeira impulsionou, nos séculos XIX e XX, a estruturação econômica do estado de São Paulo, impactando o desenvolvimento da malha ferroviária e portuária."
+   },
+   "resposta": "e",
+   "explicacao": "O café começou no vale do Paraíba e avançou para o oeste paulista atrás de terra roxa, arrastando consigo a malha ferroviária que ia do interior a Santos e o porto que embarcava a safra — a estrutura econômica do estado se organizou em torno desse eixo. A alternativa A diz que a lavoura teve pouco êxito no vale do Paraíba, onde ela foi justamente o auge do período imperial; B manda a expansão para o oriente do estado, contra o sentido real; C data o início nos anos 1930 e o faz depender do norte do Paraná, ocupado depois; e D transfere a concentração da produção para Minas e Espírito Santo no período."
   }
  ],
  "geografia-geopolitica": [
@@ -67635,6 +68351,45 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Cinco países entre quinze são permanentes e sozinhos podem barrar qualquer resolução, poder que os outros dez não têm — e o número de 261 vetos mostra que essa prerrogativa é usada. Peso desigual na decisão é assimetria política, herança da configuração de poder de 1945. A alternativa (c) é contraditada pelo próprio veto, que dispensa consenso, e a (e) descreve arranjos como o da União Europeia, em que Estados cedem competências, o que não é o caso do Conselho."
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "fuvest-geografia-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Sobre o conflito geopolítico que envolve o povo curdo, é correto afirmar:",
+   "alternativas": {
+    "a": "O Tratado de Lausanne estabeleceu as fronteiras da Turquia moderna, incluindo a existência de um Estado curdo após o fim do Império Turco Otomano, concedendo aos curdos o domínio do território entre as atuais Turquia e Síria.",
+    "b": "Os curdos formam uma população estimada em dezenas de milhões de pessoas e parte habita uma região montanhosa que se espalha pelos territórios fronteiriços de cinco países: Turquia, Iraque, Síria, Irã e Rússia.",
+    "c": "Falantes de várias línguas, dentre as quais árabe, curdo, turco e persa, e compostos por diferentes grupos étnicos e religiosos, os curdos são considerados a maior população apátrida do mundo.",
+    "d": "Entre os anos de 2013 e 2019, as forças curdas desempenharam um papel central no enfrentamento ao Estado Islâmico na região, o que levou ao reconhecimento do estado independente do Curdistão.",
+    "e": "Em 2022, foi aprovada uma resolução no Conselho de Segurança da ONU reconhecendo a independência do Curdistão e definindo suas fronteiras em territórios que pertenciam à Síria, Turquia e Iraque."
+   },
+   "resposta": "c",
+   "explicacao": "Os curdos somam algo em torno de 30 milhões de pessoas repartidas entre Turquia, Iraque, Irã e Síria, falam variedades próprias e convivem com árabe, turco e persa, e nunca obtiveram Estado — é a maior nação sem país do mundo. O Tratado de Lausanne (1923) fez o contrário do que diz A: enterrou o Curdistão prometido em Sèvres. A alternativa B inclui a Rússia entre os países de população curda, no lugar da Armênia ou do Azerbaijão; D transforma o combate ao Estado Islâmico em reconhecimento de independência, que não houve; e E inventa uma resolução do Conselho de Segurança."
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "fuvest-geografia-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“A China enviou ontem navios de guerra e dezenas de caças para Taiwan, em retaliação a uma reunião entre a presidente da ilha, Tsai Ing-Wen, e o presidente da Câmara dos Deputados do EUA, Kevin McCarty, na Califórnia”. O Estado de São Paulo, 08/04/2023. Adaptado.",
+   "enunciado": "A reportagem faz alusão ao aumento das tensões geopolíticas entre China e Taiwan. Sobre esse tema, é correto afirmar:",
+   "alternativas": {
+    "a": "As tensões iniciaram-se no final de década de 1970, em decorrência das mudanças políticas e econômicas perpetradas pelo então presidente chinês Deng Xiaoping, que resultaram na declaração de independência de Taiwan em relação à China.",
+    "b": "Iniciadas ainda na primeira metade do século XX, as tensões entre China e Taiwan aumentaram desde então em decorrência da presença militar dos EUA no território taiwanês, o que contraria os interesses geopolíticos chineses na região.",
+    "c": "As tensões decorreram do aumento da influência russa sobre o território taiwanês, com foco na exploração do potencial mercado consumidor, considerado estratégico para o aumento das exportações do gás natural russo.",
+    "d": "Com apoio soviético, Taiwan conseguiu independência do território chinês no final da década de 1960. Após o fim da Guerra Fria, tornou-se uma potência tecnológica, o que ampliou o interesse geopolítico chinês na retomada desse território.",
+    "e": "Taiwan é reconhecido como país independente pelos EUA e tem emergido na rota dos conflitos entre os governos estadunidense e chinês, o que pode ser interpretado como indício do deslocamento do eixo geopolítico do mundo para o sudeste asiático."
+   },
+   "resposta": "b",
+   "explicacao": "A separação nasce da guerra civil chinesa: derrotados pelos comunistas em 1949, os nacionalistas de Chiang Kai-shek se refugiaram na ilha de Formosa e ali mantiveram a República da China. Desde então Pequim considera Taiwan província rebelde, e a garantia militar norte-americana à ilha — venda de armamento, patrulhas no estreito — é o que sustenta o impasse e o que a China denuncia. A alternativa A data as tensões dos anos 1970 e supõe uma declaração de independência que Taipé nunca fez; C troca a China pela Rússia; D inventa independência com apoio soviético nos anos 1960; e E afirma reconhecimento formal de Taiwan pelos Estados Unidos, que mantêm relações oficiais com Pequim desde 1979."
   }
  ],
  "geografia-ambiente-sustentabilidade": [
@@ -68928,6 +69683,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A reserva extrativista não foi criada por decreto de fora: o texto diz que os próprios seringueiros a inventaram, partindo da luta sindical. A racionalidade produtiva nasce do conhecimento e dos valores de quem habita o território, e é a comunidade local que decide como usá-lo. As alternativas (d) e (e) invertem essa direção, atribuindo o comando a instituições mundiais ou a determinações globais; as (a) e (c) reduzem a experiência a uma questão de mercado e preço, quando o texto fala de modo de produção."
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "fuvest-geografia-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Em junho de 2022, a Administração Nacional Oceânica e Atmosférica (NOAA) reportou que, naquela data, os níveis de CO2 na atmosfera encontravam-se em torno de 420 ppm. Esse valor é muito superior à concentração média de aproximadamente 280 ppm, existente antes da Revolução Industrial.",
+   "enunciado": "Com base nessas informações e em seus conhecimentos, é correto afirmar:",
+   "alternativas": {
+    "a": "Apesar do grande aumento nas quantidades dos três principais gases de efeito estufa a partir da Revolução Industrial, seus níveis passaram a estabilizar por volta do ano 2000.",
+    "b": "A mecanização resultante da Revolução Industrial, iniciada no século XVIII, causou grandes mudanças nos meios de produção, com a utilização de energias renováveis.",
+    "c": "O plantio de árvores em grande escala acentua o aquecimento global, devido à liberação de gases do efeito estufa na atmosfera.",
+    "d": "O aquecimento global é um fenômeno recente, já que a Terra teve um clima com temperaturas constantes durante sua existência.",
+    "e": "O efeito estufa é um fenômeno intensificado a partir da Revolução Industrial, devido às atividades humanas emissoras de CO2, que contribuem para o aquecimento global."
+   },
+   "resposta": "e",
+   "explicacao": "Saltar de 280 para 420 ppm de CO2 é o retrato do efeito estufa intensificado: o fenômeno é natural e mantém a Terra habitável, mas a queima de combustíveis fósseis a partir da Revolução Industrial elevou a concentração dos gases a ponto de alterar o balanço de energia do planeta. A alternativa A afirma estabilização, quando o próprio dado de 2022 mostra que a curva continuou subindo; B chama de renováveis as energias da industrialização, que foram o carvão e depois o petróleo; C inverte o papel das árvores, que fixam carbono; e D nega variações climáticas que a Terra teve ao longo de toda a sua história."
   }
  ],
  "geografia-cartografia": [
@@ -74034,6 +74809,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Castoriadis aponta uma armadilha: a organização taylorista quer reduzir o trabalhador a peça de máquina, mas a produção só se sustenta porque ele improvisa, corrige e decide — se cumprisse as ordens ao pé da letra, a fábrica pararia em quinze minutos, que é o efeito conhecido da operação-padrão. A contradição está em depender da inteligência que se esforça por anular, e o nome dessa separação entre quem trabalha e o sentido do próprio trabalho é alienação. A alternativa (e) inverte o texto, que descreve tentativa de suprimir a autonomia, não de fortalecê-la."
+  },
+  {
+   "subtema": "sociologia-trabalho-classes",
+   "id": "fuvest-filosofia-sociologia-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“As sociólogas, filósofas e ativistas feministas destacaram, com o conceito de ‘reprodução social’, algo que a teoria econômica ocultava: para que haja produção de bens e de serviços é necessário que as pessoas que os produzem sejam, por sua vez, produzidas. O trabalho da reprodução social, portanto, cria e repõe a condição primordial e necessária – a existência de pessoas que trabalham – para que a produção econômica possa continuar ocorrendo. Em grande medida, esse trabalho é relegado ao ambiente familiar e às mulheres: cuidado com os filhos, cuidado com doentes e idosos, preparação de alimentos, limpeza e arrumação da casa e outros. O trabalho de reprodução se opõe, socialmente, ao trabalho de produção; este está inserido numa economia organizada com base em empresas – nas fábricas, na agricultura, nos escritórios –, voltado para o mercado e é percebido como merecedor de contrapartida financeira: o salário. Assim, mesmo quando um trabalho da esfera da reprodução se realiza por meio de uma relação de emprego, se for realizado por mulheres, ele costuma ser mal pago e desfrutar de menor prestígio.” ARRUZZA, Cinzia; BATTACHARYA, Tithi; FRASER, Nancy. Feminismo para os 99%: um manifesto. São Paulo: Boitempo, 2019. “A chamada ‘economia do cuidado’ é o conjunto de atividades não remuneradas, geralmente exercidas por mulheres, como a limpeza da casa, preparação de alimentos e os cuidados com crianças, idosos e doentes da família. Um pacote que vale 11% do PIB atual (...). Em valores, foram cerca de 634,3 bilhões de reais em 2015 [por exemplo]. (...) Contabilizar o valor dos afazeres domésticos no PIB do Brasil só se tornou possível a partir de 2001, quando o IBGE introduziu na Pesquisa Nacional por Amostra de Domicílios (PNAD) a pergunta referente ao número de horas despendido pela população para executar essas atividades.” Disponível em https://www.cartacapital.com.br/.",
+   "enunciado": "Nos textos apresentados, encontram-se dois conceitos, o de “reprodução social” e o de “economia do cuidado”. De acordo com as definições desses conceitos e com os dados indicados, qual das afirmações a seguir está correta?",
+   "alternativas": {
+    "a": "Os conceitos de reprodução social e de economia do cuidado são contraditórios porque o primeiro se refere a todo trabalho doméstico e o segundo apenas ao trabalho doméstico pago e que é possível contabilizar.",
+    "b": "Ambos os conceitos se referem a um tipo de trabalho cuja importância é socialmente reconhecida, fato que pode ser comprovado pela porcentagem expressiva que ele representava do PIB brasileiro no ano de 2015.",
+    "c": "As definições de reprodução social e de economia do cuidado excluem, necessariamente, a possibilidade de que o Estado seja responsável por parte das tarefas envolvidas na reprodução das pessoas.",
+    "d": "A contabilização no PIB dos valores dos afazeres domésticos no contexto da economia do cuidado abarca apenas uma parte da reprodução social, pois não inclui o trabalho doméstico remunerado e os trabalhos de reprodução executados fora do ambiente doméstico.",
+    "e": "Os dados estimados sobre a participação das atividades domésticas não remuneradas no PIB do Brasil mostram que a reprodução social acontece apenas quando não há uma relação salarial entre quem executa e quem se beneficia desse tipo de trabalho."
+   },
+   "resposta": "d",
+   "explicacao": "Reprodução social é todo o trabalho que produz e repõe as pessoas que trabalham — inclusive o remunerado e o que acontece fora de casa, como o de creches, hospitais e escolas. A economia do cuidado, tal como o IBGE a mede, conta apenas os afazeres domésticos não remunerados. Os 11% do PIB são, portanto, uma parcela do conceito maior. A alternativa A chama os conceitos de contraditórios, quando um contém o outro; B afirma reconhecimento social de um trabalho que os dois textos descrevem como mal pago e desprestigiado; C exclui o Estado por definição, o que nenhum dos textos faz; e E confunde a medição do trabalho não remunerado com a tese de que só ele seria reprodução social."
   }
  ],
  "sociologia-cultura-identidade": [
@@ -75790,6 +76585,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Os dois casos mostram uma produção televisiva brasileira sendo incorporada ao cotidiano de outro país: na Rússia, a ponto de alterar a agenda do Parlamento; em Angola, a ponto de batizar um mercado e ditar moda e comportamento. O que atravessa a fronteira é repertório simbólico, e ele passa a operar de dentro — os públicos subjetivam costumes vindos da teledramaturgia estrangeira. A alternativa (b) fala de importar roupa, não de imitar figurino; a (e) atribui aos dois países uma convergência política que os textos não sustentam."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "fuvest-filosofia-sociologia-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“Entre os anos de 2012 e 2022, o número de pessoas autodeclaradas pretas e pardas aumentou em uma taxa superior à do crescimento do total da população do país, segundo o resultado da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua do IBGE. No caso dos negros, essa porcentagem variou de 7,4% em 2012 para 10,6% em 2022. ‘(...) uma das hipóteses para o crescimento da proporção é que a percepção racial tenha mudado dentro da população, nos últimos anos’.” O Globo, 22/07/2022; CNN Brasil, 16/06/2023. “Pois bem, é justamente a partir daí que aparece a necessidade de teorizar as ‘raças’ como o que elas são, ou seja, construtos sociais, formas de identidade baseadas numa ideia biológica errônea, mas eficaz, socialmente, para construir, manter e reproduzir diferenças e privilégios. Se as raças não existem num sentido estritamente realista de ciência, ou seja, se não são um fato do mundo físico, são, contudo, plenamente existentes no mundo social, produtos de formas de classificar e de identificar que orientam as ações dos seres humanos.” GUIMARÃES, Antônio Sergio Alfredo. Raças e estudos de relações raciais no Brasil. Novos Estudos CEBRAP, n.54, 1999. p.153.",
+   "enunciado": "Relacionando os dados trazidos pela PNAD/IBGE e o conceito de raça do sociólogo Antônio Sergio Alfredo Guimarães, é correto afirmar:",
+   "alternativas": {
+    "a": "A hipótese de que a autopercepção racial de parte dos brasileiros mudou está em conflito com a tese de que raça é um construto social. Isso porque, como os traços fenotípicos da população brasileira mantiveram-se os mesmos de 2012 a 2022, não haveria motivos para o aumento dos autodeclarados pretos e pardos.",
+    "b": "A tese de que raças são construtos sociais ganha força diante das mudanças na autopercepção de parte dos brasileiros sobre sua condição racial. Alterações culturais e ideológicas da inserção social de negros e pardos teriam permitido o crescimento dos assim autodeclarados.",
+    "c": "As alterações na autopercepção racial captadas pelas pesquisas do IBGE não guardam relação com a ideia de que raça é um construto social. Na verdade, reafirmam que as raças são realidades biológicas e que mais indivíduos estariam se dando conta do seu verdadeiro pertencimento racial.",
+    "d": "Os dados colhidos pelo IBGE sobre o aumento da autodeclaração racial dos respondentes como pretos e pardos indicam que houve um aumento dessa população no Brasil, o que contraria a tese de que raça é um construto social, e não uma realidade biológica.",
+    "e": "A existência do racismo no Brasil indica que a tese de raça como construto social está errada. Se raça fosse um construto social, e não uma realidade biológica, os indivíduos prefeririam se declarar como brancos para evitar serem vítimas de racismo."
+   },
+   "resposta": "b",
+   "explicacao": "Guimarães define raça como construto social: não é fato do mundo físico, mas classificação plenamente existente no mundo social. Se o fenótipo da população não mudou entre 2012 e 2022 e mesmo assim mais gente passou a se declarar preta ou parda, o que mudou foi a classificação — e é exatamente isso que a tese prevê. A alternativa A lê o mesmo dado como conflito, quando ele é confirmação; C e D tratam raça como realidade biológica, que o texto nega; e E supõe que num mundo de construtos sociais ninguém se declararia negro, ignorando que a identidade também se afirma contra o estigma."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "fuvest-filosofia-sociologia-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“A história do skate no Brasil passou por fases diferentes e até mesmo antagônicas. Em 1988, por exemplo, na cidade de São Paulo, sob acusação de ser prática displicente, foi promulgada a Lei n º 25.871, pelo então prefeito Jânio Quadros, que proibia a prática da modalidade nas ruas da cidade. Essa proibição foi alterada no ano seguinte, quando a nova prefeita da cidade, Luiza Erundina, em um de seus primeiros atos, revogou essa mesma lei e liberou a prática do skate nas ruas da cidade. Anos depois, em 2015, o Brasil somava 8,4 milhões de praticantes de skate, segundo pesquisa Datafolha. Já em 2021, quando o skate estreou como modalidade olímpica nos Jogos de Tóquio, o Brasil se destacou como o segundo país com mais medalhas olímpicas na modalidade. No mesmo ano, a indústria nacional ligada ao esporte foi considerada a segunda maior do mundo, atrás apenas dos Estados Unidos, cujo mercado é estimado em US$ 4,5 bilhões ao ano.” Thais Carrança, BBC News Brasil em São Paulo, 26 julho 2021. Adaptado.",
+   "enunciado": "A partir da leitura do texto, é correto afirmar:",
+   "alternativas": {
+    "a": "O skate adentrou o mundo esportivo, entre outros motivos, por pressão dos praticantes da modalidade. No entanto, práticas esportivas que surgem pautadas pelo lazer ou por atividades cotidianas não deveriam ser consideradas modalidades esportivas por não terem sido institucionalizadas desde sua origem.",
+    "b": "Eventos esportivos de grande alcance, tal qual a Olimpíada, deveriam considerar as estruturas normativas que dão origem aos esportes para inseri-los nas competições. Apenas dessa forma, seria possível garantir a autenticidade das modalidades e justificar a inserção do skate como esporte olímpico.",
+    "c": "Os esportes são uma forma de representação das práticas sociais. Sendo assim, as transformações sociais podem resultar em alterações de regras esportivas, na esportivização de práticas de lazer e até na extinção de modalidades esportivas.",
+    "d": "Os esportes podem sofrer alterações normativas ao longo dos tempos. Com tal efeito, torna-se equivocado datar a criação de um esporte, pois ele já pode ter sofrido alterações que descaracterizaram sua origem.",
+    "e": "O skate, bem como outras práticas esportivas, foi criado de modo discreto, por grupos pequenos, e ganhou força e ascensão a partir do aumento de incentivo financeiro para sua realização, o que é determinante para um esporte alcançar reconhecimento mundial."
+   },
+   "resposta": "c",
+   "explicacao": "O texto mostra o skate proibido em 1988, liberado em 1989 e olímpico em 2021: a mesma prática muda de estatuto conforme muda a sociedade que a julga. É o argumento de que o esporte é representação de práticas sociais, e por isso regras mudam, atividades de lazer viram modalidade e modalidades desaparecem. As alternativas A e B fazem o contrário, transformando a origem institucional em critério para valer como esporte; D salta da mudança de normas para a impossibilidade de datar a criação de um esporte; e E elege o dinheiro como fator determinante, quando o texto mostra a mudança acontecendo antes da indústria bilionária."
   }
  ],
  "filosofia-conhecimento-logica": [
@@ -76700,6 +77535,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O peru acumula casos particulares — muitas manhãs, em condições variadas — e salta deles para uma lei geral: “sempre às 9 da manhã”. Esse movimento do particular para o universal é a indução, e a fábula de Russell existe para mostrar seu limite: nenhuma quantidade de observações garante a conclusão, como o peru descobre na véspera do Natal. A alternativa (d) descreve a dedução, cujo passo é o inverso e cuja conclusão é necessária; a (e) exigiria comparação entre situações distintas, e aqui a situação é sempre a mesma."
+  },
+  {
+   "subtema": "filosofia-conhecimento-logica",
+   "id": "fuvest-filosofia-sociologia-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“Quero dizer, numa palavra, que, levando em conta todas as coisas que nascem, devemos verificar se em cada caso é bem assim que nasce cada um dos seres, isto é, se os contrários não nascem senão dos seus próprios contrários, em toda parte onde existe tal relação: entre o belo, por exemplo, e o feio, que é, penso, o seu contrário; entre o justo e o injusto; e assim milhares de outros casos. (...) Exemplo: quando uma coisa se torna maior, não é necessário que ela anteriormente tenha sido menor, para em seguida se tornar maior?” Platão, Fédon, p.79.",
+   "enunciado": "No trecho transcrito do texto Fédon, Platão propõe uma compreensão filosófica própria sobre a relação existente entre os opostos. Com base nela, dentre as inferências possíveis, aquela que descreve a articulação principal entre dois termos que se opõem é:",
+   "alternativas": {
+    "a": "Entre os opostos, é possível inferir uma relação principal de complementariedade.",
+    "b": "Entre os opostos, é possível inferir uma relação principal de alternância.",
+    "c": "Entre os opostos, é possível inferir uma relação principal de exclusão.",
+    "d": "Entre os opostos, é possível inferir uma relação principal de anulação.",
+    "e": "Entre os opostos, é possível inferir uma relação principal de geração."
+   },
+   "resposta": "e",
+   "explicacao": "Platão não diz que os opostos se completam nem que se anulam: diz que um nasce do outro. O maior vem do que antes era menor, o belo do feio, o justo do injusto — e é desse vir a ser recíproco que ele extrai, no Fédon, o argumento de que a vida nasce da morte e a alma sobrevive. A articulação principal, portanto, é de geração. Complementaridade (A) e alternância (B) descrevem relações estáticas ou cíclicas sem a produção de um pelo outro; exclusão (C) e anulação (D) impediriam justamente a passagem que o texto descreve."
   }
  ],
  "sociologia-instituicoes-movimentos": [
@@ -77960,6 +78815,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O texto é construído como contraste. De um lado, o nacionalismo negro “estreito”, comandado por homens heterossexuais. De outro, o Black Lives Matter, que a autora define por extensão: mulheres, pessoas LGBT, pessoas com deficiência, sem documentos, com antecedentes criminais. A lista existe para mostrar que ser negro atravessa outros marcadores — é a leitura interseccional, que integra a diversidade interna do grupo. A alternativa (e) descreve justamente o modelo que o texto critica, e a (d) atribui ao movimento o supremacismo que ele combate."
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "fuvest-filosofia-sociologia-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Texto I “W. I. Thomas, decano dos sociólogos norte-americanos, formula um teorema básico para as ciências sociais: ‘Se os indivíduos definem as situações como reais, elas são reais em suas consequências’. (...) A primeira parte do teorema constitui uma incessante lembrança de que os homens reagem não somente aos traços objetivos de uma situação, como também, e às vezes principalmente, ao sentido que a situação tem para eles. E, assim que atribuíram algum sentido à situação, sua conduta consequente, e algumas das consequências dessa conduta, são determinadas pelo sentido atribuído. (...) A profecia que se cumpre por si mesma é, inicialmente, uma definição falsa da situação que provoca uma nova conduta, a qual, por sua vez, converte em verdadeiro o conceito originalmente falso.” MERTON, Robert. Sociologia: Teoria e Estrutura. São Paulo: Editora Mestre Jou, 1970. p.515-517. Texto II “Depois de alguns anos inseridos nesta lógica de abuso e privações de distintos tipos, o detento é novamente colocado em liberdade. (...) Conseguir um trabalho não é tão fácil como parece, já que mesmo as atividades menos qualificadas e manuais (como as relacionadas a limpeza, serviços gerais, construção civil, dentre outras) demandam ‘atestado de bons antecedentes e a marca da passagem pela cadeia pode significar um indesejável pertencimento ao mundo do crime’ (Ramalho, 2018, p. 91). (...) O fator [condicionante da reincidência] mais citado, presente em 44% dos textos [sobre o tema], foi a baixa qualificação e as poucas oportunidades, sendo essa a explicação padrão de boa parte da literatura para a reincidência.” RIBEIRO, Ludmila; OLIVEIRA, Valéria. Reincidência e reentrada na prisão no Brasil: o que os estudos dizem sobre os fatores que contribuem para essa trajetória. Artigo Estratégico 56. São Paulo: Instituto Igarapé, 2022. p.10-14.",
+   "enunciado": "Aplicando a noção proposta por Robert Merton, no texto I, ao cenário descrito no texto II, qual definição da situação das pessoas egressas do sistema prisional pelos possíveis empregadores no mercado de trabalho tornaria a reincidência criminal uma “profecia que se cumpre por si mesma”?",
+   "alternativas": {
+    "a": "Pessoas egressas do sistema prisional têm dificuldade de conseguir emprego no mercado de trabalho porque são estigmatizadas.",
+    "b": "Pessoas egressas do sistema prisional têm a mesma chance de conseguir empregos que o restante da população, razão pela qual não devem ser privilegiadas pelos empregadores.",
+    "c": "Pessoas egressas do sistema prisional já foram condenadas e cumpriram pena pelo crime cometido e merecem a oportunidade de trabalhar para recomeçarem a vida.",
+    "d": "Pessoas egressas do sistema prisional voltarão a cometer crimes e, por isso, não devem ser contratadas para trabalhar.",
+    "e": "Pessoas egressas do sistema prisional conseguem somente trabalhos informais e de baixa remuneração por terem pouca qualificação e dificuldades para conseguir seus documentos."
+   },
+   "resposta": "d",
+   "explicacao": "A profecia que se cumpre por si mesma começa numa definição falsa que, tomada como verdadeira, produz a conduta que a torna verdadeira. Aplicada aqui: o empregador parte de que o egresso voltará a delinquir e por isso não o contrata; sem trabalho, cresce a chance de reincidência — e o prognóstico se confirma por obra da própria recusa. A alternativa A descreve o estigma, que é o mecanismo, mas não a definição que o empregador adota; B e C são definições favoráveis, que não geram o efeito; e E descreve o resultado, a informalidade, e não a crença que o antecede."
   }
  ],
  "artes-classica-moderna": [
@@ -105091,6 +105966,26 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-citologia",
+   "id": "fuvest-biologia-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“O Quim disse-me também que as feridas do Cão Tinhoso eram por causa da guerra e da bomba atômica [...] O Quim disse-me isso de o Cão Tinhoso ser muito velho quando um dia o vimos a bocejar sem dentes na boca. Foi nesse dia que me contou a história da bomba atômica com os japoneses pequeninos a morrer todos que era uma beleza e o Cão Tinhoso a fugir depois de ela rebentar e a correr uma distância monstra para não morrer.” Luís Bernardo Honwana. Nós matamos o Cão Tinhoso!.",
+   "enunciado": "A radiação ionizante, resultante da explosão da bomba atômica, é capaz de provocar feridas na pele iguais às do Cão Tinhoso, que são consequências de",
+   "alternativas": {
+    "a": "mutações no DNA das células epiteliais, o que pode alterar seu ciclo celular.",
+    "b": "alterações no DNA mitocondrial que levam à redução do metabolismo celular.",
+    "c": "ativação dos processos de reparo do DNA e bloqueio da diferenciação celular.",
+    "d": "aumento da divisão meiótica decorrente do processo de crossing-over.",
+    "e": "processos de evolução desencadeados por mutações aleatórias."
+   },
+   "resposta": "a",
+   "explicacao": "A radiação ionizante quebra a molécula de DNA e produz mutações nas células da pele. Quando essas mutações atingem genes que regulam a divisão celular, o ciclo deixa de ser controlado e aparecem lesões e tumores. O DNA mitocondrial existe, mas não é o alvo que explica ferida cutânea (B); a ativação do reparo é resposta, não causa da lesão, e nada bloqueia a diferenciação (C); a meiose ocorre nas células germinativas, e não no epitélio da pele (D); e mutações aleatórias interessam à evolução quando são herdáveis, o que não é o caso das células somáticas atingidas (E)."
+  },
+  {
+   "subtema": "biologia-citologia",
    "id": "dir-ciencias-natureza-04",
    "texto_apoio": "As chuvas ácidas resultam da emissão de determinados poluentes atmosféricos provenientes de processos industriais e da queima de combustíveis.",
    "enunciado": "As chuvas ácidas são causadas, principalmente, pela reação da água presente na atmosfera com",
@@ -108509,6 +109404,26 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-diversidade",
+   "id": "fuvest-biologia-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "[...] Um sino de vidro claro, uma ampola cristalina e contrátil, flutua calma no seu caminho. “Peixinho, peixinho, deixe-a ir! Peixinho, peixinho, se apresse em fugir!” Ali atrás, longos fios transparentes se arrastam e os olhos do peixinho a um banquete convidam. “Serão, por acaso, minhocas o que eu vejo de repente?” “Peixinho, peixinho, deixe-me alertar! Peixinho, peixinho, não se deixe enganar!” Próximo demais o peixinho chegou: “Ai, ai, ai, agora ela me pegou! Firme me amarrou e não consigo me soltar! Firme me envolve e arde de matar!” [...] Tradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.",
+   "enunciado": "O fragmento de poema apresentado foi escrito pelo naturalista Fritz Müller para suas filhas. O trecho do poema permite afirmar que a predação é realizada por um/uma",
+   "alternativas": {
+    "a": "camarão.",
+    "b": "água-viva.",
+    "c": "tubarão.",
+    "d": "lula.",
+    "e": "plâncton."
+   },
+   "resposta": "b",
+   "explicacao": "O poema descreve um sino de vidro claro, uma ampola cristalina e contrátil que flutua, com longos fios transparentes arrastados atrás — e o peixinho que se aproxima demais fica firmemente preso e queimado. Corpo gelatinoso em forma de sino, tentáculos com cnidócitos que injetam veneno urticante: é uma água-viva, cnidário. Camarão e lula são artrópode e molusco, com corpo articulado ou musculoso, não gelatinoso; o tubarão não tem tentáculos nem queima; e plâncton designa o modo de vida à deriva, não um grupo, e o que o poema descreve é um predador."
+  },
+  {
+   "subtema": "biologia-diversidade",
    "id": "dir-ciencias-natureza-139",
    "banca": "fgv",
    "sessao": "fgv-unificado-2023.1",
@@ -110385,6 +111300,26 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-fisiologia",
+   "id": "fuvest-biologia-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A tabela a seguir mostra a condição de duas variáveis sociais em quatro cidades urbanas genéricas.\n\nCidade — % de domicílios com coleta de esgoto e tratamento de água — % da população imunizada com cobertura vacinal completa\nCidade I — 89% — 19%\nCidade II — 12% — 13%\nCidade III — 98% — 15%\nCidade IV — 10% — 90%",
+   "enunciado": "Com base nesses dados, é correto afirmar que a população humana dessas cidades tem risco aumentado de ter as respectivas doenças: cidade I cidade II cidade III cidade IV",
+   "alternativas": {
+    "a": "leptospirose influenza amebíase cólera",
+    "b": "COVID teníase tétano tuberculose",
+    "c": "hepatite B amebíase cólera leptospirose",
+    "d": "influenza teníase pneumonia COVID",
+    "e": "tuberculose poliomielite hepatite B amebíase"
+   },
+   "resposta": "e",
+   "explicacao": "Duas variáveis, duas rotas de transmissão. Saneamento ruim expõe a doenças de veiculação hídrica e fecal-oral; vacinação baixa expõe a doenças imunopreveníveis. A cidade I tem esgoto tratado e pouca vacina, e a tuberculose se transmite pelo ar e tem vacina; a cidade II falha nas duas coisas, e a poliomielite é fecal-oral e vacinável; a cidade III repete o perfil da I, com hepatite B, que se transmite por sangue e fluidos e tem vacina; a cidade IV vacina quase todo mundo mas não trata água, e a amebíase é fecal-oral e não tem vacina. As demais combinações colocam doença de veiculação hídrica em cidade com saneamento bom, ou doença imunoprevenível em cidade com cobertura vacinal alta."
+  },
+  {
+   "subtema": "biologia-fisiologia",
    "id": "dir-ciencias-natureza-02",
    "texto_apoio": "A eutrofização é um processo ecológico frequentemente associado à poluição de rios e lagos por esgoto doméstico e fertilizantes agrícolas.",
    "enunciado": "A eutrofização de um corpo d'água ocorre quando",
@@ -112147,6 +113082,46 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-ecologia",
+   "id": "fuvest-biologia-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Os jardins de chuva, como o esquematizado na figura, vêm sendo implantados em áreas urbanas como uma alternativa de baixo custo para minimizar alagamentos. São canteiros de plantas que ocupam partes rebaixadas do terreno, com a função de reter parte das águas pluviais e diminuir sua velocidade de escoamento. Para isso, o solo do jardim deve ser preparado a fim de absorver a água e facilitar sua infiltração, direcionando-a ao lençol freático. Outra vantagem desses jardins é a retenção e decomposição de poluentes carreados pelas águas pluviais. Ainda, ao mesclar diversos tipos de plantas, os jardins de chuva atraem animais e aumentam a biodiversidade local.",
+   "enunciado": "Com base na descrição do jardim de chuva apresentada, é correto afirmar que",
+   "alternativas": {
+    "a": "esse jardim de chuva pode ser considerado um ecossistema, no qual componentes bióticos e abióticos interagem numa dinâmica de autorregulação e autossustentação.",
+    "b": "nesse jardim de chuva é possível identificar uma teia alimentar com dois níveis tróficos, no qual todos os animais ocupam o nível dos consumidores secundários.",
+    "c": "esse jardim contém plantas dicotiledôneas e monocotiledôneas, caracterizadas por possuírem raízes pivotantes, que aumentam a eficiência na absorção de água.",
+    "d": "o uso de plantas com grande superfície foliar pode prejudicar a eficiência de um jardim de chuva, diminuindo a evapotranspiração da água.",
+    "e": "a decomposição que ocorre no jardim de chuva é feita por organismos parasitas, que transformam os detritos em nutrientes, resultando, na etapa final, em moléculas orgânicas complexas."
+   },
+   "resposta": "a",
+   "explicacao": "O jardim de chuva reúne seres vivos (plantas, animais atraídos, decompositores) e fatores não vivos (água, solo, nutrientes) que interagem e se regulam: é a definição de ecossistema, ainda que criado pelo homem e de pequena escala. A alternativa B tranca todos os animais num mesmo nível trófico, o que nenhuma teia permite; C atribui raiz pivotante também às monocotiledôneas, que têm raiz fasciculada; D trata a evapotranspiração como prejuízo, quando ela ajuda a devolver água à atmosfera; e E chama os decompositores de parasitas e faz a decomposição terminar em moléculas orgânicas complexas, quando ela termina em compostos simples e minerais."
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "fuvest-biologia-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Pesquisadores realizaram em 2022 uma expedição que promete fazer história. Destino: Serra do Imeri, um conjunto de montanhas no norte do Amazonas. O objetivo da missão foi a realização de um inventário de biodiversidade para saber que tipos de animais e plantas ocorrem na região e de que forma eles se relacionam, ou não, com as espécies que habitam as partes mais baixas do bioma. O Pico da Neblina, o mais alto do Brasil, com 2.995 m, faz parte da Serra do Imeri, mas integra maciço rochoso diferente, fisicamente separado da área da expedição. Do ponto de vista ecológico, são como dois arquipélagos distintos, separados por um grande mar de floresta verde.” Localização da Serra do Imeri. Disponível em https://jornal.usp.br/ciencias/rumo-a-amazonia- desconhecida/21/10/2022. Adaptado.",
+   "enunciado": "Com base nas informações fornecidas e em seus conhecimentos, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "As barreiras naturais da Serra do Imeri tornam possível o desenvolvimento do endemismo, pois há potencialização da formação de novas espécies em função do grande isolamento geográfico.",
+    "b": "A área de estudo homogênea e contínua permitiu a comunicação e o desenvolvimento de riqueza ímpar quanto à biodiversidade, em especial por conter condições ambientais típicas do ecossistema amazônico.",
+    "c": "O isolamento da Serra do Imeri provoca a menor ocorrência de espécies endêmicas na região, cujos animais e plantas não possuem relação direta com o extenso bioma Amazônico.",
+    "d": "O conhecimento de espécies biológicas e seus ecossistemas, assim como a compreensão de seus habitats, acelera a extinção de plantas e outros seres vivos, diminuindo a biodiversidade.",
+    "e": "A Serra do Imeri representa comunidade ecológica ameaçada de extinção em razão dos problemas comuns ao bioma Amazônico, tais como expansão da agropecuária, instalação de garimpos e extração de madeira."
+   },
+   "resposta": "a",
+   "explicacao": "O texto compara a serra do Imeri e o pico da Neblina a dois arquipélagos separados por um mar de floresta: são topos de montanha isolados, com clima próprio, cercados por terras baixas que as espécies de altitude não atravessam. Isolamento geográfico impede o fluxo gênico, as populações divergem e surgem espécies que só existem ali — endemismo. A alternativa B chama a área de homogênea e contínua, o oposto do que o texto diz; C deduz do isolamento menos endemismo, invertendo a relação; D faz o conhecimento acelerar a extinção; e E fala em ameaça por garimpo e desmatamento, que são reais na Amazônia, mas não é o que os dados apresentados permitem concluir."
+  },
+  {
+   "subtema": "biologia-ecologia",
    "id": "dir-ciencias-natureza-01",
    "texto_apoio": "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
    "enunciado": "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
@@ -113711,6 +114686,25 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-evolucao",
+   "id": "fuvest-biologia-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Sobre as relações filogenéticas entre a lampreia, o tubarão, o lagarto e o ser humano, é correto afirmar que",
+   "alternativas": {
+    "a": "a lampreia é o ancestral comum de todos os vertebrados incluídos no cladograma.",
+    "b": "o tubarão surgiu da lampreia e deu origem aos vertebrados tetrápodes.",
+    "c": "os peixes (lampreia e tubarão) possuem um ancestral compartilhado com os tetrápodes.",
+    "d": "o lagarto é mais proximamente relacionado ao tubarão que ao ser humano.",
+    "e": "o ser humano é o mais evoluído dentre todos os vertebrados incluídos no cladograma."
+   },
+   "resposta": "c",
+   "explicacao": "Todo cladograma parte de um ancestral comum na raiz, e por isso lampreia, tubarão, lagarto e ser humano compartilham um ancestral — os peixes e os tetrápodes descendem dele. A alternativa A confunde um grupo atual com o ancestral: a lampreia é uma linhagem viva, não o antepassado das demais; B repete o erro dizendo que o tubarão surgiu da lampreia; D é falsa porque lagarto e ser humano são ambos tetrápodes e se separaram do tubarão muito antes de se separarem entre si; e E aplica à filogenia uma escala de perfeição que ela não tem, já que todos os ramos têm o mesmo tempo de evolução."
+  },
+  {
+   "subtema": "biologia-evolucao",
    "id": "dir-ciencias-natureza-06",
    "texto_apoio": "A resistência bacteriana a antibióticos é apontada pela Organização Mundial da Saúde como uma das principais ameaças à saúde pública global.",
    "enunciado": "O uso inadequado e excessivo de antibióticos, tanto em humanos quanto na produção animal, contribui para a resistência bacteriana porque",
@@ -115151,6 +116145,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Para somar as semirreações, os elétrons precisam se cancelar. A oxidação libera 8 e− e a redução consome 4, então a segunda equação é multiplicada por 2: 8 H+ + 2 O2 + 8 e− → 4 H2O. Somando com a primeira e cortando os elétrons, sobram 2 H2O e 8 H+ de um lado contra 7 H+ e 4 H2O do outro. Cancelando o que é comum, resta CH3COO− + H+ + 2 O2 → 2 CO2 + 2 H2O, que é a alternativa (c). As alternativas (b) e (e) apresentam a reação invertida, e (a) e (d) não fecham o balanço de massa nem de carga."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "fuvest-quimica-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "No processo de compra e venda de artigos de ouro, é comum testar os objetos para verificar se eles realmente são feitos de ouro ou se são alguma falsificação feita com metais menos nobres. Esse teste é feito adicionando um pequeno volume de ácido forte concentrado às raspas do objeto a ser testado. Caso o objeto seja feito com ouro, as raspas permanecem visíveis, enquanto as raspas de falsificações são dissolvidas.",
+   "enunciado": "Considerando apenas o potencial de redução padrão, qual das alternativas apresenta um material que poderia gerar um falso positivo para o objeto de ouro no teste descrito?",
+   "alternativas": {
+    "a": "Mg",
+    "b": "Al",
+    "c": "Fe",
+    "d": "Pt",
+    "e": "F2"
+   },
+   "resposta": "d",
+   "explicacao": "O teste funciona porque o ácido oferece H⁺, de potencial de redução zero: metal com potencial negativo se oxida e se dissolve, metal com potencial acima de zero resiste. Magnésio (−2,37), alumínio (−1,66) e ferro (−0,44) ficam todos abaixo do hidrogênio e seriam dissolvidos, denunciando a falsificação. A platina, com +1,20 V, é mais nobre que o hidrogênio e não é atacada — as raspas permanecem visíveis e o objeto passa por ouro. O F2 não é material de que se faça um objeto: é gás, e aparece na tabela como agente oxidante, não como metal a testar."
   }
  ],
  "quimica-atomistica-ligacoes": [
@@ -116562,6 +117576,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O caráter iônico de uma ligação cresce com a diferença de eletronegatividade entre os dois átomos envolvidos. Do lado do carboxilato quem faz a ligação é o oxigênio, com 3,44 fixo para todos os casos, então basta procurar o metal de menor eletronegatividade — é ele que produz a maior diferença. As diferenças são: K, 3,44 − 0,82 = 2,62; Ca, 2,44; Mg, 2,13; Zn, 1,79; Fe, 1,61. O potássio vence com folga. Repare que a resposta não depende da carga do cátion nem do fato de o cálcio e o magnésio serem divalentes: a pergunta é sobre o tipo de ligação, não sobre a intensidade da atração eletrostática."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Quando uma solução de NaCl é colocada em contato com uma chama, observa-se uma luz amarela. Quando esse mesmo experimento é realizado na presença de uma lâmpada de Na, a chama aparenta estar preta.",
+   "enunciado": "Considerando que um material emite e absorve radiação em um mesmo comprimento de onda, assinale a afirmação correta sobre o experimento.",
+   "alternativas": {
+    "a": "Na figura (I), a chama é amarela devido à absorção de luz pelos átomos de Na; enquanto, em (II), a chama está preta porque o Na deixa de absorver quando a chama é irradiada pela lâmpada de sódio.",
+    "b": "Na figura (I), a chama é amarela porque esta é a cor de qualquer chama; enquanto, em (II), a chama está preta porque o Na absorve a energia da chama.",
+    "c": "Na figura (I), a chama é amarela porque esta é a cor de qualquer chama; enquanto, em (II), a chama está preta devido à combustão incompleta.",
+    "d": "Na figura (I), a chama é amarela devido à emissão de luz pelos átomos de Na; enquanto, em (II), a chama está preta devido à combustão incompleta.",
+    "e": "Na figura (I), a chama é amarela devido à emissão de luz pelos átomos de Na; enquanto, em (II), a chama está preta porque os átomos de Na da chama absorvem a luz proveniente da lâmpada de Na."
+   },
+   "resposta": "e",
+   "explicacao": "Na chama, o elétron do sódio é promovido a um nível mais alto e devolve a energia como luz ao voltar: é emissão, e o amarelo do teste de chama é a assinatura do sódio. Como o mesmo átomo absorve no mesmo comprimento de onda em que emite, iluminar a chama com uma lâmpada de sódio faz os átomos de Na absorverem justamente aquela luz — a chama deixa de deixar passar o amarelo e se recorta escura contra a lâmpada. As alternativas B e C afirmam que amarelo é a cor de qualquer chama, o que negaria o próprio teste; A troca emissão por absorção na primeira figura; e a combustão incompleta (C e D) produziria fuligem luminosa, não uma silhueta preta."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "As moléculas de água podem conter o isótopo estável mais abundante de oxigênio, 16O, ou o isótopo estável menos abundante, 18O. Essa pequena diferença de massa entre as moléculas de água é suficiente para alterar a sua pressão de vapor. Por esse motivo, a análise de isótopos de oxigênio na água da chuva possibilita a identificação de períodos secos e de períodos chuvosos.",
+   "enunciado": "Com base nessas informações, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "Em períodos de alta pluviosidade, as primeiras precipitações da nuvem são isotopicamente mais leves e a nuvem de chuva se enriquece, relativamente, em 18O.",
+    "b": "Em períodos de baixa pluviosidade, a constituição isotópica das nuvens pouco se altera ao longo do tempo, e a pouca chuva dessas nuvens é relativamente enriquecida em 18O.",
+    "c": "No período atual, em função do aquecimento global, as temperaturas elevadas fazem com que o fracionamento isotópico de 16O e 18O resultante da evaporação e da precipitação da água não ocorra.",
+    "d": "Em períodos glaciais, em função da maior temperatura do planeta, as chuvas são enriquecidas em 18O, enquanto, nos oceanos, a água é enriquecida em 16O.",
+    "e": "Em períodos interglaciais, em função da menor temperatura do planeta, as chuvas são enriquecidas em 16O, enquanto, nos oceanos, a água é enriquecida em 18O."
+   },
+   "resposta": "b",
+   "explicacao": "A água com 18O é mais pesada e tem pressão de vapor menor: evapora menos e condensa primeiro. As primeiras chuvas de uma nuvem saem, por isso, enriquecidas em 18O, e a nuvem vai ficando isotopicamente mais leve à medida que chove. Se chove pouco, a nuvem quase não perde 18O e sua composição pouco muda — e a pouca chuva que cai é a fração enriquecida no isótopo pesado. A alternativa A diz que as primeiras precipitações são mais leves, invertendo o fracionamento; C afirma que o fracionamento deixou de ocorrer, o que anularia o próprio método; e D e E trocam entre si os períodos glaciais e interglaciais e atribuem a cada um a temperatura do outro."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um tema de grande interesse na química é a ativação seletiva de ligações C-H. Essa ativação permite a substituição de H nessas ligações por outros átomos, como O ou N. A relevância desse tema pode ser verificada em um estudo recentemente publicado no prestigioso periódico Science, que conta com uma egressa da USP dentre seus autores. A baixa diferença de eletronegatividade entre C e H é um dos motivos que dificulta a ativação da ligação C-H, pois torna a ligação pouco polar e diminui sua reatividade.\n\nNote e adote: Número atômico (Z) dos elementos: H = 1, C = 6, N = 7, O = 8, F = 9, P = 15, S = 16, Cl = 17.",
+   "enunciado": "Considerando apenas a eletronegatividade dos elementos, qual das alternativas apresenta uma ligação ainda menos reativa do que a ligação C-H?",
+   "alternativas": {
+    "a": "C-N",
+    "b": "C-F",
+    "c": "S-O",
+    "d": "P-H",
+    "e": "P-Cl"
+   },
+   "resposta": "d",
+   "explicacao": "O enunciado dá a regra: quanto menor a diferença de eletronegatividade, menos polar a ligação e menos reativa ela é. Carbono e hidrogênio já são próximos, e fósforo e hidrogênio são ainda mais — o fósforo está um período abaixo do nitrogênio e a eletronegatividade cai ao descer o grupo, de modo que P e H praticamente empatam e a ligação P-H é quase apolar. Nas outras quatro há sempre um elemento fortemente eletronegativo do lado direito da tabela (N, F, O, Cl) puxando o par de elétrons, o que aumenta a polaridade e, com ela, a reatividade."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -122053,6 +123127,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A cadeia de conversões é longa, mas cada elo é direto. Dez mols de etanol pesam 460 g e, com densidade 0,78 g/mL, ocupam cerca de 590 mL, ou seja, 0,59 L — exatamente o volume que 1 m³ de biogás substitui. Então basta 1 m³ = 1000 L de biogás. Desses, 70% são metano: 700 L. Dividindo pelo volume molar, 700/22 ≈ 31,8 mol, que a 16 g/mol dão cerca de 510 g. A alternativa (d) é a pegadinha para quem para no volume de etanol em mililitros e o lê como massa de metano."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fuvest-quimica-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura. Durante o processo de geração de H2 Após o processo de geração de H2 Ao frasco à esquerda adicionou-se uma quantidade pré- determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn0(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\n\nNote e adote: Volume molar do gás ideal nas condições do experimento = 24,9 L. Massa molar do Zn = 65,4 g/mol.",
+   "enunciado": "Considerando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?",
+   "alternativas": {
+    "a": "0,07",
+    "b": "0,13",
+    "c": "0,26",
+    "d": "0,29",
+    "e": "0,48"
+   },
+   "resposta": "b",
+   "explicacao": "Os 49,8 mL de hidrogênio correspondem a 0,0498 L ÷ 24,9 L/mol = 2,0 × 10⁻³ mol de H2. A equação Zn + 2H⁺ → Zn²⁺ + H2 é 1 para 1, então reagiram 2,0 × 10⁻³ mol de zinco. Multiplicando pela massa molar, 2,0 × 10⁻³ × 65,4 = 0,13 g. O valor 0,26 (C) sairia de dobrar a proporção, como se cada mol de zinco desse dois de gás; 0,07 (A) sai de dividi-la pela metade; e 0,29 e 0,48 não correspondem a nenhuma leitura da estequiometria."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -123327,6 +124421,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A lei de velocidade vem das ORDENS informadas, não dos coeficientes da equação: v = k[Br₂]¹[NO]². Triplicar o bromo multiplica a velocidade por 3; reduzir o óxido à metade a multiplica por (1/2)² = 1/4, porque a ordem dele é dois. O fator combinado é 3 × 1/4 = 3/4, e 12,0 × 3/4 = 9,0 mol/L·s. Quem trata o NO como primeira ordem obtém 3 × 1/2 = 3/2 e chega a 18,0; quem esquece a redução do NO e só triplica chega a 36,0. É o expoente 2 que faz a velocidade CAIR mesmo com o bromo triplicado."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A temperatura ideal para uso de um forno a lenha para preparo de pizzas pode ser inferida pela observação da coloração das paredes internas do forno. Abaixo da temperatura ideal, um material particulado preto proveniente da queima da lenha pode ser visto recobrindo as paredes internas. Quando a temperatura ideal é atingida, esse material particulado não é mais observado e a superfície mais clara do interior do forno pode ser vista.",
+   "enunciado": "A coloração da superfície interior do forno permite inferir a temperatura ideal, pois",
+   "alternativas": {
+    "a": "a fuligem advinda do processo de combustão incompleta da lenha deposita-se nas paredes e, com o aumento da temperatura, reage com o oxigênio do ar e produz gás carbônico, permitindo ver a cor mais clara da parede interna do forno.",
+    "b": "a coloração preta é originada pela fuligem da combustão completa da lenha, o que causa o aumento da temperatura até que a parede do forno se torne incandescente, revelando sua cor mais clara.",
+    "c": "a coloração preta é observada por conta da baixa quantidade de luz gerada pelas chamas da lenha em combustão a baixas temperaturas e essa quantidade de luz aumenta à medida que a temperatura se torna elevada.",
+    "d": "o material particulado se funde, escorrendo pelas paredes do forno quando a temperatura ideal é atingida, revelando a coloração mais clara do interior do forno.",
+    "e": "a alta quantidade de gás carbônico produzida em baixas temperaturas forma uma névoa que não permite a passagem de luz, o que torna o interior escuro."
+   },
+   "resposta": "a",
+   "explicacao": "Com pouco oxigênio disponível e temperatura baixa, a lenha queima de forma incompleta e deposita fuligem — carbono — nas paredes. Aquecido o forno, essa fuligem passa a reagir com o oxigênio do ar e se converte em gás carbônico, deixando a parede à mostra. A alternativa B atribui a fuligem à combustão completa, que produziria só CO2 e água; C explica a cor pela pouca luz das chamas, quando o preto está depositado na parede; D faz o carbono se fundir e escorrer, e ele sublima a temperaturas altíssimas, não funde a algumas centenas de graus; e E inventa uma névoa opaca de CO2, gás incolor."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Fogareiros abastecidos com pequenos botijões de gás são equipamentos corriqueiros em trilhas e escaladas de duração prolongada, para possibilitar o cozimento de alimentos. Em geral, esses botijões são abastecidos com propano, isobutano ou n-butano. A tabela mostra a temperatura de ebulição e o calor liberado na combustão desses três gases, à pressão atmosférica.\n\nGás — temperatura de ebulição (°C) — calor liberado na combustão (kcal/m³ de substância na fase gasosa)\nPropano — −42 — 5065\nIsobutano — −12 — 8211\nn-Butano — −1 — 8411",
+   "enunciado": "Com base nessas informações, qual seria o gás mais indicado para a utilização em um ambiente com temperatura típica de −6 °C, considerando a viabilidade e o consumo de gás necessário para o preparo de alimentos?",
+   "alternativas": {
+    "a": "Propano, por estar líquido em −6 °C e, dentre as substâncias líquidas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+    "b": "Isobutano, por estar gasoso em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+    "c": "n-Butano, por estar gasoso em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+    "d": "n-Butano, por estar líquido em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer menos calor por volume de gás.",
+    "e": "Isobutano, por estar gasoso em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer menos calor por volume de gás."
+   },
+   "resposta": "b",
+   "explicacao": "A −6 °C, só o propano (ebulição a −42 °C) e o isobutano (−12 °C) já passaram do ponto de ebulição e estão gasosos; o n-butano ferve a −1 °C e ainda estaria líquido, sem alimentar o fogareiro. Entre os dois que servem, o isobutano libera 8211 kcal por metro cúbico contra 5065 do propano — mais calor por volume de gás, portanto menos gás gasto para cozinhar. As alternativas A e D trocam as fases, pondo como líquido o que está gasoso e vice-versa; C escolhe o n-butano, que a essa temperatura não vaporiza; e E acerta o gás mas erra a justificativa, dizendo que ele fornece menos calor."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Apesar de a África ser considerada o berço das civilizações e existirem indícios de conhecimentos elementares de Química no sul do continente cerca de 100.000 anos atrás, os conhecimentos químicos ensinados são eurocentristas. Entretanto, uma das grandes contribuições para o estudo de reatividade química é atribuída ao químico egípcio Ahmed Hassan Zewail, agraciado com o prêmio Nobel em 1999 por seus estudos de reações químicas usando uma técnica conhecida como espectroscopia de femtossegundos. Essa técnica possibilita identificar espécies com tempo de vida curto utilizando pulsos de laser com duração de 10−15 s.",
+   "enunciado": "Essa contribuição é relevante para o estudo de reações químicas, pois",
+   "alternativas": {
+    "a": "todos os processos químicos são extremamente rápidos e não podem ser estudados por técnicas que não sejam em femtossegundos.",
+    "b": "as reações químicas podem passar por espécies instáveis e com pouco tempo de vida.",
+    "c": "o tempo existente para analisar os produtos de uma reação depende apenas da quantidade de produtos formada.",
+    "d": "permite entender como reagentes específicos se comportam frente a processos reacionais que são extremamente lentos.",
+    "e": "apenas com uma técnica tão rápida é possível analisar o grau de pureza dos reagentes isolados."
+   },
+   "resposta": "b",
+   "explicacao": "Entre reagentes e produtos, muitas reações passam por estados de transição e intermediários que existem por femtossegundos e desaparecem antes que qualquer técnica lenta os registre. Pulsos de laser de 10⁻¹⁵ s conseguem fotografá-los, e é isso que permite descrever o caminho real da reação, não só as pontas. A alternativa A generaliza dizendo que todos os processos são rapidíssimos, quando muitos são lentos; C faz o tempo de análise depender só da quantidade de produto; D usa a técnica ultrarrápida para estudar processos lentos, que dispensariam essa resolução; e E a emprega para medir pureza de reagentes isolados, que é análise de rotina."
   }
  ],
  "fisica-mecanica": [
@@ -125541,6 +126695,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O carro roda 480 km a 100 km/h, o que dá 4,8 h = 288 min, mas é ele quem não tem o serviço automático: para nas 10 praças, 3 min em cada, somando 30 min. Total do carro: 318 min. O caminhão roda 480 km a 80 km/h, o que dá 6 h = 360 min, e não perde tempo nenhum nas cancelas. A diferença é 360 − 318 = 42 min. A leitura invertida — supor que o caminhão é que para — daria 288 contra 390 e nenhuma opção; e quem esquece as paradas de vez chega a 72, que é a diferença só das velocidades e está ali como distrator."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fuvest-fisica-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Note e adote: Aceleração da gravidade (g) = 10 m/s².",
+   "enunciado": "Uma das modalidades de skate é o bowl, disputado em um espaço em formato aproximado de bacia. Supondo um bowl com profundidade de 2,45 m, qual a máxima velocidade que um skatista, partindo do repouso no ponto mais alto da bacia, poderia alcançar no ponto mais baixo?",
+   "alternativas": {
+    "a": "3 m/s",
+    "b": "5 m/s",
+    "c": "7 m/s",
+    "d": "9 m/s",
+    "e": "11 m/s"
+   },
+   "resposta": "c",
+   "explicacao": "Partindo do repouso no alto da bacia, toda a energia potencial gravitacional vira cinética no ponto mais baixo, se não houver perdas: mgh = mv²/2, e a massa se cancela. Logo v = √(2gh) = √(2 × 10 × 2,45) = √49 = 7 m/s. Os valores 5 e 9 m/s corresponderiam a profundidades de 1,25 m e 4,05 m, e 3 e 11 m/s ficam ainda mais longe — nenhum deles sai dos 2,45 m dados."
   }
  ],
  "fisica-termologia": [
@@ -126872,6 +128046,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A água aquecida no coletor se dilata, fica menos densa e sobe para o reservatório; a água fria do reservatório, mais densa, desce para o coletor e ocupa o lugar dela. Esse ciclo é o termossifão, um caso de convecção natural — e é exatamente por isso que o reservatório é instalado acima dos coletores. A irradiação é o mecanismo pelo qual o Sol entrega energia ao coletor, não o que move a água entre as duas partes, e a condução exigiria contato direto sem transporte de matéria."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "fuvest-fisica-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Para esfriar um copo contendo 250 mL de água fervente (100 °C), é comum utilizar o seguinte método: Passo 1. Colocar esse copo dentro de uma vasilha em contato com 1 litro de água à temperatura ambiente (25 °C). Passo 2. Esperar que entrem em equilíbrio térmico. Passo 3. Tirar o copo e trocar a água da vasilha por outro litro de água à temperatura ambiente. Passo 4. Colocar o copo em contato com a água nova e esperar que entrem em equilíbrio térmico.",
+   "enunciado": "Após o passo (4) desse método, a temperatura da água no copo será aproximadamente:",
+   "alternativas": {
+    "a": "14°C",
+    "b": "28°C",
+    "c": "40°C",
+    "d": "60°C",
+    "e": "84°C"
+   },
+   "resposta": "b",
+   "explicacao": "Como os dois lados são água, o calor específico se cancela e a temperatura de equilíbrio é a média ponderada pelas massas. No primeiro contato: (250 × 100 + 1000 × 25) ÷ 1250 = 50 000 ÷ 1250 = 40 °C. Trocada a água da vasilha, o copo entra a 40 °C no segundo contato: (250 × 40 + 1000 × 25) ÷ 1250 = 35 000 ÷ 1250 = 28 °C. O valor 40 °C (C) é o resultado de parar no primeiro passo; 14 °C ficaria abaixo da temperatura ambiente, o que nenhuma troca de calor entre esses dois corpos produz; e 60 e 84 °C sobrestimam a inércia térmica do copo, que tem um quarto da massa da vasilha."
   }
  ],
  "fisica-ondas-optica": [
@@ -129911,6 +131105,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A imagem do escâner é uma radiografia: forma-se pela diferença de absorção dos raios X ao atravessarem os materiais. Bateria, blindagens e placas do computador são densos e absorvem quase toda a radiação, criando uma mancha opaca que esconde o que estiver alinhado atrás ou à frente dela. Retirar o aparelho elimina essa sombra. A alternativa (a) afirma o oposto do que ocorre — os raios X interagem intensamente com o metal, e é justamente esse o problema."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "fuvest-fisica-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere os textos a seguir sobre o campo magnético terrestre, essencial para a manutenção da vida no planeta: “O campo magnético é o resultado do movimento do ferro líquido que envolve o núcleo interno do planeta, formado de ferro sólido. Ao girar a uma velocidade maior que aquela da superfície, o ferro líquido produz um campo magnético com dois polos magnéticos opostos, próximos aos polos Norte e Sul geográficos.”(1) “O campo magnético do planeta, porém, não é estável e vem enfraquecendo continuamente desde pelo menos 1832, quando o físico e matemático alemão Carl Friedrich Gauss aferiu pela primeira vez sua intensidade. De lá para cá, medições mais frequentes e precisas confirmam que a intensidade diminui à taxa de 17 nanoteslas (nT) por ano – o campo tem 66 mil nT nos polos e 22 mil nT sobre uma faixa do hemisfério Sul que vai da África à América do Sul.”(2) Fontes: (1) O norte da questão, Revista Pesquisa FAPESP, junho de 2018. Adaptado. (2) Uma falha no campo magnético da Terra passeia sobre o Brasil, Revista Pesquisa FAPESP, maio de 2021.",
+   "enunciado": "Com base nos textos apresentados e nos seus conhecimentos, é correto afirmar que:",
+   "alternativas": {
+    "a": "A variação da intensidade do campo magnético terrestre ao longo da linha do Equador é menor do que 10−6 T.",
+    "b": "O campo magnético terrestre é constante em módulo ao longo do meridiano de Greenwich.",
+    "c": "O campo magnético terrestre é uniforme e esférico, tal como o campo gerado por um dipolo magnético.",
+    "d": "Embora atualmente o campo magnético terrestre tenha intensidade maior nas regiões dos polos, esta é consideravelmente menor na região do Brasil e adjacências.",
+    "e": "A geração do campo magnético é naturalmente explicada por uma distribuição estática de cargas no núcleo interno do planeta."
+   },
+   "resposta": "d",
+   "explicacao": "O segundo texto dá os dois números: 66 mil nT nos polos e 22 mil nT na faixa que vai da África à América do Sul — a Anomalia Magnética do Atlântico Sul. O campo sobre o Brasil vale, portanto, cerca de um terço do valor polar. A alternativa A propõe variação menor que 10⁻⁶ T ao longo do Equador, quando a diferença citada é de dezenas de milhares de nanoteslas, ou seja, da ordem de 10⁻⁵ T; B afirma módulo constante ao longo de um meridiano, o que a própria anomalia desmente; C chama o campo de uniforme, e campo de dipolo não é uniforme; e E o atribui a cargas estáticas, quando o primeiro texto o explica pelo movimento do ferro líquido — corrente elétrica, não eletrostática."
   }
  ],
  "fisica-hidrostatica": [
@@ -133506,6 +134720,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A luz ambiente excita elétrons do material, que saltam para níveis de energia mais altos. Na fosforescência esses elétrons ficam presos em estados metaestáveis — criados justamente pela dopagem com prata ou cobre — e retornam ao estado fundamental lentamente, emitindo fótons por minutos ou horas depois de cessada a iluminação. A cor amarelo-esverdeada corresponde à diferença de energia entre os níveis. Não há reação nuclear envolvida, e reflexão exige fonte de luz presente, o que contradiz o brilho no escuro."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fuvest-fisica-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Os experimentos de difração e interferência da luz realizados no período de 1800 a 1803, em analogia com os processos de interferência das ondas acústicas, corroboraram a natureza ondulatória da luz. Por outro lado, Einstein introduziu, em 1905, o conceito de fóton, em que cada componente monocromática de frequência 𝑓 da radiação seria equivalente a um sistema de partículas idênticas sem massa, cada qual com energia ℎ𝑓, sendo ℎ≃6,626×10−34 J.s a constante de Planck. A hipótese da existência de fótons só teve ampla aceitação após os experimentos de Compton, em 1922, sobre o espalhamento da radiação eletromagnética na faixa dos raios X por alvos de elementos leves, como o grafite.” Adaptado de F. Caruso e V. Oguri, Sobre a necessidade do conceito de fóton, RBEF 43, e20210011 (2021).",
+   "enunciado": "De acordo com o texto e seus conhecimentos, é correto afirmar:",
+   "alternativas": {
+    "a": "A radiação eletromagnética apresenta somente comportamento ondulatório.",
+    "b": "Os experimentos de Compton mostraram que feixes de raios X exibem comportamento corpuscular.",
+    "c": "A energia de um fóton independe de seu comprimento de onda.",
+    "d": "A hipótese da natureza corpuscular da radiação está em desacordo com os resultados experimentais.",
+    "e": "Einstein demonstrou que os experimentos de difração e interferência da luz deveriam estar incorretos."
+   },
+   "resposta": "b",
+   "explicacao": "Compton fez raios X colidirem com elétrons de alvos leves e mediu o desvio no comprimento de onda da radiação espalhada — resultado que só se explica tratando o raio X como um feixe de partículas que troca momento na colisão. É a evidência do comportamento corpuscular. A alternativa A descarta metade da dualidade ao deixar só a onda; C contraria E = hf = hc/λ, que amarra a energia do fóton ao comprimento de onda; D diz que a hipótese corpuscular contraria os experimentos, quando foram eles que a confirmaram; e E põe Einstein negando a difração e a interferência, que continuam válidas — as duas descrições coexistem."
   }
  ]
 };

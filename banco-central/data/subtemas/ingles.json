@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "ingles",
- "total": 516,
+ "total": 521,
  "residuo": [
   "med-ingles-44",
   "med-ingles-46",
@@ -2982,6 +2982,34 @@
   },
   "enem-ingles-07": {
    "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-1": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-ingles-2": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-3": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "fuvest-ingles-4": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fuvest-ingles-5": {
+   "subtema": "ingles-inference",
    "frenteDestino": "ingles",
    "revisado": true
   }

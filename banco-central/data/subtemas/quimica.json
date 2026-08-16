@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "quimica",
- "total": 503,
+ "total": 511,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -3007,6 +3007,51 @@
    "frenteDestino": "quimica",
    "pontos": 5,
    "margem": 5
+  },
+  "fuvest-quimica-1": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fuvest-quimica-2": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "fuvest-quimica-3": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "fuvest-quimica-4": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "fuvest-quimica-5": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fuvest-quimica-6": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 24,
+   "margem": 24
+  },
+  "fuvest-quimica-7": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "fuvest-quimica-8": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "revisado": true
   }
  }
 }

@@ -4515,6 +4515,101 @@
       },
       "resposta": "a",
       "explicacao": "As três cenas convergem no mesmo alvo, e não é o espanhol: é o modo como a autora fala inglês. A professora a pune quando ela tenta ensinar a pronúncia do próprio nome; a mãe se envergonha porque a filha fala inglês “como mexicana”; e a universidade obriga os estudantes chicanos a aulas cujo propósito declarado é eliminar o sotaque. O que se rejeita é a marca do espanhol dentro do inglês. A alternativa (b) erra ao falar em resignação, já que Anzaldúa denuncia em vez de aceitar, e a (c) inverte o problema: não falta ensino de espanhol, sobra repressão a ele."
+    },
+    {
+      "id": "fuvest-ingles-1",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Vincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is “immersive”, the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of “immersive” retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn’t do much in the way of sensory stimulation. My favourite element of an “immersive” show I have been to was their faithful recreation of Van Gogh’s bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don’t even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation “immersive experiences” have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces. Disponível em https://www.vice.com/en/article/. Adaptado.",
+      "enunciado": "De acordo com o texto, muitos visitantes das exposições de arte imersivas demonstram",
+      "alternativas": {
+        "a": "fascínio pelas novidades tecnológicas utilizadas pelos curadores.",
+        "b": "desconforto causado pelo excesso de estímulos sensoriais.",
+        "c": "curiosidade sobre a biografia dos pintores e os movimentos artísticos.",
+        "d": "apreciação pelas informações oferecidas por guias e educadores.",
+        "e": "indiferença diante das simulações das obras de arte."
+      },
+      "resposta": "e",
+      "explicacao": "O penúltimo parágrafo diz que as instalações são por vezes tão banais e rasas que os visitantes \"have often walked through installations entirely oblivious to whatever is happening around them\" — atravessam a exposição sem se dar conta do que acontece à volta. Isso é indiferença diante das simulações. O texto atribui fascínio pela novidade aos organizadores, não ao público (A); o desconforto que menciona é o dos assentos, não excesso de estímulo (B); e nada diz sobre curiosidade biográfica (C) nem sobre guias e educadores (D)."
+    },
+    {
+      "id": "fuvest-ingles-2",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Vincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is “immersive”, the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of “immersive” retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn’t do much in the way of sensory stimulation. My favourite element of an “immersive” show I have been to was their faithful recreation of Van Gogh’s bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don’t even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation “immersive experiences” have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces. Disponível em https://www.vice.com/en/article/. Adaptado.",
+      "enunciado": "O texto apresenta uma crítica às exposições de arte imersivas que está relacionada com",
+      "alternativas": {
+        "a": "a manipulação digital das imagens exibidas pelos usuários do TikTok.",
+        "b": "o emprego das obras de arte para fins publicitários ilícitos.",
+        "c": "a cobrança pelo uso de equipamentos para simular a experiência de imersão nas obras.",
+        "d": "a falta de informação para o público leigo nos catálogos das exibições.",
+        "e": "o investimento necessário para a criação da tecnologia usada nas instalações."
+      },
+      "resposta": "c",
+      "explicacao": "O autor conta que muitas exposições não incluem os óculos de realidade virtual no ingresso comum, e que por duas vezes sua volta à realidade foi acompanhada de \"an usher brandishing a credit card machine\" — um funcionário com a maquininha de cartão. A crítica recai sobre a cobrança à parte pelo equipamento que produz a imersão. O texto não trata de manipulação digital por usuários do TikTok (A), de uso publicitário ilícito (B), de catálogos (D) nem do custo de desenvolver a tecnologia (E)."
+    },
+    {
+      "id": "fuvest-ingles-3",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fuvest",
+      "texto_apoio": "Over the last two decades, technology companies and policymakers warned of a “digital divide” in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level. A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion- dollar enterprise offering new opportunities — at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching. “What’s happened as sports has become privatized is that it has become the haves and have-nots,” said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. “Particularly for low-income kids, if they don’t have access to sports within the school setting, where are they going to get their physical activity?” Mr. Solomon said. “The answer is nowhere.” The New York Times. 24 March 2023. Adaptado.",
+      "enunciado": "Conforme o texto, um dos motivos para a disparidade relativa à prática de atividades físicas por alunos, segundo o nível de renda, reside",
+      "alternativas": {
+        "a": "no abismo persistente entre as notas de estudantes ricos e pobres.",
+        "b": "no corte de gastos e mudanças de prioridades em algumas escolas públicas.",
+        "c": "na preferência por jogadores com potencial superior para competição.",
+        "d": "na redução de bolsas de estudos para adolescentes de famílias abaixo da linha de pobreza.",
+        "e": "na realização de campeonatos contemplados com doações de ONGs."
+      },
+      "resposta": "b",
+      "explicacao": "O terceiro parágrafo enumera as causas e abre com ela: \"Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports\" — cortes de gasto e mudança de prioridades em algumas escolas públicas reduziram a educação física e os esportes organizados. As demais alternativas trazem fatores que o texto não menciona: notas escolares, seleção por talento, bolsas de estudo e campeonatos com doações de ONGs."
+    },
+    {
+      "id": "fuvest-ingles-4",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Over the last two decades, technology companies and policymakers warned of a “digital divide” in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level. A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion- dollar enterprise offering new opportunities — at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching. “What’s happened as sports has become privatized is that it has become the haves and have-nots,” said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. “Particularly for low-income kids, if they don’t have access to sports within the school setting, where are they going to get their physical activity?” Mr. Solomon said. “The answer is nowhere.” The New York Times. 24 March 2023. Adaptado.",
+      "enunciado": "Considerado o contexto, o termo “far”, na expressão “far less” (2º parágrafo), expressa",
+      "alternativas": {
+        "a": "temporalidade.",
+        "b": "distância.",
+        "c": "antecipação.",
+        "d": "intensidade.",
+        "e": "progresso."
+      },
+      "resposta": "d",
+      "explicacao": "Em \"poor children and adolescents are participating far less in sports\", \"far\" não localiza nada no espaço nem no tempo: é um intensificador que reforça o comparativo \"less\", como em \"far better\" ou \"far more\". Equivale a \"muito menos\". O sentido de distância (B) é o literal da palavra, mas não o que ela tem diante de um comparativo; temporalidade, antecipação e progresso não cabem na construção."
+    },
+    {
+      "id": "fuvest-ingles-5",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "The main players in the Spanish–Aztec War (1519–21) are well known: Hernán Cortés and Montezuma. Lesser-known, though no less important, is a multilingual exiled Aztec woman who was enslaved, then served as a guide and interpreter, then became Cortés’s mistress. She was known as Doña Marina, and as La Malinche. Scholar and researcher Cordelia Candelaria writes: her paramount value to the Spaniards was not merely linguistic. She was an interpreter/liaison who served as a guide to the region, as an advisor on native customs and beliefs, and as a strategist. La Malinche was the daughter of an Aztec cacique (chief). This gave her an unusual level of education, which she would later leverage as a guide and interpreter for the Spanish. Throughout Cortés’s travels, she became indispensable as a translator, not only capable of functionally translating from one language to the other, but of speaking compellingly, strategizing, and forging political connections. Integral as she was to Spain’s success, La Malinche is a controversial figure. Candelaria quotes T. R. Fehrenbach as saying, “If there is one villainess in Mexican history, she is La Malinche. She was to become the ethnic traitress supreme.” But Candelaria argues that La Malinche’s act of turning her back on her own people makes more psychological sense when we consider that, at a young age, she had been sold by her own mother into slavery. Candelaria asks, “What else could this outcast from the Aztecs, ‘her own people,’ have done?” Disponível em https://daily.jstor.org/. Adaptado.",
+      "enunciado": "Segundo o texto, em relação à imagem de La Malinche como traidora do povo Asteca, a pesquisadora Cordelia Candelaria argumenta que a intérprete",
+      "alternativas": {
+        "a": "havia sido preterida no seio da própria família.",
+        "b": "fez uso de idiomas em proveito próprio.",
+        "c": "era invejada pelos privilégios alcançados.",
+        "d": "ignorou as vulnerabilidades do povo mexicano.",
+        "e": "tentou se sobrepor aos líderes da época."
+      },
+      "resposta": "a",
+      "explicacao": "Candelaria não nega que La Malinche tenha servido aos espanhóis; ela argumenta que a traição faz mais sentido psicológico quando se lembra que, ainda jovem, ela \"had been sold by her own mother into slavery\" — foi vendida como escrava pela própria mãe — e pergunta o que mais poderia fazer alguém rejeitada pelos seus. O argumento é o da preterição dentro da própria família. O texto descreve o uso dos idiomas como serviço aos espanhóis, não como proveito próprio (B); e não fala em inveja (C), em vulnerabilidades ignoradas (D) nem em disputa com os líderes (E)."
     }
   ]
 }

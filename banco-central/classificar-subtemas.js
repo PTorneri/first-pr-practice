@@ -1557,6 +1557,74 @@ const REVISADAS = {
   "enem-interpretacao-texto-42": "interpretacao-inferencia",
   "enem-interpretacao-texto-44": "interpretacao-inferencia",
   "enem-interpretacao-texto-45": "interpretacao-argumentacao",
+
+  // FUVEST 2024, 1ª fase -- 22 pinos em 62 questões (35%), taxa que fica entre
+  // a de Natureza e a de Humanas do ENEM porque a prova da FUVEST é uma só e
+  // mistura as áreas. O que ela tem de diferente do ENEM é a matriz de leitura:
+  // a banca cobra obra do programa pelo NOME (Dois irmãos, Cão Tinhoso), e o
+  // nome do livro não diz de que se trata a pergunta. Por isso Literatura pina
+  // 4 em 11 mesmo com o autor citado no texto.
+  "fuvest-literatura-4": "literatura-contemporanea",
+  "fuvest-literatura-6": "literatura-contemporanea",
+  "fuvest-literatura-11": "literatura-contemporanea",
+
+  // Machamba nos dois moçambicanos: a pergunta é de denotação e conotação, e
+  // caiu em teoria-analise sem pontuar nada -- resíduo que POR ACASO acertou o
+  // alvo. Fica pinada pelo mesmo motivo dos três casos de Humanas do ENEM
+  // 2024: nada nela a prende ali, e a próxima mexida nas regras a levaria
+  // embora sem aviso.
+  "fuvest-literatura-10": "literatura-teoria-analise",
+
+  // Inglês-2 é o outro resíduo de sorte: caiu em detail, que era o alvo.
+  "fuvest-ingles-2": "ingles-detail",
+  "fuvest-ingles-5": "ingles-inference",
+
+  // Antonio Candido e o preconceito linguístico. As duas são leitura de texto
+  // em português, e o subtema de leitura é a HABILIDADE cobrada, que não deixa
+  // palavra no texto -- a mesma causa estrutural já registrada no ENEM.
+  "fuvest-interpretacao-texto-1": "interpretacao-ideia-central",
+  "fuvest-interpretacao-texto-2": "interpretacao-argumentacao",
+
+  // Axum e Cuxe no século IV foram para Brasil-colônia por causa de
+  // "escravizados"; o Irã dos Pahlevi foi para antiga-medieval por causa de
+  // "islã" e "muçulmanos"; e Colombo diante das línguas indígenas não pontuou
+  // em lugar nenhum. As três são o mesmo erro: a palavra que a banca usa é de
+  // um período, e o assunto é de outro.
+  "fuvest-historia-6": "historia-geral-antiga-medieval",
+  "fuvest-historia-8": "historia-geral-contemporanea",
+  "fuvest-historia-10": "historia-geral-moderna",
+
+  // Efeito estufa desde a Revolução Industrial caiu em agrária-econômica: a
+  // questão cita indústria e produção, e o assunto é clima.
+  "fuvest-geografia-1": "geografia-ambiente-sustentabilidade",
+
+  // O skate como prática social, a reprodução social e o teorema de Thomas.
+  // Sociologia perde para filosofia sempre que o enunciado nomeia um conceito
+  // -- "profecia que se cumpre por si mesma" soa a lógica e é instituição.
+  "fuvest-filosofia-sociologia-3": "sociologia-cultura-identidade",
+  "fuvest-filosofia-sociologia-4": "sociologia-trabalho-classes",
+  "fuvest-filosofia-sociologia-5": "sociologia-instituicoes-movimentos",
+
+  // Teste de chama e isótopos de oxigênio caíram em soluções, os dois por
+  // empate de pontos: a palavra "solução" aparece no enunciado das duas e não
+  // tem nada a ver com o que se cobra. A espectroscopia de femtossegundos foi
+  // para estequiometria por "reação" e "produtos".
+  "fuvest-quimica-1": "quimica-atomistica-ligacoes",
+  "fuvest-quimica-5": "quimica-atomistica-ligacoes",
+  "fuvest-quimica-8": "quimica-termoquimica-cinetica",
+
+  // Compton e o fóton: o texto passa metade do tempo falando de difração e
+  // interferência para depois negá-las como explicação suficiente. Descartar o
+  // distrator custa pontos para o subtema do distrator, de novo.
+  "fuvest-fisica-1": "fisica-moderna",
+
+  // Moda e mediana foram para financeira ("custo" não aparece, mas "média"
+  // sim); a Árvore Pitagórica e os números figurados foram para geometria
+  // porque a FUVEST embrulha sequência em desenho. Nas três o que se cobra é
+  // progressão e contagem, não figura.
+  "fuvest-matematica-3": "matematica-probabilidade",
+  "fuvest-matematica-5": "matematica-sequencias",
+  "fuvest-matematica-6": "matematica-sequencias",
 };
 
 // ------------------------------------------------------------------- classificação

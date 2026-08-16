@@ -8929,6 +8929,82 @@
    },
    "resposta": "d",
    "explicacao": "A imagem do escâner é uma radiografia: forma-se pela diferença de absorção dos raios X ao atravessarem os materiais. Bateria, blindagens e placas do computador são densos e absorvem quase toda a radiação, criando uma mancha opaca que esconde o que estiver alinhado atrás ou à frente dela. Retirar o aparelho elimina essa sombra. A alternativa (a) afirma o oposto do que ocorre — os raios X interagem intensamente com o metal, e é justamente esse o problema."
+  },
+  {
+   "id": "fuvest-fisica-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Os experimentos de difração e interferência da luz realizados no período de 1800 a 1803, em analogia com os processos de interferência das ondas acústicas, corroboraram a natureza ondulatória da luz. Por outro lado, Einstein introduziu, em 1905, o conceito de fóton, em que cada componente monocromática de frequência 𝑓 da radiação seria equivalente a um sistema de partículas idênticas sem massa, cada qual com energia ℎ𝑓, sendo ℎ≃6,626×10−34 J.s a constante de Planck. A hipótese da existência de fótons só teve ampla aceitação após os experimentos de Compton, em 1922, sobre o espalhamento da radiação eletromagnética na faixa dos raios X por alvos de elementos leves, como o grafite.” Adaptado de F. Caruso e V. Oguri, Sobre a necessidade do conceito de fóton, RBEF 43, e20210011 (2021).",
+   "enunciado": "De acordo com o texto e seus conhecimentos, é correto afirmar:",
+   "alternativas": {
+    "a": "A radiação eletromagnética apresenta somente comportamento ondulatório.",
+    "b": "Os experimentos de Compton mostraram que feixes de raios X exibem comportamento corpuscular.",
+    "c": "A energia de um fóton independe de seu comprimento de onda.",
+    "d": "A hipótese da natureza corpuscular da radiação está em desacordo com os resultados experimentais.",
+    "e": "Einstein demonstrou que os experimentos de difração e interferência da luz deveriam estar incorretos."
+   },
+   "resposta": "b",
+   "explicacao": "Compton fez raios X colidirem com elétrons de alvos leves e mediu o desvio no comprimento de onda da radiação espalhada — resultado que só se explica tratando o raio X como um feixe de partículas que troca momento na colisão. É a evidência do comportamento corpuscular. A alternativa A descarta metade da dualidade ao deixar só a onda; C contraria E = hf = hc/λ, que amarra a energia do fóton ao comprimento de onda; D diz que a hipótese corpuscular contraria os experimentos, quando foram eles que a confirmaram; e E põe Einstein negando a difração e a interferência, que continuam válidas — as duas descrições coexistem."
+  },
+  {
+   "id": "fuvest-fisica-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere os textos a seguir sobre o campo magnético terrestre, essencial para a manutenção da vida no planeta: “O campo magnético é o resultado do movimento do ferro líquido que envolve o núcleo interno do planeta, formado de ferro sólido. Ao girar a uma velocidade maior que aquela da superfície, o ferro líquido produz um campo magnético com dois polos magnéticos opostos, próximos aos polos Norte e Sul geográficos.”(1) “O campo magnético do planeta, porém, não é estável e vem enfraquecendo continuamente desde pelo menos 1832, quando o físico e matemático alemão Carl Friedrich Gauss aferiu pela primeira vez sua intensidade. De lá para cá, medições mais frequentes e precisas confirmam que a intensidade diminui à taxa de 17 nanoteslas (nT) por ano – o campo tem 66 mil nT nos polos e 22 mil nT sobre uma faixa do hemisfério Sul que vai da África à América do Sul.”(2) Fontes: (1) O norte da questão, Revista Pesquisa FAPESP, junho de 2018. Adaptado. (2) Uma falha no campo magnético da Terra passeia sobre o Brasil, Revista Pesquisa FAPESP, maio de 2021.",
+   "enunciado": "Com base nos textos apresentados e nos seus conhecimentos, é correto afirmar que:",
+   "alternativas": {
+    "a": "A variação da intensidade do campo magnético terrestre ao longo da linha do Equador é menor do que 10−6 T.",
+    "b": "O campo magnético terrestre é constante em módulo ao longo do meridiano de Greenwich.",
+    "c": "O campo magnético terrestre é uniforme e esférico, tal como o campo gerado por um dipolo magnético.",
+    "d": "Embora atualmente o campo magnético terrestre tenha intensidade maior nas regiões dos polos, esta é consideravelmente menor na região do Brasil e adjacências.",
+    "e": "A geração do campo magnético é naturalmente explicada por uma distribuição estática de cargas no núcleo interno do planeta."
+   },
+   "resposta": "d",
+   "explicacao": "O segundo texto dá os dois números: 66 mil nT nos polos e 22 mil nT na faixa que vai da África à América do Sul — a Anomalia Magnética do Atlântico Sul. O campo sobre o Brasil vale, portanto, cerca de um terço do valor polar. A alternativa A propõe variação menor que 10⁻⁶ T ao longo do Equador, quando a diferença citada é de dezenas de milhares de nanoteslas, ou seja, da ordem de 10⁻⁵ T; B afirma módulo constante ao longo de um meridiano, o que a própria anomalia desmente; C chama o campo de uniforme, e campo de dipolo não é uniforme; e E o atribui a cargas estáticas, quando o primeiro texto o explica pelo movimento do ferro líquido — corrente elétrica, não eletrostática."
+  },
+  {
+   "id": "fuvest-fisica-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Note e adote: Aceleração da gravidade (g) = 10 m/s².",
+   "enunciado": "Uma das modalidades de skate é o bowl, disputado em um espaço em formato aproximado de bacia. Supondo um bowl com profundidade de 2,45 m, qual a máxima velocidade que um skatista, partindo do repouso no ponto mais alto da bacia, poderia alcançar no ponto mais baixo?",
+   "alternativas": {
+    "a": "3 m/s",
+    "b": "5 m/s",
+    "c": "7 m/s",
+    "d": "9 m/s",
+    "e": "11 m/s"
+   },
+   "resposta": "c",
+   "explicacao": "Partindo do repouso no alto da bacia, toda a energia potencial gravitacional vira cinética no ponto mais baixo, se não houver perdas: mgh = mv²/2, e a massa se cancela. Logo v = √(2gh) = √(2 × 10 × 2,45) = √49 = 7 m/s. Os valores 5 e 9 m/s corresponderiam a profundidades de 1,25 m e 4,05 m, e 3 e 11 m/s ficam ainda mais longe — nenhum deles sai dos 2,45 m dados."
+  },
+  {
+   "id": "fuvest-fisica-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Para esfriar um copo contendo 250 mL de água fervente (100 °C), é comum utilizar o seguinte método: Passo 1. Colocar esse copo dentro de uma vasilha em contato com 1 litro de água à temperatura ambiente (25 °C). Passo 2. Esperar que entrem em equilíbrio térmico. Passo 3. Tirar o copo e trocar a água da vasilha por outro litro de água à temperatura ambiente. Passo 4. Colocar o copo em contato com a água nova e esperar que entrem em equilíbrio térmico.",
+   "enunciado": "Após o passo (4) desse método, a temperatura da água no copo será aproximadamente:",
+   "alternativas": {
+    "a": "14°C",
+    "b": "28°C",
+    "c": "40°C",
+    "d": "60°C",
+    "e": "84°C"
+   },
+   "resposta": "b",
+   "explicacao": "Como os dois lados são água, o calor específico se cancela e a temperatura de equilíbrio é a média ponderada pelas massas. No primeiro contato: (250 × 100 + 1000 × 25) ÷ 1250 = 50 000 ÷ 1250 = 40 °C. Trocada a água da vasilha, o copo entra a 40 °C no segundo contato: (250 × 40 + 1000 × 25) ÷ 1250 = 35 000 ÷ 1250 = 28 °C. O valor 40 °C (C) é o resultado de parar no primeiro passo; 14 °C ficaria abaixo da temperatura ambiente, o que nenhuma troca de calor entre esses dois corpos produz; e 60 e 84 °C sobrestimam a inércia térmica do copo, que tem um quarto da massa da vasilha."
   }
  ],
  "textos": [

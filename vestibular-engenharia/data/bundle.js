@@ -3487,6 +3487,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Escala é razão entre comprimentos; para áreas, a razão é o quadrado dela — 1 : 200 em comprimento vira 1 : 40 000 em área. Convertendo primeiro a unidade: 1 672 m² = 1 672 × 10 000 = 16 720 000 cm². Dividindo por 40 000, chega-se a 418 cm². O erro que a questão persegue é dividir a área por 200 em vez de por 200², o que levaria a um valor 200 vezes maior; as alternativas menores vêm de conversões incompletas entre metro e centímetro quadrado."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O reservatório de um caminhão-pipa tem a forma de um cilindro circular reto com eixo horizontal e dimensões internas de 6 metros de comprimento e 2 metros de diâmetro. Uma escola contratou o serviço do caminhão-pipa para abastecer sua caixa d’água. Após o abastecimento, o motorista percebeu que o reservatório do caminhão estava cheio até 3/4 de sua altura, conforme ilustrado na figura.",
+   "enunciado": "Qual foi o volume, em metros cúbicos, de água utilizada para abastecer a caixa d’água da escola, sabendo que o reservatório do caminhão estava cheio antes do abastecimento?",
+   "alternativas": {
+    "a": "(2π − √3/4) m³",
+    "b": "(2π − 3√3/2) m³",
+    "c": "(2π + 3√3/2) m³",
+    "d": "(4π + √3/4) m³",
+    "e": "(4π + 3√3/2) m³"
+   },
+   "resposta": "b",
+   "explicacao": "O tanque é um cilindro deitado de raio 1 m e comprimento 6 m, e o que saiu para a caixa d’água é o volume que faltou para completá-lo: a parte acima da altura 3/4, ou seja, acima de 0,25 m do topo. Na secção circular, essa parte é o segmento circular de altura 0,5 m acima do centro. O ângulo central vale 2·arccos(0,5) = 2π/3, e a área do segmento é (r²/2)(θ − sen θ) = (1/2)(2π/3 − √3/2) = π/3 − √3/4. Multiplicando pelos 6 m de comprimento: 6(π/3 − √3/4) = 2π − 3√3/2 m³, aproximadamente 3,7 m³. As alternativas com sinal de mais dariam volume maior que o do cilindro inteiro, que é 6π."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma empresa de alimentos utiliza embalagens, no formato de paralelepípedo reto-retângulo, de dimensões 2 cm × 3 cm × 11 cm, para armazenar biscoitos. Para o transporte desse produto, são utilizadas caixas para acondicionar essas embalagens, também no formato de paralelepípedo reto-retângulo, de dimensões 12 cm × 13 cm × 26 cm.",
+   "enunciado": "Determine o número máximo de embalagens que podem ser acondicionadas em cada caixa fechada para transporte, sem que o produto seja danificado.",
+   "alternativas": {
+    "a": "48",
+    "b": "52",
+    "c": "56",
+    "d": "60",
+    "e": "61"
+   },
+   "resposta": "d",
+   "explicacao": "O volume da caixa é 12 × 13 × 26 = 4056 cm³ e o da embalagem, 2 × 3 × 11 = 66 cm³, o que põe o teto em 61 — mas esse teto só se alcançaria sem sobra alguma, e 11 não divide nenhuma aresta da caixa. Um arranjo que chega a 60 divide a caixa em duas partes ao longo da aresta de 26: um bloco de 12 × 13 × 22, com a aresta de 11 na vertical em duas camadas, e uma laje de 12 × 13 × 4. Na secção 12 × 13, os retângulos 2 × 3 cabem sem folga, porque 13 = 3 + 3 + 3 + 2 + 2: as três faixas de 12 × 3 levam 6 peças cada e as duas de 12 × 2 levam 4 cada, somando 26 por camada, ou 52 nas duas. Na laje de 4 cm, entram duas camadas de 2 cm com as faces 3 × 11 deitadas, 4 embalagens em cada, mais 8. Total 60, e o 61 do cálculo de volume fica inatingível."
   }
  ],
  "matematica-financeira": [
@@ -7307,6 +7347,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Por cento significa dividido por cem: 135,25% = 135,25/100 = 1,3525. Na prática, basta deslocar a vírgula duas casas para a esquerda. A alternativa (b) apenas repete o número sem converter, e a (e) desloca três casas — erro de quem confunde a divisão por 100 com divisão por 1 000. Note que o resultado é maior que 1, coerente com um crescimento superior a 100%: a população mais que dobrou."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "fuvest-matematica-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma empresa farmacêutica produz certo medicamento, formado por quatro componentes, conforme a tabela I, que também traz o custo do grama de cada um deles.\n\nTabela I — Composição do medicamento\nComponente A: 200 mg, R$ 700,00/g\nComponente B: 70 mg, R$ 500,00/g\nComponente C: 130 mg, R$ 300,00/g\nComponente D: 100 mg, R$ 120,00/g\n\nPara a produção do próximo lote, a empresa terá um gasto diferente, pois os custos de alguns componentes sofreram alterações, conforme a tabela II.\n\nTabela II — Variação no custo\nComponente A: + 7%\nComponente B: − 5%\nComponente C: 0%\nComponente D: + 10%",
+   "enunciado": "Qual é o aumento, em reais, no custo do medicamento?",
+   "alternativas": {
+    "a": "9,25",
+    "b": "12,00",
+    "c": "12,75",
+    "d": "36,00",
+    "e": "86,00"
+   },
+   "resposta": "a",
+   "explicacao": "Cada componente custa a massa em gramas vezes o preço por grama. A: 0,200 g × 700 = R$ 140,00; B: 0,070 × 500 = R$ 35,00; C: 0,130 × 300 = R$ 39,00; D: 0,100 × 120 = R$ 12,00. O aumento é a soma das variações: A sobe 7% de 140, ou R$ 9,80; B cai 5% de 35, ou −R$ 1,75; C não muda; D sobe 10% de 12, ou R$ 1,20. Total: 9,80 − 1,75 + 1,20 = R$ 9,25. O valor 12,00 sai de esquecer a queda de B e a alta de D; e 86,00 é o que se obteria aplicando os percentuais sobre os preços por grama, sem converter miligrama em grama."
   }
  ],
  "matematica-algebra": [
@@ -13432,6 +13492,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A senha tem duas partes independentes, e o princípio multiplicativo junta as duas no fim. Os algarismos: há 5 teclas disponíveis (1, 2, 5, 7 e 0) e eles devem ser distintos, logo 5 × 4 = 20 pares ordenados. As letras: as teclas 2, 5 e 7 oferecem 3 + 3 + 4 = 10 letras, e escolher 3 diferentes em ordem dá 10 × 9 × 8 = 720. Multiplicando, 20 × 720 = 14 400. A alternativa (c) resulta de permitir algarismos repetidos (25 × 720), e as maiores vêm de contar letras repetidas."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "fuvest-matematica-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Os conceitos de moda, mediana, média e amplitude definem medidas utilizadas para estudar um conjunto de informações numéricas. Por exemplo, na lista de 5 números (2, 2, 4, 8, 14), temos que a moda é igual a 2, a mediana é igual a 4, a média é igual 6 e a amplitude é igual a 12.",
+   "enunciado": "Assinale a alternativa que representa a quantidade de listas de 5 números inteiros positivos que cumprem a condição: moda = mediana = média = amplitude = 23.",
+   "alternativas": {
+    "a": "8",
+    "b": "9",
+    "c": "11",
+    "d": "22",
+    "e": "44"
+   },
+   "resposta": "a",
+   "explicacao": "Ordenando a lista como a₁ ≤ a₂ ≤ a₃ ≤ a₄ ≤ a₅, cada condição fixa uma coisa: mediana 23 dá a₃ = 23; amplitude 23 dá a₅ = a₁ + 23; média 23 dá soma 115, o que, substituído, deixa 2a₁ + a₂ + a₄ = 69. A moda é a condição decisiva: para 23 ser moda ele precisa repetir, e como a₁ e a₅ diferem entre si em 23, a repetição só pode vir de a₂ = 23 ou a₄ = 23. Se a₂ = 23, então a₄ = 46 − 2a₁, e as desigualdades a₁ ≤ 23 ≤ a₄ ≤ a₁ + 23 restringem a₁ a 8, 9, 10 e 11. Se a₄ = 23, então a₂ = 46 − 2a₁, e as mesmas desigualdades restringem a₁ a 12, 13, 14 e 15. Os dois casos não se sobrepõem, porque teriam de valer a₁ = 11,5. São quatro listas de cada lado, oito ao todo — por exemplo (8, 23, 23, 30, 31) e (15, 16, 23, 23, 38). Contagens maiores admitem listas de valores todos distintos, que não têm moda alguma."
   }
  ],
  "matematica-sequencias": [
@@ -14696,6 +14776,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Cada etapa duplica o que já estava no visor, então a quantidade de figuras é uma progressão geométrica de razão 2 começando em 3. Na 1ª etapa há 3 figuras; na 2ª, 6; na 3ª, 12. O termo geral é 3 × 2^(n−1), e para n = 20 isso dá 3 × 2^19. A alternativa (b) é o erro mais frequente: usar o expoente 20 esquecendo que a primeira etapa não envolveu duplicação alguma — ela apenas criou as três figuras iniciais."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "fuvest-matematica-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Uma Árvore Pitagórica é uma figura plana construída por etapas. Na Etapa 1, ela começa com um quadrado de lado 1 cm. Na Etapa 2, constroem-se dois quadrados acima do quadrado da Etapa 1, de tal forma que a medida de seus lados seja igual à medida dos catetos do triângulo retângulo isósceles que possui hipotenusa igual ao lado do quadrado da Etapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos quadrados obtidos, e assim por diante.",
+   "enunciado": "A partir de qual etapa da construção o lado de cada um dos novos quadrados obtidos fica, pela primeira vez, menor do que 1 décimo de milésimo do lado do quadrado da Etapa 1?",
+   "alternativas": {
+    "a": "26",
+    "b": "27",
+    "c": "28",
+    "d": "29",
+    "e": "30"
+   },
+   "resposta": "c",
+   "explicacao": "Num triângulo retângulo isósceles de hipotenusa L, cada cateto mede L/√2. Então o lado encolhe por um fator 1/√2 a cada etapa, e na etapa n vale (1/√2)^(n−1). A condição é (1/√2)^(n−1) < 10⁻⁴, ou seja (n−1)·log√2 > 4. Como log√2 = (log 2)/2 = 0,15, vem n − 1 > 4 ÷ 0,15 = 26,67, isto é, n > 27,67. O primeiro inteiro que satisfaz é 28. As alternativas 26 e 27 param antes de o produto passar de 4, e 29 e 30 já ultrapassaram — a pergunta é pela primeira etapa em que a condição vale."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "fuvest-matematica-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Números figurados são números que expressam o total de pontos em certas configurações geométricas. Os números triangulares são os que podem ser representados na forma de um triângulo — 1, 3, 6, 10 e assim por diante —, e o número 1, embora não represente um triângulo, é considerado triangular. Os números oblongos representam o total de pontos de um quadro retangular em que o número de colunas é uma unidade a mais do que o número de linhas — 2, 6, 12, 20 e assim por diante —, e o número 2, embora não represente um quadro retangular, é considerado oblongo.",
+   "enunciado": "A respeito de números triangulares e números oblongos, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "162 é o 15º número triangular.",
+    "b": "O 13º número triangular é primo e o 30º número oblongo é ímpar.",
+    "c": "156 não é um número oblongo, nem triangular.",
+    "d": "210 é um número triangular e oblongo.",
+    "e": "A diferença entre dois números triangulares consecutivos são termos de uma progressão geométrica."
+   },
+   "resposta": "d",
+   "explicacao": "O n-ésimo triangular é n(n+1)/2 e o n-ésimo oblongo é n(n+1) — o oblongo é o dobro do triangular de mesma ordem. Para 210: 20 × 21 ÷ 2 = 210, logo é o 20º triangular; e 14 × 15 = 210, logo é o 14º oblongo. A alternativa A erra porque o 15º triangular é 15 × 16 ÷ 2 = 120, não 162; B erra duas vezes, pois o 13º triangular é 91 = 7 × 13, que não é primo, e todo oblongo n(n+1) é produto de dois inteiros consecutivos e portanto par; C erra porque 156 = 12 × 13 é oblongo; e E erra porque a diferença entre triangulares consecutivos é n+1, que forma progressão aritmética, não geométrica."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -20219,6 +20339,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O carro roda 480 km a 100 km/h, o que dá 4,8 h = 288 min, mas é ele quem não tem o serviço automático: para nas 10 praças, 3 min em cada, somando 30 min. Total do carro: 318 min. O caminhão roda 480 km a 80 km/h, o que dá 6 h = 360 min, e não perde tempo nenhum nas cancelas. A diferença é 360 − 318 = 42 min. A leitura invertida — supor que o caminhão é que para — daria 288 contra 390 e nenhuma opção; e quem esquece as paradas de vez chega a 72, que é a diferença só das velocidades e está ali como distrator."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fuvest-fisica-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Note e adote: Aceleração da gravidade (g) = 10 m/s².",
+   "enunciado": "Uma das modalidades de skate é o bowl, disputado em um espaço em formato aproximado de bacia. Supondo um bowl com profundidade de 2,45 m, qual a máxima velocidade que um skatista, partindo do repouso no ponto mais alto da bacia, poderia alcançar no ponto mais baixo?",
+   "alternativas": {
+    "a": "3 m/s",
+    "b": "5 m/s",
+    "c": "7 m/s",
+    "d": "9 m/s",
+    "e": "11 m/s"
+   },
+   "resposta": "c",
+   "explicacao": "Partindo do repouso no alto da bacia, toda a energia potencial gravitacional vira cinética no ponto mais baixo, se não houver perdas: mgh = mv²/2, e a massa se cancela. Logo v = √(2gh) = √(2 × 10 × 2,45) = √49 = 7 m/s. Os valores 5 e 9 m/s corresponderiam a profundidades de 1,25 m e 4,05 m, e 3 e 11 m/s ficam ainda mais longe — nenhum deles sai dos 2,45 m dados."
   }
  ],
  "fisica-termologia": [
@@ -21550,6 +21690,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A água aquecida no coletor se dilata, fica menos densa e sobe para o reservatório; a água fria do reservatório, mais densa, desce para o coletor e ocupa o lugar dela. Esse ciclo é o termossifão, um caso de convecção natural — e é exatamente por isso que o reservatório é instalado acima dos coletores. A irradiação é o mecanismo pelo qual o Sol entrega energia ao coletor, não o que move a água entre as duas partes, e a condução exigiria contato direto sem transporte de matéria."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "fuvest-fisica-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Para esfriar um copo contendo 250 mL de água fervente (100 °C), é comum utilizar o seguinte método: Passo 1. Colocar esse copo dentro de uma vasilha em contato com 1 litro de água à temperatura ambiente (25 °C). Passo 2. Esperar que entrem em equilíbrio térmico. Passo 3. Tirar o copo e trocar a água da vasilha por outro litro de água à temperatura ambiente. Passo 4. Colocar o copo em contato com a água nova e esperar que entrem em equilíbrio térmico.",
+   "enunciado": "Após o passo (4) desse método, a temperatura da água no copo será aproximadamente:",
+   "alternativas": {
+    "a": "14°C",
+    "b": "28°C",
+    "c": "40°C",
+    "d": "60°C",
+    "e": "84°C"
+   },
+   "resposta": "b",
+   "explicacao": "Como os dois lados são água, o calor específico se cancela e a temperatura de equilíbrio é a média ponderada pelas massas. No primeiro contato: (250 × 100 + 1000 × 25) ÷ 1250 = 50 000 ÷ 1250 = 40 °C. Trocada a água da vasilha, o copo entra a 40 °C no segundo contato: (250 × 40 + 1000 × 25) ÷ 1250 = 35 000 ÷ 1250 = 28 °C. O valor 40 °C (C) é o resultado de parar no primeiro passo; 14 °C ficaria abaixo da temperatura ambiente, o que nenhuma troca de calor entre esses dois corpos produz; e 60 e 84 °C sobrestimam a inércia térmica do copo, que tem um quarto da massa da vasilha."
   }
  ],
  "fisica-ondas-optica": [
@@ -24589,6 +24749,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A imagem do escâner é uma radiografia: forma-se pela diferença de absorção dos raios X ao atravessarem os materiais. Bateria, blindagens e placas do computador são densos e absorvem quase toda a radiação, criando uma mancha opaca que esconde o que estiver alinhado atrás ou à frente dela. Retirar o aparelho elimina essa sombra. A alternativa (a) afirma o oposto do que ocorre — os raios X interagem intensamente com o metal, e é justamente esse o problema."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "fuvest-fisica-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere os textos a seguir sobre o campo magnético terrestre, essencial para a manutenção da vida no planeta: “O campo magnético é o resultado do movimento do ferro líquido que envolve o núcleo interno do planeta, formado de ferro sólido. Ao girar a uma velocidade maior que aquela da superfície, o ferro líquido produz um campo magnético com dois polos magnéticos opostos, próximos aos polos Norte e Sul geográficos.”(1) “O campo magnético do planeta, porém, não é estável e vem enfraquecendo continuamente desde pelo menos 1832, quando o físico e matemático alemão Carl Friedrich Gauss aferiu pela primeira vez sua intensidade. De lá para cá, medições mais frequentes e precisas confirmam que a intensidade diminui à taxa de 17 nanoteslas (nT) por ano – o campo tem 66 mil nT nos polos e 22 mil nT sobre uma faixa do hemisfério Sul que vai da África à América do Sul.”(2) Fontes: (1) O norte da questão, Revista Pesquisa FAPESP, junho de 2018. Adaptado. (2) Uma falha no campo magnético da Terra passeia sobre o Brasil, Revista Pesquisa FAPESP, maio de 2021.",
+   "enunciado": "Com base nos textos apresentados e nos seus conhecimentos, é correto afirmar que:",
+   "alternativas": {
+    "a": "A variação da intensidade do campo magnético terrestre ao longo da linha do Equador é menor do que 10−6 T.",
+    "b": "O campo magnético terrestre é constante em módulo ao longo do meridiano de Greenwich.",
+    "c": "O campo magnético terrestre é uniforme e esférico, tal como o campo gerado por um dipolo magnético.",
+    "d": "Embora atualmente o campo magnético terrestre tenha intensidade maior nas regiões dos polos, esta é consideravelmente menor na região do Brasil e adjacências.",
+    "e": "A geração do campo magnético é naturalmente explicada por uma distribuição estática de cargas no núcleo interno do planeta."
+   },
+   "resposta": "d",
+   "explicacao": "O segundo texto dá os dois números: 66 mil nT nos polos e 22 mil nT na faixa que vai da África à América do Sul — a Anomalia Magnética do Atlântico Sul. O campo sobre o Brasil vale, portanto, cerca de um terço do valor polar. A alternativa A propõe variação menor que 10⁻⁶ T ao longo do Equador, quando a diferença citada é de dezenas de milhares de nanoteslas, ou seja, da ordem de 10⁻⁵ T; B afirma módulo constante ao longo de um meridiano, o que a própria anomalia desmente; C chama o campo de uniforme, e campo de dipolo não é uniforme; e E o atribui a cargas estáticas, quando o primeiro texto o explica pelo movimento do ferro líquido — corrente elétrica, não eletrostática."
   }
  ],
  "fisica-hidrostatica": [
@@ -28184,6 +28364,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A luz ambiente excita elétrons do material, que saltam para níveis de energia mais altos. Na fosforescência esses elétrons ficam presos em estados metaestáveis — criados justamente pela dopagem com prata ou cobre — e retornam ao estado fundamental lentamente, emitindo fótons por minutos ou horas depois de cessada a iluminação. A cor amarelo-esverdeada corresponde à diferença de energia entre os níveis. Não há reação nuclear envolvida, e reflexão exige fonte de luz presente, o que contradiz o brilho no escuro."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fuvest-fisica-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Os experimentos de difração e interferência da luz realizados no período de 1800 a 1803, em analogia com os processos de interferência das ondas acústicas, corroboraram a natureza ondulatória da luz. Por outro lado, Einstein introduziu, em 1905, o conceito de fóton, em que cada componente monocromática de frequência 𝑓 da radiação seria equivalente a um sistema de partículas idênticas sem massa, cada qual com energia ℎ𝑓, sendo ℎ≃6,626×10−34 J.s a constante de Planck. A hipótese da existência de fótons só teve ampla aceitação após os experimentos de Compton, em 1922, sobre o espalhamento da radiação eletromagnética na faixa dos raios X por alvos de elementos leves, como o grafite.” Adaptado de F. Caruso e V. Oguri, Sobre a necessidade do conceito de fóton, RBEF 43, e20210011 (2021).",
+   "enunciado": "De acordo com o texto e seus conhecimentos, é correto afirmar:",
+   "alternativas": {
+    "a": "A radiação eletromagnética apresenta somente comportamento ondulatório.",
+    "b": "Os experimentos de Compton mostraram que feixes de raios X exibem comportamento corpuscular.",
+    "c": "A energia de um fóton independe de seu comprimento de onda.",
+    "d": "A hipótese da natureza corpuscular da radiação está em desacordo com os resultados experimentais.",
+    "e": "Einstein demonstrou que os experimentos de difração e interferência da luz deveriam estar incorretos."
+   },
+   "resposta": "b",
+   "explicacao": "Compton fez raios X colidirem com elétrons de alvos leves e mediu o desvio no comprimento de onda da radiação espalhada — resultado que só se explica tratando o raio X como um feixe de partículas que troca momento na colisão. É a evidência do comportamento corpuscular. A alternativa A descarta metade da dualidade ao deixar só a onda; C contraria E = hf = hc/λ, que amarra a energia do fóton ao comprimento de onda; D diz que a hipótese corpuscular contraria os experimentos, quando foram eles que a confirmaram; e E põe Einstein negando a difração e a interferência, que continuam válidas — as duas descrições coexistem."
   }
  ],
  "quimica-eletroquimica": [
@@ -29555,6 +29755,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Para somar as semirreações, os elétrons precisam se cancelar. A oxidação libera 8 e− e a redução consome 4, então a segunda equação é multiplicada por 2: 8 H+ + 2 O2 + 8 e− → 4 H2O. Somando com a primeira e cortando os elétrons, sobram 2 H2O e 8 H+ de um lado contra 7 H+ e 4 H2O do outro. Cancelando o que é comum, resta CH3COO− + H+ + 2 O2 → 2 CO2 + 2 H2O, que é a alternativa (c). As alternativas (b) e (e) apresentam a reação invertida, e (a) e (d) não fecham o balanço de massa nem de carga."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "fuvest-quimica-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "No processo de compra e venda de artigos de ouro, é comum testar os objetos para verificar se eles realmente são feitos de ouro ou se são alguma falsificação feita com metais menos nobres. Esse teste é feito adicionando um pequeno volume de ácido forte concentrado às raspas do objeto a ser testado. Caso o objeto seja feito com ouro, as raspas permanecem visíveis, enquanto as raspas de falsificações são dissolvidas.",
+   "enunciado": "Considerando apenas o potencial de redução padrão, qual das alternativas apresenta um material que poderia gerar um falso positivo para o objeto de ouro no teste descrito?",
+   "alternativas": {
+    "a": "Mg",
+    "b": "Al",
+    "c": "Fe",
+    "d": "Pt",
+    "e": "F2"
+   },
+   "resposta": "d",
+   "explicacao": "O teste funciona porque o ácido oferece H⁺, de potencial de redução zero: metal com potencial negativo se oxida e se dissolve, metal com potencial acima de zero resiste. Magnésio (−2,37), alumínio (−1,66) e ferro (−0,44) ficam todos abaixo do hidrogênio e seriam dissolvidos, denunciando a falsificação. A platina, com +1,20 V, é mais nobre que o hidrogênio e não é atacada — as raspas permanecem visíveis e o objeto passa por ouro. O F2 não é material de que se faça um objeto: é gás, e aparece na tabela como agente oxidante, não como metal a testar."
   }
  ],
  "quimica-atomistica-ligacoes": [
@@ -30966,6 +31186,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O caráter iônico de uma ligação cresce com a diferença de eletronegatividade entre os dois átomos envolvidos. Do lado do carboxilato quem faz a ligação é o oxigênio, com 3,44 fixo para todos os casos, então basta procurar o metal de menor eletronegatividade — é ele que produz a maior diferença. As diferenças são: K, 3,44 − 0,82 = 2,62; Ca, 2,44; Mg, 2,13; Zn, 1,79; Fe, 1,61. O potássio vence com folga. Repare que a resposta não depende da carga do cátion nem do fato de o cálcio e o magnésio serem divalentes: a pergunta é sobre o tipo de ligação, não sobre a intensidade da atração eletrostática."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Quando uma solução de NaCl é colocada em contato com uma chama, observa-se uma luz amarela. Quando esse mesmo experimento é realizado na presença de uma lâmpada de Na, a chama aparenta estar preta.",
+   "enunciado": "Considerando que um material emite e absorve radiação em um mesmo comprimento de onda, assinale a afirmação correta sobre o experimento.",
+   "alternativas": {
+    "a": "Na figura (I), a chama é amarela devido à absorção de luz pelos átomos de Na; enquanto, em (II), a chama está preta porque o Na deixa de absorver quando a chama é irradiada pela lâmpada de sódio.",
+    "b": "Na figura (I), a chama é amarela porque esta é a cor de qualquer chama; enquanto, em (II), a chama está preta porque o Na absorve a energia da chama.",
+    "c": "Na figura (I), a chama é amarela porque esta é a cor de qualquer chama; enquanto, em (II), a chama está preta devido à combustão incompleta.",
+    "d": "Na figura (I), a chama é amarela devido à emissão de luz pelos átomos de Na; enquanto, em (II), a chama está preta devido à combustão incompleta.",
+    "e": "Na figura (I), a chama é amarela devido à emissão de luz pelos átomos de Na; enquanto, em (II), a chama está preta porque os átomos de Na da chama absorvem a luz proveniente da lâmpada de Na."
+   },
+   "resposta": "e",
+   "explicacao": "Na chama, o elétron do sódio é promovido a um nível mais alto e devolve a energia como luz ao voltar: é emissão, e o amarelo do teste de chama é a assinatura do sódio. Como o mesmo átomo absorve no mesmo comprimento de onda em que emite, iluminar a chama com uma lâmpada de sódio faz os átomos de Na absorverem justamente aquela luz — a chama deixa de deixar passar o amarelo e se recorta escura contra a lâmpada. As alternativas B e C afirmam que amarelo é a cor de qualquer chama, o que negaria o próprio teste; A troca emissão por absorção na primeira figura; e a combustão incompleta (C e D) produziria fuligem luminosa, não uma silhueta preta."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "As moléculas de água podem conter o isótopo estável mais abundante de oxigênio, 16O, ou o isótopo estável menos abundante, 18O. Essa pequena diferença de massa entre as moléculas de água é suficiente para alterar a sua pressão de vapor. Por esse motivo, a análise de isótopos de oxigênio na água da chuva possibilita a identificação de períodos secos e de períodos chuvosos.",
+   "enunciado": "Com base nessas informações, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "Em períodos de alta pluviosidade, as primeiras precipitações da nuvem são isotopicamente mais leves e a nuvem de chuva se enriquece, relativamente, em 18O.",
+    "b": "Em períodos de baixa pluviosidade, a constituição isotópica das nuvens pouco se altera ao longo do tempo, e a pouca chuva dessas nuvens é relativamente enriquecida em 18O.",
+    "c": "No período atual, em função do aquecimento global, as temperaturas elevadas fazem com que o fracionamento isotópico de 16O e 18O resultante da evaporação e da precipitação da água não ocorra.",
+    "d": "Em períodos glaciais, em função da maior temperatura do planeta, as chuvas são enriquecidas em 18O, enquanto, nos oceanos, a água é enriquecida em 16O.",
+    "e": "Em períodos interglaciais, em função da menor temperatura do planeta, as chuvas são enriquecidas em 16O, enquanto, nos oceanos, a água é enriquecida em 18O."
+   },
+   "resposta": "b",
+   "explicacao": "A água com 18O é mais pesada e tem pressão de vapor menor: evapora menos e condensa primeiro. As primeiras chuvas de uma nuvem saem, por isso, enriquecidas em 18O, e a nuvem vai ficando isotopicamente mais leve à medida que chove. Se chove pouco, a nuvem quase não perde 18O e sua composição pouco muda — e a pouca chuva que cai é a fração enriquecida no isótopo pesado. A alternativa A diz que as primeiras precipitações são mais leves, invertendo o fracionamento; C afirma que o fracionamento deixou de ocorrer, o que anularia o próprio método; e D e E trocam entre si os períodos glaciais e interglaciais e atribuem a cada um a temperatura do outro."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um tema de grande interesse na química é a ativação seletiva de ligações C-H. Essa ativação permite a substituição de H nessas ligações por outros átomos, como O ou N. A relevância desse tema pode ser verificada em um estudo recentemente publicado no prestigioso periódico Science, que conta com uma egressa da USP dentre seus autores. A baixa diferença de eletronegatividade entre C e H é um dos motivos que dificulta a ativação da ligação C-H, pois torna a ligação pouco polar e diminui sua reatividade.\n\nNote e adote: Número atômico (Z) dos elementos: H = 1, C = 6, N = 7, O = 8, F = 9, P = 15, S = 16, Cl = 17.",
+   "enunciado": "Considerando apenas a eletronegatividade dos elementos, qual das alternativas apresenta uma ligação ainda menos reativa do que a ligação C-H?",
+   "alternativas": {
+    "a": "C-N",
+    "b": "C-F",
+    "c": "S-O",
+    "d": "P-H",
+    "e": "P-Cl"
+   },
+   "resposta": "d",
+   "explicacao": "O enunciado dá a regra: quanto menor a diferença de eletronegatividade, menos polar a ligação e menos reativa ela é. Carbono e hidrogênio já são próximos, e fósforo e hidrogênio são ainda mais — o fósforo está um período abaixo do nitrogênio e a eletronegatividade cai ao descer o grupo, de modo que P e H praticamente empatam e a ligação P-H é quase apolar. Nas outras quatro há sempre um elemento fortemente eletronegativo do lado direito da tabela (N, F, O, Cl) puxando o par de elétrons, o que aumenta a polaridade e, com ela, a reatividade."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -36457,6 +36737,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A cadeia de conversões é longa, mas cada elo é direto. Dez mols de etanol pesam 460 g e, com densidade 0,78 g/mL, ocupam cerca de 590 mL, ou seja, 0,59 L — exatamente o volume que 1 m³ de biogás substitui. Então basta 1 m³ = 1000 L de biogás. Desses, 70% são metano: 700 L. Dividindo pelo volume molar, 700/22 ≈ 31,8 mol, que a 16 g/mol dão cerca de 510 g. A alternativa (d) é a pegadinha para quem para no volume de etanol em mililitros e o lê como massa de metano."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fuvest-quimica-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura. Durante o processo de geração de H2 Após o processo de geração de H2 Ao frasco à esquerda adicionou-se uma quantidade pré- determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn0(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\n\nNote e adote: Volume molar do gás ideal nas condições do experimento = 24,9 L. Massa molar do Zn = 65,4 g/mol.",
+   "enunciado": "Considerando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?",
+   "alternativas": {
+    "a": "0,07",
+    "b": "0,13",
+    "c": "0,26",
+    "d": "0,29",
+    "e": "0,48"
+   },
+   "resposta": "b",
+   "explicacao": "Os 49,8 mL de hidrogênio correspondem a 0,0498 L ÷ 24,9 L/mol = 2,0 × 10⁻³ mol de H2. A equação Zn + 2H⁺ → Zn²⁺ + H2 é 1 para 1, então reagiram 2,0 × 10⁻³ mol de zinco. Multiplicando pela massa molar, 2,0 × 10⁻³ × 65,4 = 0,13 g. O valor 0,26 (C) sairia de dobrar a proporção, como se cada mol de zinco desse dois de gás; 0,07 (A) sai de dividi-la pela metade; e 0,29 e 0,48 não correspondem a nenhuma leitura da estequiometria."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -37731,6 +38031,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A lei de velocidade vem das ORDENS informadas, não dos coeficientes da equação: v = k[Br₂]¹[NO]². Triplicar o bromo multiplica a velocidade por 3; reduzir o óxido à metade a multiplica por (1/2)² = 1/4, porque a ordem dele é dois. O fator combinado é 3 × 1/4 = 3/4, e 12,0 × 3/4 = 9,0 mol/L·s. Quem trata o NO como primeira ordem obtém 3 × 1/2 = 3/2 e chega a 18,0; quem esquece a redução do NO e só triplica chega a 36,0. É o expoente 2 que faz a velocidade CAIR mesmo com o bromo triplicado."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A temperatura ideal para uso de um forno a lenha para preparo de pizzas pode ser inferida pela observação da coloração das paredes internas do forno. Abaixo da temperatura ideal, um material particulado preto proveniente da queima da lenha pode ser visto recobrindo as paredes internas. Quando a temperatura ideal é atingida, esse material particulado não é mais observado e a superfície mais clara do interior do forno pode ser vista.",
+   "enunciado": "A coloração da superfície interior do forno permite inferir a temperatura ideal, pois",
+   "alternativas": {
+    "a": "a fuligem advinda do processo de combustão incompleta da lenha deposita-se nas paredes e, com o aumento da temperatura, reage com o oxigênio do ar e produz gás carbônico, permitindo ver a cor mais clara da parede interna do forno.",
+    "b": "a coloração preta é originada pela fuligem da combustão completa da lenha, o que causa o aumento da temperatura até que a parede do forno se torne incandescente, revelando sua cor mais clara.",
+    "c": "a coloração preta é observada por conta da baixa quantidade de luz gerada pelas chamas da lenha em combustão a baixas temperaturas e essa quantidade de luz aumenta à medida que a temperatura se torna elevada.",
+    "d": "o material particulado se funde, escorrendo pelas paredes do forno quando a temperatura ideal é atingida, revelando a coloração mais clara do interior do forno.",
+    "e": "a alta quantidade de gás carbônico produzida em baixas temperaturas forma uma névoa que não permite a passagem de luz, o que torna o interior escuro."
+   },
+   "resposta": "a",
+   "explicacao": "Com pouco oxigênio disponível e temperatura baixa, a lenha queima de forma incompleta e deposita fuligem — carbono — nas paredes. Aquecido o forno, essa fuligem passa a reagir com o oxigênio do ar e se converte em gás carbônico, deixando a parede à mostra. A alternativa B atribui a fuligem à combustão completa, que produziria só CO2 e água; C explica a cor pela pouca luz das chamas, quando o preto está depositado na parede; D faz o carbono se fundir e escorrer, e ele sublima a temperaturas altíssimas, não funde a algumas centenas de graus; e E inventa uma névoa opaca de CO2, gás incolor."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Fogareiros abastecidos com pequenos botijões de gás são equipamentos corriqueiros em trilhas e escaladas de duração prolongada, para possibilitar o cozimento de alimentos. Em geral, esses botijões são abastecidos com propano, isobutano ou n-butano. A tabela mostra a temperatura de ebulição e o calor liberado na combustão desses três gases, à pressão atmosférica.\n\nGás — temperatura de ebulição (°C) — calor liberado na combustão (kcal/m³ de substância na fase gasosa)\nPropano — −42 — 5065\nIsobutano — −12 — 8211\nn-Butano — −1 — 8411",
+   "enunciado": "Com base nessas informações, qual seria o gás mais indicado para a utilização em um ambiente com temperatura típica de −6 °C, considerando a viabilidade e o consumo de gás necessário para o preparo de alimentos?",
+   "alternativas": {
+    "a": "Propano, por estar líquido em −6 °C e, dentre as substâncias líquidas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+    "b": "Isobutano, por estar gasoso em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+    "c": "n-Butano, por estar gasoso em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+    "d": "n-Butano, por estar líquido em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer menos calor por volume de gás.",
+    "e": "Isobutano, por estar gasoso em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer menos calor por volume de gás."
+   },
+   "resposta": "b",
+   "explicacao": "A −6 °C, só o propano (ebulição a −42 °C) e o isobutano (−12 °C) já passaram do ponto de ebulição e estão gasosos; o n-butano ferve a −1 °C e ainda estaria líquido, sem alimentar o fogareiro. Entre os dois que servem, o isobutano libera 8211 kcal por metro cúbico contra 5065 do propano — mais calor por volume de gás, portanto menos gás gasto para cozinhar. As alternativas A e D trocam as fases, pondo como líquido o que está gasoso e vice-versa; C escolhe o n-butano, que a essa temperatura não vaporiza; e E acerta o gás mas erra a justificativa, dizendo que ele fornece menos calor."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Apesar de a África ser considerada o berço das civilizações e existirem indícios de conhecimentos elementares de Química no sul do continente cerca de 100.000 anos atrás, os conhecimentos químicos ensinados são eurocentristas. Entretanto, uma das grandes contribuições para o estudo de reatividade química é atribuída ao químico egípcio Ahmed Hassan Zewail, agraciado com o prêmio Nobel em 1999 por seus estudos de reações químicas usando uma técnica conhecida como espectroscopia de femtossegundos. Essa técnica possibilita identificar espécies com tempo de vida curto utilizando pulsos de laser com duração de 10−15 s.",
+   "enunciado": "Essa contribuição é relevante para o estudo de reações químicas, pois",
+   "alternativas": {
+    "a": "todos os processos químicos são extremamente rápidos e não podem ser estudados por técnicas que não sejam em femtossegundos.",
+    "b": "as reações químicas podem passar por espécies instáveis e com pouco tempo de vida.",
+    "c": "o tempo existente para analisar os produtos de uma reação depende apenas da quantidade de produtos formada.",
+    "d": "permite entender como reagentes específicos se comportam frente a processos reacionais que são extremamente lentos.",
+    "e": "apenas com uma técnica tão rápida é possível analisar o grau de pureza dos reagentes isolados."
+   },
+   "resposta": "b",
+   "explicacao": "Entre reagentes e produtos, muitas reações passam por estados de transição e intermediários que existem por femtossegundos e desaparecem antes que qualquer técnica lenta os registre. Pulsos de laser de 10⁻¹⁵ s conseguem fotografá-los, e é isso que permite descrever o caminho real da reação, não só as pontas. A alternativa A generaliza dizendo que todos os processos são rapidíssimos, quando muitos são lentos; C faz o tempo de análise depender só da quantidade de produto; D usa a técnica ultrarrápida para estudar processos lentos, que dispensariam essa resolução; e E a emprega para medir pureza de reagentes isolados, que é análise de rotina."
   }
  ],
  "gramatica-coesao-semantica": [
@@ -46435,6 +46795,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O alvo aparece em três momentos: gente “investindo alto na mentira”, alunos e pais divulgando conteúdos “sem saber o que havia por trás das palavras” e, no fecho, notícias falsas e imagens manipuladas circulando como verdade. A resposta proposta — letramento midiático e checagem — confirma o diagnóstico. A alternativa (c) inverte a reportagem, que valoriza o trabalho pedagógico com meios digitais; e as (d) e (e) tomam humor e política, citados como usos possíveis do meme, pelo problema, que é a manipulação."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "fuvest-interpretacao-texto-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“O preconceito linguístico é tanto mais poderoso porque, em grande medida, ele é ‘invisível’, no sentido de que quase ninguém fala dele, com exceção dos raros cientistas sociais que se dedicam a estudá-lo. Pouquíssimas pessoas reconhecem a existência do preconceito linguístico, quem dirá a sua gravidade como um sério problema social.” BAGNO, Marcos. Preconceito linguístico: o que é, como se faz. Edições Loyola, São Paulo, 1999.",
+   "enunciado": "Com base na leitura do texto, é possível depreender que o preconceito linguístico, apesar de nocivo para a sociedade, muitas vezes é despercebido. Nesse sentido, assinale a alternativa que apresenta um exemplo de preconceito linguístico.",
+   "alternativas": {
+    "a": "A língua falada é um instrumento de sobrevivência em sociedade.",
+    "b": "A língua varia tão rapidamente quanto as mudanças que ocorrem na sociedade.",
+    "c": "Existem muitas maneiras de se expressar a mesma ideia.",
+    "d": "Os habitantes de uma cidade grande não possuem sotaque na língua falada.",
+    "e": "Todo falante nativo de uma língua a conhece plenamente."
+   },
+   "resposta": "d",
+   "explicacao": "Dizer que quem mora em cidade grande \"não tem sotaque\" é o exemplo pedido: trata a fala de um grupo como neutra e, por consequência, a dos demais como desvio — que é exatamente o preconceito invisível de que Bagno fala, já que todo falante tem sotaque. As outras quatro alternativas enunciam fatos correntes da linguística: a língua é instrumento de sobrevivência social, varia com a sociedade, permite dizer a mesma ideia de vários modos e é dominada pelo falante nativo. Nenhuma delas hierarquiza variedades."
   }
  ],
  "interpretacao-inferencia": [
@@ -54269,6 +54649,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O aplicativo remove a barreira técnica que tornava a escrita dessas línguas quase artesanal: sem ele, era preciso produzir diacríticos manualmente; com ele, sete páginas saíram em dois dias. Ao permitir que qualquer falante escreva sua língua num teclado comum, o Linklado democratiza o registro escrito — que é o que a antropóloga aponta como forma de preservação. A alternativa (a) inverte um ponto sutil do texto: o aplicativo facilita criar representações GRÁFICAS para fonemas já existentes, não os fonemas em si. E a (c) toma o exemplo inicial, um jogo traduzido, como se fosse a contribuição geral."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "fuvest-interpretacao-texto-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Por quê? Porque pensar em direitos humanos tem um pressuposto: reconhecer que aquilo que consideramos indispensável para nós é também indispensável para o próximo. (...). Nesse ponto as pessoas são frequentemente vítimas de uma curiosa obnubilação. Elas afirmam que o próximo tem direito, sem dúvida, a certos bens fundamentais, como casa, comida, instrução, saúde, coisas que ninguém bem formado admite hoje em dia que sejam privilégio de minorias, como são no Brasil. Mas será que pensam que seu semelhante pobre teria direito a ler Dostoievski ou ouvir os quartetos de Beethoven? (...). Ora, o esforço para incluir o semelhante no mesmo elenco de bens que reivindicamos está na base da reflexão sobre os direitos humanos.” CANDIDO, Antonio. Vários escritos. 3ª ed. revista e ampliada. São Paulo: Duas Cidades, 1995.",
+   "enunciado": "Com base na leitura do texto, pode-se afirmar que Antonio Candido defende que o acesso a bens como a literatura e a música",
+   "alternativas": {
+    "a": "é privilégio de minorias, pois são bens que exigem reflexão.",
+    "b": "deve ser reivindicado como um direito, e não como um privilégio.",
+    "c": "vitimiza as pessoas que não têm acesso a bens fundamentais para viver.",
+    "d": "humaniza as minorias privilegiadas, incentivando-as a compartilhar seu conhecimento.",
+    "e": "é indispensável para quem luta pelos direitos humanos."
+   },
+   "resposta": "b",
+   "explicacao": "Antonio Candido parte da constatação de que casa, comida, instrução e saúde já são reconhecidos como direitos de todos, e pergunta se pensamos o mesmo de ler Dostoievski ou ouvir Beethoven. A tese que ele defende é que também esses bens devem ser reivindicados como direito, e não tolerados como privilégio de minorias. A alternativa A afirma justamente o que ele combate; C troca o argumento por uma constatação sobre vítimas; D inverte a direção, pois o texto não fala em minorias privilegiadas que compartilham; e E confunde o objeto: o acesso é o que se reivindica, não um requisito de quem luta."
   }
  ],
  "literatura-realismo-naturalismo": [
@@ -58329,6 +58729,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A cena põe duas posições frente a frente. Paulo Honório rejeita o texto por artificial — “há lá ninguém que fale dessa forma!” — e defende a linguagem como ela se usa. Gondim sustenta que “um artista não pode escrever como fala”, separando literatura e conversa. O choque é entre o rebuscamento e a naturalidade da fala cotidiana, e é essa oposição que o fragmento encena. A alternativa (c) escolhe apenas um dos lados do debate, e o texto não conclui por ele; a (a) inverte a discussão, que não é sobre norma padrão, e sim sobre afetação."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "fuvest-literatura-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O SOBREVIVENTE Impossível compor um poema a essa altura da evolução [da humanidade. Impossível escrever um poema – uma linha que seja – de [verdadeira poesia. O último trovador morreu em 1914. Tinha um nome de que ninguém se lembra mais. Há máquinas terrivelmente complicadas para as [necessidades mais simples. Se quer fumar um charuto aperte um botão. Paletós abotoam-se por eletricidade. Amor se faz pelo sem-fio. Não precisa estômago para digestão. Um sábio declarou a O Jornal que ainda falta muito para atingirmos um nível razoável de cultura. Mas até lá, felizmente, estarei morto. Os homens não melhoraram e matam-se como percevejos. Os percevejos heroicos renascem. Inabitável o mundo é cada vez mais habitado. E se os olhos reaprendessem a chorar seria um segundo [dilúvio. (Desconfio que escrevi um poema.) Carlos Drummond de Andrade. Alguma Poesia, 1930.",
+   "enunciado": "Entre o primeiro e o último verso, há uma aparente contradição, que, todavia, não se sustenta porque",
+   "alternativas": {
+    "a": "os entraves à plenitude lírica são removidos.",
+    "b": "os trovadores ainda inspiram os enamorados.",
+    "c": "a sabedoria controla o poder das máquinas.",
+    "d": "os heróis sempre ressuscitam neste mundo.",
+    "e": "a poesia resiste à negatividade do seu tempo."
+   },
+   "resposta": "e",
+   "explicacao": "O poema abre declarando impossível compor um poema e fecha com \"(Desconfio que escrevi um poema.)\". A contradição só é aparente porque o próprio texto é a prova de que a poesia sobrevive ao mundo mecanizado e violento que ele denuncia — ela resiste à negatividade do seu tempo. Os entraves não são removidos, permanecem (A); os trovadores estão mortos e esquecidos (B); as máquinas não são controladas por sabedoria alguma (C); e os percevejos que renascem são a imagem irônica da violência que se repete, não de heróis (D)."
   }
  ],
  "literatura-teoria-analise": [
@@ -60186,6 +60606,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A questão pede o que sobra depois de descontar carta e receita — e o que sobra é o trabalho com a linguagem. O feijão espera “feliz, de molho”; o torresmo frita “desmilinguindo-se de gozo”; a couve vai a “fogo alegre e presto”. Personificação, escolha sonora, métrica e rima transformam o procedimento culinário em texto poético: é a função poética da linguagem operando sobre a mensagem. As alternativas (a) e (b) descrevem a carta, e as (c) e (e), a receita — justamente os dois gêneros que o enunciado já descartou."
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "fuvest-literatura-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Leia o texto a seguir: Uma vida inteira pela frente. O tiro veio por trás. Cíntia Moscovich, Os cem menores contos brasileiros do século (organização: Marcelino Freire).",
+   "enunciado": "Embora seja um texto composto por apenas duas linhas, é possível caracterizá-lo como uma narrativa. Nesse texto, essa caracterização deve-se ao fato de que ele apresenta",
+   "alternativas": {
+    "a": "adjetivação de tempos.",
+    "b": "diálogo entre narradores.",
+    "c": "referenciação de espaços.",
+    "d": "descrição de personagens.",
+    "e": "sequência de ações."
+   },
+   "resposta": "e",
+   "explicacao": "\"Uma vida inteira pela frente. O tiro veio por trás.\" São duas ações em sucessão, e é essa sequência — uma expectativa de futuro seguida do disparo que a encerra — que faz do fragmento uma narrativa, e não uma descrição. Adjetivação, referenciação de espaços e descrição de personagens são recursos descritivos, que sozinhos não narram; e não há diálogo algum entre narradores."
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "fuvest-literatura-10",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Texto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava- me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62.",
+   "enunciado": "Os trechos transcritos foram retirados dos livros dos moçambicanos Luís Bernardo Honwana e Paulina Chiziane. Em ambos, observa-se a ocorrência da palavra “machamba”. A respeito do uso desse termo, é correto afirmar:",
+   "alternativas": {
+    "a": "No texto I, machamba refere-se a um matagal, em sentido denotativo; no texto II, ao papel de esposa de Sarnau, em sentido conotativo.",
+    "b": "No texto I, machamba possui sentido literal, referindo-se às terras para cultivo; no texto II, o sentido é figurado, referindo-se ao útero de Sarnau.",
+    "c": "No texto I, machamba possui sentido figurado, referindo- se à colheita; no texto II, o sentido é literal, referindo-se a um problema.",
+    "d": "Em ambos os textos, machamba apresenta sentido literal e refere-se a um terreno agrícola de produção familiar.",
+    "e": "Em ambos os textos, machamba possui sentido figurado e refere-se às terras férteis ocupadas pelos portugueses."
+   },
+   "resposta": "b",
+   "explicacao": "No texto I, Maria está no meio da machamba quando o capataz a agarra: a palavra designa a roça, a terra de cultivo, em sentido literal. No texto II, Nguila diz que Sarnau \"parece ser uma machamba difícil\", que ele \"semeia e não vê resultado\" e que não está para \"lavrar sem colher\" — a lavoura é metáfora do corpo da mulher e de sua fertilidade. O sentido, portanto, é literal no primeiro e figurado no segundo, na ordem oposta à de C e diferente das leituras uniformes de D e E."
   }
  ],
  "literatura-contemporanea": [
@@ -61538,6 +61998,163 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A fragilidade do corpo é o cenário, não o assunto. O que o trecho constrói é o entendimento silencioso entre as duas: Marília sabe que a narradora quer levantar sozinha e apenas põe o andador ao lado; busca a manta velha sem que ninguém peça; aperta os ombros com força demais. O fecho dá a chave — a narradora reinterpreta o excesso como carinho, porque “naquela força está o nosso carinho”. É o afeto que anos de convívio moldaram, imperfeito e reconhecível. As alternativas (a), (c) e (e) ficam na superfície física da cena e perdem o que a torna lírica."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Tempo de nos aquilombar É tempo de caminhar em fingido silêncio, e buscar o momento certo no grito, aparentar fechar um olho evitando o cisco e abrir escancaradamente o outro. É tempo de fazer os ouvidos moucos para os vazios lero-leros, e cuidar dos passos assuntando as vias, ir se vigiando atento, que o buraco é fundo. É tempo de ninguém se soltar de ninguém, mas olhar fundo na palma aberta a alma de quem lhe oferece o gesto. O laçar de mãos não pode ser algemas, e sim acertada tática, necessário esquema. É tempo de formar novos quilombos, em qualquer lugar que estejamos e que venham dias futuros, salve 2020 A mística quilombola persiste afirmando: “a liberdade é uma luta constante”. Conceição Evaristo. Jornal O Globo, 31/12/2019.",
+   "enunciado": "O verso “É tempo de formar novos quilombos” é um exemplo de",
+   "alternativas": {
+    "a": "paradoxo, na medida em que propõe retomar o passado num contexto atual.",
+    "b": "metonímia, já que os quilombos fazem parte de um novo contexto cultural, sem relação com o passado.",
+    "c": "metáfora, representando uma união coletiva como forma de resistência social.",
+    "d": "antítese, ao relacionar a noção de tempo passado a uma nova configuração de futuro.",
+    "e": "hipérbole, apresentando o termo “quilombos” no plural para indicar o grau de difusão do movimento."
+   },
+   "resposta": "c",
+   "explicacao": "O quilombo histórico era o povoado de escravizados fugidos; no poema de Conceição Evaristo ele nomeia outra coisa — a união coletiva como forma de resistência hoje. Chamar uma realidade pelo nome de outra, com base na semelhança entre as duas, é metáfora. Não é metonímia, que exigiria relação de contiguidade (parte pelo todo, autor pela obra); não é antítese nem paradoxo, porque o verso não põe dois termos opostos lado a lado; e não é hipérbole, porque não há exagero, e sim transposição de sentido."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Tempo de nos aquilombar É tempo de caminhar em fingido silêncio, e buscar o momento certo no grito, aparentar fechar um olho evitando o cisco e abrir escancaradamente o outro. É tempo de fazer os ouvidos moucos para os vazios lero-leros, e cuidar dos passos assuntando as vias, ir se vigiando atento, que o buraco é fundo. É tempo de ninguém se soltar de ninguém, mas olhar fundo na palma aberta a alma de quem lhe oferece o gesto. O laçar de mãos não pode ser algemas, e sim acertada tática, necessário esquema. É tempo de formar novos quilombos, em qualquer lugar que estejamos e que venham dias futuros, salve 2020 A mística quilombola persiste afirmando: “a liberdade é uma luta constante”. Conceição Evaristo. Jornal O Globo, 31/12/2019.",
+   "enunciado": "Considerando o enfoque do texto na denúncia social, o eu lírico revela, predominantemente,",
+   "alternativas": {
+    "a": "a crítica às reações da nossa sociedade frente aos problemas que ficaram no passado.",
+    "b": "as justificativas para a segregação social no mundo contemporâneo.",
+    "c": "as tensões sociais presentes há tempos, sob a luz dos embates do momento atual.",
+    "d": "a importância de contornar os problemas sociais do passado.",
+    "e": "as peculiaridades das diferentes classes sociais ao enfrentar os problemas sociais atuais."
+   },
+   "resposta": "c",
+   "explicacao": "O eu lírico não trata os problemas como encerrados no passado: ele diz que \"é tempo\" de agir agora, e fecha citando Angela Davis sobre a liberdade como luta constante. Ou seja, lê tensões sociais antigas à luz dos embates do presente. A alternativa A inverte isso ao situar os problemas no passado; B e E deslocam o foco para justificativas e peculiaridades que o poema não apresenta; D fala em contornar, quando o poema convoca ao enfrentamento."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "enunciado": "Em Dois irmãos, de Milton Hatoum, os gêmeos Yaqub e Omar representam duas personalidades antagônicas que se enfrentam ao longo da narrativa. A rivalidade entre eles tem como resultado:",
+   "alternativas": {
+    "a": "A prosperidade econômica de ambos.",
+    "b": "A reconstrução dos laços entre eles.",
+    "c": "A ida de Nael a São Paulo para viver com Yaqub.",
+    "d": "A morte de Rânia, a irmã dos gêmeos.",
+    "e": "A desagregação e a ruína da família."
+   },
+   "resposta": "e",
+   "explicacao": "Em Dois irmãos, a rivalidade entre Yaqub e Omar corrói tudo à volta: Zana adoece e morre, Halim se apaga, a casa é vendida a Rochiram e a família se dispersa. O desfecho é a desagregação e a ruína, não a prosperidade (A) nem a reconciliação (B). Nael não vai a São Paulo com Yaqub (C), e Rânia sobrevive aos irmãos (D)."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "A partir da leitura de Dois irmãos, com o foco na questão da paternidade de Nael, narrador do romance, pode-se afirmar:",
+   "alternativas": {
+    "a": "Nenhum dos dois irmãos assumiu a paternidade de Nael, nem Nael os reconheceu como pais.",
+    "b": "Nael é filho de Rochiram, de quem ganha a casa no fundo do terreno para escrever suas memórias.",
+    "c": "Nael gostaria que Yaqub fosse seu pai, pelos projetos e visão de mundo que compartilhava com ele.",
+    "d": "A cena final do romance, na qual Omar e Nael se encontram, confirma a paternidade de Omar.",
+    "e": "Embora não quisesse ter tido filhos, Halim é o pai de Nael, Omar e Yaqub."
+   },
+   "resposta": "a",
+   "explicacao": "Nael narra o romance sem nunca resolver de quem é filho — a mãe, Domingas, não conta, e os gêmeos jamais o assumem; ele tampouco os reconhece como pais. É justamente essa indefinição que sustenta o ponto de vista do narrador, um agregado que observa a família de fora. Rochiram é o comprador da casa, não o pai (B); a preferência por Yaqub não é o que o texto sustenta (C); a cena final não confirma paternidade nenhuma (D); e Halim é pai dos gêmeos e de Rânia, não de Nael (E)."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Todos os dias que depois vieram, eram tempo de doer. Miguilim tinha sido arrancado de uma porção de coisas, e estava no mesmo lugar. Quando chegava o poder de chorar, era até bom – enquanto estava chorando, parecia que a alma toda se sacudia, misturando ao vivo todas as lembranças, as mais novas e as muito antigas. Mas, no mais das horas, ele estava cansado. Cansado e como que assustado. Sufocado. Ele não era ele mesmo. Diante dele, as pessoas, as coisas, perdiam o peso de ser. Os lugares, o Mutum – se esvaziavam, numa ligeireza, vagarosos. E Miguilim mesmo se achava diferente de todos. Ao vago, dava a mesma ideia de uma vez, em que, muito pequeno, tinha dormido de dia, fora de seu costume – quando acordou, sentiu o existir do mundo em hora estranha, e perguntou assustado: – ‘Uai, Mãe, hoje já é amanhã?!’” João Guimarães Rosa. Campo Geral.",
+   "enunciado": "Conforme sugere o trecho, o sofrimento perturba a noção que Miguilim tinha do tempo, porque",
+   "alternativas": {
+    "a": "a falta de acuidade visual não lhe permite distinguir as épocas.",
+    "b": "o desamor ao pai o faz romper com a infância cedo demais.",
+    "c": "o aprendizado da morte embaralha os planos da memória.",
+    "d": "a sensação de vazio o leva a se sentir seguro no presente.",
+    "e": "os dias vividos no Mutum mostram-se cada vez mais curtos."
+   },
+   "resposta": "c",
+   "explicacao": "O trecho vem depois da morte do pai e do irmão de Miguilim. É o contato com a morte que desarruma o tempo do menino: as lembranças \"as mais novas e as muito antigas\" se misturam num só plano, e ele revive a sensação de acordar fora de hora e perguntar se hoje já é amanhã. A miopia de Miguilim existe no livro, mas não é o que embaralha o tempo aqui (A); o texto não fala em desamor ao pai (B); a sensação de vazio o desampara, não o torna seguro (D); e os dias não encurtam, ao contrário, \"eram tempo de doer\" (E)."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "A respeito dos contos “Nós matamos o Cão Tinhoso!”, “Dina”, “Papá, cobra e eu” e “Nhinguitimo”, de Nós matamos o Cão Tinhoso!, é possível afirmar:",
+   "alternativas": {
+    "a": "Os narradores e os protagonistas são crianças.",
+    "b": "São narrados em primeira pessoa, por narradores- protagonistas.",
+    "c": "Os protagonistas são oprimidos socialmente, e a reação deles não é endereçada aos opressores.",
+    "d": "São fábulas, e os protagonistas são animais.",
+    "e": "O espaço representado é o das grandes cidades moçambicanas."
+   },
+   "resposta": "c",
+   "explicacao": "Nos quatro contos, quem sofre a opressão desconta em alvo mais fraco ou se cala: os meninos matam o cão em vez de enfrentar o administrador, Madala é humilhado e nada faz, o pai apanha diante do filho. A reação existe, mas nunca chega ao opressor. Nem todos os narradores e protagonistas são crianças, e \"Nhinguitimo\" tem narrador adulto (A e B); não são fábulas com animais como protagonistas (D); e o espaço é rural e suburbano, não o das grandes cidades (E)."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "“Mas quantas vezes a insônia é um dom. De repente acordar no meio da noite e ter essa coisa rara: solidão. Quase nenhum ruído. Só o das ondas do mar batendo na praia. E tomo café com gosto, toda sozinha no mundo. Ninguém me interrompe o nada. É um nada a um tempo vazio e rico. E o telefone mudo, sem aquele toque súbito que sobressalta. Depois vai amanhecendo. As nuvens se clareando sob um sol às vezes pálido como uma lua, às vezes de fogo puro. Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar. O mar é meu, o sol é meu, a terra é minha. E sinto-me feliz por nada, por tudo. Até que, como o sol subindo, a casa vai acordando e há o reencontro com meus filhos sonolentos.” Clarice Lispector. “Insônia infeliz e feliz”. In: A descoberta do mundo. Rio de Janeiro: Rocco, 1999.",
+   "enunciado": "Considerando as características do trecho apresentado, pode- se afirmar que ele pertence a uma crônica, pois",
+   "alternativas": {
+    "a": "representa uma história paralela ligada a uma história principal.",
+    "b": "há apenas um conflito que se resolve em pouco tempo.",
+    "c": "possui estrutura simples e apresenta um cunho pedagógico.",
+    "d": "é uma narrativa breve que comenta um evento do cotidiano.",
+    "e": "compõe uma crítica indireta a alguém ou a algum fato."
+   },
+   "resposta": "d",
+   "explicacao": "Clarice comenta um episódio miúdo do dia a dia — acordar de madrugada, tomar café sozinha, ver o mar clarear — num texto curto, em primeira pessoa e de tom subjetivo. É a definição da crônica: narrativa breve que parte de um evento cotidiano. História paralela à principal descreve o entrecho de um romance (A); conflito único e resolvido rápido, o conto (B); estrutura simples com cunho pedagógico, a fábula (C); crítica indireta a alguém, a sátira (E)."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-11",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Texto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava- me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62.",
+   "enunciado": "Nos excertos, os escritores moçambicanos descrevem, cada um em seu contexto, cenas de violência. Sobre elas, é correto afirmar:",
+   "alternativas": {
+    "a": "Luís Bernardo Honwana descreve uma cena de violência psicológica velada do capataz contra a mulher, sem que ela perceba a agressão sofrida.",
+    "b": "Luís Bernardo Honwana expõe a violência social de que a mulher é vítima ao relatar uma discussão acalorada que ela trava com o capataz.",
+    "c": "Luís Bernardo Honwana narra uma luta física entre o capataz e a mulher, a qual tenta resistir à agressão sofrida, mas acaba por consentir com a relação.",
+    "d": "Paulina Chiziane apresenta elementos narrativos que permitem identificar a agressão psicológica e física praticada, pelo marido, contra a mulher.",
+    "e": "Paulina Chiziane associa a violência contra a mulher a um processo educativo que visa zelar pela estabilidade da relação conjugal e pela felicidade do casal."
+   },
+   "resposta": "d",
+   "explicacao": "Em Chiziane, o marido admite a bofetada e a chama de \"disciplina\", cobre a mulher de elogios e a pressiona pela falta de filhos: há agressão física e psicológica no mesmo trecho. Em Honwana, a violência é física e sexual e Maria a percebe e resiste — ela esbraceja e tenta libertar as pernas —, o que derruba as leituras de A (violência velada e não percebida), B (uma discussão) e C (consentimento). E inverte o sentido do texto II ao apresentar a agressão como zelo pelo casal."
   }
  ],
  "ingles-inference": [
@@ -64743,6 +65360,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "“Instead of” marca substituição: troca-se uma coisa pela outra. A canção coloca de um lado o que se faz hoje — polir as bombas da guerra santa, odiar, temer, erguer muros — e do outro o que se deveria fazer: amar alguém, importar-se um pouco mais. O marcador é o pivô entre os dois, e o que ele propõe é justamente abandonar uma conduta e adotar outra: mudança de comportamento. As alternativas (b), (d) e (e) descrevem o cenário que a canção quer superar, não a ideia que o conector introduz."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "fuvest-ingles-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "The main players in the Spanish–Aztec War (1519–21) are well known: Hernán Cortés and Montezuma. Lesser-known, though no less important, is a multilingual exiled Aztec woman who was enslaved, then served as a guide and interpreter, then became Cortés’s mistress. She was known as Doña Marina, and as La Malinche. Scholar and researcher Cordelia Candelaria writes: her paramount value to the Spaniards was not merely linguistic. She was an interpreter/liaison who served as a guide to the region, as an advisor on native customs and beliefs, and as a strategist. La Malinche was the daughter of an Aztec cacique (chief). This gave her an unusual level of education, which she would later leverage as a guide and interpreter for the Spanish. Throughout Cortés’s travels, she became indispensable as a translator, not only capable of functionally translating from one language to the other, but of speaking compellingly, strategizing, and forging political connections. Integral as she was to Spain’s success, La Malinche is a controversial figure. Candelaria quotes T. R. Fehrenbach as saying, “If there is one villainess in Mexican history, she is La Malinche. She was to become the ethnic traitress supreme.” But Candelaria argues that La Malinche’s act of turning her back on her own people makes more psychological sense when we consider that, at a young age, she had been sold by her own mother into slavery. Candelaria asks, “What else could this outcast from the Aztecs, ‘her own people,’ have done?” Disponível em https://daily.jstor.org/. Adaptado.",
+   "enunciado": "Segundo o texto, em relação à imagem de La Malinche como traidora do povo Asteca, a pesquisadora Cordelia Candelaria argumenta que a intérprete",
+   "alternativas": {
+    "a": "havia sido preterida no seio da própria família.",
+    "b": "fez uso de idiomas em proveito próprio.",
+    "c": "era invejada pelos privilégios alcançados.",
+    "d": "ignorou as vulnerabilidades do povo mexicano.",
+    "e": "tentou se sobrepor aos líderes da época."
+   },
+   "resposta": "a",
+   "explicacao": "Candelaria não nega que La Malinche tenha servido aos espanhóis; ela argumenta que a traição faz mais sentido psicológico quando se lembra que, ainda jovem, ela \"had been sold by her own mother into slavery\" — foi vendida como escrava pela própria mãe — e pergunta o que mais poderia fazer alguém rejeitada pelos seus. O argumento é o da preterição dentro da própria família. O texto descreve o uso dos idiomas como serviço aos espanhóis, não como proveito próprio (B); e não fala em inveja (C), em vulnerabilidades ignoradas (D) nem em disputa com os líderes (E)."
   }
  ],
  "ingles-grammar-structure": [
@@ -69721,6 +70358,66 @@ window.QUESTION_BANKS = {
    "explicacao": "O texto enuncia uma crença corrente (\"students are told\"), declara que ela é falsa e explica por que ela sobrevive: é estrutura de refutação, não de descrição. A alternativa (e) exagera a tese — o autor mostra que a memória sustenta o raciocínio clínico, o que está longe de proclamá-la método único de ensino.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Vincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is “immersive”, the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of “immersive” retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn’t do much in the way of sensory stimulation. My favourite element of an “immersive” show I have been to was their faithful recreation of Van Gogh’s bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don’t even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation “immersive experiences” have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces. Disponível em https://www.vice.com/en/article/. Adaptado.",
+   "enunciado": "De acordo com o texto, muitos visitantes das exposições de arte imersivas demonstram",
+   "alternativas": {
+    "a": "fascínio pelas novidades tecnológicas utilizadas pelos curadores.",
+    "b": "desconforto causado pelo excesso de estímulos sensoriais.",
+    "c": "curiosidade sobre a biografia dos pintores e os movimentos artísticos.",
+    "d": "apreciação pelas informações oferecidas por guias e educadores.",
+    "e": "indiferença diante das simulações das obras de arte."
+   },
+   "resposta": "e",
+   "explicacao": "O penúltimo parágrafo diz que as instalações são por vezes tão banais e rasas que os visitantes \"have often walked through installations entirely oblivious to whatever is happening around them\" — atravessam a exposição sem se dar conta do que acontece à volta. Isso é indiferença diante das simulações. O texto atribui fascínio pela novidade aos organizadores, não ao público (A); o desconforto que menciona é o dos assentos, não excesso de estímulo (B); e nada diz sobre curiosidade biográfica (C) nem sobre guias e educadores (D)."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Vincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is “immersive”, the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of “immersive” retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn’t do much in the way of sensory stimulation. My favourite element of an “immersive” show I have been to was their faithful recreation of Van Gogh’s bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don’t even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation “immersive experiences” have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces. Disponível em https://www.vice.com/en/article/. Adaptado.",
+   "enunciado": "O texto apresenta uma crítica às exposições de arte imersivas que está relacionada com",
+   "alternativas": {
+    "a": "a manipulação digital das imagens exibidas pelos usuários do TikTok.",
+    "b": "o emprego das obras de arte para fins publicitários ilícitos.",
+    "c": "a cobrança pelo uso de equipamentos para simular a experiência de imersão nas obras.",
+    "d": "a falta de informação para o público leigo nos catálogos das exibições.",
+    "e": "o investimento necessário para a criação da tecnologia usada nas instalações."
+   },
+   "resposta": "c",
+   "explicacao": "O autor conta que muitas exposições não incluem os óculos de realidade virtual no ingresso comum, e que por duas vezes sua volta à realidade foi acompanhada de \"an usher brandishing a credit card machine\" — um funcionário com a maquininha de cartão. A crítica recai sobre a cobrança à parte pelo equipamento que produz a imersão. O texto não trata de manipulação digital por usuários do TikTok (A), de uso publicitário ilícito (B), de catálogos (D) nem do custo de desenvolver a tecnologia (E)."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Over the last two decades, technology companies and policymakers warned of a “digital divide” in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level. A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion- dollar enterprise offering new opportunities — at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching. “What’s happened as sports has become privatized is that it has become the haves and have-nots,” said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. “Particularly for low-income kids, if they don’t have access to sports within the school setting, where are they going to get their physical activity?” Mr. Solomon said. “The answer is nowhere.” The New York Times. 24 March 2023. Adaptado.",
+   "enunciado": "Conforme o texto, um dos motivos para a disparidade relativa à prática de atividades físicas por alunos, segundo o nível de renda, reside",
+   "alternativas": {
+    "a": "no abismo persistente entre as notas de estudantes ricos e pobres.",
+    "b": "no corte de gastos e mudanças de prioridades em algumas escolas públicas.",
+    "c": "na preferência por jogadores com potencial superior para competição.",
+    "d": "na redução de bolsas de estudos para adolescentes de famílias abaixo da linha de pobreza.",
+    "e": "na realização de campeonatos contemplados com doações de ONGs."
+   },
+   "resposta": "b",
+   "explicacao": "O terceiro parágrafo enumera as causas e abre com ela: \"Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports\" — cortes de gasto e mudança de prioridades em algumas escolas públicas reduziram a educação física e os esportes organizados. As demais alternativas trazem fatores que o texto não menciona: notas escolares, seleção por talento, bolsas de estudo e campeonatos com doações de ONGs."
   }
  ],
  "ingles-vocabulary": [
@@ -70866,6 +71563,26 @@ window.QUESTION_BANKS = {
    "explicacao": "O termo \"shed light on\" descreve o efeito de um único dente sobre o conhecimento de uma população quase sem vestígios, detalhado nas frases seguintes sobre o DNA. Ele equivale a \"esclarecer\", \"lançar luz sobre\" — o oposto de esconder ou destruir.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "fuvest-ingles-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Over the last two decades, technology companies and policymakers warned of a “digital divide” in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level. A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion- dollar enterprise offering new opportunities — at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching. “What’s happened as sports has become privatized is that it has become the haves and have-nots,” said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. “Particularly for low-income kids, if they don’t have access to sports within the school setting, where are they going to get their physical activity?” Mr. Solomon said. “The answer is nowhere.” The New York Times. 24 March 2023. Adaptado.",
+   "enunciado": "Considerado o contexto, o termo “far”, na expressão “far less” (2º parágrafo), expressa",
+   "alternativas": {
+    "a": "temporalidade.",
+    "b": "distância.",
+    "c": "antecipação.",
+    "d": "intensidade.",
+    "e": "progresso."
+   },
+   "resposta": "d",
+   "explicacao": "Em \"poor children and adolescents are participating far less in sports\", \"far\" não localiza nada no espaço nem no tempo: é um intensificador que reforça o comparativo \"less\", como em \"far better\" ou \"far more\". Equivale a \"muito menos\". O sentido de distância (B) é o literal da palavra, mas não o que ela tem diante de um comparativo; temporalidade, antecipação e progresso não cabem na construção."
   }
  ]
 };

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "fisica",
- "total": 557,
+ "total": 561,
  "residuo": [
   "med-fisica-31",
   "med-fisica-92",
@@ -3336,6 +3336,29 @@
   },
   "enem-fisica-23": {
    "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "fuvest-fisica-1": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "revisado": true
+  },
+  "fuvest-fisica-2": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "fuvest-fisica-3": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "fuvest-fisica-4": {
+   "subtema": "fisica-termologia",
    "frenteDestino": "fisica",
    "pontos": 10,
    "margem": 10

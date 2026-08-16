@@ -6007,6 +6007,99 @@
       },
       "resposta": "b",
       "explicacao": "Cinco países entre quinze são permanentes e sozinhos podem barrar qualquer resolução, poder que os outros dez não têm — e o número de 261 vetos mostra que essa prerrogativa é usada. Peso desigual na decisão é assimetria política, herança da configuração de poder de 1945. A alternativa (c) é contraditada pelo próprio veto, que dispensa consenso, e a (e) descreve arranjos como o da União Europeia, em que Estados cedem competências, o que não é o caso do Conselho."
+    },
+    {
+      "id": "fuvest-geografia-1",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fuvest",
+      "texto_apoio": "Em junho de 2022, a Administração Nacional Oceânica e Atmosférica (NOAA) reportou que, naquela data, os níveis de CO2 na atmosfera encontravam-se em torno de 420 ppm. Esse valor é muito superior à concentração média de aproximadamente 280 ppm, existente antes da Revolução Industrial.",
+      "enunciado": "Com base nessas informações e em seus conhecimentos, é correto afirmar:",
+      "alternativas": {
+        "a": "Apesar do grande aumento nas quantidades dos três principais gases de efeito estufa a partir da Revolução Industrial, seus níveis passaram a estabilizar por volta do ano 2000.",
+        "b": "A mecanização resultante da Revolução Industrial, iniciada no século XVIII, causou grandes mudanças nos meios de produção, com a utilização de energias renováveis.",
+        "c": "O plantio de árvores em grande escala acentua o aquecimento global, devido à liberação de gases do efeito estufa na atmosfera.",
+        "d": "O aquecimento global é um fenômeno recente, já que a Terra teve um clima com temperaturas constantes durante sua existência.",
+        "e": "O efeito estufa é um fenômeno intensificado a partir da Revolução Industrial, devido às atividades humanas emissoras de CO2, que contribuem para o aquecimento global."
+      },
+      "resposta": "e",
+      "explicacao": "Saltar de 280 para 420 ppm de CO2 é o retrato do efeito estufa intensificado: o fenômeno é natural e mantém a Terra habitável, mas a queima de combustíveis fósseis a partir da Revolução Industrial elevou a concentração dos gases a ponto de alterar o balanço de energia do planeta. A alternativa A afirma estabilização, quando o próprio dado de 2022 mostra que a curva continuou subindo; B chama de renováveis as energias da industrialização, que foram o carvão e depois o petróleo; C inverte o papel das árvores, que fixam carbono; e D nega variações climáticas que a Terra teve ao longo de toda a sua história."
+    },
+    {
+      "id": "fuvest-geografia-2",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "enunciado": "Sobre o papel da cafeicultura na dinâmica territorial dos estados de São Paulo e do Rio de Janeiro nos séculos XIX e XX, é correto afirmar:",
+      "alternativas": {
+        "a": "Iniciada no Vale do Paraíba do Sul, entre São Paulo e Rio de Janeiro, na década de 1830, a cafeicultura teve pouco êxito nessa região pelas dificuldades de cultivo, em função do clima frio e da escassez de trabalho escravizado.",
+        "b": "A expansão da produção cafeeira no estado de São Paulo se deu em direção à zona oriental do estado, na década de 1850, em decorrência da infraestrutura de transporte existente na região e da presença de trabalho assalariado.",
+        "c": "O início da cafeicultura no estado de São Paulo se deu na região oeste, na década de 1930, em decorrência da expansão da produção no norte do Paraná, com expansão para o oeste paulista, aproveitando-se da qualidade do solo.",
+        "d": "A produção cafeeira, nos séculos XIX e XX, concentrava-se nos estados de Minas Gerais e Espírito Santo, com a introdução de novas variedades altamente produtivas e resistentes ao clima frio dessas regiões.",
+        "e": "Expandindo-se na direção oeste do território paulista, a produção cafeeira impulsionou, nos séculos XIX e XX, a estruturação econômica do estado de São Paulo, impactando o desenvolvimento da malha ferroviária e portuária."
+      },
+      "resposta": "e",
+      "explicacao": "O café começou no vale do Paraíba e avançou para o oeste paulista atrás de terra roxa, arrastando consigo a malha ferroviária que ia do interior a Santos e o porto que embarcava a safra — a estrutura econômica do estado se organizou em torno desse eixo. A alternativa A diz que a lavoura teve pouco êxito no vale do Paraíba, onde ela foi justamente o auge do período imperial; B manda a expansão para o oriente do estado, contra o sentido real; C data o início nos anos 1930 e o faz depender do norte do Paraná, ocupado depois; e D transfere a concentração da produção para Minas e Espírito Santo no período."
+    },
+    {
+      "id": "fuvest-geografia-3",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Em fevereiro de 2023, ocorreu uma precipitação pluviométrica extrema no litoral norte de São Paulo, com volume que excedeu os 600 mm de chuva em menos de 24 horas. Foi um dos maiores índices pluviométricos já registrados no Brasil para um dia. Essa grande quantidade de chuva provocou muitos deslizamentos de terra.",
+      "enunciado": "Considerando o contexto socioambiental em que esse episódio ocorreu, é correto afirmar:",
+      "alternativas": {
+        "a": "Apesar das altas declividades nas encostas da Serra do Mar, eventos como esse são raros, uma vez que os solos profundos e a vegetação primária dificultam os deslizamentos de terra.",
+        "b": "No local do deslizamento de terra, ocorrerá um processo de sucessão primária e, após poucos anos, uma floresta madura estará estabelecida.",
+        "c": "A baixa umidade da região e a indisponibilidade de nutrientes no solo retardarão a instalação de organismos pioneiros, como os líquens, que iniciarão o processo de sucessão nesse local.",
+        "d": "Fenômenos desse tipo são causados por fatores naturais da região, relacionados ao clima, à geologia e ao relevo, mas são agravados pela ocupação desordenada das encostas.",
+        "e": "No local do deslizamento de terra, a biomassa vegetal aumentará ao longo da sucessão ecológica graças a um equilíbrio energético no sistema, em que as taxas de fotossíntese e respiração permanecerão equivalentes."
+      },
+      "resposta": "d",
+      "explicacao": "As encostas da serra do Mar reúnem declividade alta, solos rasos sobre rocha cristalina e chuvas orográficas intensas: o escorregamento é um processo natural ali. O que transformou o evento de 2023 em tragédia foi a ocupação das encostas por moradias sem terraceamento nem drenagem, muitas em área de risco. Natureza e ocupação, portanto, somadas. A alternativa A chama o fenômeno de raro numa das regiões mais deslizantes do país; B promete floresta madura em poucos anos, quando a sucessão leva décadas; C descreve sucessão primária sobre rocha nua, e ali restou solo; e E supõe fotossíntese e respiração equivalentes, o que descreveria um sistema estagnado, não em recuperação."
+    },
+    {
+      "id": "fuvest-geografia-4",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "enunciado": "Sobre o conflito geopolítico que envolve o povo curdo, é correto afirmar:",
+      "alternativas": {
+        "a": "O Tratado de Lausanne estabeleceu as fronteiras da Turquia moderna, incluindo a existência de um Estado curdo após o fim do Império Turco Otomano, concedendo aos curdos o domínio do território entre as atuais Turquia e Síria.",
+        "b": "Os curdos formam uma população estimada em dezenas de milhões de pessoas e parte habita uma região montanhosa que se espalha pelos territórios fronteiriços de cinco países: Turquia, Iraque, Síria, Irã e Rússia.",
+        "c": "Falantes de várias línguas, dentre as quais árabe, curdo, turco e persa, e compostos por diferentes grupos étnicos e religiosos, os curdos são considerados a maior população apátrida do mundo.",
+        "d": "Entre os anos de 2013 e 2019, as forças curdas desempenharam um papel central no enfrentamento ao Estado Islâmico na região, o que levou ao reconhecimento do estado independente do Curdistão.",
+        "e": "Em 2022, foi aprovada uma resolução no Conselho de Segurança da ONU reconhecendo a independência do Curdistão e definindo suas fronteiras em territórios que pertenciam à Síria, Turquia e Iraque."
+      },
+      "resposta": "c",
+      "explicacao": "Os curdos somam algo em torno de 30 milhões de pessoas repartidas entre Turquia, Iraque, Irã e Síria, falam variedades próprias e convivem com árabe, turco e persa, e nunca obtiveram Estado — é a maior nação sem país do mundo. O Tratado de Lausanne (1923) fez o contrário do que diz A: enterrou o Curdistão prometido em Sèvres. A alternativa B inclui a Rússia entre os países de população curda, no lugar da Armênia ou do Azerbaijão; D transforma o combate ao Estado Islâmico em reconhecimento de independência, que não houve; e E inventa uma resolução do Conselho de Segurança."
+    },
+    {
+      "id": "fuvest-geografia-5",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "“A China enviou ontem navios de guerra e dezenas de caças para Taiwan, em retaliação a uma reunião entre a presidente da ilha, Tsai Ing-Wen, e o presidente da Câmara dos Deputados do EUA, Kevin McCarty, na Califórnia”. O Estado de São Paulo, 08/04/2023. Adaptado.",
+      "enunciado": "A reportagem faz alusão ao aumento das tensões geopolíticas entre China e Taiwan. Sobre esse tema, é correto afirmar:",
+      "alternativas": {
+        "a": "As tensões iniciaram-se no final de década de 1970, em decorrência das mudanças políticas e econômicas perpetradas pelo então presidente chinês Deng Xiaoping, que resultaram na declaração de independência de Taiwan em relação à China.",
+        "b": "Iniciadas ainda na primeira metade do século XX, as tensões entre China e Taiwan aumentaram desde então em decorrência da presença militar dos EUA no território taiwanês, o que contraria os interesses geopolíticos chineses na região.",
+        "c": "As tensões decorreram do aumento da influência russa sobre o território taiwanês, com foco na exploração do potencial mercado consumidor, considerado estratégico para o aumento das exportações do gás natural russo.",
+        "d": "Com apoio soviético, Taiwan conseguiu independência do território chinês no final da década de 1960. Após o fim da Guerra Fria, tornou-se uma potência tecnológica, o que ampliou o interesse geopolítico chinês na retomada desse território.",
+        "e": "Taiwan é reconhecido como país independente pelos EUA e tem emergido na rota dos conflitos entre os governos estadunidense e chinês, o que pode ser interpretado como indício do deslocamento do eixo geopolítico do mundo para o sudeste asiático."
+      },
+      "resposta": "b",
+      "explicacao": "A separação nasce da guerra civil chinesa: derrotados pelos comunistas em 1949, os nacionalistas de Chiang Kai-shek se refugiaram na ilha de Formosa e ali mantiveram a República da China. Desde então Pequim considera Taiwan província rebelde, e a garantia militar norte-americana à ilha — venda de armamento, patrulhas no estreito — é o que sustenta o impasse e o que a China denuncia. A alternativa A data as tensões dos anos 1970 e supõe uma declaração de independência que Taipé nunca fez; C troca a China pela Rússia; D inventa independência com apoio soviético nos anos 1960; e E afirma reconhecimento formal de Taiwan pelos Estados Unidos, que mantêm relações oficiais com Pequim desde 1979."
     }
   ]
 }

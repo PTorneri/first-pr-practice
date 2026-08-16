@@ -8888,6 +8888,44 @@
    },
    "resposta": "b",
    "explicacao": "O alvo aparece em três momentos: gente “investindo alto na mentira”, alunos e pais divulgando conteúdos “sem saber o que havia por trás das palavras” e, no fecho, notícias falsas e imagens manipuladas circulando como verdade. A resposta proposta — letramento midiático e checagem — confirma o diagnóstico. A alternativa (c) inverte a reportagem, que valoriza o trabalho pedagógico com meios digitais; e as (d) e (e) tomam humor e política, citados como usos possíveis do meme, pelo problema, que é a manipulação."
+  },
+  {
+   "id": "fuvest-interpretacao-texto-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Por quê? Porque pensar em direitos humanos tem um pressuposto: reconhecer que aquilo que consideramos indispensável para nós é também indispensável para o próximo. (...). Nesse ponto as pessoas são frequentemente vítimas de uma curiosa obnubilação. Elas afirmam que o próximo tem direito, sem dúvida, a certos bens fundamentais, como casa, comida, instrução, saúde, coisas que ninguém bem formado admite hoje em dia que sejam privilégio de minorias, como são no Brasil. Mas será que pensam que seu semelhante pobre teria direito a ler Dostoievski ou ouvir os quartetos de Beethoven? (...). Ora, o esforço para incluir o semelhante no mesmo elenco de bens que reivindicamos está na base da reflexão sobre os direitos humanos.” CANDIDO, Antonio. Vários escritos. 3ª ed. revista e ampliada. São Paulo: Duas Cidades, 1995.",
+   "enunciado": "Com base na leitura do texto, pode-se afirmar que Antonio Candido defende que o acesso a bens como a literatura e a música",
+   "alternativas": {
+    "a": "é privilégio de minorias, pois são bens que exigem reflexão.",
+    "b": "deve ser reivindicado como um direito, e não como um privilégio.",
+    "c": "vitimiza as pessoas que não têm acesso a bens fundamentais para viver.",
+    "d": "humaniza as minorias privilegiadas, incentivando-as a compartilhar seu conhecimento.",
+    "e": "é indispensável para quem luta pelos direitos humanos."
+   },
+   "resposta": "b",
+   "explicacao": "Antonio Candido parte da constatação de que casa, comida, instrução e saúde já são reconhecidos como direitos de todos, e pergunta se pensamos o mesmo de ler Dostoievski ou ouvir Beethoven. A tese que ele defende é que também esses bens devem ser reivindicados como direito, e não tolerados como privilégio de minorias. A alternativa A afirma justamente o que ele combate; C troca o argumento por uma constatação sobre vítimas; D inverte a direção, pois o texto não fala em minorias privilegiadas que compartilham; e E confunde o objeto: o acesso é o que se reivindica, não um requisito de quem luta."
+  },
+  {
+   "id": "fuvest-interpretacao-texto-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“O preconceito linguístico é tanto mais poderoso porque, em grande medida, ele é ‘invisível’, no sentido de que quase ninguém fala dele, com exceção dos raros cientistas sociais que se dedicam a estudá-lo. Pouquíssimas pessoas reconhecem a existência do preconceito linguístico, quem dirá a sua gravidade como um sério problema social.” BAGNO, Marcos. Preconceito linguístico: o que é, como se faz. Edições Loyola, São Paulo, 1999.",
+   "enunciado": "Com base na leitura do texto, é possível depreender que o preconceito linguístico, apesar de nocivo para a sociedade, muitas vezes é despercebido. Nesse sentido, assinale a alternativa que apresenta um exemplo de preconceito linguístico.",
+   "alternativas": {
+    "a": "A língua falada é um instrumento de sobrevivência em sociedade.",
+    "b": "A língua varia tão rapidamente quanto as mudanças que ocorrem na sociedade.",
+    "c": "Existem muitas maneiras de se expressar a mesma ideia.",
+    "d": "Os habitantes de uma cidade grande não possuem sotaque na língua falada.",
+    "e": "Todo falante nativo de uma língua a conhece plenamente."
+   },
+   "resposta": "d",
+   "explicacao": "Dizer que quem mora em cidade grande \"não tem sotaque\" é o exemplo pedido: trata a fala de um grupo como neutra e, por consequência, a dos demais como desvio — que é exatamente o preconceito invisível de que Bagno fala, já que todo falante tem sotaque. As outras quatro alternativas enunciam fatos correntes da linguística: a língua é instrumento de sobrevivência social, varia com a sociedade, permite dizer a mesma ideia de vários modos e é dominada pelo falante nativo. Nenhuma delas hierarquiza variedades."
   }
  ],
  "textos": [

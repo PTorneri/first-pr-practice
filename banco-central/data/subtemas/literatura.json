@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "literatura",
- "total": 417,
+ "total": 428,
  "residuo": [
   "dir-literatura-53",
   "dir-literatura-55",
@@ -2481,6 +2481,68 @@
   },
   "enem-literatura-20": {
    "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-1": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-literatura-2": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 1
+  },
+  "fuvest-literatura-3": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-literatura-4": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-5": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-literatura-6": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-7": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fuvest-literatura-8": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "fuvest-literatura-9": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-literatura-10": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-11": {
+   "subtema": "literatura-contemporanea",
    "frenteDestino": "literatura",
    "revisado": true
   }

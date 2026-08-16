@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "historia",
- "total": 520,
+ "total": 530,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -3106,6 +3106,63 @@
   },
   "enem-historia-23": {
    "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "fuvest-historia-1": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "fuvest-historia-2": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fuvest-historia-3": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "fuvest-historia-4": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "fuvest-historia-5": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "fuvest-historia-6": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "fuvest-historia-7": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-historia-8": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "fuvest-historia-9": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-historia-10": {
+   "subtema": "historia-geral-moderna",
    "frenteDestino": "historia",
    "revisado": true
   }

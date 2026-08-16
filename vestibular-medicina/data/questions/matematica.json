@@ -8678,6 +8678,120 @@
       },
       "resposta": "b",
       "explicacao": "O custo é 2·20·L + 2·15·C = 6 000, que simplifica para 4L + 3C = 600. Isolando C = (600 − 4L)/3, a área fica A(L) = L·(600 − 4L)/3, uma parábola com concavidade para baixo cujo máximo está no vértice: L = 600/8 = 75 m. Daí C = (600 − 300)/3 = 100 m. O maior lado mede 100 m. O atalho vale a pena guardar: numa soma do tipo 4L + 3C fixa, o produto L·C é máximo quando as duas parcelas se igualam, isto é, 4L = 3C = 300."
+    },
+    {
+      "id": "fuvest-matematica-1",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "O reservatório de um caminhão-pipa tem a forma de um cilindro circular reto com eixo horizontal e dimensões internas de 6 metros de comprimento e 2 metros de diâmetro. Uma escola contratou o serviço do caminhão-pipa para abastecer sua caixa d’água. Após o abastecimento, o motorista percebeu que o reservatório do caminhão estava cheio até 3/4 de sua altura, conforme ilustrado na figura.",
+      "enunciado": "Qual foi o volume, em metros cúbicos, de água utilizada para abastecer a caixa d’água da escola, sabendo que o reservatório do caminhão estava cheio antes do abastecimento?",
+      "alternativas": {
+        "a": "(2π − √3/4) m³",
+        "b": "(2π − 3√3/2) m³",
+        "c": "(2π + 3√3/2) m³",
+        "d": "(4π + √3/4) m³",
+        "e": "(4π + 3√3/2) m³"
+      },
+      "resposta": "b",
+      "explicacao": "O tanque é um cilindro deitado de raio 1 m e comprimento 6 m, e o que saiu para a caixa d’água é o volume que faltou para completá-lo: a parte acima da altura 3/4, ou seja, acima de 0,25 m do topo. Na secção circular, essa parte é o segmento circular de altura 0,5 m acima do centro. O ângulo central vale 2·arccos(0,5) = 2π/3, e a área do segmento é (r²/2)(θ − sen θ) = (1/2)(2π/3 − √3/2) = π/3 − √3/4. Multiplicando pelos 6 m de comprimento: 6(π/3 − √3/4) = 2π − 3√3/2 m³, aproximadamente 3,7 m³. As alternativas com sinal de mais dariam volume maior que o do cilindro inteiro, que é 6π."
+    },
+    {
+      "id": "fuvest-matematica-2",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Uma empresa farmacêutica produz certo medicamento, formado por quatro componentes, conforme a tabela I, que também traz o custo do grama de cada um deles.\n\nTabela I — Composição do medicamento\nComponente A: 200 mg, R$ 700,00/g\nComponente B: 70 mg, R$ 500,00/g\nComponente C: 130 mg, R$ 300,00/g\nComponente D: 100 mg, R$ 120,00/g\n\nPara a produção do próximo lote, a empresa terá um gasto diferente, pois os custos de alguns componentes sofreram alterações, conforme a tabela II.\n\nTabela II — Variação no custo\nComponente A: + 7%\nComponente B: − 5%\nComponente C: 0%\nComponente D: + 10%",
+      "enunciado": "Qual é o aumento, em reais, no custo do medicamento?",
+      "alternativas": {
+        "a": "9,25",
+        "b": "12,00",
+        "c": "12,75",
+        "d": "36,00",
+        "e": "86,00"
+      },
+      "resposta": "a",
+      "explicacao": "Cada componente custa a massa em gramas vezes o preço por grama. A: 0,200 g × 700 = R$ 140,00; B: 0,070 × 500 = R$ 35,00; C: 0,130 × 300 = R$ 39,00; D: 0,100 × 120 = R$ 12,00. O aumento é a soma das variações: A sobe 7% de 140, ou R$ 9,80; B cai 5% de 35, ou −R$ 1,75; C não muda; D sobe 10% de 12, ou R$ 1,20. Total: 9,80 − 1,75 + 1,20 = R$ 9,25. O valor 12,00 sai de esquecer a queda de B e a alta de D; e 86,00 é o que se obteria aplicando os percentuais sobre os preços por grama, sem converter miligrama em grama."
+    },
+    {
+      "id": "fuvest-matematica-3",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Os conceitos de moda, mediana, média e amplitude definem medidas utilizadas para estudar um conjunto de informações numéricas. Por exemplo, na lista de 5 números (2, 2, 4, 8, 14), temos que a moda é igual a 2, a mediana é igual a 4, a média é igual 6 e a amplitude é igual a 12.",
+      "enunciado": "Assinale a alternativa que representa a quantidade de listas de 5 números inteiros positivos que cumprem a condição: moda = mediana = média = amplitude = 23.",
+      "alternativas": {
+        "a": "8",
+        "b": "9",
+        "c": "11",
+        "d": "22",
+        "e": "44"
+      },
+      "resposta": "a",
+      "explicacao": "Ordenando a lista como a₁ ≤ a₂ ≤ a₃ ≤ a₄ ≤ a₅, cada condição fixa uma coisa: mediana 23 dá a₃ = 23; amplitude 23 dá a₅ = a₁ + 23; média 23 dá soma 115, o que, substituído, deixa 2a₁ + a₂ + a₄ = 69. A moda é a condição decisiva: para 23 ser moda ele precisa repetir, e como a₁ e a₅ diferem entre si em 23, a repetição só pode vir de a₂ = 23 ou a₄ = 23. Se a₂ = 23, então a₄ = 46 − 2a₁, e as desigualdades a₁ ≤ 23 ≤ a₄ ≤ a₁ + 23 restringem a₁ a 8, 9, 10 e 11. Se a₄ = 23, então a₂ = 46 − 2a₁, e as mesmas desigualdades restringem a₁ a 12, 13, 14 e 15. Os dois casos não se sobrepõem, porque teriam de valer a₁ = 11,5. São quatro listas de cada lado, oito ao todo — por exemplo (8, 23, 23, 30, 31) e (15, 16, 23, 23, 38). Contagens maiores admitem listas de valores todos distintos, que não têm moda alguma."
+    },
+    {
+      "id": "fuvest-matematica-4",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Uma empresa de alimentos utiliza embalagens, no formato de paralelepípedo reto-retângulo, de dimensões 2 cm × 3 cm × 11 cm, para armazenar biscoitos. Para o transporte desse produto, são utilizadas caixas para acondicionar essas embalagens, também no formato de paralelepípedo reto-retângulo, de dimensões 12 cm × 13 cm × 26 cm.",
+      "enunciado": "Determine o número máximo de embalagens que podem ser acondicionadas em cada caixa fechada para transporte, sem que o produto seja danificado.",
+      "alternativas": {
+        "a": "48",
+        "b": "52",
+        "c": "56",
+        "d": "60",
+        "e": "61"
+      },
+      "resposta": "d",
+      "explicacao": "O volume da caixa é 12 × 13 × 26 = 4056 cm³ e o da embalagem, 2 × 3 × 11 = 66 cm³, o que põe o teto em 61 — mas esse teto só se alcançaria sem sobra alguma, e 11 não divide nenhuma aresta da caixa. Um arranjo que chega a 60 divide a caixa em duas partes ao longo da aresta de 26: um bloco de 12 × 13 × 22, com a aresta de 11 na vertical em duas camadas, e uma laje de 12 × 13 × 4. Na secção 12 × 13, os retângulos 2 × 3 cabem sem folga, porque 13 = 3 + 3 + 3 + 2 + 2: as três faixas de 12 × 3 levam 6 peças cada e as duas de 12 × 2 levam 4 cada, somando 26 por camada, ou 52 nas duas. Na laje de 4 cm, entram duas camadas de 2 cm com as faces 3 × 11 deitadas, 4 embalagens em cada, mais 8. Total 60, e o 61 do cálculo de volume fica inatingível."
+    },
+    {
+      "id": "fuvest-matematica-5",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Uma Árvore Pitagórica é uma figura plana construída por etapas. Na Etapa 1, ela começa com um quadrado de lado 1 cm. Na Etapa 2, constroem-se dois quadrados acima do quadrado da Etapa 1, de tal forma que a medida de seus lados seja igual à medida dos catetos do triângulo retângulo isósceles que possui hipotenusa igual ao lado do quadrado da Etapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos quadrados obtidos, e assim por diante.",
+      "enunciado": "A partir de qual etapa da construção o lado de cada um dos novos quadrados obtidos fica, pela primeira vez, menor do que 1 décimo de milésimo do lado do quadrado da Etapa 1?",
+      "alternativas": {
+        "a": "26",
+        "b": "27",
+        "c": "28",
+        "d": "29",
+        "e": "30"
+      },
+      "resposta": "c",
+      "explicacao": "Num triângulo retângulo isósceles de hipotenusa L, cada cateto mede L/√2. Então o lado encolhe por um fator 1/√2 a cada etapa, e na etapa n vale (1/√2)^(n−1). A condição é (1/√2)^(n−1) < 10⁻⁴, ou seja (n−1)·log√2 > 4. Como log√2 = (log 2)/2 = 0,15, vem n − 1 > 4 ÷ 0,15 = 26,67, isto é, n > 27,67. O primeiro inteiro que satisfaz é 28. As alternativas 26 e 27 param antes de o produto passar de 4, e 29 e 30 já ultrapassaram — a pergunta é pela primeira etapa em que a condição vale."
+    },
+    {
+      "id": "fuvest-matematica-6",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Números figurados são números que expressam o total de pontos em certas configurações geométricas. Os números triangulares são os que podem ser representados na forma de um triângulo — 1, 3, 6, 10 e assim por diante —, e o número 1, embora não represente um triângulo, é considerado triangular. Os números oblongos representam o total de pontos de um quadro retangular em que o número de colunas é uma unidade a mais do que o número de linhas — 2, 6, 12, 20 e assim por diante —, e o número 2, embora não represente um quadro retangular, é considerado oblongo.",
+      "enunciado": "A respeito de números triangulares e números oblongos, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "162 é o 15º número triangular.",
+        "b": "O 13º número triangular é primo e o 30º número oblongo é ímpar.",
+        "c": "156 não é um número oblongo, nem triangular.",
+        "d": "210 é um número triangular e oblongo.",
+        "e": "A diferença entre dois números triangulares consecutivos são termos de uma progressão geométrica."
+      },
+      "resposta": "d",
+      "explicacao": "O n-ésimo triangular é n(n+1)/2 e o n-ésimo oblongo é n(n+1) — o oblongo é o dobro do triangular de mesma ordem. Para 210: 20 × 21 ÷ 2 = 210, logo é o 20º triangular; e 14 × 15 = 210, logo é o 14º oblongo. A alternativa A erra porque o 15º triangular é 15 × 16 ÷ 2 = 120, não 162; B erra duas vezes, pois o 13º triangular é 91 = 7 × 13, que não é primo, e todo oblongo n(n+1) é produto de dois inteiros consecutivos e portanto par; C erra porque 156 = 12 × 13 é oblongo; e E erra porque a diferença entre triangulares consecutivos é n+1, que forma progressão aritmética, não geométrica."
     }
   ]
 }

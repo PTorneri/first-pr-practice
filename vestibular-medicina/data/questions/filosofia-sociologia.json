@@ -5148,6 +5148,101 @@
       },
       "resposta": "c",
       "explicacao": "Castoriadis aponta uma armadilha: a organização taylorista quer reduzir o trabalhador a peça de máquina, mas a produção só se sustenta porque ele improvisa, corrige e decide — se cumprisse as ordens ao pé da letra, a fábrica pararia em quinze minutos, que é o efeito conhecido da operação-padrão. A contradição está em depender da inteligência que se esforça por anular, e o nome dessa separação entre quem trabalha e o sentido do próprio trabalho é alienação. A alternativa (e) inverte o texto, que descreve tentativa de suprimir a autonomia, não de fortalecê-la."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-1",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "“Entre os anos de 2012 e 2022, o número de pessoas autodeclaradas pretas e pardas aumentou em uma taxa superior à do crescimento do total da população do país, segundo o resultado da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua do IBGE. No caso dos negros, essa porcentagem variou de 7,4% em 2012 para 10,6% em 2022. ‘(...) uma das hipóteses para o crescimento da proporção é que a percepção racial tenha mudado dentro da população, nos últimos anos’.” O Globo, 22/07/2022; CNN Brasil, 16/06/2023. “Pois bem, é justamente a partir daí que aparece a necessidade de teorizar as ‘raças’ como o que elas são, ou seja, construtos sociais, formas de identidade baseadas numa ideia biológica errônea, mas eficaz, socialmente, para construir, manter e reproduzir diferenças e privilégios. Se as raças não existem num sentido estritamente realista de ciência, ou seja, se não são um fato do mundo físico, são, contudo, plenamente existentes no mundo social, produtos de formas de classificar e de identificar que orientam as ações dos seres humanos.” GUIMARÃES, Antônio Sergio Alfredo. Raças e estudos de relações raciais no Brasil. Novos Estudos CEBRAP, n.54, 1999. p.153.",
+      "enunciado": "Relacionando os dados trazidos pela PNAD/IBGE e o conceito de raça do sociólogo Antônio Sergio Alfredo Guimarães, é correto afirmar:",
+      "alternativas": {
+        "a": "A hipótese de que a autopercepção racial de parte dos brasileiros mudou está em conflito com a tese de que raça é um construto social. Isso porque, como os traços fenotípicos da população brasileira mantiveram-se os mesmos de 2012 a 2022, não haveria motivos para o aumento dos autodeclarados pretos e pardos.",
+        "b": "A tese de que raças são construtos sociais ganha força diante das mudanças na autopercepção de parte dos brasileiros sobre sua condição racial. Alterações culturais e ideológicas da inserção social de negros e pardos teriam permitido o crescimento dos assim autodeclarados.",
+        "c": "As alterações na autopercepção racial captadas pelas pesquisas do IBGE não guardam relação com a ideia de que raça é um construto social. Na verdade, reafirmam que as raças são realidades biológicas e que mais indivíduos estariam se dando conta do seu verdadeiro pertencimento racial.",
+        "d": "Os dados colhidos pelo IBGE sobre o aumento da autodeclaração racial dos respondentes como pretos e pardos indicam que houve um aumento dessa população no Brasil, o que contraria a tese de que raça é um construto social, e não uma realidade biológica.",
+        "e": "A existência do racismo no Brasil indica que a tese de raça como construto social está errada. Se raça fosse um construto social, e não uma realidade biológica, os indivíduos prefeririam se declarar como brancos para evitar serem vítimas de racismo."
+      },
+      "resposta": "b",
+      "explicacao": "Guimarães define raça como construto social: não é fato do mundo físico, mas classificação plenamente existente no mundo social. Se o fenótipo da população não mudou entre 2012 e 2022 e mesmo assim mais gente passou a se declarar preta ou parda, o que mudou foi a classificação — e é exatamente isso que a tese prevê. A alternativa A lê o mesmo dado como conflito, quando ele é confirmação; C e D tratam raça como realidade biológica, que o texto nega; e E supõe que num mundo de construtos sociais ninguém se declararia negro, ignorando que a identidade também se afirma contra o estigma."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-2",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "“Quero dizer, numa palavra, que, levando em conta todas as coisas que nascem, devemos verificar se em cada caso é bem assim que nasce cada um dos seres, isto é, se os contrários não nascem senão dos seus próprios contrários, em toda parte onde existe tal relação: entre o belo, por exemplo, e o feio, que é, penso, o seu contrário; entre o justo e o injusto; e assim milhares de outros casos. (...) Exemplo: quando uma coisa se torna maior, não é necessário que ela anteriormente tenha sido menor, para em seguida se tornar maior?” Platão, Fédon, p.79.",
+      "enunciado": "No trecho transcrito do texto Fédon, Platão propõe uma compreensão filosófica própria sobre a relação existente entre os opostos. Com base nela, dentre as inferências possíveis, aquela que descreve a articulação principal entre dois termos que se opõem é:",
+      "alternativas": {
+        "a": "Entre os opostos, é possível inferir uma relação principal de complementariedade.",
+        "b": "Entre os opostos, é possível inferir uma relação principal de alternância.",
+        "c": "Entre os opostos, é possível inferir uma relação principal de exclusão.",
+        "d": "Entre os opostos, é possível inferir uma relação principal de anulação.",
+        "e": "Entre os opostos, é possível inferir uma relação principal de geração."
+      },
+      "resposta": "e",
+      "explicacao": "Platão não diz que os opostos se completam nem que se anulam: diz que um nasce do outro. O maior vem do que antes era menor, o belo do feio, o justo do injusto — e é desse vir a ser recíproco que ele extrai, no Fédon, o argumento de que a vida nasce da morte e a alma sobrevive. A articulação principal, portanto, é de geração. Complementaridade (A) e alternância (B) descrevem relações estáticas ou cíclicas sem a produção de um pelo outro; exclusão (C) e anulação (D) impediriam justamente a passagem que o texto descreve."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-3",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "“A história do skate no Brasil passou por fases diferentes e até mesmo antagônicas. Em 1988, por exemplo, na cidade de São Paulo, sob acusação de ser prática displicente, foi promulgada a Lei n º 25.871, pelo então prefeito Jânio Quadros, que proibia a prática da modalidade nas ruas da cidade. Essa proibição foi alterada no ano seguinte, quando a nova prefeita da cidade, Luiza Erundina, em um de seus primeiros atos, revogou essa mesma lei e liberou a prática do skate nas ruas da cidade. Anos depois, em 2015, o Brasil somava 8,4 milhões de praticantes de skate, segundo pesquisa Datafolha. Já em 2021, quando o skate estreou como modalidade olímpica nos Jogos de Tóquio, o Brasil se destacou como o segundo país com mais medalhas olímpicas na modalidade. No mesmo ano, a indústria nacional ligada ao esporte foi considerada a segunda maior do mundo, atrás apenas dos Estados Unidos, cujo mercado é estimado em US$ 4,5 bilhões ao ano.” Thais Carrança, BBC News Brasil em São Paulo, 26 julho 2021. Adaptado.",
+      "enunciado": "A partir da leitura do texto, é correto afirmar:",
+      "alternativas": {
+        "a": "O skate adentrou o mundo esportivo, entre outros motivos, por pressão dos praticantes da modalidade. No entanto, práticas esportivas que surgem pautadas pelo lazer ou por atividades cotidianas não deveriam ser consideradas modalidades esportivas por não terem sido institucionalizadas desde sua origem.",
+        "b": "Eventos esportivos de grande alcance, tal qual a Olimpíada, deveriam considerar as estruturas normativas que dão origem aos esportes para inseri-los nas competições. Apenas dessa forma, seria possível garantir a autenticidade das modalidades e justificar a inserção do skate como esporte olímpico.",
+        "c": "Os esportes são uma forma de representação das práticas sociais. Sendo assim, as transformações sociais podem resultar em alterações de regras esportivas, na esportivização de práticas de lazer e até na extinção de modalidades esportivas.",
+        "d": "Os esportes podem sofrer alterações normativas ao longo dos tempos. Com tal efeito, torna-se equivocado datar a criação de um esporte, pois ele já pode ter sofrido alterações que descaracterizaram sua origem.",
+        "e": "O skate, bem como outras práticas esportivas, foi criado de modo discreto, por grupos pequenos, e ganhou força e ascensão a partir do aumento de incentivo financeiro para sua realização, o que é determinante para um esporte alcançar reconhecimento mundial."
+      },
+      "resposta": "c",
+      "explicacao": "O texto mostra o skate proibido em 1988, liberado em 1989 e olímpico em 2021: a mesma prática muda de estatuto conforme muda a sociedade que a julga. É o argumento de que o esporte é representação de práticas sociais, e por isso regras mudam, atividades de lazer viram modalidade e modalidades desaparecem. As alternativas A e B fazem o contrário, transformando a origem institucional em critério para valer como esporte; D salta da mudança de normas para a impossibilidade de datar a criação de um esporte; e E elege o dinheiro como fator determinante, quando o texto mostra a mudança acontecendo antes da indústria bilionária."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-4",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "“As sociólogas, filósofas e ativistas feministas destacaram, com o conceito de ‘reprodução social’, algo que a teoria econômica ocultava: para que haja produção de bens e de serviços é necessário que as pessoas que os produzem sejam, por sua vez, produzidas. O trabalho da reprodução social, portanto, cria e repõe a condição primordial e necessária – a existência de pessoas que trabalham – para que a produção econômica possa continuar ocorrendo. Em grande medida, esse trabalho é relegado ao ambiente familiar e às mulheres: cuidado com os filhos, cuidado com doentes e idosos, preparação de alimentos, limpeza e arrumação da casa e outros. O trabalho de reprodução se opõe, socialmente, ao trabalho de produção; este está inserido numa economia organizada com base em empresas – nas fábricas, na agricultura, nos escritórios –, voltado para o mercado e é percebido como merecedor de contrapartida financeira: o salário. Assim, mesmo quando um trabalho da esfera da reprodução se realiza por meio de uma relação de emprego, se for realizado por mulheres, ele costuma ser mal pago e desfrutar de menor prestígio.” ARRUZZA, Cinzia; BATTACHARYA, Tithi; FRASER, Nancy. Feminismo para os 99%: um manifesto. São Paulo: Boitempo, 2019. “A chamada ‘economia do cuidado’ é o conjunto de atividades não remuneradas, geralmente exercidas por mulheres, como a limpeza da casa, preparação de alimentos e os cuidados com crianças, idosos e doentes da família. Um pacote que vale 11% do PIB atual (...). Em valores, foram cerca de 634,3 bilhões de reais em 2015 [por exemplo]. (...) Contabilizar o valor dos afazeres domésticos no PIB do Brasil só se tornou possível a partir de 2001, quando o IBGE introduziu na Pesquisa Nacional por Amostra de Domicílios (PNAD) a pergunta referente ao número de horas despendido pela população para executar essas atividades.” Disponível em https://www.cartacapital.com.br/.",
+      "enunciado": "Nos textos apresentados, encontram-se dois conceitos, o de “reprodução social” e o de “economia do cuidado”. De acordo com as definições desses conceitos e com os dados indicados, qual das afirmações a seguir está correta?",
+      "alternativas": {
+        "a": "Os conceitos de reprodução social e de economia do cuidado são contraditórios porque o primeiro se refere a todo trabalho doméstico e o segundo apenas ao trabalho doméstico pago e que é possível contabilizar.",
+        "b": "Ambos os conceitos se referem a um tipo de trabalho cuja importância é socialmente reconhecida, fato que pode ser comprovado pela porcentagem expressiva que ele representava do PIB brasileiro no ano de 2015.",
+        "c": "As definições de reprodução social e de economia do cuidado excluem, necessariamente, a possibilidade de que o Estado seja responsável por parte das tarefas envolvidas na reprodução das pessoas.",
+        "d": "A contabilização no PIB dos valores dos afazeres domésticos no contexto da economia do cuidado abarca apenas uma parte da reprodução social, pois não inclui o trabalho doméstico remunerado e os trabalhos de reprodução executados fora do ambiente doméstico.",
+        "e": "Os dados estimados sobre a participação das atividades domésticas não remuneradas no PIB do Brasil mostram que a reprodução social acontece apenas quando não há uma relação salarial entre quem executa e quem se beneficia desse tipo de trabalho."
+      },
+      "resposta": "d",
+      "explicacao": "Reprodução social é todo o trabalho que produz e repõe as pessoas que trabalham — inclusive o remunerado e o que acontece fora de casa, como o de creches, hospitais e escolas. A economia do cuidado, tal como o IBGE a mede, conta apenas os afazeres domésticos não remunerados. Os 11% do PIB são, portanto, uma parcela do conceito maior. A alternativa A chama os conceitos de contraditórios, quando um contém o outro; B afirma reconhecimento social de um trabalho que os dois textos descrevem como mal pago e desprestigiado; C exclui o Estado por definição, o que nenhum dos textos faz; e E confunde a medição do trabalho não remunerado com a tese de que só ele seria reprodução social."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-5",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Texto I “W. I. Thomas, decano dos sociólogos norte-americanos, formula um teorema básico para as ciências sociais: ‘Se os indivíduos definem as situações como reais, elas são reais em suas consequências’. (...) A primeira parte do teorema constitui uma incessante lembrança de que os homens reagem não somente aos traços objetivos de uma situação, como também, e às vezes principalmente, ao sentido que a situação tem para eles. E, assim que atribuíram algum sentido à situação, sua conduta consequente, e algumas das consequências dessa conduta, são determinadas pelo sentido atribuído. (...) A profecia que se cumpre por si mesma é, inicialmente, uma definição falsa da situação que provoca uma nova conduta, a qual, por sua vez, converte em verdadeiro o conceito originalmente falso.” MERTON, Robert. Sociologia: Teoria e Estrutura. São Paulo: Editora Mestre Jou, 1970. p.515-517. Texto II “Depois de alguns anos inseridos nesta lógica de abuso e privações de distintos tipos, o detento é novamente colocado em liberdade. (...) Conseguir um trabalho não é tão fácil como parece, já que mesmo as atividades menos qualificadas e manuais (como as relacionadas a limpeza, serviços gerais, construção civil, dentre outras) demandam ‘atestado de bons antecedentes e a marca da passagem pela cadeia pode significar um indesejável pertencimento ao mundo do crime’ (Ramalho, 2018, p. 91). (...) O fator [condicionante da reincidência] mais citado, presente em 44% dos textos [sobre o tema], foi a baixa qualificação e as poucas oportunidades, sendo essa a explicação padrão de boa parte da literatura para a reincidência.” RIBEIRO, Ludmila; OLIVEIRA, Valéria. Reincidência e reentrada na prisão no Brasil: o que os estudos dizem sobre os fatores que contribuem para essa trajetória. Artigo Estratégico 56. São Paulo: Instituto Igarapé, 2022. p.10-14.",
+      "enunciado": "Aplicando a noção proposta por Robert Merton, no texto I, ao cenário descrito no texto II, qual definição da situação das pessoas egressas do sistema prisional pelos possíveis empregadores no mercado de trabalho tornaria a reincidência criminal uma “profecia que se cumpre por si mesma”?",
+      "alternativas": {
+        "a": "Pessoas egressas do sistema prisional têm dificuldade de conseguir emprego no mercado de trabalho porque são estigmatizadas.",
+        "b": "Pessoas egressas do sistema prisional têm a mesma chance de conseguir empregos que o restante da população, razão pela qual não devem ser privilegiadas pelos empregadores.",
+        "c": "Pessoas egressas do sistema prisional já foram condenadas e cumpriram pena pelo crime cometido e merecem a oportunidade de trabalhar para recomeçarem a vida.",
+        "d": "Pessoas egressas do sistema prisional voltarão a cometer crimes e, por isso, não devem ser contratadas para trabalhar.",
+        "e": "Pessoas egressas do sistema prisional conseguem somente trabalhos informais e de baixa remuneração por terem pouca qualificação e dificuldades para conseguir seus documentos."
+      },
+      "resposta": "d",
+      "explicacao": "A profecia que se cumpre por si mesma começa numa definição falsa que, tomada como verdadeira, produz a conduta que a torna verdadeira. Aplicada aqui: o empregador parte de que o egresso voltará a delinquir e por isso não o contrata; sem trabalho, cresce a chance de reincidência — e o prognóstico se confirma por obra da própria recusa. A alternativa A descreve o estigma, que é o mecanismo, mas não a definição que o empregador adota; B e C são definições favoráveis, que não geram o efeito; e E descreve o resultado, a informalidade, e não a crença que o antecede."
     }
   ]
 }

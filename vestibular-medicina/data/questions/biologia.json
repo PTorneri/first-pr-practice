@@ -7950,6 +7950,119 @@
       },
       "resposta": "d",
       "explicacao": "Um revestimento rígido e não vivo não acompanha o crescimento do corpo. A solução dos artrópodes é a ecdise: o animal secreta um novo exoesqueleto sob o antigo, desprende-se da carapaça velha e, enquanto o novo revestimento ainda está mole, aumenta de tamanho antes que ele endureça. É por isso que o crescimento desses animais é descontínuo, em saltos. As demais alternativas contrariam a natureza do material — ele não se remodela nem se distende, e o animal precisa de proteção desde a fase jovem."
+    },
+    {
+      "id": "fuvest-biologia-1",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "“O Quim disse-me também que as feridas do Cão Tinhoso eram por causa da guerra e da bomba atômica [...] O Quim disse-me isso de o Cão Tinhoso ser muito velho quando um dia o vimos a bocejar sem dentes na boca. Foi nesse dia que me contou a história da bomba atômica com os japoneses pequeninos a morrer todos que era uma beleza e o Cão Tinhoso a fugir depois de ela rebentar e a correr uma distância monstra para não morrer.” Luís Bernardo Honwana. Nós matamos o Cão Tinhoso!.",
+      "enunciado": "A radiação ionizante, resultante da explosão da bomba atômica, é capaz de provocar feridas na pele iguais às do Cão Tinhoso, que são consequências de",
+      "alternativas": {
+        "a": "mutações no DNA das células epiteliais, o que pode alterar seu ciclo celular.",
+        "b": "alterações no DNA mitocondrial que levam à redução do metabolismo celular.",
+        "c": "ativação dos processos de reparo do DNA e bloqueio da diferenciação celular.",
+        "d": "aumento da divisão meiótica decorrente do processo de crossing-over.",
+        "e": "processos de evolução desencadeados por mutações aleatórias."
+      },
+      "resposta": "a",
+      "explicacao": "A radiação ionizante quebra a molécula de DNA e produz mutações nas células da pele. Quando essas mutações atingem genes que regulam a divisão celular, o ciclo deixa de ser controlado e aparecem lesões e tumores. O DNA mitocondrial existe, mas não é o alvo que explica ferida cutânea (B); a ativação do reparo é resposta, não causa da lesão, e nada bloqueia a diferenciação (C); a meiose ocorre nas células germinativas, e não no epitélio da pele (D); e mutações aleatórias interessam à evolução quando são herdáveis, o que não é o caso das células somáticas atingidas (E)."
+    },
+    {
+      "id": "fuvest-biologia-2",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "A tabela a seguir mostra a condição de duas variáveis sociais em quatro cidades urbanas genéricas.\n\nCidade — % de domicílios com coleta de esgoto e tratamento de água — % da população imunizada com cobertura vacinal completa\nCidade I — 89% — 19%\nCidade II — 12% — 13%\nCidade III — 98% — 15%\nCidade IV — 10% — 90%",
+      "enunciado": "Com base nesses dados, é correto afirmar que a população humana dessas cidades tem risco aumentado de ter as respectivas doenças: cidade I cidade II cidade III cidade IV",
+      "alternativas": {
+        "a": "leptospirose influenza amebíase cólera",
+        "b": "COVID teníase tétano tuberculose",
+        "c": "hepatite B amebíase cólera leptospirose",
+        "d": "influenza teníase pneumonia COVID",
+        "e": "tuberculose poliomielite hepatite B amebíase"
+      },
+      "resposta": "e",
+      "explicacao": "Duas variáveis, duas rotas de transmissão. Saneamento ruim expõe a doenças de veiculação hídrica e fecal-oral; vacinação baixa expõe a doenças imunopreveníveis. A cidade I tem esgoto tratado e pouca vacina, e a tuberculose se transmite pelo ar e tem vacina; a cidade II falha nas duas coisas, e a poliomielite é fecal-oral e vacinável; a cidade III repete o perfil da I, com hepatite B, que se transmite por sangue e fluidos e tem vacina; a cidade IV vacina quase todo mundo mas não trata água, e a amebíase é fecal-oral e não tem vacina. As demais combinações colocam doença de veiculação hídrica em cidade com saneamento bom, ou doença imunoprevenível em cidade com cobertura vacinal alta."
+    },
+    {
+      "id": "fuvest-biologia-3",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Os jardins de chuva, como o esquematizado na figura, vêm sendo implantados em áreas urbanas como uma alternativa de baixo custo para minimizar alagamentos. São canteiros de plantas que ocupam partes rebaixadas do terreno, com a função de reter parte das águas pluviais e diminuir sua velocidade de escoamento. Para isso, o solo do jardim deve ser preparado a fim de absorver a água e facilitar sua infiltração, direcionando-a ao lençol freático. Outra vantagem desses jardins é a retenção e decomposição de poluentes carreados pelas águas pluviais. Ainda, ao mesclar diversos tipos de plantas, os jardins de chuva atraem animais e aumentam a biodiversidade local.",
+      "enunciado": "Com base na descrição do jardim de chuva apresentada, é correto afirmar que",
+      "alternativas": {
+        "a": "esse jardim de chuva pode ser considerado um ecossistema, no qual componentes bióticos e abióticos interagem numa dinâmica de autorregulação e autossustentação.",
+        "b": "nesse jardim de chuva é possível identificar uma teia alimentar com dois níveis tróficos, no qual todos os animais ocupam o nível dos consumidores secundários.",
+        "c": "esse jardim contém plantas dicotiledôneas e monocotiledôneas, caracterizadas por possuírem raízes pivotantes, que aumentam a eficiência na absorção de água.",
+        "d": "o uso de plantas com grande superfície foliar pode prejudicar a eficiência de um jardim de chuva, diminuindo a evapotranspiração da água.",
+        "e": "a decomposição que ocorre no jardim de chuva é feita por organismos parasitas, que transformam os detritos em nutrientes, resultando, na etapa final, em moléculas orgânicas complexas."
+      },
+      "resposta": "a",
+      "explicacao": "O jardim de chuva reúne seres vivos (plantas, animais atraídos, decompositores) e fatores não vivos (água, solo, nutrientes) que interagem e se regulam: é a definição de ecossistema, ainda que criado pelo homem e de pequena escala. A alternativa B tranca todos os animais num mesmo nível trófico, o que nenhuma teia permite; C atribui raiz pivotante também às monocotiledôneas, que têm raiz fasciculada; D trata a evapotranspiração como prejuízo, quando ela ajuda a devolver água à atmosfera; e E chama os decompositores de parasitas e faz a decomposição terminar em moléculas orgânicas complexas, quando ela termina em compostos simples e minerais."
+    },
+    {
+      "id": "fuvest-biologia-4",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "“Pesquisadores realizaram em 2022 uma expedição que promete fazer história. Destino: Serra do Imeri, um conjunto de montanhas no norte do Amazonas. O objetivo da missão foi a realização de um inventário de biodiversidade para saber que tipos de animais e plantas ocorrem na região e de que forma eles se relacionam, ou não, com as espécies que habitam as partes mais baixas do bioma. O Pico da Neblina, o mais alto do Brasil, com 2.995 m, faz parte da Serra do Imeri, mas integra maciço rochoso diferente, fisicamente separado da área da expedição. Do ponto de vista ecológico, são como dois arquipélagos distintos, separados por um grande mar de floresta verde.” Localização da Serra do Imeri. Disponível em https://jornal.usp.br/ciencias/rumo-a-amazonia- desconhecida/21/10/2022. Adaptado.",
+      "enunciado": "Com base nas informações fornecidas e em seus conhecimentos, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "As barreiras naturais da Serra do Imeri tornam possível o desenvolvimento do endemismo, pois há potencialização da formação de novas espécies em função do grande isolamento geográfico.",
+        "b": "A área de estudo homogênea e contínua permitiu a comunicação e o desenvolvimento de riqueza ímpar quanto à biodiversidade, em especial por conter condições ambientais típicas do ecossistema amazônico.",
+        "c": "O isolamento da Serra do Imeri provoca a menor ocorrência de espécies endêmicas na região, cujos animais e plantas não possuem relação direta com o extenso bioma Amazônico.",
+        "d": "O conhecimento de espécies biológicas e seus ecossistemas, assim como a compreensão de seus habitats, acelera a extinção de plantas e outros seres vivos, diminuindo a biodiversidade.",
+        "e": "A Serra do Imeri representa comunidade ecológica ameaçada de extinção em razão dos problemas comuns ao bioma Amazônico, tais como expansão da agropecuária, instalação de garimpos e extração de madeira."
+      },
+      "resposta": "a",
+      "explicacao": "O texto compara a serra do Imeri e o pico da Neblina a dois arquipélagos separados por um mar de floresta: são topos de montanha isolados, com clima próprio, cercados por terras baixas que as espécies de altitude não atravessam. Isolamento geográfico impede o fluxo gênico, as populações divergem e surgem espécies que só existem ali — endemismo. A alternativa B chama a área de homogênea e contínua, o oposto do que o texto diz; C deduz do isolamento menos endemismo, invertendo a relação; D faz o conhecimento acelerar a extinção; e E fala em ameaça por garimpo e desmatamento, que são reais na Amazônia, mas não é o que os dados apresentados permitem concluir."
+    },
+    {
+      "id": "fuvest-biologia-5",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "[...] Um sino de vidro claro, uma ampola cristalina e contrátil, flutua calma no seu caminho. “Peixinho, peixinho, deixe-a ir! Peixinho, peixinho, se apresse em fugir!” Ali atrás, longos fios transparentes se arrastam e os olhos do peixinho a um banquete convidam. “Serão, por acaso, minhocas o que eu vejo de repente?” “Peixinho, peixinho, deixe-me alertar! Peixinho, peixinho, não se deixe enganar!” Próximo demais o peixinho chegou: “Ai, ai, ai, agora ela me pegou! Firme me amarrou e não consigo me soltar! Firme me envolve e arde de matar!” [...] Tradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.",
+      "enunciado": "O fragmento de poema apresentado foi escrito pelo naturalista Fritz Müller para suas filhas. O trecho do poema permite afirmar que a predação é realizada por um/uma",
+      "alternativas": {
+        "a": "camarão.",
+        "b": "água-viva.",
+        "c": "tubarão.",
+        "d": "lula.",
+        "e": "plâncton."
+      },
+      "resposta": "b",
+      "explicacao": "O poema descreve um sino de vidro claro, uma ampola cristalina e contrátil que flutua, com longos fios transparentes arrastados atrás — e o peixinho que se aproxima demais fica firmemente preso e queimado. Corpo gelatinoso em forma de sino, tentáculos com cnidócitos que injetam veneno urticante: é uma água-viva, cnidário. Camarão e lula são artrópode e molusco, com corpo articulado ou musculoso, não gelatinoso; o tubarão não tem tentáculos nem queima; e plâncton designa o modo de vida à deriva, não um grupo, e o que o poema descreve é um predador."
+    },
+    {
+      "id": "fuvest-biologia-6",
+      "banca": "fuvest",
+      "sessao": "fuvest-2024-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "enunciado": "Sobre as relações filogenéticas entre a lampreia, o tubarão, o lagarto e o ser humano, é correto afirmar que",
+      "alternativas": {
+        "a": "a lampreia é o ancestral comum de todos os vertebrados incluídos no cladograma.",
+        "b": "o tubarão surgiu da lampreia e deu origem aos vertebrados tetrápodes.",
+        "c": "os peixes (lampreia e tubarão) possuem um ancestral compartilhado com os tetrápodes.",
+        "d": "o lagarto é mais proximamente relacionado ao tubarão que ao ser humano.",
+        "e": "o ser humano é o mais evoluído dentre todos os vertebrados incluídos no cladograma."
+      },
+      "resposta": "c",
+      "explicacao": "Todo cladograma parte de um ancestral comum na raiz, e por isso lampreia, tubarão, lagarto e ser humano compartilham um ancestral — os peixes e os tetrápodes descendem dele. A alternativa A confunde um grupo atual com o ancestral: a lampreia é uma linhagem viva, não o antepassado das demais; B repete o erro dizendo que o tubarão surgiu da lampreia; D é falsa porque lagarto e ser humano são ambos tetrápodes e se separaram do tubarão muito antes de se separarem entre si; e E aplica à filogenia uma escala de perfeição que ela não tem, já que todos os ramos têm o mesmo tempo de evolução."
     }
   ]
 }

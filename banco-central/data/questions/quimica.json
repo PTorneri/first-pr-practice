@@ -8171,6 +8171,158 @@
    },
    "resposta": "e",
    "explicacao": "A definição vitalista, que ligava o orgânico à matéria viva, caiu com a síntese da ureia por Wöhler em 1828, a partir de material inorgânico. Desde então a química organiza esses compostos por critério estrutural: química orgânica é a química dos compostos de carbono. As alternativas (a), (b) e (d) confundem o termo técnico com o sentido comercial de “orgânico” aplicado a alimentos, e a (c) toma o CO2 como origem — e ele próprio, apesar de conter carbono, é classificado como inorgânico."
+  },
+  {
+   "id": "fuvest-quimica-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Quando uma solução de NaCl é colocada em contato com uma chama, observa-se uma luz amarela. Quando esse mesmo experimento é realizado na presença de uma lâmpada de Na, a chama aparenta estar preta.",
+   "enunciado": "Considerando que um material emite e absorve radiação em um mesmo comprimento de onda, assinale a afirmação correta sobre o experimento.",
+   "alternativas": {
+    "a": "Na figura (I), a chama é amarela devido à absorção de luz pelos átomos de Na; enquanto, em (II), a chama está preta porque o Na deixa de absorver quando a chama é irradiada pela lâmpada de sódio.",
+    "b": "Na figura (I), a chama é amarela porque esta é a cor de qualquer chama; enquanto, em (II), a chama está preta porque o Na absorve a energia da chama.",
+    "c": "Na figura (I), a chama é amarela porque esta é a cor de qualquer chama; enquanto, em (II), a chama está preta devido à combustão incompleta.",
+    "d": "Na figura (I), a chama é amarela devido à emissão de luz pelos átomos de Na; enquanto, em (II), a chama está preta devido à combustão incompleta.",
+    "e": "Na figura (I), a chama é amarela devido à emissão de luz pelos átomos de Na; enquanto, em (II), a chama está preta porque os átomos de Na da chama absorvem a luz proveniente da lâmpada de Na."
+   },
+   "resposta": "e",
+   "explicacao": "Na chama, o elétron do sódio é promovido a um nível mais alto e devolve a energia como luz ao voltar: é emissão, e o amarelo do teste de chama é a assinatura do sódio. Como o mesmo átomo absorve no mesmo comprimento de onda em que emite, iluminar a chama com uma lâmpada de sódio faz os átomos de Na absorverem justamente aquela luz — a chama deixa de deixar passar o amarelo e se recorta escura contra a lâmpada. As alternativas B e C afirmam que amarelo é a cor de qualquer chama, o que negaria o próprio teste; A troca emissão por absorção na primeira figura; e a combustão incompleta (C e D) produziria fuligem luminosa, não uma silhueta preta."
+  },
+  {
+   "id": "fuvest-quimica-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A temperatura ideal para uso de um forno a lenha para preparo de pizzas pode ser inferida pela observação da coloração das paredes internas do forno. Abaixo da temperatura ideal, um material particulado preto proveniente da queima da lenha pode ser visto recobrindo as paredes internas. Quando a temperatura ideal é atingida, esse material particulado não é mais observado e a superfície mais clara do interior do forno pode ser vista.",
+   "enunciado": "A coloração da superfície interior do forno permite inferir a temperatura ideal, pois",
+   "alternativas": {
+    "a": "a fuligem advinda do processo de combustão incompleta da lenha deposita-se nas paredes e, com o aumento da temperatura, reage com o oxigênio do ar e produz gás carbônico, permitindo ver a cor mais clara da parede interna do forno.",
+    "b": "a coloração preta é originada pela fuligem da combustão completa da lenha, o que causa o aumento da temperatura até que a parede do forno se torne incandescente, revelando sua cor mais clara.",
+    "c": "a coloração preta é observada por conta da baixa quantidade de luz gerada pelas chamas da lenha em combustão a baixas temperaturas e essa quantidade de luz aumenta à medida que a temperatura se torna elevada.",
+    "d": "o material particulado se funde, escorrendo pelas paredes do forno quando a temperatura ideal é atingida, revelando a coloração mais clara do interior do forno.",
+    "e": "a alta quantidade de gás carbônico produzida em baixas temperaturas forma uma névoa que não permite a passagem de luz, o que torna o interior escuro."
+   },
+   "resposta": "a",
+   "explicacao": "Com pouco oxigênio disponível e temperatura baixa, a lenha queima de forma incompleta e deposita fuligem — carbono — nas paredes. Aquecido o forno, essa fuligem passa a reagir com o oxigênio do ar e se converte em gás carbônico, deixando a parede à mostra. A alternativa B atribui a fuligem à combustão completa, que produziria só CO2 e água; C explica a cor pela pouca luz das chamas, quando o preto está depositado na parede; D faz o carbono se fundir e escorrer, e ele sublima a temperaturas altíssimas, não funde a algumas centenas de graus; e E inventa uma névoa opaca de CO2, gás incolor."
+  },
+  {
+   "id": "fuvest-quimica-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Fogareiros abastecidos com pequenos botijões de gás são equipamentos corriqueiros em trilhas e escaladas de duração prolongada, para possibilitar o cozimento de alimentos. Em geral, esses botijões são abastecidos com propano, isobutano ou n-butano. A tabela mostra a temperatura de ebulição e o calor liberado na combustão desses três gases, à pressão atmosférica.\n\nGás — temperatura de ebulição (°C) — calor liberado na combustão (kcal/m³ de substância na fase gasosa)\nPropano — −42 — 5065\nIsobutano — −12 — 8211\nn-Butano — −1 — 8411",
+   "enunciado": "Com base nessas informações, qual seria o gás mais indicado para a utilização em um ambiente com temperatura típica de −6 °C, considerando a viabilidade e o consumo de gás necessário para o preparo de alimentos?",
+   "alternativas": {
+    "a": "Propano, por estar líquido em −6 °C e, dentre as substâncias líquidas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+    "b": "Isobutano, por estar gasoso em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+    "c": "n-Butano, por estar gasoso em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+    "d": "n-Butano, por estar líquido em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer menos calor por volume de gás.",
+    "e": "Isobutano, por estar gasoso em −6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer menos calor por volume de gás."
+   },
+   "resposta": "b",
+   "explicacao": "A −6 °C, só o propano (ebulição a −42 °C) e o isobutano (−12 °C) já passaram do ponto de ebulição e estão gasosos; o n-butano ferve a −1 °C e ainda estaria líquido, sem alimentar o fogareiro. Entre os dois que servem, o isobutano libera 8211 kcal por metro cúbico contra 5065 do propano — mais calor por volume de gás, portanto menos gás gasto para cozinhar. As alternativas A e D trocam as fases, pondo como líquido o que está gasoso e vice-versa; C escolhe o n-butano, que a essa temperatura não vaporiza; e E acerta o gás mas erra a justificativa, dizendo que ele fornece menos calor."
+  },
+  {
+   "id": "fuvest-quimica-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura. Durante o processo de geração de H2 Após o processo de geração de H2 Ao frasco à esquerda adicionou-se uma quantidade pré- determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn0(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\n\nNote e adote: Volume molar do gás ideal nas condições do experimento = 24,9 L. Massa molar do Zn = 65,4 g/mol.",
+   "enunciado": "Considerando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?",
+   "alternativas": {
+    "a": "0,07",
+    "b": "0,13",
+    "c": "0,26",
+    "d": "0,29",
+    "e": "0,48"
+   },
+   "resposta": "b",
+   "explicacao": "Os 49,8 mL de hidrogênio correspondem a 0,0498 L ÷ 24,9 L/mol = 2,0 × 10⁻³ mol de H2. A equação Zn + 2H⁺ → Zn²⁺ + H2 é 1 para 1, então reagiram 2,0 × 10⁻³ mol de zinco. Multiplicando pela massa molar, 2,0 × 10⁻³ × 65,4 = 0,13 g. O valor 0,26 (C) sairia de dobrar a proporção, como se cada mol de zinco desse dois de gás; 0,07 (A) sai de dividi-la pela metade; e 0,29 e 0,48 não correspondem a nenhuma leitura da estequiometria."
+  },
+  {
+   "id": "fuvest-quimica-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "As moléculas de água podem conter o isótopo estável mais abundante de oxigênio, 16O, ou o isótopo estável menos abundante, 18O. Essa pequena diferença de massa entre as moléculas de água é suficiente para alterar a sua pressão de vapor. Por esse motivo, a análise de isótopos de oxigênio na água da chuva possibilita a identificação de períodos secos e de períodos chuvosos.",
+   "enunciado": "Com base nessas informações, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "Em períodos de alta pluviosidade, as primeiras precipitações da nuvem são isotopicamente mais leves e a nuvem de chuva se enriquece, relativamente, em 18O.",
+    "b": "Em períodos de baixa pluviosidade, a constituição isotópica das nuvens pouco se altera ao longo do tempo, e a pouca chuva dessas nuvens é relativamente enriquecida em 18O.",
+    "c": "No período atual, em função do aquecimento global, as temperaturas elevadas fazem com que o fracionamento isotópico de 16O e 18O resultante da evaporação e da precipitação da água não ocorra.",
+    "d": "Em períodos glaciais, em função da maior temperatura do planeta, as chuvas são enriquecidas em 18O, enquanto, nos oceanos, a água é enriquecida em 16O.",
+    "e": "Em períodos interglaciais, em função da menor temperatura do planeta, as chuvas são enriquecidas em 16O, enquanto, nos oceanos, a água é enriquecida em 18O."
+   },
+   "resposta": "b",
+   "explicacao": "A água com 18O é mais pesada e tem pressão de vapor menor: evapora menos e condensa primeiro. As primeiras chuvas de uma nuvem saem, por isso, enriquecidas em 18O, e a nuvem vai ficando isotopicamente mais leve à medida que chove. Se chove pouco, a nuvem quase não perde 18O e sua composição pouco muda — e a pouca chuva que cai é a fração enriquecida no isótopo pesado. A alternativa A diz que as primeiras precipitações são mais leves, invertendo o fracionamento; C afirma que o fracionamento deixou de ocorrer, o que anularia o próprio método; e D e E trocam entre si os períodos glaciais e interglaciais e atribuem a cada um a temperatura do outro."
+  },
+  {
+   "id": "fuvest-quimica-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um tema de grande interesse na química é a ativação seletiva de ligações C-H. Essa ativação permite a substituição de H nessas ligações por outros átomos, como O ou N. A relevância desse tema pode ser verificada em um estudo recentemente publicado no prestigioso periódico Science, que conta com uma egressa da USP dentre seus autores. A baixa diferença de eletronegatividade entre C e H é um dos motivos que dificulta a ativação da ligação C-H, pois torna a ligação pouco polar e diminui sua reatividade.\n\nNote e adote: Número atômico (Z) dos elementos: H = 1, C = 6, N = 7, O = 8, F = 9, P = 15, S = 16, Cl = 17.",
+   "enunciado": "Considerando apenas a eletronegatividade dos elementos, qual das alternativas apresenta uma ligação ainda menos reativa do que a ligação C-H?",
+   "alternativas": {
+    "a": "C-N",
+    "b": "C-F",
+    "c": "S-O",
+    "d": "P-H",
+    "e": "P-Cl"
+   },
+   "resposta": "d",
+   "explicacao": "O enunciado dá a regra: quanto menor a diferença de eletronegatividade, menos polar a ligação e menos reativa ela é. Carbono e hidrogênio já são próximos, e fósforo e hidrogênio são ainda mais — o fósforo está um período abaixo do nitrogênio e a eletronegatividade cai ao descer o grupo, de modo que P e H praticamente empatam e a ligação P-H é quase apolar. Nas outras quatro há sempre um elemento fortemente eletronegativo do lado direito da tabela (N, F, O, Cl) puxando o par de elétrons, o que aumenta a polaridade e, com ela, a reatividade."
+  },
+  {
+   "id": "fuvest-quimica-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "No processo de compra e venda de artigos de ouro, é comum testar os objetos para verificar se eles realmente são feitos de ouro ou se são alguma falsificação feita com metais menos nobres. Esse teste é feito adicionando um pequeno volume de ácido forte concentrado às raspas do objeto a ser testado. Caso o objeto seja feito com ouro, as raspas permanecem visíveis, enquanto as raspas de falsificações são dissolvidas.",
+   "enunciado": "Considerando apenas o potencial de redução padrão, qual das alternativas apresenta um material que poderia gerar um falso positivo para o objeto de ouro no teste descrito?",
+   "alternativas": {
+    "a": "Mg",
+    "b": "Al",
+    "c": "Fe",
+    "d": "Pt",
+    "e": "F2"
+   },
+   "resposta": "d",
+   "explicacao": "O teste funciona porque o ácido oferece H⁺, de potencial de redução zero: metal com potencial negativo se oxida e se dissolve, metal com potencial acima de zero resiste. Magnésio (−2,37), alumínio (−1,66) e ferro (−0,44) ficam todos abaixo do hidrogênio e seriam dissolvidos, denunciando a falsificação. A platina, com +1,20 V, é mais nobre que o hidrogênio e não é atacada — as raspas permanecem visíveis e o objeto passa por ouro. O F2 não é material de que se faça um objeto: é gás, e aparece na tabela como agente oxidante, não como metal a testar."
+  },
+  {
+   "id": "fuvest-quimica-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2024-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Apesar de a África ser considerada o berço das civilizações e existirem indícios de conhecimentos elementares de Química no sul do continente cerca de 100.000 anos atrás, os conhecimentos químicos ensinados são eurocentristas. Entretanto, uma das grandes contribuições para o estudo de reatividade química é atribuída ao químico egípcio Ahmed Hassan Zewail, agraciado com o prêmio Nobel em 1999 por seus estudos de reações químicas usando uma técnica conhecida como espectroscopia de femtossegundos. Essa técnica possibilita identificar espécies com tempo de vida curto utilizando pulsos de laser com duração de 10−15 s.",
+   "enunciado": "Essa contribuição é relevante para o estudo de reações químicas, pois",
+   "alternativas": {
+    "a": "todos os processos químicos são extremamente rápidos e não podem ser estudados por técnicas que não sejam em femtossegundos.",
+    "b": "as reações químicas podem passar por espécies instáveis e com pouco tempo de vida.",
+    "c": "o tempo existente para analisar os produtos de uma reação depende apenas da quantidade de produtos formada.",
+    "d": "permite entender como reagentes específicos se comportam frente a processos reacionais que são extremamente lentos.",
+    "e": "apenas com uma técnica tão rápida é possível analisar o grau de pureza dos reagentes isolados."
+   },
+   "resposta": "b",
+   "explicacao": "Entre reagentes e produtos, muitas reações passam por estados de transição e intermediários que existem por femtossegundos e desaparecem antes que qualquer técnica lenta os registre. Pulsos de laser de 10⁻¹⁵ s conseguem fotografá-los, e é isso que permite descrever o caminho real da reação, não só as pontas. A alternativa A generaliza dizendo que todos os processos são rapidíssimos, quando muitos são lentos; C faz o tempo de análise depender só da quantidade de produto; D usa a técnica ultrarrápida para estudar processos lentos, que dispensariam essa resolução; e E a emprega para medir pureza de reagentes isolados, que é análise de rotina."
   }
  ],
  "textos": [

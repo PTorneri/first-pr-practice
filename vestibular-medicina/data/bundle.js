@@ -1677,6 +1677,68 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-citologia",
+   "id": "enem-biologia-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade ímpar: guardar parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.",
+   "fonte_texto": "Disponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).",
+   "enunciado": "Essa adaptação confere a esse organismo a capacidade de obter primariamente",
+   "alternativas": {
+    "a": "ácidos nucleicos.",
+    "b": "carboidratos.",
+    "c": "proteínas.",
+    "d": "vitaminas.",
+    "e": "lipídios."
+   },
+   "resposta": "b",
+   "explicacao": "A pergunta se resolve sabendo o que o cloroplasto produz. Na fotossíntese, gás carbônico e água, com energia luminosa, geram glicose e oxigênio — e glicose é carboidrato. Ao manter cloroplastos funcionais nas próprias células, a lesma passa a fabricar açúcar como uma planta. A palavra \"primariamente\" no enunciado marca justamente isso: é o produto direto do processo. As demais moléculas até podem ser sintetizadas pelo animal DEPOIS, usando o esqueleto de carbono do açúcar e outros nutrientes, mas nenhuma delas sai do cloroplasto. Proteínas e ácidos nucleicos exigem nitrogênio, que a fotossíntese não fixa, e vitaminas não são produto fotossintético."
+  },
+  {
+   "subtema": "biologia-citologia",
+   "id": "enem-biologia-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus de RNA SARS-CoV-2. A vacina de RNAm tem sequências de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função específica atuando no mesmo compartimento celular de sempre.",
+   "fonte_texto": "Disponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).",
+   "enunciado": "A imunização produzida por esse tipo de vacina é alcançada por meio da",
+   "alternativas": {
+    "a": "estimulação de leucócitos induzida pela capa lipídica contendo RNAm.",
+    "b": "atuação do RNAm como sequestrador do vírus para o meio extracelular.",
+    "c": "tradução do RNAm em proteína viral, desencadeando a resposta antigênica.",
+    "d": "competição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos.",
+    "e": "incorporação do RNAm viral ao genoma do hospedeiro, gerando novo fenótipo."
+   },
+   "resposta": "c",
+   "explicacao": "A pista está na frase final: o RNAm atua \"no mesmo compartimento celular de sempre\", isto é, no citoplasma, onde ficam os ribossomos. Ali ele é traduzido em proteína — no caso, a proteína da espícula do SARS-CoV-2. Essa proteína é o antígeno: o sistema imune a reconhece como estranha e produz anticorpos e células de memória, sem que jamais tenha havido vírus. A última alternativa descreve o que a vacina NÃO faz, e é o receio comum: para se integrar ao genoma seria preciso transcrição reversa e entrada no núcleo, que não ocorrem. A capa lipídica só protege e entrega o RNAm, não estimula leucócito; e não há sequestro de vírus nem disputa por ribossomo, já que o vírus pode nem estar presente."
+  },
+  {
+   "subtema": "biologia-citologia",
+   "id": "enem-biologia-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.",
+   "enunciado": "O coquetel de inibidores impediu o(a)",
+   "alternativas": {
+    "a": "formação do pronúcleo masculino.",
+    "b": "início da divisão mitótica do zigoto.",
+    "c": "término da segunda divisão meiótica do ovócito.",
+    "d": "passagem do espermatozoide pela corona radiata e zona pelúcida.",
+    "e": "fusão das membranas plasmáticas do ovócito e do espermatozoide."
+   },
+   "resposta": "d",
+   "explicacao": "O acrossomo é a vesícula na cabeça do espermatozoide, cheia de enzimas hidrolíticas — hialuronidase e acrosina, entre outras. A função delas é digerir as barreiras que cercam o ovócito: primeiro a corona radiata, depois a zona pelúcida. Inibidas as enzimas, o espermatozoide não abre caminho e sequer chega à membrana do gameta feminino. Como a barreira é a PRIMEIRA etapa, tudo o que vem depois também não acontece — fusão de membranas, término da meiose II, formação do pronúcleo e clivagem do zigoto —, e é por isso que os outros quatro eventos aparecem como distratores plausíveis. A questão pede o que foi impedido diretamente pelo inibidor, e isso é a travessia."
+  },
+  {
+   "subtema": "biologia-citologia",
    "id": "dir-ciencias-natureza-04",
    "texto_apoio": "As chuvas ácidas resultam da emissão de determinados poluentes atmosféricos provenientes de processos industriais e da queima de combustíveis.",
    "enunciado": "As chuvas ácidas são causadas, principalmente, pela reação da água presente na atmosfera com",
@@ -5014,6 +5076,26 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-diversidade",
+   "id": "enem-biologia-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença.",
+   "enunciado": "Em qual material biológico dos cães a presença desse protozoário representa risco de transmissão dessa zoonose?",
+   "alternativas": {
+    "a": "Urina.",
+    "b": "Saliva.",
+    "c": "Fezes.",
+    "d": "Sangue.",
+    "e": "Secreção ocular."
+   },
+   "resposta": "d",
+   "explicacao": "A palavra decisiva do enunciado é \"indireta\": a leishmaniose não passa de cão para pessoa por contato, e sim pela picada do flebotomíneo, o mosquito-palha. O inseto se contamina ao sugar SANGUE do cão infectado e depois inocula o parasita em outro hospedeiro. Logo, o material biológico que representa risco é aquele de que o vetor se alimenta. Urina, saliva, fezes e secreção ocular só transmitiriam doença por via direta — contato, ingestão ou gotícula —, que é justamente o modo que o texto exclui. É por isso que o inquérito canino se faz por exame de sangue."
+  },
+  {
+   "subtema": "biologia-diversidade",
    "id": "dir-ciencias-natureza-139",
    "banca": "fgv",
    "sessao": "fgv-unificado-2023.1",
@@ -6689,6 +6771,107 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-fisiologia",
+   "id": "enem-biologia-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os mais antigos cozinhavam o feijão na panela de ferro a fim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana.",
+   "enunciado": "As estratégias citadas eram utilizadas com o objetivo de",
+   "alternativas": {
+    "a": "tratar a diarreia.",
+    "b": "prevenir a anemia.",
+    "c": "evitar as verminoses.",
+    "d": "remediar o raquitismo.",
+    "e": "combater a febre amarela."
+   },
+   "resposta": "b",
+   "explicacao": "O sinal que motiva a prática está no texto: \"acabar com a palidez\". Palidez é o sintoma visível da anemia ferropriva, e o ferro é justamente o átomo central do grupo heme da hemoglobina — sem ele o sangue não transporta oxigênio e a pele perde a cor. Cozinhar em panela de ferro transfere parte do metal para o alimento. Cada distrator tem outra causa: diarreia e verminose vêm de infecção por micro-organismo ou parasita, e nenhum ferro as previne; o raquitismo é deficiência de vitamina D e de cálcio, que afeta o osso e não o sangue; e a febre amarela é virose transmitida por mosquito, sem qualquer relação com a dieta."
+  },
+  {
+   "subtema": "biologia-fisiologia",
+   "id": "enem-biologia-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos.",
+   "enunciado": "Nas viagens por grandes distâncias, tais músculos são fundamentais, pois favorecem o(a)",
+   "alternativas": {
+    "a": "execução de manobras.",
+    "b": "metabolismo corpóreo elevado.",
+    "c": "manutenção da aerodinâmica.",
+    "d": "deslocamento a grandes velocidades.",
+    "e": "capacidade de voo em grandes altitudes."
+   },
+   "resposta": "b",
+   "explicacao": "A cor vermelha vem da mioglobina e da densidade de mitocôndrias, e a \"ampla rede de vasos sanguíneos\" citada no texto é o que garante oxigênio contínuo a essas fibras. Fibra vermelha é fibra oxidativa: produz ATP pela respiração aeróbia, de forma sustentada, e é isso que permite bater asa por horas sem fadigar. O traço que o texto destaca, portanto, é a capacidade de manter metabolismo alto por muito tempo. As outras opções descrevem o que a fibra BRANCA faz melhor ou o que não depende de músculo: velocidade e manobra bruscas exigem contração rápida e anaeróbia, aerodinâmica é forma do corpo e da asa, e voar alto depende sobretudo da eficiência respiratória, com os sacos aéreos das aves."
+  },
+  {
+   "subtema": "biologia-fisiologia",
+   "id": "enem-biologia-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado, pois isso aceleraria seu amadurecimento. Com certa dúvida, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta. Surpreendendo-se, ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente.",
+   "enunciado": "A aceleração desse processo é causada por",
+   "alternativas": {
+    "a": "acúmulo de gás etileno.",
+    "b": "redução da umidade do ar.",
+    "c": "aumento da concentração de CO2.",
+    "d": "diminuição da intensidade luminosa.",
+    "e": "isolamento do contato com O2 atmosférico."
+   },
+   "resposta": "a",
+   "explicacao": "O etileno é o hormônio vegetal do amadurecimento, e é um gás: o próprio fruto o libera, e ele atua sobre os frutos vizinhos. Num recipiente fechado o gás não se dispersa, a concentração sobe e o processo se acelera — na fruteira aberta ele se perde no ar. É por isso que a receita caseira funciona. O CO2 tem efeito oposto ao pedido, sendo usado justamente para RETARDAR o amadurecimento em atmosfera controlada. E as outras três não explicam a diferença observada: a umidade dentro do recipiente aumenta em vez de diminuir, a escuridão não dispara o amadurecimento, e restringir oxigênio freia a respiração celular, atrasando o processo em vez de apressá-lo."
+  },
+  {
+   "subtema": "biologia-fisiologia",
+   "id": "enem-biologia-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrógeno e progesterona, observada nessa fase do ciclo feminino.",
+   "fonte_texto": "DIMMOCK, P. W. et al. Efficacy of Selective Serotonin-Reuptake Inhibitors in Premenstrual Syndrome: a Systematic Review. The Lancet, n. 9 236, 2000 (adaptado).",
+   "enunciado": "A redução da produção desses hormônios nessa fase está relacionada com o(a)",
+   "alternativas": {
+    "a": "regressão do corpo lúteo ovariano.",
+    "b": "diminuição na produção de ocitocina.",
+    "c": "liberação do gameta feminino na ovulação.",
+    "d": "aumento nos níveis dos hormônios LH e FSH.",
+    "e": "elevação nos níveis sorológicos de adrenalina."
+   },
+   "resposta": "a",
+   "explicacao": "Depois da ovulação, o folículo rompido se transforma em corpo lúteo, que é a glândula temporária responsável por secretar progesterona e estrógeno na fase lútea. Não havendo fecundação, o corpo lúteo degenera por volta do 26º dia e vira corpo albicans — e, sem a glândula, os dois hormônios despencam. É essa queda que antecede a menstruação e que o texto associa aos sintomas. A ovulação é o evento que CRIA o corpo lúteo, portanto antecede o aumento hormonal, não a queda. LH e FSH caem nessa fase, e não sobem, inibidos pela própria progesterona. E nem ocitocina nem adrenalina participam da produção de hormônios ovarianos."
+  },
+  {
+   "subtema": "biologia-fisiologia",
+   "id": "enem-biologia-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Barbatimão é o nome popular de uma árvore cuja casca é utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver.",
+   "enunciado": "A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da",
+   "alternativas": {
+    "a": "fotossíntese.",
+    "b": "transpiração.",
+    "c": "troca de gases.",
+    "d": "formação de brotos.",
+    "e": "nutrição das raízes."
+   },
+   "resposta": "e",
+   "explicacao": "A casca leva o floema, que conduz a seiva elaborada — o açúcar produzido nas folhas — de cima para baixo, até a raiz. Retirar um anel COMPLETO corta esse caminho em toda a volta do tronco, e a raiz, que não fotossintetiza, morre de fome; com ela morre a árvore. Se o anel é incompleto, sobra uma faixa de floema por onde a seiva desce, e a planta sobrevive: é exatamente esse contraste que o texto apresenta. Note que o xilema não é atingido, pois fica no lenho, abaixo da casca — logo a água continua subindo, e transpiração e fotossíntese seguem funcionando por algum tempo. A troca de gases se dá pelos estômatos das folhas."
+  },
+  {
+   "subtema": "biologia-fisiologia",
    "id": "dir-ciencias-natureza-02",
    "texto_apoio": "A eutrofização é um processo ecológico frequentemente associado à poluição de rios e lagos por esgoto doméstico e fertilizantes agrícolas.",
    "enunciado": "A eutrofização de um corpo d'água ocorre quando",
@@ -8330,6 +8513,27 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-ecologia",
+   "id": "enem-biologia-01",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de sementes de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.",
+   "fonte_texto": "DARAYA, V. Disponível em: http://planetasustentavel.abril.com.br. Acesso em: 2 fev. 2015 (adaptado).",
+   "enunciado": "Esse método contribui para a preservação das abelhas porque",
+   "alternativas": {
+    "a": "reduz sua predação.",
+    "b": "reduz o uso de pesticidas.",
+    "c": "reduz a competição por abrigo.",
+    "d": "aumenta a oferta de alimento.",
+    "e": "aumenta os locais de reprodução."
+   },
+   "resposta": "d",
+   "explicacao": "As bombas contêm sementes de espécies vegetais nativas, e o que nasce delas são plantas com flores. Flor é a fonte de néctar e pólen, isto é, o alimento da abelha — aumentar a cobertura vegetal aumenta a oferta de forrageio. As demais atribuem à semente efeitos que ela não produz. Planta germinando não afasta predador nem substitui a colmeia, que a abelha constrói em oco de árvore ou em caixa, e não no chão onde a bomba caiu. E a redução do uso de pesticidas é, de fato, uma das medidas de proteção às abelhas, mas depende de decisão sobre a lavoura: espalhar sementes em solo pouco fértil não muda o que se pulveriza na plantação vizinha."
+  },
+  {
+   "subtema": "biologia-ecologia",
    "id": "dir-ciencias-natureza-01",
    "texto_apoio": "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
    "enunciado": "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
@@ -9851,6 +10055,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O que está descrito é uma sequência de ANCESTRALIDADE: espécies fósseis ordenadas pelo aparecimento sucessivo de características que culminam na carapaça completa. Relação de parentesco evolutivo entre grupos é, por definição, relação filogenética. Todas as outras opções pertencem a um campo diferente — o da ecologia —, e descrevem interações entre organismos que convivem no mesmo tempo e lugar: harmônicas e desarmônicas classificam o saldo da convivência, interespecíficas dizem que ocorrem entre espécies distintas, e predação é um caso particular. Nenhuma se aplica a espécies separadas por milhões de anos, que nunca se encontraram."
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "enem-biologia-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-los em diferentes ambientes na atualidade.",
+   "enunciado": "Qual estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima?",
+   "alternativas": {
+    "a": "Fruto.",
+    "b": "Esporo.",
+    "c": "Semente.",
+    "d": "Tubo polínico.",
+    "e": "Vaso condutor."
+   },
+   "resposta": "d",
+   "explicacao": "O enunciado restringe: independência da água PARA A FECUNDAÇÃO. Em briófitas e pteridófitas o anterozoide nada até a oosfera, e por isso essas plantas dependem de um filme de água para se reproduzir. Nas gimnospermas e angiospermas o grão de pólen germina e emite o tubo polínico, um canal que leva o gameta masculino até o óvulo por dentro do tecido da flor — a água deixa de ser necessária. Cada distrator resolve outro problema: o vaso condutor transporta seiva e permitiu ganhar altura; a semente protege e nutre o embrião DEPOIS da fecundação; o fruto protege a semente e ajuda na dispersão; e o esporo é justamente a estrutura dos grupos que ainda dependem da água."
   },
   {
    "subtema": "biologia-evolucao",
@@ -12624,6 +12848,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O NaOH é composto iônico e, ao se dissolver, libera Na⁺ e OH⁻; a água é molécula polar. A interação entre um ÍON e uma molécula com dipolo é, por definição, íon-dipolo — é ela que solvata cada íon e mantém o sal dissolvido. Ligação de hidrogênio e dipolo permanente descrevem interações entre MOLÉCULAS, e as moléculas de água de fato as fazem entre si, mas a pergunta é sobre soluto e solvente. Dipolo induzido apareceria com soluto apolar. E ligação iônica é o que segura o sólido antes da dissolução, justamente o que a água desfaz."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "enem-quimica-01",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A utilização de tecnologia nuclear é um tema bastante controverso, por causa do risco de acidentes graves, como aqueles ocorridos em Chernobyl (1986), em Goiânia (1987) e em Fukushima (2011). Apesar de muitas desvantagens, como a geração de resíduos tóxicos, a descontaminação ambiental dispendiosa em caso de acidentes e a utilização em armas nucleares, a geração de energia nuclear apresenta vantagens em comparação a outras fontes de energia.",
+   "enunciado": "A geração dessa energia tem como característica:",
+   "alternativas": {
+    "a": "Formar resíduos facilmente recicláveis.",
+    "b": "Promover o aumento do desmatamento.",
+    "c": "Contribuir para a produção de chuva ácida.",
+    "d": "Emitir gases tóxicos que são lançados no ambiente.",
+    "e": "Produzir calor sem o consumo de combustíveis fósseis."
+   },
+   "resposta": "e",
+   "explicacao": "Numa usina nuclear o calor vem da fissão de núcleos de urânio, não de combustão. Como não há queima, não há emissão de CO2, de óxidos de enxofre ou de nitrogênio — e é justamente essa a vantagem que o enunciado pede, em contraste com as termelétricas a carvão ou a óleo. Os distratores atribuem à energia nuclear os problemas das fontes fósseis: gases tóxicos e chuva ácida vêm da queima, e desmatamento não é efeito de uma usina que ocupa área pequena. A primeira opção contradiz o próprio texto, que cita a geração de resíduos tóxicos entre as desvantagens: rejeito radioativo não é facilmente reciclável, e sim armazenado por décadas ou séculos."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -13928,6 +14172,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A palavra PARCIAL é a chave, e ela aparece na terceira posição. Na equação 2, o Zn(OH)₂ tem duas hidroxilas e só uma delas reage, sobrando o ZnOHCN — neutralização parcial. Na 3, todas as hidroxilas e todos os hidrogênios ionizáveis são consumidos: é neutralização total. Isso já elimina as opções que terminam em 3. Entre as que sobram, tanto a 1 quanto a 4 são combustões (a 4 incompleta, gerando CO), e tanto a 1 quanto a 4 e a 5 são oxirreduções — então a sequência que fecha as três posições ao mesmo tempo é 4, 1 e 2."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "enem-quimica-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O vidro contendo alumínio em sua composição é um excelente material para acondicionar medicamentos e suplementos, porque pode ser esterilizado por aquecimento. No entanto, quando o medicamento ou suplemento contém substâncias que se ligam fortemente ao íon desse metal, a dissolução do alumínio é promovida em função do deslocamento do equilíbrio químico estabelecido entre a espécie imobilizada no vidro e a espécie em solução. Por essa razão, recomenda-se que suplementos de nutrição de recém-nascidos contendo gluconato de cálcio sejam acondicionados em embalagens plásticas, e não nesse tipo de vidro.",
+   "fonte_texto": "Atualização da recomendação da Sociedade Portuguesa de Neonatologia. Disponível em: www.spneonatologia.pt. Acesso em: 22 out. 2021 (adaptado).",
+   "enunciado": "Caso esse suplemento seja acondicionado em embalagem desse tipo de vidro, o risco de contaminação por alumínio será maior se o(a)",
+   "alternativas": {
+    "a": "vidro do frasco for translúcido.",
+    "b": "concentração de gluconato de cálcio for alta.",
+    "c": "frasco de vidro apresentar uma maior espessura.",
+    "d": "vidro for previamente esterilizado em altas temperaturas.",
+    "e": "reação do alumínio com gluconato de cálcio for endotérmica."
+   },
+   "resposta": "b",
+   "explicacao": "O texto descreve um equilíbrio entre o alumínio preso no vidro e o alumínio em solução. O gluconato é o agente que se liga fortemente ao íon Al³⁺ e o retira da solução; pelo princípio de Le Chatelier, remover produto desloca o equilíbrio no sentido de repô-lo, ou seja, no sentido de dissolver mais alumínio do vidro. Quanto MAIOR a concentração de gluconato, mais intenso o deslocamento e maior a contaminação. Espessura e transparência do frasco não entram no equilíbrio, que depende da área de contato e da composição, não do volume de vidro nem da passagem de luz. A esterilização é anterior ao envase. E a alternativa sobre entalpia não indica sentido algum sem dizer a que temperatura o produto será guardado."
   }
  ],
  "quimica-organica": [
@@ -15287,6 +15552,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "I é correta: as duas metilas podem ficar em posição orto, meta ou para, o que dá três compostos distintos, isômeros de posição — que são um tipo de isomeria constitucional. III também: por terem geometrias e polaridades diferentes, os três xilenos têm pontos de fusão e ebulição diferentes, e é isso que permite separá-los industrialmente. II é a única falsa, e o erro está na contagem de hidrogênios: o benzeno é C₆H₆, e trocar dois hidrogênios por dois grupos CH₃ dá C₆H₄(CH₃)₂, ou seja, C₈H₁₀ — e não C₈H₁₂, que corresponderia a um grau de insaturação a menos do que o anel aromático exige."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "enem-quimica-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As cetonas fazem parte de famílias olfativas encontradas em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realizados em meio ácido, na presença de oxidantes como o permanganato de potássio.",
+   "enunciado": "Para se produzir esse composto volátil em laboratório, deve-se oxidar a molécula de",
+   "alternativas": {
+    "a": "hexanal.",
+    "b": "hexan-1-ol.",
+    "c": "hexan-3-ol.",
+    "d": "hex-1-en-1-ol.",
+    "e": "ácido hexanoico."
+   },
+   "resposta": "c",
+   "explicacao": "A regra da oxidação de álcoois separa três casos: primário oxida a aldeído e depois a ácido carboxílico; secundário oxida a cetona; terciário não oxida nessas condições. Cetona, portanto, só vem de álcool secundário — e o carbono da carbonila tem de ser o mesmo do produto. Como o alvo é a hexan-3-ona, o material de partida precisa ter a hidroxila no carbono 3 de uma cadeia de seis carbonos: o hexan-3-ol. O hexan-1-ol tem a hidroxila na ponta, é primário, e daria hexanal e depois ácido hexanoico. Hexanal e ácido hexanoico já são produtos dessa outra via, e oxidar mais não os converte em cetona. E o hex-1-en-1-ol é um enol, forma instável que tautomeriza para aldeído, não para cetona nesta posição."
   }
  ],
  "quimica-solucoes": [
@@ -16613,6 +16898,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Em 2 L de água dissolvem-se, no máximo, 2 × 659 = 1318 g de sal. Como foram colocados 2000 g, o excesso que fica como CORPO DE FUNDO é 2000 − 1318 = 682 g. A massa molar do K₂CrO₄ é 2(39,1) + 52,0 + 4(16,0) = 194,2 g/mol, então 682 g correspondem a 3,5 mol do sal. O último passo é a proporção da fórmula: cada K₂CrO₄ traz DOIS potássios, e por isso são 7,0 mol de K⁺. O valor 3,5 é o de quem para no sal e esquece o índice 2, e 682 é a massa em gramas oferecida como se fosse quantidade de matéria."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "enem-quimica-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seguintes parâmetros:\nTeste 1 — Cálcio\nTeste 2 — Cloreto\nTeste 3 — Turbidez\nTeste 4 — Coliformes totais\nTeste 5 — Sólidos sedimentáveis",
+   "enunciado": "Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?",
+   "alternativas": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+   },
+   "resposta": "a",
+   "explicacao": "Dureza da água é, por definição, a concentração de cátions de cálcio e magnésio. São eles que, com os ânions citados no texto, formam CaCO3 e CaSO4 — sais pouco solúveis que se depositam na parede quente da tubulação e produzem a incrustação. Medir cálcio é medir diretamente a causa. O cloreto forma sais de cálcio SOLÚVEIS, que não precipitam, e por isso não incrusta. Turbidez e sólidos sedimentáveis medem material em suspensão, que é outro tipo de sujeira: a incrustação em causa se forma dissolvida e precipita no lugar. E coliformes são indicador microbiológico, ligado à potabilidade e não à química da caldeira."
   }
  ],
  "quimica-estequiometria": [
@@ -17771,6 +18076,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "São três passos encaixados. A área do trapézio é (15 + 25)/2 × 10 = 200 m², o que equivale a 200/10 000 = 0,02 ha. A necessidade de nitrogênio é 50 × 0,02 = 1 kg. Só que 1 kg é a massa do NUTRIENTE, não a do fertilizante: como o produto tem apenas 4% de nitrogênio, são precisos 1/0,04 = 25 kg de fertilizante. Parar no segundo passo dá exatamente 1 kg, que é a alternativa oferecida para esse erro. Os números 14 e 8 do rótulo não entram na conta — a exigência declarada é só de nitrogênio."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "enem-quimica-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Existe no comércio um produto antimofo constituído por uma embalagem com tampa perfurada contendo cloreto de cálcio anidro, CaCl2. Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se em cloreto de cálcio di-hidratado, CaCl2·2H2O. Considere a massa molar da água igual a 18 g/mol, e a massa molar do cloreto de cálcio anidro igual a 111 g/mol.",
+   "enunciado": "Na hidratação da substância presente no antimofo, o ganho percentual, em massa, é mais próximo de",
+   "alternativas": {
+    "a": "14%",
+    "b": "16%",
+    "c": "24%",
+    "d": "32%",
+    "e": "75%"
+   },
+   "resposta": "d",
+   "explicacao": "Cada mol de CaCl2 incorpora 2 mols de água, ou seja, 2 × 18 = 36 g de água para 111 g de sal. O ganho percentual é a massa incorporada dividida pela massa INICIAL: 36 / 111 ≈ 0,324, isto é, cerca de 32%. A armadilha está em escolher o denominador errado. Dividir 36 pela massa FINAL do hidrato (111 + 36 = 147 g) dá 24,5%, que é a fração de água no produto, e não o ganho — daí a opção de 24%. E 75% é a razão entre 36 e 48, número que aparece se alguém trocar a massa molar do sal pela do cálcio mais dois oxigênios. O enunciado pede quanto a massa aumentou em relação ao que havia antes."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -21219,6 +21544,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O comprimento de onda é λ = v/f = 330/440 = 0,75 m. Num tubo FECHADO numa das pontas, a extremidade fechada é nó e a aberta é ventre, e a menor distância entre um nó e um ventre é um quarto de onda — daí, no primeiro harmônico, L = λ/4 = 0,1875 m ≈ 19 cm. A alternativa (d), 38 cm, é λ/2, que valeria para um tubo ABERTO nas duas pontas, e (e) é o próprio λ. Distinguir tubo aberto de fechado é exatamente o que a questão cobra ao mencionar que a flauta de pã tem uma extremidade tampada."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "enem-fisica-01",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista num quadro todas as possibilidades para as grandezas cinemáticas: a velocidade pode ter módulo v ≠ 0 (com sentido para cima ou para baixo) ou v = 0 (sentido indefinido), e a aceleração pode ter módulo a ≠ 0 (com sentido para cima ou para baixo) ou a = 0 (sentido indefinido). Grandezas com módulo nulo não têm sentido definido. Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima.",
+   "enunciado": "A escolha que corresponde à combinação correta é",
+   "alternativas": {
+    "a": "v = 0 e a ≠ 0 para cima.",
+    "b": "v ≠ 0 para cima e a = 0.",
+    "c": "v = 0 e a ≠ 0 para baixo.",
+    "d": "v ≠ 0 para cima e a ≠ 0 para cima.",
+    "e": "v ≠ 0 para baixo e a ≠ 0 para baixo."
+   },
+   "resposta": "c",
+   "explicacao": "Na altura máxima a esfera para de subir e ainda não começou a descer: é o instante em que a velocidade troca de sinal, e por isso vale zero. Mas a aceleração não acompanha essa mudança — durante todo o percurso a única força é o peso, e a aceleração da gravidade aponta para baixo, com módulo constante de cerca de 10 m/s², inclusive no ponto mais alto. É justamente por a aceleração não ser nula ali que a esfera não fica parada no ar e passa a cair. A opção com a = 0 é o erro clássico de confundir velocidade nula com ausência de força. E as que põem a aceleração para cima invertem o sentido do peso: nada empurra a esfera para cima depois que ela deixa a mão."
   }
  ],
  "fisica-termologia": [
@@ -23880,6 +24225,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "É efeito Doppler com fonte parada e OBSERVADOR em movimento: f' = f·(v ± v_obs)/v. O microfone gira, então uma vez por volta ele se aproxima da sirene com os 7 m/s cheios e, meia volta depois, se afasta com a mesma rapidez. Os extremos são f' = 680·(340 + 7)/340 = 694 Hz e f' = 680·(340 − 7)/340 = 666 Hz. A opção \"680 e 680\" é a de quem considera que, como a DISTÂNCIA média não muda, a frequência também não mudaria — mas o que produz Doppler é a velocidade radial instantânea, não a distância."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Informações digitais — dados — são gravadas em discos ópticos, como CD e DVD, na forma de cavidades microscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática). Quanto menores as dimensões dessas cavidades, mais dados são armazenados na mesma área do disco. O fator limitante para a leitura de dados é o espalhamento da luz pelo efeito de difração, fenômeno que ocorre quando a luz atravessa um obstáculo com dimensões da ordem de seu comprimento de onda. Essa limitação motivou o desenvolvimento de lasers com emissão em menores comprimentos de onda, possibilitando armazenar e ler dados em cavidades cada vez menores.",
+   "enunciado": "Em qual região espectral se situa o comprimento de onda do laser que otimiza o armazenamento e a leitura de dados em discos de uma mesma área?",
+   "alternativas": {
+    "a": "Violeta.",
+    "b": "Azul.",
+    "c": "Verde.",
+    "d": "Vermelho.",
+    "e": "Infravermelho."
+   },
+   "resposta": "a",
+   "explicacao": "O texto dá o critério pronto: cavidade menor exige comprimento de onda menor, porque a difração limita a leitura quando o obstáculo tem dimensão da ordem do comprimento de onda. Basta então ordenar as opções por comprimento de onda. No espectro visível, o vermelho é o mais longo (cerca de 700 nm) e o violeta o mais curto (cerca de 400 nm), com verde e azul entre eles; o infravermelho é mais longo que todo o visível. O violeta é, portanto, o que permite as menores cavidades e a maior densidade de dados — e não por acaso o Blu-ray, que sucedeu o DVD, usa laser de 405 nm, contra os 650 nm do DVD e os 780 nm do CD."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. No padrão bluetooth denominado Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π.",
+   "enunciado": "Para que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m², é mais próximo de",
+   "alternativas": {
+    "a": "2,0 × 10⁻⁶.",
+    "b": "2,0 × 10⁻⁵.",
+    "c": "2,4 × 10⁻⁵.",
+    "d": "2,4 × 10⁻³.",
+    "e": "2,4 × 10⁻¹."
+   },
+   "resposta": "a",
+   "explicacao": "A intensidade mínima é a que sobra na distância máxima, porque a onda esférica espalha a mesma potência por uma superfície que cresce com o quadrado do raio. A área da esfera de 10 m de raio é 4πr² = 4 × 3 × 100 = 1 200 m². Dividindo a potência pela área: 2,4 × 10⁻³ W ÷ 1,2 × 10³ m² = 2,0 × 10⁻⁶ W/m². Os distratores são as paradas do caminho: 2,4 × 10⁻³ é a potência em watts, sem dividir por área nenhuma; 2,4 × 10⁻⁵ sai de dividir só por 100, esquecendo o 4π; e 2,0 × 10⁻⁵ erra a potência de dez na mesma conta. Note que o enunciado pede o valor MÍNIMO, e é por isso que se usa o raio de 10 m — perto da antena a intensidade é maior."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -25227,6 +25612,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Primeiro reduz-se o paralelo: duas resistências iguais de 2 Ω em paralelo valem 1 Ω. Essa associação está em série com L1, então a resistência equivalente do circuito é 2 + 1 = 3 Ω. O amperímetro mede a corrente TOTAL, que passa por L1: i = U/R = 3/3 = 1 A. A alternativa (d), 1,5 A, é o que se obteria com apenas L1 no circuito, e (b) é a corrente que passa em cada uma das lâmpadas do paralelo — metade do 1 A total, correta, mas não é o que o amperímetro lê."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "enem-fisica-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O fogão por indução funciona a partir do surgimento de uma corrente elétrica induzida no fundo da panela, com consequente transformação de energia elétrica em calor por efeito Joule. A principal vantagem desses fogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais.",
+   "enunciado": "A corrente elétrica mencionada é induzida por",
+   "alternativas": {
+    "a": "radiação.",
+    "b": "condução.",
+    "c": "campo elétrico variável.",
+    "d": "campo magnético variável.",
+    "e": "ressonância eletromagnética."
+   },
+   "resposta": "d",
+   "explicacao": "A bobina sob a superfície do fogão é percorrida por corrente alternada de alta frequência e cria um campo magnético que varia no tempo. Pela lei de Faraday-Lenz, a variação do fluxo magnético através do fundo metálico da panela induz nele correntes parasitas, que aquecem o metal por efeito Joule. É por isso que só panela ferromagnética funciona, e por isso a placa permanece relativamente fria. As duas primeiras opções descrevem formas de transferir calor, não de induzir corrente, e o texto diz que o calor é gerado NA panela, e não transmitido a ela. Campo elétrico variável induz campo magnético, e não corrente em condutor por indução. E ressonância eletromagnética é fenômeno de outra natureza, ligado a frequências próprias."
   }
  ],
  "fisica-hidrostatica": [

@@ -8489,6 +8489,82 @@
    },
    "resposta": "a",
    "explicacao": "O comprimento de onda é λ = v/f = 330/440 = 0,75 m. Num tubo FECHADO numa das pontas, a extremidade fechada é nó e a aberta é ventre, e a menor distância entre um nó e um ventre é um quarto de onda — daí, no primeiro harmônico, L = λ/4 = 0,1875 m ≈ 19 cm. A alternativa (d), 38 cm, é λ/2, que valeria para um tubo ABERTO nas duas pontas, e (e) é o próprio λ. Distinguir tubo aberto de fechado é exatamente o que a questão cobra ao mencionar que a flauta de pã tem uma extremidade tampada."
+  },
+  {
+   "id": "enem-fisica-01",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista num quadro todas as possibilidades para as grandezas cinemáticas: a velocidade pode ter módulo v ≠ 0 (com sentido para cima ou para baixo) ou v = 0 (sentido indefinido), e a aceleração pode ter módulo a ≠ 0 (com sentido para cima ou para baixo) ou a = 0 (sentido indefinido). Grandezas com módulo nulo não têm sentido definido. Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima.",
+   "enunciado": "A escolha que corresponde à combinação correta é",
+   "alternativas": {
+    "a": "v = 0 e a ≠ 0 para cima.",
+    "b": "v ≠ 0 para cima e a = 0.",
+    "c": "v = 0 e a ≠ 0 para baixo.",
+    "d": "v ≠ 0 para cima e a ≠ 0 para cima.",
+    "e": "v ≠ 0 para baixo e a ≠ 0 para baixo."
+   },
+   "resposta": "c",
+   "explicacao": "Na altura máxima a esfera para de subir e ainda não começou a descer: é o instante em que a velocidade troca de sinal, e por isso vale zero. Mas a aceleração não acompanha essa mudança — durante todo o percurso a única força é o peso, e a aceleração da gravidade aponta para baixo, com módulo constante de cerca de 10 m/s², inclusive no ponto mais alto. É justamente por a aceleração não ser nula ali que a esfera não fica parada no ar e passa a cair. A opção com a = 0 é o erro clássico de confundir velocidade nula com ausência de força. E as que põem a aceleração para cima invertem o sentido do peso: nada empurra a esfera para cima depois que ela deixa a mão."
+  },
+  {
+   "id": "enem-fisica-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O fogão por indução funciona a partir do surgimento de uma corrente elétrica induzida no fundo da panela, com consequente transformação de energia elétrica em calor por efeito Joule. A principal vantagem desses fogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais.",
+   "enunciado": "A corrente elétrica mencionada é induzida por",
+   "alternativas": {
+    "a": "radiação.",
+    "b": "condução.",
+    "c": "campo elétrico variável.",
+    "d": "campo magnético variável.",
+    "e": "ressonância eletromagnética."
+   },
+   "resposta": "d",
+   "explicacao": "A bobina sob a superfície do fogão é percorrida por corrente alternada de alta frequência e cria um campo magnético que varia no tempo. Pela lei de Faraday-Lenz, a variação do fluxo magnético através do fundo metálico da panela induz nele correntes parasitas, que aquecem o metal por efeito Joule. É por isso que só panela ferromagnética funciona, e por isso a placa permanece relativamente fria. As duas primeiras opções descrevem formas de transferir calor, não de induzir corrente, e o texto diz que o calor é gerado NA panela, e não transmitido a ela. Campo elétrico variável induz campo magnético, e não corrente em condutor por indução. E ressonância eletromagnética é fenômeno de outra natureza, ligado a frequências próprias."
+  },
+  {
+   "id": "enem-fisica-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Informações digitais — dados — são gravadas em discos ópticos, como CD e DVD, na forma de cavidades microscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática). Quanto menores as dimensões dessas cavidades, mais dados são armazenados na mesma área do disco. O fator limitante para a leitura de dados é o espalhamento da luz pelo efeito de difração, fenômeno que ocorre quando a luz atravessa um obstáculo com dimensões da ordem de seu comprimento de onda. Essa limitação motivou o desenvolvimento de lasers com emissão em menores comprimentos de onda, possibilitando armazenar e ler dados em cavidades cada vez menores.",
+   "enunciado": "Em qual região espectral se situa o comprimento de onda do laser que otimiza o armazenamento e a leitura de dados em discos de uma mesma área?",
+   "alternativas": {
+    "a": "Violeta.",
+    "b": "Azul.",
+    "c": "Verde.",
+    "d": "Vermelho.",
+    "e": "Infravermelho."
+   },
+   "resposta": "a",
+   "explicacao": "O texto dá o critério pronto: cavidade menor exige comprimento de onda menor, porque a difração limita a leitura quando o obstáculo tem dimensão da ordem do comprimento de onda. Basta então ordenar as opções por comprimento de onda. No espectro visível, o vermelho é o mais longo (cerca de 700 nm) e o violeta o mais curto (cerca de 400 nm), com verde e azul entre eles; o infravermelho é mais longo que todo o visível. O violeta é, portanto, o que permite as menores cavidades e a maior densidade de dados — e não por acaso o Blu-ray, que sucedeu o DVD, usa laser de 405 nm, contra os 650 nm do DVD e os 780 nm do CD."
+  },
+  {
+   "id": "enem-fisica-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. No padrão bluetooth denominado Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π.",
+   "enunciado": "Para que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m², é mais próximo de",
+   "alternativas": {
+    "a": "2,0 × 10⁻⁶.",
+    "b": "2,0 × 10⁻⁵.",
+    "c": "2,4 × 10⁻⁵.",
+    "d": "2,4 × 10⁻³.",
+    "e": "2,4 × 10⁻¹."
+   },
+   "resposta": "a",
+   "explicacao": "A intensidade mínima é a que sobra na distância máxima, porque a onda esférica espalha a mesma potência por uma superfície que cresce com o quadrado do raio. A área da esfera de 10 m de raio é 4πr² = 4 × 3 × 100 = 1 200 m². Dividindo a potência pela área: 2,4 × 10⁻³ W ÷ 1,2 × 10³ m² = 2,0 × 10⁻⁶ W/m². Os distratores são as paradas do caminho: 2,4 × 10⁻³ é a potência em watts, sem dividir por área nenhuma; 2,4 × 10⁻⁵ sai de dividir só por 100, esquecendo o 4π; e 2,0 × 10⁻⁵ erra a potência de dez na mesma conta. Note que o enunciado pede o valor MÍNIMO, e é por isso que se usa o raio de 10 m — perto da antena a intensidade é maior."
   }
  ],
  "textos": [

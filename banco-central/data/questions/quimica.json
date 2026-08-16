@@ -7767,6 +7767,102 @@
    },
    "resposta": "a",
    "explicacao": "A lei de velocidade vem das ORDENS informadas, não dos coeficientes da equação: v = k[Br₂]¹[NO]². Triplicar o bromo multiplica a velocidade por 3; reduzir o óxido à metade a multiplica por (1/2)² = 1/4, porque a ordem dele é dois. O fator combinado é 3 × 1/4 = 3/4, e 12,0 × 3/4 = 9,0 mol/L·s. Quem trata o NO como primeira ordem obtém 3 × 1/2 = 3/2 e chega a 18,0; quem esquece a redução do NO e só triplica chega a 36,0. É o expoente 2 que faz a velocidade CAIR mesmo com o bromo triplicado."
+  },
+  {
+   "id": "enem-quimica-01",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A utilização de tecnologia nuclear é um tema bastante controverso, por causa do risco de acidentes graves, como aqueles ocorridos em Chernobyl (1986), em Goiânia (1987) e em Fukushima (2011). Apesar de muitas desvantagens, como a geração de resíduos tóxicos, a descontaminação ambiental dispendiosa em caso de acidentes e a utilização em armas nucleares, a geração de energia nuclear apresenta vantagens em comparação a outras fontes de energia.",
+   "enunciado": "A geração dessa energia tem como característica:",
+   "alternativas": {
+    "a": "Formar resíduos facilmente recicláveis.",
+    "b": "Promover o aumento do desmatamento.",
+    "c": "Contribuir para a produção de chuva ácida.",
+    "d": "Emitir gases tóxicos que são lançados no ambiente.",
+    "e": "Produzir calor sem o consumo de combustíveis fósseis."
+   },
+   "resposta": "e",
+   "explicacao": "Numa usina nuclear o calor vem da fissão de núcleos de urânio, não de combustão. Como não há queima, não há emissão de CO2, de óxidos de enxofre ou de nitrogênio — e é justamente essa a vantagem que o enunciado pede, em contraste com as termelétricas a carvão ou a óleo. Os distratores atribuem à energia nuclear os problemas das fontes fósseis: gases tóxicos e chuva ácida vêm da queima, e desmatamento não é efeito de uma usina que ocupa área pequena. A primeira opção contradiz o próprio texto, que cita a geração de resíduos tóxicos entre as desvantagens: rejeito radioativo não é facilmente reciclável, e sim armazenado por décadas ou séculos."
+  },
+  {
+   "id": "enem-quimica-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seguintes parâmetros:\nTeste 1 — Cálcio\nTeste 2 — Cloreto\nTeste 3 — Turbidez\nTeste 4 — Coliformes totais\nTeste 5 — Sólidos sedimentáveis",
+   "enunciado": "Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?",
+   "alternativas": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+   },
+   "resposta": "a",
+   "explicacao": "Dureza da água é, por definição, a concentração de cátions de cálcio e magnésio. São eles que, com os ânions citados no texto, formam CaCO3 e CaSO4 — sais pouco solúveis que se depositam na parede quente da tubulação e produzem a incrustação. Medir cálcio é medir diretamente a causa. O cloreto forma sais de cálcio SOLÚVEIS, que não precipitam, e por isso não incrusta. Turbidez e sólidos sedimentáveis medem material em suspensão, que é outro tipo de sujeira: a incrustação em causa se forma dissolvida e precipita no lugar. E coliformes são indicador microbiológico, ligado à potabilidade e não à química da caldeira."
+  },
+  {
+   "id": "enem-quimica-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Existe no comércio um produto antimofo constituído por uma embalagem com tampa perfurada contendo cloreto de cálcio anidro, CaCl2. Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se em cloreto de cálcio di-hidratado, CaCl2·2H2O. Considere a massa molar da água igual a 18 g/mol, e a massa molar do cloreto de cálcio anidro igual a 111 g/mol.",
+   "enunciado": "Na hidratação da substância presente no antimofo, o ganho percentual, em massa, é mais próximo de",
+   "alternativas": {
+    "a": "14%",
+    "b": "16%",
+    "c": "24%",
+    "d": "32%",
+    "e": "75%"
+   },
+   "resposta": "d",
+   "explicacao": "Cada mol de CaCl2 incorpora 2 mols de água, ou seja, 2 × 18 = 36 g de água para 111 g de sal. O ganho percentual é a massa incorporada dividida pela massa INICIAL: 36 / 111 ≈ 0,324, isto é, cerca de 32%. A armadilha está em escolher o denominador errado. Dividir 36 pela massa FINAL do hidrato (111 + 36 = 147 g) dá 24,5%, que é a fração de água no produto, e não o ganho — daí a opção de 24%. E 75% é a razão entre 36 e 48, número que aparece se alguém trocar a massa molar do sal pela do cálcio mais dois oxigênios. O enunciado pede quanto a massa aumentou em relação ao que havia antes."
+  },
+  {
+   "id": "enem-quimica-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As cetonas fazem parte de famílias olfativas encontradas em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realizados em meio ácido, na presença de oxidantes como o permanganato de potássio.",
+   "enunciado": "Para se produzir esse composto volátil em laboratório, deve-se oxidar a molécula de",
+   "alternativas": {
+    "a": "hexanal.",
+    "b": "hexan-1-ol.",
+    "c": "hexan-3-ol.",
+    "d": "hex-1-en-1-ol.",
+    "e": "ácido hexanoico."
+   },
+   "resposta": "c",
+   "explicacao": "A regra da oxidação de álcoois separa três casos: primário oxida a aldeído e depois a ácido carboxílico; secundário oxida a cetona; terciário não oxida nessas condições. Cetona, portanto, só vem de álcool secundário — e o carbono da carbonila tem de ser o mesmo do produto. Como o alvo é a hexan-3-ona, o material de partida precisa ter a hidroxila no carbono 3 de uma cadeia de seis carbonos: o hexan-3-ol. O hexan-1-ol tem a hidroxila na ponta, é primário, e daria hexanal e depois ácido hexanoico. Hexanal e ácido hexanoico já são produtos dessa outra via, e oxidar mais não os converte em cetona. E o hex-1-en-1-ol é um enol, forma instável que tautomeriza para aldeído, não para cetona nesta posição."
+  },
+  {
+   "id": "enem-quimica-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O vidro contendo alumínio em sua composição é um excelente material para acondicionar medicamentos e suplementos, porque pode ser esterilizado por aquecimento. No entanto, quando o medicamento ou suplemento contém substâncias que se ligam fortemente ao íon desse metal, a dissolução do alumínio é promovida em função do deslocamento do equilíbrio químico estabelecido entre a espécie imobilizada no vidro e a espécie em solução. Por essa razão, recomenda-se que suplementos de nutrição de recém-nascidos contendo gluconato de cálcio sejam acondicionados em embalagens plásticas, e não nesse tipo de vidro.",
+   "fonte_texto": "Atualização da recomendação da Sociedade Portuguesa de Neonatologia. Disponível em: www.spneonatologia.pt. Acesso em: 22 out. 2021 (adaptado).",
+   "enunciado": "Caso esse suplemento seja acondicionado em embalagem desse tipo de vidro, o risco de contaminação por alumínio será maior se o(a)",
+   "alternativas": {
+    "a": "vidro do frasco for translúcido.",
+    "b": "concentração de gluconato de cálcio for alta.",
+    "c": "frasco de vidro apresentar uma maior espessura.",
+    "d": "vidro for previamente esterilizado em altas temperaturas.",
+    "e": "reação do alumínio com gluconato de cálcio for endotérmica."
+   },
+   "resposta": "b",
+   "explicacao": "O texto descreve um equilíbrio entre o alumínio preso no vidro e o alumínio em solução. O gluconato é o agente que se liga fortemente ao íon Al³⁺ e o retira da solução; pelo princípio de Le Chatelier, remover produto desloca o equilíbrio no sentido de repô-lo, ou seja, no sentido de dissolver mais alumínio do vidro. Quanto MAIOR a concentração de gluconato, mais intenso o deslocamento e maior a contaminação. Espessura e transparência do frasco não entram no equilíbrio, que depende da área de contato e da composição, não do volume de vidro nem da passagem de luz. A esterilização é anterior ao envase. E a alternativa sobre entalpia não indica sentido algum sem dizer a que temperatura o produto será guardado."
   }
  ],
  "textos": [

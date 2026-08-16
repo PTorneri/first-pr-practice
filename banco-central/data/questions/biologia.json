@@ -7732,6 +7732,219 @@
    },
    "resposta": "b",
    "explicacao": "As duas pistas do enunciado apontam para a mesma organela: a enzima é HIDROLÍTICA e faz DIGESTÃO intracelular, que é a função do lisossomo — a bolsa de enzimas digestivas produzida pelo complexo golgiense. É por isso que a deficiência de hexosaminidase faz acumular material não digerido dentro das células nervosas, o que explica o quadro da doença. Plasto e glioxissomo são organelas de células VEGETAIS, o que já as descarta num enunciado sobre células animais. A mitocôndria faz respiração celular, produzindo ATP, não digestão. E o centríolo participa da divisão celular e da organização de cílios e flagelos, sem atividade enzimática digestiva."
+  },
+  {
+   "id": "enem-biologia-01",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de sementes de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.",
+   "fonte_texto": "DARAYA, V. Disponível em: http://planetasustentavel.abril.com.br. Acesso em: 2 fev. 2015 (adaptado).",
+   "enunciado": "Esse método contribui para a preservação das abelhas porque",
+   "alternativas": {
+    "a": "reduz sua predação.",
+    "b": "reduz o uso de pesticidas.",
+    "c": "reduz a competição por abrigo.",
+    "d": "aumenta a oferta de alimento.",
+    "e": "aumenta os locais de reprodução."
+   },
+   "resposta": "d",
+   "explicacao": "As bombas contêm sementes de espécies vegetais nativas, e o que nasce delas são plantas com flores. Flor é a fonte de néctar e pólen, isto é, o alimento da abelha — aumentar a cobertura vegetal aumenta a oferta de forrageio. As demais atribuem à semente efeitos que ela não produz. Planta germinando não afasta predador nem substitui a colmeia, que a abelha constrói em oco de árvore ou em caixa, e não no chão onde a bomba caiu. E a redução do uso de pesticidas é, de fato, uma das medidas de proteção às abelhas, mas depende de decisão sobre a lavoura: espalhar sementes em solo pouco fértil não muda o que se pulveriza na plantação vizinha."
+  },
+  {
+   "id": "enem-biologia-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os mais antigos cozinhavam o feijão na panela de ferro a fim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana.",
+   "enunciado": "As estratégias citadas eram utilizadas com o objetivo de",
+   "alternativas": {
+    "a": "tratar a diarreia.",
+    "b": "prevenir a anemia.",
+    "c": "evitar as verminoses.",
+    "d": "remediar o raquitismo.",
+    "e": "combater a febre amarela."
+   },
+   "resposta": "b",
+   "explicacao": "O sinal que motiva a prática está no texto: \"acabar com a palidez\". Palidez é o sintoma visível da anemia ferropriva, e o ferro é justamente o átomo central do grupo heme da hemoglobina — sem ele o sangue não transporta oxigênio e a pele perde a cor. Cozinhar em panela de ferro transfere parte do metal para o alimento. Cada distrator tem outra causa: diarreia e verminose vêm de infecção por micro-organismo ou parasita, e nenhum ferro as previne; o raquitismo é deficiência de vitamina D e de cálcio, que afeta o osso e não o sangue; e a febre amarela é virose transmitida por mosquito, sem qualquer relação com a dieta."
+  },
+  {
+   "id": "enem-biologia-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos.",
+   "enunciado": "Nas viagens por grandes distâncias, tais músculos são fundamentais, pois favorecem o(a)",
+   "alternativas": {
+    "a": "execução de manobras.",
+    "b": "metabolismo corpóreo elevado.",
+    "c": "manutenção da aerodinâmica.",
+    "d": "deslocamento a grandes velocidades.",
+    "e": "capacidade de voo em grandes altitudes."
+   },
+   "resposta": "b",
+   "explicacao": "A cor vermelha vem da mioglobina e da densidade de mitocôndrias, e a \"ampla rede de vasos sanguíneos\" citada no texto é o que garante oxigênio contínuo a essas fibras. Fibra vermelha é fibra oxidativa: produz ATP pela respiração aeróbia, de forma sustentada, e é isso que permite bater asa por horas sem fadigar. O traço que o texto destaca, portanto, é a capacidade de manter metabolismo alto por muito tempo. As outras opções descrevem o que a fibra BRANCA faz melhor ou o que não depende de músculo: velocidade e manobra bruscas exigem contração rápida e anaeróbia, aerodinâmica é forma do corpo e da asa, e voar alto depende sobretudo da eficiência respiratória, com os sacos aéreos das aves."
+  },
+  {
+   "id": "enem-biologia-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado, pois isso aceleraria seu amadurecimento. Com certa dúvida, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta. Surpreendendo-se, ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente.",
+   "enunciado": "A aceleração desse processo é causada por",
+   "alternativas": {
+    "a": "acúmulo de gás etileno.",
+    "b": "redução da umidade do ar.",
+    "c": "aumento da concentração de CO2.",
+    "d": "diminuição da intensidade luminosa.",
+    "e": "isolamento do contato com O2 atmosférico."
+   },
+   "resposta": "a",
+   "explicacao": "O etileno é o hormônio vegetal do amadurecimento, e é um gás: o próprio fruto o libera, e ele atua sobre os frutos vizinhos. Num recipiente fechado o gás não se dispersa, a concentração sobe e o processo se acelera — na fruteira aberta ele se perde no ar. É por isso que a receita caseira funciona. O CO2 tem efeito oposto ao pedido, sendo usado justamente para RETARDAR o amadurecimento em atmosfera controlada. E as outras três não explicam a diferença observada: a umidade dentro do recipiente aumenta em vez de diminuir, a escuridão não dispara o amadurecimento, e restringir oxigênio freia a respiração celular, atrasando o processo em vez de apressá-lo."
+  },
+  {
+   "id": "enem-biologia-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade ímpar: guardar parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.",
+   "fonte_texto": "Disponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).",
+   "enunciado": "Essa adaptação confere a esse organismo a capacidade de obter primariamente",
+   "alternativas": {
+    "a": "ácidos nucleicos.",
+    "b": "carboidratos.",
+    "c": "proteínas.",
+    "d": "vitaminas.",
+    "e": "lipídios."
+   },
+   "resposta": "b",
+   "explicacao": "A pergunta se resolve sabendo o que o cloroplasto produz. Na fotossíntese, gás carbônico e água, com energia luminosa, geram glicose e oxigênio — e glicose é carboidrato. Ao manter cloroplastos funcionais nas próprias células, a lesma passa a fabricar açúcar como uma planta. A palavra \"primariamente\" no enunciado marca justamente isso: é o produto direto do processo. As demais moléculas até podem ser sintetizadas pelo animal DEPOIS, usando o esqueleto de carbono do açúcar e outros nutrientes, mas nenhuma delas sai do cloroplasto. Proteínas e ácidos nucleicos exigem nitrogênio, que a fotossíntese não fixa, e vitaminas não são produto fotossintético."
+  },
+  {
+   "id": "enem-biologia-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença.",
+   "enunciado": "Em qual material biológico dos cães a presença desse protozoário representa risco de transmissão dessa zoonose?",
+   "alternativas": {
+    "a": "Urina.",
+    "b": "Saliva.",
+    "c": "Fezes.",
+    "d": "Sangue.",
+    "e": "Secreção ocular."
+   },
+   "resposta": "d",
+   "explicacao": "A palavra decisiva do enunciado é \"indireta\": a leishmaniose não passa de cão para pessoa por contato, e sim pela picada do flebotomíneo, o mosquito-palha. O inseto se contamina ao sugar SANGUE do cão infectado e depois inocula o parasita em outro hospedeiro. Logo, o material biológico que representa risco é aquele de que o vetor se alimenta. Urina, saliva, fezes e secreção ocular só transmitiriam doença por via direta — contato, ingestão ou gotícula —, que é justamente o modo que o texto exclui. É por isso que o inquérito canino se faz por exame de sangue."
+  },
+  {
+   "id": "enem-biologia-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrógeno e progesterona, observada nessa fase do ciclo feminino.",
+   "fonte_texto": "DIMMOCK, P. W. et al. Efficacy of Selective Serotonin-Reuptake Inhibitors in Premenstrual Syndrome: a Systematic Review. The Lancet, n. 9 236, 2000 (adaptado).",
+   "enunciado": "A redução da produção desses hormônios nessa fase está relacionada com o(a)",
+   "alternativas": {
+    "a": "regressão do corpo lúteo ovariano.",
+    "b": "diminuição na produção de ocitocina.",
+    "c": "liberação do gameta feminino na ovulação.",
+    "d": "aumento nos níveis dos hormônios LH e FSH.",
+    "e": "elevação nos níveis sorológicos de adrenalina."
+   },
+   "resposta": "a",
+   "explicacao": "Depois da ovulação, o folículo rompido se transforma em corpo lúteo, que é a glândula temporária responsável por secretar progesterona e estrógeno na fase lútea. Não havendo fecundação, o corpo lúteo degenera por volta do 26º dia e vira corpo albicans — e, sem a glândula, os dois hormônios despencam. É essa queda que antecede a menstruação e que o texto associa aos sintomas. A ovulação é o evento que CRIA o corpo lúteo, portanto antecede o aumento hormonal, não a queda. LH e FSH caem nessa fase, e não sobem, inibidos pela própria progesterona. E nem ocitocina nem adrenalina participam da produção de hormônios ovarianos."
+  },
+  {
+   "id": "enem-biologia-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-los em diferentes ambientes na atualidade.",
+   "enunciado": "Qual estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima?",
+   "alternativas": {
+    "a": "Fruto.",
+    "b": "Esporo.",
+    "c": "Semente.",
+    "d": "Tubo polínico.",
+    "e": "Vaso condutor."
+   },
+   "resposta": "d",
+   "explicacao": "O enunciado restringe: independência da água PARA A FECUNDAÇÃO. Em briófitas e pteridófitas o anterozoide nada até a oosfera, e por isso essas plantas dependem de um filme de água para se reproduzir. Nas gimnospermas e angiospermas o grão de pólen germina e emite o tubo polínico, um canal que leva o gameta masculino até o óvulo por dentro do tecido da flor — a água deixa de ser necessária. Cada distrator resolve outro problema: o vaso condutor transporta seiva e permitiu ganhar altura; a semente protege e nutre o embrião DEPOIS da fecundação; o fruto protege a semente e ajuda na dispersão; e o esporo é justamente a estrutura dos grupos que ainda dependem da água."
+  },
+  {
+   "id": "enem-biologia-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Barbatimão é o nome popular de uma árvore cuja casca é utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver.",
+   "enunciado": "A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da",
+   "alternativas": {
+    "a": "fotossíntese.",
+    "b": "transpiração.",
+    "c": "troca de gases.",
+    "d": "formação de brotos.",
+    "e": "nutrição das raízes."
+   },
+   "resposta": "e",
+   "explicacao": "A casca leva o floema, que conduz a seiva elaborada — o açúcar produzido nas folhas — de cima para baixo, até a raiz. Retirar um anel COMPLETO corta esse caminho em toda a volta do tronco, e a raiz, que não fotossintetiza, morre de fome; com ela morre a árvore. Se o anel é incompleto, sobra uma faixa de floema por onde a seiva desce, e a planta sobrevive: é exatamente esse contraste que o texto apresenta. Note que o xilema não é atingido, pois fica no lenho, abaixo da casca — logo a água continua subindo, e transpiração e fotossíntese seguem funcionando por algum tempo. A troca de gases se dá pelos estômatos das folhas."
+  },
+  {
+   "id": "enem-biologia-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus de RNA SARS-CoV-2. A vacina de RNAm tem sequências de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função específica atuando no mesmo compartimento celular de sempre.",
+   "fonte_texto": "Disponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).",
+   "enunciado": "A imunização produzida por esse tipo de vacina é alcançada por meio da",
+   "alternativas": {
+    "a": "estimulação de leucócitos induzida pela capa lipídica contendo RNAm.",
+    "b": "atuação do RNAm como sequestrador do vírus para o meio extracelular.",
+    "c": "tradução do RNAm em proteína viral, desencadeando a resposta antigênica.",
+    "d": "competição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos.",
+    "e": "incorporação do RNAm viral ao genoma do hospedeiro, gerando novo fenótipo."
+   },
+   "resposta": "c",
+   "explicacao": "A pista está na frase final: o RNAm atua \"no mesmo compartimento celular de sempre\", isto é, no citoplasma, onde ficam os ribossomos. Ali ele é traduzido em proteína — no caso, a proteína da espícula do SARS-CoV-2. Essa proteína é o antígeno: o sistema imune a reconhece como estranha e produz anticorpos e células de memória, sem que jamais tenha havido vírus. A última alternativa descreve o que a vacina NÃO faz, e é o receio comum: para se integrar ao genoma seria preciso transcrição reversa e entrada no núcleo, que não ocorrem. A capa lipídica só protege e entrega o RNAm, não estimula leucócito; e não há sequestro de vírus nem disputa por ribossomo, já que o vírus pode nem estar presente."
+  },
+  {
+   "id": "enem-biologia-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.",
+   "enunciado": "O coquetel de inibidores impediu o(a)",
+   "alternativas": {
+    "a": "formação do pronúcleo masculino.",
+    "b": "início da divisão mitótica do zigoto.",
+    "c": "término da segunda divisão meiótica do ovócito.",
+    "d": "passagem do espermatozoide pela corona radiata e zona pelúcida.",
+    "e": "fusão das membranas plasmáticas do ovócito e do espermatozoide."
+   },
+   "resposta": "d",
+   "explicacao": "O acrossomo é a vesícula na cabeça do espermatozoide, cheia de enzimas hidrolíticas — hialuronidase e acrosina, entre outras. A função delas é digerir as barreiras que cercam o ovócito: primeiro a corona radiata, depois a zona pelúcida. Inibidas as enzimas, o espermatozoide não abre caminho e sequer chega à membrana do gameta feminino. Como a barreira é a PRIMEIRA etapa, tudo o que vem depois também não acontece — fusão de membranas, término da meiose II, formação do pronúcleo e clivagem do zigoto —, e é por isso que os outros quatro eventos aparecem como distratores plausíveis. A questão pede o que foi impedido diretamente pelo inibidor, e isso é a travessia."
   }
  ],
  "textos": [

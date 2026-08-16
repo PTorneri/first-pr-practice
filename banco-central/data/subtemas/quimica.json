@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "quimica",
- "total": 482,
+ "total": 487,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -2884,6 +2884,34 @@
   },
   "eng-quimica-26": {
    "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "enem-quimica-01": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "enem-quimica-02": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "enem-quimica-03": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "enem-quimica-04": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "enem-quimica-05": {
+   "subtema": "quimica-equilibrio-acido-base",
    "frenteDestino": "quimica",
    "revisado": true
   }

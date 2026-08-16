@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "biologia",
- "total": 471,
+ "total": 482,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -2826,6 +2826,67 @@
    "frenteDestino": "biologia",
    "pontos": 22,
    "margem": 18
+  },
+  "enem-biologia-01": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-02": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 8,
+   "margem": 8
+  },
+  "enem-biologia-03": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-04": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-05": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 17,
+   "margem": 13
+  },
+  "enem-biologia-06": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-07": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "enem-biologia-08": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "enem-biologia-09": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-10": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 12,
+   "margem": 4
+  },
+  "enem-biologia-11": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 7,
+   "margem": 3
   }
  }
 }

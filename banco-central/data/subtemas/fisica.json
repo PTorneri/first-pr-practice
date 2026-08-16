@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "fisica",
- "total": 534,
+ "total": 538,
  "residuo": [
   "med-fisica-31",
   "med-fisica-92",
@@ -3205,6 +3205,30 @@
    "frenteDestino": "fisica",
    "pontos": 5,
    "margem": 0
+  },
+  "enem-fisica-01": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-fisica-02": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "enem-fisica-03": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "enem-fisica-04": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
   }
  }
 }

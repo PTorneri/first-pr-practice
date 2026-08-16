@@ -1300,6 +1300,28 @@ const REVISADAS = {
   // os dois pedem o sentido do poema inteiro, nao um detalhe dele.
   "enem-ingles-03": "ingles-main-idea",
   "enem-ingles-04": "ingles-main-idea",
+
+  // --- ENEM 2023, 2o dia (Ciencias da Natureza). Aqui a tabela funciona bem
+  // melhor que em Humanas -- "mol", "cetona" e "cloroplasto" sao palavras que
+  // ela reconhece. Sobram os casos em que o CENARIO e de outra area que o
+  // assunto: bomba de sementes para abelhas nao e fisiologia, e gluconato de
+  // calcio nao faz da questao de equilibrio uma questao de organica.
+  //
+  // Bombas de sementes e o alimento das abelhas.
+  "enem-biologia-01": "biologia-ecologia",
+  // Musculo vermelho da ave migratoria: metabolismo aerobio sustentado.
+  "enem-biologia-03": "biologia-fisiologia",
+  // Etileno e o amadurecimento do abacate em recipiente fechado.
+  "enem-biologia-04": "biologia-fisiologia",
+  // Leishmaniose: o vetor se contamina pelo sangue do cao.
+  "enem-biologia-06": "biologia-diversidade",
+  // Anelamento do barbatimao: o floema cortado mata a raiz.
+  "enem-biologia-09": "biologia-fisiologia",
+  // Oxidacao de alcool secundario a cetona. "Meio acido" puxava para acido-base.
+  "enem-quimica-04": "quimica-organica",
+  // Aluminio do vidro e gluconato de calcio: deslocamento de equilibrio. O
+  // nome do sal organico ganhava da palavra "equilibrio".
+  "enem-quimica-05": "quimica-equilibrio-acido-base",
 };
 
 // ------------------------------------------------------------------- classificação

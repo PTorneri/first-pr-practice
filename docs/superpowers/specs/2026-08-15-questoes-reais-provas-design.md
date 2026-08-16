@@ -99,7 +99,8 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 |---|---|---|---|
 | 1 — piloto | FGV 2023.1, bloco Matemática + Humanas | 30 | **feito** (`be66418`) |
 | 1b | FGV 2023.1, bloco Biologia, Física e Química | 45 | **feito** |
-| 1c | FGV 2023.1, bloco Inglês e Língua Portuguesa (12 pág.) | ~30 | a fazer |
+| 1c | FGV 2023.1, bloco de Inglês (4 textos-base) | 15 | **feito** |
+| 1d | FGV 2023.1, bloco de Língua Portuguesa e Literatura (pág. 8–12) | ~15 | a fazer |
 | 2 | FGV 2022.1 + 2021.1 (64 páginas) | ~200 | |
 | 3 | As 113 FGV já transcritas — recuperar o texto de apoio | 113 | |
 | 4 | Insper 2026.1, 2026.1 v.2 e 2026.2 (destravado) | 91+ | |
@@ -132,6 +133,13 @@ de discursiva real:
   `classificar-subtemas.js`, nunca no JSON gerado. Desde 15/08/2026 `REVISADAS`
   tem precedência sobre o mapa anterior — antes, o mapa vinha primeiro e
   corrigir uma entrada não surtia efeito sobre questão já marcada `revisado`.
+- **Questão amarrada a texto compartilhado: pin PARTE cluster.** A coesão de
+  cluster (todas as questões de um mesmo `textoId` no mesmo subtema) não
+  sobrepõe `revisado`, então revisar questão a questão fura a proteção e o aluno
+  passa a reler o mesmo texto em dias diferentes. Pine só o bastante para levar
+  a MAIORIA do cluster ao destino certo e deixe a coesão arrastar o resto.
+  Confira com uma varredura de `textoId` → conjunto de subtemas: o banco fecha
+  com **zero** clusters partidos, e é assim que tem de continuar.
 - **Bloco de Ciências da Natureza classifica mal com mais frequência.** Ele mora
   em `ciencias-natureza.json` e o `REDIRECIONA` o dissolve em Biologia, Química
   e Física, o que faz cada questão disputar com a tabela das TRÊS frentes ao

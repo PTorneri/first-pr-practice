@@ -52440,6 +52440,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O autor não acusa Portugal de ignorar a ciência — a vacina já existia e a Europa já a usava. A acusação é de omissão de dever: o governo, \"mais ocupado de seu ouro que de seus habitantes\", deixou de trazer o que salvaria vidas. Isso pressupõe que zelar pela saúde da população é obrigação de quem governa, tese ilustrada que funda a ideia moderna de saúde pública. As demais são ideias iluministas de verdade, e é por isso que enganam: a legalidade da natureza é o programa da ciência newtoniana, o despotismo esclarecido e o direito natural pertencem à filosofia política, e a riqueza vinda da terra é a tese fisiocrática. Nenhuma delas é a que este texto mobiliza."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "enem-historia-18",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I — Neta de Tomásia, uma escravizada alforriada, Chiquinha Gonzaga foi uma das primeiras mulheres a se destacar na música popular brasileira. Entre suas obras mais famosas estão a marcha Ó abre alas e o tango Gaúcho, além de inúmeras peças musicais para teatro e óperas. Chiquinha também teve uma atuação em defesa dos direitos das mulheres e pelo fim da escravatura.\nTEXTO II — Depois da estreia de sua peça Gonzaga, em 1867, que tem como um de seus núcleos dramáticos dois escravizados, pai e filha, separados há muitos anos, Castro Alves escreve talvez o maior conjunto de poemas antiescravistas do Romantismo brasileiro, publicados em 1883 no livro Os escravos. Os textos Vozes d’África e Navio negreiro, publicados em folhetos já em 1878, tiveram enorme repercussão.",
+   "enunciado": "Os textos indicam a participação de artistas e intelectuais brasileiros em defesa do(a)",
+   "alternativas": {
+    "a": "ação integralista.",
+    "b": "literatura realista.",
+    "c": "movimento abolicionista.",
+    "d": "política indigenista.",
+    "e": "nacionalismo desenvolvimentista."
+   },
+   "resposta": "c",
+   "explicacao": "Os dois textos convergem no mesmo ponto: Chiquinha Gonzaga atuou “pelo fim da escravatura” e Castro Alves escreveu o maior conjunto de poemas antiescravistas do Romantismo, com Navio negreiro à frente. Ambos usaram a arte como instrumento da campanha abolicionista da segunda metade do século XIX. O integralismo é dos anos 1930, e as demais alternativas apontam para pautas — estética realista, questão indígena, desenvolvimentismo — que nenhum dos dois textos menciona."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "enem-historia-22",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I — O bufarinheiro, conhecido nas cidades por teque-teque, chama-se, nos recônditos da Amazônia, “regatão”. Em lugar de transportar nas costas o mundo de miudezas, transporta-o no bojo de uma gaiola que desloca duas, três, quatro toneladas, divididas em seções de secos e molhados. Cortando comunidades e matas da Amazônia por rios, dentro dessas gaiolas encontram-se os artigos mais díspares, que vão da agulha à espingarda, do lenço ao cobertor, da chita à escova de dentes.\nTEXTO II — No século XIX, o comércio dos regatões era feito com base em relações tecidas com quilombolas, pequenos produtores, comerciantes locais e indígenas, constituindo relação comercial alternativa ao abastecimento da população.",
+   "enunciado": "Como parte do patrimônio cultural da Amazônia, o regatão foi fundamental, no século XIX, para a",
+   "alternativas": {
+    "a": "organização de rotas de fuga na floresta tropical.",
+    "b": "criação de postos de trabalho nos seringais nortistas.",
+    "c": "divulgação de receitas de fármacos nas zonas ribeirinhas.",
+    "d": "construção de redes de sociabilidade no interior brasileiro.",
+    "e": "ampliação de ambientes de lazer nos territórios autóctones."
+   },
+   "resposta": "d",
+   "explicacao": "O segundo texto é explícito quanto ao alcance social do regatão: seu comércio se apoiava em relações com quilombolas, pequenos produtores, comerciantes locais e indígenas. O barco que sobe e desce os rios não leva só mercadoria — leva notícia, contato e vínculo entre povoados isolados, tecendo redes de sociabilidade onde não havia estrada. As demais alternativas atribuem ao regatão funções de fuga, emprego, saúde ou lazer que nenhum dos dois textos menciona."
   }
  ],
  "historia-brasil-republica": [
@@ -54282,6 +54322,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O segundo texto enumera as duas acusações e elas são de naturezas distintas. Uma é econômica e social: o imigrante como concorrente do trabalhador brasileiro e explorador da riqueza local. A outra é ideológica: o estrangeiro como portador do anarquismo e do comunismo, doutrinas ditas alheias à \"índole do povo brasileiro\". A resposta precisa cobrir as duas, e só uma opção faz isso. A leitura religiosa é a armadilha natural — trata-se de judeus —, mas o texto não fundamenta a hostilidade na fé deles. E nada ali se apoia em norma escrita: não há lei, constituição, estatuto, decreto ou regra alfandegária em jogo, e sim desconfiança difundida pela imprensa e pelos círculos políticos."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "enem-historia-13",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Tal qual num exército, não se compreende um efetivo composto apenas de oficiais. Também na saúde pública, os funcionários técnicos graduados necessitam ser assistidos por auxiliares em número suficiente e com preparo adequado, constituído pelas enfermeiras de saúde pública, educadoras ou visitadoras sanitárias, técnicos de laboratório, inspetores ou guardas etc., para não falarmos no pessoal burocrático, não especializado. (Texto de sanitaristas atuantes nas décadas de 1920 e 1930.)",
+   "enunciado": "O texto dos sanitaristas atuantes nas décadas de 1920 e 1930 veicula uma mensagem caracterizada pela",
+   "alternativas": {
+    "a": "higienização moral.",
+    "b": "imposição eugênica.",
+    "c": "assimilação cultural.",
+    "d": "hegemonização identitária.",
+    "e": "hierarquização profissional."
+   },
+   "resposta": "e",
+   "explicacao": "A analogia militar organiza todo o argumento: assim como um exército precisa de praças além de oficiais, o serviço sanitário precisa de auxiliares abaixo dos técnicos graduados. O texto desce a escala inteira — técnicos, enfermeiras, visitadoras, guardas, pessoal burocrático “não especializado” — desenhando uma cadeia de comando. É hierarquização profissional. As alternativas (a) e (b) remetem a pautas do sanitarismo do período, mas nenhuma delas aparece aqui: o trecho trata de organização de pessoal, não de moral nem de raça."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "enem-historia-14",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Com a proximidade do final do século XIX, amplificam-se as expectativas com relação ao século seguinte. Se muitas eram as utopias, talvez uma das mais evidentes tenha se concentrado nas potencialidades da nova ciência, com suas invenções e projetos. Não é por mera coincidência que a agenda do país tenha sido tomada pela introdução de uma série de inventos. De forma acelerada, entraram no Brasil a luz elétrica e, com ela, o telégrafo, o telefone, o cinematógrafo. Na área dos transportes, o trem a vapor é substituído pelo elétrico, que assiste à entrada do automóvel e até do aeroplano.",
+   "enunciado": "No Brasil, os eventos descritos ganharam conotação política ao serem vinculados à",
+   "alternativas": {
+    "a": "expansão estratégica do imperialismo.",
+    "b": "ascensão gradual do mercantilismo.",
+    "c": "laicidade da educação.",
+    "d": "retomada do absolutismo.",
+    "e": "visão republicana de nação."
+   },
+   "resposta": "e",
+   "explicacao": "A data importa: a virada do século XIX para o XX é o início da República, e o novo regime se apresentava como ruptura com o Império “atrasado”. O lema Ordem e Progresso vinha do positivismo, que via na ciência o motor da nação — por isso os bondes, o telefone e a luz elétrica não eram só novidades técnicas, eram provas de que o Brasil republicano se modernizava. Mercantilismo e absolutismo são anacronismos aqui, e a alternativa (c) trata de uma pauta específica que o texto não menciona."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "enem-historia-21",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "No Brasil, os remanescentes de antigos quilombos, “mocambos”, “comunidades negras rurais”, “quilombos contemporâneos”, “comunidades quilombolas” ou “terras de preto” referem-se a um mesmo patrimônio territorial e cultural inestimável, que só recentemente passaram a ter atenção do Estado e ser do interesse de algumas autoridades e organismos oficiais.",
+   "enunciado": "Na esfera de ação do Estado, com a Constituição de 1988, os espaços mencionados tornaram-se objeto de",
+   "alternativas": {
+    "a": "iniciativas de planejamento familiar.",
+    "b": "projetos de reorientação religiosa.",
+    "c": "programas de moradias sustentáveis.",
+    "d": "políticas de inserção social.",
+    "e": "medidas de homogeneização educacional."
+   },
+   "resposta": "d",
+   "explicacao": "A Constituição de 1988 reconheceu no artigo 68 do ADCT o direito das comunidades remanescentes de quilombos à titulação definitiva de suas terras, e no artigo 216 tratou seus bens como patrimônio cultural brasileiro. Trata-se de reparação histórica: grupos antes ignorados pelo Estado passam a ter direitos territoriais e culturais assegurados — políticas de inserção social. A alternativa (e) descreve o oposto do que a Constituição fez, já que ela garantiu educação diferenciada, e a (b) contradiz a própria liberdade religiosa que o texto constitucional assegura."
   }
  ],
  "historia-geral-contemporanea": [
@@ -57085,6 +57185,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A península foi partida em 1948 ao longo da fronteira entre os dois blocos da Guerra Fria, e o texto explicita o eixo: o Sul transmite \"noticiário crítico ao vizinho comunista\", o Norte responde com discursos contra Seul. Quem ergue os mastros e opera os alto-falantes são governos, não grupos sociais — daí \"agentes estatais\". O erro dos distratores está sempre no ator ou na natureza da disputa. Coreanos do Norte e do Sul são o mesmo povo, com a mesma língua e a mesma origem étnica, o que descarta tanto a leitura étnico-racial quanto a de identidades culturais rivais. E nem empresas privadas nem entidades ambientais aparecem no episódio."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "enem-historia-19",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional.",
+   "enunciado": "Qual foi o efeito social resultante do avanço tecnológico mencionado no texto?",
+   "alternativas": {
+    "a": "O afastamento da autoridade médica na regulação da fecundidade.",
+    "b": "A superação do discurso da moralidade pela ação da mídia estatal.",
+    "c": "A ampliação do debate público sobre o planejamento familiar.",
+    "d": "A centralização da pesquisa científica pelo sistema privado de saúde.",
+    "e": "O enrijecimento das doutrinas religiosas sobre a organização da vida doméstica."
+   },
+   "resposta": "c",
+   "explicacao": "A pílula tornou possível separar sexualidade de reprodução e decidir quando ter filhos — um assunto até então restrito à esfera privada. O texto situa sua chegada em meio ao debate neomalthusiano sobre crise demográfica, o que empurrou a questão para a arena pública: quantos filhos ter passou a ser tema de política, imprensa e igreja. A alternativa (a) inverte o efeito, já que a prescrição médica ampliou a presença do médico; a (e) fala em enrijecimento doutrinário, mas o processo descrito é de abertura do debate, não de fechamento."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "enem-historia-23",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Era uma vez um país, uma cidade, uma praça, algumas mães... Las Madres de Plaza de Mayo! Silenciosas, com lenços brancos na cabeça, rondavam a Praça de Maio. Incansáveis, caminharam por dias, meses, anos. Foram chamadas de loucas. Em silêncio, criaram um fato político, escancararam as entranhas da repressão, desafiaram o aparato militar e suas dores ecoaram pelo mundo. Era impossível ignorá-las, estavam lá, sempre em silêncio, mas estavam lá.",
+   "enunciado": "Qual problema de âmbito nacional argentino o movimento social mencionado expôs ao mundo?",
+   "alternativas": {
+    "a": "Violação dos direitos humanos.",
+    "b": "Insegurança da juventude periférica.",
+    "c": "Naturalização da violência doméstica.",
+    "d": "Ampliação das desigualdades sociais.",
+    "e": "Relativização dos princípios democráticos."
+   },
+   "resposta": "a",
+   "explicacao": "As Madres de Plaza de Mayo circulavam diante da Casa Rosada exigindo notícias dos filhos desaparecidos durante a ditadura militar argentina (1976-1983). O texto diz que elas “escancararam as entranhas da repressão” e desafiaram o aparato militar: o que denunciaram foram sequestros, tortura e desaparecimentos forçados — violação de direitos humanos, e essa denúncia atravessou a fronteira. As demais alternativas tratam de problemas sociais reais, mas nenhum deles é o que as Madres expuseram."
   }
  ],
  "historia-geral-moderna": [
@@ -58325,6 +58465,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O próprio texto entrega o vínculo ao citar a construção naval entre os grandes consumidores de madeira, e os séculos XV e XVI são justamente aqueles em que Portugal e Espanha montam frotas oceânicas. Cada nau saía de centenas de árvores, e o esforço se repetia a cada viagem — daí a pressão sobre a floresta. As outras opções são movimentos do mesmo período que não consomem madeira: Renascimento e Reforma são fenômenos culturais e religiosos, e a centralização política é uma reorganização do poder. A manutenção do feudalismo, além disso, contradiz a premissa do texto, que descreve exatamente o desmoronamento das estruturas medievais."
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "enem-historia-15",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O bispo Bartolomeu de Las Casas é o homem mais odiado da América, o anti-Cristo dos senhores, o açoite destas terras. Por sua culpa, o imperador promulgou novas leis que despojam de escravos índios os filhos dos conquistadores. O que será deles sem os braços que os sustentam nas minas e nas lavouras? As novas leis estão arrancando a comida de suas bocas. Las Casas é o homem mais amado da América. Voz dos mudos, teimoso defensor dos que recebem pior tratamento que o esterco das praças, denunciador de quem por cobiça converte Jesus Cristo no mais cruel dos deuses e o rei em lobo faminto de carne humana.",
+   "enunciado": "Os diferentes pontos de vista presentes no texto expressam que o bispo era, ao mesmo tempo,",
+   "alternativas": {
+    "a": "execrado pelos reis e reverenciado pelos religiosos do local.",
+    "b": "detestado pelos colonizadores e respeitado pelos povos do lugar.",
+    "c": "menosprezado pela colônia e idolatrado pelos governantes da região.",
+    "d": "desrespeitado pela metrópole e adorado pelos invasores da Espanha.",
+    "e": "desacatado pelos excluídos e valorizado pelos negociantes de negros."
+   },
+   "resposta": "b",
+   "explicacao": "O texto de Galeano é construído em dois blocos opostos. No primeiro, quem odeia Las Casas são “os senhores” e “os filhos dos conquistadores”, prejudicados pelas Leis Novas que lhes tiraram os indígenas escravizados. No segundo, quem o ama são “os mudos”, os que recebem pior tratamento que o esterco — os povos originários. Ou seja: detestado pelos colonizadores, respeitado pelos povos do lugar. As demais alternativas trocam os dois polos, colocando reis, metrópole ou negociantes num dos lados que o texto atribui a outro grupo."
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "enem-historia-16",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A valsa vienense é a mais antiga das danças de salão tradicional. É dançada desde a Idade Média, quando os pares davam voltas pelo salão realizando giros em torno de si mesmos em postura fechada. Pelo fato de ser dançada aos pares em contato íntimo, a valsa encantava a sociedade medieval, como também sofria proibições por infringir os “bons costumes”. Originária das danças campestres e folclóricas, no século XVI, a aristocracia francesa abandonou a valsa por sua estreita relação com a cultura plebeia, retomando-a posteriormente.",
+   "enunciado": "A expressão cultural descrita no texto foi rejeitada no início da Idade Moderna por congregar",
+   "alternativas": {
+    "a": "traços advindos da feitiçaria nórdica.",
+    "b": "práticas inspiradas em rituais pagãos.",
+    "c": "regras decorrentes do período renascentista.",
+    "d": "compassos produzidos em territórios colonizados.",
+    "e": "elementos provenientes de segmentos populares."
+   },
+   "resposta": "e",
+   "explicacao": "O próprio texto dá a razão do abandono no século XVI: a aristocracia francesa afastou-se da valsa “por sua estreita relação com a cultura plebeia”. A dança vinha das festas campestres e folclóricas, e associar-se a ela borrava a distinção social que a nobreza fazia questão de manter. As alternativas (a) e (b) apelam a motivos religiosos que o texto não levanta, a (d) a uma origem colonial inexistente, e a (c) inverte a lógica: o Renascimento não é motivo de rejeição, é o contexto em que ela ocorre."
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "enem-historia-20",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Os salões permitiam aos escritores da época do Iluminismo adentrar no universo dos poderosos. Figuras como as de Voltaire e Duclos exortavam seus “irmãos” a aproveitarem da mobilidade que era oferecida pela ordem social do Antigo Regime, juntando-se à elite. Nos últimos decênios do Ancien Régime, ele foi se tornando cada vez mais o reduto dos filósofos do Alto Iluminismo, que deixavam os cafés para os tipos inferiores de literário. Com efeito, os cafés se constituíram na antítese lógica dos salões. Eles eram abertos a todos, a um passo da rua. Como é possível constatar, salões e cafés constituem interessantes instituições do espaço público literário através das quais é possível vislumbrar as bases sociais nas quais se assentavam o Alto e o Baixo Iluminismo.",
+   "enunciado": "No período iluminista, os espaços sociais mencionados contribuíram para",
+   "alternativas": {
+    "a": "segregar pensadores e aumentar a circulação de ideias.",
+    "b": "apoiar revolucionários e perseguir a nobreza local.",
+    "c": "rejeitar poetisas e proibir a entrada de mulheres.",
+    "d": "censurar cronistas e coibir o patrocínio editorial.",
+    "e": "integrar artistas e ampliar o comércio urbano."
+   },
+   "resposta": "a",
+   "explicacao": "Habermas descreve dois efeitos simultâneos, e a resposta precisa conter os dois. Separação: o salão vira reduto do Alto Iluminismo e o café fica com os “tipos inferiores de literário” — os pensadores se dividem por origem social. Difusão: ambos são instituições do espaço público literário, onde as ideias circulam, e o café é aberto a todos, “a um passo da rua”. Segregar pensadores e ao mesmo tempo aumentar a circulação de ideias não é contradição, é exatamente o quadro que o texto pinta. As demais alternativas atribuem aos espaços funções de perseguição ou censura que ele não descreve."
   }
  ],
  "historia-geral-antiga-medieval": [
@@ -59555,6 +59755,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O texto se organiza em torno de um \"no entanto\": a regra oficial mandava adotar o quéchua e cultuar o Sapa Inca e o Sol, mas na prática os povos submetidos seguiam adorando seus próprios deuses e falando suas línguas. O culto imperial era somado ao local, não posto no lugar dele — é a flexibilidade religiosa que o enunciado pede. Note que o texto NÃO é flexível nos outros dois pontos: o tributo em horas de trabalho é apresentado como obrigação sem exceção, o que derruba as opções sobre regime tributário e normas laborais. E direitos humanos é categoria de outra época, estranha ao mundo andino anterior à chegada dos espanhóis."
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "enem-historia-17",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As instituições que a Idade Média nos legou são de um valor maior e mais imperecível do que suas catedrais. E a universidade é nitidamente uma instituição medieval — tanto quanto a monarquia constitucional, ou os parlamentos, ou o julgamento por meio do júri. As universidades e os produtos imediatos das suas atividades constituem a grande realização da Idade Média na esfera intelectual.",
+   "enunciado": "De acordo com o texto, o legado das universidades medievais torna-se um relevante patrimônio histórico-cultural por",
+   "alternativas": {
+    "a": "adotar currículo e método padronizado.",
+    "b": "rejeitar ideologias e costumes orientais.",
+    "c": "possuir organização e função mercantil.",
+    "d": "transmitir técnicas e valores ecumênicos.",
+    "e": "agregar tradição e conhecimento científico."
+   },
+   "resposta": "e",
+   "explicacao": "O argumento do autor é que a universidade vale mais que as catedrais porque é instituição viva, ao lado do parlamento e do júri: ela atravessa os séculos preservando um modo de produzir e transmitir saber. Esse legado une continuidade — a tradição de estudo herdada da Antiguidade e conservada nos mosteiros — com a construção de conhecimento próprio, o que a alternativa (e) resume. A (c) atribui à universidade uma função comercial que ela não tinha, e a (b) uma rejeição ao Oriente que contradiz a história: foi por tradutores árabes que Aristóteles voltou ao Ocidente."
   }
  ],
  "geografia-populacao-urbana": [
@@ -61679,6 +61899,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Plantar na cidade exige chão, e o chão que a cidade tem sobrando é o terreno baldio, a laje, o canteiro abandonado, a faixa sob a linha de transmissão. A horta dá função a esses vazios, e essa é a vantagem propriamente urbana da prática — as outras (comida mais fresca, cadeia mais curta) são vantagens alimentares, não espaciais. Os distratores descrevem o contrário do que o texto conta: a horta não adensa a área central, ela ocupa vazios; a produção é local e vai para quem mora perto, o oposto do mercado externo; e a agricultura urbana comunitária tende ao cultivo agroecológico em pequena escala, sem insumo químico pesado nem maquinário."
+  },
+  {
+   "subtema": "geografia-populacao-urbana",
+   "id": "enem-geografia-16",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Espaços públicos não são produtos dados e acabados, uma instituição que, uma vez estabelecida, traria a paz da consensualidade e a perfeita igualdade. São os lugares em que os problemas aparecem e se transformam em debates, em diálogo e em possibilidade de ajuste e compromissos. Por isso, não anulam os conflitos, ao contrário, são canais de comunicação e de visibilidade de oposições.",
+   "enunciado": "As características descritas no texto exibem a importância dos espaços públicos para a",
+   "alternativas": {
+    "a": "prática do lazer.",
+    "b": "vigilância da sociedade.",
+    "c": "erradicação da violência.",
+    "d": "construção da democracia.",
+    "e": "diversificação do trabalho."
+   },
+   "resposta": "d",
+   "explicacao": "O argumento do texto é que o valor do espaço público não está em produzir consenso, e sim em dar visibilidade ao dissenso: ali o conflito aparece, vira debate e pode virar acordo. Essa é a descrição do funcionamento democrático, que se sustenta na possibilidade de manifestar oposição publicamente. A alternativa (c) contradiz o texto, que diz explicitamente que os espaços públicos não anulam conflitos; a (a) e a (e) reduzem o espaço público a funções específicas que o texto não discute."
+  },
+  {
+   "subtema": "geografia-populacao-urbana",
+   "id": "enem-geografia-20",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Cada objeto é, em si mesmo, um sistema funcionando sistemicamente. Um grande supermercado ou shopping center seria incapaz de existir se não fossem servidos por vias rápidas, estacionamentos adequados e acessíveis, sistemas de transportes públicos com horários regulares e conhecidos e se, no seu próprio interior, as atividades não estivessem subordinadas a uma coordenação. Esse é o caso dos armazéns, dos silos etc. Os portos, a rede rodoviária de um país e, sobretudo, a rede ferroviária são exemplos de objetos complexos e sistêmicos.",
+   "enunciado": "De acordo com o texto, o território torna-se cada vez mais dotado de objetos com a finalidade de intensificar a",
+   "alternativas": {
+    "a": "desindustrialização da economia.",
+    "b": "desregulamentação do mercado.",
+    "c": "concentração da produção.",
+    "d": "distribuição de renda.",
+    "e": "dinamização dos fluxos."
+   },
+   "resposta": "e",
+   "explicacao": "Todos os exemplos de Milton Santos — vias rápidas, transporte público, portos, rodovias, ferrovias — são infraestruturas de circulação. Os objetos técnicos instalados no território existem para que mercadorias, pessoas e informações se movam com mais rapidez e regularidade: é a velha dupla do autor, os fixos que servem aos fluxos. As alternativas (a) e (b) tratam de processos econômicos que o texto não menciona, e as (c) e (d) confundem circulação com localização da produção ou com repartição de riqueza."
+  },
+  {
+   "subtema": "geografia-populacao-urbana",
+   "id": "enem-geografia-23",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "A mudança do clima nas cidades brasileiras é um desafio de adaptação e equidade. Inundações, alagamentos e ondas de calor são cada vez mais frequentes e intensas. Cidades precisam se adaptar com urgência, a começar pelas áreas e populações mais vulneráveis. Implementar soluções baseadas na natureza de forma sistêmica pode contribuir para a redução de desastres relacionados às mudanças do clima e ainda gerar múltiplos benefícios para a economia, o ambiente e as pessoas.",
+   "enunciado": "Qual medida atenua os problemas abordados no texto?",
+   "alternativas": {
+    "a": "Criação de faixas sinalizadoras.",
+    "b": "Incineração de resíduos sólidos.",
+    "c": "Implantação de parques públicos.",
+    "d": "Verticalização de espaços centrais.",
+    "e": "Construção de estacionamentos privados."
+   },
+   "resposta": "c",
+   "explicacao": "O texto pede soluções baseadas na natureza para dois problemas: alagamento e onda de calor. Um parque público resolve os dois de uma vez — o solo permeável infiltra a água da chuva em vez de mandá-la para a galeria, e a vegetação sombreia e resfria por evapotranspiração, atenuando a ilha de calor. As alternativas (d) e (e) fazem o oposto, impermeabilizando o solo e concentrando calor; a (b) trata de resíduos, e a (a) é medida de trânsito."
   }
  ],
  "geografia-fisica-clima": [
@@ -63282,6 +63562,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Os três cenários das simulações são definidos por níveis de aquecimento, e o aquecimento é função da concentração de gases de efeito estufa na atmosfera. Atacar a causa significa, portanto, reduzir a emissão de carbono — é o que define o próprio cenário em que o planeta vai parar. Duas alternativas agravariam o quadro: transporte marítimo e termoelétricas queimam combustível fóssil e emitem mais. O deslocamento forçado de populações é consequência da mudança do clima, não instrumento contra ela. E o vulcanismo, embora emita gases, é fonte natural de contribuição pequena diante da queima de fósseis — monitorá-lo produz aviso, não redução."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "enem-geografia-13",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I — Um terremoto de magnitude 5,9 atingiu a cidade de Valparaíso, na costa chilena. O terremoto ocorreu a uma profundidade de 112 quilômetros.\nTEXTO II — Um tremor de terra de magnitude 4,8 foi registrado no município de Atalaia do Norte, no interior do estado do Amazonas. O abalo é de magnitude considerada mediana para os níveis do Brasil. Os eventos dessa região costumam ser resultado das atividades da placa de Nazca.\nTEXTO III — Moradores usaram as redes sociais para relatar tremores de terra no interior de São Paulo. As atividades foram registradas nas cidades de Júlio Mesquita e Guaimbê e tiveram magnitude 3,0 na escala Richter, o que é considerado pequeno e sem previsão de danos.",
+   "enunciado": "As diferenças entre os eventos geológicos relatados decorrem de distintas posições geográficas das cidades em relação a:",
+   "alternativas": {
+    "a": "Planícies costeiras.",
+    "b": "Bacias continentais.",
+    "c": "Zonas de subducção.",
+    "d": "Áreas de denudação.",
+    "e": "Vertentes escarpadas."
+   },
+   "resposta": "c",
+   "explicacao": "Os três abalos perdem intensidade conforme se afastam do mesmo ponto: a borda onde a placa de Nazca mergulha sob a placa Sul-Americana, na costa do Pacífico. Valparaíso está sobre a zona de subducção e registra 5,9; Atalaia do Norte, no Amazonas, sente 4,8 como reflexo distante da mesma atividade — o texto II diz isso com todas as letras; e o interior paulista, ainda mais afastado, apenas 3,0. As demais alternativas descrevem feições de superfície (planícies, escarpas, áreas de erosão) que não geram sismos."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "enem-geografia-15",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um estudo compara dois tipos de inundação. A inundação gradual tem velocidade lenta de elevação das águas e longa duração, prolongando-se por dias ou semanas. A inundação brusca, ou enxurrada, tem velocidade rápida e curta duração, esgotando-se em horas.",
+   "enunciado": "A desproporção de velocidade e tempo de duração nos tipos de inundação destacados é condicionada pela",
+   "alternativas": {
+    "a": "variabilidade solar anual.",
+    "b": "temperatura média mensal.",
+    "c": "declividade do relevo local.",
+    "d": "dinâmica tectônica regional.",
+    "e": "gradação da turbidez fluvial."
+   },
+   "resposta": "c",
+   "explicacao": "A força que move a água encosta abaixo é a gravidade, e quanto maior a inclinação do terreno, maior a velocidade do escoamento. Em relevo íngreme a água desce rápido, concentra-se no fundo do vale e escoa depressa: é a enxurrada, violenta e curta. Em relevo plano, o escoamento é lento, a água se espalha e demora a baixar: é a inundação gradual. Radiação solar, temperatura e turbidez influenciam o ciclo hidrológico, mas não determinam a velocidade do escoamento; e a tectônica atua em escala de tempo geológica."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "enem-geografia-19",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I — Uma única árvore joga entre 300 e 1 000 litros de água por dia para a atmosfera. Considerando a demanda mínima que uma pessoa consome de água, ou seja, 120 litros por dia, uma única árvore pode ser capaz de produzir água para até oito pessoas.\nTEXTO II — A Amazônia perdeu diariamente uma área de floresta maior do que 4 mil campos de futebol apenas em setembro de 2021. Em todo o mês, foram devastados 1 224 km², o que corresponde ao tamanho da cidade do Rio de Janeiro e é a pior marca para setembro em 10 anos.",
+   "enunciado": "Para a região amazônica, a relação entre as informações dos textos indica uma redução do(a)",
+   "alternativas": {
+    "a": "circulação de ventos alísios.",
+    "b": "aquecimento dos solos locais.",
+    "c": "média de temperatura oceânica.",
+    "d": "índice de refletividade superficial.",
+    "e": "intensidade de chuvas convectivas."
+   },
+   "resposta": "e",
+   "explicacao": "O primeiro texto quantifica a evapotranspiração: cada árvore devolve centenas de litros de água à atmosfera todo dia. O segundo mostra a floresta sendo derrubada em ritmo acelerado. Menos árvores significam menos vapor no ar e, portanto, menos chuva convectiva — aquela que se forma quando o ar úmido e aquecido sobe, condensa e precipita ali mesmo. É o mecanismo que sustenta os “rios voadores”. A alternativa (b) inverte o efeito: solo desnudo esquenta mais, não menos; e a (d) também, já que retirar a floresta aumenta o albedo da superfície."
   }
  ],
  "geografia-agraria-economica": [
@@ -65248,6 +65588,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O autor faz questão de deslocar a culpa: a soja participa, mas não é o fator principal; o motor é o tripé grileiros, madeireiros e pecuaristas. E quem abre a sequência é o grileiro — aquele que se apossa de terra pública sem título, em geral área devoluta, e a converte em propriedade com documento falso. É essa apropriação que põe o resto em movimento, porque cria o ativo que os mercados especuladores negociam. As demais opções são problemas reais da região, mas nenhuma é apontada no texto: não há menção a imposto, a exportação, a desoneração de setor nem a mudança na lei ambiental. A palavra que o autor usa é grileiro, e grilagem é tomada de terra."
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "enem-geografia-18",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A internet fortalece o engajamento e a visibilidade de populações tradicionais e indígenas por meio de redes sociais, rádios e veículos de mídia digital. Ela também promove a criação e o fortalecimento de mercados e a inovação nos sistemas de financiamento, integrando pequenos agricultores e produtores da comunidade florestal a cadeias de abastecimento maiores.",
+   "enunciado": "A adoção da tecnologia mencionada amplia a rentabilidade das comunidades citadas, ao possibilitar o(a):",
+   "alternativas": {
+    "a": "Valorização da economia local.",
+    "b": "Elaboração de projetos culturais.",
+    "c": "Estabelecimento de regras comerciais.",
+    "d": "Incremento da infraestrutura educacional.",
+    "e": "Homogeneização da qualificação profissional."
+   },
+   "resposta": "a",
+   "explicacao": "O enunciado pergunta especificamente por rentabilidade, e o texto explica de onde ela vem: a conexão integra pequenos agricultores e produtores florestais a cadeias de abastecimento maiores, eliminando intermediários e abrindo mercados antes inacessíveis. O produto local passa a alcançar preço melhor — é a economia local que se valoriza. As demais alternativas citam efeitos possíveis da internet (cultura, educação, normas), mas nenhum deles explica ganho de renda para a comunidade."
   }
  ],
  "geografia-geopolitica": [
@@ -66535,6 +66895,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Milton Santos separa concorrência de competitividade pelo respeito às regras: na primeira há limites aceitos, na segunda \"a única regra é a conquista da melhor posição\". A prática que encarna essa segunda lógica é o dumping — vender abaixo do custo para quebrar o concorrente e, eliminado ele, dominar o mercado. É guerra econômica em que tudo vale, exatamente o que o autor condena. As outras opções descrevem arranjos empresariais legais e moralmente neutros (fusão administrativa, holding, modernização industrial), e uma delas anda no sentido contrário ao da crítica: limitar o mercado monopolista é impor regra à disputa, não afrouxá-la."
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "enem-geografia-21",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O que alicerça, portanto, o acolhimento de refugiados pelos Estados gira em torno da fronteira erguida entre inclusão e exclusão, admissão e rejeição, desejáveis e indesejáveis; ao mesmo tempo, enseja vulnerabilidade, indefinição e incerteza a esses migrantes internacionais forçados.",
+   "enunciado": "A eliminação, para os refugiados, do tipo de fronteira descrita no texto necessita de políticas públicas de",
+   "alternativas": {
+    "a": "planejamento familiar.",
+    "b": "segregação territorial.",
+    "c": "homogeneização cultural.",
+    "d": "diferenciação étnico-racial.",
+    "e": "integração socioeconômica."
+   },
+   "resposta": "e",
+   "explicacao": "A fronteira de que o texto fala não é a linha no mapa: é a que separa incluídos de excluídos dentro do próprio país de acolhida. Derrubá-la exige garantir ao refugiado acesso a trabalho, moradia, saúde e educação — integração socioeconômica. As alternativas (b) e (d) reforçariam a separação em vez de eliminá-la, e a (c) propõe apagar a identidade de origem, o que é assimilação forçada e não integração; integrar não exige uniformizar."
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "enem-geografia-24",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O Conselho de Segurança da Organização das Nações Unidas (ONU) é, junto com a Assembleia-Geral, um dos principais órgãos de tomada de decisão dentro da entidade. O Conselho lida com questões de segurança e paz internacionais, além de recomendar a admissão de novos membros à Assembleia-Geral e aprovar mudanças na Carta das Nações Unidas. Cinco dos quinze membros são permanentes e podem vetar resoluções, o que ocorreu 261 vezes até 2020.",
+   "enunciado": "A composição e o funcionamento do organismo internacional apresentados revelam a seguinte característica das relações internacionais entre os países-membros:",
+   "alternativas": {
+    "a": "Igualdade militar.",
+    "b": "Assimetria política.",
+    "c": "Consenso multipolar.",
+    "d": "Equilíbrio estratégico.",
+    "e": "Soberania compartilhada."
+   },
+   "resposta": "b",
+   "explicacao": "Cinco países entre quinze são permanentes e sozinhos podem barrar qualquer resolução, poder que os outros dez não têm — e o número de 261 vetos mostra que essa prerrogativa é usada. Peso desigual na decisão é assimetria política, herança da configuração de poder de 1945. A alternativa (c) é contraditada pelo próprio veto, que dispensa consenso, e a (e) descreve arranjos como o da União Europeia, em que Estados cedem competências, o que não é o caso do Conselho."
   }
  ],
  "geografia-ambiente-sustentabilidade": [
@@ -67788,6 +68188,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Retirada a cobertura vegetal, a chuva leva embora a camada superficial — justamente a que concentra a matéria orgânica e os nutrientes. Sem esse horizonte, o solo perde a capacidade de sustentar as plantas que o refariam, e a degradação se fecha num círculo: é a perda de fertilidade que trava a recuperação. Três alternativas descrevem melhoras, e um solo em degradação não melhora: mais biomassa, menos salinização e mais microfauna são sinais de solo saudável, e a irrigação excessiva citada no texto aumenta a salinização em vez de reduzi-la. A decomposição do substrato, por sua vez, troca o processo pelo objeto: o que se decompõe e se perde é a matéria orgânica, não a rocha que dá origem ao solo."
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "enem-geografia-14",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O rompimento da barragem de Fundão levou muito consigo. A lama soterrou sonhos e modificou de forma permanente centenas de vidas nascidas e criadas em Bento Rodrigues e Paracatu, em Mariana (MG). Mas não somente. Ao se estender ao longo do rio, outras famílias e histórias foram atingidas de formas diferentes. Ao fugirem dos rejeitos que rapidamente tomaram as localidades, deixaram para trás os resquícios da vida que tiveram até o 5 de novembro de 2015. Nada jamais seria igual.",
+   "enunciado": "Conforme o texto, o evento gerou o seguinte impacto na relação entre as pessoas e o seu espaço vivido:",
+   "alternativas": {
+    "a": "Flexibilização de parâmetros ambientais.",
+    "b": "Consolidação de identidades regionais.",
+    "c": "Fragilização de vínculos afetivos.",
+    "d": "Supressão de práticas exploratórias.",
+    "e": "Recuperação de tradições ancestrais."
+   },
+   "resposta": "c",
+   "explicacao": "O texto não fala de perdas materiais: fala de sonhos soterrados, de vidas “nascidas e criadas” num lugar, de resquícios deixados para trás. Isso é o espaço vivido — o lugar carregado de memória e pertencimento — sendo destruído junto com as casas. Romper esse laço é fragilizar vínculos afetivos. As alternativas (b) e (e) apontam para o oposto do que o texto descreve, e as (a) e (d) tratam de regulação e atividade mineradora, não da relação entre as pessoas e o lugar."
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "enem-geografia-17",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Há experiências de lutas sociais de reapropriação cultural da natureza que são movimentos emblemáticos, como a dos seringueiros no Brasil, que da luta sindical para a comercialização da borracha chegaram a inventar o conceito de reserva extrativista e estão avançando para um novo modo de produção, uma nova racionalidade produtiva, mostrando que é possível viver bem, e não apenas sobreviver, em harmonia com a natureza que habitam. O novo planeta que podemos imaginar é feito desses territórios produtivos que não são apenas economias de autossubsistência mas economias que potencializam a produtividade ecológica de seus territórios.",
+   "enunciado": "O texto expõe a possibilidade de uma nova racionalidade produtiva por meio de uma gestão territorial que se baseia na",
+   "alternativas": {
+    "a": "integração de mercados regidos por pressões regionais.",
+    "b": "conexão de valores fundamentados por decisões locais.",
+    "c": "unificação de preços delimitados por demandas nacionais.",
+    "d": "normatização de regras construídas por instituições mundiais.",
+    "e": "valorização de tradições orientadas por determinações globais."
+   },
+   "resposta": "b",
+   "explicacao": "A reserva extrativista não foi criada por decreto de fora: o texto diz que os próprios seringueiros a inventaram, partindo da luta sindical. A racionalidade produtiva nasce do conhecimento e dos valores de quem habita o território, e é a comunidade local que decide como usá-lo. As alternativas (d) e (e) invertem essa direção, atribuindo o comando a instituições mundiais ou a determinações globais; as (a) e (c) reduzem a experiência a uma questão de mercado e preço, quando o texto fala de modo de produção."
   }
  ],
  "geografia-cartografia": [
@@ -69225,6 +69665,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Portulanos são as cartas náuticas dos séculos XIV a XVII, cobertas por linhas de rumo que partem de rosas dos ventos e desenhadas para uso com bússola — feitas para navegar, e não para ilustrar. As demais opções são mapas de outra natureza ou de outro tempo. Os mapas T-O e os Psalter são medievais e simbólicos: organizam o mundo em torno de Jerusalém, sem qualquer utilidade prática para uma frota. Os ptolomaicos vêm da Antiguidade e foram redescobertos no Renascimento, mas descrevem o mundo conhecido em coordenadas, sem as linhas de rumo da navegação costeira. E a projeção de Peters é do século XX, uma resposta política à distorção de áreas na projeção de Mercator."
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "enem-geografia-22",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A finalidade mais marcante em toda a história dos mapas, desde o seu início, teria sido a de estarem sempre voltados à prática, principalmente a serviço da dominação, do poder. Sempre registraram o que mais interessava a uma minoria, fato este que acabou estimulando o incessante aperfeiçoamento deles.",
+   "enunciado": "No texto, a cartografia é apresentada como um instrumento usado essencialmente para a",
+   "alternativas": {
+    "a": "preservação de espaços naturais.",
+    "b": "emancipação de sujeitos marginais.",
+    "c": "revalorização de culturas reprimidas.",
+    "d": "inversão de hierarquias estabelecidas.",
+    "e": "sustentação de hegemonias territoriais."
+   },
+   "resposta": "e",
+   "explicacao": "O texto afirma duas coisas: o mapa serve à dominação e registra o que interessa a uma minoria. Mapear é escolher o que aparece e o que some, e essa escolha reflete e reforça quem manda sobre o território — daí a cartografia sustentar hegemonias. As alternativas (b), (c) e (d) descrevem usos contra-hegemônicos do mapa, que existem hoje na cartografia social, mas são justamente o contrário do que o autor aponta como a finalidade histórica dominante."
   }
  ],
  "filosofia-politica": [
@@ -70407,6 +70867,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Foucault não descreve um sistema que combate o crime; descreve um sistema que o administra de modo diferente conforme quem o comete. A mesma ilegalidade se bifurca: roubo vai para o tribunal comum e recebe castigo, enquanto fraude e sonegação vão para jurisdições especiais e terminam em acordo e multa atenuada. Isso é gestão das ilicitudes — o judiciário distribui rigor e tolerância segundo a classe. Por isso as demais não servem: o modelo é o contrário de equânime, não suprime o crime (ele o organiza), e não realiza justiça social nenhuma. A última troca o critério de classe, que é o do texto, por hierarquia cultural, que não aparece."
+  },
+  {
+   "subtema": "filosofia-politica",
+   "id": "enem-filosofia-sociologia-32",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "A democracia responde a esta pergunta: quem deve exercer o poder público? A resposta é: o exercício do poder público corresponde à coletividade dos cidadãos. Contudo, nessa pergunta não se fala sobre qual extensão deva ter o poder público. Trata-se somente de determinar o sujeito a quem o mando compete. A democracia propõe que mandemos todos; quer dizer, que todos intervenham nos fatos sociais. (Texto escrito na década de 1920.)",
+   "enunciado": "O que sustenta o exercício do poder, conforme a configuração apresentada no texto escrito na década de 1920?",
+   "alternativas": {
+    "a": "Soberania popular.",
+    "b": "Divisão de classes.",
+    "c": "Acúmulo de capital.",
+    "d": "Defesa da propriedade.",
+    "e": "Centralização administrativa."
+   },
+   "resposta": "a",
+   "explicacao": "Ortega y Gasset separa duas perguntas e responde só a primeira: quem manda. A resposta é a coletividade dos cidadãos — “que mandemos todos”. Poder que emana do conjunto dos cidadãos é soberania popular, princípio que a Constituição brasileira repete no parágrafo único do artigo 1º. A alternativa (e) é o contrário de distribuir o mando, e as (b), (c) e (d) situariam a origem do poder em classe, riqueza ou propriedade, precisamente o que a definição do texto exclui."
   }
  ],
  "filosofia-etica-moral": [
@@ -71601,6 +72081,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Gerineldo inventariou todas as possibilidades e dorme: para ele o futuro já está escrito nos coeficientes e nas linhas do termômetro, e nada lhe resta fazer. Sartre chama de transcendência justamente o movimento contrário — o sujeito ultrapassa a situação dada, e \"a minha liberdade sem limites\" é o que faz existir a facticidade como situação, e não como destino. Conformar-se com o inventário é negar essa superação. As alternativas restantes trazem conceitos de outras tradições e nenhum deles está em jogo: o inconsciente é da psicanálise, a evolução biológica é da ciência natural, e o texto não discute nem a brevidade da vida nem a difusão do conhecimento."
+  },
+  {
+   "subtema": "filosofia-etica-moral",
+   "id": "enem-filosofia-sociologia-21",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I — Aristóteles entendia que a felicidade era diretamente ligada ao respeito pela própria natureza. Isso lhe permitiu formular o conceito de excelência: seria, justamente, ao longo da vida, tirar de si mesmo, em forma de performance, de conduta, de comportamento, de disposição, o que a natureza permitiria de melhor.\nTEXTO II — A noção de eudaimonia é central para a ética aristotélica. A eudaimonia é uma atividade e não um estado psicológico, pois é definida na Ética a Nicômaco como uma atividade da alma com base na virtude moral. A virtude moral é definida em termos de uma disposição diretamente ligada à deliberação, o que o leva a estudar a virtude intelectual que opera em seu interior, isto é, a prudência.",
+   "enunciado": "Os textos indicam que a prática de ações virtuosas, sempre efetivada na pólis, ocorre por meio do(a)",
+   "alternativas": {
+    "a": "teoria das formas essenciais.",
+    "b": "identificação dos princípios racionais.",
+    "c": "desenvolvimento das técnicas retóricas.",
+    "d": "aperfeiçoamento das condutas humanas.",
+    "e": "conhecimento das epistemes verdadeiras."
+   },
+   "resposta": "d",
+   "explicacao": "Os dois textos insistem que a virtude aristotélica é prática, não contemplativa: o primeiro fala em tirar de si o melhor “ao longo da vida”, em forma de conduta e disposição; o segundo define a eudaimonia como atividade, e não estado. Virtude, para Aristóteles, é hábito conquistado pela repetição de boas ações e pela deliberação prudente — ou seja, aperfeiçoamento da conduta. A alternativa (a) remete à teoria das formas, que é platônica e que Aristóteles rejeita; as (b) e (e) reduzem a ética a conhecimento teórico, exatamente o que os textos negam."
+  },
+  {
+   "subtema": "filosofia-etica-moral",
+   "id": "enem-filosofia-sociologia-27",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A pessoa com deficiência de qualquer modalidade — seja visual, auditiva, física ou mental — encontra-se em uma posição de grande vulnerabilidade em relação às pessoas sem deficiência, sendo frequentemente marcante a assimetria das relações de poder na interação entre ambas. Tal assimetria de relação hierárquica é multiplicada conforme a severidade de cada caso, sendo ampliada se a pessoa com necessidades especiais pertencer a um outro grupo de risco, por exemplo, se for mulher ou criança.",
+   "enunciado": "A realidade abordada no texto indica a necessidade de se promover uma ética interpessoal centrada no",
+   "alternativas": {
+    "a": "cuidado, proteção e valorização dos indivíduos.",
+    "b": "entendimento, perdão e tolerância dos responsáveis.",
+    "c": "cerceamento, arregimentação e controle de entidades.",
+    "d": "regramento, legislação e responsabilização de culpados.",
+    "e": "ensimesmamento, interiorização e indulgência dos agentes."
+   },
+   "resposta": "a",
+   "explicacao": "O texto descreve vulnerabilidade e assimetria de poder que se acumulam quando a pessoa também é mulher ou criança. Diante de quem está em desvantagem estrutural, a resposta ética não é punir depois do dano, e sim assumir responsabilidade antes dele: cuidar, proteger e reconhecer valor à pessoa. A alternativa (d) é a mais tentadora, mas descreve resposta jurídica, e o enunciado pede ética interpessoal; a (b) desloca o foco para o perdão de quem causa o dano, e a (c) proporia tutelar quem já é tutelado demais."
+  },
+  {
+   "subtema": "filosofia-etica-moral",
+   "id": "enem-filosofia-sociologia-29",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A regra de ouro, popularmente conhecida pelo provérbio “Trate os outros como gostaria de ser tratado”, é um dos princípios morais mais onipresentes. A noção subjacente, que apela para o senso ético mais básico, se expressa de uma forma ou de outra em praticamente todas as tradições religiosas, e poucos filósofos morais deixaram de invocar a regra ou pelo menos de tecer comentários a respeito da relação com seus próprios princípios.",
+   "enunciado": "O princípio ético apresentado no texto, como elemento estruturante da vida em sociedade, se traduz pela seguinte formulação teórica:",
+   "alternativas": {
+    "a": "Doutrina teleológica.",
+    "b": "Imperativo categórico.",
+    "c": "Pensamento utilitarista.",
+    "d": "Secularização inautêntica.",
+    "e": "Raciocínio consequencialista."
+   },
+   "resposta": "b",
+   "explicacao": "A regra de ouro submete a conduta a um teste de universalização: só faça o que aceitaria ver aplicado a você. Kant formaliza esse teste no imperativo categórico — “age como se a máxima de tua ação devesse tornar-se lei universal da natureza” — e o classifica como categórico justamente por valer incondicionalmente, sem depender do resultado. As alternativas (a), (c) e (e) são a família oposta: julgam a ação pelas consequências, e não pela possibilidade de universalizá-la."
   }
  ],
  "sociologia-trabalho-classes": [
@@ -72774,6 +73314,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O que aproxima os dois textos é a distância entre eles: setenta anos separam Carolina Maria de Jesus da moradora de Petrolândia, e a cena é a mesma — uma mãe sem o que dar de comer aos filhos. A fome não é episódio de um momento, ela retorna; é a recorrência da miséria. Duas opções afirmam o contrário do que se lê: superação da escassez e constância da economia dariam a entender melhora ou estabilidade, e o que os relatos mostram é persistência da falta. Romantização exigiria que o sofrimento fosse embelezado, e ambos os depoimentos são secos e diretos. E não há, em nenhum dos dois, discussão sobre política de saúde."
+  },
+  {
+   "subtema": "sociologia-trabalho-classes",
+   "id": "enem-filosofia-sociologia-33",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Uma fábrica na qual os operários fossem, efetiva e integralmente, simples peças de máquinas executando cegamente as ordens da direção pararia em quinze minutos. O capitalismo só pode funcionar com a contribuição constante da atividade propriamente humana de seus subjugados que, ao mesmo tempo, tenta reduzir e desumanizar o mais possível.",
+   "enunciado": "O texto apresenta uma contradição interna do capitalismo caracterizada pela",
+   "alternativas": {
+    "a": "obsolescência associada ao uso da tecnologia.",
+    "b": "orientação voltada à administração de conflitos.",
+    "c": "alienação decorrente da organização do trabalho.",
+    "d": "isonomia remanescente da geração de riquezas.",
+    "e": "produtividade vinculada ao fortalecimento da autonomia."
+   },
+   "resposta": "c",
+   "explicacao": "Castoriadis aponta uma armadilha: a organização taylorista quer reduzir o trabalhador a peça de máquina, mas a produção só se sustenta porque ele improvisa, corrige e decide — se cumprisse as ordens ao pé da letra, a fábrica pararia em quinze minutos, que é o efeito conhecido da operação-padrão. A contradição está em depender da inteligência que se esforça por anular, e o nome dessa separação entre quem trabalha e o sentido do próprio trabalho é alienação. A alternativa (e) inverte o texto, que descreve tentativa de suprimir a autonomia, não de fortalecê-la."
   }
  ],
  "sociologia-cultura-identidade": [
@@ -74410,6 +74970,126 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O próprio narrador enuncia a regra vigente: intrepidez de opinião e facilidade de julgamento \"tão necessárias num homem, se tornam defeitos numa mulher destinada aos humildes afazeres de mãe de família\". E encerra dizendo que Anaïs ficou com excelente opinião de si mesma — isto é, não seguiu a recomendação de ser modesta. A personagem quebra o papel que a sociedade lhe reservava: é ruptura com valores instituídos. A alternativa oposta, aceitação da hierarquia de gênero, descreve exatamente o que ela não fez. E as outras três não têm apoio no trecho: ninguém abandona vínculos afetivos, a subjetividade é afirmada e não negada, e nada indica reforço da estratificação social."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-20",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "No primeiro dia, foi colocada uma panela de barro no centro do barracão, a qual representava o espírito do morto presente na sala. Aqueles que dançavam depositavam moedas ao passarem junto dela e, ao seu redor, milho branco, mel, água, acaçás, cachaça. No segundo dia, os ogãs, antes de iniciar a cerimônia, caminharam pelo corredor formado pelas casas, batendo com longas varas de bambus nos seus beirais, até alcançarem o portão de entrada. No terceiro dia, quatro pessoas, as mais influentes do culto, carregaram um lençol, que aparentemente continha um corpo em seu interior. No entanto, esse corpo era formado por folhas verdes de plantas, que foram derramadas sobre uma pessoa.",
+   "enunciado": "O ritual brasileiro apresentado no texto representa, para seus adeptos, a",
+   "alternativas": {
+    "a": "manutenção de uma memória coletiva.",
+    "b": "contestação de uma identidade étnica.",
+    "c": "imolação de uma divindade africana.",
+    "d": "legitimação de uma prática pagã.",
+    "e": "promissão de uma revolta social."
+   },
+   "resposta": "a",
+   "explicacao": "O axexé é o rito funerário do candomblé, e cada gesto descrito repete uma fórmula herdada: a panela que abriga o espírito, as oferendas de milho branco e acaçá, o percurso dos ogãs, o corpo simbólico de folhas. Repetir esse conjunto a cada morte é manter viva, de geração em geração, a memória coletiva de uma comunidade que atravessou a diáspora. A alternativa (b) inverte o sentido — o rito afirma a identidade em vez de contestá-la — e a (c) descreve sacrifício de divindade, que não é o que ocorre: quem é despedido é o morto."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-24",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma das principais atividades provocadas pela arte, a reflexão, é abandonada pela indústria cultural. A indústria cultural seria como uma isca que ilude os indivíduos, com o sonho de que eles são livres, originais, únicos e especiais quando, na verdade, os trata como servos e partes de uma massa homogênea.",
+   "enunciado": "Ao analisar as consequências da dinâmica apresentada no texto, as autoras destacam a importância do conceito como:",
+   "alternativas": {
+    "a": "Ferramenta de luta coletiva.",
+    "b": "Mecanismo de controle social.",
+    "c": "Instituição de interesse público.",
+    "d": "Organização da iniciativa privada.",
+    "e": "Instrumento de manipulação estatal."
+   },
+   "resposta": "b",
+   "explicacao": "O conceito da Escola de Frankfurt descrito no texto tem um núcleo: a indústria cultural suprime a reflexão e vende a ilusão de liberdade a quem, de fato, é tratado como massa homogênea. Iludir sobre a própria autonomia é a forma mais eficiente de controle, porque dispensa coerção — daí ser um mecanismo de controle social. A alternativa (e) erra o agente: em Adorno e Horkheimer a indústria cultural é empreendimento capitalista, não aparelho de Estado; e a (a) inverte o sentido do conceito."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-25",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Como conclusão provisória, parece então que a globalização tem, sim, o efeito de contestar e deslocar as identidades centradas e “fechadas” de uma cultura nacional. Ela tem um efeito pluralizante sobre as identidades, produzindo uma variedade de possibilidades e novas posições de identificação, e tornando as identidades mais posicionais, mais políticas, mais plurais e diversas; menos fixas, unificadas ou trans-históricas.",
+   "enunciado": "De acordo com o texto, o processo apresentado contribuiu para",
+   "alternativas": {
+    "a": "elevar a renda da população.",
+    "b": "abandonar os valores morais.",
+    "c": "estabelecer a igualdade racial.",
+    "d": "fortalecer as pautas das minorias.",
+    "e": "inverter os fluxos das migrações."
+   },
+   "resposta": "d",
+   "explicacao": "Stuart Hall descreve a globalização quebrando o monopólio da identidade nacional única e abrindo espaço para “novas posições de identificação”, mais plurais e mais políticas. Quando identidades antes silenciadas pelo modelo nacional homogêneo ganham voz e se organizam, quem se fortalece são as pautas de minorias. A alternativa (a) trata de renda, que o texto não discute; a (c) confunde visibilidade com igualdade conquistada; e a (b) atribui ao processo uma perda moral que Hall não afirma."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-26",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Atribuo a causa desse florescimento estéril a um sistema de educação falso, extraído de livros sobre o assunto escrito por homens que, ao considerar as mulheres mais como fêmeas do que como criaturas humanas, estão mais ansiosos em torná-las damas sedutoras do que esposas afetuosas e mães racionais. O entendimento do sexo feminino tem sido tão distorcido por essa homenagem ilusória de que as mulheres civilizadas de nosso século, com raras exceções, anseiam apenas inspirar amor, quando deveriam nutrir uma ambição mais nobre e exigir respeito por suas capacidades e virtudes. (Mary Wollstonecraft, século XVIII.)",
+   "enunciado": "Nesse texto, escrito no século XVIII, a autora reivindica para as mulheres a",
+   "alternativas": {
+    "a": "recuperação de sua participação política.",
+    "b": "equiparação de ganhos salariais.",
+    "c": "valorização de seu papel social.",
+    "d": "distinção de padrões biológicos.",
+    "e": "ocupação de cargos públicos."
+   },
+   "resposta": "c",
+   "explicacao": "Wollstonecraft ataca uma educação que forma “damas sedutoras” em vez de criaturas racionais, e a frase final diz o que ela quer no lugar: que as mulheres exijam respeito por suas capacidades e virtudes. A reivindicação é de reconhecimento — que a mulher seja vista como sujeito racional, não como ornamento. As alternativas (b) e (e) tratam de pautas trabalhistas e eleitorais que só se organizariam mais tarde, e a (d) inverte o argumento: a autora critica justamente quem reduz a mulher à sua condição de fêmea."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-28",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Resumamos os principais caracteres de um rizoma: diferentemente das árvores ou de suas raízes, o rizoma conecta um ponto qualquer com outro ponto qualquer e cada um de seus traços não remete necessariamente a traços de mesma natureza. Contra os sistemas centrados (e mesmo policentrados), de comunicação hierárquica e ligações preestabelecidas, o rizoma é um sistema a-centrado não hierárquico e não significante, sem general, sem memória organizadora ou autômato central, unicamente definido por uma circulação de estados.",
+   "enunciado": "Qual elemento da cultura contemporânea se relaciona às características do conceito de rizoma, conforme descrito no texto?",
+   "alternativas": {
+    "a": "Estrutura fixa.",
+    "b": "Lógica binária.",
+    "c": "Controle homogêneo.",
+    "d": "Uniformidade de opiniões.",
+    "e": "Pluralidade de interações."
+   },
+   "resposta": "e",
+   "explicacao": "Deleuze e Guattari definem o rizoma pelo que ele não tem: centro, hierarquia, general, ligações preestabelecidas. O que ele tem é a capacidade de conectar qualquer ponto a qualquer outro, entre traços de naturezas diferentes. Isso descreve uma pluralidade de interações — e é por isso que o conceito costuma ser aplicado à rede, à internet e à cultura digital. As quatro alternativas restantes nomeiam exatamente as características do modelo arborescente que o texto contrapõe ao rizoma."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-30",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I — “As novelas brasileiras foram as primeiras a aparecer na TV russa ainda na época de Gorbachov, nos anos 1980. Elas causaram sensação. Houve casos anedóticos, como quando o Parlamento da Federação Russa terminou a sessão mais cedo para ver o último capítulo de Escrava Isaura.”\nTEXTO II — As novelas de maior impacto em Angola foram as produções brasileiras. Fizeram tanto sucesso que um mercado popular chegou a receber o nome de Roque Santeiro, novela brasileira exibida naquele país na década de 1980. Além de entreter, os folhetins brasileiros até hoje ditam a moda em Angola. Figurinos e acessórios de personagens se transformam em uma verdadeira febre e influenciam o comportamento.",
+   "enunciado": "Embora situados em continentes diferentes com práticas sociais distintas, Rússia e Angola se aproximam, conforme os textos I e II, no aspecto",
+   "alternativas": {
+    "a": "cultural, ao subjetivarem costumes da teledramaturgia estrangeira.",
+    "b": "econômico, ao importarem confecções de estilistas famosos.",
+    "c": "geográfico, ao encurtarem distâncias de caráter ideológico.",
+    "d": "antropológico, ao adaptarem valores de povos tradicionais.",
+    "e": "político, ao adotarem sistemas de governos democráticos."
+   },
+   "resposta": "a",
+   "explicacao": "Os dois casos mostram uma produção televisiva brasileira sendo incorporada ao cotidiano de outro país: na Rússia, a ponto de alterar a agenda do Parlamento; em Angola, a ponto de batizar um mercado e ditar moda e comportamento. O que atravessa a fronteira é repertório simbólico, e ele passa a operar de dentro — os públicos subjetivam costumes vindos da teledramaturgia estrangeira. A alternativa (b) fala de importar roupa, não de imitar figurino; a (e) atribui aos dois países uma convergência política que os textos não sustentam."
   }
  ],
  "filosofia-conhecimento-logica": [
@@ -75220,6 +75900,106 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Brás Cubas confessa ter guardado \"a fraseologia, a casca, a ornamentação\" — e diz para que serve: \"para as despesas da conversação\". Ele não busca saber, busca ter o que dizer e impressionar. Era esta a acusação que Sócrates e Platão dirigiam aos sofistas: dominar a arte de convencer sem se comprometer com a verdade. Daí a utilização persuasiva do discurso. A primeira opção descreve o oposto, e é a armadilha: elaborar conceitos é justamente o trabalho que o personagem confessa não ter feito. As três últimas trazem termos gregos de outros domínios — os rapsodos são recitadores de épica, a physis é o objeto dos filósofos pré-socráticos, e a pólis não se expressa em pictografia."
+  },
+  {
+   "subtema": "filosofia-conhecimento-logica",
+   "id": "enem-filosofia-sociologia-18",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Os grupos dominantes são beneficiados em termos de credibilidade e podem, com isso, controlar falas de membros de outros grupos, descredibilizando seus testemunhos com base em concepções compartilhadas de preconceito de identidade (gênero e raça). Algumas formas de preconceito tornam as declarações das pessoas menos importantes devido ao seu pertencimento a determinado grupo social. Assim, um falante recebe menos credibilidade devido ao preconceito do ouvinte.",
+   "enunciado": "Com base na reflexão suscitada no texto, o preconceito de identidade é responsável por um tipo de injustiça",
+   "alternativas": {
+    "a": "estética, que normatiza os padrões corporais.",
+    "b": "sensorial, que privilegia as habilidades visuais.",
+    "c": "afetiva, que impede as expressões emocionais.",
+    "d": "epistêmica, que prejudica as trocas informacionais.",
+    "e": "econômica, que perpetua as desigualdades materiais."
+   },
+   "resposta": "d",
+   "explicacao": "O dano descrito recai sobre a credibilidade: o testemunho de alguém vale menos porque quem ouve tem preconceito contra o grupo a que essa pessoa pertence. Como o prejuízo atinge a pessoa em sua condição de quem sabe e transmite conhecimento, Miranda Fricker chama isso de injustiça epistêmica — e o conhecimento coletivo empobrece junto, porque informação verdadeira é descartada. As demais alternativas deslocam o dano para o corpo, os sentidos, as emoções ou a renda, dimensões que o texto não aborda."
+  },
+  {
+   "subtema": "filosofia-conhecimento-logica",
+   "id": "enem-filosofia-sociologia-19",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A alma funciona no meu corpo de maneira maravilhosa. Nele se aloja, certamente, mas sabe bem dele escapar: escapa para ver as coisas através da janela dos meus olhos, escapa para sonhar quando durmo, para sobreviver quando morro. Minha alma durará muito tempo e mais que muito tempo, quando meu corpo vier a apodrecer. Viva minha alma! É meu corpo luminoso, purificado, virtuoso, ágil, móvel, tépido, viçoso; é meu corpo liso, castrado, arredondado como uma bolha de sabão.",
+   "enunciado": "Esse texto reforça uma concepção metafísica clássica que remete a um(a)",
+   "alternativas": {
+    "a": "pressuposto lógico.",
+    "b": "pensamento dicotômico.",
+    "c": "contemplação da natureza.",
+    "d": "raciocínio argumentativo.",
+    "e": "crítica à individualidade."
+   },
+   "resposta": "b",
+   "explicacao": "Todo o trecho opera separando duas substâncias: a alma se aloja no corpo mas dele escapa, sobrevive quando ele apodrece, é luminosa e pura enquanto ele é matéria perecível. Essa divisão entre res cogitans e res extensa é o dualismo que atravessa Platão e Descartes — um pensamento dicotômico. As alternativas (a) e (d) descrevem procedimentos de raciocínio, não uma tese sobre o que existe, e as (c) e (e) tratam de temas ausentes no texto."
+  },
+  {
+   "subtema": "filosofia-conhecimento-logica",
+   "id": "enem-filosofia-sociologia-22",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Eu sentia falta do futuro. É claro que eu sabia, muito mesmo antes da recorrência dele, que nunca envelheceria. Era muito provável que eu nunca mais fosse ver o oceano de uma altura de trinta mil pés de novo, uma distância tão grande que não dá nem para distinguir as ondas. Eu poderia imaginá-lo. Eu poderia me lembrar dele. Mas não poderia vê-lo de novo, e me ocorreu que a ambição voraz dos seres humanos nunca é saciada quando os sonhos são realizados, porque há sempre a sensação de que tudo poderia ter sido feito melhor e ser feito outra vez.",
+   "enunciado": "O texto apresenta uma reflexão da personagem acerca de um problema característico da filosofia contemporânea, que trata da(s)",
+   "alternativas": {
+    "a": "implicações éticas.",
+    "b": "finitude humana.",
+    "c": "limitações da linguagem.",
+    "d": "pressuposição existencial.",
+    "e": "objetividade do conhecimento."
+   },
+   "resposta": "b",
+   "explicacao": "A personagem sabe que vai morrer jovem e mede tudo por essa medida: sente falta do futuro que não terá, sabe que não envelhecerá, calcula que não verá o oceano outra vez. O choque entre a consciência do próprio fim e o desejo que nunca se sacia é o tema da finitude — central em Heidegger, para quem o ser humano é ser-para-a-morte. As demais alternativas nomeiam problemas filosóficos legítimos, mas nenhum deles organiza este texto, que é todo sobre tempo que acaba."
+  },
+  {
+   "subtema": "filosofia-conhecimento-logica",
+   "id": "enem-filosofia-sociologia-23",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I — O empirismo moderno foi, em grande parte, condicionado por dois dogmas. Um deles é a crença em certa divisão fundamental entre verdades analíticas, ou fundadas em significados independentemente de questões de fato, e verdades sintéticas, ou fundadas em fatos. O outro dogma é o reducionismo: a crença de que todo enunciado significativo é equivalente a algum construto lógico sobre termos que se referem à experiência imediata. (Quine)\nTEXTO II — Teses: 1. Somente os enunciados que possuem conteúdo factual são teoricamente significativos; enunciados que não podem, em princípio, estar fundamentados pela experiência são carentes de significado. 2. As ciências empíricas usam somente o conteúdo empírico da realidade. 3. A filosofia usa um conceito não empírico da realidade. (Carnap)",
+   "enunciado": "Ao comparar os textos, conclui-se que eles apresentam posicionamentos filosóficos divergentes com relação ao",
+   "alternativas": {
+    "a": "estatuto epistemológico da linguagem.",
+    "b": "alicerce estruturante da moralidade.",
+    "c": "conteúdo essencial da metafísica.",
+    "d": "princípio constitutivo da ontologia.",
+    "e": "domínio reflexivo da estética."
+   },
+   "resposta": "a",
+   "explicacao": "Carnap sustenta o critério verificacionista: um enunciado só tem significado se puder ser fundamentado pela experiência. Quine chama exatamente essa posição de dogma — tanto a separação entre analítico e sintético quanto o reducionismo que liga cada enunciado à experiência imediata. A discordância é sobre o que dá sentido a um enunciado e como a linguagem se relaciona com o conhecimento: o estatuto epistemológico da linguagem. Os dois são empiristas e não discutem moral, ontologia nem estética; a metafísica aparece só como consequência da divergência, não como o ponto dela."
+  },
+  {
+   "subtema": "filosofia-conhecimento-logica",
+   "id": "enem-filosofia-sociologia-31",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Bertrand Russell conta a história de um peru que descobrira, em sua primeira manhã na fazenda de perus, que fora alimentado às 9 da manhã. Contudo, ele não tirou conclusões apressadas. Esperou até recolher um grande número de observações do fato de que era alimentado às 9 da manhã e fez essas observações sob uma ampla variedade de circunstâncias, às quartas e quintas-feiras, em dias quentes e dias frios, em dias chuvosos e dias secos. A cada dia acrescentava uma outra proposição de observação à sua lista. Finalmente, sua consciência ficou satisfeita e ele concluiu: “Eu sou alimentado sempre às 9 da manhã”.",
+   "enunciado": "Qual tipo de raciocínio corresponde ao padrão de pensamento exibido pelo personagem do texto?",
+   "alternativas": {
+    "a": "Prático, porque recolhe evidências e recomenda ações.",
+    "b": "Absoluto, porque busca confirmações e bloqueia refutações.",
+    "c": "Indutivo, porque observa eventos particulares e infere leis universais.",
+    "d": "Demonstrativo, porque encadeia premissas e extrai conclusões indubitáveis.",
+    "e": "Analógico, porque compara diferentes situações e detecta elementos semelhantes."
+   },
+   "resposta": "c",
+   "explicacao": "O peru acumula casos particulares — muitas manhãs, em condições variadas — e salta deles para uma lei geral: “sempre às 9 da manhã”. Esse movimento do particular para o universal é a indução, e a fábula de Russell existe para mostrar seu limite: nenhuma quantidade de observações garante a conclusão, como o peru descobre na véspera do Natal. A alternativa (d) descreve a dedução, cujo passo é o inverso e cuja conclusão é necessária; a (e) exigiria comparação entre situações distintas, e aqui a situação é sempre a mesma."
   }
  ],
  "sociologia-instituicoes-movimentos": [
@@ -76460,6 +77240,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O caso tem um recorte muito preciso: a autoria da obra existia, e o crédito foi dado ao marido. O apagamento não se deveu à falta de oportunidade — ela projetou o museu — nem à falta de voz. Deveu-se ao fato de ela ser mulher, e é o movimento por equidade de gênero que tornou possível, décadas depois, rever essa atribuição. Igualdade de oportunidade é a resposta que mais atrai e não serve: o problema não foi o acesso ao trabalho, foi o reconhecimento dele. Liberdade de expressão e direito ao voto são conquistas de outra natureza, e nenhuma explicaria por que o nome de uma arquiteta some da reportagem enquanto o do marido permanece."
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "enem-filosofia-sociologia-17",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O Black Lives Matter vai para além do nacionalismo estreito que pode prevalecer no seio das comunidades negras, que se limita a apelar aos negros a amar os negros, viver como os negros e comprar produtos dos negros, e mantém à frente do movimento homens negros heterossexuais. Black Lives Matter estima as vidas dos negros e negras homossexuais e transexuais, pessoas incapacitadas, negros sem documentos ou com antecedentes criminais, mulheres e as vidas de todos os negros de todo o espectro de gêneros.",
+   "enunciado": "A reivindicação do movimento norte-americano apresentada no texto consiste na necessidade de",
+   "alternativas": {
+    "a": "manter a conquista de direitos sociais.",
+    "b": "integrar a diversidade do grupo identitário.",
+    "c": "priorizar a preservação de culturas africanas.",
+    "d": "defender a adoção de valores supremacistas.",
+    "e": "permitir a permanência do modelo androcêntrico."
+   },
+   "resposta": "b",
+   "explicacao": "O texto é construído como contraste. De um lado, o nacionalismo negro “estreito”, comandado por homens heterossexuais. De outro, o Black Lives Matter, que a autora define por extensão: mulheres, pessoas LGBT, pessoas com deficiência, sem documentos, com antecedentes criminais. A lista existe para mostrar que ser negro atravessa outros marcadores — é a leitura interseccional, que integra a diversidade interna do grupo. A alternativa (e) descreve justamente o modelo que o texto critica, e a (d) atribui ao movimento o supremacismo que ele combate."
   }
  ],
  "dh-fundamentos": [
@@ -86731,6 +87531,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O texto narra uma transformação em duas etapas. Na origem, hinos de lamento pelos corpos lançados ao mar. \"Posteriormente\", o Marabaixo se integra à vida das comunidades como ciclo de danças, cantorias com tambores e festas religiosas — e em 2018 vira Patrimônio Cultural do Brasil. O luto não desapareceu, mas foi convertido em prática cultural viva: é ressignificação. A terceira alternativa é a mais próxima e para na primeira etapa, tratando o Marabaixo como se ainda fosse só lamento. A quarta o inverte: a manifestação preserva a memória do trauma em vez de apagá-la. E a segunda toma o nome ao pé da letra — \"mar abaixo, mar acima\" descreve o canto pelos mortos, não a imitação das ondas."
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "enem-artes-cultura-07",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As capas dos folhetos de cordel, já então ilustradas por postais fotográficos, desenhos ou fotogramas de filmes, demoravam mais de uma semana para serem transformadas em clichês em Recife ou Fortaleza, o que levou a que santeiros e artesãos locais fossem requisitados para cortar na umburana — madeira preferida para o taco xilográfico pela facilidade do talhe e abundância — princesas, dragões, cangaceiros.",
+   "enunciado": "No início do século XX, a incorporação da técnica de produção descrita no texto promoveu uma renovação da",
+   "alternativas": {
+    "a": "manifestação jornalística.",
+    "b": "narrativa literária.",
+    "c": "indústria regional.",
+    "d": "estética editorial.",
+    "e": "cultura erudita."
+   },
+   "resposta": "d",
+   "explicacao": "O que muda no relato é a capa, não o poema: a xilogravura entra por um problema prático — o clichê demorava mais de uma semana para vir de Recife ou Fortaleza — e acaba definindo a aparência do folheto, com o traço marcante dos santeiros locais entalhando princesas, dragões e cangaceiros na umburana. Isso é renovação da estética editorial, e é ela que se tornou a marca visual do cordel. A alternativa (b) erra o alvo, já que o texto do folheto continuou o mesmo, e a (e) atribui à cultura erudita uma técnica que nasceu popular."
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "enem-artes-cultura-08",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O Círio de Nazaré é uma festa que ocorre, anualmente, na cidade de Belém do Pará, no segundo domingo do mês de outubro. Sua estrutura ritualística tem origem no catolicismo devocional que surge em Portugal por volta do século XV. Até 1789, a festa em louvor a Nossa Senhora de Nazaré, em Belém, era marcada pelas ladainhas e novenas. Em 1790, a Igreja Católica autorizou a realização de festa em homenagem à Virgem. A primeira procissão ocorreu em 1793. Existindo há mais de duzentos anos, a Festa congrega um extenso mosaico de elementos integrados em diferentes planos e graus de intensidade.",
+   "enunciado": "O reconhecimento da festa descrita no texto, como patrimônio histórico, encontra sustentação no(a)",
+   "alternativas": {
+    "a": "instituição de políticas públicas de âmbito local.",
+    "b": "registro de bens culturais de natureza imaterial.",
+    "c": "tombamento de sítios arqueológicos de propriedade privada.",
+    "d": "salvaguarda de elementos sacros de expressão regional.",
+    "e": "categorização de manifestações cristãs de caráter oficial."
+   },
+   "resposta": "b",
+   "explicacao": "O Círio não é um objeto nem uma edificação: é uma prática que se repete todo ano, feita de procissão, promessa, ladainha e comida. Bens desse tipo — saberes, celebrações, formas de expressão e lugares — não são tombados, e sim registrados como patrimônio cultural imaterial, instrumento criado pelo Decreto 3.551/2000; o Círio recebeu esse registro do Iphan em 2004. A alternativa (c) trata de tombamento de sítio arqueológico, categoria material e alheia ao caso, e a (e) sugere um reconhecimento por caráter religioso oficial, incompatível com a laicidade do Estado."
   }
  ],
  "artes-musica-cena": [
@@ -97054,6 +97894,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Os quatro sinais que Txai Suruí enumera — clima esquentando, animais sumindo, rios morrendo, plantação que não floresce — descrevem um sistema natural sendo consumido além da sua capacidade de se refazer. Isso é exploração predatória, e é o problema que a COP-26 estava reunida para discutir. As demais alternativas nomeiam RESPOSTAS ao problema, não o problema: manejo tradicional, consumo consciente, reciclagem e reaproveitamento energético são práticas que reduzem o dano. Como o enunciado pede o problema explicitado no discurso, a única que não é solução é a resposta. E o manejo tradicional, em particular, é justamente o que os povos indígenas praticam."
+  },
+  {
+   "subtema": "atualidades-meioambiente",
+   "id": "enem-atualidades-04",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A 26ª Conferência do Clima das Nações Unidas foi realizada com a perspectiva de que os países tornassem ainda mais ambiciosos os compromissos assumidos no enfrentamento das mudanças climáticas, de modo a evitar que a temperatura global se eleve acima de 1,5 °C, marca que já vinha sendo discutida desde o Acordo de Paris, de 2015. A pressão do setor empresarial, que se posicionou de maneira contundente nesta COP-26, gerou impacto positivo. O Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável (CEBDS) capitaneou, por meio do movimento Empresários pelo Clima, a adesão de 119 CEOs de importantes empresas e 14 instituições do setor privado, de setores tão diversos como agronegócio, alimentício, aviação, elétrico, farmacêutico, finanças, infraestrutura, logística, papel e celulose, petroquímico, saúde, tecnologia, telefonia e varejo. O Brasil deixa a conferência com o compromisso de fazer valer sua meta e reduzir 50% dos gases de efeito estufa até 2030 em relação aos níveis de 2005 — anteriormente, a meta de redução era de 43%.",
+   "enunciado": "Conforme o texto, o compromisso assumido pelo Brasil foi resultado dos tensionamentos promovidos por",
+   "alternativas": {
+    "a": "povos ribeirinhos e segmentos culturais.",
+    "b": "blocos econômicos e instituições militares.",
+    "c": "grupos científicos e universidades públicas.",
+    "d": "organismos supranacionais e sociedade civil.",
+    "e": "agentes governamentais e demanda turística."
+   },
+   "resposta": "d",
+   "explicacao": "O texto nomeia as duas fontes de pressão que elevaram a meta brasileira de 43% para 50%. De cima, a ONU, que organiza a Conferência do Clima e cobra compromissos mais ambiciosos desde o Acordo de Paris: um organismo supranacional. De dentro, o CEBDS e os 119 CEOs do movimento Empresários pelo Clima — atores privados organizados, que é o que se entende por sociedade civil. As demais alternativas citam grupos que podem atuar no debate climático, mas nenhum deles aparece no texto como responsável pelo tensionamento descrito."
   }
  ],
  "atualidades-tecnologia": [

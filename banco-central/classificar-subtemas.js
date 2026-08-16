@@ -1447,6 +1447,65 @@ const REVISADAS = {
   // conteudo e mimetismo mulleriano -- resultado de selecao natural sobre o
   // padrao de cor, que e evolucao.
   "enem-biologia-28": "biologia-evolucao",
+
+  // ENEM 2024, primeiro dia -- Humanas. 19 pinos em 43 questoes (44%), entre os
+  // 12% de Natureza e os ~70% que Interpretacao e Literatura cobram. A causa e
+  // sempre a mesma: em Humanas o assunto do TEXTO nao e o assunto da QUESTAO.
+  // O texto de Las Casas fala de escravidao indigena e minas, e leva a questao
+  // para Brasil colonia -- mas o episodio e a America espanhola do seculo XVI.
+  // A valsa fala de aristocracia e cultura plebeia e tambem vai para colonia.
+  "enem-historia-15": "historia-geral-moderna",
+  "enem-historia-16": "historia-geral-moderna",
+  // Inventos da virada do seculo: "luz eletrica" e "telegrafo" puxam para a
+  // Europa moderna, e o recorte e a Primeira Republica brasileira.
+  "enem-historia-14": "historia-brasil-republica",
+  // Quilombos: as palavras sao coloniais, a questao e sobre a CF de 1988.
+  "enem-historia-21": "historia-brasil-republica",
+  // Madres de Plaza de Mayo: ditadura argentina, nao brasileira.
+  "enem-historia-23": "historia-geral-contemporanea",
+  //
+  // Em Geografia o padrao e outro: quase toda questao humana cita cidade,
+  // populacao ou territorio, e populacao-urbana acaba puxando o que nao e dela.
+  "enem-geografia-19": "geografia-fisica-clima",
+  "enem-geografia-21": "geografia-geopolitica",
+  "enem-geografia-18": "geografia-agraria-economica",
+  // E o inverso tambem acontece: parque publico contra alagamento e onda de
+  // calor e questao urbana, mas as palavras do enunciado sao todas de clima.
+  "enem-geografia-23": "geografia-populacao-urbana",
+  // Mariana e seringueiros: desastre e extrativismo sao ambiente, e cairam em
+  // clima e em economia agraria por causa do vocabulario de rio e producao.
+  "enem-geografia-14": "geografia-ambiente-sustentabilidade",
+  "enem-geografia-17": "geografia-ambiente-sustentabilidade",
+  // Mapa a servico do poder: "dominacao" e "territorial" levam a geopolitica,
+  // mas o objeto da questao e a cartografia em si.
+  "enem-geografia-22": "geografia-cartografia",
+  //
+  // Filosofia e Sociologia dividem a mesma frente, e a fronteira entre elas e
+  // que escorrega: Stuart Hall sobre identidades e Wollstonecraft sobre o papel
+  // da mulher cairam em etica-moral porque discutem valores; novelas brasileiras
+  // na Russia e em Angola caiu em conhecimento-logica.
+  "enem-filosofia-sociologia-25": "sociologia-cultura-identidade",
+  "enem-filosofia-sociologia-26": "sociologia-cultura-identidade",
+  "enem-filosofia-sociologia-30": "sociologia-cultura-identidade",
+  // Black Lives Matter: empate com cultura-identidade, e o texto trata da
+  // organizacao interna de um movimento social.
+  "enem-filosofia-sociologia-17": "sociologia-instituicoes-movimentos",
+  // A culpa e das estrelas: a finitude e problema metafisico, nao moral.
+  "enem-filosofia-sociologia-22": "filosofia-conhecimento-logica",
+  // Xilogravura do cordel: "fotogramas de filmes" no enunciado levou a questao
+  // para audiovisual, e o assunto e a gravura popular na capa do folheto.
+  "enem-artes-cultura-07": "artes-patrimonio-cultura-popular",
+  // COP-26: conferencia da ONU pontua geopolitica, mas o tema e clima.
+  "enem-atualidades-04": "atualidades-meioambiente",
+  // Estas tres sao residuo que POR ACASO caiu no subtema certo -- o padrao da
+  // frente coincidiu com o alvo. Ficam pinadas mesmo assim: sem pino, a
+  // primeira mexida na tabela de regras as leva para outro lugar sem aviso,
+  // porque nada nelas as prende ali. Espaco publico e democracia, a pilula
+  // anticoncepcional e o rito do axexe nao tem uma palavra sequer que as
+  // regras reconhecam.
+  "enem-geografia-16": "geografia-populacao-urbana",
+  "enem-historia-19": "historia-geral-contemporanea",
+  "enem-filosofia-sociologia-20": "sociologia-cultura-identidade",
 };
 
 // ------------------------------------------------------------------- classificação

@@ -3556,6 +3556,25 @@
       },
       "resposta": "b",
       "explicacao": "A palavra \"respectivamente\" obriga a manter a ordem. O primeiro texto aposta no futuro: a tecnologia criada para o turismo espacial \"pode, em algum momento, voltar para a sociedade\", como já voltaram a câmera fotográfica e o titânio — é expectativa. A charge faz o movimento inverso: enquanto os bilionários dizem \"viemos em paz\", alguém avisa para não confiar neles — é desconfiança. Duas opções trazem o par certo na ordem trocada: \"receio e civilidade\" inverte exatamente isso. As outras não descrevem nenhum dos dois textos — o primeiro não fala em dependência nem em angústia, e a charge não anuncia retrocesso, apenas duvida da intenção de quem financia a viagem."
+    },
+    {
+      "id": "enem-atualidades-04",
+      "banca": "enem",
+      "sessao": "enem-2024-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "A 26ª Conferência do Clima das Nações Unidas foi realizada com a perspectiva de que os países tornassem ainda mais ambiciosos os compromissos assumidos no enfrentamento das mudanças climáticas, de modo a evitar que a temperatura global se eleve acima de 1,5 °C, marca que já vinha sendo discutida desde o Acordo de Paris, de 2015. A pressão do setor empresarial, que se posicionou de maneira contundente nesta COP-26, gerou impacto positivo. O Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável (CEBDS) capitaneou, por meio do movimento Empresários pelo Clima, a adesão de 119 CEOs de importantes empresas e 14 instituições do setor privado, de setores tão diversos como agronegócio, alimentício, aviação, elétrico, farmacêutico, finanças, infraestrutura, logística, papel e celulose, petroquímico, saúde, tecnologia, telefonia e varejo. O Brasil deixa a conferência com o compromisso de fazer valer sua meta e reduzir 50% dos gases de efeito estufa até 2030 em relação aos níveis de 2005 — anteriormente, a meta de redução era de 43%.",
+      "enunciado": "Conforme o texto, o compromisso assumido pelo Brasil foi resultado dos tensionamentos promovidos por",
+      "alternativas": {
+        "a": "povos ribeirinhos e segmentos culturais.",
+        "b": "blocos econômicos e instituições militares.",
+        "c": "grupos científicos e universidades públicas.",
+        "d": "organismos supranacionais e sociedade civil.",
+        "e": "agentes governamentais e demanda turística."
+      },
+      "resposta": "d",
+      "explicacao": "O texto nomeia as duas fontes de pressão que elevaram a meta brasileira de 43% para 50%. De cima, a ONU, que organiza a Conferência do Clima e cobra compromissos mais ambiciosos desde o Acordo de Paris: um organismo supranacional. De dentro, o CEBDS e os 119 CEOs do movimento Empresários pelo Clima — atores privados organizados, que é o que se entende por sociedade civil. As demais alternativas citam grupos que podem atuar no debate climático, mas nenhum deles aparece no texto como responsável pelo tensionamento descrito."
     }
   ]
 }

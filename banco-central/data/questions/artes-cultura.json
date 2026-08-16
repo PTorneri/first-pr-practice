@@ -6481,6 +6481,44 @@
    },
    "resposta": "c",
    "explicacao": "O texto encadeia problema e solução. O problema era geográfico: Goiás \"mais árido em relação às artes visuais\", ou seja, poucos espaços de exposição. A solução foi a rede social, que \"amplia universos\" — e o resultado está na última frase, com as colagens em capas de livros \"pelo Brasil e exterior\". A plataforma funciona como vitrine que dissolve a distância. As demais confundem meio com fim: a rede não conserta nada da técnica de colagem, que continua a mesma; a capa de livro é onde o trabalho foi parar, não a estética que ele persegue; e o suporte digital não torna a obra mais original nem mais tecnológica — o que muda é quem consegue vê-la."
+  },
+  {
+   "id": "enem-artes-cultura-07",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As capas dos folhetos de cordel, já então ilustradas por postais fotográficos, desenhos ou fotogramas de filmes, demoravam mais de uma semana para serem transformadas em clichês em Recife ou Fortaleza, o que levou a que santeiros e artesãos locais fossem requisitados para cortar na umburana — madeira preferida para o taco xilográfico pela facilidade do talhe e abundância — princesas, dragões, cangaceiros.",
+   "enunciado": "No início do século XX, a incorporação da técnica de produção descrita no texto promoveu uma renovação da",
+   "alternativas": {
+    "a": "manifestação jornalística.",
+    "b": "narrativa literária.",
+    "c": "indústria regional.",
+    "d": "estética editorial.",
+    "e": "cultura erudita."
+   },
+   "resposta": "d",
+   "explicacao": "O que muda no relato é a capa, não o poema: a xilogravura entra por um problema prático — o clichê demorava mais de uma semana para vir de Recife ou Fortaleza — e acaba definindo a aparência do folheto, com o traço marcante dos santeiros locais entalhando princesas, dragões e cangaceiros na umburana. Isso é renovação da estética editorial, e é ela que se tornou a marca visual do cordel. A alternativa (b) erra o alvo, já que o texto do folheto continuou o mesmo, e a (e) atribui à cultura erudita uma técnica que nasceu popular."
+  },
+  {
+   "id": "enem-artes-cultura-08",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O Círio de Nazaré é uma festa que ocorre, anualmente, na cidade de Belém do Pará, no segundo domingo do mês de outubro. Sua estrutura ritualística tem origem no catolicismo devocional que surge em Portugal por volta do século XV. Até 1789, a festa em louvor a Nossa Senhora de Nazaré, em Belém, era marcada pelas ladainhas e novenas. Em 1790, a Igreja Católica autorizou a realização de festa em homenagem à Virgem. A primeira procissão ocorreu em 1793. Existindo há mais de duzentos anos, a Festa congrega um extenso mosaico de elementos integrados em diferentes planos e graus de intensidade.",
+   "enunciado": "O reconhecimento da festa descrita no texto, como patrimônio histórico, encontra sustentação no(a)",
+   "alternativas": {
+    "a": "instituição de políticas públicas de âmbito local.",
+    "b": "registro de bens culturais de natureza imaterial.",
+    "c": "tombamento de sítios arqueológicos de propriedade privada.",
+    "d": "salvaguarda de elementos sacros de expressão regional.",
+    "e": "categorização de manifestações cristãs de caráter oficial."
+   },
+   "resposta": "b",
+   "explicacao": "O Círio não é um objeto nem uma edificação: é uma prática que se repete todo ano, feita de procissão, promessa, ladainha e comida. Bens desse tipo — saberes, celebrações, formas de expressão e lugares — não são tombados, e sim registrados como patrimônio cultural imaterial, instrumento criado pelo Decreto 3.551/2000; o Círio recebeu esse registro do Iphan em 2004. A alternativa (c) trata de tombamento de sítio arqueológico, categoria material e alheia ao caso, e a (e) sugere um reconhecimento por caráter religioso oficial, incompatível com a laicidade do Estado."
   }
  ]
 }

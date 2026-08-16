@@ -7,6 +7,7 @@
   "med-quimica-37",
   "med-quimica-98",
   "med-quimica-112",
+  "med-quimica-142",
   "med-quimica-148",
   "med-quimica-232",
   "med-quimica-248",
@@ -66,8 +67,8 @@
   "med-quimica-09": {
    "subtema": "quimica-organica",
    "frenteDestino": "quimica",
-   "pontos": 8,
-   "margem": 3
+   "pontos": 13,
+   "margem": 8
   },
   "med-quimica-10": {
    "subtema": "quimica-atomistica-ligacoes",
@@ -146,7 +147,7 @@
    "margem": 9
   },
   "med-quimica-23": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-solucoes",
    "frenteDestino": "quimica",
    "pontos": 5,
    "margem": 0
@@ -155,7 +156,7 @@
    "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-quimica-25": {
    "subtema": "quimica-eletroquimica",
@@ -298,7 +299,7 @@
    "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 10,
-   "margem": 5
+   "margem": 7
   },
   "med-quimica-49": {
    "subtema": "quimica-estequiometria",
@@ -333,8 +334,8 @@
   "med-quimica-54": {
    "subtema": "quimica-organica",
    "frenteDestino": "quimica",
-   "pontos": 8,
-   "margem": 3
+   "pontos": 13,
+   "margem": 8
   },
   "med-quimica-55": {
    "subtema": "quimica-atomistica-ligacoes",
@@ -364,7 +365,7 @@
    "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-quimica-60": {
    "subtema": "quimica-solucoes",
@@ -507,17 +508,17 @@
   "med-quimica-83": {
    "subtema": "quimica-organica",
    "frenteDestino": "quimica",
-   "pontos": 8,
-   "margem": 3
+   "pontos": 13,
+   "margem": 8
   },
   "med-quimica-84": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-quimica-85": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-solucoes",
    "frenteDestino": "quimica",
    "pontos": 5,
    "margem": 0
@@ -609,7 +610,7 @@
    "subtema": "quimica-organica",
    "frenteDestino": "quimica",
    "pontos": 10,
-   "margem": 5
+   "margem": 6
   },
   "med-quimica-101": {
    "subtema": "quimica-equilibrio-acido-base",
@@ -683,10 +684,10 @@
    "padrao": true
   },
   "med-quimica-113": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 5,
-   "margem": 0
+   "margem": 1
   },
   "med-quimica-114": {
    "subtema": "quimica-estequiometria",
@@ -781,8 +782,8 @@
   "med-quimica-129": {
    "subtema": "quimica-estequiometria",
    "frenteDestino": "quimica",
-   "pontos": 10,
-   "margem": 5
+   "pontos": 5,
+   "margem": 0
   },
   "med-quimica-130": {
    "subtema": "quimica-organica",
@@ -833,10 +834,10 @@
    "margem": 4
   },
   "med-quimica-138": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-termoquimica-cinetica",
    "frenteDestino": "quimica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-quimica-139": {
    "subtema": "quimica-solucoes",
@@ -857,10 +858,9 @@
    "margem": 9
   },
   "med-quimica-142": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-quimica-143": {
    "subtema": "quimica-solucoes",
@@ -877,8 +877,8 @@
   "med-quimica-145": {
    "subtema": "quimica-organica",
    "frenteDestino": "quimica",
-   "pontos": 13,
-   "margem": 8
+   "pontos": 8,
+   "margem": 3
   },
   "med-quimica-146": {
    "subtema": "quimica-equilibrio-acido-base",
@@ -976,10 +976,10 @@
    "margem": 10
   },
   "med-quimica-162": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-solucoes",
    "frenteDestino": "quimica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-quimica-163": {
    "subtema": "quimica-estequiometria",
@@ -988,7 +988,7 @@
    "margem": 0
   },
   "med-quimica-164": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-equilibrio-acido-base",
    "frenteDestino": "quimica",
    "pontos": 5,
    "margem": 0
@@ -1183,19 +1183,19 @@
    "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "med-quimica-197": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-organica",
    "frenteDestino": "quimica",
-   "pontos": 9,
-   "margem": 1
+   "pontos": 13,
+   "margem": 4
   },
   "med-quimica-198": {
    "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-quimica-199": {
    "subtema": "quimica-atomistica-ligacoes",
@@ -1219,10 +1219,10 @@
    "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 20,
-   "margem": 15
+   "margem": 20
   },
   "med-quimica-203": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-equilibrio-acido-base",
    "frenteDestino": "quimica",
    "pontos": 5,
    "margem": 0
@@ -1231,7 +1231,7 @@
    "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "med-quimica-205": {
    "subtema": "quimica-atomistica-ligacoes",
@@ -1645,7 +1645,7 @@
    "margem": 5
   },
   "med-quimica-274": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-equilibrio-acido-base",
    "frenteDestino": "quimica",
    "pontos": 5,
    "margem": 0
@@ -1687,10 +1687,10 @@
    "margem": 2
   },
   "med-quimica-281": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-quimica-282": {
    "subtema": "quimica-estequiometria",
@@ -1723,7 +1723,7 @@
    "margem": 14
   },
   "med-quimica-287": {
-   "subtema": "quimica-estequiometria",
+   "subtema": "quimica-eletroquimica",
    "frenteDestino": "quimica",
    "pontos": 5,
    "margem": 0
@@ -1893,7 +1893,7 @@
    "subtema": "quimica-solucoes",
    "frenteDestino": "quimica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-quimica-316": {
    "subtema": "quimica-atomistica-ligacoes",
@@ -1911,13 +1911,13 @@
    "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 20,
-   "margem": 15
+   "margem": 20
   },
   "med-quimica-319": {
    "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "med-quimica-320": {
    "subtema": "quimica-atomistica-ligacoes",
@@ -1935,7 +1935,7 @@
    "subtema": "quimica-atomistica-ligacoes",
    "frenteDestino": "quimica",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "med-quimica-323": {
    "subtema": "quimica-equilibrio-acido-base",
@@ -2055,7 +2055,7 @@
    "subtema": "quimica-equilibrio-acido-base",
    "frenteDestino": "quimica",
    "pontos": 9,
-   "margem": 4
+   "margem": 9
   },
   "med-quimica-343": {
    "subtema": "quimica-equilibrio-acido-base",
@@ -2162,8 +2162,8 @@
   "med-quimica-360": {
    "subtema": "quimica-organica",
    "frenteDestino": "quimica",
-   "pontos": 8,
-   "margem": 3
+   "pontos": 13,
+   "margem": 8
   },
   "med-quimica-361": {
    "subtema": "quimica-organica",
@@ -2174,8 +2174,8 @@
   "med-quimica-362": {
    "subtema": "quimica-organica",
    "frenteDestino": "quimica",
-   "pontos": 13,
-   "margem": 8
+   "pontos": 18,
+   "margem": 13
   },
   "med-quimica-363": {
    "subtema": "quimica-organica",

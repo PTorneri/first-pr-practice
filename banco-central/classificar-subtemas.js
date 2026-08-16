@@ -6,6 +6,7 @@
 //   node banco-central/classificar-subtemas.js --amostra biologia-genetica
 //   node banco-central/classificar-subtemas.js --apertadas     margem <= 1
 //   node banco-central/classificar-subtemas.js --falsos        regra que casa texto neutro
+//   node banco-central/classificar-subtemas.js --dentro        regra que casa DENTRO de palavra
 //
 // POR QUE SUBTEMA
 //
@@ -57,7 +58,7 @@ const SUBTEMAS = {
       [/progress[ãa]o (aritm[ée]tica|geom[ée]trica)|\bP\.?A\.?\b|\bP\.?G\.?\b/i, 5],
       [/termo geral|en[ée]simo termo|termo de ordem|raz[ãa]o da (progress|sequ)/i, 4],
       [/primeiro termo/i, 1],
-      [/sequ[êe]ncia|recorr[êe]ncia|recursiv/i, 3],
+      [/\bsequ[êe]ncia|recorr[êe]ncia|recursiv/i, 3],
       [/soma dos (\d+ )?primeiros termos|termos consecutivos/i, 3],
       [/padr[ãa]o|figura seguinte|pr[óo]xima figura|etapa seguinte/i, 1],
     ] },
@@ -97,7 +98,7 @@ const SUBTEMAS = {
     ] },
     { id: "matematica-financeira", nome: "Estatística, Porcentagem e Proporção", regras: [
       [/juros?( simples| compostos)?|montante|capital|aplica[çc][ãa]o financeira|financiamento|presta[çc][ãa]o/i, 5],
-      [/m[ée]dia (aritm[ée]tica|ponderada|simples)|mediana|moda\b|desvio padr[ãa]o|vari[âa]ncia/i, 5],
+      [/m[ée]dia (aritm[ée]tica|ponderada|simples)|mediana|\bmoda\b|desvio padr[ãa]o|vari[âa]ncia/i, 5],
       [/porcentagem|por cento|\d\s?%|desconto|acr[ée]scimo|aumento de \d|reajuste|infla[çc][ãa]o|lucro|preju[íi]zo/i, 4],
       [/gr[áa]fico de (setores|barras|colunas)|tabela de frequ[êe]ncia|frequ[êe]ncia relativa|amostra/i, 4],
       [/regra de tr[êe]s|proporcion|propor[çc][ãa]o|raz[ãa]o|escala|densidade demogr/i, 3],
@@ -150,7 +151,7 @@ const SUBTEMAS = {
       [/alelo|hom*ozigot|heterozigot|gen[óo]tipo|fen[óo]tipo|mendel/i, 5],
       [/heran[çc]a (gen[ée]tica|ligada|autoss)|cruzamento|descendentes|prole|gera[çc][ãa]o F\d/i, 4],
       [/dominante|recessiv|cromossomo|cari[óo]tipo|mutac[ãa]o|mutante/i, 4],
-      [/\bDNA\b|\bRNA\b|gene\b|genes\b|transcri[çc][ãa]o|tradu[çc][ãa]o|c[óo]digo gen[ée]tico/i, 3],
+      [/\bDNA\b|\bRNA\b|\bgenes?\b|transcri[çc][ãa]o|tradu[çc][ãa]o|c[óo]digo gen[ée]tico/i, 3],
       [/grupo sangu[íi]neo|fator Rh|daltonismo|hemofilia|fibrose c[íi]stica|anemia falciforme/i, 5],
       [/transg[êe]nic|clonagem|engenharia gen[ée]tica|CRISPR|biotecnologia/i, 4],
       [/probabilidade de .*(filho|crian[çc]a|descend)/i, 3],
@@ -165,7 +166,7 @@ const SUBTEMAS = {
     ] },
     { id: "biologia-fisiologia", nome: "Fisiologia Humana e Saúde", regras: [
       [/sistema (nervoso|circulat|digest|respirat|excret|end[óo]crino|imunol)/i, 5],
-      [/cora[çc][ãa]o|pulm[ãa]o|pulmon|rim\b|rins|f[íi]gado|est[ôo]mago|intestino|alv[ée]olo/i, 5],
+      [/cora[çc][ãa]o|pulm[ãa]o|pulmon|\brim\b|rins|f[íi]gado|est[ôo]mago|intestino|alv[ée]olo/i, 5],
       [/horm[ôo]nio|insulina|adrenalina|tire[óo]ide|glicemia|diabetes/i, 5],
       [/sangue|sangu[íi]ne|press[ãa]o arterial|hem[áa]cia|leuc[óo]cito|plaqueta/i, 4],
       [/neur[ôo]nio|sinapse|impulso nervoso|c[ée]rebro|medula/i, 4],
@@ -184,7 +185,7 @@ const SUBTEMAS = {
       [/simbiose|predat|parasitismo|mutualismo|competi[çc][ãa]o (inter|intra)/i, 5],
     ] },
     { id: "biologia-evolucao", nome: "Evolução e Origem da Vida", regras: [
-      [/evolu[çc][ãa]o|evolutiv|darwin|lamarck|sele[çc][ãa]o natural/i, 5],
+      [/\bevolu[çc][ãa]o|\bevolutiv|darwin|lamarck|sele[çc][ãa]o natural/i, 5],
       [/adapta[çc][ãa]o|ancestral comum|especia[çc][ãa]o|deriva gen[ée]tica|fluxo g[êe]nico/i, 4],
       [/f[óo]ssil|registro fossil|[óo]rg[ãa]os (hom[óo]logos|an[áa]logos)|filogen|[áa]rvore evolutiva/i, 5],
       [/origem da vida|abiog[êe]nese|biog[êe]nese|panspermia|coacervado/i, 5],
@@ -194,7 +195,7 @@ const SUBTEMAS = {
       [/reino (animal|vegetal|fungi|monera|protista)|classifica[çc][ãa]o dos seres/i, 5],
       [/angiosperma|gimnosperma|briofita|pteridofita|fotoss[íi]ntese vegetal|xilema|floema|raiz|caule|folha/i, 4],
       [/artr[óo]pode|molusco|anel[íi]deo|cnid[áa]rio|porifer|equinoderm|nemat/i, 5],
-      [/vertebrado|invertebrado|anf[íi]bio|r[ée]ptil|ave[s]?\b|mam[íi]fero|peixe/i, 4],
+      [/vertebrado|invertebrado|anf[íi]bio|r[ée]ptil|\bave[s]?\b|mam[íi]fero|peixe/i, 4],
       [/fungo|alga|protozo[áa]rio|arque|procariont|eucariont/i, 4],
       [/taxonomia|nomenclatura|g[êe]nero e esp[ée]cie|bin[ôo]mial/i, 4],
     ] },
@@ -203,7 +204,7 @@ const SUBTEMAS = {
   // ---------------------------------------------------------------- Química
   quimica: [
     { id: "quimica-estequiometria", nome: "Estequiometria e Cálculos", regras: [
-      [/estequiom|mol\b|mols|quantidade de mat[ée]ria|massa molar|n[úu]mero de avogadro/i, 5],
+      [/estequiom|\bmol\b|mols|quantidade de mat[ée]ria|massa molar|n[úu]mero de avogadro/i, 5],
       [/reagente limitante|excesso de reagente|rendimento (da rea|te[óo]rico)|pureza/i, 5],
       [/\bg\/mol\b|massa at[ôo]mica|massa molecular|propor[çc][ãa]o estequiom/i, 4],
       [/quantos? (gramas|mols|litros) (de|s[ãa]o)|calcule a massa|massa de \w+ (produzida|obtida|necess)/i, 4],
@@ -211,7 +212,7 @@ const SUBTEMAS = {
     ] },
     { id: "quimica-solucoes", nome: "Soluções e Propriedades Coligativas", regras: [
       [/solu[çc][ãa]o (aquosa|de|com)|soluto|solvente|dissolv/i, 5],
-      [/concentra[çc][ãa]o (em|molar|comum)|molaridade|\bmol\/L\b|g\/L\b|ppm\b/i, 5],
+      [/concentra[çc][ãa]o (em|molar|comum)|molaridade|\bmol\/L\b|\bg\/L\b|\bppm\b/i, 5],
       [/dilui[çc][ãa]o|diluir|titula[çc][ãa]o|solubilidade|satura[çc][ãa]o|precipita/i, 4],
       [/press[ãa]o de vapor|ebuliom|criom|osmose|coligativ|tonoscop/i, 5],
       [/mistura .*solu[çc]|misturar .*volumes/i, 3],
@@ -270,7 +271,7 @@ const SUBTEMAS = {
       [/velocidade (m[ée]dia|inicial|final|escalar)|acelera[çc][ãa]o|\bm\/s\b|km\/h/i, 5],
       [/for[çc]a (resultante|de atrito|normal|peso|el[áa]stica)|leis? de newton|din[âa]mica/i, 5],
       [/movimento (uniforme|retil[íi]neo|circular|vertical)|\bMRU\b|\bMRUV\b|queda livre|lan[çc]amento/i, 5],
-      [/atrito|plano inclinado|tra[çc][ãa]o|corda|polia|bloco de massa/i, 4],
+      [/atrito|plano inclinado|\btra[çc][ãa]o|corda|polia|bloco de massa/i, 4],
       [/deslocamento|trajet[óo]ria|repouso|freia|frenagem|colide/i, 3],
       [/gravita[çc][ãa]o|[óo]rbita|sat[ée]lite|kepler|campo gravitacional/i, 5],
     ] },
@@ -288,20 +289,20 @@ const SUBTEMAS = {
       [/dilata[çc][ãa]o (t[ée]rmica|linear|volum)|coeficiente de dilata/i, 5],
       [/termodin[âa]mica|m[áa]quina t[ée]rmica|carnot|entropia|g[áa]s (ideal|perfeito)|transforma[çc][ãa]o (isot|isob|adiab)/i, 5],
       [/condu[çc][ãa]o|convec[çc][ãa]o|irradia[çc][ãa]o|propaga[çc][ãa]o do calor|isolante t[ée]rmico/i, 5],
-      [/mudan[çc]a de (estado|fase)|fus[ãa]o|vaporiza[çc][ãa]o|solidifica|condensa/i, 4],
+      [/mudan[çc]a de (estado|fase)|\bfus[ãa]o|vaporiza[çc][ãa]o|solidifica|condensa/i, 4],
     ] },
     { id: "fisica-ondas-optica", nome: "Ondas, Som e Óptica", regras: [
       // `\bonda` e não `onda`: sem a fronteira inicial casava "resp-onda".
       [/\bonda[s]?\b|ondulat[óo]ri|comprimento de onda|frequ[êe]ncia|\bhertz|\bHz\b|per[íi]odo da onda/i, 5],
-      [/som|sonor|ac[úu]stic|eco\b|ultrassom|doppler|timbre|altura do som/i, 5],
-      [/luz|[óo]ptic|espelho (plano|c[ôo]ncavo|convexo)|lente|refra[çc][ãa]o|reflex[ãa]o|[íi]ndice de refra/i, 5],
+      [/\bsom\b|sonor|ac[úu]stic|\beco\b|ultrassom|doppler|timbre|altura do som/i, 5],
+      [/luz|[óo]ptic|espelho (plano|c[ôo]ncavo|convexo)|\blente|refra[çc][ãa]o|reflex[ãa]o|[íi]ndice de refra/i, 5],
       [/imagem (virtual|real|formada)|foco|dist[âa]ncia focal|dioptria|miopia|hipermetropia/i, 5],
       [/difra[çc][ãa]o|interfer[êe]ncia|polariza[çc][ãa]o|espectro eletromagn|ressonancia|ressonância/i, 5],
       [/amplitude|crista|vale da onda|velocidade de propaga/i, 3],
     ] },
     { id: "fisica-eletromagnetismo", nome: "Eletricidade e Magnetismo", regras: [
       [/corrente el[ée]trica|amp[èeé]re|\bA\b(?!.)|resist[êe]ncia el[ée]trica|\bohm|circuito/i, 5],
-      [/tens[ãa]o|\bvolt|\bddp\b|diferen[çc]a de potencial|f\.?e\.?m\.?|gerador|pilha|bateria/i, 5],
+      [/\btens[ãa]o|\bvolts?\b|\bddp\b|diferen[çc]a de potencial|\bfem\b|\bf\.e\.m\.|gerador|pilha|bateria/i, 5],
       [/carga el[ée]trica|coulomb|campo el[ée]trico|potencial el[ée]trico|capacitor|eletrost[áa]tica/i, 5],
       // `[íi]m[ãa]` sem fronteira casava "clima", "última", "aproximadamente".
       [/campo magn[ée]tico|\b[íi]m[ãa]s?\b|magnet|indu[çc][ãa]o (eletromagn|magn)|faraday|lenz|fluxo magn/i, 5],
@@ -309,7 +310,7 @@ const SUBTEMAS = {
       [/em s[ée]rie|em paralelo|resistor|amper[íi]metro|volt[íi]metro|transformador/i, 4],
     ] },
     { id: "fisica-hidrostatica", nome: "Hidrostática e Fluidos", regras: [
-      [/press[ãa]o (hidrost|atmosf[ée]rica|no fundo|exercida)|pascal\b|\bPa\b|\batm\b|\bmmHg\b/i, 5],
+      [/press[ãa]o (hidrost|atmosf[ée]rica|no fundo|exercida)|\bpascal\b|\bPa\b|\batm\b|\bmmHg\b/i, 5],
       [/empuxo|arquimedes|flutua|afunda|densidade|massa espec[íi]fica/i, 5],
       [/fluido|l[íi]quido em (repouso|equil)|vasos comunicantes|prensa hidr[áa]ulica|manometro|manômetro/i, 5],
       [/vaz[ãa]o|escoamento|bernoulli|tubo de/i, 4],
@@ -361,7 +362,7 @@ const SUBTEMAS = {
       [/mesopot[âa]mia|egito antigo|fara[óo]|hebreu|fen[íi]cio|pers[a]/i, 5],
       [/feudal|feudo|servo da gleba|suserano|vassalo|idade m[ée]dia|medieval/i, 5],
       [/igreja cat[óo]lica na idade|cruzada|inquisi[çc][ãa]o medieval|escol[áa]stica|mosteiro|bizantin|isl[âa]mic|cal[íi]fado/i, 5],
-      [/peste negra|renascimento comercial|burgo\b|corpora[çc][ãa]o de of[íi]cio/i, 4],
+      [/peste negra|renascimento comercial|\bburgo\b|corpora[çc][ãa]o de of[íi]cio/i, 4],
     ] },
     { id: "historia-geral-moderna", nome: "Idade Moderna", regras: [
       [/absolutismo|monarquia absoluta|lu[íi]s xiv|antigo regime|mercantilismo|metalismo|pacto colonial/i, 5],
@@ -394,14 +395,14 @@ const SUBTEMAS = {
   geografia: [
     { id: "geografia-fisica-clima", nome: "Geografia Física e Clima", regras: [
       [/clima (tropical|equatorial|semi[áa]rido|temperado|subtropical)|clim[áa]tic|massa de ar|frente fria|zona de converg/i, 5],
-      [/relevo|planalto|plan[íi]cie|depress[ãa]o (relativa|absoluta)|serra\b|escudo cristalino|intemperismo|eros[ãa]o/i, 5],
+      [/relevo|planalto|plan[íi]cie|depress[ãa]o (relativa|absoluta)|\bserra\b|escudo cristalino|intemperismo|eros[ãa]o/i, 5],
       [/solo[s]?\b|lat[ée]rit|pedolog|fertilidade do solo|salini/i, 4],
       [/vegeta[çc][ãa]o|bioma|cerrado|caatinga|mata atl[âa]ntica|floresta amaz[ôo]nica|pampa|manguezal/i, 5],
-      [/hidrograf|bacia (hidrogr|do rio)|aqu[íi]fero|len[çc]ol fre[áa]tico|rio\b|nascente/i, 5],
+      [/hidrograf|bacia (hidrogr|do rio)|aqu[íi]fero|len[çc]ol fre[áa]tico|\brio\b|nascente/i, 5],
       [/placa[s]? tect[ôo]nica|terremoto|vulc[ãa]o|s[íi]smic|tsunami/i, 5],
     ] },
     { id: "geografia-populacao-urbana", nome: "População e Espaço Urbano", regras: [
-      [/urbaniza[çc][ãa]o|cidade[s]?\b|metr[óo]pole|regi[ãa]o metropolitana|conurba[çc][ãa]o|periferia|favela/i, 5],
+      [/urbaniza[çc][ãa]o|\bcidade[s]?\b|metr[óo]pole|regi[ãa]o metropolitana|conurba[çc][ãa]o|periferia|favela/i, 5],
       [/popula[çc][ãa]o (brasileira|mundial|absoluta|economicamente)|demograf|pir[âa]mide et[áa]ria|taxa de (natalidade|fecundidade|mortalidade)/i, 5],
       [/migra[çc][ãa]o|migrante|[êe]xodo rural|refugiado|imigra[çc][ãa]o|emigra/i, 5],
       [/envelhecimento (populacional|da popula)|transi[çc][ãa]o demogr[áa]fica|b[ôo]nus demogr/i, 5],
@@ -431,7 +432,7 @@ const SUBTEMAS = {
       [/unidade de conserva[çc][ãa]o|[áa]rea protegida|licenciamento ambiental|c[óo]digo florestal|crise h[íi]drica/i, 5],
     ] },
     { id: "geografia-cartografia", nome: "Cartografia e Representação", regras: [
-      [/cartograf|mapa\b|proje[çc][ãa]o (cartogr|de mercator|de peters)|escala (num[ée]rica|gr[áa]fica|do mapa)/i, 5],
+      [/cartograf|\bmapa\b|proje[çc][ãa]o (cartogr|de mercator|de peters)|escala (num[ée]rica|gr[áa]fica|do mapa)/i, 5],
       [/coordenada[s]? geogr|latitude|longitude|meridiano|paralelo|fuso hor[áa]rio|\bGMT\b/i, 5],
       [/curva de n[íi]vel|altimetr|sensoriamento remoto|\bGPS\b|geoprocessamento|imagem de sat[ée]lite|anamorfose/i, 5],
       [/leitura de (mapa|gr[áa]fico|tabela)|represent[a][çc][ãa]o do espa[çc]o/i, 3],
@@ -452,7 +453,7 @@ const SUBTEMAS = {
       [/crase|acento grave|\b[à] (que|qual|s\b)|uso do sinal indicativo/i, 5],
       [/preposi[çc][ãa]o (exigida|adequada|regida)|reg[êe]ncia do verbo|complemento (nominal|verbal)/i, 5],
       [/assistir|visar|aspirar|obedecer|implicar|preferir .*a\b|namorar/i, 4],
-      [/pronome (relativo|obl[íi]quo) .*preposi|a que|de que|em que|cujo/i, 3],
+      [/pronome (relativo|obl[íi]quo) .*preposi|\ba que\b|\bde que\b|\bem que\b|cujo/i, 3],
     ] },
     { id: "gramatica-pontuacao", nome: "Pontuação", regras: [
       [/pontua[çc][ãa]o|v[íi]rgula|ponto e v[íi]rgula|dois-pontos|dois pontos|travess[ãa]o|reticências|par[êe]nteses/i, 5],
@@ -536,7 +537,7 @@ const SUBTEMAS = {
   literatura: [
     { id: "literatura-colonial-romantismo", nome: "Do Barroco ao Romantismo", regras: [
       [/barroco|arcadismo|[áa]rcade|quinhentis|gregorio de matos|greg[óo]rio de matos|clau?dio manuel|tomas antonio gonzaga|tom[áa]s ant[ôo]nio gonzaga|marilia de dirceu|mar[íi]lia de dirceu/i, 5],
-      [/romantismo|rom[âa]ntic|jose de alencar|jos[ée] de alencar|iracema|senhora\b|o guarani|indianis|gon[çc]alves dias|castro alves|alvares de azevedo|[áa]lvares de azevedo/i, 5],
+      [/romantismo|rom[âa]ntic|jose de alencar|jos[ée] de alencar|iracema|\bsenhora\b|o guarani|indianis|gon[çc]alves dias|castro alves|alvares de azevedo|[áa]lvares de azevedo/i, 5],
       [/ultrarromantismo|condoreir|mal do s[ée]culo|byron|idealiza[çc][ãa]o (da mulher|amorosa)|nacionalismo rom[âa]ntic/i, 5],
       [/memorias de um sargento|mem[óo]rias de um sargento|manuel antonio de almeida|joaquim manuel de macedo|a moreninha/i, 5],
     ] },
@@ -606,7 +607,7 @@ const SUBTEMAS = {
       [/supports? (the (idea|statement|claim)|all of the following)|contradicts? the/i, 5],
       [/in (paragraph|line) \d|the (first|second|third|last) paragraph (says|describes)/i, 4],
       [/de acordo com o texto|segundo o (texto|autor)|conforme o texto|o texto (afirma|informa|menciona|cita)/i, 5],
-      [/\bEXCEPT\b|exceto\b/i, 4],
+      [/\bEXCEPT\b|\bexceto\b/i, 4],
       [/(a|o) (entrevistad[ao]|pesquisador[a]?|autor[a]?) (aponta|observa|afirma|relata|menciona)|sobre .{0,40}, (a|o) \w+ (observa|afirma)/i, 5],
       [/a (primeira|segunda|principal) (medida|causa|raz[ãa]o|consequ[êe]ncia) (que|apontada|citada)/i, 4],
     ] },
@@ -634,11 +635,11 @@ const SUBTEMAS = {
   // ------------------------------------------------------- Filosofia e Sociologia
   filosofia: [
     { id: "filosofia-etica-moral", nome: "Ética e Moral", regras: [
-      [/[ée]tica|moral(idade)?|virtude|dever (moral|categ)|imperativo categ[óo]rico|kant/i, 5],
+      [/\b[ée]tica|moral(idade)?|virtude|dever (moral|categ)|imperativo categ[óo]rico|kant/i, 5],
       [/utilitaris|bentham|stuart mill|maior felicidade|conseq[uü]encialis/i, 5],
       [/arist[óo]teles .*(virtude|felicidade)|eudaimonia|justi[çc]a (como virtude|distributiva)|rawls/i, 5],
       [/bem e mal|certo e errado|autonomia (moral|da vontade)|responsabilidade moral|dilema (moral|[ée]tico)/i, 4],
-      [/bio[ée]tica|[ée]tica (aplicada|profissional|animal)/i, 4],
+      [/bio[ée]tica|\b[ée]tica (aplicada|profissional|animal)/i, 4],
     ] },
     { id: "filosofia-politica", nome: "Filosofia Política e Estado", regras: [
       [/contrato social|contratualis|hobbes|locke|rousseau|estado de natureza|leviat[ãa]/i, 5],
@@ -659,12 +660,12 @@ const SUBTEMAS = {
       [/marx|marxis|mais-valia|luta de classes|classe (social|trabalhadora|dominante)|burguesia|proletariado|aliena[çc][ãa]o/i, 5],
       [/capitalismo|modo de produ[çc][ãa]o|acumula[çc][ãa]o|explora[çc][ãa]o do trabalho|for[çc]a de trabalho|mercadoria/i, 5],
       [/durkheim|divis[ãa]o (social )?do trabalho|solidariedade (mec[âa]nica|org[âa]nica)|anomia|fato social|coer[çc][ãa]o social/i, 5],
-      [/weber|a[çc][ãa]o social|tipo ideal|racionaliza[çc][ãa]o|burocracia|[ée]tica protestante|desencantamento/i, 5],
+      [/weber|a[çc][ãa]o social|tipo ideal|racionaliza[çc][ãa]o|burocracia|\b[ée]tica protestante|desencantamento/i, 5],
       [/desigualdade (social|de renda)|mobilidade social|estratifica[çc][ãa]o|pobreza|precariza[çc][ãa]o|uberiza[çc][ãa]o|trabalho (informal|por plataforma)/i, 5],
       [/taylorismo|fordismo|toyotismo|reestrutura[çc][ãa]o produtiva|desemprego estrutural/i, 5],
     ] },
     { id: "sociologia-cultura-identidade", nome: "Cultura, Identidade e Mídia", regras: [
-      [/cultura|cultural|multicultural|etnocentris|relativismo cultural|diversidade cultural|acultura/i, 5],
+      [/\bcultura|cultural|multicultural|etnocentris|relativismo cultural|diversidade cultural|acultura/i, 5],
       [/identidade (cultural|social|de g[êe]nero)|socializa[çc][ãa]o|habitus|bourdieu|capital (cultural|simb[óo]lico)/i, 5],
       [/ind[úu]stria cultural|adorno|escola de frankfurt|cultura de massa|consumo cultural|mercantiliza[çc][ãa]o da cultura/i, 5],
       [/m[íi]dia|redes sociais|internet|algoritmo|desinforma[çc][ãa]o|c[âa]mara de eco|bolha (informacional|digital)|espet[áa]culo/i, 5],
@@ -680,7 +681,7 @@ const SUBTEMAS = {
       [/institui[çc][ãa]o (social|pol[íi]tica)|fam[íi]lia (como institui|nuclear)|escola (como institui)|religi[ãa]o|secular|laic/i, 5],
       [/cidadania|direitos (civis|pol[íi]ticos|sociais)|marshall|participa[çc][ãa]o (pol[íi]tica|social)|controle social/i, 5],
       [/pol[íi]tica p[úu]blica|estado de bem-estar|welfare|assist[êe]ncia social|seguridade/i, 5],
-      [/sindicato|partido pol[íi]tico|ong\b|terceiro setor|sociedade civil/i, 4],
+      [/sindicato|partido pol[íi]tico|\bong\b|terceiro setor|sociedade civil/i, 4],
       [/a[çc][ãa]o coletiva|mobiliza[çc][ãa]o (coletiva|social)|free.?rider|problema do carona|dilema (do prisioneiro|da a[çc][ãa]o coletiva)|bem (p[úu]blico|comum)/i, 5],
       [/capital social|confian[çc]a (social|interpessoal)|coopera[çc][ãa]o|reciprocidade/i, 4],
     ] },
@@ -710,10 +711,10 @@ const SUBTEMAS = {
       [/mercado de arte|circuito art[íi]stico|institui[çc][ãa]o art[íi]stica|legitima[çc][ãa]o|valor da obra/i, 4],
     ] },
     { id: "artes-musica-cena", nome: "Música, Teatro e Dança", regras: [
-      [/m[úu]sica|musical|can[çc][ãa]o|melodia|harmonia|ritmo|compositor|[óo]pera|sinf[ôo]nic|erudita|instrumento musical/i, 5],
-      [/samba|bossa nova|choro|\bMPB\b|tropic[áa]lia|funk|rap\b|hip-?hop|sertanejo|forr[óo]|maracatu|frevo/i, 5],
-      [/teatro|teatral|dramaturgia|encena[çc][ãa]o|palco|ator|atriz|espet[áa]culo|brecht|nelson rodrigues|arena|oficina/i, 5],
-      [/dan[çc][ãa]a|dan[çc]a|coreografia|bal[ée]|dan[çc]a contempor|corpo (em cena|do bailarino)/i, 5],
+      [/m[úu]sica|musical|can[çc][ãa]o|melodia|harmonia|ritmo|compositor|\b[óo]pera[s]?\b|sinf[ôo]nic|erudita|instrumento musical/i, 5],
+      [/samba|bossa nova|choro|\bMPB\b|tropic[áa]lia|funk|\brap\b|hip-?hop|sertanejo|forr[óo]|maracatu|frevo/i, 5],
+      [/teatro|teatral|dramaturgia|encena[çc][ãa]o|palco|\bator|\batriz|espet[áa]culo|brecht|nelson rodrigues|arena|oficina/i, 5],
+      [/\bdan[çc]a|coreografia|bal[ée]|dan[çc]a contempor|corpo (em cena|do bailarino)/i, 5],
       [/circo|performance c[êe]nica|com[ée]dia|trag[ée]dia|com[ée]dia dell/i, 4],
     ] },
     { id: "artes-audiovisual-midia", nome: "Cinema, Fotografia e Audiovisual", regras: [
@@ -811,7 +812,7 @@ const SUBTEMAS = {
       [/desigualdade (de renda|social)|pobreza|fome|inseguran[çc]a alimentar|exclus[ãa]o social/i, 4],
     ] },
     { id: "dh-justica-seguranca", nome: "Justiça, Segurança e Cidadania", regras: [
-      [/sistema (penal|prisional|de justi[çc]a)|encarceramento|pres[íi]dio|pena|puni[çc][ãa]o|justi[çc]a restaurativa|\bECA\b|ato infracional/i, 5],
+      [/sistema (penal|prisional|de justi[çc]a)|encarceramento|pres[íi]dio|\bpena|puni[çc][ãa]o|justi[çc]a restaurativa|\bECA\b|ato infracional/i, 5],
       [/seguran[çc]a p[úu]blica|pol[íi]cia|viol[êe]ncia (policial|urbana|institucional)|letalidade|tortura|abuso de autoridade/i, 5],
       [/acesso [àa] justi[çc]a|defensoria p[úu]blica|minist[ée]rio p[úu]blico|judicializa[çc][ãa]o|morosidade/i, 5],
       [/cidadania|participa[çc][ãa]o (popular|social)|controle social|conselho (tutelar|de direitos)|ouvidoria/i, 4],
@@ -819,6 +820,31 @@ const SUBTEMAS = {
     ] },
   ],
 };
+
+// ------------------------------------------------- fronteira de palavra em pt-BR
+//
+// `\b` do JavaScript é ASCII: `\w` vale [A-Za-z0-9_] e mais nada. Todo acento,
+// portanto, CONTA COMO FRONTEIRA -- e o português está cheio deles. O efeito é
+// que `\brio\b` casava "territó|rio", "cená|rio", "salá|rio", "contrá|rio",
+// "vocabulá|rio": 1.600 casamentos falsos só nessa regra, todos mandando a
+// questão para hidrografia. Foi assim que uma questão sobre Xinjiang virou
+// bacia hidrográfica.
+//
+// A troca abaixo reescreve cada `\b` como a asserção que ele deveria ser: "de
+// um lado letra, do outro não", com a classe de letras estendida aos acentos.
+// Vale para toda a tabela de uma vez, e por isso não há como uma regra nova
+// nascer com o defeito.
+const LETRA = "A-Za-zÀ-ÖØ-öø-ÿ0-9_";
+const FRONTEIRA = `(?:(?<=[${LETRA}])(?![${LETRA}])|(?<![${LETRA}])(?=[${LETRA}]))`;
+
+function comFronteiraPtBr(rx) {
+  if (!rx.source.includes("\\b")) return rx;
+  return new RegExp(rx.source.split("\\b").join(FRONTEIRA), rx.flags);
+}
+
+Object.values(SUBTEMAS).forEach((lista) => {
+  lista.forEach((s) => { s.regras = s.regras.map(([rx, peso]) => [comFronteiraPtBr(rx), peso]); });
+});
 
 // Frentes que compartilham a mesma tabela de subtemas (o id da tabela difere do
 // id da frente quando uma tabela serve a mais de uma frente ou tem nome curto).
@@ -1095,6 +1121,31 @@ const REVISADAS = {
   "eng-matematica-43": "matematica-logica-conjuntos",
   // Sistema linear disfarçado de placar de competição.
   "eng-matematica-45": "matematica-algebra",
+
+  // --- ENEM 2023, 1º dia (Ciências Humanas)
+  // O ENEM escreve o enunciado em torno de um TEXTO, e o texto quase nunca diz
+  // o nome do assunto: "Felizes tempos eram esses!" é Brasil oitocentista sem
+  // uma palavra-chave que a tabela reconheça. O placar dessas questões fecha em
+  // ZERO em todos os subtemas, e aí quem decide é a ordem da lista — o primeiro
+  // da frente leva tudo. Por isso o pino aqui não conserta só as que caíram no
+  // lugar errado; ele fixa também as que acertaram por acaso do desempate.
+  //
+  // Revista feminina de 1853: alfabetização das moças e circulação de bilhetes.
+  "enem-historia-01": "historia-brasil-colonia-imperio",
+  // Porcelana chinesa e as "chinesices" do barroco mineiro, séculos XVII-XVIII.
+  "enem-historia-04": "historia-brasil-colonia-imperio",
+  // Enterro de Vladimir Herzog, 1975 — repressão institucionalizada.
+  "enem-historia-05": "historia-brasil-republica",
+  // Tahuantinsuyu: império inca antes da conquista. "Crenças coloniais", que é
+  // texto do distrator e não do enunciado, puxava a questão para o Brasil colônia.
+  "enem-historia-07": "historia-geral-antiga-medieval",
+  // Vacina e omissão da Coroa portuguesa, texto de 1828.
+  "enem-historia-08": "historia-brasil-colonia-imperio",
+  // Cartas de imigrantes entre Portugal e Brasil, 1890-1930.
+  "enem-historia-10": "historia-brasil-republica",
+  // Antissemitismo no Brasil dos anos 1930. "Anarquista e comunista" puxava
+  // para história geral contemporânea, mas o episódio é da Era Vargas.
+  "enem-historia-12": "historia-brasil-republica",
 };
 
 // ------------------------------------------------------------------- classificação
@@ -1179,11 +1230,61 @@ function falsosPositivos() {
   process.exit(1);
 }
 
+// `--falsos` só pega o que alguém já suspeitou: ele testa as regras contra um
+// texto neutro escrito à mão. `--dentro` parte do caminho oposto — varre o
+// BANCO REAL e denuncia toda regra que casou no miolo de uma palavra maior.
+// Foi assim que apareceram "rio" dentro de "território" (574 vezes), "pena"
+// dentro de "apenas" (2.323) e "cidade" dentro de "velocidade" (557).
+//
+// Nem todo achado é defeito: casar "cultura" em "culturais" ou "área" em
+// "áreas" é o que se quer de um radical. O que se procura é o par em que a
+// palavra maior significa OUTRA COISA — e esse a lista mostra de cara, porque
+// vem ordenada por frequência.
+function casaDentroDePalavra(frenteAlvo) {
+  const LETRA_RX = new RegExp("[" + LETRA + "]");
+  const textos = [];
+  fs.readdirSync(QUESTOES).filter((f) => f.endsWith(".json")).forEach((f) => {
+    if (frenteAlvo && f !== frenteAlvo + ".json") return;
+    const d = JSON.parse(fs.readFileSync(path.join(QUESTOES, f), "utf8"));
+    (Array.isArray(d) ? d : d.questoes || []).forEach((q) => textos.push(textoDe(q)));
+  });
+
+  const achados = {};
+  Object.entries(SUBTEMAS).forEach(([tabela, lista]) => lista.forEach((s) => s.regras.forEach(([rx]) => {
+    const g = new RegExp(rx.source, "gi");
+    textos.forEach((txt) => {
+      let m;
+      g.lastIndex = 0;
+      while ((m = g.exec(txt)) !== null) {
+        if (!m[0]) { g.lastIndex++; continue; }
+        const i = m.index, fim = i + m[0].length;
+        if (!LETRA_RX.test(txt[i - 1] || " ") && !LETRA_RX.test(txt[fim] || " ")) continue;
+        let a = i, b = fim;
+        while (a > 0 && LETRA_RX.test(txt[a - 1])) a--;
+        while (b < txt.length && LETRA_RX.test(txt[b])) b++;
+        const palavra = txt.slice(a, b);
+        if (palavra.toLowerCase() === m[0].toLowerCase()) continue;
+        const k = tabela + "/" + s.id + " " + m[0].toLowerCase() + " " + palavra.toLowerCase();
+        achados[k] = (achados[k] || 0) + 1;
+      }
+    });
+  })));
+
+  const ord = Object.entries(achados).sort((x, y) => y[1] - x[1]);
+  console.log(textos.length + " questões varridas, " + ord.length + " pares regra×palavra\n");
+  ord.slice(0, 40).forEach(([k, n]) => {
+    const [ondeVai, casou, palavra] = k.split(" ");
+    console.log(String(n).padStart(6) + "  " + ondeVai.padEnd(44) + '"' + casou + '" dentro de "' + palavra + '"');
+  });
+  if (ord.length > 40) console.log("\n  … e mais " + (ord.length - 40) + " pares.");
+}
+
 function main() {
   const arg = process.argv[2];
   const alvo = process.argv[3];
 
   if (arg === "--falsos") return falsosPositivos();
+  if (arg === "--dentro") return casaDentroDePalavra(alvo);
 
   fs.mkdirSync(SAIDA, { recursive: true });
   const arquivos = fs.readdirSync(QUESTOES).filter((f) => f.endsWith(".json"));

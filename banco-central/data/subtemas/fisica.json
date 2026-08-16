@@ -3,25 +3,32 @@
  "frente": "fisica",
  "total": 534,
  "residuo": [
+  "med-fisica-31",
   "med-fisica-92",
+  "med-fisica-110",
   "med-fisica-136",
   "med-fisica-168",
+  "med-fisica-187",
   "med-fisica-192",
   "med-fisica-259",
-  "eng-fismoderna-01"
+  "med-fisica-264",
+  "med-fisica-286",
+  "med-fisica-338",
+  "eng-fismoderna-01",
+  "eng-fismoderna-05"
  ],
  "mapa": {
   "med-fisica-01": {
    "subtema": "fisica-ondas-optica",
    "frenteDestino": "fisica",
    "pontos": 20,
-   "margem": 10
+   "margem": 15
   },
   "med-fisica-02": {
    "subtema": "fisica-ondas-optica",
    "frenteDestino": "fisica",
    "pontos": 15,
-   "margem": 5
+   "margem": 10
   },
   "med-fisica-03": {
    "subtema": "fisica-mecanica",
@@ -45,7 +52,7 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-07": {
    "subtema": "fisica-mecanica",
@@ -123,7 +130,7 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 14,
-   "margem": 4
+   "margem": 14
   },
   "med-fisica-20": {
    "subtema": "fisica-eletromagnetismo",
@@ -134,8 +141,8 @@
   "med-fisica-21": {
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
-   "pontos": 15,
-   "margem": 11
+   "pontos": 10,
+   "margem": 6
   },
   "med-fisica-22": {
    "subtema": "fisica-termologia",
@@ -177,7 +184,7 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 19,
-   "margem": 14
+   "margem": 19
   },
   "med-fisica-29": {
    "subtema": "fisica-ondas-optica",
@@ -192,10 +199,9 @@
    "margem": 10
   },
   "med-fisica-31": {
-   "subtema": "fisica-ondas-optica",
+   "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-fisica-32": {
    "subtema": "fisica-mecanica",
@@ -213,13 +219,13 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 8,
-   "margem": 3
+   "margem": 8
   },
   "med-fisica-35": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 12,
-   "margem": 7
+   "pontos": 8,
+   "margem": 8
   },
   "med-fisica-36": {
    "subtema": "fisica-termologia",
@@ -242,8 +248,8 @@
   "med-fisica-39": {
    "subtema": "fisica-ondas-optica",
    "frenteDestino": "fisica",
-   "pontos": 15,
-   "margem": 15
+   "pontos": 10,
+   "margem": 10
   },
   "med-fisica-40": {
    "subtema": "fisica-ondas-optica",
@@ -260,8 +266,8 @@
   "med-fisica-42": {
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
-   "pontos": 10,
-   "margem": 6
+   "pontos": 5,
+   "margem": 5
   },
   "med-fisica-43": {
    "subtema": "fisica-eletromagnetismo",
@@ -330,16 +336,16 @@
    "margem": 14
   },
   "med-fisica-54": {
-   "subtema": "fisica-mecanica",
+   "subtema": "fisica-energia-trabalho",
    "frenteDestino": "fisica",
-   "pontos": 7,
-   "margem": 2
+   "pontos": 5,
+   "margem": 0
   },
   "med-fisica-55": {
    "subtema": "fisica-termologia",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-56": {
    "subtema": "fisica-termologia",
@@ -375,7 +381,7 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-62": {
    "subtema": "fisica-hidrostatica",
@@ -417,7 +423,7 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-fisica-69": {
    "subtema": "fisica-eletromagnetismo",
@@ -440,8 +446,8 @@
   "med-fisica-72": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 19,
-   "margem": 14
+   "pontos": 15,
+   "margem": 10
   },
   "med-fisica-73": {
    "subtema": "fisica-mecanica",
@@ -495,13 +501,13 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-82": {
    "subtema": "fisica-energia-trabalho",
    "frenteDestino": "fisica",
    "pontos": 4,
-   "margem": 0
+   "margem": 1
   },
   "med-fisica-83": {
    "subtema": "fisica-eletromagnetismo",
@@ -519,7 +525,7 @@
    "subtema": "fisica-ondas-optica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-86": {
    "subtema": "fisica-eletromagnetismo",
@@ -537,7 +543,7 @@
    "subtema": "fisica-ondas-optica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 1
+   "margem": 5
   },
   "med-fisica-89": {
    "subtema": "fisica-ondas-optica",
@@ -572,7 +578,7 @@
    "subtema": "fisica-termologia",
    "frenteDestino": "fisica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-fisica-95": {
    "subtema": "fisica-ondas-optica",
@@ -620,13 +626,13 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 9,
-   "margem": 4
+   "margem": 9
   },
   "med-fisica-103": {
    "subtema": "fisica-termologia",
    "frenteDestino": "fisica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-fisica-104": {
    "subtema": "fisica-ondas-optica",
@@ -649,8 +655,8 @@
   "med-fisica-107": {
    "subtema": "fisica-ondas-optica",
    "frenteDestino": "fisica",
-   "pontos": 15,
-   "margem": 5
+   "pontos": 10,
+   "margem": 0
   },
   "med-fisica-108": {
    "subtema": "fisica-mecanica",
@@ -662,13 +668,12 @@
    "subtema": "fisica-ondas-optica",
    "frenteDestino": "fisica",
    "pontos": 10,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-110": {
-   "subtema": "fisica-ondas-optica",
+   "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-fisica-111": {
    "subtema": "fisica-moderna",
@@ -680,7 +685,7 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 1
+   "margem": 3
   },
   "med-fisica-113": {
    "subtema": "fisica-eletromagnetismo",
@@ -692,7 +697,7 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 1
+   "margem": 5
   },
   "med-fisica-115": {
    "subtema": "fisica-energia-trabalho",
@@ -722,7 +727,7 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 9,
-   "margem": 4
+   "margem": 9
   },
   "med-fisica-120": {
    "subtema": "fisica-eletromagnetismo",
@@ -791,10 +796,10 @@
    "margem": 6
   },
   "med-fisica-131": {
-   "subtema": "fisica-ondas-optica",
+   "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
-   "pontos": 10,
-   "margem": 1
+   "pontos": 9,
+   "margem": 9
   },
   "med-fisica-132": {
    "subtema": "fisica-energia-trabalho",
@@ -924,8 +929,8 @@
   "med-fisica-153": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 9,
-   "margem": 9
+   "pontos": 5,
+   "margem": 5
   },
   "med-fisica-154": {
    "subtema": "fisica-mecanica",
@@ -954,8 +959,8 @@
   "med-fisica-158": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 12,
-   "margem": 12
+   "pontos": 8,
+   "margem": 8
   },
   "med-fisica-159": {
    "subtema": "fisica-mecanica",
@@ -966,8 +971,8 @@
   "med-fisica-160": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 22,
-   "margem": 17
+   "pontos": 18,
+   "margem": 13
   },
   "med-fisica-161": {
    "subtema": "fisica-mecanica",
@@ -985,7 +990,7 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-164": {
    "subtema": "fisica-mecanica",
@@ -997,7 +1002,7 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-fisica-166": {
    "subtema": "fisica-mecanica",
@@ -1062,13 +1067,13 @@
    "subtema": "fisica-termologia",
    "frenteDestino": "fisica",
    "pontos": 10,
-   "margem": 3
+   "margem": 5
   },
   "med-fisica-177": {
-   "subtema": "fisica-termologia",
+   "subtema": "fisica-energia-trabalho",
    "frenteDestino": "fisica",
-   "pontos": 14,
-   "margem": 4
+   "pontos": 10,
+   "margem": 0
   },
   "med-fisica-178": {
    "subtema": "fisica-termologia",
@@ -1127,8 +1132,7 @@
   "med-fisica-187": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 4,
-   "margem": 4
+   "padrao": true
   },
   "med-fisica-188": {
    "subtema": "fisica-eletromagnetismo",
@@ -1149,10 +1153,10 @@
    "margem": 1
   },
   "med-fisica-191": {
-   "subtema": "fisica-ondas-optica",
+   "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-192": {
    "subtema": "fisica-mecanica",
@@ -1166,10 +1170,10 @@
    "margem": 5
   },
   "med-fisica-194": {
-   "subtema": "fisica-mecanica",
+   "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
-   "pontos": 7,
-   "margem": 2
+   "pontos": 5,
+   "margem": 1
   },
   "med-fisica-195": {
    "subtema": "fisica-eletromagnetismo",
@@ -1181,19 +1185,19 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 20,
-   "margem": 16
+   "margem": 20
   },
   "med-fisica-197": {
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
-   "pontos": 10,
-   "margem": 5
-  },
-  "med-fisica-198": {
-   "subtema": "fisica-ondas-optica",
-   "frenteDestino": "fisica",
    "pontos": 5,
    "margem": 0
+  },
+  "med-fisica-198": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
   },
   "med-fisica-199": {
    "subtema": "fisica-eletromagnetismo",
@@ -1253,7 +1257,7 @@
    "subtema": "fisica-termologia",
    "frenteDestino": "fisica",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-fisica-209": {
    "subtema": "fisica-termologia",
@@ -1265,7 +1269,7 @@
    "subtema": "fisica-termologia",
    "frenteDestino": "fisica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-fisica-211": {
    "subtema": "fisica-moderna",
@@ -1312,8 +1316,8 @@
   "med-fisica-218": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 9,
-   "margem": 4
+   "pontos": 5,
+   "margem": 0
   },
   "med-fisica-219": {
    "subtema": "fisica-moderna",
@@ -1403,7 +1407,7 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-fisica-234": {
    "subtema": "fisica-mecanica",
@@ -1493,13 +1497,13 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-fisica-249": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-250": {
    "subtema": "fisica-mecanica",
@@ -1522,7 +1526,7 @@
   "med-fisica-253": {
    "subtema": "fisica-ondas-optica",
    "frenteDestino": "fisica",
-   "pontos": 20,
+   "pontos": 15,
    "margem": 15
   },
   "med-fisica-254": {
@@ -1564,7 +1568,7 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-fisica-261": {
    "subtema": "fisica-eletromagnetismo",
@@ -1585,10 +1589,9 @@
    "margem": 2
   },
   "med-fisica-264": {
-   "subtema": "fisica-ondas-optica",
+   "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-fisica-265": {
    "subtema": "fisica-ondas-optica",
@@ -1600,7 +1603,7 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 19,
-   "margem": 14
+   "margem": 19
   },
   "med-fisica-267": {
    "subtema": "fisica-mecanica",
@@ -1612,7 +1615,7 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-269": {
    "subtema": "fisica-energia-trabalho",
@@ -1624,7 +1627,7 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-271": {
    "subtema": "fisica-termologia",
@@ -1636,7 +1639,7 @@
    "subtema": "fisica-termologia",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 1
   },
   "med-fisica-273": {
    "subtema": "fisica-ondas-optica",
@@ -1666,7 +1669,7 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-278": {
    "subtema": "fisica-mecanica",
@@ -1705,10 +1708,10 @@
    "margem": 8
   },
   "med-fisica-284": {
-   "subtema": "fisica-ondas-optica",
+   "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-285": {
    "subtema": "fisica-eletromagnetismo",
@@ -1717,10 +1720,9 @@
    "margem": 14
   },
   "med-fisica-286": {
-   "subtema": "fisica-ondas-optica",
+   "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-fisica-287": {
    "subtema": "fisica-mecanica",
@@ -1756,7 +1758,7 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-fisica-293": {
    "subtema": "fisica-ondas-optica",
@@ -1768,13 +1770,13 @@
    "subtema": "fisica-termologia",
    "frenteDestino": "fisica",
    "pontos": 9,
-   "margem": 4
+   "margem": 5
   },
   "med-fisica-295": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 8,
-   "margem": 3
+   "margem": 8
   },
   "med-fisica-296": {
    "subtema": "fisica-ondas-optica",
@@ -1870,7 +1872,7 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 1
+   "margem": 5
   },
   "med-fisica-312": {
    "subtema": "fisica-mecanica",
@@ -1887,8 +1889,8 @@
   "med-fisica-314": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 9,
-   "margem": 9
+   "pontos": 5,
+   "margem": 5
   },
   "med-fisica-315": {
    "subtema": "fisica-energia-trabalho",
@@ -1900,7 +1902,7 @@
    "subtema": "fisica-ondas-optica",
    "frenteDestino": "fisica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-fisica-317": {
    "subtema": "fisica-mecanica",
@@ -1954,7 +1956,7 @@
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-fisica-326": {
    "subtema": "fisica-eletromagnetismo",
@@ -2020,7 +2022,7 @@
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "pontos": 17,
-   "margem": 7
+   "margem": 12
   },
   "med-fisica-337": {
    "subtema": "fisica-ondas-optica",
@@ -2029,10 +2031,9 @@
    "margem": 5
   },
   "med-fisica-338": {
-   "subtema": "fisica-ondas-optica",
+   "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-fisica-339": {
    "subtema": "fisica-ondas-optica",
@@ -2212,7 +2213,7 @@
    "subtema": "fisica-hidrostatica",
    "frenteDestino": "fisica",
    "pontos": 15,
-   "margem": 10
+   "margem": 13
   },
   "med-fisica-369": {
    "subtema": "fisica-hidrostatica",
@@ -2386,7 +2387,7 @@
    "subtema": "fisica-hidrostatica",
    "frenteDestino": "fisica",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "med-fisica-398": {
    "subtema": "fisica-hidrostatica",
@@ -2458,7 +2459,7 @@
    "subtema": "fisica-hidrostatica",
    "frenteDestino": "fisica",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "med-fisica-410": {
    "subtema": "fisica-hidrostatica",
@@ -2602,7 +2603,7 @@
    "subtema": "fisica-energia-trabalho",
    "frenteDestino": "fisica",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-fisica-434": {
    "subtema": "fisica-energia-trabalho",
@@ -2614,13 +2615,13 @@
    "subtema": "fisica-energia-trabalho",
    "frenteDestino": "fisica",
    "pontos": 13,
-   "margem": 8
+   "margem": 13
   },
   "med-fisica-436": {
    "subtema": "fisica-energia-trabalho",
    "frenteDestino": "fisica",
    "pontos": 9,
-   "margem": 4
+   "margem": 9
   },
   "med-fisica-437": {
    "subtema": "fisica-energia-trabalho",
@@ -2668,7 +2669,7 @@
    "subtema": "fisica-energia-trabalho",
    "frenteDestino": "fisica",
    "pontos": 18,
-   "margem": 13
+   "margem": 18
   },
   "med-fisica-445": {
    "subtema": "fisica-energia-trabalho",
@@ -2686,13 +2687,13 @@
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "pontos": 25,
-   "margem": 21
+   "margem": 25
   },
   "med-fisica-448": {
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "pontos": 22,
-   "margem": 15
+   "margem": 19
   },
   "med-fisica-449": {
    "subtema": "fisica-moderna",
@@ -2722,7 +2723,7 @@
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "pontos": 25,
-   "margem": 20
+   "margem": 25
   },
   "med-fisica-454": {
    "subtema": "fisica-moderna",
@@ -2734,7 +2735,7 @@
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "pontos": 32,
-   "margem": 25
+   "margem": 29
   },
   "med-fisica-456": {
    "subtema": "fisica-moderna",
@@ -2860,7 +2861,7 @@
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "pontos": 34,
-   "margem": 24
+   "margem": 29
   },
   "med-fisica-477": {
    "subtema": "fisica-moderna",
@@ -2890,7 +2891,7 @@
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "pontos": 15,
-   "margem": 8
+   "margem": 10
   },
   "med-fisica-482": {
    "subtema": "fisica-moderna",
@@ -2954,14 +2955,13 @@
   "eng-fismoderna-05": {
    "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 4,
-   "margem": 4
+   "padrao": true
   },
   "eng-fismoderna-06": {
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "pontos": 8,
-   "margem": 1
+   "margem": 5
   },
   "eng-fismoderna-07": {
    "subtema": "fisica-moderna",
@@ -3003,7 +3003,7 @@
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "pontos": 20,
-   "margem": 5
+   "margem": 10
   },
   "eng-fismoderna-14": {
    "subtema": "fisica-moderna",
@@ -3057,7 +3057,7 @@
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "pontos": 17,
-   "margem": 7
+   "margem": 12
   },
   "eng-fismoderna-23": {
    "subtema": "fisica-ondas-optica",
@@ -3192,7 +3192,7 @@
    "subtema": "fisica-eletromagnetismo",
    "frenteDestino": "fisica",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "eng-fisica-21": {
    "subtema": "fisica-termologia",
@@ -3201,10 +3201,10 @@
    "margem": 0
   },
   "eng-fisica-22": {
-   "subtema": "fisica-ondas-optica",
+   "subtema": "fisica-mecanica",
    "frenteDestino": "fisica",
-   "pontos": 10,
-   "margem": 5
+   "pontos": 5,
+   "margem": 0
   }
  }
 }

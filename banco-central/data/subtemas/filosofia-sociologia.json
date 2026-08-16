@@ -13,6 +13,7 @@
   "med-filosofia-sociologia-82",
   "med-filosofia-sociologia-86",
   "med-filosofia-sociologia-88",
+  "med-filosofia-sociologia-93",
   "med-filosofia-sociologia-94",
   "med-filosofia-sociologia-99",
   "med-filosofia-sociologia-102",
@@ -365,10 +366,10 @@
    "margem": 0
   },
   "dir-filosofia-sociologia-58": {
-   "subtema": "sociologia-cultura-identidade",
+   "subtema": "sociologia-instituicoes-movimentos",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "dir-filosofia-sociologia-59": {
    "subtema": "filosofia-politica",
@@ -476,7 +477,7 @@
    "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 10,
-   "margem": 1
+   "margem": 5
   },
   "dir-filosofia-sociologia-77": {
    "subtema": "filosofia-conhecimento-logica",
@@ -671,7 +672,7 @@
    "subtema": "filosofia-conhecimento-logica",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 9,
-   "margem": 4
+   "margem": 9
   },
   "med-filosofia-sociologia-09": {
    "subtema": "filosofia-conhecimento-logica",
@@ -784,13 +785,13 @@
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 1
+   "margem": 5
   },
   "med-filosofia-sociologia-28": {
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 14,
-   "margem": 14
+   "pontos": 9,
+   "margem": 9
   },
   "med-filosofia-sociologia-29": {
    "subtema": "filosofia-etica-moral",
@@ -1153,10 +1154,10 @@
    "margem": 0
   },
   "med-filosofia-sociologia-90": {
-   "subtema": "filosofia-etica-moral",
+   "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-filosofia-sociologia-91": {
    "subtema": "sociologia-cultura-identidade",
@@ -1173,8 +1174,7 @@
   "med-filosofia-sociologia-93": {
    "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-filosofia-sociologia-94": {
    "subtema": "sociologia-cultura-identidade",
@@ -1319,8 +1319,8 @@
   "med-filosofia-sociologia-118": {
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 14,
-   "margem": 10
+   "pontos": 9,
+   "margem": 5
   },
   "med-filosofia-sociologia-119": {
    "subtema": "filosofia-etica-moral",
@@ -1461,10 +1461,10 @@
    "margem": 1
   },
   "med-filosofia-sociologia-142": {
-   "subtema": "filosofia-etica-moral",
+   "subtema": "filosofia-conhecimento-logica",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-filosofia-sociologia-143": {
    "subtema": "sociologia-cultura-identidade",
@@ -1491,8 +1491,8 @@
   "med-filosofia-sociologia-147": {
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 9,
-   "margem": 9
+   "pontos": 4,
+   "margem": 4
   },
   "med-filosofia-sociologia-148": {
    "subtema": "filosofia-etica-moral",
@@ -1730,8 +1730,8 @@
   "med-filosofia-sociologia-235": {
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
-   "pontos": 14,
-   "margem": 14
+   "pontos": 9,
+   "margem": 9
   },
   "med-filosofia-sociologia-236": {
    "subtema": "filosofia-etica-moral",
@@ -1935,7 +1935,7 @@
    "subtema": "filosofia-politica",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-filosofia-sociologia-270": {
    "subtema": "filosofia-politica",
@@ -2421,7 +2421,7 @@
    "subtema": "sociologia-cultura-identidade",
    "frenteDestino": "filosofia-sociologia",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   }
  }
 }

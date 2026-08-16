@@ -219,7 +219,7 @@
    "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
    "pontos": 9,
-   "margem": 4
+   "margem": 9
   },
   "med-biologia-36": {
    "subtema": "biologia-genetica",
@@ -260,7 +260,7 @@
    "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-biologia-43": {
    "subtema": "biologia-genetica",
@@ -365,10 +365,10 @@
    "margem": 4
   },
   "med-biologia-60": {
-   "subtema": "biologia-diversidade",
+   "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
-   "pontos": 8,
-   "margem": 3
+   "pontos": 5,
+   "margem": 1
   },
   "med-biologia-61": {
    "subtema": "biologia-diversidade",
@@ -470,7 +470,7 @@
    "subtema": "biologia-citologia",
    "frenteDestino": "biologia",
    "pontos": 10,
-   "margem": 1
+   "margem": 6
   },
   "med-biologia-78": {
    "subtema": "biologia-fisiologia",
@@ -487,14 +487,14 @@
   "med-biologia-80": {
    "subtema": "biologia-fisiologia",
    "frenteDestino": "biologia",
-   "pontos": 14,
-   "margem": 9
+   "pontos": 9,
+   "margem": 4
   },
   "med-biologia-81": {
    "subtema": "biologia-diversidade",
    "frenteDestino": "biologia",
    "pontos": 12,
-   "margem": 3
+   "margem": 7
   },
   "med-biologia-82": {
    "subtema": "biologia-ecologia",
@@ -712,10 +712,10 @@
    "margem": 2
   },
   "med-biologia-118": {
-   "subtema": "biologia-fisiologia",
+   "subtema": "biologia-citologia",
    "frenteDestino": "biologia",
-   "pontos": 9,
-   "margem": 2
+   "pontos": 7,
+   "margem": 3
   },
   "med-biologia-119": {
    "subtema": "biologia-ecologia",
@@ -775,7 +775,7 @@
    "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 10
   },
   "med-biologia-129": {
    "subtema": "biologia-citologia",
@@ -883,7 +883,7 @@
    "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
    "pontos": 9,
-   "margem": 4
+   "margem": 5
   },
   "med-biologia-147": {
    "subtema": "biologia-citologia",
@@ -894,8 +894,8 @@
   "med-biologia-148": {
    "subtema": "biologia-fisiologia",
    "frenteDestino": "biologia",
-   "pontos": 9,
-   "margem": 6
+   "pontos": 4,
+   "margem": 1
   },
   "med-biologia-149": {
    "subtema": "biologia-ecologia",
@@ -1051,7 +1051,7 @@
    "subtema": "biologia-genetica",
    "frenteDestino": "biologia",
    "pontos": 11,
-   "margem": 7
+   "margem": 11
   },
   "med-biologia-175": {
    "subtema": "biologia-genetica",
@@ -1204,10 +1204,10 @@
    "margem": 5
   },
   "med-biologia-200": {
-   "subtema": "biologia-fisiologia",
+   "subtema": "biologia-genetica",
    "frenteDestino": "biologia",
-   "pontos": 5,
-   "margem": 2
+   "pontos": 3,
+   "margem": 1
   },
   "med-biologia-201": {
    "subtema": "biologia-fisiologia",
@@ -1374,7 +1374,7 @@
    "subtema": "biologia-fisiologia",
    "frenteDestino": "biologia",
    "pontos": 9,
-   "margem": 5
+   "margem": 9
   },
   "med-biologia-229": {
    "subtema": "biologia-fisiologia",
@@ -1868,7 +1868,7 @@
    "subtema": "biologia-citologia",
    "frenteDestino": "biologia",
    "pontos": 10,
-   "margem": 1
+   "margem": 6
   },
   "med-biologia-313": {
    "subtema": "biologia-diversidade",
@@ -1910,7 +1910,7 @@
    "subtema": "biologia-fisiologia",
    "frenteDestino": "biologia",
    "pontos": 9,
-   "margem": 5
+   "margem": 9
   },
   "med-biologia-320": {
    "subtema": "biologia-genetica",
@@ -1973,10 +1973,10 @@
    "margem": 0
   },
   "med-biologia-330": {
-   "subtema": "biologia-diversidade",
+   "subtema": "biologia-fisiologia",
    "frenteDestino": "biologia",
-   "pontos": 8,
-   "margem": 4
+   "pontos": 4,
+   "margem": 0
   },
   "med-biologia-331": {
    "subtema": "biologia-genetica",
@@ -2036,7 +2036,7 @@
    "subtema": "biologia-evolucao",
    "frenteDestino": "biologia",
    "pontos": 14,
-   "margem": 9
+   "margem": 14
   },
   "med-biologia-341": {
    "subtema": "biologia-evolucao",
@@ -2168,7 +2168,7 @@
    "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "med-biologia-363": {
    "subtema": "biologia-ecologia",
@@ -2228,7 +2228,7 @@
    "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
    "pontos": 9,
-   "margem": 4
+   "margem": 5
   },
   "med-biologia-373": {
    "subtema": "biologia-ecologia",
@@ -2288,7 +2288,7 @@
    "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
    "pontos": 9,
-   "margem": 4
+   "margem": 5
   },
   "med-biologia-383": {
    "subtema": "biologia-ecologia",
@@ -2300,7 +2300,7 @@
    "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
    "pontos": 9,
-   "margem": 4
+   "margem": 9
   },
   "med-biologia-385": {
    "subtema": "biologia-diversidade",
@@ -2762,7 +2762,7 @@
    "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "med-biologia-462": {
    "subtema": "biologia-ecologia",

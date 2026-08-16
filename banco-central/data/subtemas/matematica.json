@@ -10,6 +10,7 @@
   "dir-matematica-rlm-322",
   "dir-matematica-rlm-328",
   "med-matematica-71",
+  "med-matematica-144",
   "med-matematica-213",
   "med-matematica-278",
   "med-matematica-279",
@@ -22,6 +23,7 @@
   "med-matematica-322",
   "med-matematica-327",
   "med-matematica-347",
+  "med-matematica-353",
   "med-matematica-359",
   "eng-logica-23",
   "eng-logica-25"
@@ -2766,10 +2768,9 @@
    "margem": 3
   },
   "med-matematica-144": {
-   "subtema": "matematica-sequencias",
+   "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
-   "pontos": 3,
-   "margem": 3
+   "padrao": true
   },
   "med-matematica-145": {
    "subtema": "matematica-algebra",
@@ -3616,10 +3617,10 @@
    "margem": 12
   },
   "med-matematica-288": {
-   "subtema": "matematica-sequencias",
+   "subtema": "matematica-financeira",
    "frenteDestino": "matematica",
-   "pontos": 5,
-   "margem": 1
+   "pontos": 4,
+   "margem": 4
   },
   "med-matematica-289": {
    "subtema": "matematica-algebra",
@@ -3997,10 +3998,9 @@
    "margem": 4
   },
   "med-matematica-353": {
-   "subtema": "matematica-sequencias",
+   "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "med-matematica-354": {
    "subtema": "matematica-sequencias",

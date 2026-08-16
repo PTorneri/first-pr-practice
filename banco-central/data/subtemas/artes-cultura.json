@@ -3,8 +3,12 @@
  "frente": "artes-cultura",
  "total": 389,
  "residuo": [
+  "dir-artes-cultura-31",
+  "dir-artes-cultura-32",
   "dir-artes-cultura-46",
   "dir-artes-cultura-52",
+  "dir-artes-cultura-56",
+  "dir-artes-cultura-93",
   "med-artes-cultura-04",
   "med-artes-cultura-08",
   "med-artes-cultura-17",
@@ -57,7 +61,7 @@
    "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 15,
-   "margem": 5
+   "margem": 10
   },
   "dir-artes-cultura-06": {
    "subtema": "artes-audiovisual-midia",
@@ -74,8 +78,8 @@
   "dir-artes-cultura-08": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 15,
-   "margem": 5
+   "pontos": 10,
+   "margem": 0
   },
   "dir-artes-cultura-09": {
    "subtema": "artes-musica-cena",
@@ -86,8 +90,8 @@
   "dir-artes-cultura-10": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 15,
-   "margem": 10
+   "pontos": 10,
+   "margem": 5
   },
   "dir-artes-cultura-11": {
    "subtema": "artes-patrimonio-cultura-popular",
@@ -111,7 +115,7 @@
    "subtema": "artes-contemporanea",
    "frenteDestino": "artes-cultura",
    "pontos": 9,
-   "margem": 4
+   "margem": 6
   },
   "dir-artes-cultura-15": {
    "subtema": "artes-classica-moderna",
@@ -126,16 +130,16 @@
    "margem": 0
   },
   "dir-artes-cultura-17": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 15,
-   "margem": 0
+   "margem": 10
   },
   "dir-artes-cultura-18": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "dir-artes-cultura-19": {
    "subtema": "artes-audiovisual-midia",
@@ -150,10 +154,10 @@
    "margem": 5
   },
   "dir-artes-cultura-21": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
-   "pontos": 15,
-   "margem": 10
+   "pontos": 5,
+   "margem": 0
   },
   "dir-artes-cultura-22": {
    "subtema": "artes-classica-moderna",
@@ -171,13 +175,13 @@
    "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "dir-artes-cultura-25": {
    "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 15,
-   "margem": 10
+   "margem": 15
   },
   "dir-artes-cultura-26": {
    "subtema": "artes-musica-cena",
@@ -210,16 +214,14 @@
    "margem": 9
   },
   "dir-artes-cultura-31": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "dir-artes-cultura-32": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "dir-artes-cultura-33": {
    "subtema": "artes-patrimonio-cultura-popular",
@@ -228,10 +230,10 @@
    "margem": 8
   },
   "dir-artes-cultura-34": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-patrimonio-cultura-popular",
    "frenteDestino": "artes-cultura",
-   "pontos": 5,
-   "margem": 2
+   "pontos": 3,
+   "margem": 3
   },
   "dir-artes-cultura-35": {
    "subtema": "artes-contemporanea",
@@ -276,10 +278,10 @@
    "margem": 5
   },
   "dir-artes-cultura-42": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 10,
-   "margem": 0
+   "margem": 2
   },
   "dir-artes-cultura-43": {
    "subtema": "artes-classica-moderna",
@@ -291,7 +293,7 @@
    "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
    "pontos": 15,
-   "margem": 5
+   "margem": 10
   },
   "dir-artes-cultura-45": {
    "subtema": "artes-audiovisual-midia",
@@ -305,10 +307,10 @@
    "padrao": true
   },
   "dir-artes-cultura-47": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-patrimonio-cultura-popular",
    "frenteDestino": "artes-cultura",
-   "pontos": 5,
-   "margem": 1
+   "pontos": 4,
+   "margem": 4
   },
   "dir-artes-cultura-48": {
    "subtema": "artes-classica-moderna",
@@ -317,10 +319,10 @@
    "margem": 1
   },
   "dir-artes-cultura-49": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 5
+   "pontos": 5,
+   "margem": 0
   },
   "dir-artes-cultura-50": {
    "subtema": "artes-musica-cena",
@@ -329,10 +331,10 @@
    "margem": 0
   },
   "dir-artes-cultura-51": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-contemporanea",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 1
+   "pontos": 9,
+   "margem": 4
   },
   "dir-artes-cultura-52": {
    "subtema": "artes-classica-moderna",
@@ -343,13 +345,13 @@
    "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "dir-artes-cultura-54": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "dir-artes-cultura-55": {
    "subtema": "artes-audiovisual-midia",
@@ -358,46 +360,45 @@
    "margem": 5
   },
   "dir-artes-cultura-56": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "dir-artes-cultura-57": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 20,
-   "margem": 10
+   "pontos": 10,
+   "margem": 0
   },
   "dir-artes-cultura-58": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "dir-artes-cultura-59": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 15,
-   "margem": 10
+   "pontos": 10,
+   "margem": 5
   },
   "dir-artes-cultura-60": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 15,
-   "margem": 10
+   "pontos": 10,
+   "margem": 5
   },
   "dir-artes-cultura-61": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 20,
-   "margem": 15
+   "pontos": 15,
+   "margem": 10
   },
   "dir-artes-cultura-62": {
    "subtema": "artes-contemporanea",
    "frenteDestino": "artes-cultura",
    "pontos": 14,
-   "margem": 4
+   "margem": 9
   },
   "dir-artes-cultura-63": {
    "subtema": "artes-audiovisual-midia",
@@ -409,7 +410,7 @@
    "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 15,
-   "margem": 5
+   "margem": 10
   },
   "dir-artes-cultura-65": {
    "subtema": "artes-classica-moderna",
@@ -418,34 +419,34 @@
    "margem": 3
   },
   "dir-artes-cultura-66": {
-   "subtema": "artes-musica-cena",
-   "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 0
-  },
-  "dir-artes-cultura-67": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 10,
    "margem": 5
   },
-  "dir-artes-cultura-68": {
+  "dir-artes-cultura-67": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
+   "pontos": 5,
    "margem": 0
+  },
+  "dir-artes-cultura-68": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
   },
   "dir-artes-cultura-69": {
    "subtema": "artes-contemporanea",
    "frenteDestino": "artes-cultura",
    "pontos": 5,
-   "margem": 0
+   "margem": 2
   },
   "dir-artes-cultura-70": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 5
+   "pontos": 5,
+   "margem": 0
   },
   "dir-artes-cultura-71": {
    "subtema": "artes-audiovisual-midia",
@@ -466,22 +467,22 @@
    "margem": 5
   },
   "dir-artes-cultura-74": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-contemporanea",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 5
+   "pontos": 5,
+   "margem": 0
   },
   "dir-artes-cultura-75": {
    "subtema": "artes-contemporanea",
    "frenteDestino": "artes-cultura",
    "pontos": 10,
-   "margem": 5
+   "margem": 7
   },
   "dir-artes-cultura-76": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
-   "pontos": 5,
-   "margem": 1
+   "pontos": 4,
+   "margem": 4
   },
   "dir-artes-cultura-77": {
    "subtema": "artes-classica-moderna",
@@ -510,20 +511,20 @@
   "dir-artes-cultura-81": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 5
+   "pontos": 5,
+   "margem": 0
   },
   "dir-artes-cultura-82": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 10
+   "pontos": 5,
+   "margem": 5
   },
   "dir-artes-cultura-83": {
    "subtema": "artes-contemporanea",
    "frenteDestino": "artes-cultura",
    "pontos": 10,
-   "margem": 5
+   "margem": 6
   },
   "dir-artes-cultura-84": {
    "subtema": "artes-classica-moderna",
@@ -546,20 +547,20 @@
   "dir-artes-cultura-87": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 20,
-   "margem": 15
+   "pontos": 15,
+   "margem": 10
   },
   "dir-artes-cultura-88": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 15,
-   "margem": 6
+   "pontos": 10,
+   "margem": 1
   },
   "dir-artes-cultura-89": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-patrimonio-cultura-popular",
    "frenteDestino": "artes-cultura",
    "pontos": 10,
-   "margem": 0
+   "margem": 5
   },
   "dir-artes-cultura-90": {
    "subtema": "artes-classica-moderna",
@@ -580,46 +581,45 @@
    "margem": 10
   },
   "dir-artes-cultura-93": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
-   "pontos": 5,
-   "margem": 5
+   "padrao": true
   },
   "dir-artes-cultura-94": {
-   "subtema": "artes-musica-cena",
-   "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 7
-  },
-  "dir-artes-cultura-95": {
-   "subtema": "artes-musica-cena",
-   "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 10
-  },
-  "dir-artes-cultura-96": {
-   "subtema": "artes-musica-cena",
-   "frenteDestino": "artes-cultura",
-   "pontos": 15,
-   "margem": 0
-  },
-  "dir-artes-cultura-97": {
-   "subtema": "artes-audiovisual-midia",
-   "frenteDestino": "artes-cultura",
-   "pontos": 15,
-   "margem": 10
-  },
-  "dir-artes-cultura-98": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
    "pontos": 5,
    "margem": 2
   },
+  "dir-artes-cultura-95": {
+   "subtema": "artes-musica-cena",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-artes-cultura-96": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 5
+  },
+  "dir-artes-cultura-97": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-artes-cultura-98": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 3,
+   "margem": 3
+  },
   "dir-artes-cultura-99": {
    "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 10,
-   "margem": 5
+   "margem": 10
   },
   "dir-artes-cultura-100": {
    "subtema": "artes-musica-cena",
@@ -730,7 +730,7 @@
    "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
    "pontos": 12,
-   "margem": 2
+   "margem": 7
   },
   "med-artes-cultura-19": {
    "subtema": "artes-classica-moderna",
@@ -742,7 +742,7 @@
    "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
    "pontos": 12,
-   "margem": 7
+   "margem": 12
   },
   "med-artes-cultura-21": {
    "subtema": "artes-classica-moderna",
@@ -942,10 +942,10 @@
    "margem": 2
   },
   "med-artes-cultura-54": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 5,
-   "margem": 0
+   "margem": 2
   },
   "med-artes-cultura-55": {
    "subtema": "artes-audiovisual-midia",
@@ -1119,9 +1119,9 @@
    "margem": 0
   },
   "med-artes-cultura-84": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-contemporanea",
    "frenteDestino": "artes-cultura",
-   "pontos": 5,
+   "pontos": 4,
    "margem": 1
   },
   "med-artes-cultura-85": {
@@ -1133,8 +1133,8 @@
   "med-artes-cultura-86": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 5
+   "pontos": 5,
+   "margem": 0
   },
   "med-artes-cultura-87": {
    "subtema": "artes-classica-moderna",
@@ -1153,10 +1153,10 @@
    "margem": 2
   },
   "med-artes-cultura-90": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 5
+   "pontos": 5,
+   "margem": 0
   },
   "med-artes-cultura-91": {
    "subtema": "artes-musica-cena",
@@ -1167,8 +1167,8 @@
   "med-artes-cultura-92": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 10
+   "pontos": 5,
+   "margem": 5
   },
   "med-artes-cultura-93": {
    "subtema": "artes-musica-cena",
@@ -1177,10 +1177,10 @@
    "margem": 5
   },
   "med-artes-cultura-94": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 5
+   "pontos": 5,
+   "margem": 0
   },
   "med-artes-cultura-95": {
    "subtema": "artes-musica-cena",
@@ -1401,7 +1401,7 @@
    "subtema": "artes-contemporanea",
    "frenteDestino": "artes-cultura",
    "pontos": 5,
-   "margem": 0
+   "margem": 2
   },
   "med-artes-cultura-133": {
    "subtema": "artes-classica-moderna",
@@ -1411,8 +1411,8 @@
   "med-artes-cultura-134": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 10
+   "pontos": 5,
+   "margem": 5
   },
   "med-artes-cultura-135": {
    "subtema": "artes-classica-moderna",
@@ -1485,8 +1485,8 @@
   "med-artes-cultura-147": {
    "subtema": "artes-musica-cena",
    "frenteDestino": "artes-cultura",
-   "pontos": 10,
-   "margem": 5
+   "pontos": 5,
+   "margem": 0
   },
   "med-artes-cultura-148": {
    "subtema": "artes-musica-cena",
@@ -1495,10 +1495,10 @@
    "margem": 0
   },
   "med-artes-cultura-149": {
-   "subtema": "artes-musica-cena",
+   "subtema": "artes-audiovisual-midia",
    "frenteDestino": "artes-cultura",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-artes-cultura-150": {
    "subtema": "artes-classica-moderna",

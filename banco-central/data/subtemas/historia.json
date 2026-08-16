@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "historia",
- "total": 497,
+ "total": 509,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -2983,6 +2983,71 @@
    "frenteDestino": "historia",
    "pontos": 25,
    "margem": 25
+  },
+  "enem-historia-01": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "enem-historia-02": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-historia-03": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-historia-04": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "enem-historia-05": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "enem-historia-06": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-historia-07": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "enem-historia-08": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "enem-historia-09": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-historia-10": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "enem-historia-11": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-historia-12": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "revisado": true
   }
  }
 }

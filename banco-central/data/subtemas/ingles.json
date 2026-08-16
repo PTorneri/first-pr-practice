@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "ingles",
- "total": 543,
+ "total": 551,
  "residuo": [
   "med-ingles-44",
   "med-ingles-46",
@@ -3134,6 +3134,49 @@
    "frenteDestino": "ingles",
    "pontos": 9,
    "margem": 9
+  },
+  "fuvest-ingles-28": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-29": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-ingles-30": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-31": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "fuvest-ingles-32": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-33": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-ingles-34": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-35": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "revisado": true
   }
  }
 }

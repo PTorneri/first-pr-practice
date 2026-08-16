@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "biologia",
- "total": 529,
+ "total": 537,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -3154,6 +3154,50 @@
    "subtema": "biologia-fisiologia",
    "frenteDestino": "biologia",
    "revisado": true
+  },
+  "fuvest-biologia-30": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fuvest-biologia-31": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 13
+  },
+  "fuvest-biologia-32": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fuvest-biologia-33": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fuvest-biologia-34": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 16,
+   "margem": 16
+  },
+  "fuvest-biologia-35": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 1
+  },
+  "fuvest-biologia-36": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fuvest-biologia-37": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 9
   }
  }
 }

@@ -1871,6 +1871,90 @@ const REVISADAS = {
   "fuvest-quimica-28": "quimica-atomistica-ligacoes",
   "fuvest-quimica-29": "quimica-termoquimica-cinetica",
   "fuvest-quimica-30": "quimica-eletroquimica",
+
+  // Simulado oficial da FUVEST 2027, 2ª edição (julho) -- 28 pinos em 69
+  // questões (41%). Seis alocações minhas foram desfeitas em favor do
+  // classificador, que estava certo nelas: o documento da Academia Real das
+  // Ciências é da Ilustração portuguesa (moderna), não da política colonial;
+  // a pergunta sobre o processo investigativo pede inferência; e a equação
+  // funcional com logaritmo é álgebra, não sequência.
+
+  // Djaimilia caiu de novo em colonial-romantismo, pelo traficante de
+  // escravizados; Rachel de Queiroz (1937) foi para contemporânea; e Chiziane,
+  // Sophia e a segunda de Chiziane caíram em teoria-análise porque as
+  // perguntas são de leitura do excerto.
+  "fuvest-literatura-31": "literatura-contemporanea",
+  "fuvest-literatura-32": "literatura-modernismo",
+  "fuvest-literatura-36": "literatura-contemporanea",
+  "fuvest-literatura-37": "literatura-contemporanea",
+  "fuvest-literatura-38": "literatura-contemporanea",
+
+  // A voz passiva como recurso de impessoalização caiu em concordância pelos
+  // particípios ("foi planejada e adaptada"); a falta da preposição antes do
+  // relativo é regência, e foi para sintaxe do período.
+  "fuvest-gramatica-4": "gramatica-sintaxe-periodo",
+  "fuvest-gramatica-5": "gramatica-regencia-crase",
+
+  // Inglês pina 3 de 8, sempre na mesma fronteira entre detalhe e inferência.
+  "fuvest-ingles-30": "ingles-inference",
+  "fuvest-ingles-32": "ingles-inference",
+  "fuvest-ingles-35": "ingles-detail",
+
+  // A eleição de 1960 foi para Brasil-colônia-império.
+  "fuvest-historia-39": "historia-brasil-republica",
+
+  // As apanhadoras de flores sempre-vivas caíram em física-clima pelo bioma
+  // citado, quando o que se cobra é o sistema agrícola tradicional; e o mapa
+  // do Sudão foi para população-urbana por "refugiados" e "deslocados",
+  // sendo pergunta de cartografia temática.
+  "fuvest-geografia-30": "geografia-agraria-economica",
+  "fuvest-geografia-32": "geografia-cartografia",
+
+  // O MMA e as tecnologias no esporte caíram em filosofia-conhecimento-lógica;
+  // Lélia Gonzalez foi para trabalho-classes pelo modelo econômico, e o eixo
+  // dela é a divisão racial do espaço.
+  "fuvest-filosofia-sociologia-22": "sociologia-cultura-identidade",
+  "fuvest-filosofia-sociologia-23": "sociologia-cultura-identidade",
+  "fuvest-filosofia-sociologia-24": "sociologia-cultura-identidade",
+
+  // O gerador de energia infinita caiu em eletromagnetismo pelo motor e pelos
+  // ímãs, sendo questão de conservação e dissipação; a cadeia tório-urânio
+  // foi parar em hidrostática, e o recuo do núcleo de tálio, em
+  // energia-trabalho -- as duas são física moderna.
+  "fuvest-fisica-23": "fisica-energia-trabalho",
+  "fuvest-fisica-25": "fisica-moderna",
+  "fuvest-fisica-26": "fisica-moderna",
+
+  // As relações ecológicas marinhas caíram em diversidade pelos nomes dos
+  // animais; a vacina de RNAm, em fisiologia; a herança mitocondrial, em
+  // citologia pela organela; e a especiação da mariposa, em genética.
+  "fuvest-biologia-30": "biologia-ecologia",
+  "fuvest-biologia-32": "biologia-genetica",
+  "fuvest-biologia-33": "biologia-genetica",
+  "fuvest-biologia-36": "biologia-evolucao",
+
+  // O PVDF foi para atomística pelas ligações C-F, e o que se cobra é energia
+  // de ativação; o concreto romano caiu em soluções por "solubilidade", sendo
+  // o meio básico que forma o carbonato; e o surfactante da pasta de dente
+  // foi para equilíbrio ácido-base.
+  "fuvest-quimica-32": "quimica-termoquimica-cinetica",
+  "fuvest-quimica-33": "quimica-equilibrio-acido-base",
+  "fuvest-quimica-34": "quimica-atomistica-ligacoes",
+
+  // O calendário de dois cubos caiu em geometria pelos cubos, sendo enigma
+  // combinatório; e o modelo logístico do boato foi para probabilidade por
+  // "população" e "1/65".
+  "fuvest-matematica-25": "matematica-logica-conjuntos",
+  "fuvest-matematica-28": "matematica-algebra",
+  // Estas tres nao deram FALHA no pre-voo e mesmo assim erraram o alvo: elas
+  // nao pontuaram em REGRA NENHUMA e cairam no subtema padrao da frente
+  // (ingles-detail, literatura-teoria-analise). O pre-voo so acusa quando uma
+  // regra rival vence a do alvo; empate em zero passa em silencio, e quem
+  // pega e a conferencia de `padrao` depois da classificacao completa.
+  "fuvest-ingles-28": "ingles-main-idea",
+  "fuvest-ingles-34": "ingles-main-idea",
+  "fuvest-literatura-33": "literatura-colonial-romantismo",
+
 };
 
 // ------------------------------------------------------------------- classificação

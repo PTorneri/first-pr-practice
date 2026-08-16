@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "interpretacao-texto",
- "total": 539,
+ "total": 540,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -3088,6 +3088,12 @@
    "subtema": "interpretacao-recursos-linguagem",
    "frenteDestino": "interpretacao-texto",
    "revisado": true
+  },
+  "fuvest-interpretacao-texto-13": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

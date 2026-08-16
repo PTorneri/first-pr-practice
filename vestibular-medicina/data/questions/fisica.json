@@ -8191,6 +8191,157 @@
       },
       "resposta": "d",
       "explicacao": "A desaceleração é uniforme, então a velocidade angular cai linearmente de 600 rpm a zero e a velocidade média no intervalo é a metade da inicial: 300 rpm. Em 30 segundos, meio minuto, isso dá 300 × 0,5 = 150 voltas — alternativa D. A alternativa E, 180, sai de multiplicar 600 rpm pelos 30 s inteiros como se não houvesse frenagem, dividido por dois de forma errada; C, 120, e B, 100, resultam de trocar o fator; e A, 60, confunde as 600 rotações por minuto com rotações por segundo. O único cuidado é a unidade: 30 segundos são 0,5 minuto, e a taxa está por minuto."
+    },
+    {
+      "id": "fuvest-fisica-22",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Durante um voo comercial para Recife (PE), um passageiro decidiu estimar, de forma aproximada, a pressão do ar no interior da cabine do avião durante o voo utilizando uma garrafa plástica flexível, com volume de 500 mL. Para tanto, durante o voo, o passageiro pega a garrafa plástica, já vazia, e a fecha. Ao chegar no seu destino o passageiro nota que a garrafa está amassada e, em seguida, mergulha a garrafa fechada em um recipiente com água e, mantendo-a com a boca para baixo, abre a tampa com a garrafa ainda submersa. Nesse momento observa que a água começa a entrar na garrafa, que vai gradualmente retomando sua forma original. Quando a garrafa volta à sua forma inicial, o passageiro fecha novamente a sua tampa, ainda com a garrafa dentro do recipiente. A água que ficou dentro da garrafa é então transferida para um copo com medidas mostrando que 125 mL de água entraram na garrafa.",
+      "enunciado": "Admitindo que a temperatura tenha permanecido constante durante todo o experimento, a pressão da cabine do avião, estimada pelo passageiro, em atm, foi de",
+      "alternativas": {
+        "a": "0,75.",
+        "b": "0,80.",
+        "c": "1,00.",
+        "d": "1,15.",
+        "e": "1,25."
+      },
+      "resposta": "a",
+      "explicacao": "O ar preso na garrafa é o mesmo do começo ao fim, e a temperatura não muda: vale Boyle, P1V1 = P2V2. Na cabine, esse ar ocupava os 500 mL da garrafa à pressão procurada. No solo, com a tampa aberta sob a água, a pressão interna iguala 1 atm e entram 125 mL de água — logo o ar ficou com 500 − 125 = 375 mL. Então P1 × 500 = 1 × 375, e P1 = 0,75 atm: alternativa A. A alternativa E, 1,25, sai de somar em vez de subtrair o volume de água; B, 0,80, de arredondar mal a fração; C, 1,00, ignora que a garrafa amassou; e D supõe cabine pressurizada acima da atmosfera."
+    },
+    {
+      "id": "fuvest-fisica-23",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fuvest",
+      "texto_apoio": "Atualmente, com o fácil acesso à internet e a grande quantidade de ferramentas que auxiliam a produção de vídeos, é fácil gerar vídeos com notícias falsas, as conhecidas fake news. Alguns desses vídeos apresentam geradores caseiros de energia infinita e incluem propagandas de venda de kits para construir esses geradores em casa. Qualquer vídeo que prometa geração infinita de energia está usando truques para enganar o espectador.",
+      "enunciado": "Dentre as alternativas a seguir, qual delas apresenta argumentos físicos corretos para rebater essas fake news?",
+      "alternativas": {
+        "a": "Um gerador transforma energia mecânica em energia elétrica. O motor transforma energia elétrica em energia mecânica. Dependendo do material escolhido para construir um motor e um gerador, é possível gerar um sistema de movimento perpétuo, no qual a energia inicial colocada neles nunca é dissipada.",
+        "b": "É possível colocar ímãs naturais em posições específicas para fazer um motor girar para sempre sem precisar ligá-lo na tomada, considerando que os campos magnéticos dos ímãs naturais são perpétuos.",
+        "c": "A tensão típica gerada por eletricidade estática é extremamente alta. Por exemplo, o atrito do pente no cabelo seco pode gerar uma tensão de 1500 V a 5000 V, e essa eletricidade estática pode ser acumulada para ligar uma lâmpada comum por vários minutos.",
+        "d": "Fios supercondutores em temperatura ambiente podem ser usados para construir um gerador caseiro que terá perda zero de energia e funcionará para sempre. Dessa forma, com o desenvolvimento dos materiais supercondutores, será possível construir geradores caseiros de energia infinita.",
+        "e": "O atrito entre superfícies, a resistência do ar, a resistência elétrica dos fios e a troca de calor entre partes com diferentes temperaturas sempre consomem parte da energia, independentemente dos materiais utilizados."
+      },
+      "resposta": "e",
+      "explicacao": "A resposta correta é a única que não promete exceção à segunda lei: atrito, resistência do ar, resistência elétrica e trocas de calor sempre degradam parte da energia, e nenhum material elimina todas as dissipações. Alternativa E. As outras quatro reproduzem os próprios truques que o enunciado manda rebater — A afirma que a escolha do material permite movimento perpétuo; B faz ímãs naturais girarem um motor para sempre; C confunde tensão com energia, pois os milhares de volts da eletricidade estática correspondem a uma carga ínfima, incapaz de manter uma lâmpada acesa; e D promete supercondutores em temperatura ambiente com perda zero, que não existem e ainda assim não gerariam energia, apenas evitariam parte da perda."
+    },
+    {
+      "id": "fuvest-fisica-24",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Recentemente, pesquisadores da USP desenvolveram uma bateria funcional baseada em nióbio, superando desafios tecnológicos e obtendo um dispositivo recarregável capaz de fornecer uma tensão constante de 3 V, compatível com aplicações eletrônicas comuns.",
+      "enunciado": "Considere que uma bateria de nióbio com capacidade nominal de 1,8 A.h é utilizada para alimentar um dispositivo elétrico operando com potência constante e que, após 30 minutos de uso, essa bateria ficou completamente descarregada. Nessas condições, sabendo que a capacidade nominal refere-se à quantidade de carga total armazenada pela bateria, qual foi a potência consumida pelo dispositivo?",
+      "alternativas": {
+        "a": "3,6 W",
+        "b": "7,2 W",
+        "c": "9,0 W",
+        "d": "10,8 W",
+        "e": "12 W"
+      },
+      "resposta": "d",
+      "explicacao": "Capacidade nominal em ampère-hora é carga: 1,8 A·h descarregados em 0,5 h dão uma corrente média de 1,8/0,5 = 3,6 A. Com tensão constante de 3 V, a potência é P = U·i = 3 × 3,6 = 10,8 W — alternativa D. A alternativa A, 3,6 W, multiplica a tensão pela capacidade sem dividir pelo tempo; B, 7,2 W, usa 1 h em vez de meia; C, 9,0 W, sai de tomar a corrente como 3 A; e E, 12 W, arredonda a corrente para 4 A. O passo que a questão cobra é converter ampère-hora em ampère dividindo pelo tempo de descarga."
+    },
+    {
+      "id": "fuvest-fisica-25",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "enunciado": "A geração de eletricidade a partir da fissão nuclear de urânio representa cerca de 10% da produção elétrica mundial. Entretanto, o principal combustível nuclear, o isótopo ²³⁵U, corresponde a apenas 0,7% de todo urânio natural, o que limita sua disponibilidade. Uma alternativa potencial é o uso do isótopo ²³³U, que além de também ser físsil, gera menos resíduos nucleares de longa meia-vida. Esse isótopo não existe naturalmente, mas pode ser produzido a partir de um isótopo de tório, ²³²Th, que é muito mais abundante que o ²³⁵U. O processo de obtenção de ²³³U ocorre conforme as reações:\n²³²₉₀Th + x → ²³³₉₀Th\n²³³₉₀Th → ²³³₉₁Pa + y\n²³³₉₁Pa → ²³³₉₂U + z\nNessas reações, x, y e z correspondem, respectivamente, a",
+      "alternativas": {
+        "a": "nêutron, beta e beta.",
+        "b": "nêutron, próton e próton.",
+        "c": "beta, nêutron e nêutron.",
+        "d": "alfa, beta e beta.",
+        "e": "beta, próton e próton."
+      },
+      "resposta": "a",
+      "explicacao": "Basta acompanhar os dois números em cada linha. Na primeira, a massa sobe de 232 para 233 e o número atômico fica em 90: entrou uma partícula com massa 1 e carga 0, um nêutron. Na segunda, a massa permanece 233 e o número atômico sobe de 90 para 91: saiu uma partícula de massa desprezível e carga −1, uma beta. Na terceira, a massa segue 233 e o número atômico vai de 91 a 92: outra beta. Alternativa A. Emitir próton (B, E) baixaria a massa; emitir alfa (D) tiraria 4 de massa e 2 de carga; e capturar beta na primeira etapa (C, E) não aumentaria a massa."
+    },
+    {
+      "id": "fuvest-fisica-26",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "O ²¹³Bi é um núcleo radioativo frequentemente utilizado como radiofármaco terapêutico. Um possível esquema de decaimento do ²¹³Bi ocorre por meio da emissão direta de uma partícula alfa (⁴He), levando à formação do núcleo ²⁰⁹Tl. Nesse processo, é possível considerar que o núcleo de ²¹³Bi estava inicialmente em repouso. Como a massa do ⁴He é muito menor que a massa do ²⁰⁹Tl, uma primeira aproximação do problema consiste em desprezar o recuo do núcleo de ²⁰⁹Tl. Nesse caso, a velocidade de emissão da partícula alfa será aproximadamente 1,7×10⁷ m/s.",
+      "enunciado": "Por outro lado, se o recuo do ²⁰⁹Tl for levado em consideração, é correto afirmar que",
+      "alternativas": {
+        "a": "a energia cinética da partícula alfa permanecerá a mesma.",
+        "b": "a energia cinética da partícula alfa aumentará.",
+        "c": "a velocidade da partícula alfa será nula.",
+        "d": "a velocidade da partícula alfa diminuirá.",
+        "e": "o momento linear do sistema não se conservará."
+      },
+      "resposta": "d",
+      "explicacao": "O núcleo parte do repouso, então o momento total é zero e continua zero: alfa e tálio saem com momentos de mesmo módulo e sentidos opostos. A energia liberada no decaimento é fixa e, ao admitir o recuo, ela passa a ser repartida entre os dois — o tálio leva uma fatia que a aproximação anterior dava toda à alfa. Com menos energia cinética, a alfa sai mais devagar: alternativa D. A alternativa A mantém a energia cinética inalterada e B a aumenta, ambas violando a repartição; C anula a velocidade da alfa, quando ela apenas diminui; e E nega a conservação do momento, que é justamente o princípio que resolve o problema."
+    },
+    {
+      "id": "fuvest-fisica-27",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fuvest",
+      "texto_apoio": "Em 1897, em um célebre experimento envolvendo raios catódicos, J. J. Thomson constatou a existência do elétron. Considere um feixe de elétrons deslocando-se em linha reta e, em seguida, submetido a um campo elétrico uniforme gerado pela aplicação de uma diferença de potencial entre duas placas defletoras.",
+      "enunciado": "Ao se aplicar a diferença de potencial entre as placas, os elétrons do feixe",
+      "alternativas": {
+        "a": "deslocam-se em direção à placa positivamente carregada.",
+        "b": "deslocam-se em direção à placa negativamente carregada.",
+        "c": "deslocam-se para dentro do plano da figura.",
+        "d": "deslocam-se para fora do plano da figura.",
+        "e": "permanecem com a mesma trajetória."
+      },
+      "resposta": "a",
+      "explicacao": "O campo elétrico aponta da placa positiva para a negativa, e a força sobre uma carga negativa tem sentido contrário ao campo: os elétrons são atraídos pela placa positiva. Alternativa A — e foi assim que Thomson mostrou que os raios catódicos eram feitos de partículas de carga negativa. A alternativa B inverte o sinal da carga. As alternativas C e D descrevem desvio perpendicular ao plano da figura, que exigiria força magnética, e o enunciado fala apenas em campo elétrico. E afirma que a trajetória não muda, o que só valeria se o feixe fosse neutro — a conclusão oposta à do experimento."
+    },
+    {
+      "id": "fuvest-fisica-28",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "O LiDAR (Light Detection and Ranging) é uma tecnologia de sensoriamento remoto que utiliza pulsos de laser infravermelho para medir distâncias e movimentos em tempo real. O sistema calcula o “tempo de voo” do laser, que é o intervalo entre a emissão do pulso e o seu retorno ao sensor após atingir um objeto. Ao processar bilhões dessas medições, o LiDAR gera uma nuvem de pontos, permitindo a criação de mapas 3D dinâmicos essenciais para a navegação de veículos autônomos e o monitoramento de desastres naturais.",
+      "enunciado": "Considere um sistema LiDAR de alta precisão operando em um veículo autônomo. Qual das seguintes afirmações descreve corretamente um aspecto físico ou uma limitação operacional dessa tecnologia?",
+      "alternativas": {
+        "a": "A precisão do LiDAR é superior à de radares convencionais porque a onda de luz infravermelha viaja no ar a uma velocidade dez vezes maior que a das microondas do radar, permitindo que o sensor receba os dados antes mesmo de o objeto se mover.",
+        "b": "O sistema é imune a condições climáticas como neblina ou chuva densa, pois o laser infravermelho atravessa as moléculas de água sem sofrer qualquer tipo de dispersão ou interferência física.",
+        "c": "O LiDAR apresenta dificuldades críticas em detectar superfícies perfeitamente espelhadas ou de vidro transparente, pois o feixe de laser pode ser desviado para longe do receptor ou atravessar o material sem sofrer a reflexão necessária para o cálculo do tempo de voo.",
+        "d": "A “nuvem de pontos” gerada pelo sensor é, na verdade, um mapa de calor que utiliza a temperatura dos objetos para deduzir a que distância eles estão, independentemente do tempo que a luz leva para retornar.",
+        "e": "O sensor LiDAR funciona emitindo ondas sonoras de alta frequência que, ao atingirem objetos estáticos, mudam de cor devido ao efeito Doppler, permitindo que o computador calcule a posição exata do objeto."
+      },
+      "resposta": "c",
+      "explicacao": "O LiDAR depende de a luz voltar ao sensor, e é aí que espelhos e vidro o derrotam: uma superfície perfeitamente especular reflete o feixe segundo a lei da reflexão, mandando-o para longe do receptor se a incidência não for quase normal, e o vidro transparente simplesmente deixa o infravermelho passar. Sem retorno, não há tempo de voo. Alternativa C. A alternativa A diz que a luz viaja dez vezes mais rápido que micro-ondas, sendo ambas eletromagnéticas e de mesma velocidade; B declara o sistema imune à neblina, quando gotículas espalham o feixe; D troca tempo de voo por mapa de calor; e E o faz emitir ondas sonoras que mudam de cor, descrição que mistura sonar e efeito Doppler."
+    },
+    {
+      "id": "fuvest-fisica-29",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Câmeras de smartphones modernos têm utilizado designs que permitem que a luz percorra um caminho óptico maior dentro da câmera sem aumentar seu tamanho físico, possibilitando zooms ópticos maiores. Um aspecto central desse design são as reflexões internas totais da luz no interior da câmera, que ocorrem quando o ângulo de refração na interface com o meio externo é maior que 90º. Considere um prisma feito de um material de índice de refração n cuja seção transversal tem o formato de um paralelogramo em que uma de suas faces, em contato com o ar, forma um ângulo de 45º com a horizontal.\n\nNote e adote:\nsen 45º = cos 45º = √2/2\nÍndice de refração do ar (nar) igual a 1.\nLei de Snell: nᵢ·sen θᵢ = n_f·sen θ_f",
+      "enunciado": "Qual o valor mínimo de n para que um raio de luz se propagando na horizontal dentro do prisma sofra reflexão total nesta face?",
+      "alternativas": {
+        "a": "√2 2",
+        "b": "1",
+        "c": "√2",
+        "d": "3√2 2",
+        "e": "2√2"
+      },
+      "resposta": "c",
+      "explicacao": "A normal à face é perpendicular a ela; como a face está a 45º da horizontal, a normal também está, e um raio horizontal incide sobre ela a 45º. A reflexão total começa quando o ângulo refratado atinge 90º, isto é, quando n·sen 45º = 1·sen 90º = 1. Daí n = 1/sen 45º = 2/√2 = √2 — alternativa C. Abaixo disso o raio escapa para o ar. A alternativa A, √2/2, é menor que 1 e não existe como índice de meio material; B, igual a 1, é o índice do próprio ar; e D e E são maiores que o mínimo, valores para os quais há reflexão total mas que não respondem ao \"mínimo\" pedido."
     }
   ]
 }

@@ -4005,6 +4005,66 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-genetica",
+   "id": "fuvest-biologia-32",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Pesquisas recentes mostram avanços promissores em vacinas de RNAm contra o melanoma, um tipo de câncer de pele. O diferencial dessa tecnologia é sua individualização, uma vez que, após o sequenciamento do genoma do tumor, identificam-se mutações específicas do paciente, que não estejam presentes em suas células saudáveis. Essas sequências mutadas originam os chamados neoantígenos (proteínas anormais), que são codificados no RNAm da vacina. Desse modo, o sistema imunológico aprende a atacar somente as células daquele tumor.",
+   "enunciado": "A necessidade de a vacina ser individualizada para cada paciente justifica-se, biologicamente, porque",
+   "alternativas": {
+    "a": "o sistema imunológico humano é capaz de reconhecer apenas proteínas produzidas por microrganismos externos, exigindo que o RNAm \"disfarce\" as células tumorais como bactérias.",
+    "b": "a variabilidade genética entre tumores de diferentes indivíduos é alta, e uma vacina genérica poderia atacar proteínas comuns a células saudáveis, resultando em graves doenças autoimunes.",
+    "c": "as células tumorais, ao contrário das células somáticas normais, não realizam a tradução de moléculas de RNAm próprio, de modo a expressar somente proteínas normais.",
+    "d": "a individualização permite que o RNAm se integre seletivamente ao genoma das células T citotóxicas, garantindo que a memória imunológica seja passada para as próximas gerações do indivíduo.",
+    "e": "o código genético de um melanoma é diferente do código genético das células somáticas normais do mesmo paciente, o que faz com que o RNAm da vacina seja traduzido de forma aleatória."
+   },
+   "resposta": "b",
+   "explicacao": "Os neoantígenos vêm de mutações daquele tumor daquele paciente, e o texto sublinha que são mutações \"que não estejam presentes em suas células saudáveis\". Como o conjunto de mutações difere de tumor para tumor, uma vacina genérica correria o risco de mirar proteínas que também existem em células sadias — ou seja, provocar autoimunidade. Alternativa B. A alternativa A afirma que o sistema imune só reconhece proteínas de microrganismos externos; C diz que células tumorais não traduzem RNAm próprio; D faz o RNAm integrar-se ao genoma de células T e virar herança para as próximas gerações; e E confunde código genético com sequência gênica — o código é o mesmo em todas as células."
+  },
+  {
+   "subtema": "biologia-genetica",
+   "id": "fuvest-biologia-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "As mitocôndrias são organelas responsáveis pela produção de ATP via respiração celular aeróbica. Essas organelas possuem DNA próprio (mtDNA), uma molécula circular com cerca de 16.500 pares de bases que codifica 37 genes, a maioria relacionados à cadeia transportadora de elétrons.\n\nConsidere uma família de três gerações em que, na geração P, a mãe é portadora de uma mutação no mtDNA e o pai possui mtDNA normal.",
+   "enunciado": "Com base nos conhecimentos sobre herança mitocondrial, é correto afirmar:",
+   "alternativas": {
+    "a": "Todos os quatro indivíduos da geração F1 herdaram a mutação no mtDNA materno, porém apenas a filha 1 e a filha 2 poderão transmiti-la à geração seguinte. O neto, pertencente à geração F2, não porta a mutação, pois recebeu seu mtDNA exclusivamente da mãe, cujo mtDNA é normal.",
+    "b": "Apenas a filha 1 e a filha 2, na geração F1, herdaram a mutação no mtDNA, pois esse material genético é transmitido junto com o cromossomo X. Os indivíduos filho 1 e filho 2, por receberem o cromossomo Y do pai, não possuem mitocôndrias de origem materna e, portanto, não carregam a mutação.",
+    "c": "A neta, na geração F2, não apresentará a mutação porque receberá o DNA mitocondrial de seu pai, de modo que a quantidade de mitocôndrias com a mutação se torna insuficiente para causar qualquer efeito.",
+    "d": "O neto, na geração F2, poderá herdar a mutação mitocondrial de seu pai, filho 1, uma vez que o espermatozoide também contribui igualmente com mitocôndrias para o zigoto, as quais se incorporam ao embrião e participam normalmente do metabolismo celular do novo indivíduo.",
+    "e": "A mutação no mtDNA da mãe, na geração P, será transmitida apenas às filhas da geração F1, em padrão semelhante ao da herança ligada ao cromossomo X dominante, já que tanto o mtDNA quanto o cromossomo X são de origem materna."
+   },
+   "resposta": "a",
+   "explicacao": "O mtDNA vem só da mãe: o óvulo entrega as mitocôndrias ao zigoto e as poucas do espermatozoide são degradadas. Daí a alternativa A: todos os filhos da geração F1, homens e mulheres, herdam a mutação da mãe, mas só as filhas a transmitem adiante; e o neto, filho de um dos rapazes, recebe mtDNA da própria mãe, que é normal. A alternativa B liga o mtDNA ao cromossomo X e chega a negar mitocôndrias maternas aos filhos homens; C faz a neta receber mtDNA do pai; D atribui ao espermatozoide contribuição igual de mitocôndrias; e E limita a transmissão às filhas já na geração F1, quando os filhos também herdam — apenas não repassam."
+  },
+  {
+   "subtema": "biologia-genetica",
+   "id": "fuvest-biologia-34",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Atualmente, criadores de conteúdo reúnem milhões de seguidores e utilizam as redes sociais como importantes espaços de ativismo, promovendo informação, visibilidade e inclusão de pessoas com deficiência, além de contribuir para o combate ao preconceito e para a ampliação da representatividade social. Entre esses grupos, destacam-se pessoas com acondroplasia, uma forma de nanismo causada por mutação no gene FGFR3. Trata-se de uma condição genética rara, de herança autossômica dominante, na qual a presença do alelo mutante em homozigose é letal, levando à morte ainda nas fases embrionária ou perinatal.",
+   "enunciado": "Considerando esse contexto, um casal com acondroplasia, ambos portadores da mesma mutação no gene FGFR3, participou de sessões de aconselhamento genético para compreender os possíveis riscos de seus descendentes. Como resultado, tem-se que os genótipos, fenótipos e proporção dos descendentes que nascem vivos e se desenvolvem são, respectivamente,",
+   "alternativas": {
+    "a": "AA: acondroplasia 25%, Aa: acondroplasia 50% e aa: estatura média 25%.",
+    "b": "AA: estatura média 25%; Aa: acondroplasia 50% e aa: acondroplasia 25%.",
+    "c": "Aa: acondroplasia 67%; aa: estatura média 33%.",
+    "d": "AA: estatura média 67%; aa: acondroplasia 33%.",
+    "e": "AA: acondroplasia 33%; Aa: estatura média 67%."
+   },
+   "resposta": "c",
+   "explicacao": "Sendo a acondroplasia autossômica dominante, os dois pais afetados são heterozigotos Aa — se fossem AA não teriam nascido, porque a homozigose do alelo mutante é letal. O cruzamento Aa × Aa dá 1 AA : 2 Aa : 1 aa, mas o AA morre ainda na fase embrionária ou perinatal. Entre os que nascem vivos e se desenvolvem restam 2 Aa para 1 aa, isto é, 67% com acondroplasia e 33% de estatura média: alternativa C. A alternativa A conta o AA entre os vivos e ainda o chama de afetado; B e E trocam os fenótipos de lugar; e D elimina os heterozigotos, que são justamente a maioria dos nascidos."
+  },
+  {
+   "subtema": "biologia-genetica",
    "id": "dir-ciencias-natureza-23",
    "texto_apoio": "Os organismos geneticamente modificados (transgênicos) são obtidos por meio de técnicas de engenharia genética que alteram o material genético de um organismo.",
    "enunciado": "Uma planta transgênica resistente a determinada praga é obtida, tipicamente, por meio da",
@@ -9396,6 +9456,45 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-ecologia",
+   "id": "fuvest-biologia-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Considerando as relações ecológicas entre organismos marinhos descritas a seguir, assinale a alternativa que define corretamente a relação interespecífica apresentada.",
+   "alternativas": {
+    "a": "Rêmoras aderem ao corpo de tubarões, deslocando-se com eles e alimentando-se de restos de comida, sem afetar significativamente o tubarão. Essa interação caracteriza protocooperação.",
+    "b": "Camarões limpadores removem parasitas da superfície de peixes, utilizando os parasitas como alimento, enquanto os peixes apresentam redução na carga parasitária. A interação entre camarões e peixes caracteriza predação.",
+    "c": "Peixes vivem entre os tentáculos de anêmonas-do-mar, obtendo proteção contra predadores e contribuindo com nutrientes para a anêmona. Essa interação caracteriza mutualismo.",
+    "d": "Zooxantelas vivem nos tecidos de corais, realizando fotossíntese e fornecendo compostos orgânicos ao coral, que oferece abrigo e nutrientes às algas. Essa interação caracteriza parasitismo.",
+    "e": "Peixes-pescadores abrigam bactérias bioluminescentes que produzem luz utilizada para atrair presas, enquanto as bactérias recebem abrigo e nutrientes do peixe. Essa interação caracteriza comensalismo."
+   },
+   "resposta": "c",
+   "explicacao": "Peixes que vivem entre os tentáculos da anêmona ganham proteção e devolvem nutrientes: as duas partes lucram e a associação é obrigatória, o que define mutualismo. Alternativa C. Nas demais o exemplo está certo e o nome, errado: rêmora e tubarão (A) é comensalismo, já que o tubarão não ganha nem perde; camarão limpador e peixe (B) é mutualismo, não predação, pois o peixe se livra dos parasitas; zooxantelas e coral (D) é mutualismo, não parasitismo, sendo a base da própria existência do recife; e peixe-pescador com bactérias bioluminescentes (E) também é mutualismo, não comensalismo, porque o peixe usa a luz para caçar."
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "fuvest-biologia-31",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Nos últimos anos, a região de São Paulo tem registrado eventos climáticos extremos, caracterizados pela alternância entre curtos períodos de chuvas intensas e longos períodos de estiagem, com aumento no número de dias com precipitação acima de 80 mm e 100 mm registrado no Instituto de Astronomia, Geofísica e Ciências Atmosféricas da Universidade de São Paulo. Marengo e colaboradores (2020). Annals of the New York Academy of Sciences.\n\nEssa variabilidade extrema favorece a erosão do solo, especialmente em áreas com desmatamento e solo exposto. O material erodido é transportado para rios e reservatórios junto com sedimentos e nutrientes, influenciando a atividade de microrganismos aquáticos, assim como a turbidez, temperatura e a disponibilidade de oxigênio dissolvido na água.",
+   "enunciado": "A partir da leitura do texto, é correto afirmar:",
+   "alternativas": {
+    "a": "O enriquecimento por nutrientes e o aumento de matéria orgânica decorrentes da erosão tendem a ampliar a diversidade, ao favorecer organismos autotróficos e heterotróficos e manter a proporção funcional da comunidade.",
+    "b": "O aumento da temperatura da água eleva sua capacidade de dissolver oxigênio, compensando o consumo pela decomposição e favorecendo espécies sensíveis à disponibilidade de O2.",
+    "c": "A alternância entre estiagens e chuvas intensas tende a manter a qualidade da água, pois eventos extremos de precipitação não alteram significativamente a dinâmica física e química dos ecossistemas aquáticos.",
+    "d": "O aumento de sedimentos após eventos erosivos reduz a decomposição aeróbia, pois partículas em suspensão impedem a atividade de organismos decompositores.",
+    "e": "O aumento da temperatura da água e do aporte de matéria orgânica pode elevar a demanda bioquímica de oxigênio e favorecer organismos tolerantes a baixas concentrações de O2."
+   },
+   "resposta": "e",
+   "explicacao": "Mais matéria orgânica significa mais decompositores trabalhando, e decomposição aeróbia consome oxigênio: a demanda bioquímica de oxigênio sobe. A temperatura mais alta agrava por dois lados, acelerando o metabolismo e reduzindo a solubilidade do O2. O ambiente passa a favorecer quem tolera pouca oxigenação — alternativa E. A alternativa A prevê aumento de diversidade, quando a eutrofização a reduz; B afirma que a água quente dissolve mais oxigênio, invertendo a relação; C diz que eventos extremos não alteram a dinâmica dos ecossistemas aquáticos; e D conclui que os sedimentos reduzem a decomposição aeróbia, quando o aporte orgânico a intensifica."
+  },
+  {
+   "subtema": "biologia-ecologia",
    "id": "dir-ciencias-natureza-01",
    "texto_apoio": "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
    "enunciado": "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
@@ -11016,6 +11115,65 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A cladística não abandona o método de Aristóteles — continua agrupando por características compartilhadas —, mas troca o critério: só valem as características herdadas de um ancestral comum, as sinapomorfias, e o objetivo é reconstruir o parentesco. A alternativa B faz o agrupamento se basear em diferenças; C introduz uma escala de progresso, que a evolução não tem; D descreve o lamarckismo, com adaptação transmitida por uso; e E atribui todas as semelhanças à convergência adaptativa, quando a convergência é justamente o que a cladística busca separar do parentesco real."
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "fuvest-biologia-35",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O experimento idealizado pelo cientista Richard Lenski, em 1988, monitora a evolução de 12 populações de bactérias por mais de 75 mil gerações. O estudo demonstra o surgimento contínuo e esporádico de mutações, as quais podem se fixar por garantirem vantagem à população, ou levarem à extinção de determinada população. Em determinado momento, depois de muitas gerações, surgiu uma mutação que conferiu às bactérias, denominadas Cit+, a capacidade de metabolizar um componente do meio de cultura (citrato), e isso proporcionou maior velocidade de crescimento.",
+   "enunciado": "A análise do experimento permite concluir que a",
+   "alternativas": {
+    "a": "evolução depende de eventos mutacionais dirigidos que são fixados nas populações.",
+    "b": "velocidade de surgimento das mutações determina maior número de indivíduos adaptados.",
+    "c": "adaptação de novas espécies ao ambiente é proporcional ao número de mutações que acumularam.",
+    "d": "conquista de novos ambientes é o objetivo da evolução.",
+    "e": "variação genética leva a diferentes repercussões, inclusive ocupação de novo nicho ecológico."
+   },
+   "resposta": "e",
+   "explicacao": "A mutação Cit+ apareceu ao acaso e, por permitir metabolizar o citrato, abriu às bactérias um recurso que antes não usavam — um novo nicho dentro do mesmo frasco. Variação genética gerando repercussões distintas, inclusive ocupação de nicho: alternativa E. A alternativa A fala em mutações dirigidas, e mutação não se orienta pela necessidade; B faz a velocidade de surgimento determinar o número de adaptados, quando o que decide é a vantagem conferida; C propõe adaptação proporcional ao número de mutações acumuladas; e D atribui à evolução um objetivo, sendo ela um resultado, não um projeto."
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "fuvest-biologia-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A mariposa Ostrinia nubilalis apresenta duas linhagens que diferem no odor sexual produzido pelas fêmeas. Machos de cada linhagem são atraídos principalmente pelo odor das fêmeas da própria linhagem. Em regiões onde as duas linhagens vivem juntas, a maioria dos acasalamentos ocorre entre indivíduos da mesma linhagem. Esse tipo de situação é frequentemente discutido em estudos sobre formação de novas espécies.",
+   "enunciado": "Com base nas informações apresentadas, é correto afirmar que se trata de um caso de especiação",
+   "alternativas": {
+    "a": "simpátrica, no qual a diferenciação entre linhagens ocorre sem redução do fluxo gênico entre elas.",
+    "b": "simpátrica, no qual diferenças no comportamento de acasalamento reduzem os cruzamentos entre linhagens.",
+    "c": "alopátrica, no qual a formação de novas espécies ocorre sem fatores que limitem os cruzamentos.",
+    "d": "alopátrica, no qual a ocupação de uma mesma área impede a diferenciação entre populações.",
+    "e": "alopátrica, no qual as linhagens se diferenciam por apresentarem períodos reprodutivos distintos ao longo do ano."
+   },
+   "resposta": "b",
+   "explicacao": "As duas linhagens vivem na mesma área — \"em regiões onde as duas linhagens vivem juntas\" —, então não há isolamento geográfico: a especiação é simpátrica. O que separa é o comportamento: cada macho responde ao odor das fêmeas da própria linhagem, e a maioria dos acasalamentos acontece dentro dela, o que reduz o fluxo gênico. Alternativa B. A alternativa A acerta o tipo mas nega a redução do fluxo, que é o mecanismo; C, D e E chamam o caso de alopátrico, contrariando a convivência na mesma área, e ainda erram a explicação — ausência de barreiras em C, impedimento da diferenciação em D e períodos reprodutivos distintos em E, que o texto não menciona."
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "fuvest-biologia-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Considerando as estruturas locomotoras de tubarões, pinguins, focas, morcegos e baleias, é correto afirmar:",
+   "alternativas": {
+    "a": "As nadadeiras dos tubarões e as asas dos pinguins constituem órgãos homólogos, pois representam adaptações independentes ao ambiente aquático.",
+    "b": "As nadadeiras das focas e as asas dos pinguins constituem órgãos análogos, indicando ausência de ancestralidade comum entre essas estruturas.",
+    "c": "As asas dos pinguins e dos morcegos constituem órgãos análogos, pois derivam de folhetos embrionários distintos.",
+    "d": "As asas dos morcegos e as nadadeiras das focas constituem órgãos homólogos, pois evoluíram independentemente para diferentes formas de locomoção.",
+    "e": "As nadadeiras das baleias e as asas dos pinguins constituem órgãos homólogos, pois ambas derivam da mesma estrutura de um ancestral comum."
+   },
+   "resposta": "e",
+   "explicacao": "Homólogos são órgãos com a mesma origem embrionária e o mesmo ancestral comum, ainda que a função difira; análogos têm função parecida e origens distintas. Nadadeira de baleia e asa de pinguim são as duas o membro anterior de tetrápodes, herdado do mesmo ancestral — homólogas, alternativa E. A alternativa A chama nadadeira de tubarão e asa de pinguim de homólogas justificando com adaptação independente, que é a definição de análogas; B nega ancestralidade comum entre foca e pinguim, ambos tetrápodes; C diz que asas de pinguim e de morcego derivam de folhetos embrionários distintos, e são igualmente membros anteriores; e D chama de homólogas por terem evoluído independentemente, invertendo os termos."
   },
   {
    "subtema": "biologia-evolucao",
@@ -14049,6 +14207,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Quem decide o ponto de ebulição é a interação entre moléculas diferentes. No orto, a hidroxila se dobra sobre o próprio grupo nitro e fica ocupada; no para, ela sobra para ligar-se às moléculas vizinhas, e é preciso mais energia para separá-las. Daí o para-nitrofenol ferver a temperatura mais alta — alternativa C. A alternativa A declara propriedades idênticas por terem a mesma fórmula, ignorando que isômeros de posição diferem; B fala em interagir com a água por ligações covalentes, que não é o tipo de interação em jogo; D diz que a ligação intramolecular impede completamente as intermoleculares, quando o texto afirma que apenas as reduz; e E dá maior solubilidade em água ao orto, sendo o para o mais disponível para ligar-se à água."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-34",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Logo após escovar os dentes, é comum ocorrer alteração na percepção do sabor de alimentos e bebidas. Por um breve período, esse efeito está associado à presença de surfactantes na pasta de dente, que interagem com receptores de sabor localizados na língua. Tais receptores são proteínas cujas estruturas tridimensionais são mantidas por interações entre regiões polares e apolares da molécula. Por sua vez, os surfactantes possuem uma região hidrofóbica, o que lhes permite interagir com regiões específicas dessas proteínas.",
+   "enunciado": "Com base nessas informações, o efeito descrito ocorre principalmente porque o surfactante",
+   "alternativas": {
+    "a": "interage preferencialmente com regiões hidrofílicas das proteínas, promovendo sua solubilização completa em meio aquoso.",
+    "b": "promove a desnaturação irreversível das proteínas receptoras, impedindo a percepção de sabores.",
+    "c": "interage com regiões apolares das proteínas receptoras, alterando de maneira reversível sua conformação espacial e, consequentemente, sua função.",
+    "d": "rompe ligações covalentes da estrutura primária das proteínas receptoras, modificando irreversivelmente sua composição química.",
+    "e": "estabelece interações com as proteínas que promovem a dissociação de seus aminoácidos constituintes."
+   },
+   "resposta": "c",
+   "explicacao": "O que sustenta a forma tridimensional de uma proteína são interações fracas, e entre elas as que agrupam as regiões apolares longe da água. A cauda hidrofóbica do surfactante se encaixa justamente aí, afrouxa esse arranjo e muda a conformação do receptor — que, sem função, deixa de reconhecer o sabor. Como nenhuma ligação covalente se rompe, o efeito passa: alternativa C, e o \"por um breve período\" do texto confirma. A alternativa A põe a interação nas regiões hidrofílicas; B fala em desnaturação irreversível; D em ruptura de ligações covalentes da estrutura primária; e E na dissociação dos aminoácidos, que também exigiria quebrar ligações peptídicas."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -15454,6 +15632,65 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "No equilíbrio Ca²⁺ + CO2 + H2O ⇌ CaCO3 + 2H⁺, o ácido cítrico acrescenta H⁺, que está do lado dos produtos. Por Le Chatelier, o sistema desloca para a esquerda para consumir o excesso: o carbonato de cálcio se dissolve e o duto desentope. A alternativa B diz que a descalcificação consome CO2, quando ela o produz; C afirma que ambientes ricos em CO2 entopem menos, quando o CO2 é reagente e favorece a formação do depósito; D atribui menos entupimento à água de pH maior, e menos H⁺ desloca o equilíbrio para o precipitado; e E chama o ácido de catalisador, sendo ele participante do equilíbrio."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "fuvest-quimica-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "Alguns estudos indicam que as grandes obras de arquitetura e engenharia do Império Romano se devem às propriedades de autorreparação do concreto utilizado. A receita para esse concreto consistia, de forma simplificada, na adição de óxido de cálcio (CaO), silicatos e aluminatos vindos de cinzas vulcânicas, além de pedras e pequenas rochas que eram misturadas a seco para depois ocorrer a adição de água. Era encorajado que o óxido de cálcio não fosse totalmente incorporado à mistura seca, ficando como fragmentos sólidos chamados de clastos. Dessa forma, quando o concreto sofresse uma fissura, a rachadura iria expor parte desses clastos de óxido de cálcio que, em contato com a água do ambiente, geraria uma solução de íons Ca²⁺ (reação I). Esses íons poderiam, então, reagir com o CO2 dissolvido na água, produzindo CaCO3 (reação II) como um sólido que preencheria as rachaduras por ter uma solubilidade muito baixa.\nI. CaO(s) + H2O(ℓ) ⇌ Ca²⁺(aq) + 2OH⁻(aq)\nII. Ca²⁺(aq) + 2OH⁻(aq) + CO2(aq) ⇌ CaCO3(s) + H2O(ℓ)\nO CaO é fundamental para esse processo e não poderia ser trocado por um sal de cálcio como o nitrato de cálcio (Ca(NO3)2), pois o CaO",
+   "alternativas": {
+    "a": "deve estar presente para garantir o meio básico para a formação de CO32− a partir do CO2, o que não aconteceria com a solubilização de Ca(NO3)2.",
+    "b": "é um sal com alta solubilidade, garantindo que exista a grande quantidade de Ca2+ necessário em solução para formação do precipitado.",
+    "c": "tem capacidades refratárias que são responsáveis pela manutenção do calor necessário para a autorreparação das fissuras.",
+    "d": "fornece salinidade adequada para que os outros sais de cálcio presentes no concreto possam reagir com o CO2 do ar, gerando carbonato de cálcio.",
+    "e": "possui um índice de dilatação térmica que é compatível com o restante do concreto, evitando a formação das fissuras."
+   },
+   "resposta": "a",
+   "explicacao": "A reação I mostra o que só o CaO faz: além de liberar Ca²⁺, produz 2 OH⁻ por fórmula, deixando o meio básico. É esse meio básico que converte o CO2 dissolvido em carbonato, permitindo a reação II fechar em CaCO3. O nitrato de cálcio dissolveria e daria Ca²⁺, mas não geraria hidroxila alguma, e o carbonato não se formaria. Alternativa A. A alternativa B chama o CaO de sal e credita tudo à concentração de Ca²⁺; C fala em capacidade refratária e manutenção de calor; D atribui ao CaO o papel de fornecer salinidade para outros sais reagirem; e E o justifica pela dilatação térmica, evitando a formação das fissuras, quando o mecanismo descrito atua depois que elas surgem."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "fuvest-quimica-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Note e adote:\nO produto iônico da água (Kw) é 1×10⁻¹⁴.",
+   "enunciado": "Um estudante decidiu investigar de forma sistemática o efeito de diluições sucessivas nos valores de pH de uma solução. Como ponto de partida, optou por trabalhar com uma solução aquosa diluída de ácido clorídrico (HC, ) com concentração de 0,01 mol·L−1, que apresentou um pH igual a 2,0. Em seguida, realizou uma diluição de 100 vezes dessa solução, obtendo um pH igual a 4,0. Repetindo o mesmo procedimento, isto é, realizando nova diluição de 100 vezes, o pH medido passa a ser 6,0. Qual deverá ser o pH esperado da solução após mais uma diluição de 100 vezes?",
+   "alternativas": {
+    "a": "5,0",
+    "b": "6,0",
+    "c": "7,0",
+    "d": "8,0",
+    "e": "14,0"
+   },
+   "resposta": "c",
+   "explicacao": "A regra que o estudante vinha usando — diluir 100 vezes soma 2 ao pH — vale enquanto o ácido domina a concentração de H⁺. Depois de três diluições ele chegou a pH 6, já muito perto do limite: uma quarta diluição deixaria a contribuição do ácido abaixo da própria autoionização da água, que fornece 10⁻⁷ mol·L⁻¹ de H⁺. Solução ácida não pode ficar básica por diluição, então o pH tende a 7 e para aí: alternativa C. A alternativa D, 8,0, é o que a regra ingênua daria e tornaria básica uma solução de HCℓ; E, 14,0, é o extremo dessa mesma confusão; B repete o valor anterior; e A, 5,0, inverte o sentido da diluição."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "fuvest-quimica-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Note e adote:\nMassa molar do Cd = 112 g·mol⁻¹.",
+   "enunciado": "A retirada de metais pesados como Cd2+ de efluentes industriais pode ser feita pela precipitação desses íons seguida da filtração. A precipitação do Cd2+ pode ser feita por meio da adição de bases, já que seu hidróxido, Cd(OH)2, nas condições de operação do reator, possui uma constante de solubilidade bastante baixa (Kps ~ 2×10−16). Assumindo que a legislação brasileira estabelece como limite aceitável a concentração de aproximadamente 0,224 mg·L−1 de Cd2+ em efluentes, o pH mínimo para garantir a remoção adequada dos íons é",
+   "alternativas": {
+    "a": "4.",
+    "b": "5",
+    "c": "7.",
+    "d": "9.",
+    "e": "10."
+   },
+   "resposta": "d",
+   "explicacao": "Primeiro o limite em mol: 0,224 mg·L⁻¹ é 2,24×10⁻⁴ g·L⁻¹, que dividido por 112 g·mol⁻¹ dá 2×10⁻⁶ mol·L⁻¹ de Cd²⁺. Com Kps = [Cd²⁺][OH⁻]² = 2×10⁻¹⁶, vem [OH⁻]² = 2×10⁻¹⁶ / 2×10⁻⁶ = 1×10⁻¹⁰, logo [OH⁻] = 1×10⁻⁵ mol·L⁻¹. Isso é pOH 5 e, portanto, pH 9 — alternativa D. Abaixo desse pH não há hidroxila suficiente para precipitar o cádmio até o limite legal; acima, precipita mais, mas 9 é o mínimo pedido. As alternativas A e B correspondem a pH ácido, onde o Cd(OH)2 sequer se forma, e E resulta de esquecer que a hidroxila entra ao quadrado."
   }
  ],
  "quimica-organica": [
@@ -16993,6 +17230,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Para viajar pelo ar, a molécula precisa evaporar com facilidade — e evapora bem o que interage pouco consigo mesmo, isto é, o composto apolar, sem ligações de hidrogênio a romper. Volatilidade alta e polaridade baixa andam juntas, e é o caso dos terpenos e derivados que as plantas liberam. A alternativa A associa alta volatilidade a moléculas polares, invertendo a relação; B exige moléculas apolares para dissolver no solo úmido, quando é o polar que se solubiliza em água; C faz o composto de baixa polaridade dissolver-se facilmente no solo; e D atribui fácil transporte no solo a moléculas polares justamente por sua baixa solubilidade, contradizendo-se."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "fuvest-quimica-35",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Pictogramas são utilizados para descrever a presença ou ausência de certos ingredientes em alimentos. Considere dois pictogramas encontrados em um alimento que representam, da esquerda para a direita, alimentos sem glúten, indicado por uma espiga de trigo, e alimentos livres de aditivos, indicado por uma representação de molécula orgânica composta por um átomo central e 4 átomos vizinhos. Ambos mostram as imagens cortadas por um risco diagonal.\n\nNote e adote:\nConfiguração eletrônica:\nH: 1s¹\nC: 1s² 2s² 2p²\nN: 1s² 2s² 2p³\nP: 1s² 2s² 2p⁶ 3s² 3p³",
+   "enunciado": "O pictograma que representa alimentos livres de aditivos, se considerado do ponto de vista químico, pode ser interpretado como se o alimento fosse livre de",
+   "alternativas": {
+    "a": "hidrocarbonetos leves.",
+    "b": "compostos nitrogenados.",
+    "c": "derivados do petróleo de cadeias grandes.",
+    "d": "compostos fosforados.",
+    "e": "carboidratos de baixa massa molecular."
+   },
+   "resposta": "a",
+   "explicacao": "Um átomo central ligado a quatro vizinhos exige quatro ligações, e a configuração dada mostra quem faz isso: o carbono, com quatro elétrons na camada de valência. Nitrogênio e fósforo, com cinco, fazem três; o hidrogênio faz uma. A figura é, portanto, um CH4 — o hidrocarboneto mais simples —, e o risco diagonal significa \"livre de hidrocarbonetos leves\": alternativa A. A alternativa B pede compostos nitrogenados e D, fosforados, e nem N nem P formam quatro ligações simples nesse arranjo; C fala em derivados do petróleo de cadeias grandes, e a figura tem um átomo central só; e E, em carboidratos, que têm oxigênio e cadeias maiores."
   }
  ],
  "quimica-solucoes": [
@@ -18489,7 +18746,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "dificuldade": "media",
    "origem": "fuvest",
-   "texto_apoio": "A porcentagem em massa de fosfato (PO43-) numa amostra do vidro fertilizante é de 19%. A velocidade de dissolução desse vidro em água é constante e independente da massa inicial, sendo igual a 7,3 mg/h. Em um teste de dissolução, adicionou- se excesso dessa amostra de vidro fertilizante a 1 L de água e mediu-se a concentração de íons fosfato ao longo do tempo.\n\nNote e adote: Massa molar do fosfato = 95 g/mol.",
+   "texto_apoio": "A porcentagem em massa de fosfato (PO43-) numa amostra do vidro fertilizante é de 19%. A velocidade de dissolução desse vidro em água é constante e independente da massa inicial, sendo igual a 7,3 mg/h. Em um teste de dissolução, adicionou-se excesso dessa amostra de vidro fertilizante a 1 L de água e mediu-se a concentração de íons fosfato ao longo do tempo.\n\nNote e adote: Massa molar do fosfato = 95 g/mol.",
    "enunciado": "A concentração de fosfato em mol/L obtida após 100 h de experimento foi",
    "alternativas": {
     "a": "1,46 × 10-3",
@@ -19828,7 +20085,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "dificuldade": "dificil",
    "origem": "fuvest",
-   "texto_apoio": "Essa imagem, chamada de “A formatura da capivara”, foi gerada por Inteligência Artificial (IA). Em 2024 estimou- se que 30 milhões de imagens foram geradas diariamente no mundo utilizando modelos de IA a um gasto energético médio de 131 kJ por imagem. O uso intenso dessa tecnologia tem levado à reativação de usinas termoelétricas e à construção de novas usinas nucleares para suportar os servidores que realizam o processamento de IA.\n\nNote e adote: Massa molar (g/mol): C = 12; O = 16. Entalpia de combustão completa do carvão: ΔH = −393 kJ/mol.",
+   "texto_apoio": "Essa imagem, chamada de “A formatura da capivara”, foi gerada por Inteligência Artificial (IA). Em 2024 estimou-se que 30 milhões de imagens foram geradas diariamente no mundo utilizando modelos de IA a um gasto energético médio de 131 kJ por imagem. O uso intenso dessa tecnologia tem levado à reativação de usinas termoelétricas e à construção de novas usinas nucleares para suportar os servidores que realizam o processamento de IA.\n\nNote e adote: Massa molar (g/mol): C = 12; O = 16. Entalpia de combustão completa do carvão: ΔH = −393 kJ/mol.",
    "enunciado": "Considerando que toda a energia para gerar essas imagens fosse proveniente da combustão completa de carvão, a pegada de carbono diária medida em toneladas de CO2 formado, resultante da produção dessas imagens, seria de",
    "alternativas": {
     "a": "0,2.",
@@ -21253,6 +21510,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Em um dia são 70 × 60 × 24 = 100.800 batidas, e a 1 J cada uma, 100.800 J, ou 100,8 kJ. Como a combustão de 1 mol de glicose libera 2.800 kJ, o coração consome 100,8/2.800 = 0,036 mol de glicose. A equação mostra que cada mol de glicose produz 6 mols de CO2, logo 6 × 0,036 = 0,216 mol — alternativa E. A alternativa D, 0,036, é a quantidade de glicose, e para nela quem esquece a estequiometria do gás; C, B e A saem de errar a conversão do dia em minutos, dividindo por 60 uma vez a mais em cada passo."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-32",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Materiais poliméricos utilizados como revestimentos protetores podem apresentar diferentes comportamentos frente à combustão. O fluoreto de polivinilideno (PVDF) é um exemplo de polímero que, além de atuar como agente impermeabilizante, apresenta propriedades retardantes de chama. Essas propriedades estão relacionadas à presença de átomos de flúor em sua estrutura, o que resulta em alta temperatura de ignição e baixa liberação de calor durante a combustão.\n\nNote e adote:\nEnergias de ligação em kJ·mol⁻¹: C−H = 415; C−F = 500.",
+   "enunciado": "Sobre este processo, é correto afirmar que",
+   "alternativas": {
+    "a": "a elevada quantidade de ligações C−F aumenta o calor liberado na combustão devido à alta energia dessas ligações.",
+    "b": "a alta temperatura de ignição é necessária porque essa combustão é endotérmica por conta da alta energia de ligação C−F e, portanto, favorecida quando aquecida.",
+    "c": "a ligação C−H tem maior diferença de eletronegatividade e, portanto, é quebrada primeiro no processo de queima.",
+    "d": "a energia absorvida para a quebra da ligação C−F é maior do que para a quebra de ligações C−H, o que está associado a uma maior energia de ativação dessa combustão.",
+    "e": "a presença de flúor diminui a polaridade da cadeia carbônica, tornando o polímero menos reativo ao oxigênio e, portanto, menos inflamável."
+   },
+   "resposta": "d",
+   "explicacao": "Quebrar C−F custa 500 kJ·mol⁻¹ contra 415 da C−H: são 85 a mais por ligação. Como toda combustão começa rompendo ligações do combustível, trocar hidrogênios por flúor eleva a barreira inicial, isto é, a energia de ativação — e daí a alta temperatura de ignição que o texto atribui ao PVDF. Alternativa D. A alternativa A conclui maior calor liberado, quando ligações fortes no reagente reduzem o saldo exotérmico; B chama a combustão de endotérmica; C diz que a C−H tem maior diferença de eletronegatividade, e o flúor é o elemento mais eletronegativo da tabela; e E afirma que o flúor diminui a polaridade da cadeia, aumentando-a."
   }
  ],
  "fisica-mecanica": [
@@ -24937,6 +25214,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O copo térmico ataca os três mecanismos de troca: o vácuo entre as paredes elimina condução e convecção, porque não há meio material para transportar calor, e a superfície metálica reflexiva devolve a radiação. A alternativa C é a única que reconhece a dupla ação — vácuo contra a condução, camadas reflexivas contra a irradiação. A alternativa A faz o aço aumentar a irradiação para fora; B chama o aço de melhor isolante que o vidro e o vidro de bom condutor de calor, invertendo os dois; D afirma que o vácuo não inibe a convecção, quando é exatamente o que ele inibe; e E reduz a função do vácuo à irradiação, deixando de fora a condução."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "fuvest-fisica-22",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Durante um voo comercial para Recife (PE), um passageiro decidiu estimar, de forma aproximada, a pressão do ar no interior da cabine do avião durante o voo utilizando uma garrafa plástica flexível, com volume de 500 mL. Para tanto, durante o voo, o passageiro pega a garrafa plástica, já vazia, e a fecha. Ao chegar no seu destino o passageiro nota que a garrafa está amassada e, em seguida, mergulha a garrafa fechada em um recipiente com água e, mantendo-a com a boca para baixo, abre a tampa com a garrafa ainda submersa. Nesse momento observa que a água começa a entrar na garrafa, que vai gradualmente retomando sua forma original. Quando a garrafa volta à sua forma inicial, o passageiro fecha novamente a sua tampa, ainda com a garrafa dentro do recipiente. A água que ficou dentro da garrafa é então transferida para um copo com medidas mostrando que 125 mL de água entraram na garrafa.",
+   "enunciado": "Admitindo que a temperatura tenha permanecido constante durante todo o experimento, a pressão da cabine do avião, estimada pelo passageiro, em atm, foi de",
+   "alternativas": {
+    "a": "0,75.",
+    "b": "0,80.",
+    "c": "1,00.",
+    "d": "1,15.",
+    "e": "1,25."
+   },
+   "resposta": "a",
+   "explicacao": "O ar preso na garrafa é o mesmo do começo ao fim, e a temperatura não muda: vale Boyle, P1V1 = P2V2. Na cabine, esse ar ocupava os 500 mL da garrafa à pressão procurada. No solo, com a tampa aberta sob a água, a pressão interna iguala 1 atm e entram 125 mL de água — logo o ar ficou com 500 − 125 = 375 mL. Então P1 × 500 = 1 × 375, e P1 = 0,75 atm: alternativa A. A alternativa E, 1,25, sai de somar em vez de subtrair o volume de água; B, 0,80, de arredondar mal a fração; C, 1,00, ignora que a garrafa amassou; e D supõe cabine pressurizada acima da atmosfera."
   }
  ],
  "fisica-ondas-optica": [
@@ -26589,6 +26886,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A luz que chega à asa é refletida duas vezes — na face superior e na face inferior da película transparente — e os dois raios voltam com uma diferença de caminho que depende da espessura e do ângulo de observação. Ao se superporem, interferem: para cada ângulo, um comprimento de onda sofre interferência construtiva e é o que se vê. Reflexão e interferência, portanto. Dilatação (A e B) é efeito térmico sobre dimensões; dissipação (C) é perda de energia; e convecção (D) é transporte de calor em fluido — nenhuma dessas tem papel na cor estrutural."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "fuvest-fisica-28",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O LiDAR (Light Detection and Ranging) é uma tecnologia de sensoriamento remoto que utiliza pulsos de laser infravermelho para medir distâncias e movimentos em tempo real. O sistema calcula o “tempo de voo” do laser, que é o intervalo entre a emissão do pulso e o seu retorno ao sensor após atingir um objeto. Ao processar bilhões dessas medições, o LiDAR gera uma nuvem de pontos, permitindo a criação de mapas 3D dinâmicos essenciais para a navegação de veículos autônomos e o monitoramento de desastres naturais.",
+   "enunciado": "Considere um sistema LiDAR de alta precisão operando em um veículo autônomo. Qual das seguintes afirmações descreve corretamente um aspecto físico ou uma limitação operacional dessa tecnologia?",
+   "alternativas": {
+    "a": "A precisão do LiDAR é superior à de radares convencionais porque a onda de luz infravermelha viaja no ar a uma velocidade dez vezes maior que a das microondas do radar, permitindo que o sensor receba os dados antes mesmo de o objeto se mover.",
+    "b": "O sistema é imune a condições climáticas como neblina ou chuva densa, pois o laser infravermelho atravessa as moléculas de água sem sofrer qualquer tipo de dispersão ou interferência física.",
+    "c": "O LiDAR apresenta dificuldades críticas em detectar superfícies perfeitamente espelhadas ou de vidro transparente, pois o feixe de laser pode ser desviado para longe do receptor ou atravessar o material sem sofrer a reflexão necessária para o cálculo do tempo de voo.",
+    "d": "A “nuvem de pontos” gerada pelo sensor é, na verdade, um mapa de calor que utiliza a temperatura dos objetos para deduzir a que distância eles estão, independentemente do tempo que a luz leva para retornar.",
+    "e": "O sensor LiDAR funciona emitindo ondas sonoras de alta frequência que, ao atingirem objetos estáticos, mudam de cor devido ao efeito Doppler, permitindo que o computador calcule a posição exata do objeto."
+   },
+   "resposta": "c",
+   "explicacao": "O LiDAR depende de a luz voltar ao sensor, e é aí que espelhos e vidro o derrotam: uma superfície perfeitamente especular reflete o feixe segundo a lei da reflexão, mandando-o para longe do receptor se a incidência não for quase normal, e o vidro transparente simplesmente deixa o infravermelho passar. Sem retorno, não há tempo de voo. Alternativa C. A alternativa A diz que a luz viaja dez vezes mais rápido que micro-ondas, sendo ambas eletromagnéticas e de mesma velocidade; B declara o sistema imune à neblina, quando gotículas espalham o feixe; D troca tempo de voo por mapa de calor; e E o faz emitir ondas sonoras que mudam de cor, descrição que mistura sonar e efeito Doppler."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "fuvest-fisica-29",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Câmeras de smartphones modernos têm utilizado designs que permitem que a luz percorra um caminho óptico maior dentro da câmera sem aumentar seu tamanho físico, possibilitando zooms ópticos maiores. Um aspecto central desse design são as reflexões internas totais da luz no interior da câmera, que ocorrem quando o ângulo de refração na interface com o meio externo é maior que 90º. Considere um prisma feito de um material de índice de refração n cuja seção transversal tem o formato de um paralelogramo em que uma de suas faces, em contato com o ar, forma um ângulo de 45º com a horizontal.\n\nNote e adote:\nsen 45º = cos 45º = √2/2\nÍndice de refração do ar (nar) igual a 1.\nLei de Snell: nᵢ·sen θᵢ = n_f·sen θ_f",
+   "enunciado": "Qual o valor mínimo de n para que um raio de luz se propagando na horizontal dentro do prisma sofra reflexão total nesta face?",
+   "alternativas": {
+    "a": "√2 2",
+    "b": "1",
+    "c": "√2",
+    "d": "3√2 2",
+    "e": "2√2"
+   },
+   "resposta": "c",
+   "explicacao": "A normal à face é perpendicular a ela; como a face está a 45º da horizontal, a normal também está, e um raio horizontal incide sobre ela a 45º. A reflexão total começa quando o ângulo refratado atinge 90º, isto é, quando n·sen 45º = 1·sen 90º = 1. Daí n = 1/sen 45º = 2/√2 = √2 — alternativa C. Abaixo disso o raio escapa para o ar. A alternativa A, √2/2, é menor que 1 e não existe como índice de meio material; B, igual a 1, é o índice do próprio ar; e D e E são maiores que o mínimo, valores para os quais há reflexão total mas que não respondem ao \"mínimo\" pedido."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -28076,6 +28413,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A componente vertical é a projeção do campo sobre a vertical, B·sen θ, porque o ângulo de inclinação é medido em relação à superfície. A 60º ela vale 50 × 0,866 = 43,3 μT; a 30º, 50 × 0,5 = 25 μT. A diferença é 18,3 μT — alternativa A. As demais são os passos intermediários deixados no caminho: C é a componente a 60º, B é a componente a 30º, D é o módulo do campo, que não muda entre as duas situações, e E é o dobro dele. Quem confunde a inclinação com o ângulo em relação à vertical troca seno por cosseno e chega ao mesmo 18,3, mas por compensação, não por acerto."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "fuvest-fisica-24",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Recentemente, pesquisadores da USP desenvolveram uma bateria funcional baseada em nióbio, superando desafios tecnológicos e obtendo um dispositivo recarregável capaz de fornecer uma tensão constante de 3 V, compatível com aplicações eletrônicas comuns.",
+   "enunciado": "Considere que uma bateria de nióbio com capacidade nominal de 1,8 A.h é utilizada para alimentar um dispositivo elétrico operando com potência constante e que, após 30 minutos de uso, essa bateria ficou completamente descarregada. Nessas condições, sabendo que a capacidade nominal refere-se à quantidade de carga total armazenada pela bateria, qual foi a potência consumida pelo dispositivo?",
+   "alternativas": {
+    "a": "3,6 W",
+    "b": "7,2 W",
+    "c": "9,0 W",
+    "d": "10,8 W",
+    "e": "12 W"
+   },
+   "resposta": "d",
+   "explicacao": "Capacidade nominal em ampère-hora é carga: 1,8 A·h descarregados em 0,5 h dão uma corrente média de 1,8/0,5 = 3,6 A. Com tensão constante de 3 V, a potência é P = U·i = 3 × 3,6 = 10,8 W — alternativa D. A alternativa A, 3,6 W, multiplica a tensão pela capacidade sem dividir pelo tempo; B, 7,2 W, usa 1 h em vez de meia; C, 9,0 W, sai de tomar a corrente como 3 A; e E, 12 W, arredonda a corrente para 4 A. O passo que a questão cobra é converter ampère-hora em ampère dividindo pelo tempo de descarga."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "fuvest-fisica-27",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Em 1897, em um célebre experimento envolvendo raios catódicos, J. J. Thomson constatou a existência do elétron. Considere um feixe de elétrons deslocando-se em linha reta e, em seguida, submetido a um campo elétrico uniforme gerado pela aplicação de uma diferença de potencial entre duas placas defletoras.",
+   "enunciado": "Ao se aplicar a diferença de potencial entre as placas, os elétrons do feixe",
+   "alternativas": {
+    "a": "deslocam-se em direção à placa positivamente carregada.",
+    "b": "deslocam-se em direção à placa negativamente carregada.",
+    "c": "deslocam-se para dentro do plano da figura.",
+    "d": "deslocam-se para fora do plano da figura.",
+    "e": "permanecem com a mesma trajetória."
+   },
+   "resposta": "a",
+   "explicacao": "O campo elétrico aponta da placa positiva para a negativa, e a força sobre uma carga negativa tem sentido contrário ao campo: os elétrons são atraídos pela placa positiva. Alternativa A — e foi assim que Thomson mostrou que os raios catódicos eram feitos de partículas de carga negativa. A alternativa B inverte o sinal da carga. As alternativas C e D descrevem desvio perpendicular ao plano da figura, que exigiria força magnética, e o enunciado fala apenas em campo elétrico. E afirma que a trajetória não muda, o que só valeria se o feixe fosse neutro — a conclusão oposta à do experimento."
   }
  ],
  "fisica-hidrostatica": [
@@ -30540,6 +30917,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O desnível é 1321 − 1254 = 67 m, e a massa do conjunto, 65 + 23 = 88 kg. Em queda livre toda a energia potencial viraria cinética: mgh = 88 × 10 × 67 = 58.960 J. A velocidade real na chegada é 119,4 km/h = 33,17 m/s, o que dá Ecin = (1/2) × 88 × 33,17² ≈ 48.400 J. A perda é (58.960 − 48.400)/58.960 ≈ 17,9%, faixa da alternativa D. A extensão de 1200 m e o tempo de 52,55 s não entram na conta — servem para descrever a prova, e quem tenta usá-los cai nas faixas vizinhas."
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "fuvest-fisica-23",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Atualmente, com o fácil acesso à internet e a grande quantidade de ferramentas que auxiliam a produção de vídeos, é fácil gerar vídeos com notícias falsas, as conhecidas fake news. Alguns desses vídeos apresentam geradores caseiros de energia infinita e incluem propagandas de venda de kits para construir esses geradores em casa. Qualquer vídeo que prometa geração infinita de energia está usando truques para enganar o espectador.",
+   "enunciado": "Dentre as alternativas a seguir, qual delas apresenta argumentos físicos corretos para rebater essas fake news?",
+   "alternativas": {
+    "a": "Um gerador transforma energia mecânica em energia elétrica. O motor transforma energia elétrica em energia mecânica. Dependendo do material escolhido para construir um motor e um gerador, é possível gerar um sistema de movimento perpétuo, no qual a energia inicial colocada neles nunca é dissipada.",
+    "b": "É possível colocar ímãs naturais em posições específicas para fazer um motor girar para sempre sem precisar ligá-lo na tomada, considerando que os campos magnéticos dos ímãs naturais são perpétuos.",
+    "c": "A tensão típica gerada por eletricidade estática é extremamente alta. Por exemplo, o atrito do pente no cabelo seco pode gerar uma tensão de 1500 V a 5000 V, e essa eletricidade estática pode ser acumulada para ligar uma lâmpada comum por vários minutos.",
+    "d": "Fios supercondutores em temperatura ambiente podem ser usados para construir um gerador caseiro que terá perda zero de energia e funcionará para sempre. Dessa forma, com o desenvolvimento dos materiais supercondutores, será possível construir geradores caseiros de energia infinita.",
+    "e": "O atrito entre superfícies, a resistência do ar, a resistência elétrica dos fios e a troca de calor entre partes com diferentes temperaturas sempre consomem parte da energia, independentemente dos materiais utilizados."
+   },
+   "resposta": "e",
+   "explicacao": "A resposta correta é a única que não promete exceção à segunda lei: atrito, resistência do ar, resistência elétrica e trocas de calor sempre degradam parte da energia, e nenhum material elimina todas as dissipações. Alternativa E. As outras quatro reproduzem os próprios truques que o enunciado manda rebater — A afirma que a escolha do material permite movimento perpétuo; B faz ímãs naturais girarem um motor para sempre; C confunde tensão com energia, pois os milhares de volts da eletricidade estática correspondem a uma carga ínfima, incapaz de manter uma lâmpada acesa; e D promete supercondutores em temperatura ambiente com perda zero, que não existem e ainda assim não gerariam energia, apenas evitariam parte da perda."
   }
  ],
  "fisica-moderna": [
@@ -31851,6 +32248,45 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A ponte entre as duas descobertas é o modelo de Bohr: os elétrons ocupam níveis de energia definidos e, ao saltarem entre eles, emitem ou absorvem fótons de frequências fixas, iguais em qualquer lugar do universo. É por serem fixas que servem de régua — e é por aparecerem deslocadas para o vermelho que Hubble concluiu o afastamento das galáxias. Alternativa B. A alternativa A supõe átomos distantes com níveis de energia diferentes, o que destruiria a régua; C faz os próprios átomos se expandirem; D declara o espectro do hidrogênio distante diferente do terrestre, invalidando a universalidade que o texto afirma; e E atribui o desvio à poeira cósmica, sem movimento real."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fuvest-fisica-25",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "A geração de eletricidade a partir da fissão nuclear de urânio representa cerca de 10% da produção elétrica mundial. Entretanto, o principal combustível nuclear, o isótopo ²³⁵U, corresponde a apenas 0,7% de todo urânio natural, o que limita sua disponibilidade. Uma alternativa potencial é o uso do isótopo ²³³U, que além de também ser físsil, gera menos resíduos nucleares de longa meia-vida. Esse isótopo não existe naturalmente, mas pode ser produzido a partir de um isótopo de tório, ²³²Th, que é muito mais abundante que o ²³⁵U. O processo de obtenção de ²³³U ocorre conforme as reações:\n²³²₉₀Th + x → ²³³₉₀Th\n²³³₉₀Th → ²³³₉₁Pa + y\n²³³₉₁Pa → ²³³₉₂U + z\nNessas reações, x, y e z correspondem, respectivamente, a",
+   "alternativas": {
+    "a": "nêutron, beta e beta.",
+    "b": "nêutron, próton e próton.",
+    "c": "beta, nêutron e nêutron.",
+    "d": "alfa, beta e beta.",
+    "e": "beta, próton e próton."
+   },
+   "resposta": "a",
+   "explicacao": "Basta acompanhar os dois números em cada linha. Na primeira, a massa sobe de 232 para 233 e o número atômico fica em 90: entrou uma partícula com massa 1 e carga 0, um nêutron. Na segunda, a massa permanece 233 e o número atômico sobe de 90 para 91: saiu uma partícula de massa desprezível e carga −1, uma beta. Na terceira, a massa segue 233 e o número atômico vai de 91 a 92: outra beta. Alternativa A. Emitir próton (B, E) baixaria a massa; emitir alfa (D) tiraria 4 de massa e 2 de carga; e capturar beta na primeira etapa (C, E) não aumentaria a massa."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fuvest-fisica-26",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O ²¹³Bi é um núcleo radioativo frequentemente utilizado como radiofármaco terapêutico. Um possível esquema de decaimento do ²¹³Bi ocorre por meio da emissão direta de uma partícula alfa (⁴He), levando à formação do núcleo ²⁰⁹Tl. Nesse processo, é possível considerar que o núcleo de ²¹³Bi estava inicialmente em repouso. Como a massa do ⁴He é muito menor que a massa do ²⁰⁹Tl, uma primeira aproximação do problema consiste em desprezar o recuo do núcleo de ²⁰⁹Tl. Nesse caso, a velocidade de emissão da partícula alfa será aproximadamente 1,7×10⁷ m/s.",
+   "enunciado": "Por outro lado, se o recuo do ²⁰⁹Tl for levado em consideração, é correto afirmar que",
+   "alternativas": {
+    "a": "a energia cinética da partícula alfa permanecerá a mesma.",
+    "b": "a energia cinética da partícula alfa aumentará.",
+    "c": "a velocidade da partícula alfa será nula.",
+    "d": "a velocidade da partícula alfa diminuirá.",
+    "e": "o momento linear do sistema não se conservará."
+   },
+   "resposta": "d",
+   "explicacao": "O núcleo parte do repouso, então o momento total é zero e continua zero: alfa e tálio saem com momentos de mesmo módulo e sentidos opostos. A energia liberada no decaimento é fixa e, ao admitir o recuo, ela passa a ser repartida entre os dois — o tálio leva uma fatia que a aproximação anterior dava toda à alfa. Com menos energia cinética, a alfa sai mais devagar: alternativa D. A alternativa A mantém a energia cinética inalterada e B a aumenta, ambas violando a repartição; C anula a velocidade da alfa, quando ela apenas diminui; e E nega a conservação do momento, que é justamente o princípio que resolve o problema."
   }
  ],
  "matematica-geometria": [
@@ -35533,6 +35969,45 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A tangente a uma circunferência é perpendicular ao raio no ponto de contato. Se em P as duas tangentes são perpendiculares entre si, então O1P é perpendicular a O2P — o triângulo O1PO2 é retângulo em P, e Pitágoras dá d(O1,O2)² = r1² + r2². Alternativa E. A alternativa B chama esse triângulo de obtuso, quando ele é retângulo; A nega que O2 esteja na tangente a C1 por P, sendo essa tangente exatamente a reta O2P; C afirma que O1O2PQ é um quadrado, o que exigiria raios iguais e ainda assim daria um quadrado só nesse caso particular; e D põe PQ como mediatriz de O1O2, que só vale se os raios forem iguais."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-26",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "Um arquiteto utiliza um triângulo retângulo para calcular a inclinação de uma rampa de acesso. Sabe-se que a medida da mediana relativa à hipotenusa desse triângulo é a média geométrica das medidas dos catetos e que a rampa de acesso será feita pelo maior cateto. Considerando as informações apresentadas, qual é o cosseno do ângulo de inclinação dessa rampa?",
+   "alternativas": {
+    "a": "(√3 − √2)/2",
+    "b": "(√6 + √3)/4",
+    "c": "(√6 + √2)/4",
+    "d": "(1 + √2)/3",
+    "e": "(2 + √6)/3"
+   },
+   "resposta": "c",
+   "explicacao": "Num triângulo retângulo a mediana relativa à hipotenusa vale metade dela, então a condição do enunciado é c/2 = √(ab), ou seja, c² = 4ab. Como c² = a² + b², vem a² + b² = 4ab; dividindo por b² e chamando t = a/b, tem-se t² − 4t + 1 = 0, cujas raízes são 2 ± √3. O maior cateto é, portanto, (2+√3) vezes o menor. Tomando b = 1 e a = 2+√3, a hipotenusa é √(8+4√3) = √6 + √2. A rampa é feita pelo maior cateto, e o cosseno do ângulo de inclinação é a/c = (2+√3)/(√6+√2), que racionalizado dá (√6+√2)/4 — alternativa C. As demais trocam uma raiz ou o denominador na racionalização."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-32",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Uma lapiseira usa uma mina de grafite perfeitamente cilíndrica de 2 mm de diâmetro e 60 mm de comprimento. Uma pessoa está escrevendo com essa lapiseira, mantendo a mina de grafite inclinada a 30 graus em relação à vertical e a 60 graus com relação ao plano do papel. Após algum tempo, em um primeiro momento 𝑀1, ela retira a mina de grafite da lapiseira e constata que o comprimento da parte mais curta da mina de grafite mede 50 mm. Em um outro momento 𝑀2, após mais algum tempo de uso, ela verifica que a mina de grafite tem agora 40 mm na parte mais curta.",
+   "enunciado": "Conclui-se que o volume consumido entre os momentos 𝑀1 e 𝑀2 e a área da superfície inclinada, que é uma elipse, valem, respectivamente,",
+   "alternativas": {
+    "a": "1/6 do volume da mina de grafite inicial e 2π√3/3.",
+    "b": "1/6 do volume da mina de grafite inicial e 2π.",
+    "c": "1/6 do volume da mina de grafite inicial e π/2.",
+    "d": "1/4 do volume da mina de grafite inicial e π√2/2.",
+    "e": "1/4 do volume da mina de grafite inicial e π√3/2."
+   },
+   "resposta": "a",
+   "explicacao": "A parte mais curta caiu de 50 mm para 40 mm, logo se gastaram 10 mm de uma mina de 60 mm. Como o cilindro tem seção constante, o volume consumido é 10/60 = 1/6 do inicial — o que já elimina D e E. A superfície de desgaste é a interseção do cilindro com o plano do papel: uma elipse cujo semieixo menor é o próprio raio, 1 mm, e cujo semieixo maior é 1/cos 30º, porque a mina faz 60º com o papel e o plano de corte está, portanto, a 30º da seção reta. A área é π·1·(1/cos 30º) = π/(√3/2) = 2π√3/3 — alternativa A."
   }
  ],
  "matematica-financeira": [
@@ -43264,6 +43739,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Com x, y e z em centenas de peças, o corante gasto é 21x + 54y + 39z, e o enunciado exige pelo menos 81 gramas: 21x + 54y + 39z ≥ 81. Dividindo tudo por 3, 7x + 18y + 13z ≥ 27. O tempo é x + 3y + 4z horas e a máquina só pode funcionar no máximo 15 horas por dia: x + 3y + 4z ≤ 15. Alternativa B. A alternativa A troca o sentido da segunda desigualdade, permitindo passar do limite de segurança; C inverte a primeira, transformando o mínimo de corante em máximo; e D e E dividem apenas o primeiro coeficiente por 3 e deixam 54 e 39 intactos, o que desequilibra a inequação."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "fuvest-matematica-28",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "Um grave acidente de ônibus ocorreu próximo à cidade de Montes Claros, estado de Minas Gerais. O instante do acidente na rodovia foi presenciado por 1/65 da população dessa cidade. O número de pessoas que soube do acontecimento t horas após o acidente é dado por A(t) = B/(1 + C·e^(−kt)), em que B é a população da cidade de Montes Claros. Sabendo-se que 1/9 da população soube do acidente 3 horas após, então o tempo que passou até que 1/5 da população soubesse da notícia foi de",
+   "alternativas": {
+    "a": "4,5 horas.",
+    "b": "6,5 horas.",
+    "c": "4 horas.",
+    "d": "5 horas.",
+    "e": "6 horas."
+   },
+   "resposta": "c",
+   "explicacao": "Em t = 0, A = B/(1+C) = B/65, logo C = 64. Em t = 3, B/(1+64·e^(−3k)) = B/9 dá 64·e^(−3k) = 8, ou seja, e^(−3k) = 1/8 e portanto e^(−k) = 1/2. Para que A = B/5, é preciso 1 + 64·e^(−kt) = 5, isto é, e^(−kt) = 4/64 = 1/16. Como e^(−k) = 1/2, temos (1/2)^t = (1/2)⁴ e t = 4 horas — alternativa C. As demais saem de erros no valor de C: usar 65 em vez de 64 desloca o expoente e produz os 4,5 e os 5 horas; e tomar e^(−3k) = 1/8 como e^(−k) = 1/8 leva aos 6 e 6,5."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "fuvest-matematica-29",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Considere a função f: ℝ → ℝ, definida por f(x) = ax + b, em que a e b são coeficientes reais diferentes de zero. Denote por f⁻¹ a função real inversa de f. Sobre f e f⁻¹, é correto afirmar:",
+   "alternativas": {
+    "a": "A interseção entre os gráficos de f e f⁻¹ é uma reta.",
+    "b": "Todo ponto (x, y) do gráfico de f possui um correspondente (y, x) no gráfico de f⁻¹.",
+    "c": "O ponto de interseção do gráfico de f com o eixo Ox tem abscissa igual à abscissa do ponto de interseção do gráfico de f⁻¹ com o eixo Oy.",
+    "d": "O ponto de interseção entre f e f⁻¹ é (b/(a−1), −b/(a−1)).",
+    "e": "A ordenada do ponto de interseção de f⁻¹ com o eixo Oy é −b/a, já a abscissa do ponto de interseção de f com o eixo Ox é −a/b."
+   },
+   "resposta": "b",
+   "explicacao": "Inverter uma função é trocar os papéis de entrada e saída: se f leva x em y, então f⁻¹ leva y em x, e os gráficos são simétricos em relação à reta y = x. Alternativa B, que é a própria definição. A alternativa A chama a interseção dos dois gráficos de reta, quando em geral é um ponto — só seria reta se f coincidisse com a própria inversa. Em C, a abscissa de f ∩ Ox é −b/a, mas a abscissa de f⁻¹ ∩ Oy é zero. Em D, resolvendo ax + b = x obtém-se x = b/(1−a), com ordenada igual, e não o par de sinais opostos anunciado. Em E, o primeiro valor está certo, mas a abscissa de f ∩ Ox é −b/a, não −a/b."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "fuvest-matematica-31",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "Uma bióloga estuda o crescimento de uma população de microrganismos em culturas diferentes. Ela observa que a quantidade de microrganismos em cada cultura pode ser descrita por uma função injetora f: ℝ*₊ → ℝ, que mede a taxa logarítmica de crescimento relativa de cada cultura, e satisfaz as propriedades f(1) = 0 e f(x·y) = f(x) + f(y) para todo x > 0 e y > 0. A bióloga analisa 5 culturas a₁, a₂, a₃, a₄ e a₅, nessa ordem, que foram iniciadas de forma que o número inicial de microrganismos forma uma progressão geométrica (PG) em que aᵢ > 0 para i = 1, 2, 3, 4, 5, e que Σ(i=1 a 5) f(aᵢ) = 13·f(2) + 2·f(a₁) e Σ(i=1 a 4) f(aᵢ/aᵢ₊₁) = −2·f(2a₁). Para entender a distribuição inicial da população de microrganismos, com base nos dados observados, a bióloga precisa determinar o valor inicial da primeira cultura a₁, que é",
+   "alternativas": {
+    "a": "1.",
+    "b": "2.",
+    "c": "3.",
+    "d": "4.",
+    "e": "5."
+   },
+   "resposta": "b",
+   "explicacao": "A propriedade f(xy) = f(x) + f(y) faz f se comportar como logaritmo. Numa PG de razão q, aᵢ = a₁·q^(i−1), então f(aᵢ) = f(a₁) + (i−1)·f(q) e a primeira soma vale 5f(a₁) + 10f(q); igualando a 13f(2) + 2f(a₁), vem 3f(a₁) + 10f(q) = 13f(2). A segunda soma é telescópica: f(a₁/a₂) + ... + f(a₄/a₅) = f(a₁) − f(a₅) = −4f(q), e igualando a −2[f(2) + f(a₁)] obtém-se 2f(q) = f(2) + f(a₁). Substituindo na primeira, 3f(a₁) + 5f(2) + 5f(a₁) = 13f(2), ou seja, 8f(a₁) = 8f(2). Como f é injetora, a₁ = 2 — alternativa B."
   }
  ],
  "matematica-probabilidade": [
@@ -45658,6 +46190,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A expectativa aos 19 anos é a média entre homens e mulheres: 58 = (54,7 + EVM19) ÷ 2, então EVM19 = 116 − 54,7 = 61,3. A diferença entre os sexos é 61,3 − 54,7 = 6,6 anos, e o enunciado diz que ela se mantém aos 20 — logo EVM20 = 53,8 + 6,6 = 60,4. A expectativa geral aos 20 é a média desses dois: (53,8 + 60,4) ÷ 2 = 114,2 ÷ 2 = 57,1. As demais alternativas erram um dos dois passos: repetem 54,7 ou 58 como se nada mudasse, ou arredondam para 60 e 56 sem preservar a diferença de 6,6 anos."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "fuvest-matematica-27",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Em cada partida de um determinado jogo, pode-se ganhar ou perder com igual probabilidade, mas não empatar. Quando se ganha uma partida, ganha-se 𝑝= 0,1, e quando se perde uma partida, perde-se 𝑝= 0,1. Suponha que um jogador jogue exatamente 10 partidas desse jogo. Qual é a probabilidade desse jogador obter lucro em um jogo com exatamente 10 partidas?",
+   "alternativas": {
+    "a": "193/512",
+    "b": "167/256",
+    "c": "1/2",
+    "d": "6/10",
+    "e": "4/10"
+   },
+   "resposta": "a",
+   "explicacao": "Cada partida vale +0,1 ou −0,1 com a mesma probabilidade, então há lucro quando as vitórias superam as derrotas. Em 10 partidas isso significa vencer 6, 7, 8, 9 ou 10 — vencer exatamente 5 empata o saldo em zero, que não é lucro. Somando as combinações: 210 + 120 + 45 + 10 + 1 = 386, sobre os 2¹⁰ = 1024 resultados possíveis, o que dá 386/1024 = 193/512, alternativa A. A alternativa C, 1/2, é a armadilha da simetria: ela valeria se o caso de 5 vitórias não existisse, mas ele ocupa 252 dos 1024 resultados e fica de fora dos dois lados, tornando a probabilidade de lucro menor que a metade."
   }
  ],
  "matematica-sequencias": [
@@ -47021,6 +47572,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Numa PA de cinco termos, y é o termo central, logo x = y − r e z = y + r. Então y² − xz = y² − (y − r)(y + r) = r², e a pergunta se reduz a achar a razão. Como π/12 rad é 15°, os extremos são sen 15° e sen 75°, e 4r = sen 75° − sen 15°. Pela transformação em produto, sen 75° − sen 15° = 2 · cos 45° · sen 30° = 2 · (√2/2) · (1/2) = √2/2. Daí r = √2/8 e r² = 2/64 = 1/32 — alternativa D. Quem esquece de dividir por 4 chega a 1/2·... e cai nas opções maiores; a resposta não depende de calcular x, y e z separadamente."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "fuvest-matematica-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Números poligonais centrados são números gerados a partir de um ponto central. Os quatro primeiros números triangulares centrados são 1, 4, 10 e 19.",
+   "enunciado": "Em relação a esses números, é correto afirmar:",
+   "alternativas": {
+    "a": "Sabendo que T100 = 14851, tem-se que T101 = 15051.",
+    "b": "A diferença entre dois números triangulares centrados consecutivos são termos de uma PA de primeiro termo 1 e razão 3.",
+    "c": "62 é o 7º número triangular centrado e 83 é o 8º número triangular centrado.",
+    "d": "Todo número triangular centrado, Tn, n>1, quando dividido por 3, tem resto igual a 1.",
+    "e": "A diferença entre dois números triangulares centrados consecutivos são termos de uma PG de primeiro termo 1 e razão 3."
+   },
+   "resposta": "d",
+   "explicacao": "As diferenças entre termos consecutivos são 3, 6, 9, 12 — uma PA de primeiro termo 3 e razão 3 —, o que dá Tn = 1 + 3·(1+2+...+(n−1)) = 1 + 3n(n−1)/2. Como 3n(n−1)/2 é sempre múltiplo de 3, todo Tn deixa resto 1 na divisão por 3: alternativa D. A alternativa B erra o primeiro termo da PA, que é 3 e não 1, e E chama a mesma sequência de PG. Em A, T101 = T100 + 3·100 = 14851 + 300 = 15151, não 15051. E em C, os valores corretos são T7 = 64 e T8 = 85, não 62 e 83."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -48141,6 +48712,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O gabarito adota a leitura EXCLUSIVA dos pares: os 40 do parque e da ciclovia são os que votaram nesses dois e SÓ nesses dois, sem contar os 10 dos três projetos. Montando o diagrama de dentro para fora, o miolo tem 10; as regiões de exatamente dois têm 40, 30 e 20; e as de exatamente um ficam com 120 − 40 − 30 − 10 = 40 no parque, 80 − 40 − 20 − 10 = 10 na ciclovia e 110 − 30 − 20 − 10 = 50 na área de lazer. A união soma 40 + 10 + 50 + 40 + 30 + 20 + 10 = 200, e com os 20 que não votaram em nada dá 220 entrevistados. Se os pares fossem lidos como INCLUSIVOS, a inclusão-exclusão daria 230 na união e 250 no total — que é justamente o outro número oferecido na lista."
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "fuvest-matematica-25",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "É chamado de Calendário de Dois Cubos o calendário de mesa composto por dois cubos com faces marcadas com um único dígito de 0 a 9, em que o dígito 6 é invertido para representar o dígito 9, sendo possível organizar os cubos de forma que qualquer dia escolhido do mês (de 01, 02 ... até 31) fique visível nas duas faces frontais. Um enigma envolvendo este calendário diz: os cubos estão dispostos em uma mesa de tal forma que duas faces visíveis de um cubo têm os dígitos 1 e 2, e três faces visíveis do outro cubo têm os dígitos 3, 4 e 5.",
+   "enunciado": "Se as faces frontais indicam o 25º dia do mês, determine os dígitos que aparecem nas faces de cada cubo.",
+   "alternativas": {
+    "a": "{1, 2, 3, 4, 5, 6/9} e {0, 1, 2, 3, 7, 8}.",
+    "b": "{0, 1, 2, 3, 4, 5} e {0, 1, 2, 6/9, 7, 8}.",
+    "c": "{0, 1, 2, 3, 4, 5} e {1, 2, 3, 6/9, 7, 8}.",
+    "d": "{1, 2, 3, 4, 5, 7} e {0, 1, 2, 6/9, 7, 8}.",
+    "e": "{0, 1, 2, 3, 7, 8} e {3, 4, 5, 6/9, 7, 8}."
+   },
+   "resposta": "b",
+   "explicacao": "Os dias 11 e 22 obrigam os dois cubos a terem 1 e 2, e os dias de 01 a 09 obrigam os dois a terem 0 — são três faces gastas em cada cubo, restando três livres em cada. Os dígitos 3, 4, 5, 6/9, 7 e 8 precisam caber nessas seis faces. Como o segundo cubo já mostra 3, 4 e 5, ele fica {0,1,2,3,4,5}, e ao primeiro sobram 6/9, 7 e 8, isto é, {0,1,2,6/9,7,8} — alternativa B, coerente com o 2 e o 5 das faces frontais formando 25. A alternativa A deixa o 0 fora de um dos cubos, impedindo 01 a 09; C tira o 0 do segundo cubo; D põe 7 no lugar do 0; e E não acomoda o 11."
   }
  ],
  "matematica-complexos": [
@@ -53241,6 +53832,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O texto apresenta uma sequência cronológica de aberturas — vôlei de praia em 1996, BMX em 2008, break dance em 2024 — e informa a razão declarada pelo COI: comunicar-se com jovens urbanos que se exercitam de maneira muito diferente da de seus avós. Isso é adaptação a novas demandas. A alternativa (d) diz o contrário do que ocorre, já que a queixa dos tradicionalistas é justamente a entrada de manifestações culturais; e a (a) só descreveria a etapa dos esportes radicais, deixando de fora o break dance, que é o caso central."
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "fuvest-interpretacao-texto-13",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Exergames ampliam engajamento e melhoram habilidades motoras de crianças com TEA Crianças com Transtorno do Espectro Autista (TEA) costumam enfrentar desafios motores, sensoriais e comportamentais que dificultam a prática regular de atividade física. Nesse cenário, os exergames – jogos eletrônicos que dependem de movimentos corporais – surgem como uma alternativa a essas necessidades individuais. Foi a partir dessa realidade que o fisioterapeuta Natã Rafael Grola, doutorando da Escola de Educação Física e Esporte de Ribeirão Preto (EEFERP) da USP, decidiu investigar como crianças com TEA respondem fisiológica e comportamentalmente a esse tipo de atividade. Segundo ele, “dentre os recursos terapêuticos atualmente oferecidos no mercado, os consoles de exergames são opções mais acessíveis financeiramente”. Como parte das crianças atendidas apresenta longos períodos de exposição às telas, “achei que seria uma boa oportunidade unir atividade física e realidade virtual e avaliar se isso seria interessante para as pessoas com TEA, suas famílias e a comunidade”, afirma o pesquisador. No estudo, nove crianças de 7 a 10 anos diagnosticadas com TEA foram acompanhadas pela equipe, após uma “seleção desafiadora”. A estrutura da intervenção foi planejada com base em protocolos já descritos na literatura e adaptada à rotina das crianças atendidas. Os jogos selecionados exigiam movimentos amplos, como saltos, deslocamentos e ações coordenadas dos membros superiores e inferiores. As crianças participantes demonstraram afinidade com os jogos, conseguiram permanecer interessadas e se divertiram ao longo das sessões. “As crianças tinham limites diferentes quanto à execução e tempo de engajamento, mas em geral conseguiam se divertir e realizar o que era proposto durante o período que estavam em sala jogando.” Após a intervenção, o estudo encontrou melhora significativa nas habilidades de locomoção, no controle de objetos e no quociente de motricidade grossa. O pesquisador relata ainda que variáveis como alfabetização, compreensão das instruções e frequência de comparecimento no protocolo tiveram impacto direto nos resultados. “Os participantes que eram alfabetizados tinham melhor compreensão do que era exigido nos jogos.” Mesmo assim, afirma que crianças com maior nível de comprometimento também participaram ativamente, reforçando o potencial inclusivo da proposta. Apesar das respostas positivas, Grola afirma que os exergames não substituem terapias convencionais, mas adicionam um recurso valioso ao repertório de profissionais que atendem a crianças com TEA. Disponível em https://jornal.usp.br/. Adaptado.",
+   "enunciado": "Acerca do processo investigativo conduzido na pesquisa, depreende-se que",
+   "alternativas": {
+    "a": "a escolha dos participantes da intervenção envolveu estimativas sobre grau de alfabetização, nível de comprometimento com tarefas repetitivas e adaptação aos protocolos já estabelecidos na área.",
+    "b": "o estudo se justificou pelo fato de as crianças já estarem familiarizadas com exercícios praticados virtualmente, uma vez que consoles que rodam exergames são acessíveis a qualquer classe social.",
+    "c": "a prática de exercícios com consoles gerou ganhos em locomoção, controle e motricidade que superaram aqueles obtidos em terapias tradicionais, consideradas menos inclusivas.",
+    "d": "o estudo visou verificar em que medida exergames seriam um recurso produtivo para vencer o desafio de envolver crianças do espectro autista com a prática contínua de atividades físicas.",
+    "e": "a aplicação da intervenção foi bem-sucedida entre os participantes, que obtiveram melhoras equivalentes em locomoção, controle e motricidade."
+   },
+   "resposta": "d",
+   "explicacao": "O texto abre dizendo que crianças com TEA enfrentam desafios que dificultam a prática regular de atividade física e que os exergames surgem como alternativa; o pesquisador então investiga como elas respondem a esse tipo de atividade. Alternativa D. A alternativa A inverte a ordem: alfabetização e comprometimento aparecem como variáveis que afetaram os resultados, não como critérios de seleção; B afirma que os consoles são acessíveis a qualquer classe social, e o texto diz apenas que são mais acessíveis que outros recursos; C compara com terapias tradicionais, e o pesquisador diz que os exergames não as substituem; e E fala em melhoras equivalentes, quando o texto registra limites diferentes entre as crianças."
   }
  ],
  "interpretacao-genero-discurso": [
@@ -62484,6 +63095,25 @@ window.QUESTION_BANKS = {
    "formato": "lacunas",
    "banca": "santacasa",
    "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-regencia-crase",
+   "id": "fuvest-gramatica-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "“As crianças tinham limites diferentes quanto à execução e tempo de engajamento, mas em geral conseguiam se divertir e realizar o que era proposto durante o período que estavam em sala jogando.” Na fala do pesquisador, apresentada entre aspas, percebe-se um uso mais coloquial da língua pelo(a)",
+   "alternativas": {
+    "a": "falta da preposição “em” antes do pronome relativo “que”, referente à forma adverbial “durante o período”.",
+    "b": "uso da conjunção coordenativa “mas” e do modo indicativo no lugar da conjunção concessiva “embora” e do modo subjuntivo.",
+    "c": "uso do infinitivo não flexionado em “divertir” e “realizar” em referência ao sujeito plural “as crianças”.",
+    "d": "ordem direta, elipse do sujeito do verbo “conseguir” e repetição do pronome “que”.",
+    "e": "mistura entre o pretérito imperfeito dos verbos “ter” e “conseguir” e o gerúndio “jogando”."
+   },
+   "resposta": "a",
+   "explicacao": "A norma pede \"durante o período EM que estavam em sala jogando\": o relativo retoma um adjunto adverbial de tempo e exige a preposição que o verbo e o antecedente regem. Suprimi-la é o traço coloquial — o chamado \"que\" universal —, e é o que a alternativa A aponta. A alternativa B chama \"mas\" de coloquialismo, sendo coordenação corrente na escrita culta; C acusa infinitivo não flexionado onde os verbos são de fato flexionados em terceira pessoa do plural; D lista ordem direta e elipse do sujeito, ambas regulares; e E aponta a combinação de imperfeito com gerúndio, que também é padrão."
   }
  ],
  "gramatica-concordancia": [
@@ -67167,6 +67797,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "\"Longe de ser apenas um idioma\" nega o \"apenas\", não o \"ser\": a língua é idioma e é mais do que isso, e é por ser mais que ergueu a muralha. A alternativa D preserva os dois movimentos — \"sendo mais do que somente um idioma\" mantém o excedente e, no gerúndio causal, mantém o vínculo com o que se ergueu. A alternativa A troca a relação por concessão (\"apesar de\"), opondo o que no original se soma; B inverte o sujeito da mudança, fazendo a língua afastar-se de ser idioma; C introduz um antes e um depois (\"quando deixou de ser\") que o original não tem; e E afirma o contrário do texto, que a língua consiste em um mero idioma."
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "fuvest-gramatica-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Exergames ampliam engajamento e melhoram habilidades motoras de crianças com TEA Crianças com Transtorno do Espectro Autista (TEA) costumam enfrentar desafios motores, sensoriais e comportamentais que dificultam a prática regular de atividade física. Nesse cenário, os exergames – jogos eletrônicos que dependem de movimentos corporais – surgem como uma alternativa a essas necessidades individuais. Foi a partir dessa realidade que o fisioterapeuta Natã Rafael Grola, doutorando da Escola de Educação Física e Esporte de Ribeirão Preto (EEFERP) da USP, decidiu investigar como crianças com TEA respondem fisiológica e comportamentalmente a esse tipo de atividade. Segundo ele, “dentre os recursos terapêuticos atualmente oferecidos no mercado, os consoles de exergames são opções mais acessíveis financeiramente”. Como parte das crianças atendidas apresenta longos períodos de exposição às telas, “achei que seria uma boa oportunidade unir atividade física e realidade virtual e avaliar se isso seria interessante para as pessoas com TEA, suas famílias e a comunidade”, afirma o pesquisador. No estudo, nove crianças de 7 a 10 anos diagnosticadas com TEA foram acompanhadas pela equipe, após uma “seleção desafiadora”. A estrutura da intervenção foi planejada com base em protocolos já descritos na literatura e adaptada à rotina das crianças atendidas. Os jogos selecionados exigiam movimentos amplos, como saltos, deslocamentos e ações coordenadas dos membros superiores e inferiores. As crianças participantes demonstraram afinidade com os jogos, conseguiram permanecer interessadas e se divertiram ao longo das sessões. “As crianças tinham limites diferentes quanto à execução e tempo de engajamento, mas em geral conseguiam se divertir e realizar o que era proposto durante o período que estavam em sala jogando.” Após a intervenção, o estudo encontrou melhora significativa nas habilidades de locomoção, no controle de objetos e no quociente de motricidade grossa. O pesquisador relata ainda que variáveis como alfabetização, compreensão das instruções e frequência de comparecimento no protocolo tiveram impacto direto nos resultados. “Os participantes que eram alfabetizados tinham melhor compreensão do que era exigido nos jogos.” Mesmo assim, afirma que crianças com maior nível de comprometimento também participaram ativamente, reforçando o potencial inclusivo da proposta. Apesar das respostas positivas, Grola afirma que os exergames não substituem terapias convencionais, mas adicionam um recurso valioso ao repertório de profissionais que atendem a crianças com TEA. Disponível em https://jornal.usp.br/. Adaptado.",
+   "enunciado": "A impessoalização é uma estratégia linguística típica de artigos científicos e de divulgação científica. Um recurso de impessoalização exemplificado no texto encontra-se no uso de",
+   "alternativas": {
+    "a": "voz passiva – A estrutura da intervenção foi planejada com base em protocolos já descritos na literatura e adaptada à rotina das crianças atendidas.",
+    "b": "primeira pessoa do singular – “achei que seria uma boa oportunidade unir atividade física e realidade virtual e avaliar se isso seria interessante para as pessoas com TEA, suas famílias e a comunidade”.",
+    "c": "concessivas – Mesmo assim, afirma que crianças com maior nível de comprometimento também participaram ativamente, reforçando o potencial inclusivo da proposta.",
+    "d": "discurso direto – “As crianças tinham limites diferentes quanto à execução e tempo de engajamento, mas em geral conseguiam se divertir e realizar o que era proposto durante o período que estavam em sala jogando”.",
+    "e": "estrangeirismos – Apesar das respostas positivas, Grola afirma que os exergames não substituem terapias convencionais, mas adicionam um recurso valioso ao repertório de profissionais que atendem a crianças com TEA."
+   },
+   "resposta": "a",
+   "explicacao": "Impessoalizar é apagar o agente, e a voz passiva faz exatamente isso: \"A estrutura da intervenção foi planejada... e adaptada\" não diz por quem. Alternativa A. As outras quatro exemplificam o oposto ou algo alheio: B é primeira pessoa do singular, a marca mais pessoal possível; D é discurso direto, que devolve a fala a um sujeito identificado e entre aspas; C é uma concessiva, relação lógica que nada tem a ver com a presença do agente; e E são estrangeirismos, escolha de vocabulário, não de pessoa."
   }
  ],
  "literatura-realismo-naturalismo": [
@@ -70106,6 +70756,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Castro Alves acumula imagens para medir o horror — \"Que tétricas figuras\", \"qual um sonho dantesco as sombras voam\", a orquestra irônica, Satanás rindo —, e Narcisa Amália constrói o poema inteiro sobre uma pergunta que se repete e sempre tem a mesma resposta: quem pensa, quem sente, quem escuta, quem reza pelo escravo? O poeta. A função crítica está inscrita no próprio ato de poetar, e é isso que a alternativa D lê nos dois. A alternativa A os separa em movimentos literários distintos, sendo ambos românticos e quase contemporâneos; B faz Narcisa exigir que o mundo se curve à dor do africano; C transforma o mar em símbolo positivo de libertação; e E diviniza os dois poetas."
+  },
+  {
+   "subtema": "literatura-colonial-romantismo",
+   "id": "fuvest-literatura-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Em Opúsculo Humanitário, Nísia Floresta critica as condições sociais e educacionais das mulheres, propondo reflexões sobre a educação feminina, a liberdade e a igualdade de direitos. Os argumentos da autora",
+   "alternativas": {
+    "a": "trazem a lume narrativas de mulheres que buscam a independência, sugerindo que a posição social será conquistada por meio da educação formal, mas restrita ao espaço familiar, sem ambições externas.",
+    "b": "distribuem-se em vários ensaios críticos, nos quais ela defende a importância da educação formal para as mulheres de classe alta, como forma de garantir sua superioridade social e intelectual sobre os homens.",
+    "c": "chamam a atenção dos líderes do governo em favor da educação dos desvalidos, do abolicionismo e dos projetos republicanos.",
+    "d": "convocam a atenção do governo por maiores e melhores condições para a educação da população, por meio da defesa de um projeto pedagógico alinhado com os padrões abolicionistas vigentes no século XIX.",
+    "e": "defendem a educação das mulheres como um meio fundamental para a conquista da igualdade de direitos, liberdade e autonomia, combatendo a subordinação e o silêncio impostos pela sociedade patriarcal."
+   },
+   "resposta": "e",
+   "explicacao": "Nísia Floresta faz da instrução o instrumento da emancipação: educar as mulheres é a condição para que alcancem igualdade de direitos, liberdade e autonomia, contra a subordinação e o silêncio que a sociedade patriarcal lhes impõe. Alternativa E. A alternativa A restringe o ganho ao espaço familiar, \"sem ambições externas\", quando é justamente a saída desse confinamento que ela defende; B limita a proposta às mulheres de classe alta e fala em superioridade sobre os homens, e ela pede igualdade; C e D deslocam o eixo para o abolicionismo e o projeto republicano, temas de outro momento e de outra obra."
   }
  ],
  "literatura-modernismo": [
@@ -71445,6 +72114,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Caminho de pedras é romance de 1930 e o enunciado já nomeia a tensão: disciplina do partido de um lado, subjetividade de Noemi do outro. A alternativa C descreve o conflito como ele se dá — a militância pede o coletivo, e a vida de Noemi devolve o individual, a maternidade, o desejo e a culpa, e é essa distância que expõe a fragilidade do projeto político. A alternativa A diz que o romance abandona a crítica social pelo psicologismo; B faz da subjetividade feminina um obstáculo reacionário, invertendo a simpatia do livro; D adere ao realismo socialista com heroína infalível, quando Noemi hesita o tempo todo; e E apresenta o partido como cura das angústias."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "fuvest-literatura-32",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Uma mulher desenvolve sua consciência política no percurso de sua busca pessoal por liberdade e independência em uma sociedade dominada pela vontade e pela razão masculinas. Analisando o desfecho do romance, verifica-se que, mesmo no interior da militância política e das lutas operárias da década de 1930, há um descompasso entre o discurso que afirma a igualdade entre homens e mulheres e a força resistente dos preconceitos que separam os papéis e lugares sociais de cada sexo. A obra em questão é:",
+   "alternativas": {
+    "a": "Caminho de pedras, de Rachel de Queiroz.",
+    "b": "Memórias de Martha, de Júlia Lopes de Almeida.",
+    "c": "A paixão segundo G.H., de Clarice Lispector.",
+    "d": "Canção para ninar menino grande, de Conceição Evaristo.",
+    "e": "Opúsculo Humanitário, de Nísia Floresta."
+   },
+   "resposta": "a",
+   "explicacao": "A descrição junta três marcas que só uma das obras reúne: protagonista feminina em busca de liberdade, militância operária dos anos 1930 e o descompasso entre o discurso de igualdade do partido e os preconceitos que persistem. É Caminho de pedras, de Rachel de Queiroz, alternativa A. Memórias de Martha (B) é de 1899 e não trata de militância política; A paixão segundo G.H. (C) é uma travessia existencial sem lutas operárias; Canção para ninar menino grande (D) é contemporânea e centrada em relações afetivas e raciais; e Opúsculo Humanitário (E) é ensaio do século XIX, não romance."
   }
  ],
  "literatura-teoria-analise": [
@@ -73331,12 +74019,12 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "dificuldade": "dificil",
    "origem": "fuvest",
-   "texto_apoio": "Texto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava- me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62.",
+   "texto_apoio": "Texto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62.",
    "enunciado": "Os trechos transcritos foram retirados dos livros dos moçambicanos Luís Bernardo Honwana e Paulina Chiziane. Em ambos, observa-se a ocorrência da palavra “machamba”. A respeito do uso desse termo, é correto afirmar:",
    "alternativas": {
     "a": "No texto I, machamba refere-se a um matagal, em sentido denotativo; no texto II, ao papel de esposa de Sarnau, em sentido conotativo.",
     "b": "No texto I, machamba possui sentido literal, referindo-se às terras para cultivo; no texto II, o sentido é figurado, referindo-se ao útero de Sarnau.",
-    "c": "No texto I, machamba possui sentido figurado, referindo- se à colheita; no texto II, o sentido é literal, referindo-se a um problema.",
+    "c": "No texto I, machamba possui sentido figurado, referindo-se à colheita; no texto II, o sentido é literal, referindo-se a um problema.",
     "d": "Em ambos os textos, machamba apresenta sentido literal e refere-se a um terreno agrícola de produção familiar.",
     "e": "Em ambos os textos, machamba possui sentido figurado e refere-se às terras férteis ocupadas pelos portugueses."
    },
@@ -74841,7 +75529,7 @@ window.QUESTION_BANKS = {
    "dificuldade": "facil",
    "origem": "fuvest",
    "texto_apoio": "“Mas quantas vezes a insônia é um dom. De repente acordar no meio da noite e ter essa coisa rara: solidão. Quase nenhum ruído. Só o das ondas do mar batendo na praia. E tomo café com gosto, toda sozinha no mundo. Ninguém me interrompe o nada. É um nada a um tempo vazio e rico. E o telefone mudo, sem aquele toque súbito que sobressalta. Depois vai amanhecendo. As nuvens se clareando sob um sol às vezes pálido como uma lua, às vezes de fogo puro. Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar. O mar é meu, o sol é meu, a terra é minha. E sinto-me feliz por nada, por tudo. Até que, como o sol subindo, a casa vai acordando e há o reencontro com meus filhos sonolentos.” Clarice Lispector. “Insônia infeliz e feliz”. In: A descoberta do mundo. Rio de Janeiro: Rocco, 1999.",
-   "enunciado": "Considerando as características do trecho apresentado, pode- se afirmar que ele pertence a uma crônica, pois",
+   "enunciado": "Considerando as características do trecho apresentado, pode-se afirmar que ele pertence a uma crônica, pois",
    "alternativas": {
     "a": "representa uma história paralela ligada a uma história principal.",
     "b": "há apenas um conflito que se resolve em pouco tempo.",
@@ -74860,7 +75548,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "dificuldade": "media",
    "origem": "fuvest",
-   "texto_apoio": "Texto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava- me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62.",
+   "texto_apoio": "Texto I “Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.” Luis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!. Texto II “– Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura. – Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo. – Casámo-nos há pouco tempo, Nguila, muito pouco tempo. – Não tenho lá muita paciência. Não estou para lavrar sem colher.” Paulina Chiziane. Balada de amor ao vento, p. 61-62.",
    "enunciado": "Nos excertos, os escritores moçambicanos descrevem, cada um em seu contexto, cenas de violência. Sobre elas, é correto afirmar:",
    "alternativas": {
     "a": "Luís Bernardo Honwana descreve uma cena de violência psicológica velada do capataz contra a mulher, sem que ela perceba a agressão sofrida.",
@@ -75031,6 +75719,126 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "As duas obras fazem a mesma coisa por meios diferentes: dão voz ao que foi silenciado pelo tráfico. Hazoumè monta o porão do navio com máscaras e galões de petróleo, e Djaimilia devolve os mortos como assombração de um jardim — em ambas o passado reaparece cobrando responsabilidade, que é o que diz a alternativa B. A alternativa A afirma que o material do lixo diminui a crítica e prejudica a obra, juízo que nada sustenta; C chama o romance de reconciliador, quando as lembranças dos escravos mortos nunca se aquietam; D nega às duas qualquer contribuição ao pós-colonial; e E inventa ficção científica no romance e crítica à globalização na instalação."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-31",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“Comovia‑se ao observar o arranjo das pétalas picotadas — por um anjo? — dos cravos. Via olhos na corola dos malmequeres e carrancas sisudas ou brincalhonas nas nervuras da casca dos limões. Se Celestino tivesse tido tempo e paciência para um último desejo, teria tropeçado nos canteiros, caído sobre as flores e aí pereceria, engrinaldado. Vinda a chuva, a chuva o regaria. Chegado o vento, o vento sopraria sobre o seu cadáver. As mãos e as pernas ganhariam raiz até as suas plantas o cobrirem e dominarem o seu corpo, abraçando‑o como a um pai. Ter‑se‑ia tornado domínio delas, num caixão a céu aberto. Mas não foi assim que aconteceu.” Djaimilia Pereira de Almeida. A visão das plantas.",
+   "enunciado": "Em A visão das plantas, a narrativa de Djaimilia Pereira de Almeida opera uma inversão de perspectiva ao situar Celestino, um antigo traficante de escravizados, em um jardim que “observa” a sua própria decadência física e mental. Considerando o excerto apresentado, depreende-se:",
+   "alternativas": {
+    "a": "O jardim atuou como um agente de dissolução da subjetividade imperial, onde a vitalidade autônoma das plantas evidenciou a decadência física e a obsolescência histórica de Celestino.",
+    "b": "As plantas representavam uma alegoria das vítimas do tráfico, cultivadas por Celestino como um monumento à memória daqueles que pereceram em seus navios.",
+    "c": "O jardim era uma extensão da lógica colonial de posse e domínio, em que o controle sobre as espécies vegetais reafirmava a autoridade inabalável de Celestino.",
+    "d": "No fim de sua vida, o jardim devolveria a Celestino o cuidado que ele lhe dispensara, como reconhecimento por sua dedicação e perdão pela violência praticada.",
+    "e": "Ao ser visto pelas plantas, Celestino tornou-se “parte do jardim”, perdendo o privilégio de ser o único observador e controlador do mundo, uma das características centrais da mentalidade colonial."
+   },
+   "resposta": "e",
+   "explicacao": "O excerto inverte quem olha: Celestino \"via olhos na corola dos malmequeres\", e o jardim que ele plantou passa a ser o que o observa e o cobre. A alternativa E nomeia essa inversão — ao ser visto pelas plantas, o antigo traficante perde o privilégio de ser o único observador do mundo, que é a posição central da mentalidade colonial. A alternativa A fala em vitalidade autônoma das plantas evidenciando a decadência, mas a passagem é hipotética (\"teria tropeçado\", \"Mas não foi assim que aconteceu\"); B lê as plantas como monumento erguido por ele às vítimas; C mantém o jardim como domínio colonial intacto; e D transforma a cena em perdão e retribuição."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-34",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Em Canção para ninar menino grande, de Conceição Evaristo, as diversas mulheres que atravessam a vida de Fio Jasmim são marcadas pela pluralidade de experiências.",
+   "enunciado": "Dadas as diferenças sociais e de classe entre personagens, como Juventina e Pérola Maria, assinale a alternativa que descreve a articulação dessas distinções na narrativa.",
+   "alternativas": {
+    "a": "A autora opta por uma representação idílica da solidariedade entre mulheres negras, na qual as diferenças de renda e educação são anuladas por um sentimento místico de união que transcende as barreiras do capitalismo.",
+    "b": "O foco da obra é demonstrar que, para a mulher negra, a ascensão social é um mito meritocrático, pois todas as personagens, independentemente de sua profissão, terminam a narrativa na mesma condição de precariedade absoluta.",
+    "c": "A obra demonstra, sobretudo por meio das disparidades sociais, que a vivência do abandono afetivo é moldada pelas condições materiais, em que a luta pela subsistência de certas personagens femininas contrasta com a busca por autonomia intelectual e estabilidade econômica de outras.",
+    "d": "As personagens que alcançam maior estabilidade financeira são retratadas como tendo “embranquecido” seus costumes, perdendo a conexão com a cultura popular, em oposição às personagens que permanecem na pobreza.",
+    "e": "As diferenças de classe são apresentadas como obstáculos intransponíveis que impedem qualquer traço de ancestralidade comum, caracterizando a experiência de cada mulher como um isolamento absoluto em sua própria casta."
+   },
+   "resposta": "c",
+   "explicacao": "Conceição Evaristo não iguala as mulheres que cercam Fio Jasmim: a condição material molda como cada uma vive o abandono. De um lado a luta pela subsistência, de outro a busca por autonomia intelectual e estabilidade — é a articulação que a alternativa C descreve. A alternativa A propõe solidariedade idílica que anula as diferenças; B afirma que todas terminam na mesma precariedade absoluta, o que a própria pergunta contradiz ao falar em disparidades; D reduz a ascensão a embranquecimento de costumes; e E torna as diferenças de classe intransponíveis, apagando qualquer ancestralidade comum."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-35",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“Também eu, que aos poucos estava me reduzindo ao que em mim era irredutível, também eu tinha milhares de cílios pestanejando, e com meus cílios eu avanço, eu protozoária, proteína pura. Segura minha mão, cheguei ao irredutível com a fatalidade de um dobre — sinto que tudo isso é antigo e amplo, sinto no hieróglifo da barata lenta a grafia do Extremo Oriente. E neste deserto de grandes seduções, as criaturas: eu e a barata viva. A vida, meu amor, é uma grande sedução onde tudo o que existe se seduz. Aquele quarto que estava deserto e por isso primariamente vivo. Eu chegara ao nada, e o nada era vivo e úmido.” Clarice Lispector. A paixão segundo G.H.",
+   "enunciado": "Considerando a estética de Clarice Lispector e a trajetória da personagem G.H., o excerto",
+   "alternativas": {
+    "a": "descreve um surto psicótico provocado pelo isolamento social, que teria levado a personagem a perder a capacidade de distinguir a realidade da alucinação, culminando na ingestão de substâncias não nutritivas.",
+    "b": "representa uma jornada de despojamento do humano e das máscaras sociais (o humanitário) para atingir o neutro vivo, uma essência pré-humana e divina que ignora as categorias morais de beleza ou feiura.",
+    "c": "compõe uma metáfora estritamente política sobre a luta de classes, na qual G.H. (a elite) tenta consumir a barata (o proletariado) para manter sua hegemonia social e existencial.",
+    "d": "resume o nojo existencial sartriano, a partir do qual a personagem conclui que a existência é um erro biológico e que a única saída para a náusea é o retorno às formas rígidas da organização burguesa.",
+    "e": "simboliza uma religiosidade tradicional, em que a comunhão com a massa da barata repete o ritual cristão de forma literal, reafirmando os dogmas do Catolicismo por meio do sacrifício do inseto."
+   },
+   "resposta": "b",
+   "explicacao": "O trecho é o ponto de chegada da travessia de G.H.: reduzir-se \"ao que em mim era irredutível\", tornar-se \"protozoária, proteína pura\", alcançar um nada que \"era vivo e úmido\". Despojar-se do humano e das máscaras sociais para tocar o neutro vivo, anterior às categorias morais — alternativa B. A alternativa A diagnostica surto psicótico; C converte o livro em alegoria da luta de classes; D o filia à náusea sartriana com retorno à ordem burguesa; e E o lê como reafirmação de dogma católico. Todas devolvem à cena uma moldura — clínica, política, filosófica ou religiosa — que o texto justamente desfaz."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A balada é um gênero narrativo de origem medieval, tradicionalmente ligado à dança, à música e ao canto. Sua composição tem um ritmo mais lento, quer de índole romântica, quer como registro de um quotidiano alienador ou hostil. A oralidade tem grande importância na composição, execução e transmissão da balada, o que leva a repetições de fórmulas no interior de uma mesma estrofe ou entre estrofes. Esse gênero tem também a característica geral de não ter um autor identificável, mas coletivo e anônimo, o que o faz representativo de uma comunidade ou um povo. Miguel Alarcão. E-Dicionário de Termos Literários, “Balada”. Disponível em https://edtl.fcsh.unl.pt/encyclopedia/balada. Adaptado.",
+   "enunciado": "A partir do que se afirma no texto, a escolha do título Balada de amor ao vento se justifica porque o romance",
+   "alternativas": {
+    "a": "inaugura na literatura moçambicana do século XX uma vertente que busca resgatar e repropor a tradição lírica de língua portuguesa em sua forma poética e temática amorosa após a independência de Moçambique.",
+    "b": "ressignifica elementos da tradição portuguesa e da sociedade moçambicana, por meio de uma narradora que abandona a posição resignada da expectativa e da submissão e reinterpreta os papéis sociais da mulher ligados ao amor e à família.",
+    "c": "adota o título de “balada” com intenção irônica, já que se trata de um livro escrito sob o gênero “romance”. Além disso, é narrado em primeira pessoa por Sarnau, personagem que não apresenta semelhanças com a voz coletiva da balada tradicional.",
+    "d": "procura atualizar os traços típicos da balada, como a voz feminina que se manifesta predominantemente na espera e na dor, mas frustra esse objetivo, uma vez que Sarnau se submete à dominação masculina no desfecho do romance.",
+    "e": "busca marcar a derrocada da tradição lírica portuguesa em Moçambique, assinalando a perda da inocência, o malogro das ilusões amorosas e a substituição da ordem da honra pela lógica do capital."
+   },
+   "resposta": "b",
+   "explicacao": "O texto define a balada por três traços: origem medieval ligada ao canto, repetição de fórmulas e autoria coletiva e anônima, representativa de um povo. Chiziane toma esses traços e os desloca: dá voz a Sarnau, que narra em primeira pessoa e recusa a posição resignada da espera, reinterpretando os papéis da mulher no amor e na família moçambicana. Alternativa B. A alternativa A fala em resgatar a tradição lírica portuguesa após a independência, sem a torção; C nega qualquer parentesco com a voz coletiva; D diz que o romance frustra o objetivo porque Sarnau se submete no desfecho; e E o reduz à derrocada da tradição portuguesa pela lógica do capital."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“A vida não me corre mal. Já lá vão os tempos em que vivi de miséria e morte, mas hoje existe em mim bem demarcada a realidade e o sonho. Mas para quê, recordar isso agora? Passaram já dezesseis anos que o Mwando me abandonou e talvez já tenha morrido. Tudo fiz para que ele regressasse. Os melhores curandeiros fizeram tudo ao seu alcance tentando produzir o milagre do regresso e nada. Acredito que foi tudo obra dos maus espíritos, que é o sangue da Phati que clamava por vingança. Todos os curandeiros foram unânimes em afirmar que os meus espíritos e os do Mwando estão em pé de guerra lá no fundo da terra e por essa razão recusaram sempre a nossa união. O Mwando era um homem majestoso, mas tinha aquela cortina de mistério que nunca consegui desvendar. Não quero mais saber dele, mas guardo doces recordações do tempo dos sonhos.” Paulina Chiziane. Balada de amor ao vento.",
+   "enunciado": "No excerto, a reflexão de Sarnau articula experiência e memória, contribuindo para o sentido do texto ao",
+   "alternativas": {
+    "a": "estabelecer uma cisão entre o vivido e o lembrado, por meio do distanciamento do sofrimento amoroso evocado como sonho que ficou no passado.",
+    "b": "reconhecer nas crenças espirituais um valor explicativo que encerra em definitivo o conflito amoroso, convertendo-o em justificativa simbólica.",
+    "c": "afirmar uma hierarquia temporal em que passado e presente se opõem pela lógica da passagem da esperança à aridez emocional.",
+    "d": "tensionar a afirmação de estabilidade no presente com a permanência de marcas subjetivas do passado, evidenciadas pela oscilação entre negação e evocação da lembrança.",
+    "e": "deslocar o abandono amoroso para o plano simbólico, eliminando seus efeitos no tempo presente e na constituição da identidade da narradora."
+   },
+   "resposta": "d",
+   "explicacao": "Sarnau afirma estabilidade e a desmente na mesma respiração: \"A vida não me corre mal\", \"Já lá vão os tempos\", \"Mas para quê, recordar isso agora?\" — e recorda mesmo assim, dezesseis anos depois, para terminar em \"Não quero mais saber dele, mas guardo doces recordações\". É a oscilação entre negar e evocar que a alternativa D identifica. A alternativa A afirma cisão e distanciamento, quando o passado insiste; B diz que as crenças espirituais encerram o conflito em definitivo, e ele continua aberto; C opõe passado e presente como esperança e aridez; e E elimina os efeitos do abandono sobre o presente."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-38",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Este poeta está Do outro lado do mar Mas reconheço a sua voz há muitos anos E digo ao silêncio os seus versos devagar Relembrando O antigo jovem tempo tempo quando Pelos sombrios corredores da casa antiga Nas solenes penumbras do silêncio Eu recitava “As três mulheres do sabonete Araxá” E minha avó se espantava Manuel Bandeira era o maior espanto da minha avó Quando em manhãs intactas e perdidas No quarto já então pleno de futura Saudade Eu lia A canção do “Trem de ferro” E o “Poema do beco” Tempo antigo lembrança demorada Quando deixei uma tesoura esquecida nos ramos da cerejeira Quando Me sentava nos bancos pintados de fresco E no Junho inquieto e transparente As três mulheres do sabonete Araxá Me acompanhavam Tão visíveis (...) Estes poemas caminharam comigo e com a brisa (...) E foram parte do tempo respirado Sophia de Mello Breyner Andresen. Geografia.",
+   "enunciado": "No poema “Manuel Bandeira”, de Sophia de Mello Breyner Andresen, a voz lírica revisita memórias da juventude associadas à leitura da obra do poeta modernista brasileiro. A partir da construção temporal, da dimensão metapoética e do diálogo intertextual presentes no poema, é correto afirmar:",
+   "alternativas": {
+    "a": "A evocação da infância e da juventude funciona como recurso nostálgico, sem interferir na constituição estética da voz poética, que privilegia a descrição objetiva das lembranças.",
+    "b": "O poema contrapõe a poesia portuguesa à brasileira, sugerindo que a obra de Manuel Bandeira se insere em uma realidade cultural distinta da experiência do eu lírico e, portanto, intangível.",
+    "c": "A referência reiterada a poemas de Manuel Bandeira transforma a memória individual em experiência literária compartilhada, reverenciando o poeta e revelando como sua poesia engendra a constituição subjetiva e afetiva da voz lírica ao longo do tempo.",
+    "d": "A presença de imagens fragmentadas e cotidianas, como “a tesoura esquecida” e “os bancos pintados de fresco”, denota a intenção de negar a idealização do passado, aproximando o poema da estética realista.",
+    "e": "O uso predominante de verbos no pretérito imperfeito indica a impraticabilidade da recuperação memorialística, razão pela qual o poema sinaliza ser a poesia incapaz de preservar experiências humanas."
+   },
+   "resposta": "c",
+   "explicacao": "Sophia não descreve a leitura de Bandeira: mostra os versos dele já incorporados à sua vida — as três mulheres do sabonete Araxá que a \"acompanhavam / Tão visíveis\", os poemas que \"caminharam comigo e com a brisa\" e \"foram parte do tempo respirado\". A poesia lida vira matéria da própria subjetividade, e a memória individual se faz experiência literária partilhada: alternativa C. A alternativa A nega interferência na constituição da voz poética; B opõe as duas literaturas e chama Bandeira de intangível, quando o poema o reconhece \"há muitos anos\"; D lê negação da idealização do passado; e E conclui que a poesia é incapaz de preservar experiências, o contrário do que o poema realiza."
   }
  ],
  "ingles-inference": [
@@ -78336,6 +79144,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Chamar as redes fúngicas de \"sistema circulatório do solo\" é analogia de função, não de anatomia: como um sistema circulatório, elas transportam e distribuem — carbono das raízes para os minerais, nutrientes para as lavouras, base das cadeias alimentares. É o que diz a alternativa B. A alternativa A toma a metáfora ao pé da letra e fala em reproduzir o sistema vascular humano; C conclui que o solo opera desvinculado da atividade biológica, o oposto do texto; D descreve transferência entre plantas por estruturas visíveis acima do solo; e E propõe equivalência estrutural entre raízes e animais subterrâneos."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "fuvest-ingles-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Most of us have no trouble accepting that “violence is bad”. But what makes it “bad”? Moral philosophers have grappled with this for millennia. One of the most well-known moral systems deals with rules. The basis for a rule-based morality derives from “universality”. Some examples: “Treat others as we want to be treated”, “don’t harm others unnecessarily”. It’s hard to imagine a good reason to oppose these. When a rule is worth following, it becomes “good”. This is why many agree “violence is bad” is a moral rule: it can be applied universally. Where rule-based morality runs into problems is when two moral rules conflict. In this case, a rule we support is: “stopping Nazism is good”. Another is: “violence is bad”. This returns us to a dilemma instead of solving it. Many might say this rule only requires amendments: “Violence is bad, except when it can stop Nazism.” If “stopping Nazism” meant extreme violence, then extreme violence is justified. We could keep making amendments but doing so could continue forever. Another way philosophers deliberate morality is through consequences. If an action brings more happiness into the world, then that action is good. If punching a Nazi means preventing Nazism, then punching Nazis is justified. The ends justify the means. Yet this gives a blank cheque to any action if we can justify more good. If killing one innocent means saving hundreds, then murder is justified. But if a moral system justifies awful acts consistently, it can’t be a basis for moral deliberation. The Guardian. January 2017. Adaptado.",
+   "enunciado": "Segundo o texto, o dilema filosófico apresentado evidencia que",
+   "alternativas": {
+    "a": "princípios universais tornam-se dispensáveis diante de ameaças políticas extremas.",
+    "b": "conflitos entre princípios morais resultam da dificuldade de sua aplicação a situações concretas.",
+    "c": "conflitos morais decorrem de interpretações equivocadas das normas.",
+    "d": "a moral fundada em regras pode exigir exceções que corroem sua pretensão universal.",
+    "e": "sistemas normativos impedem decisões com consequências trágicas."
+   },
+   "resposta": "d",
+   "explicacao": "O texto mostra a moral de regras encalhando: \"violence is bad\" e \"stopping Nazism is good\" colidem, e a saída é emendar — \"Violence is bad, except when it can stop Nazism\". Só que, diz o autor, \"we could keep making amendments but doing so could continue forever\", e cada exceção corrói a universalidade de onde a regra tirava sua força. Alternativa D. A alternativa A dispensa os princípios universais, e o texto os problematiza sem descartá-los; B atribui o conflito à dificuldade de aplicação, quando ele é entre as próprias regras; C fala em interpretações equivocadas; e E diz que os sistemas normativos impedem decisões trágicas, o oposto do impasse descrito."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "fuvest-ingles-32",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "You may have never heard of “The Comedian” or Maurizio Cattelan, the artist of the work. But unless you avoid the Internet, you have probably seen at least one of its hundreds of parodies. “The Comedian” is the banana duct-taped to the wall at Miami’s Art Basel that was sold for $120,000 and caused a massive reaction amongst art lovers. It is one example in a line of Cattelan’s art pranks. His past “joke works” include statues of giant middle fingers and his most famous work is a golden toilet titled “America”. However offensive his previous works may be, none have rocked the mainstream more than “The Comedian”. Going off the implication that “The Comedian” is not simply the banana one sees but rather an abstract concept, what is the idea? I believe the more interesting explanation is the recognition of the interactive nature of the piece. As opposed to simply observing the art, Art Basel says on Instagram that the visitors that wait in line to take pictures with the work are “participating”. This leads me to conclude that the concept behind the piece has nothing to do with bananas and duct tape but instead the outrage. The reactions, both positive and negative, the parodies and memes referencing the work, and all serious discussions of the piece are the true spectacle of Cattelan’s work. All of us are the butt of the joke, for our swiftness to react has caused us all to waste time caring about a fruit signifying nothing. The Spectator. February 2026. Adaptado.",
+   "enunciado": "De acordo com o texto, a comparação entre “The Comedian” e produções anteriores de Cattelan indica que",
+   "alternativas": {
+    "a": "a nova obra rompe com o ímpeto provocativo típico do artista.",
+    "b": "o impacto atual resulta mais da circulação digital do que da provocação em si.",
+    "c": "os trabalhos prévios apresentam teor conceitual mais marcado que a instalação recente.",
+    "d": "o artista abandona a sátira política em favor do humor e do absurdo.",
+    "e": "o sucesso da proposta recente decorre da simplicidade dos materiais usados na exposição."
+   },
+   "resposta": "b",
+   "explicacao": "O texto compara e conclui: \"However offensive his previous works may be, none have rocked the mainstream more than The Comedian\". O que mudou não foi o grau de provocação — dedos gigantes e um vaso sanitário de ouro já eram provocações — e sim o alcance, medido em centenas de paródias que quem não evita a internet já viu. Alternativa B. A alternativa A diz que a obra rompe com o ímpeto provocativo, quando ela o mantém; C atribui mais teor conceitual às anteriores; D fala em abandono da sátira política; e E credita o sucesso à simplicidade dos materiais, que o autor considera irrelevante — \"a fruit signifying nothing\"."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "fuvest-ingles-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "You may have never heard of “The Comedian” or Maurizio Cattelan, the artist of the work. But unless you avoid the Internet, you have probably seen at least one of its hundreds of parodies. “The Comedian” is the banana duct-taped to the wall at Miami’s Art Basel that was sold for $120,000 and caused a massive reaction amongst art lovers. It is one example in a line of Cattelan’s art pranks. His past “joke works” include statues of giant middle fingers and his most famous work is a golden toilet titled “America”. However offensive his previous works may be, none have rocked the mainstream more than “The Comedian”. Going off the implication that “The Comedian” is not simply the banana one sees but rather an abstract concept, what is the idea? I believe the more interesting explanation is the recognition of the interactive nature of the piece. As opposed to simply observing the art, Art Basel says on Instagram that the visitors that wait in line to take pictures with the work are “participating”. This leads me to conclude that the concept behind the piece has nothing to do with bananas and duct tape but instead the outrage. The reactions, both positive and negative, the parodies and memes referencing the work, and all serious discussions of the piece are the true spectacle of Cattelan’s work. All of us are the butt of the joke, for our swiftness to react has caused us all to waste time caring about a fruit signifying nothing. The Spectator. February 2026. Adaptado.",
+   "enunciado": "No texto, ao afirmar que “All of us are the butt of the joke” (4º parágrafo), o autor argumenta que a obra",
+   "alternativas": {
+    "a": "recebe legitimidade institucional ao ser apresentada pelo museu como experiência artística participativa.",
+    "b": "se torna objeto de debate estético na crítica especializada sobre os limites da arte contemporânea.",
+    "c": "depende da reação coletiva e imediata do público para seu funcionamento.",
+    "d": "é incorporada pelo mercado de arte como exemplo de provocação contemporânea.",
+    "e": "é interpretada de forma equivocada pelos memes que circulam nas redes sociais."
+   },
+   "resposta": "c",
+   "explicacao": "\"To be the butt of the joke\" é ser o alvo da piada, aquele de quem se ri. Ao dizer que somos todos o alvo, o autor transfere a obra do objeto para nós: o espetáculo verdadeiro são as reações, as paródias e os debates, e \"our swiftness to react has caused us all to waste time caring about a fruit signifying nothing\". Sem a reação coletiva e imediata, não há obra — alternativa C. A alternativa A trata da legitimação institucional pelo museu; B, do debate da crítica especializada; D, da absorção pelo mercado de arte; e E afirma que os memes interpretam mal a obra, quando eles são a obra."
   }
  ],
  "ingles-grammar-structure": [
@@ -80809,6 +81677,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "As três cenas convergem no mesmo alvo, e não é o espanhol: é o modo como a autora fala inglês. A professora a pune quando ela tenta ensinar a pronúncia do próprio nome; a mãe se envergonha porque a filha fala inglês “como mexicana”; e a universidade obriga os estudantes chicanos a aulas cujo propósito declarado é eliminar o sotaque. O que se rejeita é a marca do espanhol dentro do inglês. A alternativa (b) erra ao falar em resignação, já que Anzaldúa denuncia em vez de aceitar, e a (c) inverte o problema: não falta ensino de espanhol, sobra repressão a ele."
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "fuvest-ingles-28",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Work has begun on a controversial project to create the building blocks of human life from scratch. The research has been taboo until now because of concerns it could lead to designer babies or unforeseen changes for future generations. But now the World's largest medical charity, the Wellcome Trust, has financed the project and says it has the potential to do more good than harm by accelerating treatments for many diseases. A doctor who is part of the project says the research was the next giant leap in biology. “We are looking at therapies that will improve people's lives as they age, that will lead to healthier aging with less disease. We are looking to use this approach to generate disease-resistant cells we can use to repopulate damaged organs, even the immune system”, he said. But critics fear the research opens the way for unscrupulous researchers seeking to create enhanced or modified humans. And although the project is hunting for medical benefits, there is nothing to stop scientists misusing the technology. They could create biological weapons, enhanced humans or even creatures that have human DNA. Given the potential misuse of the technology, the question for Wellcome is why they chose to fund it. The decision was not made lightly, says Dr Tom Collins. “This technology is going to be developed one day, so by doing it now, we are at least trying to do it in as responsible a way as possible and to confront the ethical and moral questions in as upfront way as possible”. BBC News. June 2025. Adaptado.",
+   "enunciado": "De acordo com os argumentos expostos no texto, a controvérsia em torno do projeto revela uma tensão central entre",
+   "alternativas": {
+    "a": "progresso biomédico e garantia de liberdade de mercado pelas políticas governamentais.",
+    "b": "autoridade científica e tradições religiosas e culturais específicas.",
+    "c": "pesquisa básica e interesses da indústria farmacêutica na exploração comercial de seus resultados.",
+    "d": "envelhecimento populacional e escassez de financiamento público.",
+    "e": "potencial terapêutico e possibilidade de aplicações eticamente questionáveis."
+   },
+   "resposta": "e",
+   "explicacao": "O texto arma a controvérsia em dois lados que se repetem do início ao fim: de um, a promessa terapêutica — \"healthier aging with less disease\", células resistentes a doenças para repovoar órgãos danificados; de outro, o receio de \"designer babies\", armas biológicas, humanos modificados. Potencial terapêutico contra aplicações eticamente questionáveis: alternativa E. A alternativa A introduz liberdade de mercado, que o texto não discute; B fala em tradições religiosas, ausentes; C opõe pesquisa básica a interesses farmacêuticos, e o financiador é uma instituição de caridade; e D trata de escassez de financiamento, quando o projeto acaba de ser financiado."
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "fuvest-ingles-34",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Contrary to our intuition, nostalgia came from medicine, not from poetry or politics. Among the first victims of the newly diagnosed disease were various displaced people of the seventeenth century, domestic help and servants working in France and Germany and Swiss soldiers fighting abroad. Nostalgia was said to produce “erroneous representations” that caused the afflicted to lose touch with the present. Longing for their native land became their single-minded obsession. The patients acquired “a haggard countenance,” and “indifference towards everything,” confusing real and imaginary events. Nostalgia as a historical emotion came of age at the time of Romanticism and is coeval with the birth of mass culture. It began with the early-nineteenth-century memory boom that turned the salon culture of educated urban dwellers into a ritual commemoration of lost youth, lost springs, lost chances. With the perfection of album art, the practice of writing poems, drawing pictures and leaving dried flowers in a lady's album, every flirtation was on the verge of becoming a memento mori. Artificial nature begins to play an important part in the European imagination since the epoch of baroque - the word itself signifies a rare shell. In the middle of the nineteenth century a fondness for greenhouses and aquariums became a distinctive feature of the bourgeois home; it was a piece of nature transplanted into the urban home, framed and domesticated. What was cherished was the fossil, the ruin, the miniature, the souvenir. The melancholic sense of loss turned into a style, a late nineteenth-century fashion. Svetlana Boym. The Future of nostalgia. 2001. Adaptado.",
+   "enunciado": "A partir do texto, é correto inferir que a redefinição da nostalgia ao longo do tempo implicou",
+   "alternativas": {
+    "a": "a passagem de um diagnóstico psíquico para uma sensibilidade integrada a práticas culturais urbanas.",
+    "b": "a identificação de um quadro clínico restrito a pessoas afastadas de suas regiões natais.",
+    "c": "a substituição de um ideal patriótico por um projeto político revolucionário de alcance continental.",
+    "d": "a negação das relações entre memória individual e transformações sociais modernas.",
+    "e": "a consolidação de um método científico voltado ao tratamento de distúrbios perceptivos coletivos."
+   },
+   "resposta": "a",
+   "explicacao": "O texto percorre o trajeto: a nostalgia nasce como doença diagnosticada em servos deslocados e soldados suíços no século XVII, com sintomas clínicos — \"erroneous representations\", \"a haggard countenance\" —, e chega ao Romantismo como emoção histórica, ligada à cultura de salão, aos álbuns e à moda melancólica do fim do século XIX. De diagnóstico a sensibilidade inscrita em práticas culturais urbanas: alternativa A. A alternativa B congela a nostalgia no quadro clínico inicial; C fala em projeto político revolucionário; D nega o vínculo entre memória e transformações modernas, que é o eixo do texto; e E anuncia um método científico de tratamento."
   }
  ],
  "ingles-detail": [
@@ -83674,6 +84582,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A frase é literal no texto: os fungos \"draw carbon from plants and get it to stick to minerals underground, where it’s hard to release back into the atmosphere\". Retirar carbono e prendê-lo a minerais, de onde é difícil devolvê-lo ao ar, é imobilização — alternativa D. A alternativa A dá prioridade à composição mineral original, e o texto atribui a estabilidade à ação dos fungos; B faz o carbono circular livremente antes de voltar ao ar, contra o \"hard to release\"; C transforma os fungos em emissores de carbono; e E concentra o armazenamento em tecidos aéreos, quando o texto diz que os solos guardam cerca de 75% do carbono terrestre."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-29",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Work has begun on a controversial project to create the building blocks of human life from scratch. The research has been taboo until now because of concerns it could lead to designer babies or unforeseen changes for future generations. But now the World's largest medical charity, the Wellcome Trust, has financed the project and says it has the potential to do more good than harm by accelerating treatments for many diseases. A doctor who is part of the project says the research was the next giant leap in biology. “We are looking at therapies that will improve people's lives as they age, that will lead to healthier aging with less disease. We are looking to use this approach to generate disease-resistant cells we can use to repopulate damaged organs, even the immune system”, he said. But critics fear the research opens the way for unscrupulous researchers seeking to create enhanced or modified humans. And although the project is hunting for medical benefits, there is nothing to stop scientists misusing the technology. They could create biological weapons, enhanced humans or even creatures that have human DNA. Given the potential misuse of the technology, the question for Wellcome is why they chose to fund it. The decision was not made lightly, says Dr Tom Collins. “This technology is going to be developed one day, so by doing it now, we are at least trying to do it in as responsible a way as possible and to confront the ethical and moral questions in as upfront way as possible”. BBC News. June 2025. Adaptado.",
+   "enunciado": "Segundo o texto, a decisão do Wellcome Trust de financiar o projeto fundamenta-se na ideia de que",
+   "alternativas": {
+    "a": "a discussão sobre as relações entre ciência e sociedade deve ser resolvida juridicamente.",
+    "b": "o desenvolvimento da tecnologia requer que sua condução ocorra sob critérios responsáveis desde o início.",
+    "c": "as aplicações militares da tecnologia são consideradas inevitáveis e socialmente úteis.",
+    "d": "as críticas ao projeto decorrem de desconhecimento técnico por parte da população.",
+    "e": "a criação de humanos modificados constitui objetivo legítimo das ciências biológicas."
+   },
+   "resposta": "b",
+   "explicacao": "A justificativa está na fala de Tom Collins, citada no fim: \"This technology is going to be developed one day, so by doing it now, we are at least trying to do it in as responsible a way as possible\". Se vai ser desenvolvida de todo modo, melhor conduzi-la desde já sob critérios responsáveis — alternativa B. A alternativa A propõe solução jurídica, que ele não menciona; C afirma que as aplicações militares são inevitáveis e úteis, e o texto as apresenta como risco; D atribui as críticas a desconhecimento técnico, quando o próprio Wellcome reconhece as questões éticas; e E toma a criação de humanos modificados como objetivo legítimo, que é o temor dos críticos."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-31",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Most of us have no trouble accepting that “violence is bad”. But what makes it “bad”? Moral philosophers have grappled with this for millennia. One of the most well-known moral systems deals with rules. The basis for a rule-based morality derives from “universality”. Some examples: “Treat others as we want to be treated”, “don’t harm others unnecessarily”. It’s hard to imagine a good reason to oppose these. When a rule is worth following, it becomes “good”. This is why many agree “violence is bad” is a moral rule: it can be applied universally. Where rule-based morality runs into problems is when two moral rules conflict. In this case, a rule we support is: “stopping Nazism is good”. Another is: “violence is bad”. This returns us to a dilemma instead of solving it. Many might say this rule only requires amendments: “Violence is bad, except when it can stop Nazism.” If “stopping Nazism” meant extreme violence, then extreme violence is justified. We could keep making amendments but doing so could continue forever. Another way philosophers deliberate morality is through consequences. If an action brings more happiness into the world, then that action is good. If punching a Nazi means preventing Nazism, then punching Nazis is justified. The ends justify the means. Yet this gives a blank cheque to any action if we can justify more good. If killing one innocent means saving hundreds, then murder is justified. But if a moral system justifies awful acts consistently, it can’t be a basis for moral deliberation. The Guardian. January 2017. Adaptado.",
+   "enunciado": "De acordo com o argumento apresentado no texto, a decisão sobre questões morais com base em suas consequências é criticada por",
+   "alternativas": {
+    "a": "exigir que toda ação seja julgada por regras universais e imutáveis.",
+    "b": "impedir que se considerem os efeitos concretos das ações sobre o bem-estar das pessoas.",
+    "c": "legitimar atos moralmente condenáveis quando estes são apresentados como meios para produzir um bem maior.",
+    "d": "privilegiar normas cuja aplicação admite pouca flexibilidade diante de circunstâncias excepcionais.",
+    "e": "pressupor uma convergência entre princípios morais e resultados práticos na orientação das decisões."
+   },
+   "resposta": "c",
+   "explicacao": "A crítica é explícita no último parágrafo: julgar pelas consequências \"gives a blank cheque to any action if we can justify more good\", e o exemplo fecha — \"If killing one innocent means saving hundreds, then murder is justified\". Legitimar o condenável quando apresentado como meio para um bem maior: alternativa C. A alternativa A descreve a moral de regras, não a das consequências; B afirma que essa abordagem impede considerar os efeitos concretos, quando é ela que os toma como critério; D fala em pouca flexibilidade, característica do outro sistema; e E supõe convergência entre princípios e resultados, que o texto não discute."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-35",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Contrary to our intuition, nostalgia came from medicine, not from poetry or politics. Among the first victims of the newly diagnosed disease were various displaced people of the seventeenth century, domestic help and servants working in France and Germany and Swiss soldiers fighting abroad. Nostalgia was said to produce “erroneous representations” that caused the afflicted to lose touch with the present. Longing for their native land became their single-minded obsession. The patients acquired “a haggard countenance,” and “indifference towards everything,” confusing real and imaginary events. Nostalgia as a historical emotion came of age at the time of Romanticism and is coeval with the birth of mass culture. It began with the early-nineteenth-century memory boom that turned the salon culture of educated urban dwellers into a ritual commemoration of lost youth, lost springs, lost chances. With the perfection of album art, the practice of writing poems, drawing pictures and leaving dried flowers in a lady's album, every flirtation was on the verge of becoming a memento mori. Artificial nature begins to play an important part in the European imagination since the epoch of baroque - the word itself signifies a rare shell. In the middle of the nineteenth century a fondness for greenhouses and aquariums became a distinctive feature of the bourgeois home; it was a piece of nature transplanted into the urban home, framed and domesticated. What was cherished was the fossil, the ruin, the miniature, the souvenir. The melancholic sense of loss turned into a style, a late nineteenth-century fashion. Svetlana Boym. The Future of nostalgia. 2001. Adaptado.",
+   "enunciado": "Considerando o texto, a valorização, pela burguesia oitocentista, de estufas, aquários, ruínas e miniaturas sugere",
+   "alternativas": {
+    "a": "um entusiasmo irrestrito pelo avanço industrial e pela expansão das metrópoles oitocentistas.",
+    "b": "um retorno efetivo ao modo de vida rural como reação às transformações econômicas.",
+    "c": "uma crítica às elites letradas responsáveis pela difusão de álbuns e recordações amorosas.",
+    "d": "um abandono das artes visuais em favor de práticas científicas experimentais.",
+    "e": "uma tentativa de recriar fragmentos idealizados do mundo natural e do passado."
+   },
+   "resposta": "e",
+   "explicacao": "O parágrafo é direto: estufas e aquários eram \"a piece of nature transplanted into the urban home, framed and domesticated\", e o que se prezava era \"the fossil, the ruin, the miniature, the souvenir\". Natureza e passado recriados em fragmento, emoldurados e idealizados — alternativa E. A alternativa A fala em entusiasmo irrestrito pelo avanço industrial, e o gosto descrito é reação a ele; B propõe retorno efetivo à vida rural, quando se trata de natureza artificial dentro da casa urbana; C inventa uma crítica às elites letradas, que são as próprias praticantes do álbum; e D anuncia abandono das artes visuais."
   }
  ],
  "ingles-vocabulary": [
@@ -87119,6 +88087,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Nóbrega pede ao rei duas coisas concretas: que o governador mande fazer casas para os meninos e que dê escravos da Guiné ao colégio para produzirem mantimentos e algodão, porque as casas atuais são de pouca duração. É pedido de auxílio material do Estado ao sustento das crianças do reino — alternativa A. A alternativa B declara inexistente a iniciativa educacional, quando a carta descreve um colégio com cerca de vinte meninos; C explica o não casamento pela vontade de independência, e o texto o atribui aos homens que viviam \"em seus pecados livremente\"; D torna imprescindível o envio de órfãs, e Nóbrega diz que \"nesta não são necessárias por agora\"; e E o faz denunciar a escravidão, que ele solicita."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "fuvest-historia-42",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Exportações brasileiras no período 1821-1850 (participação percentual)\n\nProduto | 1821-30 | 1831-40 | 1841-50\nAçúcar | 27,8% | 24,4% | 26,3%\nAlgodão | 21% | 10,6% | 7,4%\nCafé | 19,2% | 43,8% | 42,6%\nCouros e peles | 13,8% | 7,9% | 8,6%\n\n\"Anuário Estatístico IBGE, 1939-1940\". In: D. Nogueira. Raízes de uma Nação. Rio de Janeiro: Forense-Universitária, 1988. Adaptado.",
+   "enunciado": "De acordo com os dados estatísticos exibidos na tabela, é correto afirmar:",
+   "alternativas": {
+    "a": "A queda constante na participação de “couros e peles” indica a extinção da pecuária extensiva na região Sul do país em decorrência imediata dos conflitos da Guerra dos Farrapos.",
+    "b": "O açúcar manteve-se como o principal produto da pauta de exportações durante todo o período analisado, apesar da concorrência externa e da crise do sistema escravista a partir de 1831.",
+    "c": "Os dados demonstram uma diversificação equilibrada da economia brasileira, na qual nenhum produto agrícola detinha a hegemonia nas exportações ao final de 1850.",
+    "d": "A produção de algodão apresenta um crescimento constante devido à Revolução Industrial na Inglaterra, superando o café em importância econômica na década de 1840.",
+    "e": "A expansão do complexo cafeeiro em pouco mais de 100%, a partir da década de 1830, consolidou este produto como o principal responsável pela sustentação econômica do Segundo Reinado."
+   },
+   "resposta": "e",
+   "explicacao": "O café salta de 19,2% para 43,8% entre as duas primeiras décadas — mais que dobra — e se mantém acima de 42% na seguinte, tornando-se de longe o principal item da pauta e a base econômica do Segundo Reinado. Alternativa E. A alternativa B dá o primeiro lugar ao açúcar durante todo o período, quando ele é ultrapassado já em 1831-40; A conclui da queda de couros e peles a extinção da pecuária extensiva no Sul; C fala em diversificação equilibrada sem hegemonia, contra os 42,6% do café; e D afirma crescimento constante do algodão superando o café, quando o algodão cai de 21% para 7,4%."
   }
  ],
  "historia-brasil-republica": [
@@ -89121,6 +90109,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O texto diz que a escolha da enfermagem como emblema do ideal de mulher do Estado Novo \"não foi casual\" e que a mobilização se intensificou com a guerra. Instrumento de propaganda para produzir coesão nacional e engajamento cívico — alternativa D. A alternativa A fala em autonomia política e sufrágio desvinculado da imagem doméstica, quando o regime construiu justamente o oposto; B põe a enfermagem como substituição de mão de obra masculina na indústria de base; C reduz tudo a políticas de saúde e controle de natalidade; e E afirma ruptura com hierarquias militares, sendo a enfermeira mobilizada para dentro do esforço de guerra, não contra ele."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "fuvest-historia-39",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Considerando o ambiente político e social brasileiro da época, é correto afirmar que a eleição presidencial de 1960",
+   "alternativas": {
+    "a": "consolidou campanhas centradas em programas partidários, reduzindo o peso do personalismo e das mobilizações populares.",
+    "b": "envolveu um contexto de expansão da política de massas, crítica à corrupção e forte personalização das candidaturas.",
+    "c": "expressou consenso político em torno do desenvolvimentismo e do fortalecimento técnico-administrativo do Estado.",
+    "d": "refletiu o declínio dos meios de comunicação de massa e o predomínio das estruturas políticas regionais tradicionais.",
+    "e": "compreendeu um cenário político de baixa participação urbana e limitada circulação de discursos moralizadores."
+   },
+   "resposta": "b",
+   "explicacao": "A eleição de 1960 é o auge da política de massas na República de 1946: eleitorado urbano ampliado, rádio e televisão em campanha e candidaturas construídas sobre a figura pessoal — Jânio Quadros e a vassoura que varreria a corrupção são o retrato exato disso. Alternativa B. A alternativa A afirma redução do personalismo e das mobilizações populares, o oposto; C fala em consenso desenvolvimentista, quando a disputa opunha projetos; D anuncia declínio dos meios de comunicação de massa, em plena expansão do rádio e da TV; e E descreve baixa participação urbana e pouca circulação de discursos moralizadores, contra a campanha moralizadora que definiu o pleito."
   }
  ],
  "historia-geral-contemporanea": [
@@ -92144,6 +93151,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O Tratado de Não-Proliferação foi aberto para assinatura em 1968, e o que o destravou foi o susto de 1962: a crise dos mísseis em Cuba levou norte-americanos e soviéticos à beira do confronto nuclear e produziu, nos anos seguintes, a linha direta, o tratado de interdição parcial de testes e o próprio TNP. Alternativa B. A alternativa A o situa no fim da Segunda Guerra, duas décadas antes; C o data de 1985 e fala em ordem multipolar, quando o mundo ainda era bipolar; D o atribui ao Conselho de Segurança em 1989; e E o coloca em 1994, na Nova Ordem Mundial — nenhuma das três datas corresponde ao tratado, e a última confunde o TNP com adesões posteriores."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "fuvest-historia-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Como era feita a ‘comprovação’ do arianismo dos cidadãos alemães? Como não havia qualquer possibilidade de comprovar geneticamente a linhagem dos pais e dos avós, como características fenotípicas (de aparência) também não aferiam com precisão o pertencimento a um ‘grupo racial’, e como os sobrenomes não eram considerados comprovantes de origem confiáveis, para obter a identidade ariana os indivíduos precisavam apresentar provas de vínculo religioso dos seus antepassados. Assim, certidões de batismo ou de comunhão nas Igrejas cristãs passaram a ser utilizadas para atestar o pertencimento a uma comunidade racial ‘desjudaizada’ – uma demonstração de insensatez que guiava toda a ideia nazista de Estado racial, mas também uma amostra de que, para fazer valer a autopropalada prerrogativa da raça, os nazistas iriam se basear nas informações disponíveis, fossem elas oficiais, fossem fabricadas no âmbito das igrejas.” LIEBEL, Vinicius. O povo de Hitler: a nazificação da Alemanha. São Paulo: Contexto, 2025. Adaptado",
+   "enunciado": "Sobre a questão racial no nazismo, Vinicius Liebel diz que",
+   "alternativas": {
+    "a": "a comprovação do arianismo dos cidadãos na Alemanha da Segunda Guerra foi cientificamente embasada.",
+    "b": "os alemães procuravam atestar sua origem a partir de documentos de identidade conferidos pelo Estado.",
+    "c": "a origem étnica do povo alemão era evidenciada principalmente a partir de sua aparência física.",
+    "d": "os nazistas se valiam de documentos eclesiásticos para tentar comprovar a origem ariana das pessoas.",
+    "e": "o Estado racial que Hitler pretendia construir ancorava-se em vasta documentação comprobatória da herança genética de seus integrantes."
+   },
+   "resposta": "d",
+   "explicacao": "Liebel mostra o regime racial apoiado no que havia à mão: sem genética, sem fenótipo confiável e sem valor probatório nos sobrenomes, restaram as certidões de batismo e de comunhão. Documento eclesiástico atestando pertencimento a uma comunidade \"desjudaizada\" — alternativa D. A alternativa A chama o procedimento de cientificamente embasado, e o autor o chama de insensatez; B fala em documentos de identidade conferidos pelo Estado, quando a fonte era a Igreja; C dá primazia à aparência física, expressamente descartada no texto; e E supõe vasta documentação da herança genética, que é exatamente o que não existia."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "fuvest-historia-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Eu tenho um sonho de que um dia, lá na Geórgia, no Mississippi e no Alabama, os filhos dos antigos escravos e os filhos dos antigos senhores viverão como irmãos. Eu tenho um sonho esta tarde de que, um dia, crianças brancas e negras caminharão de mãos dadas como irmãos e irmãs. Eu tenho um sonho esta tarde de que, um dia, casas e igrejas não mais arderão em chamas simplesmente porque um povo quer se libertar. (...) Eu tenho um sonho esta tarde, que meus quatro filhos pequenos não terão a infância que eu tive, nem serão julgados pela cor da pele, mas pelo conteúdo de seu caráter. Martin Luther King. “Discurso no comício pela liberdade no Cobo Hall (Detroit, 23/06/1963)”. In: Clayborne Carson e Kris Shepard. Um apelo à consciência. Os melhores discursos de Martin Luther King. Rio de Janeiro: Zahar, 2006. Adaptado.",
+   "enunciado": "O excerto do pronunciamento de Martin Luther King destaca",
+   "alternativas": {
+    "a": "a mobilização pelo direito de liberdade religiosa.",
+    "b": "a exaltação da violência como estratégia de luta.",
+    "c": "a defesa radical do separatismo negro.",
+    "d": "a esperança no futuro, na liberdade e dignidade humana.",
+    "e": "a luta em prol da democracia racial."
+   },
+   "resposta": "d",
+   "explicacao": "O discurso é uma sequência de projeções para o futuro — filhos de escravos e de senhores vivendo como irmãos, crianças brancas e negras de mãos dadas, casas e igrejas que não ardem, filhos julgados pelo caráter e não pela cor. Esperança, liberdade e dignidade humana: alternativa D. A alternativa A reduz tudo à liberdade religiosa, e as igrejas aparecem como alvo de violência, não como pauta; B fala em exaltação da violência, contra a orientação não violenta do orador; C atribui a ele o separatismo negro, quando a imagem central é a convivência; e E usa \"democracia racial\", conceito do debate brasileiro, alheio ao contexto."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "fuvest-historia-38",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“O Partido Comunista, armado com o poder, já representa uma outra relação entre a vanguarda e a classe; nesta relação existe um elemento de coação. A luta de Lenin contra o burocratismo do partido e dos soviets significava, no fundo, uma luta não contra o mau funcionamento das secretarias, a inércia, a sujeira etc., mas contra a submissão da classe ao aparelho, contra a transformação da burocracia em uma nova camada dirigente. (...) A degeneração burocrática do partido atingiu o auge nestes últimos anos. O aparelho stalinista não sabe fazer outra coisa senão mandar. A linguagem do comando é a linguagem do ultimatismo. Todo operário tem de reconhecer antecipadamente que todas as decisões precedentes, atuais e futuras do Comitê Central, são infalíveis. As pretensões de infalibilidade aumentam à medida que a política se vai tornando cada vez mais errática.” TROTSKY, Leon. Como esmagar o fascismo. São Paulo: Autonomia Literária, 2018.",
+   "enunciado": "No excerto, Trotsky argumenta que",
+   "alternativas": {
+    "a": "as decisões do Comitê Central são infalíveis na sociedade socialista.",
+    "b": "o desejo de Lenin era transformar a burocracia partidária em uma nova camada dirigente.",
+    "c": "a Revolução Russa havia eliminado as tensões entre vanguarda revolucionária e classe trabalhadora.",
+    "d": "o processo revolucionário na Rússia corria o risco de se degenerar em virtude da crença dos líderes partidários de que eles seriam infalíveis.",
+    "e": "o aparelho stalinista, estruturado por Lenin, era democrático e pautado na linguagem do diálogo."
+   },
+   "resposta": "d",
+   "explicacao": "Trotsky descreve a degeneração burocrática do partido e a fecha com uma frase que é o próprio diagnóstico: \"As pretensões de infalibilidade aumentam à medida que a política se vai tornando cada vez mais errática\". Alternativa D. A alternativa A toma a infalibilidade como fato, e ele a denuncia como pretensão; B inverte Lenin, que lutava contra a transformação da burocracia em camada dirigente, não a favor; C afirma que a Revolução eliminou as tensões entre vanguarda e classe, quando o texto diz que a relação passou a conter coação; e E chama o aparelho stalinista de democrático e o atribui a Lenin."
   }
  ],
  "historia-geral-moderna": [
@@ -93544,6 +94611,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "No discurso de Pico, Deus diz a Adão que não lhe deu sede determinada, aspecto peculiar nem função singular, e que ele há de predeterminar a própria compleição pelo arbítrio. É a marca renascentista: o ser humano no centro, não por ser o maior dos seres, mas por ser o único que se constrói. A alternativa A traz a ética protestante, posterior e de outra tradição; B fala em evolução e etnocentrismo, conceitos do século XIX; C afirma a imortalidade como pilar, e o texto trata da liberdade nesta vida; e D chama o antropocentrismo de ausência de referência divina, quando é justamente Deus quem, no trecho, concede a liberdade."
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "fuvest-historia-41",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Ao morrer minha mãe, eu era criancinha; E meu pai me vendeu quando ainda a língua minha Dizia “vale-dor!” De “varredor” não fujo, Pois limpo chaminés, e sigo sempre sujo. (...) E um Anjo apareceu, com chave refulgente, E abriu os seus caixões, soltando-os novamente; E correm na verdura, a rir, para o arrebol, E se banham num rio e reluzem ao sol. (...) E esse Anjo disse a Tom que, se ele for bonzinho, Terá a Deus como pai, e todo o seu carinho. William Blake. “O limpador de chaminés”. Canções da inocência (1789). In: Poesia e prosa selecionadas. São Paulo: J.C. Ismael Editor, 1984.Tradução: Paulo Vizioli.",
+   "enunciado": "A partir da leitura do excerto e considerando o contexto da Revolução Industrial na Inglaterra do século XVIII, assinale a alternativa que interpreta corretamente a relação entre os aspectos poéticos e a trama histórica.",
+   "alternativas": {
+    "a": "O poema tematiza a exploração do trabalho infantil através do contraste entre a realidade opressora (fuligem/caixões) e o escapismo religioso (anjo/céu).",
+    "b": "O poema denota o otimismo romântico, que via na figura do Anjo a solução racional e científica para os problemas sanitários das grandes metrópoles inglesas.",
+    "c": "O poema utiliza uma linguagem lúdica e infantil para celebrar as novas oportunidades de emprego geradas pela manufatura têxtil.",
+    "d": "O poema exalta a educação pelo trabalho promovido pelo Estado inglês, criando oportunidade para os filhos da classe trabalhadora.",
+    "e": "O tom otimista do final do poema demonstra que, no século XVIII, as condições de trabalho eram amenizadas por leis trabalhistas."
+   },
+   "resposta": "a",
+   "explicacao": "Blake põe lado a lado as duas metades do poema: de um lado a mãe morta, o pai que vende o filho, a criança que ainda não sabe dizer \"varredor\" e vive suja de fuligem, os caixões; de outro o Anjo com a chave, o rio, o sol, a promessa de ter a Deus como pai se for bonzinho. Exploração do trabalho infantil contra escapismo religioso — alternativa A. A alternativa B faz do Anjo uma solução racional e científica para o saneamento; C lê a linguagem infantil como celebração de empregos na manufatura; D transforma o poema em elogio à educação pelo trabalho promovida pelo Estado; e E conclui, do tom final, que havia leis trabalhistas amenizando as condições no século XVIII."
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "fuvest-historia-43",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“A triste experiência do passado assaz nos mostra a necessidade de a valorizarmos (a História Natural), porque a substância da nação e sua riqueza vimos por largo tempo passar aos estranhos em troca de gêneros que já cresciam em nossas terras.” Memórias econômicas da Academia Real das Ciências de Lisboa para o adiantamento da Agricultura, das Artes e da Indústria em Portugal e suas Conquistas. Lisboa: Oficina da Academia Real das Ciências de Lisboa, 1789. Adaptado.",
+   "enunciado": "Conforme o excerto, qual das alternativas melhor representa o papel delegado ao conhecimento científico pela Coroa portuguesa no final do século XVIII?",
+   "alternativas": {
+    "a": "Favorecer a industrialização acelerada da metrópole, secundarizando as atividades agrícolas nas colônias.",
+    "b": "Utilizar a ciência como instrumento de exploração econômica e fortalecimento do Império português.",
+    "c": "Promover a preservação ambiental para impedir o esgotamento dos recursos naturais pelo extrativismo.",
+    "d": "Reforçar a autonomia administrativa das conquistas ultramarinas.",
+    "e": "Aplicar os princípios iluministas à reorganização política do Império, limitando o poder econômico da monarquia."
+   },
+   "resposta": "b",
+   "explicacao": "O trecho lamenta que \"a substância da nação e sua riqueza vimos por largo tempo passar aos estranhos em troca de gêneros que já cresciam em nossas terras\" — ou seja, Portugal comprava de fora o que poderia produzir no próprio Império. Valorizar a História Natural serve para inventariar e explorar esses recursos, fortalecendo a metrópole: é a ciência como instrumento econômico da alternativa B, marca do reformismo ilustrado luso. A alternativa A propõe industrialização acelerada com abandono da agricultura colonial; C lê preservação ambiental onde há projeto de exploração; D fala em autonomia administrativa das conquistas, contrária ao pacto colonial; e E limita o poder econômico da monarquia, que a medida pretende ampliar."
   }
  ],
  "historia-geral-antiga-medieval": [
@@ -94933,6 +96040,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Le Goff descreve a investidura como ato simbólico — a entrega de um estandarte, cetro, bastão, anel, punhal, luva ou pedaço de palha — precedida do apalavramento e da homenagem, e registra que só excepcionalmente foi posta em ata escrita antes do século XIII. Ele fecha com a fórmula: \"Feudalismo, mundo do gesto, não do escrito\". É a alternativa C. A alternativa D afirma o contrário, contrato escrito; A estende o feudalismo a toda a Idade Média, quando o texto data a palavra do século XI; B fala em feudos nas cidades, e o autor assenta o feudo sobre base rural; e E o iguala à propriedade privada, sendo o feudo um sistema de posse e exploração ligado à vassalagem."
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "fuvest-historia-40",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "O pensamento medieval estava na generalidade saturado das concepções de fé cristã. De igual modo, e numa esfera mais limitada, o pensamento de todos aqueles que viviam nos círculos da corte ou dos castelos estava impregnado do ideal da cavalaria. Johan Huizinga. O declínio da Idade Média. São Paulo: Verbo/Edusp, 1978.",
+   "enunciado": "O texto, extraído de obra originalmente publicada em 1919,",
+   "alternativas": {
+    "a": "caracteriza as três ordens sociais presentes no feudalismo.",
+    "b": "resume as bases da produção intelectual monástica no Medievo.",
+    "c": "identifica o respeito à pluralidade do pensamento na Idade Média.",
+    "d": "sintetiza a dinâmica das relações sociais no feudalismo.",
+    "e": "indica dois elementos centrais da mentalidade medieval."
+   },
+   "resposta": "e",
+   "explicacao": "Huizinga aponta duas saturações: a fé cristã impregnando o pensamento medieval em geral e, num círculo mais restrito — corte e castelos —, o ideal de cavalaria. São dois elementos centrais da mentalidade, e é o que diz a alternativa E, a mais curta das cinco. A alternativa A fala nas três ordens sociais, que o trecho não menciona; B restringe tudo à produção intelectual monástica; C encontra ali respeito à pluralidade do pensamento, quando o texto descreve o contrário, uma mentalidade saturada; e D promete uma síntese das relações sociais do feudalismo, que duas frases sobre mentalidade não entregam."
   }
  ],
  "geografia-populacao-urbana": [
@@ -98940,6 +100067,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O Solimões nasce nos Andes e atravessa terrenos jovens e friáveis: a erosão a montante põe em suspensão a argila e o silte que dão à água a cor barrenta e a alta concentração de sólidos inorgânicos — a definição de água branca em Sioli. A alternativa A atribui a cor das águas pretas à erosão, quando ela vem da matéria orgânica dissolvida, os ácidos húmicos da decomposição da floresta; B explica as águas claras pelo garimpo e pela soja, que aumentariam a carga, não a reduziriam; C e D descrevem os tipos intermediários A e B com características trocadas, sendo o B, por definição do texto, o que fica entre brancas e pretas, e não o de baixa concentração dos dois."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "fuvest-geografia-31",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Incêndios na Patagônia ameaçam árvores de mais de 4000 anos. Folha de São Paulo, 05 de fevereiro de 2026. Adaptado.\n\nEm fevereiro de 2026, incêndios de grandes proporções ocorreram em diversas partes da Patagônia Argentina, causando destruição e colocando em risco a sobrevivência de diferentes espécies animais e vegetais.",
+   "enunciado": "Assinale a alternativa que indica, corretamente, as razões para o alastramento de incêndios na região.",
+   "alternativas": {
+    "a": "A região andino-patagônica é marcada por planícies e terrenos com pouca variação altimétrica, o que facilita o deslocamento das chamas e dificulta a atuação de brigadistas.",
+    "b": "A presença de florestas ombrófilas, misturada com espécies exóticas de pinheiros e álamos, forma um combustível seco, facilitando a combustão.",
+    "c": "Ventos pouco intensos, característicos da Patagônia, dificultam a contenção das chamas, bem como atuam no aquecimento da superfície, facilitando a rápida propagação das chamas.",
+    "d": "A Patagônia enfrenta uma seca crônica, com registros de níveis de precipitação abaixo da média nos últimos anos, o que reduz a umidade do solo e da vegetação, tornando-a altamente inflamável.",
+    "e": "Incêndios são frequentes nas áreas de transição entre a floresta equatorial e a estepe patagônica, onde a vegetação é densa e mais seca devido ao gradiente de temperatura e precipitação."
+   },
+   "resposta": "d",
+   "explicacao": "A causa de fundo é climática: a Patagônia acumula anos de precipitação abaixo da média, e a seca crônica retira umidade do solo e da vegetação, que passa a queimar com facilidade. Alternativa D. A alternativa A descreve a região como planície de pouca variação altimétrica, e ela é andino-patagônica, de relevo acidentado; B fala em florestas ombrófilas, que são úmidas por definição e não formam combustível seco; C atribui o alastramento a ventos pouco intensos, quando a Patagônia é notória pelos ventos fortes, que espalham o fogo; e E situa os incêndios na transição com a floresta equatorial, ausente naquela latitude."
   }
  ],
  "geografia-agraria-economica": [
@@ -101024,6 +102171,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A bacia amazônica reúne as duas coisas ao mesmo tempo: a maior extensão de vias economicamente navegáveis do país — o Amazonas e tributários como Madeira, Tapajós e Solimões são navegáveis por milhares de quilômetros o ano inteiro — e o maior volume de carga movimentada, puxado sobretudo pelo escoamento de grãos pelos portos do Arco Norte. Alternativa A. A hidrovia Tietê-Paraná (B) é relevante mas muito menor em extensão e tonelagem; a Lagoa dos Patos (C) é um complexo local; o São Francisco (D) tem navegação restrita e sofre com as secas, como a própria alternativa admite; e o Centro-Oeste (E) depende de rios cuja navegação comercial é limitada, além de reunir o Xingu, que não é via economicamente navegável."
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "fuvest-geografia-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Leia os excertos sobre o Sistema Agrícola Tradicional de Apanhadoras(es) de Flores Sempre-Vivas da Serra do Espinhaço em Minas Gerais: “Em termos de sazonalidade, na época das chuvas, as famílias concentram suas atividades nas terras baixas, onde se encontram as ‘roças’. Já na época da estiagem, concentram suas atividades nas terras altas, local em que coletam plantas ornamentais [as sempre-vivas] a serem comercializadas, assim como utilizam os campos nativos também para pastagem do gado.” Disponível em: http://dx.doi.org/10.5752/P.2595-7716.2022v4n1p58-80. “Panhava flor, pois é. Eu lembro desse dia assim, porque isso foi o nome que se deu para essa atividade. Então quando a gente estava lá reunido e a gente falando ‘o que é que cada uma faz?’, tinha uma coisa que era comum pra todos. Roça cada um faz de um jeito, gado uns têm outros não, mais todo mundo panhava flor. Então assim, eles tavam pensando o nome, então assim era coletor, era extrativista, até essas palavras saíram. Aí eu falei assim 'gente, eu nunca tinha ouvido falar em coleta, nunca tinha ouvido falar em extrativismo, o que a gente faz lá é panhar flor. Então a partir disso nós vamos formar um grupo de apanhador de flores, que aí entendendo que panhar flor é fazer esse modo de ser, de fazer, de viver. Assim, é muito mais amplo do que ir pra campo, até pra ir pra campo panhar tem toda uma história, um modo de ser.” Maria de Fátima Alves, a Tatinha, apanhadora de flores. Disponível em: https://www.iepha.mg.gov.br/",
+   "enunciado": "Sobre a dinâmica de “panhar” flor, assinale a alternativa correta sobre o bioma, tipo de migração e o Sistema Agrícola Tradicional, respectivamente.",
+   "alternativas": {
+    "a": "Campos cerrados; interna; aspectos econômicos pautados na obtenção de lucros da comercialização de flores ornamentais e uso manual na colheita.",
+    "b": "Caatinga; pendular; uso de técnicas rudimentares, com pouca ou nenhuma mecanização, predominante em pequenas propriedades, com produtividade reduzida.",
+    "c": "Cerrado; transumância; envolvem espaços e agroecossistemas, transformação dos produtos agrícolas e cultura material e imaterial.",
+    "d": "Pradarias; temporária; envolve sistemas alimentares locais com base em agrossistemas manejados para produção sustentável e herança imaterial.",
+    "e": "Mata atlântica; sazonal; extrativismo sustentável em florestas nativas com base na cultura imaterial e na produção de alimentos seguros e nutritivos."
+   },
+   "resposta": "c",
+   "explicacao": "Os três termos saem do próprio texto. A Serra do Espinhaço em Minas, com campos rupestres e sempre-vivas, está no Cerrado. O deslocamento sazonal descrito — terras baixas na chuva, terras altas na estiagem, levando o gado — é transumância, movimento pendular ligado ao ciclo do pastoreio. E o Sistema Agrícola Tradicional é definido pela fala de Tatinha: panhar flor \"é fazer esse modo de ser, de fazer, de viver\", cultura material e imaterial junto com os agroecossistemas. Alternativa C. As demais erram o bioma (Caatinga, Pradarias, Mata Atlântica) ou reduzem a prática a lucro e técnica rudimentar, como em A e B."
   }
  ],
  "geografia-geopolitica": [
@@ -102470,6 +103637,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A alternativa E encadeia a disputa como ela se formou: as fronteiras ficaram indefinidas com a dissolução da Capitania Geral da Venezuela, os britânicos avançaram sobre a Guiana ao longo do século XIX, e o Laudo Arbitral de Paris de 1899 — citado no próprio texto ao lado do Tratado de Washington de 1897 — fechou o traçado a favor da colônia britânica. A alternativa A põe o Brasil como árbitro; B inventa acordo consensual no Congresso do Panamá de 1826 e afirma que nunca foi questionado, quando a disputa dura mais de um século; C dá o Essequibo à Venezuela por decisão da OEA; e D declara eficazes mecanismos jurídicos que a Guiana invoca e a Venezuela recusa."
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "fuvest-geografia-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "No mundo contemporâneo, existem estratégias de influência cultural em escala global tal como a divulgação de dizi (série de televisão turca). Este tipo de influência recebe o nome de soft power em oposição ao hard power, estratégia de força militar ou econômica.",
+   "enunciado": "Sobre a posição da Turquia na Geopolítica atual, é correto afirmar:",
+   "alternativas": {
+    "a": "A Turquia não utiliza estratégias hard power, tornando-se um dos três maiores produtores de séries como difusão da cultura turca.",
+    "b": "Além de ter uma posição estratégica entre Ocidente e Oriente e integrar a OTAN, a Turquia desempenha influência no mundo pela difusão cultural.",
+    "c": "A Turquia apresenta influência cultural (soft power) na América do Sul, onde há países produtores e consumidores das séries turcas.",
+    "d": "O investimento em estratégias de soft power resultou na presença turca em todos os continentes, principalmente nos países africanos.",
+    "e": "As séries turcas não são consumidas nos Estados Unidos devido à produção de filmes e séries por streamings internos."
+   },
+   "resposta": "b",
+   "explicacao": "A Turquia combina as duas formas de poder, e é isso que a alternativa B reconhece: ocupa posição de charneira entre Europa e Ásia, controla os estreitos, integra a OTAN desde 1952 — tudo isso é hard power — e ainda projeta influência cultural pelas séries. A alternativa A afirma que ela não usa hard power, o que a própria condição de membro da OTAN desmente; C, D e E fazem afirmações sobre o alcance das séries — presença na América do Sul, em todos os continentes, ausência nos Estados Unidos — que a pergunta sobre a posição geopolítica não sustenta e que a alternativa B dispensa."
   }
  ],
  "geografia-ambiente-sustentabilidade": [
@@ -105420,6 +106607,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A Groenlândia aparecer maior que a África é a assinatura da projeção de Mercator, cilíndrica conforme: ela preserva os ângulos e a forma das áreas, e para isso deforma progressivamente as superfícies conforme se afasta do Equador. Daí a alternativa A. A projeção equivalente (D) faz o oposto, conserva as áreas e distorce as formas — se fosse ela, a comparação da reportagem não se sustentaria. A afilática (C) não conserva nem uma nem outra, distribuindo o erro. E azimutal (B) e cônica (E) nomeiam a superfície de projeção, não a propriedade conservada, e não respondem ao que a pergunta mede."
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "fuvest-geografia-32",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um mapa reúne, sobre o mesmo recorte territorial, grupos étnicos, focos de violência, fluxos e campos de refugiados, número de deslocados, exploração petrolífera e insegurança alimentar entre o Sudão e o Sudão do Sul. Disponível em: https://diplomatique.org.br/o-sudao-epicentro-mundial-do-sofrimento-humano/. Adaptado.",
+   "enunciado": "Considerando os conceitos de cartografia temática, esse mapa classifica-se como",
+   "alternativas": {
+    "a": "monotemático, pois organiza as informações a partir de um único fenômeno central (refugiados), utilizando variações de tamanho para expressar diferenças quantitativas e evitando sobreposição de informações visuais.",
+    "b": "qualitativo, pois organiza as informações a partir da representação das fronteiras estatais e estaduais, sem empregar variáveis visuais para diferenciar os dados econômicos e indicar a população deslocada.",
+    "c": "politemático, pois articula diferentes variáveis visuais na representação de múltiplos fenômenos inter-relacionados – étnicos, econômicos e político-militares – de modo a buscar a complexidade da região.",
+    "d": "qualitativo, pois é representado por símbolos padronizados, sem distinção de tamanhos proporcionais, hierárquica ou orientação, o que reduz a necessidade de aplicar princípios da semiologia gráfica para sua interpretação.",
+    "e": "politemático, pois articula múltiplos fenômenos variados, utilizando diferentes variáveis visuais como cor, textura, forma, orientação, tamanho e direção, a fim de representar e destacar a riqueza de recursos naturais existentes na região representada."
+   },
+   "resposta": "c",
+   "explicacao": "Politemático é o mapa que representa mais de um fenômeno no mesmo recorte, e aqui são seis: étnicos, militares, humanitários e econômicos, cada um exigindo uma variável visual distinta — cor, forma, tamanho, textura. É a alternativa C, que ainda acerta ao dizer que a articulação busca dar conta da complexidade da região. A alternativa A o chama de monotemático com um único fenômeno central; B e D o classificam como qualitativo, uma delas negando o uso de variáveis visuais e a outra dispensando a semiologia gráfica; e E, embora acerte \"politemático\", desvia a finalidade para destacar riqueza de recursos naturais, quando o mapa documenta uma crise humanitária."
   }
  ],
  "filosofia-politica": [
@@ -111085,6 +112292,86 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O viés de proxy é definido no texto: o modelo \"confunde o que é mensurável com o que é valioso\" e troca a vibrância artística por selos da UNESCO e estrelas Michelin. Quem não tem métrica global reconhecida some da conta — e é isso que a alternativa E acrescenta ao diagnóstico de Simmel: o indicador vira o próprio critério de valor e invisibiliza heranças culturais não catalogadas. A alternativa A conclui objetividade completa e fim dos preconceitos; B descreve a substituição sem apontar a perda, ficando aquém do que o exemplo mostra; C diz que os modelos criam métricas quando faltam dados, e o caso é de recorrer a substitutos existentes; e D promete avaliações mais sensíveis às diferenças locais, o oposto do viés."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "fuvest-filosofia-sociologia-22",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A transformação do antigo Vale-Tudo no atual Mixed Martial Arts (MMA) pode ser compreendida como resultado de pressões sociais e políticas. Enquanto o Vale-Tudo era publicamente associado à violência, o MMA adquiriu maior reconhecimento esportivo e ampla circulação midiática.",
+   "enunciado": "Assinale a alternativa que apresenta fatores que contribuíram diretamente para essa mudança de percepção do MMA como esporte.",
+   "alternativas": {
+    "a": "A consolidação do MMA decorreu principalmente da recente criação do jiu-jítsu brasileiro e da desvalorização das demais artes marciais tradicionais.",
+    "b": "Os episódios de violência urbana no Rio de Janeiro envolvendo grupos conhecidos como pitboys estimularam a adaptação e formalização das regras da nova luta.",
+    "c": "Os lutadores passaram a dominar técnicas de diferentes modalidades de luta para se tornarem competitivos, favorecendo a qualidade das disputas e a institucionalização do MMA.",
+    "d": "O surgimento do MMA está associado à criação de regras distintas em cada localidade, o que dificultou a padronização da modalidade.",
+    "e": "O MMA surgiu da rivalidade entre praticantes de diferentes artes marciais interessados em comprovar a superioridade de seus estilos de luta."
+   },
+   "resposta": "c",
+   "explicacao": "O que converteu o Vale-Tudo em esporte reconhecido foi a profissionalização dos lutadores: para competir, passaram a treinar várias modalidades — daí \"artes marciais mistas\" —, o que elevou o nível técnico das disputas e viabilizou a institucionalização, com regras, categorias e federações. Alternativa C. A alternativa A atribui tudo à criação recente do jiu-jítsu brasileiro, anterior ao MMA e não sua causa; B faz dos pitboys cariocas o motor da formalização das regras; D diz que regras locais distintas dificultaram a padronização, o contrário da institucionalização; e E descreve a origem do Vale-Tudo, não a mudança de percepção que a pergunta cobra."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "fuvest-filosofia-sociologia-23",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Pode-se afirmar a existência de uma divisão racial do espaço em nosso país, uma espécie de segregação, com acentuada polarização, extremamente desvantajosa para a população negra: quase dois terços da população branca (64%) se concentram na região mais desenvolvida do país, enquanto a população negra, quase na mesma proporção (69%), concentra-se no resto do país, sobretudo em regiões mais pobres como é o caso do Nordeste e Minas Gerais. (...) Acontece que o modelo de desenvolvimento econômico brasileiro marcou, nas duas últimas décadas, a consolidação da sociedade capitalista em nosso país. Altas taxas de crescimento da economia e acelerada urbanização, estimuladas pela intervenção direta do estado, resultaram num tipo de “integração” das regiões subdesenvolvidas às exigências da industrialização do Sudeste. Lélia Gonzalez. Por um feminismo afro-latino-americano: ensaios, intervenções e diálogos. Rio de Janeiro: Zahar, 2020.",
+   "enunciado": "O excerto foi extraído do ensaio “Mulher negra”, publicado originalmente em 1985, e sustenta que",
+   "alternativas": {
+    "a": "o desenvolvimento econômico durante os anos de redemocratização posteriores ao regime civil-militar reduziu a desigualdade social e racial no país.",
+    "b": "as estratégias de desenvolvimento econômico durante o regime civil-militar aprofundaram as disparidades regionais e raciais no país.",
+    "c": "os mecanismos de consolidação do capitalismo impulsionaram a indústria no Sudeste, mas geraram pior distribuição da população negra pelo país.",
+    "d": "a inexistência de políticas governamentais de combate aos preconceitos ampliou a desigualdade social e consolidou o racismo estrutural no país.",
+    "e": "o milagre econômico ocorrido durante o regime civil-militar promoveu crescimento econômico, mas acentuou estimulou as práticas racistas no país."
+   },
+   "resposta": "b",
+   "explicacao": "Lélia Gonzalez escreve em 1985 sobre \"as duas últimas décadas\", isto é, o período do regime civil-militar, e liga uma coisa à outra: as altas taxas de crescimento e a urbanização acelerada, estimuladas pela intervenção direta do Estado, produziram uma \"integração\" subordinada das regiões pobres às exigências da industrialização do Sudeste — e é essa mesma divisão que concentra 64% dos brancos na região desenvolvida e 69% dos negros no resto do país. Disparidades regionais e raciais aprofundadas: alternativa B. A alternativa A fala em redução da desigualdade na redemocratização; C inverte a causa, atribuindo à indústria uma pior distribuição da população negra; D atribui tudo à ausência de políticas antirracistas, que o excerto não discute; e E, embora cite o milagre econômico, reduz o efeito ao estímulo a práticas racistas, quando o argumento é estrutural e espacial."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "fuvest-filosofia-sociologia-24",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "As tecnologias digitais estão cada vez mais presentes no esporte profissional. Câmeras, sensores, GPS e softwares são utilizados para analisar o desempenho dos atletas e auxiliar a arbitragem em diferentes modalidades. Recursos como o VAR, no futebol, e a arbitragem eletrônica, no tênis, contribuem para a redução de erros e para a maior precisão nas decisões.",
+   "enunciado": "Além disso, uma consequência positiva do uso dessas tecnologias no esporte é",
+   "alternativas": {
+    "a": "a ampla acessibilidade aos equipamentos tecnológicos em todas as modalidades esportivas.",
+    "b": "o aumento da qualidade dos dados gerados pelas tecnologias utilizadas, o que dispensa a participação humana nas decisões.",
+    "c": "a transformação das formas de vivenciar e consumir o esporte na sociedade contemporânea.",
+    "d": "o domínio técnico que atletas e treinadores possuem dos equipamentos tecnológicos utilizados.",
+    "e": "a substituição da percepção sensível no esporte pela quantificação a partir dos dados."
+   },
+   "resposta": "c",
+   "explicacao": "A pergunta pede uma consequência do uso das tecnologias que vá além do que o texto já creditou a elas — redução de erros e precisão nas decisões. O que sobra é o efeito social: câmeras, sensores e dados mudaram como se assiste, se narra e se consome esporte, com replays, estatísticas ao vivo e novas formas de fruição. Alternativa C. A alternativa A afirma ampla acessibilidade aos equipamentos em todas as modalidades, o que não decorre do texto nem é verdade; B conclui que a qualidade dos dados dispensa a decisão humana, e o VAR é auxílio à arbitragem; D descreve domínio técnico de atletas e treinadores, que não é consequência; e E apresenta a substituição da percepção sensível pela quantificação, que é crítica, não benefício."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "fuvest-filosofia-sociologia-25",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Considere a seguinte passagem adaptada de um artigo acadêmico: “O território é um espaço social produzido como uma representação que incorpora recursos específicos para conformar um patrimônio sociocultural respaldado na tradição (história local). Essa representação possibilita apontar alternativas inovadoras para o desenvolvimento.” Adaptado de GEHLEN & RIELLA, 2004. Em agosto de 2025, o Governo Federal publicou o Decreto nº 12.600, que incluía as hidrovias dos rios Madeira, Tocantins e Tapajós no Programa Nacional de Desestatização (PND). O plano previa obras de dragagem para aprofundar os rios e facilitar o transporte de grãos do agronegócio em grandes barcaças. No entanto, o decreto causou forte controvérsia porque foi publicado sem a consulta prévia às populações ribeirinhas e indígenas, como determina a Convenção 169 da OIT, além de desconsiderar riscos ambientais associados à dragagem. A reação foi rápida: indígenas de mais de 15 etnias, quilombolas e ativistas ambientais organizaram protestos e chegaram a ocupar por mais de 30 dias a sede da empresa Cargill, em Santarém, no Pará. Diante da pressão popular e das críticas sobre possíveis danos ambientais e sociais na Amazônia, o governo revogou o decreto em fevereiro de 2026.",
+   "enunciado": "Considerando a passagem citada, o histórico do Decreto nº 12.600, bem como os conceitos sociológicos de território e desenvolvimento sustentável, a mobilização social que levou à revogação da medida pode ser interpretada como uma",
+   "alternativas": {
+    "a": "resistência à visão do rio como infraestrutura logística, afirmando o território como um espaço de reprodução de vida, cultura e valores simbólicos singulares das populações tradicionais.",
+    "b": "demanda econômica que visava a garantir que as populações indígenas recebessem indenizações monetárias diretas pela exploração das hidrovias pelo capital privado e pelos danos que ela causaria.",
+    "c": "demonstração da oposição dos povos indígenas à perda de controle sobre recursos valiosos do território, em especial dos minérios de alto valor comercial que seriam extraídos durante a dragagem.",
+    "d": "tentativa de impedir a subordinação do território indígena aos interesses de mercado, medida necessária para promover o desenvolvimento da região e a plena integração da Amazônia à economia global.",
+    "e": "disputa técnica sobre a engenharia da dragagem, no qual indígenas e ambientalistas buscavam substituir o projeto de dragagem e a empresa vencedora da licitação por outra de sua preferência regional."
+   },
+   "resposta": "a",
+   "explicacao": "A passagem citada define território como espaço social que incorpora recursos específicos e forma um patrimônio sociocultural respaldado na tradição. A mobilização contra o Decreto nº 12.600 opõe exatamente isso à leitura do rio como via logística para barcaças de grãos: ribeirinhos, quilombolas e indígenas de mais de 15 etnias defendem o rio como espaço de reprodução da vida, da cultura e de valores simbólicos. Alternativa A. A alternativa B reduz a pauta a indenizações monetárias; C fala em minérios de alto valor, e a dragagem é para navegação; D aceita a integração plena da Amazônia ao mercado global como finalidade; e E transforma o conflito em disputa técnica sobre a licitação."
   }
  ],
  "filosofia-conhecimento-logica": [
@@ -112075,6 +113362,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Sócrates nega tudo o que faria dele um mestre: nunca foi mestre de ninguém, nunca cobrou, não prometeu nem deu ensinamento, não responde se alguém se torna melhor ou não. O que resta e o que ele afirma é a disponibilidade de se deixar interrogar por quem quiser ouvir — ricos ou pobres, jovens ou velhos. Ensinar, aí, é estabelecer diálogo, alternativa D. As demais restituem justamente o que ele recusa: A afirma conhecimentos verdadeiros, B estabelece diretrizes, C promete um método objetivo de acesso à verdade e E exige finalidade definida do aprendizado. Nenhuma sobrevive ao \"não prometi, nem dei, nesse sentido, nenhum ensinamento\"."
+  },
+  {
+   "subtema": "filosofia-conhecimento-logica",
+   "id": "fuvest-filosofia-sociologia-21",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Até hoje admitia-se que o nosso conhecimento se devia regular pelos objetos; porém, todas as tentativas para descobrir a priori, mediante conceitos, algo que ampliasse o nosso conhecimento, malogravam-se com este pressuposto. Tentemos, pois, uma vez, experimentar se não se resolverão melhor as tarefas da metafísica, admitindo que os objetos se deveriam regular pelo nosso conhecimento. Trata-se aqui de uma semelhança com a primeira ideia de Copérnico; não podendo prosseguir na explicação dos movimentos celestes enquanto admitia que toda a multidão de estrelas se movia em torno do espectador, tentou se não daria melhor resultado fazer antes girar o espectador e deixar os astros imóveis. Ora, na metafísica, pode-se tentar o mesmo, no que diz respeito à intuição dos objetos. Se a intuição tivesse de se guiar pela natureza dos objetos, não vejo como deles se poderia conhecer algo a priori; se, pelo contrário, o objeto (enquanto objeto dos sentidos) se guiar pela natureza da nossa faculdade de intuição, posso perfeitamente representar essa possibilidade. Immanuel Kant. Crítica da razão pura. Edição B, p. XVI-XVII. Adaptado. A revolução copernicana de Kant oferece o modelo completo das explicações modernizadoras, ao fazer com que o objeto gire em torno de um novo foro. Mas nada nos obriga a tomar esta revolução como um acontecimento decisivo que nos teria colocado para sempre no caminho seguro da ciência, da moral e da teologia. Dou o nome de contrarrevolução copernicana a essa inversão da inversão. Não precisamos apoiar nossas explicações nestas duas formas puras, o objeto ou o sujeito-sociedade, já que elas são, ao contrário, resultados parciais e purificados da prática central, a única que nos interessa. A natureza gira, de fato, mas não ao redor do sujeito-sociedade. Ela gira em torno do coletivo produtor de coisas e de homens. O sujeito gira, de fato, mas não em torno da natureza. Ele é obtido a partir do coletivo produtor de homens e de coisas. O Império do Meio se encontra, enfim, representado. Natureza e sociedade são os seus satélites. Bruno Latour. Jamais fomos modernos. São Paulo: Editora 34, 2019. Adaptado.",
+   "enunciado": "Com base na leitura dos textos, a “contrarrevolução” proposta por Bruno Latour, em relação à “revolução” de Kant, consiste em",
+   "alternativas": {
+    "a": "reafirmar que o conhecimento humano deve voltar a se regular pela natureza estática dos objetos.",
+    "b": "substituir o foco no sujeito individual por um foco na sociedade, mantendo o sujeito em seu papel de regulador do conhecimento.",
+    "c": "deslocar o centro do sistema explicativo, que deixaria de ser ora o objeto ora o sujeito para situar-se em um plano comum de produção mútua.",
+    "d": "criticar a analogia de Kant com a astronomia de Copérnico, argumentando que a metafísica não pode ser comparada às ciências da natureza.",
+    "e": "defender que tanto a natureza quanto a sociedade são categorias a priori, independentes da produção coletiva de coisas."
+   },
+   "resposta": "c",
+   "explicacao": "Kant faz o objeto girar em torno do sujeito; Latour recusa os dois centros. \"Não precisamos apoiar nossas explicações nestas duas formas puras, o objeto ou o sujeito-sociedade\", diz ele, porque ambas são resultados purificados de uma prática anterior — o coletivo produtor de coisas e de homens, o \"Império do Meio\" de que natureza e sociedade são satélites. É o deslocamento para um plano comum de produção mútua da alternativa C. A alternativa A propõe voltar à regulação pelos objetos; B mantém o sujeito como regulador, apenas trocando o individual pelo social; D reduz a crítica à analogia astronômica; e E torna natureza e sociedade categorias a priori independentes da produção coletiva."
   }
  ],
  "sociologia-instituicoes-movimentos": [
@@ -116717,6 +118024,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Sheila Leirner pergunta se Bosch, Arcimboldo e Brueghel precisam de efeitos especiais para chegar até nós, e observa que um cartão-postal pode ser mais fiel à percepção. A crítica é que a espetacularização desloca o eixo da obra para a experiência sensorial, esvaziando o conteúdo histórico e crítico — sem negar que o formato amplia o acesso. A alternativa B promete reconstrução autêntica das intenções originais; C afirma que a intensificação artificial não traz prejuízo, exatamente o que Leirner questiona; D acusa a crítica de desconsiderar o valor pedagógico, invertendo o ônus; e E decreta a obsolescência do museu tradicional."
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "fuvest-artes-cultura-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O Agente Secreto parece ter dificuldades em conter a força transbordante de uma pulsão criativa que se descobriu liberada. Camadas se multiplicam em citações fílmicas e ações cristalizadas se adensam para condensar, como num mergulho em espelhos enfileirados. A própria sala de cinema (já onipresente no longa anterior Retratos Fantasmas e que agora surge pela ficção no Cinema São Luiz) faz novos sedimentos de filme dentro do filme dentro do cinema, figurando, através das mãos do projecionista protagonista, a exibição e manipulação inclusive da matéria coisa-película. Algumas críticas se dedicaram a este horizonte que deglute sem dó, como um moedor de carne, tudo o que se cristaliza em gênero cinematográfico em torno de 1977, época em que a trama ficcional se passa. Podemos começar (e talvez findar) por Tubarão/1975 de Steven Spielberg, o grande filme de ação que afirma a nova geração da Hollywood nos anos 1970, ao qual Mendonça rende homenagem pelo fio que remete à sua Recife, assolada na realidade pela presença muito concreta do peixe em suas praias e os fantasmas imaginários que produz. Fernão Pessoa Ramos. O Agente Secreto. Disponível em https://aterraeredonda.com.br/. Adaptado.",
+   "enunciado": "O excerto destaca que o filme O Agente Secreto, de Kleber Mendonça Filho, mobiliza “camadas”, “citações fílmicas” e incorpora gêneros cinematográficos dos anos 1970. Considerando o conceito de intertextualidade, esse procedimento",
+   "alternativas": {
+    "a": "caracteriza-se pela retomada de obras anteriores como forma de estabilizar sentidos já consagrados, reforçando convenções narrativas reconhecíveis.",
+    "b": "manifesta-se na articulação crítica de referências e gêneros anteriores, que são incorporados à obra de modo transformador, produzindo novos sentidos.",
+    "c": "restringe-se à presença explícita de citações e homenagens, fortalecendo os sentidos originais das obras referenciadas.",
+    "d": "filia-se a uma estética predominante nos modelos estrangeiros, cujas convenções servem de parâmetro e comparação para o desenvolvimento da narrativa local.",
+    "e": "orienta-se por referenciar um imaginário cinematográfico específico, com ênfase na ambientação da reconstituição histórica."
+   },
+   "resposta": "b",
+   "explicacao": "Intertextualidade, no sentido que a pergunta cobra, não é citar por citar: é retomar obras anteriores transformando-as, de modo que o novo texto produza sentido próprio. É o que o excerto descreve — o filme \"deglute sem dó, como um moedor de carne\" os gêneros de 1977 e homenageia Tubarão pelo fio que remete ao Recife assolado pelo peixe e pelos fantasmas que ele produz. Alternativa B. A alternativa A vê estabilização de sentidos consagrados; C restringe o procedimento a citações explícitas que fortalecem os sentidos originais; D o filia a modelos estrangeiros tomados como parâmetro; e E o reduz a ambientação de reconstituição histórica."
   }
  ],
  "artes-patrimonio-cultura-popular": [
@@ -118087,6 +119414,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A frase decisiva do Texto I é que só é permitido ao indivíduo usar adornos de sua linhagem. O objeto não é enfeite: ele informa prestígio, direito e dever, ou seja, diz quem a pessoa é dentro do grupo. Adorno e posição social estão colados — daí a indissociabilidade da alternativa (e). A (a) afirma exatamente o contrário, já que o texto fala em prestígio e, portanto, em hierarquia; e a (b) inverte a relação, pois os elementos naturais servem para expressar relações humanas e cosmológicas, não para se sobrepor a elas."
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "fuvest-artes-cultura-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“A acessibilidade trata dos problemas e das soluções relacionados às diversas possíveis barreiras entre o público e a comunicação do museu, sejam elas físicas, sensoriais ou de atitude, a partir da compreensão de que a sociedade é composta de pessoas em diferentes condições e com diferentes necessidades. O tema ganha ainda mais relevância quando se tem em perspectiva as pessoas com deficiência, que possuem algum tipo de limitação em diferentes gradações, podendo variar de comprometimentos leves, médios e graves até a perda total da capacidade física, intelectual ou sensorial. Presentes em todas as esferas sociais, as pessoas com deficiência integram os diferentes públicos que frequentam museus e espaços culturais, tais como público familiar, público escolar, grupos de empresas ou de órgãos públicos, público regular e espontâneo e visitantes especializados. Assim, a adequação dessas instituições visando à acessibilidade universal é uma importante demanda para garantir o direito de todos ao acesso a ambientes mais acolhedores e inclusivos, livres de barreiras de acesso físico, comunicacional, intelectual e de atitudes.” Instituto Brasileiro de Museus. Acessibilidade. Adaptado.",
+   "enunciado": "Uma exposição idealmente acessível deve garantir:",
+   "alternativas": {
+    "a": "A circulação horizontal/vertical sem obstáculos e com sinalização adequada, informação em formatos acessíveis, oferta de réplicas, maquetes e materiais táteis e equipe capacitada para apoio quando solicitado.",
+    "b": "Cadeira de rodas para quem tem mobilidade reduzida, sinalização voltada para pessoas com deficiência, alturas variáveis dos objetos em exposição e uma equipe multidisciplinar para orientar a leitura das obras.",
+    "c": "Rampas e elevadores em todos os percursos, mapas táteis na entrada, visitas mediadas em horários fixos para pessoas com deficiência e oferta de material explicativo digital por QR code, priorizando a autonomia do visitante.",
+    "d": "Recursos de inclusão comunicacional, textos em linguagem simples, maquetes táteis de obras principais e um balcão de atendimento para encaminhar visitantes com deficiência a um circuito adaptado.",
+    "e": "Sinalização visual com pictogramas universais, iluminação adequada e contraste nas salas, disponibilização de fones com amplificação de som e a possibilidade de agendamento prévio para atendimento personalizado conforme a necessidade do público."
+   },
+   "resposta": "a",
+   "explicacao": "O texto define acessibilidade como remoção de barreiras físicas, sensoriais, comunicacionais, intelectuais e de atitude, todas ao mesmo tempo. A alternativa A é a única que cobre as cinco: circulação sem obstáculos e sinalização (física), informação em formatos acessíveis (comunicacional), réplicas, maquetes e material tátil (sensorial e intelectual) e equipe capacitada para apoio quando solicitado (atitude, sem impor tutela). As demais deixam buracos ou trocam autonomia por segregação: C e D encaminham a pessoa com deficiência a horários fixos ou a um circuito adaptado à parte; B resume tudo a cadeira de rodas e mediação de leitura; e E cobre o visual e o auditivo, mas condiciona o atendimento a agendamento prévio."
   }
  ],
  "artes-musica-cena": [
@@ -120519,6 +121866,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Chamar a obra de Maria Auxiliadora de \"naïf\" ou \"primitivista\" parece descrição técnica, mas funciona como hierarquia: põe a produção de uma mulher negra e periférica num degrau abaixo do cânone europeu e dispensa a crítica de examinar sua intencionalidade política e sua construção estética. Reconhecer isso é a leitura decolonial. A alternativa A usa o rótulo para justificar a exclusão dos circuitos; B chama a produção de isolada e puramente intuitiva; C afirma reconhecimento institucional imediato e contínuo, quando a visibilidade veio póstuma e tardia; e E declara neutras as categorias da crítica moderna."
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "fuvest-artes-cultura-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A pintura Assassinato na Casa (1890), de Jakub Schikaneder, óleo sobre tela da Galeria Nacional de Praga, retrata de maneira realista o cadáver de uma mulher de bruços no chão de um pátio e a reação dos moradores à cena. El Tendedero, instalação de Mónica Mayer (1978/2023, Fundação Ecarta), registra fotograficamente uma obra participativa que coleta depoimentos anônimos de mulheres sobre experiências de violência e assédio.",
+   "enunciado": "Em relação à interpretação da permanência do fenômeno e da mudança de perspectiva histórica no enquadramento da violência contra a mulher, é correto afirmar:",
+   "alternativas": {
+    "a": "Na primeira imagem, aparece como um caso localizado e privado, enquanto, na segunda, o anonimato reforça a individualização das vítimas.",
+    "b": "Na primeira imagem, reside no acontecimento e em sua repercussão social, enquanto, na segunda, o sentido organiza-se pela curadoria autoral centralizada e seletiva.",
+    "c": "Na primeira imagem, mobiliza a atenção e indignação das testemunhas, enquanto, na segunda, os relatos tendem a isolar experiências obstruindo um entendimento comum.",
+    "d": "Na primeira imagem, é figurada como acontecimento singular que provoca comoção, enquanto, na segunda, os relatos compõem um conjunto de experiências atravessado pela dispersão temática.",
+    "e": "Na primeira imagem, é mediada pelo olhar coletivo e consternado, enquanto, na segunda, a acumulação de relatos evidencia sua recorrência no cotidiano e seu caráter estrutural."
+   },
+   "resposta": "e",
+   "explicacao": "A diferença está no que cada obra enquadra. Schikaneder pinta um caso: um corpo, um pátio, os vizinhos consternados em volta — a violência mediada pelo olhar coletivo diante de um acontecimento. Mayer não mostra nenhum caso; acumula depoimentos anônimos até que a quantidade seja o argumento, e o que aparece é a recorrência cotidiana e o caráter estrutural. Alternativa E. A alternativa A diz que o anonimato individualiza as vítimas, quando ele as soma; B atribui à instalação uma curadoria autoral centralizada, sendo ela participativa; C afirma que os relatos isolam experiências; e D os vê dispersos tematicamente, quando convergem para o mesmo tema."
   }
  ],
  "atualidades-politica-economia": [

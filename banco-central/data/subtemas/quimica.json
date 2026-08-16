@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "quimica",
- "total": 534,
+ "total": 540,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -3179,6 +3179,39 @@
    "frenteDestino": "quimica",
    "pontos": 5,
    "margem": 0
+  },
+  "fuvest-quimica-32": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fuvest-quimica-33": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fuvest-quimica-34": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fuvest-quimica-35": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "fuvest-quimica-36": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 1
+  },
+  "fuvest-quimica-37": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
   }
  }
 }

@@ -9132,6 +9132,153 @@
       },
       "resposta": "b",
       "explicacao": "Com x, y e z em centenas de peças, o corante gasto é 21x + 54y + 39z, e o enunciado exige pelo menos 81 gramas: 21x + 54y + 39z ≥ 81. Dividindo tudo por 3, 7x + 18y + 13z ≥ 27. O tempo é x + 3y + 4z horas e a máquina só pode funcionar no máximo 15 horas por dia: x + 3y + 4z ≤ 15. Alternativa B. A alternativa A troca o sentido da segunda desigualdade, permitindo passar do limite de segurança; C inverte a primeira, transformando o mínimo de corante em máximo; e D e E dividem apenas o primeiro coeficiente por 3 e deixam 54 e 39 intactos, o que desequilibra a inequação."
+    },
+    {
+      "id": "fuvest-matematica-25",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "É chamado de Calendário de Dois Cubos o calendário de mesa composto por dois cubos com faces marcadas com um único dígito de 0 a 9, em que o dígito 6 é invertido para representar o dígito 9, sendo possível organizar os cubos de forma que qualquer dia escolhido do mês (de 01, 02 ... até 31) fique visível nas duas faces frontais. Um enigma envolvendo este calendário diz: os cubos estão dispostos em uma mesa de tal forma que duas faces visíveis de um cubo têm os dígitos 1 e 2, e três faces visíveis do outro cubo têm os dígitos 3, 4 e 5.",
+      "enunciado": "Se as faces frontais indicam o 25º dia do mês, determine os dígitos que aparecem nas faces de cada cubo.",
+      "alternativas": {
+        "a": "{1, 2, 3, 4, 5, 6/9} e {0, 1, 2, 3, 7, 8}.",
+        "b": "{0, 1, 2, 3, 4, 5} e {0, 1, 2, 6/9, 7, 8}.",
+        "c": "{0, 1, 2, 3, 4, 5} e {1, 2, 3, 6/9, 7, 8}.",
+        "d": "{1, 2, 3, 4, 5, 7} e {0, 1, 2, 6/9, 7, 8}.",
+        "e": "{0, 1, 2, 3, 7, 8} e {3, 4, 5, 6/9, 7, 8}."
+      },
+      "resposta": "b",
+      "explicacao": "Os dias 11 e 22 obrigam os dois cubos a terem 1 e 2, e os dias de 01 a 09 obrigam os dois a terem 0 — são três faces gastas em cada cubo, restando três livres em cada. Os dígitos 3, 4, 5, 6/9, 7 e 8 precisam caber nessas seis faces. Como o segundo cubo já mostra 3, 4 e 5, ele fica {0,1,2,3,4,5}, e ao primeiro sobram 6/9, 7 e 8, isto é, {0,1,2,6/9,7,8} — alternativa B, coerente com o 2 e o 5 das faces frontais formando 25. A alternativa A deixa o 0 fora de um dos cubos, impedindo 01 a 09; C tira o 0 do segundo cubo; D põe 7 no lugar do 0; e E não acomoda o 11."
+    },
+    {
+      "id": "fuvest-matematica-26",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "enunciado": "Um arquiteto utiliza um triângulo retângulo para calcular a inclinação de uma rampa de acesso. Sabe-se que a medida da mediana relativa à hipotenusa desse triângulo é a média geométrica das medidas dos catetos e que a rampa de acesso será feita pelo maior cateto. Considerando as informações apresentadas, qual é o cosseno do ângulo de inclinação dessa rampa?",
+      "alternativas": {
+        "a": "(√3 − √2)/2",
+        "b": "(√6 + √3)/4",
+        "c": "(√6 + √2)/4",
+        "d": "(1 + √2)/3",
+        "e": "(2 + √6)/3"
+      },
+      "resposta": "c",
+      "explicacao": "Num triângulo retângulo a mediana relativa à hipotenusa vale metade dela, então a condição do enunciado é c/2 = √(ab), ou seja, c² = 4ab. Como c² = a² + b², vem a² + b² = 4ab; dividindo por b² e chamando t = a/b, tem-se t² − 4t + 1 = 0, cujas raízes são 2 ± √3. O maior cateto é, portanto, (2+√3) vezes o menor. Tomando b = 1 e a = 2+√3, a hipotenusa é √(8+4√3) = √6 + √2. A rampa é feita pelo maior cateto, e o cosseno do ângulo de inclinação é a/c = (2+√3)/(√6+√2), que racionalizado dá (√6+√2)/4 — alternativa C. As demais trocam uma raiz ou o denominador na racionalização."
+    },
+    {
+      "id": "fuvest-matematica-27",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "enunciado": "Em cada partida de um determinado jogo, pode-se ganhar ou perder com igual probabilidade, mas não empatar. Quando se ganha uma partida, ganha-se 𝑝= 0,1, e quando se perde uma partida, perde-se 𝑝= 0,1. Suponha que um jogador jogue exatamente 10 partidas desse jogo. Qual é a probabilidade desse jogador obter lucro em um jogo com exatamente 10 partidas?",
+      "alternativas": {
+        "a": "193/512",
+        "b": "167/256",
+        "c": "1/2",
+        "d": "6/10",
+        "e": "4/10"
+      },
+      "resposta": "a",
+      "explicacao": "Cada partida vale +0,1 ou −0,1 com a mesma probabilidade, então há lucro quando as vitórias superam as derrotas. Em 10 partidas isso significa vencer 6, 7, 8, 9 ou 10 — vencer exatamente 5 empata o saldo em zero, que não é lucro. Somando as combinações: 210 + 120 + 45 + 10 + 1 = 386, sobre os 2¹⁰ = 1024 resultados possíveis, o que dá 386/1024 = 193/512, alternativa A. A alternativa C, 1/2, é a armadilha da simetria: ela valeria se o caso de 5 vitórias não existisse, mas ele ocupa 252 dos 1024 resultados e fica de fora dos dois lados, tornando a probabilidade de lucro menor que a metade."
+    },
+    {
+      "id": "fuvest-matematica-28",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "enunciado": "Um grave acidente de ônibus ocorreu próximo à cidade de Montes Claros, estado de Minas Gerais. O instante do acidente na rodovia foi presenciado por 1/65 da população dessa cidade. O número de pessoas que soube do acontecimento t horas após o acidente é dado por A(t) = B/(1 + C·e^(−kt)), em que B é a população da cidade de Montes Claros. Sabendo-se que 1/9 da população soube do acidente 3 horas após, então o tempo que passou até que 1/5 da população soubesse da notícia foi de",
+      "alternativas": {
+        "a": "4,5 horas.",
+        "b": "6,5 horas.",
+        "c": "4 horas.",
+        "d": "5 horas.",
+        "e": "6 horas."
+      },
+      "resposta": "c",
+      "explicacao": "Em t = 0, A = B/(1+C) = B/65, logo C = 64. Em t = 3, B/(1+64·e^(−3k)) = B/9 dá 64·e^(−3k) = 8, ou seja, e^(−3k) = 1/8 e portanto e^(−k) = 1/2. Para que A = B/5, é preciso 1 + 64·e^(−kt) = 5, isto é, e^(−kt) = 4/64 = 1/16. Como e^(−k) = 1/2, temos (1/2)^t = (1/2)⁴ e t = 4 horas — alternativa C. As demais saem de erros no valor de C: usar 65 em vez de 64 desloca o expoente e produz os 4,5 e os 5 horas; e tomar e^(−3k) = 1/8 como e^(−k) = 1/8 leva aos 6 e 6,5."
+    },
+    {
+      "id": "fuvest-matematica-29",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "enunciado": "Considere a função f: ℝ → ℝ, definida por f(x) = ax + b, em que a e b são coeficientes reais diferentes de zero. Denote por f⁻¹ a função real inversa de f. Sobre f e f⁻¹, é correto afirmar:",
+      "alternativas": {
+        "a": "A interseção entre os gráficos de f e f⁻¹ é uma reta.",
+        "b": "Todo ponto (x, y) do gráfico de f possui um correspondente (y, x) no gráfico de f⁻¹.",
+        "c": "O ponto de interseção do gráfico de f com o eixo Ox tem abscissa igual à abscissa do ponto de interseção do gráfico de f⁻¹ com o eixo Oy.",
+        "d": "O ponto de interseção entre f e f⁻¹ é (b/(a−1), −b/(a−1)).",
+        "e": "A ordenada do ponto de interseção de f⁻¹ com o eixo Oy é −b/a, já a abscissa do ponto de interseção de f com o eixo Ox é −a/b."
+      },
+      "resposta": "b",
+      "explicacao": "Inverter uma função é trocar os papéis de entrada e saída: se f leva x em y, então f⁻¹ leva y em x, e os gráficos são simétricos em relação à reta y = x. Alternativa B, que é a própria definição. A alternativa A chama a interseção dos dois gráficos de reta, quando em geral é um ponto — só seria reta se f coincidisse com a própria inversa. Em C, a abscissa de f ∩ Ox é −b/a, mas a abscissa de f⁻¹ ∩ Oy é zero. Em D, resolvendo ax + b = x obtém-se x = b/(1−a), com ordenada igual, e não o par de sinais opostos anunciado. Em E, o primeiro valor está certo, mas a abscissa de f ∩ Ox é −b/a, não −a/b."
+    },
+    {
+      "id": "fuvest-matematica-30",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Números poligonais centrados são números gerados a partir de um ponto central. Os quatro primeiros números triangulares centrados são 1, 4, 10 e 19.",
+      "enunciado": "Em relação a esses números, é correto afirmar:",
+      "alternativas": {
+        "a": "Sabendo que T100 = 14851, tem-se que T101 = 15051.",
+        "b": "A diferença entre dois números triangulares centrados consecutivos são termos de uma PA de primeiro termo 1 e razão 3.",
+        "c": "62 é o 7º número triangular centrado e 83 é o 8º número triangular centrado.",
+        "d": "Todo número triangular centrado, Tn, n>1, quando dividido por 3, tem resto igual a 1.",
+        "e": "A diferença entre dois números triangulares centrados consecutivos são termos de uma PG de primeiro termo 1 e razão 3."
+      },
+      "resposta": "d",
+      "explicacao": "As diferenças entre termos consecutivos são 3, 6, 9, 12 — uma PA de primeiro termo 3 e razão 3 —, o que dá Tn = 1 + 3·(1+2+...+(n−1)) = 1 + 3n(n−1)/2. Como 3n(n−1)/2 é sempre múltiplo de 3, todo Tn deixa resto 1 na divisão por 3: alternativa D. A alternativa B erra o primeiro termo da PA, que é 3 e não 1, e E chama a mesma sequência de PG. Em A, T101 = T100 + 3·100 = 14851 + 300 = 15151, não 15051. E em C, os valores corretos são T7 = 64 e T8 = 85, não 62 e 83."
+    },
+    {
+      "id": "fuvest-matematica-31",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "enunciado": "Uma bióloga estuda o crescimento de uma população de microrganismos em culturas diferentes. Ela observa que a quantidade de microrganismos em cada cultura pode ser descrita por uma função injetora f: ℝ*₊ → ℝ, que mede a taxa logarítmica de crescimento relativa de cada cultura, e satisfaz as propriedades f(1) = 0 e f(x·y) = f(x) + f(y) para todo x > 0 e y > 0. A bióloga analisa 5 culturas a₁, a₂, a₃, a₄ e a₅, nessa ordem, que foram iniciadas de forma que o número inicial de microrganismos forma uma progressão geométrica (PG) em que aᵢ > 0 para i = 1, 2, 3, 4, 5, e que Σ(i=1 a 5) f(aᵢ) = 13·f(2) + 2·f(a₁) e Σ(i=1 a 4) f(aᵢ/aᵢ₊₁) = −2·f(2a₁). Para entender a distribuição inicial da população de microrganismos, com base nos dados observados, a bióloga precisa determinar o valor inicial da primeira cultura a₁, que é",
+      "alternativas": {
+        "a": "1.",
+        "b": "2.",
+        "c": "3.",
+        "d": "4.",
+        "e": "5."
+      },
+      "resposta": "b",
+      "explicacao": "A propriedade f(xy) = f(x) + f(y) faz f se comportar como logaritmo. Numa PG de razão q, aᵢ = a₁·q^(i−1), então f(aᵢ) = f(a₁) + (i−1)·f(q) e a primeira soma vale 5f(a₁) + 10f(q); igualando a 13f(2) + 2f(a₁), vem 3f(a₁) + 10f(q) = 13f(2). A segunda soma é telescópica: f(a₁/a₂) + ... + f(a₄/a₅) = f(a₁) − f(a₅) = −4f(q), e igualando a −2[f(2) + f(a₁)] obtém-se 2f(q) = f(2) + f(a₁). Substituindo na primeira, 3f(a₁) + 5f(2) + 5f(a₁) = 13f(2), ou seja, 8f(a₁) = 8f(2). Como f é injetora, a₁ = 2 — alternativa B."
+    },
+    {
+      "id": "fuvest-matematica-32",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-2ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Uma lapiseira usa uma mina de grafite perfeitamente cilíndrica de 2 mm de diâmetro e 60 mm de comprimento. Uma pessoa está escrevendo com essa lapiseira, mantendo a mina de grafite inclinada a 30 graus em relação à vertical e a 60 graus com relação ao plano do papel. Após algum tempo, em um primeiro momento 𝑀1, ela retira a mina de grafite da lapiseira e constata que o comprimento da parte mais curta da mina de grafite mede 50 mm. Em um outro momento 𝑀2, após mais algum tempo de uso, ela verifica que a mina de grafite tem agora 40 mm na parte mais curta.",
+      "enunciado": "Conclui-se que o volume consumido entre os momentos 𝑀1 e 𝑀2 e a área da superfície inclinada, que é uma elipse, valem, respectivamente,",
+      "alternativas": {
+        "a": "1/6 do volume da mina de grafite inicial e 2π√3/3.",
+        "b": "1/6 do volume da mina de grafite inicial e 2π.",
+        "c": "1/6 do volume da mina de grafite inicial e π/2.",
+        "d": "1/4 do volume da mina de grafite inicial e π√2/2.",
+        "e": "1/4 do volume da mina de grafite inicial e π√3/2."
+      },
+      "resposta": "a",
+      "explicacao": "A parte mais curta caiu de 50 mm para 40 mm, logo se gastaram 10 mm de uma mina de 60 mm. Como o cilindro tem seção constante, o volume consumido é 10/60 = 1/6 do inicial — o que já elimina D e E. A superfície de desgaste é a interseção do cilindro com o plano do papel: uma elipse cujo semieixo menor é o próprio raio, 1 mm, e cujo semieixo maior é 1/cos 30º, porque a mina faz 60º com o papel e o plano de corte está, portanto, a 30º da seção reta. A área é π·1·(1/cos 30º) = π/(√3/2) = 2π√3/3 — alternativa A."
     }
   ]
 }

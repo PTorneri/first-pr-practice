@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "gramatica",
- "total": 416,
+ "total": 418,
  "residuo": [
   "dir-gramatica-01",
   "dir-gramatica-21",
@@ -2494,6 +2494,16 @@
   },
   "fuvest-gramatica-3": {
    "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "revisado": true
+  },
+  "fuvest-gramatica-4": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "revisado": true
+  },
+  "fuvest-gramatica-5": {
+   "subtema": "gramatica-regencia-crase",
    "frenteDestino": "gramatica",
    "revisado": true
   }

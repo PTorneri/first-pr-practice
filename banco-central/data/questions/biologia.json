@@ -8839,6 +8839,156 @@
    },
    "resposta": "e",
    "explicacao": "A aula tem 90 minutos, tempo de sobra; o que falta é acontecer mais de uma vez por semana. Sem frequência não há princípio da continuidade, e sem continuidade as adaptações cardiorrespiratórias não se instalam — daí a falta de ar persistir ao subir escadas. Alternativa E. A alternativa C tem o mesmo diagnóstico, mas prescreve aumentar a duração, que já é adequada; A declara o estímulo suficiente e manda procurar outra causa, ignorando o princípio violado; B opõe sapateado anaeróbio a escada aeróbia, e 90 minutos de sapateado são trabalho aeróbio; e D pede mais intensidade, quando o problema é o intervalo de uma semana entre as sessões."
+  },
+  {
+   "id": "fuvest-biologia-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Considerando as relações ecológicas entre organismos marinhos descritas a seguir, assinale a alternativa que define corretamente a relação interespecífica apresentada.",
+   "alternativas": {
+    "a": "Rêmoras aderem ao corpo de tubarões, deslocando-se com eles e alimentando-se de restos de comida, sem afetar significativamente o tubarão. Essa interação caracteriza protocooperação.",
+    "b": "Camarões limpadores removem parasitas da superfície de peixes, utilizando os parasitas como alimento, enquanto os peixes apresentam redução na carga parasitária. A interação entre camarões e peixes caracteriza predação.",
+    "c": "Peixes vivem entre os tentáculos de anêmonas-do-mar, obtendo proteção contra predadores e contribuindo com nutrientes para a anêmona. Essa interação caracteriza mutualismo.",
+    "d": "Zooxantelas vivem nos tecidos de corais, realizando fotossíntese e fornecendo compostos orgânicos ao coral, que oferece abrigo e nutrientes às algas. Essa interação caracteriza parasitismo.",
+    "e": "Peixes-pescadores abrigam bactérias bioluminescentes que produzem luz utilizada para atrair presas, enquanto as bactérias recebem abrigo e nutrientes do peixe. Essa interação caracteriza comensalismo."
+   },
+   "resposta": "c",
+   "explicacao": "Peixes que vivem entre os tentáculos da anêmona ganham proteção e devolvem nutrientes: as duas partes lucram e a associação é obrigatória, o que define mutualismo. Alternativa C. Nas demais o exemplo está certo e o nome, errado: rêmora e tubarão (A) é comensalismo, já que o tubarão não ganha nem perde; camarão limpador e peixe (B) é mutualismo, não predação, pois o peixe se livra dos parasitas; zooxantelas e coral (D) é mutualismo, não parasitismo, sendo a base da própria existência do recife; e peixe-pescador com bactérias bioluminescentes (E) também é mutualismo, não comensalismo, porque o peixe usa a luz para caçar."
+  },
+  {
+   "id": "fuvest-biologia-31",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Nos últimos anos, a região de São Paulo tem registrado eventos climáticos extremos, caracterizados pela alternância entre curtos períodos de chuvas intensas e longos períodos de estiagem, com aumento no número de dias com precipitação acima de 80 mm e 100 mm registrado no Instituto de Astronomia, Geofísica e Ciências Atmosféricas da Universidade de São Paulo. Marengo e colaboradores (2020). Annals of the New York Academy of Sciences.\n\nEssa variabilidade extrema favorece a erosão do solo, especialmente em áreas com desmatamento e solo exposto. O material erodido é transportado para rios e reservatórios junto com sedimentos e nutrientes, influenciando a atividade de microrganismos aquáticos, assim como a turbidez, temperatura e a disponibilidade de oxigênio dissolvido na água.",
+   "enunciado": "A partir da leitura do texto, é correto afirmar:",
+   "alternativas": {
+    "a": "O enriquecimento por nutrientes e o aumento de matéria orgânica decorrentes da erosão tendem a ampliar a diversidade, ao favorecer organismos autotróficos e heterotróficos e manter a proporção funcional da comunidade.",
+    "b": "O aumento da temperatura da água eleva sua capacidade de dissolver oxigênio, compensando o consumo pela decomposição e favorecendo espécies sensíveis à disponibilidade de O2.",
+    "c": "A alternância entre estiagens e chuvas intensas tende a manter a qualidade da água, pois eventos extremos de precipitação não alteram significativamente a dinâmica física e química dos ecossistemas aquáticos.",
+    "d": "O aumento de sedimentos após eventos erosivos reduz a decomposição aeróbia, pois partículas em suspensão impedem a atividade de organismos decompositores.",
+    "e": "O aumento da temperatura da água e do aporte de matéria orgânica pode elevar a demanda bioquímica de oxigênio e favorecer organismos tolerantes a baixas concentrações de O2."
+   },
+   "resposta": "e",
+   "explicacao": "Mais matéria orgânica significa mais decompositores trabalhando, e decomposição aeróbia consome oxigênio: a demanda bioquímica de oxigênio sobe. A temperatura mais alta agrava por dois lados, acelerando o metabolismo e reduzindo a solubilidade do O2. O ambiente passa a favorecer quem tolera pouca oxigenação — alternativa E. A alternativa A prevê aumento de diversidade, quando a eutrofização a reduz; B afirma que a água quente dissolve mais oxigênio, invertendo a relação; C diz que eventos extremos não alteram a dinâmica dos ecossistemas aquáticos; e D conclui que os sedimentos reduzem a decomposição aeróbia, quando o aporte orgânico a intensifica."
+  },
+  {
+   "id": "fuvest-biologia-32",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Pesquisas recentes mostram avanços promissores em vacinas de RNAm contra o melanoma, um tipo de câncer de pele. O diferencial dessa tecnologia é sua individualização, uma vez que, após o sequenciamento do genoma do tumor, identificam-se mutações específicas do paciente, que não estejam presentes em suas células saudáveis. Essas sequências mutadas originam os chamados neoantígenos (proteínas anormais), que são codificados no RNAm da vacina. Desse modo, o sistema imunológico aprende a atacar somente as células daquele tumor.",
+   "enunciado": "A necessidade de a vacina ser individualizada para cada paciente justifica-se, biologicamente, porque",
+   "alternativas": {
+    "a": "o sistema imunológico humano é capaz de reconhecer apenas proteínas produzidas por microrganismos externos, exigindo que o RNAm \"disfarce\" as células tumorais como bactérias.",
+    "b": "a variabilidade genética entre tumores de diferentes indivíduos é alta, e uma vacina genérica poderia atacar proteínas comuns a células saudáveis, resultando em graves doenças autoimunes.",
+    "c": "as células tumorais, ao contrário das células somáticas normais, não realizam a tradução de moléculas de RNAm próprio, de modo a expressar somente proteínas normais.",
+    "d": "a individualização permite que o RNAm se integre seletivamente ao genoma das células T citotóxicas, garantindo que a memória imunológica seja passada para as próximas gerações do indivíduo.",
+    "e": "o código genético de um melanoma é diferente do código genético das células somáticas normais do mesmo paciente, o que faz com que o RNAm da vacina seja traduzido de forma aleatória."
+   },
+   "resposta": "b",
+   "explicacao": "Os neoantígenos vêm de mutações daquele tumor daquele paciente, e o texto sublinha que são mutações \"que não estejam presentes em suas células saudáveis\". Como o conjunto de mutações difere de tumor para tumor, uma vacina genérica correria o risco de mirar proteínas que também existem em células sadias — ou seja, provocar autoimunidade. Alternativa B. A alternativa A afirma que o sistema imune só reconhece proteínas de microrganismos externos; C diz que células tumorais não traduzem RNAm próprio; D faz o RNAm integrar-se ao genoma de células T e virar herança para as próximas gerações; e E confunde código genético com sequência gênica — o código é o mesmo em todas as células."
+  },
+  {
+   "id": "fuvest-biologia-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "As mitocôndrias são organelas responsáveis pela produção de ATP via respiração celular aeróbica. Essas organelas possuem DNA próprio (mtDNA), uma molécula circular com cerca de 16.500 pares de bases que codifica 37 genes, a maioria relacionados à cadeia transportadora de elétrons.\n\nConsidere uma família de três gerações em que, na geração P, a mãe é portadora de uma mutação no mtDNA e o pai possui mtDNA normal.",
+   "enunciado": "Com base nos conhecimentos sobre herança mitocondrial, é correto afirmar:",
+   "alternativas": {
+    "a": "Todos os quatro indivíduos da geração F1 herdaram a mutação no mtDNA materno, porém apenas a filha 1 e a filha 2 poderão transmiti-la à geração seguinte. O neto, pertencente à geração F2, não porta a mutação, pois recebeu seu mtDNA exclusivamente da mãe, cujo mtDNA é normal.",
+    "b": "Apenas a filha 1 e a filha 2, na geração F1, herdaram a mutação no mtDNA, pois esse material genético é transmitido junto com o cromossomo X. Os indivíduos filho 1 e filho 2, por receberem o cromossomo Y do pai, não possuem mitocôndrias de origem materna e, portanto, não carregam a mutação.",
+    "c": "A neta, na geração F2, não apresentará a mutação porque receberá o DNA mitocondrial de seu pai, de modo que a quantidade de mitocôndrias com a mutação se torna insuficiente para causar qualquer efeito.",
+    "d": "O neto, na geração F2, poderá herdar a mutação mitocondrial de seu pai, filho 1, uma vez que o espermatozoide também contribui igualmente com mitocôndrias para o zigoto, as quais se incorporam ao embrião e participam normalmente do metabolismo celular do novo indivíduo.",
+    "e": "A mutação no mtDNA da mãe, na geração P, será transmitida apenas às filhas da geração F1, em padrão semelhante ao da herança ligada ao cromossomo X dominante, já que tanto o mtDNA quanto o cromossomo X são de origem materna."
+   },
+   "resposta": "a",
+   "explicacao": "O mtDNA vem só da mãe: o óvulo entrega as mitocôndrias ao zigoto e as poucas do espermatozoide são degradadas. Daí a alternativa A: todos os filhos da geração F1, homens e mulheres, herdam a mutação da mãe, mas só as filhas a transmitem adiante; e o neto, filho de um dos rapazes, recebe mtDNA da própria mãe, que é normal. A alternativa B liga o mtDNA ao cromossomo X e chega a negar mitocôndrias maternas aos filhos homens; C faz a neta receber mtDNA do pai; D atribui ao espermatozoide contribuição igual de mitocôndrias; e E limita a transmissão às filhas já na geração F1, quando os filhos também herdam — apenas não repassam."
+  },
+  {
+   "id": "fuvest-biologia-34",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Atualmente, criadores de conteúdo reúnem milhões de seguidores e utilizam as redes sociais como importantes espaços de ativismo, promovendo informação, visibilidade e inclusão de pessoas com deficiência, além de contribuir para o combate ao preconceito e para a ampliação da representatividade social. Entre esses grupos, destacam-se pessoas com acondroplasia, uma forma de nanismo causada por mutação no gene FGFR3. Trata-se de uma condição genética rara, de herança autossômica dominante, na qual a presença do alelo mutante em homozigose é letal, levando à morte ainda nas fases embrionária ou perinatal.",
+   "enunciado": "Considerando esse contexto, um casal com acondroplasia, ambos portadores da mesma mutação no gene FGFR3, participou de sessões de aconselhamento genético para compreender os possíveis riscos de seus descendentes. Como resultado, tem-se que os genótipos, fenótipos e proporção dos descendentes que nascem vivos e se desenvolvem são, respectivamente,",
+   "alternativas": {
+    "a": "AA: acondroplasia 25%, Aa: acondroplasia 50% e aa: estatura média 25%.",
+    "b": "AA: estatura média 25%; Aa: acondroplasia 50% e aa: acondroplasia 25%.",
+    "c": "Aa: acondroplasia 67%; aa: estatura média 33%.",
+    "d": "AA: estatura média 67%; aa: acondroplasia 33%.",
+    "e": "AA: acondroplasia 33%; Aa: estatura média 67%."
+   },
+   "resposta": "c",
+   "explicacao": "Sendo a acondroplasia autossômica dominante, os dois pais afetados são heterozigotos Aa — se fossem AA não teriam nascido, porque a homozigose do alelo mutante é letal. O cruzamento Aa × Aa dá 1 AA : 2 Aa : 1 aa, mas o AA morre ainda na fase embrionária ou perinatal. Entre os que nascem vivos e se desenvolvem restam 2 Aa para 1 aa, isto é, 67% com acondroplasia e 33% de estatura média: alternativa C. A alternativa A conta o AA entre os vivos e ainda o chama de afetado; B e E trocam os fenótipos de lugar; e D elimina os heterozigotos, que são justamente a maioria dos nascidos."
+  },
+  {
+   "id": "fuvest-biologia-35",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O experimento idealizado pelo cientista Richard Lenski, em 1988, monitora a evolução de 12 populações de bactérias por mais de 75 mil gerações. O estudo demonstra o surgimento contínuo e esporádico de mutações, as quais podem se fixar por garantirem vantagem à população, ou levarem à extinção de determinada população. Em determinado momento, depois de muitas gerações, surgiu uma mutação que conferiu às bactérias, denominadas Cit+, a capacidade de metabolizar um componente do meio de cultura (citrato), e isso proporcionou maior velocidade de crescimento.",
+   "enunciado": "A análise do experimento permite concluir que a",
+   "alternativas": {
+    "a": "evolução depende de eventos mutacionais dirigidos que são fixados nas populações.",
+    "b": "velocidade de surgimento das mutações determina maior número de indivíduos adaptados.",
+    "c": "adaptação de novas espécies ao ambiente é proporcional ao número de mutações que acumularam.",
+    "d": "conquista de novos ambientes é o objetivo da evolução.",
+    "e": "variação genética leva a diferentes repercussões, inclusive ocupação de novo nicho ecológico."
+   },
+   "resposta": "e",
+   "explicacao": "A mutação Cit+ apareceu ao acaso e, por permitir metabolizar o citrato, abriu às bactérias um recurso que antes não usavam — um novo nicho dentro do mesmo frasco. Variação genética gerando repercussões distintas, inclusive ocupação de nicho: alternativa E. A alternativa A fala em mutações dirigidas, e mutação não se orienta pela necessidade; B faz a velocidade de surgimento determinar o número de adaptados, quando o que decide é a vantagem conferida; C propõe adaptação proporcional ao número de mutações acumuladas; e D atribui à evolução um objetivo, sendo ela um resultado, não um projeto."
+  },
+  {
+   "id": "fuvest-biologia-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A mariposa Ostrinia nubilalis apresenta duas linhagens que diferem no odor sexual produzido pelas fêmeas. Machos de cada linhagem são atraídos principalmente pelo odor das fêmeas da própria linhagem. Em regiões onde as duas linhagens vivem juntas, a maioria dos acasalamentos ocorre entre indivíduos da mesma linhagem. Esse tipo de situação é frequentemente discutido em estudos sobre formação de novas espécies.",
+   "enunciado": "Com base nas informações apresentadas, é correto afirmar que se trata de um caso de especiação",
+   "alternativas": {
+    "a": "simpátrica, no qual a diferenciação entre linhagens ocorre sem redução do fluxo gênico entre elas.",
+    "b": "simpátrica, no qual diferenças no comportamento de acasalamento reduzem os cruzamentos entre linhagens.",
+    "c": "alopátrica, no qual a formação de novas espécies ocorre sem fatores que limitem os cruzamentos.",
+    "d": "alopátrica, no qual a ocupação de uma mesma área impede a diferenciação entre populações.",
+    "e": "alopátrica, no qual as linhagens se diferenciam por apresentarem períodos reprodutivos distintos ao longo do ano."
+   },
+   "resposta": "b",
+   "explicacao": "As duas linhagens vivem na mesma área — \"em regiões onde as duas linhagens vivem juntas\" —, então não há isolamento geográfico: a especiação é simpátrica. O que separa é o comportamento: cada macho responde ao odor das fêmeas da própria linhagem, e a maioria dos acasalamentos acontece dentro dela, o que reduz o fluxo gênico. Alternativa B. A alternativa A acerta o tipo mas nega a redução do fluxo, que é o mecanismo; C, D e E chamam o caso de alopátrico, contrariando a convivência na mesma área, e ainda erram a explicação — ausência de barreiras em C, impedimento da diferenciação em D e períodos reprodutivos distintos em E, que o texto não menciona."
+  },
+  {
+   "id": "fuvest-biologia-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Considerando as estruturas locomotoras de tubarões, pinguins, focas, morcegos e baleias, é correto afirmar:",
+   "alternativas": {
+    "a": "As nadadeiras dos tubarões e as asas dos pinguins constituem órgãos homólogos, pois representam adaptações independentes ao ambiente aquático.",
+    "b": "As nadadeiras das focas e as asas dos pinguins constituem órgãos análogos, indicando ausência de ancestralidade comum entre essas estruturas.",
+    "c": "As asas dos pinguins e dos morcegos constituem órgãos análogos, pois derivam de folhetos embrionários distintos.",
+    "d": "As asas dos morcegos e as nadadeiras das focas constituem órgãos homólogos, pois evoluíram independentemente para diferentes formas de locomoção.",
+    "e": "As nadadeiras das baleias e as asas dos pinguins constituem órgãos homólogos, pois ambas derivam da mesma estrutura de um ancestral comum."
+   },
+   "resposta": "e",
+   "explicacao": "Homólogos são órgãos com a mesma origem embrionária e o mesmo ancestral comum, ainda que a função difira; análogos têm função parecida e origens distintas. Nadadeira de baleia e asa de pinguim são as duas o membro anterior de tetrápodes, herdado do mesmo ancestral — homólogas, alternativa E. A alternativa A chama nadadeira de tubarão e asa de pinguim de homólogas justificando com adaptação independente, que é a definição de análogas; B nega ancestralidade comum entre foca e pinguim, ambos tetrápodes; C diz que asas de pinguim e de morcego derivam de folhetos embrionários distintos, e são igualmente membros anteriores; e D chama de homólogas por terem evoluído independentemente, invertendo os termos."
   }
  ],
  "textos": [

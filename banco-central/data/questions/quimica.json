@@ -8500,7 +8500,7 @@
    "formato": "direta",
    "dificuldade": "dificil",
    "origem": "fuvest",
-   "texto_apoio": "Essa imagem, chamada de “A formatura da capivara”, foi gerada por Inteligência Artificial (IA). Em 2024 estimou- se que 30 milhões de imagens foram geradas diariamente no mundo utilizando modelos de IA a um gasto energético médio de 131 kJ por imagem. O uso intenso dessa tecnologia tem levado à reativação de usinas termoelétricas e à construção de novas usinas nucleares para suportar os servidores que realizam o processamento de IA.\n\nNote e adote: Massa molar (g/mol): C = 12; O = 16. Entalpia de combustão completa do carvão: ΔH = −393 kJ/mol.",
+   "texto_apoio": "Essa imagem, chamada de “A formatura da capivara”, foi gerada por Inteligência Artificial (IA). Em 2024 estimou-se que 30 milhões de imagens foram geradas diariamente no mundo utilizando modelos de IA a um gasto energético médio de 131 kJ por imagem. O uso intenso dessa tecnologia tem levado à reativação de usinas termoelétricas e à construção de novas usinas nucleares para suportar os servidores que realizam o processamento de IA.\n\nNote e adote: Massa molar (g/mol): C = 12; O = 16. Entalpia de combustão completa do carvão: ΔH = −393 kJ/mol.",
    "enunciado": "Considerando que toda a energia para gerar essas imagens fosse proveniente da combustão completa de carvão, a pegada de carbono diária medida em toneladas de CO2 formado, resultante da produção dessas imagens, seria de",
    "alternativas": {
     "a": "0,2.",
@@ -8652,7 +8652,7 @@
    "formato": "direta",
    "dificuldade": "media",
    "origem": "fuvest",
-   "texto_apoio": "A porcentagem em massa de fosfato (PO43-) numa amostra do vidro fertilizante é de 19%. A velocidade de dissolução desse vidro em água é constante e independente da massa inicial, sendo igual a 7,3 mg/h. Em um teste de dissolução, adicionou- se excesso dessa amostra de vidro fertilizante a 1 L de água e mediu-se a concentração de íons fosfato ao longo do tempo.\n\nNote e adote: Massa molar do fosfato = 95 g/mol.",
+   "texto_apoio": "A porcentagem em massa de fosfato (PO43-) numa amostra do vidro fertilizante é de 19%. A velocidade de dissolução desse vidro em água é constante e independente da massa inicial, sendo igual a 7,3 mg/h. Em um teste de dissolução, adicionou-se excesso dessa amostra de vidro fertilizante a 1 L de água e mediu-se a concentração de íons fosfato ao longo do tempo.\n\nNote e adote: Massa molar do fosfato = 95 g/mol.",
    "enunciado": "A concentração de fosfato em mol/L obtida após 100 h de experimento foi",
    "alternativas": {
     "a": "1,46 × 10-3",
@@ -8758,6 +8758,119 @@
    },
    "resposta": "a",
    "explicacao": "É crioscopia, e o dado que a aciona está no enunciado: quatro vezes mais sais que a água do mar. Partículas dissolvidas atrapalham a organização das moléculas de água na rede cristalina do gelo, e a temperatura de congelamento cai proporcionalmente à concentração — por isso os −7 °C. Alternativa A. A alternativa C inverte o efeito, elevando o ponto de congelamento; B supõe reação exotérmica do ferro com a água, e o ferro está apenas dissolvido; D atribui tudo à pressão da geleira, insuficiente sozinha para 7 graus; e E diz que a falta de oxigênio dificulta as ligações de hidrogênio, que se formam entre as próprias moléculas de água."
+  },
+  {
+   "id": "fuvest-quimica-32",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Materiais poliméricos utilizados como revestimentos protetores podem apresentar diferentes comportamentos frente à combustão. O fluoreto de polivinilideno (PVDF) é um exemplo de polímero que, além de atuar como agente impermeabilizante, apresenta propriedades retardantes de chama. Essas propriedades estão relacionadas à presença de átomos de flúor em sua estrutura, o que resulta em alta temperatura de ignição e baixa liberação de calor durante a combustão.\n\nNote e adote:\nEnergias de ligação em kJ·mol⁻¹: C−H = 415; C−F = 500.",
+   "enunciado": "Sobre este processo, é correto afirmar que",
+   "alternativas": {
+    "a": "a elevada quantidade de ligações C−F aumenta o calor liberado na combustão devido à alta energia dessas ligações.",
+    "b": "a alta temperatura de ignição é necessária porque essa combustão é endotérmica por conta da alta energia de ligação C−F e, portanto, favorecida quando aquecida.",
+    "c": "a ligação C−H tem maior diferença de eletronegatividade e, portanto, é quebrada primeiro no processo de queima.",
+    "d": "a energia absorvida para a quebra da ligação C−F é maior do que para a quebra de ligações C−H, o que está associado a uma maior energia de ativação dessa combustão.",
+    "e": "a presença de flúor diminui a polaridade da cadeia carbônica, tornando o polímero menos reativo ao oxigênio e, portanto, menos inflamável."
+   },
+   "resposta": "d",
+   "explicacao": "Quebrar C−F custa 500 kJ·mol⁻¹ contra 415 da C−H: são 85 a mais por ligação. Como toda combustão começa rompendo ligações do combustível, trocar hidrogênios por flúor eleva a barreira inicial, isto é, a energia de ativação — e daí a alta temperatura de ignição que o texto atribui ao PVDF. Alternativa D. A alternativa A conclui maior calor liberado, quando ligações fortes no reagente reduzem o saldo exotérmico; B chama a combustão de endotérmica; C diz que a C−H tem maior diferença de eletronegatividade, e o flúor é o elemento mais eletronegativo da tabela; e E afirma que o flúor diminui a polaridade da cadeia, aumentando-a."
+  },
+  {
+   "id": "fuvest-quimica-33",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "Alguns estudos indicam que as grandes obras de arquitetura e engenharia do Império Romano se devem às propriedades de autorreparação do concreto utilizado. A receita para esse concreto consistia, de forma simplificada, na adição de óxido de cálcio (CaO), silicatos e aluminatos vindos de cinzas vulcânicas, além de pedras e pequenas rochas que eram misturadas a seco para depois ocorrer a adição de água. Era encorajado que o óxido de cálcio não fosse totalmente incorporado à mistura seca, ficando como fragmentos sólidos chamados de clastos. Dessa forma, quando o concreto sofresse uma fissura, a rachadura iria expor parte desses clastos de óxido de cálcio que, em contato com a água do ambiente, geraria uma solução de íons Ca²⁺ (reação I). Esses íons poderiam, então, reagir com o CO2 dissolvido na água, produzindo CaCO3 (reação II) como um sólido que preencheria as rachaduras por ter uma solubilidade muito baixa.\nI. CaO(s) + H2O(ℓ) ⇌ Ca²⁺(aq) + 2OH⁻(aq)\nII. Ca²⁺(aq) + 2OH⁻(aq) + CO2(aq) ⇌ CaCO3(s) + H2O(ℓ)\nO CaO é fundamental para esse processo e não poderia ser trocado por um sal de cálcio como o nitrato de cálcio (Ca(NO3)2), pois o CaO",
+   "alternativas": {
+    "a": "deve estar presente para garantir o meio básico para a formação de CO32− a partir do CO2, o que não aconteceria com a solubilização de Ca(NO3)2.",
+    "b": "é um sal com alta solubilidade, garantindo que exista a grande quantidade de Ca2+ necessário em solução para formação do precipitado.",
+    "c": "tem capacidades refratárias que são responsáveis pela manutenção do calor necessário para a autorreparação das fissuras.",
+    "d": "fornece salinidade adequada para que os outros sais de cálcio presentes no concreto possam reagir com o CO2 do ar, gerando carbonato de cálcio.",
+    "e": "possui um índice de dilatação térmica que é compatível com o restante do concreto, evitando a formação das fissuras."
+   },
+   "resposta": "a",
+   "explicacao": "A reação I mostra o que só o CaO faz: além de liberar Ca²⁺, produz 2 OH⁻ por fórmula, deixando o meio básico. É esse meio básico que converte o CO2 dissolvido em carbonato, permitindo a reação II fechar em CaCO3. O nitrato de cálcio dissolveria e daria Ca²⁺, mas não geraria hidroxila alguma, e o carbonato não se formaria. Alternativa A. A alternativa B chama o CaO de sal e credita tudo à concentração de Ca²⁺; C fala em capacidade refratária e manutenção de calor; D atribui ao CaO o papel de fornecer salinidade para outros sais reagirem; e E o justifica pela dilatação térmica, evitando a formação das fissuras, quando o mecanismo descrito atua depois que elas surgem."
+  },
+  {
+   "id": "fuvest-quimica-34",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Logo após escovar os dentes, é comum ocorrer alteração na percepção do sabor de alimentos e bebidas. Por um breve período, esse efeito está associado à presença de surfactantes na pasta de dente, que interagem com receptores de sabor localizados na língua. Tais receptores são proteínas cujas estruturas tridimensionais são mantidas por interações entre regiões polares e apolares da molécula. Por sua vez, os surfactantes possuem uma região hidrofóbica, o que lhes permite interagir com regiões específicas dessas proteínas.",
+   "enunciado": "Com base nessas informações, o efeito descrito ocorre principalmente porque o surfactante",
+   "alternativas": {
+    "a": "interage preferencialmente com regiões hidrofílicas das proteínas, promovendo sua solubilização completa em meio aquoso.",
+    "b": "promove a desnaturação irreversível das proteínas receptoras, impedindo a percepção de sabores.",
+    "c": "interage com regiões apolares das proteínas receptoras, alterando de maneira reversível sua conformação espacial e, consequentemente, sua função.",
+    "d": "rompe ligações covalentes da estrutura primária das proteínas receptoras, modificando irreversivelmente sua composição química.",
+    "e": "estabelece interações com as proteínas que promovem a dissociação de seus aminoácidos constituintes."
+   },
+   "resposta": "c",
+   "explicacao": "O que sustenta a forma tridimensional de uma proteína são interações fracas, e entre elas as que agrupam as regiões apolares longe da água. A cauda hidrofóbica do surfactante se encaixa justamente aí, afrouxa esse arranjo e muda a conformação do receptor — que, sem função, deixa de reconhecer o sabor. Como nenhuma ligação covalente se rompe, o efeito passa: alternativa C, e o \"por um breve período\" do texto confirma. A alternativa A põe a interação nas regiões hidrofílicas; B fala em desnaturação irreversível; D em ruptura de ligações covalentes da estrutura primária; e E na dissociação dos aminoácidos, que também exigiria quebrar ligações peptídicas."
+  },
+  {
+   "id": "fuvest-quimica-35",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Pictogramas são utilizados para descrever a presença ou ausência de certos ingredientes em alimentos. Considere dois pictogramas encontrados em um alimento que representam, da esquerda para a direita, alimentos sem glúten, indicado por uma espiga de trigo, e alimentos livres de aditivos, indicado por uma representação de molécula orgânica composta por um átomo central e 4 átomos vizinhos. Ambos mostram as imagens cortadas por um risco diagonal.\n\nNote e adote:\nConfiguração eletrônica:\nH: 1s¹\nC: 1s² 2s² 2p²\nN: 1s² 2s² 2p³\nP: 1s² 2s² 2p⁶ 3s² 3p³",
+   "enunciado": "O pictograma que representa alimentos livres de aditivos, se considerado do ponto de vista químico, pode ser interpretado como se o alimento fosse livre de",
+   "alternativas": {
+    "a": "hidrocarbonetos leves.",
+    "b": "compostos nitrogenados.",
+    "c": "derivados do petróleo de cadeias grandes.",
+    "d": "compostos fosforados.",
+    "e": "carboidratos de baixa massa molecular."
+   },
+   "resposta": "a",
+   "explicacao": "Um átomo central ligado a quatro vizinhos exige quatro ligações, e a configuração dada mostra quem faz isso: o carbono, com quatro elétrons na camada de valência. Nitrogênio e fósforo, com cinco, fazem três; o hidrogênio faz uma. A figura é, portanto, um CH4 — o hidrocarboneto mais simples —, e o risco diagonal significa \"livre de hidrocarbonetos leves\": alternativa A. A alternativa B pede compostos nitrogenados e D, fosforados, e nem N nem P formam quatro ligações simples nesse arranjo; C fala em derivados do petróleo de cadeias grandes, e a figura tem um átomo central só; e E, em carboidratos, que têm oxigênio e cadeias maiores."
+  },
+  {
+   "id": "fuvest-quimica-36",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Note e adote:\nO produto iônico da água (Kw) é 1×10⁻¹⁴.",
+   "enunciado": "Um estudante decidiu investigar de forma sistemática o efeito de diluições sucessivas nos valores de pH de uma solução. Como ponto de partida, optou por trabalhar com uma solução aquosa diluída de ácido clorídrico (HC, ) com concentração de 0,01 mol·L−1, que apresentou um pH igual a 2,0. Em seguida, realizou uma diluição de 100 vezes dessa solução, obtendo um pH igual a 4,0. Repetindo o mesmo procedimento, isto é, realizando nova diluição de 100 vezes, o pH medido passa a ser 6,0. Qual deverá ser o pH esperado da solução após mais uma diluição de 100 vezes?",
+   "alternativas": {
+    "a": "5,0",
+    "b": "6,0",
+    "c": "7,0",
+    "d": "8,0",
+    "e": "14,0"
+   },
+   "resposta": "c",
+   "explicacao": "A regra que o estudante vinha usando — diluir 100 vezes soma 2 ao pH — vale enquanto o ácido domina a concentração de H⁺. Depois de três diluições ele chegou a pH 6, já muito perto do limite: uma quarta diluição deixaria a contribuição do ácido abaixo da própria autoionização da água, que fornece 10⁻⁷ mol·L⁻¹ de H⁺. Solução ácida não pode ficar básica por diluição, então o pH tende a 7 e para aí: alternativa C. A alternativa D, 8,0, é o que a regra ingênua daria e tornaria básica uma solução de HCℓ; E, 14,0, é o extremo dessa mesma confusão; B repete o valor anterior; e A, 5,0, inverte o sentido da diluição."
+  },
+  {
+   "id": "fuvest-quimica-37",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-2ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Note e adote:\nMassa molar do Cd = 112 g·mol⁻¹.",
+   "enunciado": "A retirada de metais pesados como Cd2+ de efluentes industriais pode ser feita pela precipitação desses íons seguida da filtração. A precipitação do Cd2+ pode ser feita por meio da adição de bases, já que seu hidróxido, Cd(OH)2, nas condições de operação do reator, possui uma constante de solubilidade bastante baixa (Kps ~ 2×10−16). Assumindo que a legislação brasileira estabelece como limite aceitável a concentração de aproximadamente 0,224 mg·L−1 de Cd2+ em efluentes, o pH mínimo para garantir a remoção adequada dos íons é",
+   "alternativas": {
+    "a": "4.",
+    "b": "5",
+    "c": "7.",
+    "d": "9.",
+    "e": "10."
+   },
+   "resposta": "d",
+   "explicacao": "Primeiro o limite em mol: 0,224 mg·L⁻¹ é 2,24×10⁻⁴ g·L⁻¹, que dividido por 112 g·mol⁻¹ dá 2×10⁻⁶ mol·L⁻¹ de Cd²⁺. Com Kps = [Cd²⁺][OH⁻]² = 2×10⁻¹⁶, vem [OH⁻]² = 2×10⁻¹⁶ / 2×10⁻⁶ = 1×10⁻¹⁰, logo [OH⁻] = 1×10⁻⁵ mol·L⁻¹. Isso é pOH 5 e, portanto, pH 9 — alternativa D. Abaixo desse pH não há hidroxila suficiente para precipitar o cádmio até o limite legal; acima, precipita mais, mas 9 é o mínimo pedido. As alternativas A e B correspondem a pH ácido, onde o Cd(OH)2 sequer se forma, e E resulta de esquecer que a hidroxila entra ao quadrado."
   }
  ],
  "textos": [

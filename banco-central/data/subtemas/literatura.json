@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "literatura",
- "total": 447,
+ "total": 455,
  "residuo": [
   "dir-literatura-53",
   "dir-literatura-55",
@@ -2647,6 +2647,48 @@
   },
   "fuvest-literatura-30": {
    "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-31": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-32": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-33": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-34": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-literatura-35": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-literatura-36": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-37": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-38": {
+   "subtema": "literatura-contemporanea",
    "frenteDestino": "literatura",
    "revisado": true
   }

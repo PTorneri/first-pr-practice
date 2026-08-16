@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "geografia",
- "total": 603,
+ "total": 607,
  "residuo": [
   "dir-geografia-24",
   "dir-geografia-28",
@@ -3594,6 +3594,28 @@
    "subtema": "geografia-agraria-economica",
    "frenteDestino": "geografia",
    "revisado": true
+  },
+  "fuvest-geografia-30": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "fuvest-geografia-31": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 19,
+   "margem": 14
+  },
+  "fuvest-geografia-32": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "fuvest-geografia-33": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

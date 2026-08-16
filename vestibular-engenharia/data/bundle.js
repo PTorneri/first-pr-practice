@@ -3566,6 +3566,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Completando quadrados: x² − 4x + y² = −3 vira (x − 2)² + y² = 1, circunferência de centro (2, 0) e raio 1; e x² + y² − 4y = −3 vira x² + (y − 2)² = 1, centro (0, 2) e raio 1. Os raios são iguais e os centros, distintos. A distância entre eles é √(2² + 2²) = 2√2 ≈ 2,83, maior que a soma dos raios, que é 2 — as circunferências são externas uma à outra e não se tocam. Isso descarta a interseção em dois pontos (A e B), a tangência (C) e a concentricidade (D), que exigiria o mesmo centro."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-13",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Para uma atividade de campo voltada à valorização do patrimônio histórico e cultural, professores de geografia levaram seus estudantes a um parque temático de monumentos geográficos. Eles visitaram a réplica de uma pirâmide regular de base quadrada com vértice a 18 metros de altura em relação ao centro da base. As faces da pirâmide estão voltadas para as direções norte, sul, leste e oeste. Para acessar o vértice da pirâmide, os estudantes precisaram percorrer uma trilha de pedestre e subir a rampa localizada na face norte. A trilha compreende os lados oeste, sul, leste e metade do lado norte do quadrado. Essa rampa está localizada exatamente no meio da face, ou seja, é o apótema da pirâmide.",
+   "enunciado": "Sabendo-se que o volume da pirâmide é de 864 m3, quantos metros, aproximadamente, os estudantes tiveram que percorrer para chegar até o topo da pirâmide?",
+   "alternativas": {
+    "a": "36",
+    "b": "41",
+    "c": "48",
+    "d": "54",
+    "e": "61"
+   },
+   "resposta": "e",
+   "explicacao": "Do volume vem o lado: 864 = (1/3)·L²·18, logo L² = 144 e L = 12 m. A trilha percorre três lados inteiros e meio lado: 12 + 12 + 12 + 6 = 42 m. A rampa é o apótema da pirâmide, hipotenusa do triângulo formado pela altura, 18 m, e pela metade do lado, 6 m: √(18² + 6²) = √360 ≈ 19 m. O total é 42 + 19 = 61 m. Quem esquece a rampa para em 42, e quem confunde o apótema com a aresta lateral, que usaria a meia-diagonal, chega a valores próximos de 54."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-16",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O Brasil é o líder mundial em reciclagem de alumínio, atingindo números próximos a 99% de latas recicladas no ano de 2021. Essas latas, já utilizadas para refrigerantes, cervejas, energéticos, agora começam a trazer também água mineral em seu interior. Considere que uma empresa deseja envasar 350 mL de água em uma lata de alumínio de formato cilíndrico e que, por razões práticas como manuseio e custo do material, o diâmetro da base dessa lata deve ter entre 5 cm e 8 cm.",
+   "enunciado": "Qual será, aproximadamente, em centímetros, a menor altura possível da lata?",
+   "alternativas": {
+    "a": "5",
+    "b": "7",
+    "c": "13",
+    "d": "18",
+    "e": "28"
+   },
+   "resposta": "b",
+   "explicacao": "O volume do cilindro é πr²h = 350 cm³, então h = 350/(πr²): quanto maior o raio, menor a altura. O maior raio admitido é metade do maior diâmetro, 8 cm, ou seja, r = 4 cm. Substituindo, h = 350 ÷ (3,14 × 16) = 350 ÷ 50,3 ≈ 7 cm. O valor 13 cm corresponderia ao menor diâmetro, 5 cm, que dá a maior altura, não a menor; e 5 cm exigiria um raio maior que o permitido."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-17",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Engenheiros estavam mapeando um terreno para construção de um empreendimento com quatro prédios em formato cilíndrico distribuídos em torno de uma praça com o formato quadrado. Para a construção dos prédios, os engenheiros demarcaram os vértices da praça nos pontos 𝐴= (0,0), 𝐵= (8,0), C e D, em sistema de coordenadas cartesianas onde cada unidade corresponde a um metro.",
+   "enunciado": "Sabendo-se que a borda da seção circular de cada prédio tangencia cada lado do quadrado no seu ponto médio, qual deve ser a equação da circunferência do prédio que tem uma distância de 10 m do seu centro até o centro do quadrado?",
+   "alternativas": {
+    "a": "(𝑥−14)ଶ+ (𝑦−4)ଶ= 36",
+    "b": "(𝑥−18)ଶ+ (𝑦−4)ଶ= 100",
+    "c": "(𝑥−8)ଶ+ (𝑦−24)ଶ= 36",
+    "d": "𝑥ଶ+ 𝑦ଶ= 36",
+    "e": "(𝑥−4)ଶ+ (𝑦−24)ଶ= 100"
+   },
+   "resposta": "a",
+   "explicacao": "Com A = (0,0) e B = (8,0), o quadrado tem lado 8 e centro (4,4). O prédio tangencia um lado no ponto médio, então seu centro está na perpendicular a esse lado passando pelo ponto médio, a 10 m do centro do quadrado. Tomando o lado x = 8, cujo ponto médio é (8,4), o centro fica em (14,4) — de fato a 10 m de (4,4) — e o raio é a distância até o ponto de tangência, 14 − 8 = 6. A equação é (x − 14)² + (y − 4)² = 36. Nenhuma das outras satisfaz as duas condições: B, C e E têm centros a 14 ou 20 m do centro do quadrado, e D o coloca na origem."
   }
  ],
  "matematica-financeira": [
@@ -11217,6 +11277,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Multiplicar a frequência por 3 transforma cos(2πft) em cos(2π·3f·t) = cos(3·2πft): é a substituição de x por 3x dentro do cosseno. Multiplicar a variável independente por um número maior que 1 comprime o gráfico em direção ao eixo vertical — o período cai a um terço e a curva completa três ciclos onde antes completava um. É contração horizontal, coerente com o comprimento de onda diminuir. Expansão horizontal (C) seria multiplicar t por um fator entre 0 e 1; expansão e contração verticais (A e E) viriam de mexer na amplitude A, fora do argumento; e translação horizontal (B) exigiria somar uma constante a t, não multiplicá-la."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "fuvest-matematica-14",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere a equação trigonométrica sen(π/2) + sen x = sen(2x) − cos π, para x ∈ ℝ, com 0 ≤ x < 2π. Um estudante resolveu essa equação da seguinte maneira:\n\nsen(π/2) + sen x = sen(2x) − cos π\n1 + sen x = sen(2x) + 1\nsen x = sen(2x)\nsen x = 2 sen x\n2 sen x − sen x = 0\nsen x = 0\nx = 0 ou x = π",
+   "enunciado": "A resolução apresentada pelo estudante está errada, pois ele",
+   "alternativas": {
+    "a": "considerou que cos 𝜋 vale 1.",
+    "b": "não considerou as infinitas voltas no ciclo trigonométrico para a resposta.",
+    "c": "considerou que sen గ ଶ vale 1.",
+    "d": "não utilizou corretamente o seno da soma de dois arcos.",
+    "e": "apresentou duas respostas e não apenas uma."
+   },
+   "resposta": "d",
+   "explicacao": "O erro está na quarta linha: o estudante trocou sen(2x) por 2·sen x, como se o seno fosse distributivo. A fórmula correta é sen(2x) = 2·sen x·cos x, que vem do seno da soma sen(a + b) = sen a·cos b + sen b·cos a com a = b = x. Refeita a conta, sen x = 2 sen x cos x leva a sen x·(2cos x − 1) = 0, e as soluções incluem também x = π/3 e x = 5π/3. As demais alternativas apontam passos corretos: cos π vale −1 e o sinal foi bem tratado (A), sen(π/2) vale 1 mesmo (C), o intervalo dado dispensa as voltas do ciclo (B) e apresentar duas raízes não é erro (E)."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "fuvest-matematica-15",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma startup de tecnologia está desenvolvendo um novo aplicativo e observa que o número de usuários está crescendo, em milhares, após t semanas do lançamento, de acordo com a função: 𝑀(𝑡) = 200 × (1,1)௧\n\nNote e adote: log 3 ≅ 0,4771; log 5 ≅ 0,6990; log 11 ≅ 1,0414.",
+   "enunciado": "Com isso, a equipe da startup quer saber: qual é o período, em semanas, em que o número de usuários ultrapassa 300 mil?",
+   "alternativas": {
+    "a": "Entre 0 e 1 semana.",
+    "b": "Entre 1 e 3 semanas.",
+    "c": "Entre 2 e 4 semanas.",
+    "d": "Entre 3 e 4 semanas.",
+    "e": "Entre 4 e 6 semanas."
+   },
+   "resposta": "e",
+   "explicacao": "A condição é 200 × (1,1)ᵗ > 300, ou seja, (1,1)ᵗ > 1,5. Aplicando logaritmo: t · log 1,1 > log 1,5. Ora, log 1,1 = log 11 − log 10 = 1,0414 − 1 = 0,0414; e log 1,5 = log 3 − log 2 = 0,4771 − (1 − 0,6990) = 0,4771 − 0,3010 = 0,1761. Logo t > 0,1761 ÷ 0,0414 ≈ 4,25 semanas — o número de usuários ultrapassa 300 mil no intervalo entre 4 e 6 semanas. Os intervalos menores correspondem a valores de t em que a função ainda não chegou a 1,5 vez o valor inicial."
   }
  ],
  "matematica-probabilidade": [
@@ -14935,6 +15035,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Pela lei de formação, a diferença entre dois termos consecutivos de (bₙ) é bₙ₊₁ − bₙ = aₙ. Para que (bₙ) seja progressão aritmética, essa diferença tem de ser constante, ou seja, aₙ precisa valer o mesmo para todo n — o que só acontece se a razão r de (aₙ) for zero. Nesse caso aₙ = a₁ para todo n, e a razão de (bₙ) é r′ = a₁. As alternativas B e D dobram esse valor sem motivo; C iguala r′ a r, que vale zero e só serviria se a₁ também fosse zero; e E envolve b₁, que fixa apenas onde a sequência começa e não influi na razão."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "fuvest-matematica-18",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Existem números curiosos na matemática. Os números perfeitos são alguns deles. Um número 𝑛 (para 𝑛∈ℕ∗) é perfeito se, e somente se, for igual à soma de seus divisores positivos (excluindo o próprio). Relacionando números perfeitos e números primos, Euclides escreveu uma proposição em seu famoso livro “Elementos”: se 2௡−1 é um número primo, então 2௡ିଵ(2௡−1) é um número perfeito.",
+   "enunciado": "Considerando o que foi exposto, é correto afirmar:",
+   "alternativas": {
+    "a": "Com exceção de 𝑛= 1, os 5 primeiros termos da sequência (𝑎௡) = (2௡−1) são números primos.",
+    "b": "Os termos da progressão geométrica, cujo primeiro termo é o primeiro número perfeito e cuja razão é 3, são pares.",
+    "c": "Os números 28 e 31 são números perfeitos.",
+    "d": "Na proposição de Euclides, para 𝑛= 4, obtemos que 2௡− 1 não é primo, mas que 2௡ିଵ(2௡−1) é perfeito.",
+    "e": "A sequência formada pela diferença dos termos consecutivos de (𝑎௡) = (2௡−1) é uma progressão aritmética de razão 2."
+   },
+   "resposta": "b",
+   "explicacao": "O primeiro número perfeito é 6, pois 1 + 2 + 3 = 6. A progressão geométrica de razão 3 que começa em 6 é 6, 18, 54, 162, …, e todo termo é 6 × 3ⁿ⁻¹: como o fator 6 é par, o produto é sempre par. A alternativa A falha porque em (2ⁿ − 1) os termos 15 e 63, para n = 4 e n = 6, não são primos; C erra porque 31 é primo, não perfeito; D erra porque, sendo 15 não primo, a proposição de Euclides não se aplica, e 8 × 15 = 120 não é perfeito; e E confunde as sequências, pois as diferenças 2, 4, 8, 16 formam progressão geométrica de razão 2, não aritmética."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -20518,6 +20638,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "\"Feathers, iron... feathers hit the ground before the weight can leave the air\" evoca o experimento atribuído a Galileu na torre de Pisa, em que corpos de massas diferentes soltos da mesma altura chegam juntos ao chão — no vácuo, penas e ferro caem com a mesma aceleração. A canção brinca com a versão em que a pena chega antes, invertendo a intuição aristotélica. A maçã (A) é de Newton e trata da gravitação universal, não da queda livre comparada; o pássaro (B) não pertence à lenda de Einstein; a banheira (D) é de Arquimedes e do empuxo; e o bloco ligado a uma hélice (E) é o experimento de Joule sobre o equivalente mecânico do calor."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fuvest-fisica-15",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Park, E. et al. “Pour-over coffee: Mixing by a water jet impinging on a granular bed with avalanche dynamics”. Phys. Fluids 37, 043332 (2025). Adaptado. Um artigo recentemente publicado na revista Physics of Fluids investigou de que modo fatores como a altura e a velocidade da água despejada na preparação de café filtrado (parte (a) da figura) influenciam no sabor da bebida pronta. Um dos parâmetros importantes é a velocidade do jato de água ao atingir a lâmina de água que já está no filtro. Uma das conclusões do estudo é que velocidades acima de 2 m/s levam a uma melhor mistura do pó de café com a água. A parte (b) da figura esquematiza a situação descrita, em que H é a altura da lâmina de água e D a altura de despejo da água do bule, medidas que têm a base do filtro como referência.\n\nNote e adote: Densidade da água: d = 1000 kg/m³. Aceleração da gravidade: g = 10 m/s².",
+   "enunciado": "Assumindo que seja desprezível a velocidade do jato quando a água começa a ser despejada no bico do bule, para uma altura H = 8 cm, qual a altura mínima D de despejo para que a velocidade do jato, ao atingir a água, seja de, pelo menos, 2 m/s?",
+   "alternativas": {
+    "a": "4 cm",
+    "b": "8,2 cm",
+    "c": "10 cm",
+    "d": "18 cm",
+    "e": "28 cm"
+   },
+   "resposta": "e",
+   "explicacao": "A água cai em queda livre do bico do bule até a lâmina de água, percorrendo a diferença de alturas D − H. Partindo do repouso, v² = 2g(D − H). Para v = 2 m/s: 4 = 20 × (D − 0,08), o que dá D − 0,08 = 0,20 e D = 0,28 m, ou 28 cm. As alternativas menores saem de esquecer de descontar a lâmina de 8 cm, que daria D = 20 cm, ou de trocar o quadrado da velocidade pela velocidade."
   }
  ],
  "fisica-termologia": [
@@ -28663,6 +28803,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Para qualquer θ diferente de zero, (1 − cos θ) é positivo e λ′ > λ₀. Comprimento de onda maior significa frequência menor, já que c = λf e a velocidade da luz não muda — é o que ocorre em θ = 30°. A alternativa A põe o máximo em 90°, quando (1 − cos θ) cresce até 180°; C afirma que a velocidade do fóton diminui, e ela é sempre c; D compara elétron e próton esquecendo que a variação é inversamente proporcional a m, e o elétron, muito mais leve, produz variação maior; e E diz que a 90° não há mudança de frequência, quando (1 − cos 90°) = 1 e a variação é justamente α/m."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fuvest-fisica-13",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Desde as primeiras descobertas, os buracos negros despertam enorme interesse da humanidade. Eles são caracterizados por regiões suficientemente densas e massivas em que o campo gravitacional é tão intenso que nada que esteja a distâncias inferiores a 𝑅Sc do buraco negro consegue escapar de sua atração, nem a luz ou outras formas de radiação. Esse raio, também conhecido como raio de Schwarzschild, é expresso por 𝑅Sc = 2𝐺𝑀/𝑐ଶ, sendo 𝐺 a constante de gravitação universal, 𝑀 a massa do buraco negro e 𝑐 a velocidade da luz.\n\nNote e adote: Suponha uniformes as densidades volumétricas do Sol e do buraco negro, ambos esféricos e com distribuição de massa uniforme. G = 10⁻¹⁰ N·m²/kg²; R_Sol = 10⁹ m; c = 3 × 10⁸ m/s.",
+   "enunciado": "Considere, por simplicidade, um buraco negro de massa igual à massa solar 𝑀Sol = 2×1030 kg e de raio igual a 𝑅Sc. Nesse caso, a razão entre a densidade volumétrica de um buraco negro e a densidade volumétrica do Sol apresenta uma ordem de grandeza mais próxima de:",
+   "alternativas": {
+    "a": "10−2",
+    "b": "104",
+    "c": "1010",
+    "d": "1016",
+    "e": "1022"
+   },
+   "resposta": "d",
+   "explicacao": "O raio de Schwarzschild para uma massa solar vale R = 2GM/c² = 2 × 10⁻¹⁰ × 2 × 10³⁰ ÷ (9 × 10¹⁶) ≈ 4,4 × 10³ m. Como as duas esferas têm a mesma massa, a razão entre as densidades é o inverso da razão entre os volumes, ou seja, o cubo da razão entre os raios: (10⁹ ÷ 4,4 × 10³)³ ≈ (2,3 × 10⁵)³ ≈ 1,2 × 10¹⁶. A ordem de grandeza é 10¹⁶. As demais alternativas correspondem a errar a potência ao elevar ao cubo — 10⁴ vem de não elevar, e 10¹⁰ de elevar ao quadrado."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fuvest-fisica-14",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Em 1905, Albert Einstein propôs que a luz, um tipo de radiação eletromagnética, é composta por fótons, sendo que cada fóton tem energia proporcional à frequência da luz (𝑓) e à constante de Planck (ℎ). Nesses termos, 𝐸 = ℎ𝑓, e a intensidade da luz é a medida da quantidade de fótons. Essa interpretação foi fundamental para o desenvolvimento da teoria quântica da luz e para explicar o efeito fotoelétrico. Esse efeito consiste em um fenômeno físico no qual elétrons são ejetados de um material, geralmente um metal, quando este é irradiado com luz cujos fótons têm energia maior que a energia de ligação do elétron ao material, também conhecida como função trabalho. Assim, quando o fóton incide sobre a superfície do material, a energia excedente transforma-se na energia cinética do elétron que escapa da superfície.",
+   "enunciado": "Em qual das situações a seguir a energia cinética do elétron ejetado no efeito fotoelétrico aumenta?",
+   "alternativas": {
+    "a": "Aumentando a intensidade da luz incidente.",
+    "b": "Usando uma superfície maior.",
+    "c": "Aumentando a frequência da luz incidente.",
+    "d": "Usando um material com função trabalho maior.",
+    "e": "Diminuindo a energia do fóton incidente."
+   },
+   "resposta": "c",
+   "explicacao": "A energia cinética do elétron ejetado é a energia do fóton menos a função trabalho: Ec = hf − φ. Só a frequência entra nessa conta pelo lado positivo, então aumentá-la é o único modo de aumentar Ec. A alternativa A aumenta a intensidade, que é o número de fótons: sai mais elétron, cada um com a mesma energia — foi exatamente esse resultado que a física clássica não explicou; B amplia a superfície, o que também só muda a quantidade; D aumenta a função trabalho, subtraindo mais; e E diminui a energia do fóton, reduzindo Ec."
   }
  ],
  "quimica-eletroquimica": [
@@ -31564,6 +31744,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O sódio está um período abaixo do lítio: tem uma camada eletrônica a mais, logo raio iônico maior, e massa atômica 23 contra 7. Como a energia armazenada é proporcional ao número de íons intercalados e esse número é limitado pelo espaço disponível, um íon maior cabe em menor quantidade no mesmo volume; e como a densidade de energia é por unidade de massa e volume, o íon mais pesado ainda penaliza o numerador duas vezes. A densidade de energia da bateria de sódio é, portanto, menor. As alternativas A, C e D erram ao inverter massa ou raio, e E supõe que a valência igual basta, ignorando o tamanho e a massa."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-23",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A espectrometria de massas, utilizada para a identificação das proteínas no estudo apresentado no texto, é uma técnica que permite determinar com precisão a massa molecular de moléculas carregadas. A determinação da massa exata da molécula é feita a partir do conhecimento da sua carga e da razão massa/carga (m/z), parâmetro que influencia no movimento das espécies, permitindo sua determinação. Caso a carga das moléculas seja unitária, a razão m/z é numericamente igual à massa da espécie a ser identificada. Caso a carga seja 2, a razão m/z detectada é metade da massa da molécula. A imagem a seguir representa, na forma de um gráfico, o resultado de uma análise por espectrometria de massas de uma amostra pura contendo apenas uma espécie intacta com fórmula molecular [C44H69NO12Ca]2+ e massa exata, considerando os isótopos mais abundantes, de 843,444 g/mol, detectada como m/z 421,722.",
+   "enunciado": "A presença de outros sinais além do sinal de m/z 421,722, mesmo em uma amostra pura não contendo nenhuma outra espécie além do [C44H69NO12Ca]2+, deve-se",
+   "alternativas": {
+    "a": "à presença de outros isótopos menos abundantes e mais pesados de átomos presentes na molécula.",
+    "b": "às espécies com cargas unitárias que possuem massa maior.",
+    "c": "à presença de outros isótopos mais abundantes e mais pesados de átomos presentes na molécula.",
+    "d": "à carga do cálcio, que faz com que a espécie detectada tenha mais de uma massa molecular.",
+    "e": "à presença de outros isótopos menos abundantes e mais leves de átomos presentes na molécula."
+   },
+   "resposta": "a",
+   "explicacao": "Mesmo uma amostra quimicamente pura não é isotopicamente pura: entre os 44 carbonos da molécula, alguns aparecem como ¹³C em vez de ¹²C, e o mesmo vale para ¹⁵N, ¹⁷O e ¹⁸O. Cada substituição acrescenta um pouco de massa e gera um sinal vizinho, ligeiramente à direita do principal — a chamada distribuição isotópica. A alternativa C chama esses isótopos de mais abundantes, quando são os raros; E os diz mais leves, e os isótopos alternativos desses elementos são mais pesados; B invoca espécies de carga unitária, que não estão na amostra; e D faz a carga do cálcio conferir várias massas à mesma espécie."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -32929,6 +33129,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A anglesita dissolve como PbSO4 ⇌ Pb²⁺ + SO4²⁻, com Kps = [Pb²⁺][SO4²⁻] = s². De 1,0 × 10⁻⁸ vem s = 1,0 × 10⁻⁴ mol/L. Multiplicando pela massa molar do chumbo: 1,0 × 10⁻⁴ × 207 = 2,07 × 10⁻² g/L, ou seja, 20,7 mg/L — cerca de duas mil vezes o limite legal de 0,01 mg/L. A água não é segura. Os valores das demais alternativas saem de esquecer a raiz quadrada do Kps (C), de não converter mol em massa (B) ou de errar a ordem de grandeza na conversão para miligrama (E, que ainda se contradiz ao chamar de segura uma concentração que diz ser maior que a permitida)."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "fuvest-quimica-19",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O processo de corrosão do aço é favorecido em ambientes úmidos e ácidos. Para evitar a corrosão de superfícies de aço é comum utilizar óleos para impedir o contato da umidade do ar com a superfície. Nos casos em que o uso de óleo não é conveniente, é possível criar uma camada de NaOH(s) na superfície do metal aplicando uma solução aquosa relativamente concentrada desta base sobre a ferramenta e deixando a solução secar por completo.",
+   "enunciado": "Esse tipo de tratamento com hidróxido de sódio é efetivo em ambientes com elevada acidez pois, caso a água entre em contato com a superfície tratada, ela",
+   "alternativas": {
+    "a": "será repelida pela camada hidrofóbica de hidróxido de sódio, evitando o contato direto da água com o metal e sua oxidação.",
+    "b": "solubilizará o hidróxido de sódio, que neutralizará o ácido presente na água que poderia induzir o processo de oxidação na superfície do metal.",
+    "c": "será oxidada pelo hidróxido de sódio, gerando sua forma reduzida que, em contato com a superfície do metal, impede o processo de corrosão.",
+    "d": "gerará um acúmulo de água na superfície hidrofílica da camada de hidróxido de sódio, impedindo sua solubilização e a consequente formação de ácido.",
+    "e": "reagirá diretamente com o sódio do hidróxido de sódio, já que este atuará como metal de sacrifício, sofrendo oxidação e protegendo a superfície metálica."
+   },
+   "resposta": "b",
+   "explicacao": "O hidróxido de sódio é iônico e muito solúvel: a água que alcança a superfície o dissolve, e a base resultante neutraliza o ácido dissolvido nessa mesma água, removendo o H⁺ que catalisaria a oxidação do ferro. A proteção é química, não física. A alternativa A chama a camada de hidrofóbica, quando o NaOH é fortemente higroscópico; C inventa uma oxidação da água pelo hidróxido; D supõe que a camada não se solubiliza, o que anularia o mecanismo; e E faz o sódio agir como metal de sacrifício, mas no hidróxido ele já está oxidado, como Na⁺."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "fuvest-quimica-20",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O produto conhecido como descalcificante, comumente composto por ácido cítrico, é usado para desentupir os dutos internos de eletrodomésticos como cafeteiras e ferros de passar roupa a vapor. O entupimento frequentemente é causado pelo depósito de calcário (CaCO3), produto da reação entre CO2 e íons cálcio presentes na água. O equilíbrio de formação do carbonato de cálcio está representado a seguir: Ca2+(aq) + CO2(g) + H2O(l) ⇌ CaCO3(s) + 2H+(aq).",
+   "enunciado": "Sobre os processos de entupimento por carbonato de cálcio e a descalcificação desses eletrodomésticos, é correto afirmar que",
+   "alternativas": {
+    "a": "a diminuição do pH pela presença do ácido cítrico leva à reação de descalcificação.",
+    "b": "a reação de descalcificação com ácido cítrico desloca o equilíbrio porque consome CO2.",
+    "c": "ambientes ricos em CO2 causam menos entupimento dos eletrodomésticos.",
+    "d": "a utilização de água com maior pH nos eletrodomésticos causa menos entupimento.",
+    "e": "o ácido cítrico age como um catalisador, pois não participa do equilíbrio de descalcificação."
+   },
+   "resposta": "a",
+   "explicacao": "No equilíbrio Ca²⁺ + CO2 + H2O ⇌ CaCO3 + 2H⁺, o ácido cítrico acrescenta H⁺, que está do lado dos produtos. Por Le Chatelier, o sistema desloca para a esquerda para consumir o excesso: o carbonato de cálcio se dissolve e o duto desentope. A alternativa B diz que a descalcificação consome CO2, quando ela o produz; C afirma que ambientes ricos em CO2 entopem menos, quando o CO2 é reagente e favorece a formação do depósito; D atribui menos entupimento à água de pH maior, e menos H⁺ desloca o equilíbrio para o precipitado; e E chama o ácido de catalisador, sendo ele participante do equilíbrio."
   }
  ],
  "quimica-organica": [
@@ -34448,6 +34688,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A substituição eletrofílica no anel aromático troca um H por um Br e libera HBr, que em água se ioniza e acidifica o meio. O pH caiu de 5 para 4, ou seja, [H⁺] passou de 1,0 × 10⁻⁵ para 1,0 × 10⁻⁴ mol/L: em 1 litro, foram gerados 9,0 × 10⁻⁵ mol de H⁺. Como cada molécula de sulfanilamida sofre substituição em duas posições distintas, ela libera dois HBr — logo reagiram 9,0 × 10⁻⁵ ÷ 2 = 4,5 × 10⁻⁵ mol. A alternativa B para no total de H⁺ sem dividir por dois; C usa o valor final de [H⁺] sem descontar o inicial; e D e E erram em várias ordens de grandeza."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "fuvest-quimica-24",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "During the nineteen-seventies and eighties, a researcher at the University of Washington started noticing something strange in the college’s experimental forest. For years, a blight of caterpillars had been munching the trees to death. Then, suddenly, the caterpillars themselves started dying off. The forest was able to recover. But what had happened to the caterpillars? The researcher, David Rhoades, who had a background in chemistry and zoology, found that the trees in the forest had changed the chemistry of their leaves, to the detriment of the caterpillars. Even more surprising, trees that had been nibbled by caterpillars weren’t the only ones that had changed their chemistry. Some were changing their leaves before caterpillars reached them, as if they’d received a warning. A shocking possibility presented itself: the trees were signalling to one another. Zoë Schlanger recounts Rhoades’s story in her new book, “The Light Eaters: How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth.” The contemporary world of botany that Schlanger explores in “The Light Eaters” is still divided over the matter of how plants sense the world and whether they can be said to communicate. But, in the past twenty years, the idea that plants communicate has gained broader acceptance. Research in recent decades has shown garden-variety lima beans protecting themselves by synthesizing and releasing chemicals to summon the predators of the insects that eat them; lab-grown pea shoots navigating mazes and responding to the sound of running water; and a chameleonic vine in the jungles of Chile mimicking the shape and color of nearby plants by a mechanism that’s not yet understood. Schlanger acknowledges that some of the research yields as many questions as answers. It’s not clear how the vine gathers information about surrounding plants to perform its mimicry. New Yorker. 12 June 2024. Adaptado. O processo de comunicação entre plantas discutido no texto pode ocorrer de diversas formas. Uma delas baseia-se na emissão de moléculas por uma planta atacada, chamada de emissor, e a recepção dessas moléculas por uma outra planta, chamada de receptor. Dependendo do tipo de ataque e das espécies envolvidas, essa comunicação pode acontecer tanto por via aérea, quanto por via do solo, facilitada pela água presente.",
+   "enunciado": "Considerando os processos de sinalização entre plantas descritos, é correto afirmar:",
+   "alternativas": {
+    "a": "Na via aérea, os compostos gerados pelo emissor podem ser polares para que possuam uma volatilidade elevada.",
+    "b": "Na comunicação pelo solo, as moléculas devem ser necessariamente apolares, para que possam ser solubilizadas no meio, atingindo o receptor.",
+    "c": "As moléculas transportadas por via aérea seriam facilmente solubilizadas no solo por conta da sua baixa polaridade.",
+    "d": "As moléculas polares geradas pelas folhas são facilmente transportadas pelo solo por conta de suas relativas baixas solubilidades.",
+    "e": "As moléculas responsáveis pela comunicação por via aérea devem possuir alta volatilidade e baixa polaridade."
+   },
+   "resposta": "e",
+   "explicacao": "Para viajar pelo ar, a molécula precisa evaporar com facilidade — e evapora bem o que interage pouco consigo mesmo, isto é, o composto apolar, sem ligações de hidrogênio a romper. Volatilidade alta e polaridade baixa andam juntas, e é o caso dos terpenos e derivados que as plantas liberam. A alternativa A associa alta volatilidade a moléculas polares, invertendo a relação; B exige moléculas apolares para dissolver no solo úmido, quando é o polar que se solubiliza em água; C faz o composto de baixa polaridade dissolver-se facilmente no solo; e D atribui fácil transporte no solo a moléculas polares justamente por sua baixa solubilidade, contradizendo-se."
   }
  ],
  "quimica-solucoes": [
@@ -35915,6 +36175,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A dissolução do acetato de sódio absorve calor: é endotérmica, e por isso a regeneração exige imersão em água quente. O processo inverso, a cristalização disparada pelo choque mecânico, devolve essa mesma energia ao ambiente — é exotérmica, e é dela que vem o calor na luva. A alternativa B afirma que baixar a temperatura aumenta a solubilidade, quando é o aquecimento que dissolve mais sal; C faz a solubilização liberar energia e aquecer o banho, invertendo o sinal; D diz que a solução regenerada fica diluída, quando ela volta a ser supersaturada; e E nega mudança de concentração, sendo a dissolução do precipitado justamente o que a altera."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "fuvest-quimica-25",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Um dos maiores desafios na agricultura é a manutenção da quantidade ideal de nutrientes no solo sem o uso excessivo de fertilizantes que podem ser lixiviados. Pensando nisso, uma equipe de pesquisadores da USP desenvolveu um novo vidro fertilizante: Nosso fertilizante é um material no estado vítreo (...) com concentrações adequadas de fósforo, silício e potássio (...) e apresenta solubilidade em água e no solo. (...) Diferente dos fertilizantes convencionais, que precisam ser aplicados repetidamente já que seus nutrientes são levados pela água da chuva ou perdidos para a atmosfera, os fertilizantes em vidro foram desenvolvidos para liberar nutrientes de forma controlada e prolongada. Disponível em https://www5.iqsc.usp.br/2025/. Adaptado.",
+   "enunciado": "Em comparação com fertilizantes tradicionais de dissolução rápida, os fertilizantes vítreos",
+   "alternativas": {
+    "a": "poluem mais os lençóis freáticos por liberar continuamente fósforo que não é absorvido pelas plantas e é tóxico para os seres humanos.",
+    "b": "não são eficazes, pois vidros são insolúveis e demoram mais de mil anos para serem degradados no solo.",
+    "c": "poluem menos os lençóis freáticos, pois a menor velocidade de liberação dos nutrientes permite que as plantas os absorvam antes de sofrer lixiviação.",
+    "d": "devem ser mais eficazes, pois liberam uma grande quantidade de nutrientes rapidamente, facilitando a absorção pelas plantas.",
+    "e": "devem possuir maior velocidade de liberação para que as plantas absorvam os nutrientes antes que ocorra a lixiviação."
+   },
+   "resposta": "c",
+   "explicacao": "O problema do fertilizante convencional é a velocidade: ele se dissolve de uma vez, a planta não absorve tudo e a chuva leva o excedente para o lençol freático. O vidro libera devagar e de forma prolongada, mantendo a concentração no solo próxima do que a raiz consegue captar — logo, menos lixiviação e menos poluição. A alternativa A o acusa de poluir mais; B o chama de insolúvel, contra o próprio texto; D atribui a ele liberação rápida e abundante, que é a característica do fertilizante tradicional; e E pede velocidade maior, invertendo a lógica do produto."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "fuvest-quimica-26",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A porcentagem em massa de fosfato (PO43-) numa amostra do vidro fertilizante é de 19%. A velocidade de dissolução desse vidro em água é constante e independente da massa inicial, sendo igual a 7,3 mg/h. Em um teste de dissolução, adicionou- se excesso dessa amostra de vidro fertilizante a 1 L de água e mediu-se a concentração de íons fosfato ao longo do tempo.\n\nNote e adote: Massa molar do fosfato = 95 g/mol.",
+   "enunciado": "A concentração de fosfato em mol/L obtida após 100 h de experimento foi",
+   "alternativas": {
+    "a": "1,46 × 10-3",
+    "b": "7,68 × 10-3",
+    "c": "139 × 10-3",
+    "d": "365 × 10-3",
+    "e": "730 × 10-3"
+   },
+   "resposta": "a",
+   "explicacao": "Em 100 horas, a uma taxa constante de 7,3 mg/h, dissolvem-se 730 mg de vidro. Como 19% dessa massa é fosfato, são 730 × 0,19 = 138,7 mg, ou 0,1387 g. Dividindo pela massa molar, 0,1387 ÷ 95 = 1,46 × 10⁻³ mol, num litro de água — logo 1,46 × 10⁻³ mol/L. O valor 7,68 × 10⁻³ sairia de dividir a massa total sem aplicar a porcentagem; 730 × 10⁻³ é a massa em miligramas tomada como concentração; e os intermediários vêm de esquecer a conversão de miligrama para grama."
   }
  ],
  "quimica-estequiometria": [
@@ -37194,6 +37494,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Com 1/3 de litro de vinagre e a proporção de 2 mol de CO2 para cada 3 litros, formam-se n = 2 × (1/3) ÷ 3 = 2/9 mol de gás. O gás ocupa o que sobra da garrafa: 2 − 1/3 = 5/3 L. Aplicando PV = nRT, P = (2/9 × 0,08 × 300) ÷ (5/3) = (16/3) × (3/5) = 3,2 atm. Os demais valores saem de errar uma das duas grandezas: contar o volume da garrafa inteira como espaço do gás, sem descontar o líquido, ou tomar os 2 mol da proporção como se fossem o total produzido."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fuvest-quimica-18",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Essa imagem, chamada de “A formatura da capivara”, foi gerada por Inteligência Artificial (IA). Em 2024 estimou- se que 30 milhões de imagens foram geradas diariamente no mundo utilizando modelos de IA a um gasto energético médio de 131 kJ por imagem. O uso intenso dessa tecnologia tem levado à reativação de usinas termoelétricas e à construção de novas usinas nucleares para suportar os servidores que realizam o processamento de IA.\n\nNote e adote: Massa molar (g/mol): C = 12; O = 16. Entalpia de combustão completa do carvão: ΔH = −393 kJ/mol.",
+   "enunciado": "Considerando que toda a energia para gerar essas imagens fosse proveniente da combustão completa de carvão, a pegada de carbono diária medida em toneladas de CO2 formado, resultante da produção dessas imagens, seria de",
+   "alternativas": {
+    "a": "0,2.",
+    "b": "10.",
+    "c": "150.",
+    "d": "280.",
+    "e": "440."
+   },
+   "resposta": "e",
+   "explicacao": "A energia diária é 30 × 10⁶ imagens × 131 kJ = 3,93 × 10⁹ kJ. Cada mol de carbono queimado libera 393 kJ, então são necessários 3,93 × 10⁹ ÷ 393 = 1,0 × 10⁷ mol de C. Na combustão completa, cada mol de carbono gera um mol de CO2, de massa molar 44 g/mol: 1,0 × 10⁷ × 44 = 4,4 × 10⁸ g, ou 440 toneladas. Os valores menores das outras alternativas saem de esquecer a conversão de gramas para toneladas ou de usar a massa molar do carbono no lugar da do CO2."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fuvest-quimica-22",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Quem viajou de avião já ouviu o famoso aviso: “Em caso de despressurização da cabine, máscaras de oxigênio cairão automaticamente acima do seu assento. Puxe uma das máscaras, coloque-a sobre o nariz e a boca e respire normalmente (...)”. Porém, ao invés de aviões conterem cilindros de oxigênio que alimentam as máscaras, esse gás é gerado por meio de uma reação química. No compartimento sobre cada passageiro encontra-se um reservatório contendo um sal como o clorato de sódio (NaC,O3) que, ao se decompor, produz oxigênio (O2), cloreto de sódio (NaC,) e calor. O clorato de sódio é estável em temperatura ambiente, e sua decomposição só se inicia quando o passageiro puxa a máscara, o que dispara um gatilho que gera calor suficiente para iniciar a reação que, então, se mantém autossuficiente até consumo total do reagente.\n\nNote e adote: Considere que a quantidade de matéria de oxigênio consumida é independente da altitude e que os passageiros continuam respirando normalmente. Volume molar ao nível do mar a 20 °C = 24 L/mol. Massa molar do NaClO3 = 106 g/mol.",
+   "enunciado": "A massa de clorato de sódio consumida na reação deve ser suficiente para gerar, no mínimo, 15 minutos de oxigênio, permitindo que a aeronave baixe sua altitude, restabelecendo a pressão da cabine. Calcule a massa de clorato de sódio mínima, em gramas, que deve ser utilizada por reservatório, para gerar oxigênio suficiente por 15 minutos, considerando que a taxa de respiração média de oxigênio de um adulto é de 1,2 L/min ao nível do mar a 20 °C.",
+   "alternativas": {
+    "a": "27",
+    "b": "53",
+    "c": "80",
+    "d": "94",
+    "e": "119"
+   },
+   "resposta": "b",
+   "explicacao": "Em 15 minutos a 1,2 L/min são consumidos 18 L de O2, que a 24 L/mol equivalem a 0,75 mol. A decomposição é 2 NaClO3 → 2 NaCl + 3 O2, ou seja, 3 mol de gás para cada 2 mol de sal: são necessários 0,75 × 2/3 = 0,50 mol de clorato. Multiplicando pela massa molar, 0,50 × 106 = 53 g. O valor 80 g sairia de tomar a proporção como um para um, e 27 g de invertê-la."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -38548,6 +38888,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A proposta fecha um ciclo: o carbono do metano veio da atmosfera na etapa I e volta a ela na queima, sem saldo positivo. É o mesmo raciocínio do etanol de cana, cujo carbono foi fixado pela fotossíntese antes de ser liberado no motor — daí a semelhança. A alternativa A faz o catalisador ser consumido e virar NaOH, quando catalisador se regenera; B afirma que a combustão do metano não emite CO2, e ela emite; C diz que a queima de 1 mol de CH4 libera mais CO2 do que o mol usado na síntese, e a proporção é de um para um; e D supõe que usar só o H2 retiraria mais CO2 da atmosfera, quando sem a etapa I não se retira nenhum."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-21",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Quem viajou de avião já ouviu o famoso aviso: “Em caso de despressurização da cabine, máscaras de oxigênio cairão automaticamente acima do seu assento. Puxe uma das máscaras, coloque-a sobre o nariz e a boca e respire normalmente (...)”. Porém, ao invés de aviões conterem cilindros de oxigênio que alimentam as máscaras, esse gás é gerado por meio de uma reação química. No compartimento sobre cada passageiro encontra-se um reservatório contendo um sal como o clorato de sódio (NaC,O3) que, ao se decompor, produz oxigênio (O2), cloreto de sódio (NaC,) e calor. O clorato de sódio é estável em temperatura ambiente, e sua decomposição só se inicia quando o passageiro puxa a máscara, o que dispara um gatilho que gera calor suficiente para iniciar a reação que, então, se mantém autossuficiente até consumo total do reagente.",
+   "enunciado": "Essa reação de geração de oxigênio",
+   "alternativas": {
+    "a": "é endotérmica, pois se inicia somente em altas temperaturas.",
+    "b": "é uma reação de oxirredução na qual o cloro é oxidado e o oxigênio é reduzido.",
+    "c": "deve possuir uma baixa energia de ativação para ser ativada nas baixas temperaturas das altitudes elevadas.",
+    "d": "deve ser exotérmica o suficiente para manter a temperatura alta após iniciada.",
+    "e": "é uma reação de oxirredução na qual o sódio é reduzido e o oxigênio é oxidado."
+   },
+   "resposta": "d",
+   "explicacao": "O texto diz que a decomposição só começa quando um gatilho gera calor suficiente e que, uma vez iniciada, ela \"se mantém autossuficiente até consumo total do reagente\". Uma reação que se sustenta sozinha precisa liberar mais energia do que consome para prosseguir: é exotérmica o bastante para manter a temperatura alta. A alternativa A a chama de endotérmica, confundindo energia de ativação alta com absorção líquida de calor; C pede baixa energia de ativação, o que tornaria o sal instável na prateleira; e B e E erram os números de oxidação, pois no clorato o cloro passa de +5 a −1, sendo reduzido, e o oxigênio de −2 a 0, sendo oxidado."
   }
  ],
  "gramatica-coesao-semantica": [
@@ -47312,6 +47672,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Dizer que quem mora em cidade grande \"não tem sotaque\" é o exemplo pedido: trata a fala de um grupo como neutra e, por consequência, a dos demais como desvio — que é exatamente o preconceito invisível de que Bagno fala, já que todo falante tem sotaque. As outras quatro alternativas enunciam fatos correntes da linguística: a língua é instrumento de sobrevivência social, varia com a sociedade, permite dizer a mesma ideia de vários modos e é dominada pelo falante nativo. Nenhuma delas hierarquiza variedades."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "fuvest-interpretacao-texto-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O carnaval, para além de ser a mais importante manifestação cultural brasileira, é o exercício concreto e sensível de vários direitos conquistados e consagrados. Ele celebra o direito à cidade, à manifestação, à associação e o direito à liberdade de expressão. Como festa pagã e sincrética, afirma o direito à liberdade religiosa sem ser proselitista e, como representação cultural, amplia o espaço cívico para combiná-lo com festividade, criatividade e liberdade artística e cultural. O carnaval, nas suas diversas facetas, é político. E essa característica não aparece somente nos debates promovidos através da festa, mas também pela possibilidade de desfrutar uma vida livre de censura de qualquer tipo por parte de pessoas de todas as regiões do país, em suas mais distintas realidades. Ocupar as ruas é um ato político. O lazer e a folia em espaço público, o exercício do direito à fruição e de produzir e consumir conteúdos culturais diversos também são. É ainda mais relevante o ato de externalizar e amplificar histórias, memórias e narrativas sobre grupos historicamente silenciados no país, como as populações negra, indígena e de tantas outras comunidades tradicionais. A manifestação política através de brincadeiras, danças, marchinhas, cantos e fantasias é das formas mais sublimes de expressão da aliança entre luta social, cultura e expressão estética. É a possibilidade que brasileiras e brasileiros encontram de, lutando por meio da arte, fazer ecoar uma voz esquecida no cotidiano. Artigo 19. 16/02/2024. Adaptado.",
+   "enunciado": "Ao afirmar que o carnaval é político, o texto objetiva",
+   "alternativas": {
+    "a": "ressaltar a necessidade da festa popular para que brasileiros e brasileiras possam ter algum momento de lazer.",
+    "b": "valorizar a ocupação do espaço público, resistindo contra aqueles que não são favoráveis à folia e ao consumo.",
+    "c": "criticar os vários direitos adquiridos pelas classes mais silenciadas da sociedade em sua luta social e cultural.",
+    "d": "defender posicionamentos e direitos por meio de formas de expressão culturais e artísticas.",
+    "e": "refletir, do ponto de vista sócio-histórico, sobre o consumo, que acentua as diferenças culturais e religiosas."
+   },
+   "resposta": "d",
+   "explicacao": "O texto lista o que a festa exerce — direito à cidade, à manifestação, à associação, à liberdade de expressão e religiosa — e fecha dizendo que lutar por meio da arte é como brasileiros fazem ecoar uma voz esquecida. Chamar o carnaval de político é, portanto, defender direitos e posições através de formas culturais e artísticas. A alternativa A reduz tudo à necessidade de lazer; B transforma a ocupação da rua em resistência contra quem não gosta de folia; C inverte o sinal e faz o texto criticar direitos conquistados; e E o desloca para uma reflexão sobre consumo que acentuaria diferenças."
   }
  ],
  "interpretacao-inferencia": [
@@ -51413,6 +51793,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O texto é costurado com versos alheios: “metamorfose ambulante” de Raul Seixas, “é pau, é pedra, é o fim do caminho” de Tom Jobim, “lanterna dos afogados” dos Paralamas, “levanta, sacode a poeira, dá a volta por cima” de Paulo Vanzolini. Ao defender que a música sustenta emocionalmente as pessoas, a autora prova o argumento com o próprio procedimento — as canções já estão na boca de todos. Essa retomada de outros textos é intertextualidade. A alternativa (b) isola uma única citação e a trata como figura da autora, quando ela é justamente um dos empréstimos."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "fuvest-interpretacao-texto-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Pouco antes de eu completar quatro anos de idade, nasceu nossa irmã mais nova, para quem eu escolhera o nome de Maria Bethânia, por causa de uma bela valsa do compositor pernambucano Capiba. Naturalmente todos achavam graça no fato de eu saber cantar canções de gente grande, e mais ainda na minha determinação de nomear minha irmãzinha segundo uma dessas canções. Mas ninguém se sentia com coragem de realmente pôr esse nome “tão pesado” num bebê. Como havia várias outras sugestões (iam de Cristina a Gislaine), meu pai resolveu escrever todos os nomes em pedacinhos de papel que, depois de dobrados, ele jogou na copa de meu pequeno chapéu de explorador e me deu para tirar na sorte. Saiu o da minha escolha. Meu pai então pôs um ar resignado (que era uma ordem para que todos também se resignassem) e disse: “Pronto. Agora tem que ser Maria Bethânia”. E saiu para registrar a recém-nascida com esse nome. Recentemente, ouvi de minhas irmãs mais velhas uma versão que diz que meu pai escrevera Maria Bethânia em todos os papéis. Não é de todo improvável. E, de fato, na expressão resignada de meu pai era visível – ainda hoje o é, na lembrança – um intrigante toque de humor. Mas, embora me encha de orgulho o pensamento de que meu pai possa ter trapaceado para me agradar, eu sempre preferi crer na autenticidade do sorteio: essa intervenção do acaso parece conferir mais realidade a tudo o que veio a se passar desde então, pois ela faz crescerem ao mesmo tempo as magias (que nos dão a impressão de se excluírem mutuamente) do presságio e da unicidade absolutamente gratuita de cada acontecimento. Caetano Veloso. Verdade tropical. São Paulo: Companhia das Letras, 1997. Adaptado.",
+   "enunciado": "No fragmento Mas ninguém se sentia com coragem de realmente pôr esse nome “tão pesado” num bebê, a expressão “tão pesado” aparece entre aspas porque o enunciador",
+   "alternativas": {
+    "a": "busca realçar o caráter denotativo da expressão, indicando sua concordância com ela.",
+    "b": "incorpora a expressão em seu discurso, mas quer caracterizá-la como de autoria alheia.",
+    "c": "procura assinalar que se trata de um eufemismo, deixando claro que não teria gostado do nome do bebê.",
+    "d": "quer explicitar ao leitor que consiste em um neologismo que demonstra sua afetividade diante da criança.",
+    "e": "visa esclarecer, em seu discurso, o significado do nome escolhido."
+   },
+   "resposta": "b",
+   "explicacao": "Caetano põe \"tão pesado\" entre aspas porque a avaliação não é dele: é a dos adultos que não tiveram coragem de dar o nome ao bebê. As aspas marcam a palavra alheia dentro do próprio discurso, distanciando o narrador do julgamento que ele apenas reporta. A alternativa A vê realce denotativo e concordância, quando há justamente distanciamento; C chama a expressão de eufemismo, e ela é literal; D fala em neologismo, e \"pesado\" é palavra corrente; e E supõe que as aspas esclarecem o significado do nome."
   }
  ],
  "interpretacao-estrutura-coesao": [
@@ -52628,6 +53028,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A questão pede a arquitetura do texto, e ela tem duas partes. Primeiro, uma retomada pessoal e afetiva de Dom Casmurro: os quinze anos do autor, a sedução dos olhos de ressaca, a indignação com o narrador que usurpa o discurso de Capitu. Depois, no fecho, o anúncio da solução formal — no livro dele, é Capitu quem narra, além-túmulo, como Brás Cubas. Ou seja: contextualização subjetiva e, ao final, o foco narrativo assumido. A alternativa (d) erra no fim, já que ele não reconsidera nada — arrisca-se e realiza; e a (c) supõe uma refutação dos elementos do romance que não ocorre."
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "fuvest-interpretacao-texto-4",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Pouco antes de eu completar quatro anos de idade, nasceu nossa irmã mais nova, para quem eu escolhera o nome de Maria Bethânia, por causa de uma bela valsa do compositor pernambucano Capiba. Naturalmente todos achavam graça no fato de eu saber cantar canções de gente grande, e mais ainda na minha determinação de nomear minha irmãzinha segundo uma dessas canções. Mas ninguém se sentia com coragem de realmente pôr esse nome “tão pesado” num bebê. Como havia várias outras sugestões (iam de Cristina a Gislaine), meu pai resolveu escrever todos os nomes em pedacinhos de papel que, depois de dobrados, ele jogou na copa de meu pequeno chapéu de explorador e me deu para tirar na sorte. Saiu o da minha escolha. Meu pai então pôs um ar resignado (que era uma ordem para que todos também se resignassem) e disse: “Pronto. Agora tem que ser Maria Bethânia”. E saiu para registrar a recém-nascida com esse nome. Recentemente, ouvi de minhas irmãs mais velhas uma versão que diz que meu pai escrevera Maria Bethânia em todos os papéis. Não é de todo improvável. E, de fato, na expressão resignada de meu pai era visível – ainda hoje o é, na lembrança – um intrigante toque de humor. Mas, embora me encha de orgulho o pensamento de que meu pai possa ter trapaceado para me agradar, eu sempre preferi crer na autenticidade do sorteio: essa intervenção do acaso parece conferir mais realidade a tudo o que veio a se passar desde então, pois ela faz crescerem ao mesmo tempo as magias (que nos dão a impressão de se excluírem mutuamente) do presságio e da unicidade absolutamente gratuita de cada acontecimento. Caetano Veloso. Verdade tropical. São Paulo: Companhia das Letras, 1997. Adaptado.",
+   "enunciado": "Caetano Veloso revela sua posição a respeito do fato narrado no fragmento Mas, embora me encha de orgulho o pensamento de que meu pai possa ter trapaceado para me agradar, eu sempre preferi crer na autenticidade do sorteio. Assinale a alternativa em que a paráfrase do excerto mantém o mesmo sentido do texto original.",
+   "alternativas": {
+    "a": "Eu sempre preferi crer na autenticidade do sorteio e sempre tive orgulho de meu pai, mesmo sabendo que ele possa ter trapaceado no sorteio para me agradar.",
+    "b": "Me enche de orgulho o pensamento de que meu pai trapaceou, mesmo que eu creia na autenticidade do sorteio para me agradar.",
+    "c": "Eu sempre preferi crer na autenticidade do sorteio, mas, mesmo com o pensamento de que meu pai trapaceou para me agradar, tenho orgulho dele.",
+    "d": "Uma vez acreditando na autenticidade do sorteio, penso que, para me agradar, meu pai pode ter trapaceado, o que me faz ter um pensamento cheio de orgulho.",
+    "e": "Eu, contudo, sempre preferi crer na autenticidade do sorteio, ainda que me encha de orgulho o pensamento de que, a fim de me agradar, meu pai possa ter trapaceado."
+   },
+   "resposta": "e",
+   "explicacao": "O original tem duas orações em relação concessiva: a concessão vem primeiro (\"embora me encha de orgulho...\") e a afirmação principal depois (\"eu sempre preferi crer\"). Só a alternativa E preserva essa hierarquia, trocando \"embora\" por \"ainda que\" e mantendo o crer como núcleo. As demais invertem o peso: A e C põem o orgulho como afirmação principal e ainda transformam a hipótese (\"possa ter trapaceado\") em fato consumado; B faz o mesmo e ainda desloca \"para me agradar\" para o sorteio; e D subordina a trapaça à crença no sorteio, o que contradiz o texto, já que uma coisa exclui a outra."
   }
  ],
  "interpretacao-ideia-central": [
@@ -55186,6 +55606,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O pesquisador diz ao fim da reportagem que usar o caldo direto \"evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol\". É esse o ganho ambiental: pulando a etapa de fermentação, o resíduo simplesmente não se forma. A alternativa A troca o argumento ambiental por barateamento; B afirma que a célula dispensa pilhas, quando o texto diz que ela funciona pelo mesmo princípio de uma pilha; D inventa economia de caldo; e E atribui o ganho ao fato de o Ipen não produzir em escala industrial, quando o plano é justamente levar a técnica à indústria."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "fuvest-interpretacao-texto-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "A escola não pode ignorar as diferenças sociolinguísticas. Os professores e, por meio deles, os alunos têm que estar bem conscientes de que existem duas ou mais maneiras de dizer a mesma coisa. E mais, que essas formas alternativas servem a propósitos comunicativos distintos e são recebidas de maneira diferenciada pela sociedade. Os alunos que chegam à escola falando “nós cheguemu”, “abrido” e “ele drome”, por exemplo, têm que ser respeitados e ver valorizadas as suas peculiaridades linguístico-culturais, mas têm o direito inalienável de aprender as variantes de prestígio dessas expressões. Não se lhes pode negar esse conhecimento, sob pena de se fecharem para eles as portas, já estreitas, da ascensão social. BORTONI-RICARDO, S. M. Nós cheguemos na escola, e agora? Sociolinguística & Educação. São Paulo: Parábola, 2005. Adaptado.",
+   "enunciado": "De acordo com o texto, cabe aos professores",
+   "alternativas": {
+    "a": "respeitar as variações linguísticas dos alunos, mas solicitar que eles utilizem a norma culta no ambiente escolar.",
+    "b": "incentivar o uso das variações regionais dos alunos, mas mostrar a eles que a escola recebe variantes de forma preconceituosa.",
+    "c": "respeitar as particularidades linguísticas dos alunos, mas dar a eles condições de aprender outras variantes.",
+    "d": "mostrar aos alunos que eles podem cometer erros em relação ao uso de verbos, mas que isso pode ser prejudicial à ascensão social.",
+    "e": "ensinar aos alunos a norma padrão da língua, mas permitir que eles cometam erros para não serem excluídos pela sociedade."
+   },
+   "resposta": "c",
+   "explicacao": "Bortoni-Ricardo pede as duas coisas ao mesmo tempo: que os alunos sejam respeitados e vejam valorizadas suas peculiaridades linguístico-culturais, e que tenham o direito inalienável de aprender as variantes de prestígio. Respeitar e ensinar, não escolher entre os dois. A alternativa A troca o respeito por uma exigência de norma culta na escola; B incentiva a variação mas atribui à escola o preconceito, quando o texto atribui à sociedade; D e E falam em \"erros\", categoria que o texto substitui por variantes, e E ainda propõe permitir o erro para evitar exclusão, invertendo o argumento da ascensão social."
   }
  ],
  "literatura-realismo-naturalismo": [
@@ -56848,6 +57288,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Rubião herda a fortuna de Quincas Borba e se lança a modernizar a própria vida na Corte; Gonçalo Ramires escreve a novela do antepassado e se mete na política para restaurar o nome da casa. Os dois se comprometem com a superação de um atraso — e os dois esbarram em sociedades, a brasileira e a portuguesa, que não acompanham o gesto: Rubião enlouquece, Gonçalo vai para a África e volta rico, destinos diferentes diante do mesmo descompasso. A alternativa A dá a Rubião uma ascensão burguesa que termina em loucura; B afirma reformas substanciais que nenhum dos dois realiza; C diz que os meios sociais privilegiam a virtude moral, quando privilegiam a aparência; e E garante que ambos atingem seus objetivos."
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "fuvest-literatura-20",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Sempre que brilha um novo dia, e que nos bate à porta o jornal, apoderamo-nos com solicitude dessa folha e avidamente percorremos a sessão das Câmaras do dia antecedente em procura do assunto que temos escrito no coração e no espírito - a educação da mulher brasileira -, e dobramos a folha desconsolados e aguardamos o dia seguinte, que se escoa na mesma expectativa, no mesmo desengano! (...) Um dia raiará mais propício para nós, em que os escolhidos da nação brasileira se dignem de achar a educação da mulher um objeto importante para dele ocuparem-se, com a circunspecção que merece. Nísia Floresta. Opúsculo Humanitário. Sonhando ser mestra, eu não imaginava o descanso, o repouso ameno que daria à minha mãe como recompensa dos grandes sacrifícios feitos por ela para meu bem-estar, eu não pensava em ser útil, em tornar-me necessária, imprescindível. Eu queria ser mestra para não morar em um cortiço mal- alumiado, infecto, úmido, nesta terra onde há tantas flores, tanta luz e tantas alegrias. O caso é que fosse qual fosse a mão que me escreveu no pensamento a resolução de vir a ser professora – pertencesse ela à tentação diabólica do luxo ou à compreensão de um dever –, fosse qual fosse, eu a abençoo. Julia Lopes de Almeida. Memórias de Martha.",
+   "enunciado": "A partir da leitura dos excertos e das obras citadas, é correto afirmar:",
+   "alternativas": {
+    "a": "Opúsculo Humanitário e Memórias de Martha são obras que defendem fortemente o abolicionismo e o acesso à educação pela população afrodescendente brasileira.",
+    "b": "Opúsculo Humanitário defende a modernização da política brasileira, e Memórias de Martha narra a ascensão social da protagonista por meio da sua profissionalização.",
+    "c": "Opúsculo Humanitário e Memórias de Martha, obras seminais do feminismo no Brasil, defendem a educação profissional feminina a fim de prepará-las para a sua emancipação econômica.",
+    "d": "Opúsculo Humanitário e Memórias de Martha destacam o espaço rural brasileiro como o lugar adequado para a emancipação feminina.",
+    "e": "Opúsculo Humanitário e Memórias de Martha são obras que reivindicam uma solução para as contradições sociais e econômicas do Brasil no século XIX, com ênfase na defesa da educação feminina."
+   },
+   "resposta": "e",
+   "explicacao": "Nísia Floresta cobra das Câmaras que a educação da mulher brasileira vire objeto de política; a narradora de Júlia Lopes de Almeida quer ser mestra para escapar do cortiço úmido e infecto. Nos dois casos a educação feminina aparece como resposta às contradições sociais e econômicas do Brasil oitocentista. A alternativa A põe o abolicionismo no centro, que nenhum dos trechos aborda; B restringe Nísia à modernização política; C fala em educação profissional para emancipação econômica, e o argumento é mais amplo que a profissionalização; e D situa a emancipação no espaço rural, quando as duas cenas são urbanas."
   }
  ],
  "literatura-colonial-romantismo": [
@@ -59366,6 +59826,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Naziazeno é funcionário público e é justamente isso que o romance põe em crise: o emprego é legítimo e estável, mas paga tão mal e vale tão pouco socialmente que não cobre a conta do leiteiro — a classe média baixa se vê marginalizada dentro do próprio trabalho formal. A alternativa A faz do emprego a solução do conflito, quando ele é a origem; B situa a cena entre homens livres recém-saídos da escravidão e personagens negros, que não são o foco; C promete ascensão social e desfecho positivo, e o romance termina sem saída; e E descreve o patrimonialismo de distribuição de cargos por apoio político, que não é a situação do protagonista."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "fuvest-literatura-21",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A jornada das mulheres pela igualdade de direitos no Brasil, como em outras partes do mundo, sempre envolveu lutas sociais, políticas e jurídicas, com marcos importantes como a Lei Geral de 1827, que permitiu o acesso das mulheres à educação, e a Constituição de 1934, que garantiu o direito ao voto feminino. A partir da década de 1960, houve avanços significativos, como o Estatuto da Mulher Casada (1962), que eliminou a necessidade de receber autorização do marido para diversas atividades, e, na década de 1970, a Lei do Divórcio (1977) e o fortalecimento dos movimentos feministas. As obras Caminho de pedras, de Rachel de Queiroz, e As meninas, de Lygia Fagundes Telles, discutem questões relativas aos direitos das mulheres e sua relação com a política ao longo do século XX no Brasil.",
+   "enunciado": "Sobre esses romances, é correto afirmar:",
+   "alternativas": {
+    "a": "Em Caminho de pedras, Rachel de Queiroz relaciona a luta pelos direitos da mulher à legalização do divórcio no Brasil, enquanto As meninas constitui um libelo pela educação feminina no período final da Era Vargas.",
+    "b": "As personagens Angelita, de Caminho de pedras, e Ana Clara, de As meninas, impactam a vida dos protagonistas de seus romances e representam a transformação da condição social das mulheres ao romperem com a configuração familiar tradicional.",
+    "c": "Em Caminho de pedras e em As meninas, a política (militância de esquerda) e a religião (internato de freiras) são instituições que, em vez de contribuírem para a revisão de valores morais e para a emancipação feminina, aprofundam os mecanismos de controle social sobre as mulheres.",
+    "d": "Tanto Caminho de pedras quanto As meninas relacionam o exercício da política coletiva (militância de esquerda, luta contra a ditadura militar) à política exercida em nível da vida privada e do cotidiano, por meio da trajetória de personagens femininas que desafiam padrões sociais estabelecidos.",
+    "e": "Tanto Caminho de pedras quanto As meninas exercem uma crítica à chamada “mulher burguesa”. O romance de Rachel de Queiroz narra os desdobramentos do desejo de ascensão social de Noemi, enquanto o de Lygia Fagundes Telles detalha o apego de Lorena à instituição do casamento."
+   },
+   "resposta": "d",
+   "explicacao": "Nos dois romances, a política pública invade a vida privada e vice-versa: Noemi milita à esquerda nos anos 1930 e é por isso que sua separação e seu novo amor viram escândalo; as três moças de Lygia atravessam a ditadura militar cada uma a seu modo, e Lia liga a luta armada ao próprio corpo e às próprias escolhas. Em ambos, personagens femininas desafiam padrões. A alternativa A liga Caminho de pedras ao divórcio, legalizado quarenta anos depois; B atribui às personagens Angelita e Ana Clara um papel que não têm; C faz política e religião apenas aprofundarem o controle, ignorando o que elas abrem; e E reduz os dois livros a uma crítica à mulher burguesa."
   }
  ],
  "literatura-teoria-analise": [
@@ -62832,6 +63312,86 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O poema percorre o ciclo inteiro: a violência que corrói a autoestima, o silêncio imposto, a denúncia, e enfim o reencontro consigo. No fim, o eu lírico abre a janela e diz \"seja bem-vinda\" — a quem? A si mesma, à \"nova mulher renascendo\" que acabou de contemplar. A saudação é de renascimento, não de aprisionamento (A) nem de aceitação (B) nem de rebaixamento (D), estágios que o texto atravessa e supera. E inverte o destinatário, fazendo entrar de volta o agressor, quando o verso anterior diz que ela escolhe quem anda com ela e quem convida a entrar."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-22",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Mwando está embasbacado com a descoberta do insólito do mundo. Como o Adão no Paraíso, a voz da serpente sugeriu-lhe a maçã, que lhe arrancou brutalmente a venda de todos os mistérios. Sim, escutou os lábios de uma mulher pronunciando em sussurros o seu nome, despertando-o do ventre fecundo da inocência. Mwando nasceu. Sente o coração a bater com força, mesmo à maneira do primeiro amor. (…) Procurou o refúgio do quarto e fechou-se. Estava transtornado. Sentia a sua devoção abalada pela paixão. Não conseguia fugir às tramas da serpente, a Sarnau arrastava-o cada vez mais para o abismo. Paulina Chiziane. Balada de amor ao vento.",
+   "enunciado": "Considerando a intertextualidade bíblica presente no excerto de Balada de amor ao vento, a experiência de Mwando é caracterizada",
+   "alternativas": {
+    "a": "por uma decepção com o mundo, causada pela perda da fé e pela compreensão da fragilidade das relações humanas, o que o levou a um isolamento resignado.",
+    "b": "pelo despertar sexual e pelo conhecimento, que rompem com um estado de inocência anterior, resultando em uma perturbação emocional e um conflito interior.",
+    "c": "pela superação de um trauma passado, sendo que a figura da cobra é o símbolo do obstáculo que foi vencido e que o conduz a um novo estágio de maturidade e paz.",
+    "d": "por um processo de profunda introspecção, no qual o amor é um caminho para a autodescoberta e transcendência espiritual, apesar das dificuldades iniciais.",
+    "e": "pela busca por um novo tipo de devoção religiosa, tendo a figura feminina como fonte de inspiração que o afasta ainda mais dos preceitos tradicionais e o aproxima de um paraíso utópico."
+   },
+   "resposta": "b",
+   "explicacao": "O trecho monta a cena do Éden: a serpente, a maçã, a venda arrancada, o despertar \"do ventre fecundo da inocência\". O que Mwando descobre é o desejo, e a descoberta o transtorna — ele se tranca no quarto e sente a devoção abalada pela paixão. Conhecimento e sexualidade rompendo a inocência, com conflito interior. A alternativa A fala em decepção e perda de fé com isolamento resignado, quando o que há é arrebatamento; C trata a serpente como obstáculo vencido e promete paz; D converte o episódio em transcendência espiritual; e E o transforma em nova devoção religiosa rumo a um paraíso utópico."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-23",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "As plantas viam o jardineiro como as plantas vêem. Não se sentiam agradecidas. Tratavam o seu regador à semelhança da chuva que caía sobre elas nas noites de Outono. Florescerem não era o seu meio de meterem conversa com o jardineiro, mas uma forma de acentuarem a sua indiferença à declaração de amor que ele cultivava a cada hora. Tanto lhes fazia serem cuidadas por um assassino, se eram sujas as mãos que as amparavam ou o que viera antes do amor que ele lhes dedicava. Seguiam‑no com o seu olhar sem julgamento, alheias a que, todas as manhãs, Celestino acordava por elas. Vigiavam os seus passos, pressentiam a sua presença, alegravam‑se de o ver, conheciam as suas rotinas. Sem que por um instante lhe sentissem a falta, ou se afligissem com as suas ausências ocasionais. Djaimilia Pereira de Almeida. A visão das plantas.",
+   "enunciado": "Considerando o trecho citado, depreende-se que o “olhar sem julgamento”",
+   "alternativas": {
+    "a": "expressa a piedade do jardim diante da condição de Celestino, que se encontra próximo da morte.",
+    "b": "expressa o terror das plantas por serem cuidadas por um criminoso que carrega atos extremos de violência praticados em seu passado.",
+    "c": "evidencia que a natureza está alheia às ações e sentimentos humanos, existindo à revelia da humanidade.",
+    "d": "é a retribuição ao cuidado cotidiano que as plantas recebem, reconhecendo que Celestino se redimiu de seu passado.",
+    "e": "evidencia a integração do jardineiro com o jardim, na medida em que dependem naturalmente um do outro para sobreviverem."
+   },
+   "resposta": "c",
+   "explicacao": "O narrador insiste que as plantas não agradecem, tratam o regador como tratariam a chuva e tanto lhes faz serem cuidadas por um assassino. O \"olhar sem julgamento\" é a medida dessa indiferença: a natureza segue sua própria lógica, alheia ao passado, à culpa e ao amor de Celestino. A alternativa A lê piedade onde há indiferença; B lê terror, e o texto diz expressamente que lhes \"tanto faz\"; D transforma o olhar em retribuição e redenção; e E propõe integração e dependência mútua, quando o trecho afirma que elas não sentem sua falta."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-24",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A família de Neide fazia questão de conservar o pomposo sobrenome, “Paranhos”, herdado dos tempos da escravatura. A manutenção do nome dos descendentes dos antigos colonizadores, cuja família era tradicional na cidade, para o clã descendente de africanos escravizados, ganhara um sentido de enfrentamento aos brancos “Paranhos”. Para além de ser um destino histórico, era uma velada reivindicação de uma fortuna familiar dos brancos, que em grande parte era de pertença dos negros “Paranhos”. Conceição Evaristo. Canção para ninar menino grande.",
+   "enunciado": "No excerto, o uso do mesmo nome por uma família branca e uma família negra indica",
+   "alternativas": {
+    "a": "a ascensão social dos “Paranhos” negros após o fim da escravidão, alcançada por meio dos programas governamentais de ajuda a ex-escravizados, e a decadência dos “Paranhos” brancos trazida pela crise do café.",
+    "b": "o racismo expresso nas ações e decisões das instituições políticas monárquicas, provenientes do período colonial, e a manutenção da dominação socioeconômica dos “Paranhos” negros pelos “Paranhos” brancos.",
+    "c": "a persistência de um vínculo desigual entre as famílias, oriundo do período da escravidão, e um esforço dos “Paranhos” negros de afirmar sua participação no enriquecimento dos “Paranhos” brancos.",
+    "d": "o esforço de construção de uma ordem social harmoniosa, desenvolvida durante a Primeira República, e a persistência de ressentimentos e rivalidades pessoais entre os “Paranhos” brancos e os “Paranhos” negros.",
+    "e": "a dependência financeira dos “Paranhos” negros em relação aos “Paranhos” brancos, provocada por sua condição de escravizados, e a valorização da mistura racial como característica de formação do povo brasileiro."
+   },
+   "resposta": "c",
+   "explicacao": "O sobrenome herdado dos senhores é a marca de um vínculo que a abolição não desfez, e conservá-lo virou enfrentamento: ao carregar \"Paranhos\", a família negra reivindica, veladamente, a parte da fortuna que ela própria produziu. Persistência da desigualdade mais afirmação de participação no enriquecimento alheio. A alternativa A inventa programas governamentais de ajuda a ex-escravizados; B fala em instituições monárquicas e inverte quem domina quem; D descreve uma ordem harmoniosa da Primeira República e reduz o conflito a ressentimento pessoal; e E converte a reivindicação em dependência financeira e elogio da mistura racial."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-25",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Quando no dia seguinte, também no final da tarde, Fio Jasmim se dirigiu para a pequena joalheria, ele pensou em ser mais cuidadoso ao pronunciar qualquer nome de mulher perto de Dolores dos Santos. Quando contou o incidente para os companheiros maquinistas, os mais velhos riram dele e perguntaram qual o motivo de ele estar tão preocupado com a pequena distração cometida. Nem ele sabia bem o porquê. Entretanto, não gostava de pronunciar o nome da esposa para outras mulheres. A de casa é santa, pensava ele. Se ele tivesse dito pelo menos Juventina, seria mais fácil explicar. Assustado com o próprio pensamento, Fio Jasmim não entendia o que estava se passando com ele. Estaria por acaso pensando em alguma conquista? Ouvira dizer que ela era uma mulher namoradeira, mas que não parava com homem algum, tinha um gênio indomável. Todas essas considerações não lhe importavam, não estava interessado na mulher. Mas e se ela estivesse interessada nele... Conceição Evaristo. Canção para ninar menino grande. No romance de Conceição Evaristo, Fio Jasmim, por meio de suas viagens, é o elo que agrega as várias personagens femininas que se relacionam com ele.",
+   "enunciado": "De acordo com essa consideração, Fio Jasmim",
+   "alternativas": {
+    "a": "atende a uma forma de masculinidade que rompe com os estereótipos, expressando uma identidade inovadora e desvinculada das expectativas sociais.",
+    "b": "relaciona-se com as personagens femininas de maneira igualitária e com respeito mútuo, que não correspondem às dinâmicas de poder desiguais.",
+    "c": "reproduz uma masculinidade estereotipada por meio de atitudes que, em larga medida, atendem às expectativas sociais e culturais, reproduzindo estereótipos do gênero.",
+    "d": "resiste a expectativas internas e externas, o que subverte um esperado comportamento masculino.",
+    "e": "sente culpa e arrependimento por seu comportamento com mulheres, apesar de reforçar ideais de virilidade e dominação do estereótipo da masculinidade."
+   },
+   "resposta": "c",
+   "explicacao": "Fio Jasmim guarda o nome da esposa dos ouvidos de outras mulheres porque \"a de casa é santa\", separa as mulheres entre a santa e a namoradeira, e já se pergunta sobre uma conquista sem admitir interesse. São gestos de manual: a divisão entre a esposa idealizada e a outra disponível, e o desejo travestido de acaso. É masculinidade estereotipada, atendendo às expectativas sociais. As alternativas A e D o apresentam como ruptura ou resistência a esse padrão; B fala em relações igualitárias e respeito mútuo; e E lhe atribui culpa e arrependimento, que o trecho não mostra — ele apenas não entende o que se passa consigo."
   }
  ],
  "ingles-inference": [
@@ -66097,6 +66657,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "\"If comfort is a construct, I don't believe in good luck\": chamar o conforto de construto é dizer que ele não é dado do mundo, e sim algo montado socialmente — uma promessa de segurança que a letra desconfia ser falsa, tanto que o verso seguinte descarta também a boa sorte. A alternativa A descreve os jardins secretos da mente, que são o refúgio, não o conforto criticado; B liga o conforto às experiências infantis, e a infância aparece só na leitura precoce; C o faz depender da realidade concreta, o oposto de construto; e D o converte em dificuldade de autoafirmação."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "fuvest-ingles-19",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "During the nineteen-seventies and eighties, a researcher at the University of Washington started noticing something strange in the college’s experimental forest. For years, a blight of caterpillars had been munching the trees to death. Then, suddenly, the caterpillars themselves started dying off. The forest was able to recover. But what had happened to the caterpillars? The researcher, David Rhoades, who had a background in chemistry and zoology, found that the trees in the forest had changed the chemistry of their leaves, to the detriment of the caterpillars. Even more surprising, trees that had been nibbled by caterpillars weren’t the only ones that had changed their chemistry. Some were changing their leaves before caterpillars reached them, as if they’d received a warning. A shocking possibility presented itself: the trees were signalling to one another. Zoë Schlanger recounts Rhoades’s story in her new book, “The Light Eaters: How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth.” The contemporary world of botany that Schlanger explores in “The Light Eaters” is still divided over the matter of how plants sense the world and whether they can be said to communicate. But, in the past twenty years, the idea that plants communicate has gained broader acceptance. Research in recent decades has shown garden-variety lima beans protecting themselves by synthesizing and releasing chemicals to summon the predators of the insects that eat them; lab-grown pea shoots navigating mazes and responding to the sound of running water; and a chameleonic vine in the jungles of Chile mimicking the shape and color of nearby plants by a mechanism that’s not yet understood. Schlanger acknowledges that some of the research yields as many questions as answers. It’s not clear how the vine gathers information about surrounding plants to perform its mimicry. New Yorker. 12 June 2024. Adaptado.",
+   "enunciado": "O caso da vinha chilena apresentado no texto suscita questionamentos científicos quanto",
+   "alternativas": {
+    "a": "à capacidade de adaptar seu ciclo reprodutivo às condições ecológicas.",
+    "b": "à dependência de polinizadores para manter sua plasticidade fenotípica.",
+    "c": "à influência da altitude na coloração e textura das folhas imitadas.",
+    "d": "ao papel da simbiose com fungos na alteração morfológica.",
+    "e": "ao modo como o vegetal reproduz características visuais de espécies vizinhas."
+   },
+   "resposta": "e",
+   "explicacao": "O texto cita \"a chameleonic vine in the jungles of Chile mimicking the shape and color of nearby plants by a mechanism that's not yet understood\" e reforça no fim: não se sabe como a trepadeira reúne informação sobre as plantas ao redor para executar o mimetismo. A pergunta científica em aberto é, portanto, o modo como ela reproduz as características visuais das vizinhas. As demais alternativas propõem hipóteses que o texto não levanta: ciclo reprodutivo, polinizadores, altitude e simbiose com fungos."
   }
  ],
  "ingles-grammar-structure": [
@@ -71195,6 +71775,166 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O texto lista o que puxa a Terra na \"complicated gravitational dance\": a Lua, o Sol, as marés oceânicas, a atmosfera e o movimento do núcleo interno sólido. Entre as cinco alternativas, só as marés dos oceanos aparecem nessa lista. Terremotos, vulcões, avalanches e ciclones são fenômenos naturais reais, mas nenhum é citado no texto como parte da interação gravitacional que afeta a rotação."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-11",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere o texto a seguir: Ice flows across Antarctica and continues to do so as it reaches the edge of the land mass and extends over the ocean. The huge floating tongues of ice often remain attached to the continent. Anything that remains grounded on the land is part of the Antarctic ice sheet; the floating part is an ice shelf. Floating ice shelves surround three-quarters of Antarctica’s coast and make up about 11% of its total area. One of the largest, the Ross Ice Shelf, is roughly the size of France. The George VI Ice Shelf is shown in the image, taken by NASA’s Landsat 8 in January 2020. It may seem intuitive that all the ice added to the ocean from melting ice shelves would raise global sea level, but that’s not the case. By Archimedes’s principle, ice shelves floating on the water have already displaced their own weight, so their disintegration or melting won’t change the water level. Ice shelves do, however, regulate the speed of glaciers on Antarctica’s land. Ice shelves act to hold glaciers back. Take the shelf away, and the glaciers are free to speed up and flow into the ocean. Any ice and liquid water that the glaciers take with them will raise sea level. Of Earth’s fresh water, 70% is stored in Antarctica’s ice; that is the equivalent of about 58 meters of sea-level rise if all of it were to melt. Buzzard, S. “The surface hydrology of Antarctica’s floating ice”. Physics Today 75, 28-33 (2022). Adaptado.",
+   "enunciado": "Segundo o texto, é correto afirmar:",
+   "alternativas": {
+    "a": "A área da superfície de gelo já derretido é aproximadamente do tamanho da França.",
+    "b": "O princípio de Arquimedes afirma que as plataformas de gelo possuem uma força de empuxo muito menor que seu peso e, portanto, flutuam.",
+    "c": "Plataformas de gelo são importantes porque atuam para regular a velocidade das geleiras na Antártida.",
+    "d": "Plataformas de gelo flutuantes são relevantes porque representam três quartos da área total da Antártida.",
+    "e": "O princípio de Arquimedes não se aplica no caso do derretimento do gelo flutuando na costa antártica."
+   },
+   "resposta": "c",
+   "explicacao": "O texto é explícito: \"Ice shelves do, however, regulate the speed of glaciers on Antarctica's land. Ice shelves act to hold glaciers back.\" Elas seguram as geleiras — e é por isso que importam, já que o derretimento delas próprias não muda o nível do mar. A alternativa A confunde a plataforma Ross, comparada em tamanho à França, com gelo já derretido; B inverte Arquimedes, cujo princípio diz que o empuxo iguala o peso do líquido deslocado; D transforma os três quartos da COSTA cercada por plataformas em três quartos da ÁREA total, que o texto dá como 11%; e E nega a aplicação do princípio, que o texto usa justamente para explicar por que o degelo flutuante não eleva o mar."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-12",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Our planet is home to subterranean lava deposits and smatterings of obsidian—black volcanic glass. Scalding groundwater bubbles to the surface in places. In such a landscape, you remember that the planet’s hard exterior is so thin that we call it a crust. Its superheated interior burns with an estimated forty-four trillion watts of power. Heat mined from underground is called geothermal and can be used to produce steam, spin a turbine, and generate electricity. Until recently, humans have tended to harvest small quantities in the rare places where it surfaces, such as hot springs. The biggest drawback is drilling miles through hot rock, safely. If scientists can do that, next-generation geothermal power could supply clean energy for eons. Right now, geothermal energy meets a puny portion of humanity’s electricity and heating needs. Fossil fuels power about eighty per cent of human activity, pumping out carbon dioxide and short-circuiting our climate to catastrophic effect. Converts argue that geothermal checks three key boxes: it is carbon-free, available everywhere, and effectively unlimited. It is also baseload, which means that, unlike solar panels or wind, it provides a steady flow of energy. “Over the last two years, I have watched this exponential spin- up of activity in geothermal,” a drilling expert said. But there is a risk of moon shots: often, they miss. “There’s basically zero chance that you’re going to develop a moon-shot technology and have it be commercial in five years, on a large-scale”, said Mark Jacobson, an engineering professor. That’s how long humanity has to lower emissions before climatic devastation. “There’s a very decent chance you can do that with wind and solar,” he said. Perhaps, when resources and time are finite, trying and failing could be worse than not trying at all. New Yorker. March 2025. Adaptado.",
+   "enunciado": "De acordo com o texto, atualmente a exploração do calor gerado nas regiões subterrâneas do planeta",
+   "alternativas": {
+    "a": "atende a uma parcela insignificante da demanda energética da sociedade.",
+    "b": "pode ser utilizada através de um aparato tecnológico de baixo custo.",
+    "c": "oferece vantagens ambientais limitadas em relação a outras fontes de energia renováveis.",
+    "d": "utiliza métodos desenvolvidos nas pesquisas científicas sobre a superfície lunar.",
+    "e": "proporciona utilidade prática restrita do ponto de vista da produção industrial."
+   },
+   "resposta": "a",
+   "explicacao": "\"Right now, geothermal energy meets a puny portion of humanity's electricity and heating needs\" — puny é ínfimo, e o texto contrapõe isso aos 80% da atividade humana movidos por combustíveis fósseis. A alternativa B fala em aparato de baixo custo, quando o próprio texto aponta a perfuração de quilômetros de rocha quente como o maior obstáculo; C atribui vantagens ambientais limitadas, e o texto a descreve como livre de carbono, disponível em toda parte e de fluxo constante; D confunde \"moon shot\", metáfora para aposta arriscada, com pesquisa lunar; e E restringe a utilidade prática à produção industrial."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-13",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Nearly a century ago, Edwin Hubble discovered that the universe is getting larger. Modern measurements of how fast it is expanding disagree, however, suggesting that our understanding of the laws of physics might be off. Everyone expected the sharp vision of the James Webb Space Telescope to bring the answer into focus. But a long-awaited analysis of the telescope’s observations released late Monday evening once again gleans conflicting expansion rates from different types of data, while homing in on possible sources of error at the heart of the conflict. Two rival teams have led the effort to measure the cosmic expansion rate, which is known as the Hubble constant, or H0. One of these teams, led by Adam Riess of Johns Hopkins University, has consistently measured H0 to be about 8 percent higher than the theoretical prediction for how fast space should be expanding, based on the cosmos’s known ingredients and governing equations. This discrepancy, known as the Hubble tension, suggests that the theoretical model of the cosmos might be missing something—some extra ingredient or effect that speeds up cosmic expansion. Riess and his team released their latest measurement of H0 based on Webb data this spring, getting a value that agrees with their earlier estimates. But for years a rival team led by Wendy Freedman of the University of Chicago has urged caution, arguing that cleaner measurements were needed. Her team’s own measurements of H0 have invariably landed closer than Riess’ to the theoretical prediction, implying that the Hubble tension may not be real. Since the Webb telescope started taking data in 2022, the astrophysics community has awaited Freedman’s multipronged analysis using the telescope’s observations of three types of stars. Now, the results are in: Two types of stars yield H0 estimates that align with the theoretical prediction, while the third—the same type of star Riess uses—matches his team’s higher H0 value. Disponível em https://wired.com/. 08 Sep 2024. Adaptado.",
+   "enunciado": "Com base no texto, a principal expectativa em relação ao telescópio James Webb estava associada a",
+   "alternativas": {
+    "a": "esclarecer as divergências nas medições da constante de Hubble por meio de observações mais precisas.",
+    "b": "substituir os métodos tradicionais por novas equações que descrevem a expansão do universo.",
+    "c": "comprovar a superioridade das estimativas obtidas pela equipe de Freedman.",
+    "d": "medir a distância entre galáxias utilizando parâmetros inéditos.",
+    "e": "determinar se o universo tem como característica crescer de modo infinito."
+   },
+   "resposta": "a",
+   "explicacao": "O texto diz que medições modernas da taxa de expansão discordam entre si e que \"everyone expected the sharp vision of the James Webb Space Telescope to bring the answer into focus\" — a expectativa era que a nitidez do telescópio resolvesse a divergência sobre a constante de Hubble. A alternativa B fala em substituir métodos por novas equações; C toma partido pela equipe de Freedman, quando a expectativa era neutra; D fala em parâmetros inéditos de distância entre galáxias; e E desloca a questão para saber se o universo cresce infinitamente, que não é o objeto da tensão de Hubble."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-14",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Nearly a century ago, Edwin Hubble discovered that the universe is getting larger. Modern measurements of how fast it is expanding disagree, however, suggesting that our understanding of the laws of physics might be off. Everyone expected the sharp vision of the James Webb Space Telescope to bring the answer into focus. But a long-awaited analysis of the telescope’s observations released late Monday evening once again gleans conflicting expansion rates from different types of data, while homing in on possible sources of error at the heart of the conflict. Two rival teams have led the effort to measure the cosmic expansion rate, which is known as the Hubble constant, or H0. One of these teams, led by Adam Riess of Johns Hopkins University, has consistently measured H0 to be about 8 percent higher than the theoretical prediction for how fast space should be expanding, based on the cosmos’s known ingredients and governing equations. This discrepancy, known as the Hubble tension, suggests that the theoretical model of the cosmos might be missing something—some extra ingredient or effect that speeds up cosmic expansion. Riess and his team released their latest measurement of H0 based on Webb data this spring, getting a value that agrees with their earlier estimates. But for years a rival team led by Wendy Freedman of the University of Chicago has urged caution, arguing that cleaner measurements were needed. Her team’s own measurements of H0 have invariably landed closer than Riess’ to the theoretical prediction, implying that the Hubble tension may not be real. Since the Webb telescope started taking data in 2022, the astrophysics community has awaited Freedman’s multipronged analysis using the telescope’s observations of three types of stars. Now, the results are in: Two types of stars yield H0 estimates that align with the theoretical prediction, while the third—the same type of star Riess uses—matches his team’s higher H0 value. Disponível em https://wired.com/. 08 Sep 2024. Adaptado.",
+   "enunciado": "De acordo com o texto, a abordagem metodológica da equipe de Adam Riess",
+   "alternativas": {
+    "a": "mantém as previsões do modelo consolidado pela ciência.",
+    "b": "utiliza número limitado de simulações de computador para estimar a constante de Hubble.",
+    "c": "obtém dados observacionais para confrontar previsões teóricas.",
+    "d": "faz uso exclusivo de dados do Telescópio Espacial James Webb.",
+    "e": "rejeita equações conhecidas e proposição de novas leis físicas."
+   },
+   "resposta": "c",
+   "explicacao": "A equipe de Riess mede H0 a partir de observações e encontra um valor cerca de 8% acima da previsão teórica, e é esse confronto entre dado observado e modelo que sustenta a tensão de Hubble. A alternativa A diz que ele mantém as previsões do modelo consolidado, quando são as medições de Freedman que ficam próximas delas; B fala em simulações de computador, que o texto não menciona; D restringe o método a dados do Webb, mas Riess já tinha estimativas anteriores confirmadas por ele; e E afirma que ele rejeita as equações conhecidas, quando o texto apenas sugere que o modelo pode estar faltando algum ingrediente."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-15",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Researchers investigated the quantities of thousands of muscle proteins and found a possible new explanation for muscle memory. A study showed for the first time that muscles \"remember\" training at the protein level. It is often thought that the effects of exercise are short-lived, and a break from the gym can cause stress over muscle loss. However, the research has shown that this stress is partly unnecessary, as the effects of resistance training persist in muscles for up to two months and the gains are fast when training is started again. But what mechanisms and changes at the cellular and molecular levels explain muscle memory? In the study, ten weeks of resistance training was followed by a break of the same length and then followed by another ten weeks of resistance training. Using the proteomics method, it was possible to study the quantities of over 3,000 muscle proteins using advanced mass spectrometry equipment. The study found two types of change profiles in muscle proteins. Some proteins changed as a result of training, returned to their pre-training state during the break, and changed again during the new training period similarly to the first training period. These included proteins related to aerobic metabolism. Another group of proteins changed as a result of training and remained changed during the break and after the new training period. Among these proteins were several calcium-binding proteins, such as calpain-2, whose gene has recently been identified to retain a memory trace even after a training break. \"At the level of the number of muscle nuclei and the memory traces of genes, that is, epigenetics, long-term responses that persist even after a break and possibly explain 'muscle memory' have previously been observed,\" says a researcher. \"Now, for the first time, we have shown that muscles 'remember' previous resistance training at the protein level for at least two and a half months.\" Disponível em https://jyu.fi/en/news/. 14 April 2025. Adaptado.",
+   "enunciado": "Segundo o texto, os experimentos demonstram que",
+   "alternativas": {
+    "a": "a prática de esportes ativa genes através da mudança do código genético.",
+    "b": "as quantidades de proteínas musculares apresentam mudanças após a atividade física.",
+    "c": "a epigenética refuta a hipótese da ação da memória muscular após treinos leves.",
+    "d": "as proteínas relacionadas ao metabolismo aeróbico ativam mudanças irreversíveis.",
+    "e": "os métodos da proteômica dificultam a caracterização das proteínas e suas interações."
+   },
+   "resposta": "b",
+   "explicacao": "O estudo usou proteômica para medir mais de três mil proteínas musculares e encontrou dois perfis de mudança: um que volta ao estado anterior durante a pausa e outro que permanece alterado. Nos dois casos, o que se mediu foi a variação nas quantidades de proteína depois do treino. A alternativa A afirma que o esporte muda o código genético, e o texto fala em epigenética, que altera a expressão sem mudar a sequência; C usa a epigenética para refutar a memória muscular, quando ela a sustenta; D chama de irreversíveis as proteínas do metabolismo aeróbico, que são justamente as que retornam ao estado inicial; e E diz que a proteômica dificulta a caracterização, sendo ela o método que a tornou possível."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-16",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Think for a minute about the little bumps on your tongue. You probably saw a diagram of those taste bud arrangements once in a biology textbook — sweet sensors at the tip, salty on either side, sour behind them, bitter in the back. But the idea that specific tastes are confined to certain areas of the tongue is a myth that “persists in the collective consciousness, despite decades of research debunking it”, according to a review published this month in The New England Journal of Medicine. Also wrong: the notion that taste is limited to the mouth. The old diagram, which has been used in many textbooks over the years, originated in a study published by David Hanig, a German scientist, in 1901. But the scientist was not suggesting that various tastes are segregated on the tongue. He was actually measuring the sensitivity of different areas, said Paul Breslin, a researcher at Monell Chemical Senses Center in Philadelphia. “What he found was that you could detect things at a lower concentration in one part relative to another,” Dr. Breslin said. The tip of the tongue, for example, is dense with sweet sensors but contains the others as well. The map’s mistakes are easy to confirm. If you place a lemon wedge at the tip of your tongue, it will taste sour, and if you put a bit of honey toward the side, it will be sweet. The perception of taste is a remarkably complex process, starting from that first encounter with the tongue. Taste cells have a variety of sensors that signal the brain when they encounter nutrients or toxins. For some tastes, tiny pores in cell membranes let taste chemicals in. Such taste receptors aren’t limited to the tongue; they are also found in the gastrointestinal tract, liver, pancreas, fat cells, brain, muscle cells, thyroid and lungs. We don’t generally think of these organs as tasting anything, but they use the receptors to pick up the presence of various molecules and metabolize them, said Diego Bohórquez, a self-described gut-brain neuroscientist at Duke University. For example, when the gut notices sugar in food, it tells the brain to alert other organs to get ready for digestion. New York Times. May 29, 2024. Adaptado.",
+   "enunciado": "Sobre os receptores gustativos e sua distribuição corporal, o texto sugere que",
+   "alternativas": {
+    "a": "certas áreas da língua identificam gostos específicos, como doce na ponta e azedo no fundo.",
+    "b": "o comportamento alimentar é moldado por padrões fixados na infância.",
+    "c": "a percepção gustativa reforça o prazer estético associado aos hábitos nutricionais.",
+    "d": "a detecção de sabores envolve rede integrada de órgãos que colaboram com o sistema nervoso.",
+    "e": "a função dos sensores extraorais restringe-se à regulação da glicemia."
+   },
+   "resposta": "d",
+   "explicacao": "O texto derruba duas ideias de uma vez: a do mapa da língua e a de que o paladar se limita à boca. Receptores gustativos estão também no trato gastrointestinal, no fígado, no pâncreas, nas células de gordura, no cérebro, nos músculos, na tireoide e nos pulmões — e o intestino, ao notar açúcar, avisa o cérebro para preparar os demais órgãos. É uma rede integrada que conversa com o sistema nervoso. A alternativa A repete o mito do mapa; B e C introduzem hábitos e prazer estético, que o texto não trata; e E limita os sensores extraorais à glicemia, quando eles detectam nutrientes e toxinas em geral."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-17",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Think for a minute about the little bumps on your tongue. You probably saw a diagram of those taste bud arrangements once in a biology textbook — sweet sensors at the tip, salty on either side, sour behind them, bitter in the back. But the idea that specific tastes are confined to certain areas of the tongue is a myth that “persists in the collective consciousness, despite decades of research debunking it”, according to a review published this month in The New England Journal of Medicine. Also wrong: the notion that taste is limited to the mouth. The old diagram, which has been used in many textbooks over the years, originated in a study published by David Hanig, a German scientist, in 1901. But the scientist was not suggesting that various tastes are segregated on the tongue. He was actually measuring the sensitivity of different areas, said Paul Breslin, a researcher at Monell Chemical Senses Center in Philadelphia. “What he found was that you could detect things at a lower concentration in one part relative to another,” Dr. Breslin said. The tip of the tongue, for example, is dense with sweet sensors but contains the others as well. The map’s mistakes are easy to confirm. If you place a lemon wedge at the tip of your tongue, it will taste sour, and if you put a bit of honey toward the side, it will be sweet. The perception of taste is a remarkably complex process, starting from that first encounter with the tongue. Taste cells have a variety of sensors that signal the brain when they encounter nutrients or toxins. For some tastes, tiny pores in cell membranes let taste chemicals in. Such taste receptors aren’t limited to the tongue; they are also found in the gastrointestinal tract, liver, pancreas, fat cells, brain, muscle cells, thyroid and lungs. We don’t generally think of these organs as tasting anything, but they use the receptors to pick up the presence of various molecules and metabolize them, said Diego Bohórquez, a self-described gut-brain neuroscientist at Duke University. For example, when the gut notices sugar in food, it tells the brain to alert other organs to get ready for digestion. New York Times. May 29, 2024. Adaptado.",
+   "enunciado": "O texto informa que, de acordo com Paul Breslin, a interpretação do estudo de Hanig foi equivocada, porque",
+   "alternativas": {
+    "a": "a representação gráfica dos resultados foi elaborada décadas depois sem base científica.",
+    "b": "o autor original investigou limiares de sensibilidade, sem defender a exclusividade de sabores em regiões da língua.",
+    "c": "o foco da pesquisa foi o comportamento alimentar em diferentes culturas.",
+    "d": "o objetivo central concentrou-se na classificação bioquímica dos receptores gustativos.",
+    "e": "a análise dos dados priorizou a resposta cerebral em vez de aspectos periféricos."
+   },
+   "resposta": "b",
+   "explicacao": "Breslin explica que Hanig não propunha segregação de sabores: ele media sensibilidade. \"What he found was that you could detect things at a lower concentration in one part relative to another\" — a ponta da língua é densa em sensores de doce, mas contém todos os outros. O erro está na leitura posterior, não no estudo. A alternativa A culpa uma representação gráfica feita décadas depois sem base científica, e o diagrama saiu do próprio dado; C e D deslocam o foco da pesquisa para cultura alimentar e bioquímica dos receptores; e E fala em priorizar a resposta cerebral, que não é o que Hanig media."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-18",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "During the nineteen-seventies and eighties, a researcher at the University of Washington started noticing something strange in the college’s experimental forest. For years, a blight of caterpillars had been munching the trees to death. Then, suddenly, the caterpillars themselves started dying off. The forest was able to recover. But what had happened to the caterpillars? The researcher, David Rhoades, who had a background in chemistry and zoology, found that the trees in the forest had changed the chemistry of their leaves, to the detriment of the caterpillars. Even more surprising, trees that had been nibbled by caterpillars weren’t the only ones that had changed their chemistry. Some were changing their leaves before caterpillars reached them, as if they’d received a warning. A shocking possibility presented itself: the trees were signalling to one another. Zoë Schlanger recounts Rhoades’s story in her new book, “The Light Eaters: How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth.” The contemporary world of botany that Schlanger explores in “The Light Eaters” is still divided over the matter of how plants sense the world and whether they can be said to communicate. But, in the past twenty years, the idea that plants communicate has gained broader acceptance. Research in recent decades has shown garden-variety lima beans protecting themselves by synthesizing and releasing chemicals to summon the predators of the insects that eat them; lab-grown pea shoots navigating mazes and responding to the sound of running water; and a chameleonic vine in the jungles of Chile mimicking the shape and color of nearby plants by a mechanism that’s not yet understood. Schlanger acknowledges that some of the research yields as many questions as answers. It’s not clear how the vine gathers information about surrounding plants to perform its mimicry. New Yorker. 12 June 2024. Adaptado.",
+   "enunciado": "Conforme o texto, a experiência conduzida por David Rhoades, na floresta experimental da Universidade de Washington, tornou-se marcante para a botânica, por revelar a",
+   "alternativas": {
+    "a": "dependência das árvores de inimigos naturais para a manutenção do equilíbrio das florestas.",
+    "b": "alteração da composição das folhas, capaz de comprometer a sobrevivência de insetos herbívoros.",
+    "c": "variabilidade das lagartas como fator decisivo para a resiliência dos ecossistemas.",
+    "d": "influência determinante da fertilidade do solo na recuperação da vegetação.",
+    "e": "oscilação natural das populações de pragas como causa da regeneração florestal."
+   },
+   "resposta": "b",
+   "explicacao": "Rhoades descobriu que as árvores da floresta experimental haviam mudado a química das próprias folhas \"to the detriment of the caterpillars\" — e as lagartas começaram a morrer. É a alteração da composição foliar comprometendo a sobrevivência do herbívoro, e o achado ficou marcante porque árvores ainda não atacadas também mudaram, como se avisadas. A alternativa A fala em inimigos naturais, que aparecem no exemplo do feijão-de-lima, não neste; C atribui a resiliência à variabilidade das lagartas; D introduz fertilidade do solo; e E explica tudo pela oscilação natural das pragas, que é exatamente a hipótese que a descoberta afasta."
   }
  ],
  "ingles-vocabulary": [

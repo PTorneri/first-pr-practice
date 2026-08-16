@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "filosofia-sociologia",
- "total": 447,
+ "total": 452,
  "residuo": [
   "dir-filosofia-sociologia-81",
   "dir-filosofia-sociologia-97",
@@ -2664,6 +2664,34 @@
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
    "margem": 5
+  },
+  "fuvest-filosofia-sociologia-12": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "fuvest-filosofia-sociologia-13": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "fuvest-filosofia-sociologia-14": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "fuvest-filosofia-sociologia-15": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "fuvest-filosofia-sociologia-16": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
   }
  }
 }

@@ -9167,6 +9167,177 @@
    },
    "resposta": "b",
    "explicacao": "Aquarela do Brasil é de 1939, no auge do Estado Novo e do DIP, e canta exatamente o que a política cultural do regime queria ouvir: um país luminoso e farto, de coqueiros, fontes murmurantes e luar, cujo samba e cuja mestiçagem viram motivo de orgulho nacional. É exaltação das virtudes naturais e nacionais. A alternativa A vê discriminação onde a letra faz elogio, ainda que idealizado; C põe a religião católica no centro, e a canção só a tangencia em \"Terra de Nosso Senhor\"; D fala em cultura cabocla e regionalismo, e o recorte é nacional; e E elege o malandro, figura que o Estado Novo combatia em favor do trabalhador."
+  },
+  {
+   "id": "fuvest-historia-20",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O indígena sofre menos sob a República do que sob a dominação espanhola? Não existem mais corregimientos nem encomiendas, mas persistem os trabalhos forçados e os recrutamentos. O sofrimento que lhe provocamos basta para descarregar sobre nós a execração dos seres humanos. Nós o conservamos na ignorância e na servidão, o envilecemos no quartel, o embrutecemos com o álcool, o lançamos a destroçar-se nas guerras civis e, de tempos em tempos, organizamos caçadas e matanças. Manuel González Prada. “Nuestros índios”. In: Ideas en torno de Latinoamérica. México: UNAM, 1986. Adaptado.",
+   "enunciado": "O excerto, extraído de um texto publicado no início do século XX pelo peruano Manuel González Prada,",
+   "alternativas": {
+    "a": "identifica mudanças na condição dos indígenas após a emancipação política, mas afirma a persistência de sua exploração no trabalho e de sua marginalização social.",
+    "b": "valoriza a ativa participação dos indígenas no processo de emancipação política, mas admite a dificuldade política de incorporá-los à nova ordem social.",
+    "c": "reconhece os crimes contra os indígenas cometidos durante a colonização espanhola, mas enfatiza a melhoria nas relações sociais e na condição indígena sob a República.",
+    "d": "defende a persistência da exclusão social dos indígenas na República, mas a justifica em função das heranças recebidas do período de colonização espanhola.",
+    "e": "critica a obrigatoriedade do alistamento militar dos indígenas, mas insiste na importância de sua participação e de seu envolvimento na construção da República."
+   },
+   "resposta": "a",
+   "explicacao": "González Prada reconhece que as instituições coloniais acabaram — não há mais corregimientos nem encomiendas — e imediatamente mostra que a exploração ficou: trabalhos forçados, recrutamento, ignorância, servidão, álcool, matanças. Mudou a forma jurídica, não a condição. A alternativa B fala em participação indígena na emancipação, que o texto não menciona; C afirma melhoria sob a República, o oposto da denúncia; D justifica a exclusão pela herança colonial, quando ele responsabiliza o \"nós\" republicano; e E reduz a crítica ao alistamento militar e propõe integração, que o excerto não defende."
+  },
+  {
+   "id": "fuvest-historia-21",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Na documentação jesuítica quinhentista, há constantes referências ao desejo dos índios de entregarem seus filhos para que fossem ensinados pelos padres. Talvez o ensino das crianças indígenas pudesse representar, também, uma possibilidade de estabelecer alianças entre grupos indígenas e padres, revelando outra dimensão da evangelização das crianças como ‘grande meio’ para se converter o gentio. É difícil determinar ao certo qual foi a imagem a respeito dos portugueses construída pelas várias tribos indígenas e, principalmente, dos religiosos da Companhia de Jesus, mas a construção de alianças, a partir das crianças (os índios dando seus filhos), pode ter constituído uma possibilidade frutífera de relacionamento para alguns grupos. Rafael Chambouleyron. “Jesuítas e as crianças no Brasil quinhentista”. In: Mary del Priore. História das crianças no Brasil. São Paulo: Contexto, 1999.",
+   "enunciado": "Com base no excerto, é correto afirmar:",
+   "alternativas": {
+    "a": "A aliança entre grupos indígenas e padres implicava total submissão dos primeiros aos segundos.",
+    "b": "A catequização das crianças significava uma estratégia de construção de relacionamento entre os povos envolvidos na colonização portuguesa.",
+    "c": "A documentação evidencia a imagem que as várias tribos indígenas tinham a respeito dos portugueses.",
+    "d": "As ações pedagógicas visavam preparar os indígenas para a administração colonial.",
+    "e": "A instrução religiosa era o único objetivo no ensino de crianças indígenas."
+   },
+   "resposta": "b",
+   "explicacao": "Chambouleyron lê a entrega de crianças aos jesuítas como possível estratégia indígena: ao confiar os filhos, os grupos abriam um canal de aliança com os padres, e a catequese das crianças, \"grande meio\" de conversão para a Companhia, era também meio de relacionamento para eles. A alternativa A transforma aliança em submissão total, quando o texto sugere iniciativa dos dois lados; C diz que a documentação evidencia a imagem indígena dos portugueses, e o autor afirma justamente ser difícil determiná-la; D atribui às ações pedagógicas o preparo para a administração colonial; e E chama a instrução religiosa de objetivo único, o que o excerto contesta."
+  },
+  {
+   "id": "fuvest-historia-22",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Os grotões transformaram-se em jardins cortados a meio pelas avenidas e pela sombra dos viadutos não há mais sapo. Nos jardins encontrareis recintos fechados com instrutoras, dentistas, educadoras sanitárias dentro. São os parques infantis, onde as crianças proletárias se socializam aprendendo nos brinquedos o cooperativismo e a consciência do homem social. Mário de Andrade. “Dia de São Paulo”. Revista do Arquivo Municipal. São Paulo: Departamento de Cultura, 1936, nº 19.",
+   "enunciado": "O excerto relata alterações na paisagem urbana paulistana com a implantação de novos equipamentos que visavam",
+   "alternativas": {
+    "a": "substituir o ambiente degradado e nocivo dos cortiços e vilas operárias por espaços públicos marcados pela flora da Mata Atlântica.",
+    "b": "disciplinar o lazer das crianças com a introdução de noções de saúde preventiva e de atividades racionais e pedagógicas.",
+    "c": "produzir formas de ajustamento social que afastassem os jovens do ócio e dos vícios, por meio da educação profissionalizante.",
+    "d": "promover valores cristãos através da evangelização e do assistencialismo baseado na caridade e na recreação.",
+    "e": "organizar um novo programa escolar voltado para as crianças proletárias, adotando uma pedagogia pautada no nacionalismo e civismo."
+   },
+   "resposta": "b",
+   "explicacao": "Os parques infantis do Departamento de Cultura, dirigido por Mário de Andrade, foram equipados com instrutoras, dentistas e educadoras sanitárias, e o texto diz para que servem: nos brinquedos as crianças proletárias aprendiam \"o cooperativismo e a consciência do homem social\". É o lazer organizado como higiene e pedagogia. A alternativa A põe o foco na substituição dos cortiços por flora nativa; C fala em educação profissionalizante, que não é o caso; D atribui a iniciativa à evangelização e à caridade, quando ela é pública e laica; e E a converte em programa escolar nacionalista, e trata-se de espaço de recreação, não de escola."
+  },
+  {
+   "id": "fuvest-historia-23",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Decretou então o ótimo Artífice que àquele ao qual nada de próprio pudera dar tivesse como privativo tudo quanto fora partilhado por cada um dos demais. Assim, pois, tomou o homem, essa obra de tipo indefinido, e, tendo-o colocado no centro do universo, falou-lhe nestes termos: ‘A ti, ó Adão, não temos dado nem uma sede determinada, nem um aspecto peculiar, nem uma função singular precisamente para que o lugar, a imagem e as tarefas que reclamas para ti, tudo isso tenhas e realizes, mas pelo mérito de tua vontade e livre consentimento. As outras criaturas já foram prefixadas em sua constituição pelas leis por nós estatuídas. Tu, porém, não estás contido por amarra nenhuma. Antes, pela decisão do arbítrio, em cujas mãos te depositei, hás de predeterminar a tua compleição pessoal. Eu te coloquei no centro do mundo, a fim de poderes inspecionar, daí, de todos os lados, da maneira mais cômoda, tudo que existe. Pico della Mirandola. Discurso sobre a dignidade do homem. In: PICO, Giovanni, Conde de Mirândola e de Concórdia. A dignidade do homem. 2ª. ed. Campo Grande: Solivros/Uniderp, 1999. Adaptado.",
+   "enunciado": "Elaborado em 1486, na região da atual Itália, o texto do humanista Pico della Mirandola apresenta algumas características do movimento renascentista, dentre as quais",
+   "alternativas": {
+    "a": "a ética protestante e o espírito do capitalismo.",
+    "b": "a perspectiva da evolução e do etnocentrismo.",
+    "c": "a imortalidade do ser humano como pilar da construção da vida terrena.",
+    "d": "o antropocentrismo pela ausência da referência divina.",
+    "e": "a autonomia do ser humano como construtor de sua própria trajetória de vida."
+   },
+   "resposta": "e",
+   "explicacao": "No discurso de Pico, Deus diz a Adão que não lhe deu sede determinada, aspecto peculiar nem função singular, e que ele há de predeterminar a própria compleição pelo arbítrio. É a marca renascentista: o ser humano no centro, não por ser o maior dos seres, mas por ser o único que se constrói. A alternativa A traz a ética protestante, posterior e de outra tradição; B fala em evolução e etnocentrismo, conceitos do século XIX; C afirma a imortalidade como pilar, e o texto trata da liberdade nesta vida; e D chama o antropocentrismo de ausência de referência divina, quando é justamente Deus quem, no trecho, concede a liberdade."
+  },
+  {
+   "id": "fuvest-historia-24",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "[...] as lendárias Rotas da Seda, longe de serem meras rotas comerciais, eram rodovias culturais que desempenhavam um papel fundamental na ligação entre o leste e o oeste, reunindo intermitentemente nômades e moradores da cidade, povos pastoris e agricultores, mercadores e monges, soldados e peregrinos. A noção de movimento é, portanto, central para a compreensão das relações entre os povos [...]. Um diálogo entre culturas signiﬁca trocas não apenas de bens, mas também de ideias. Vadime Elisséeff. “Introduction. Approaches Old and New to Silk Roads”. The Silk roads: highways of culture and commerce. New York: Berghahn Books, 2000. Traduzido e adaptado.",
+   "enunciado": "Com base no excerto, que aborda o complexo de rotas terrestres que se estenderam, durante a Idade Média, por boa parte da Ásia, Leste da África e Sul da Europa, as trocas culturais e os deslocamentos tiveram impacto na",
+   "alternativas": {
+    "a": "vulgarização de bens como tecidos, especiarias e porcelanas, que alteraram os hábitos de diferentes povos ao longo do trajeto.",
+    "b": "divulgação do Direito Romano entre os povos orientais e a derrocada das práticas fundadas na tradição e na oralidade.",
+    "c": "difusão do cristianismo no Oriente Médio e Extremo Oriente, por meio da ação de soldados e peregrinos que atuaram nas Cruzadas.",
+    "d": "apropriação de técnicas e saberes científicos formulados por europeus, como cartografia, astrolábio e papel.",
+    "e": "circulação de padrões arquitetônicos greco-romanos, que forjaram nova identidade visual para santuários, pagodes e templos orientais."
+   },
+   "resposta": "a",
+   "explicacao": "O texto define as Rotas da Seda como rodovias culturais que ligavam leste e oeste e reuniam nômades, agricultores, mercadores e monges, e diz que o diálogo entre culturas envolve trocas de bens e de ideias. Seda, especiarias e porcelanas se espalharam por todo o trajeto e mudaram hábitos de povos que antes não os conheciam. A alternativa B faz o Direito Romano suplantar a tradição oral do Oriente; C atribui a difusão do cristianismo às Cruzadas, que foram outra coisa e outro recorte; D inverte a direção do fluxo técnico, pois papel e astrolábio vieram da China e do mundo islâmico para a Europa; e E impõe padrões greco-romanos a pagodes e templos orientais."
+  },
+  {
+   "id": "fuvest-historia-25",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Entre os deveres de todo devoto do Islã está a obrigatoriedade de pelo menos uma vez na vida fazer uma peregrinação a Meca, cidade sagrada na qual Maomé primeiro pregou a religião. Nem todos podiam fazer a peregrinação, mas muitos faziam, geralmente juntando-se às caravanas que percorriam o Saara, chegando a Meca a partir do Cairo. Essa circulação de pessoas, que entravam em contato com os lugares nos quais era intenso o ensino do Islã, criava vínculos entre todo o mundo muçulmano do Sael, norte da África e península Arábica. Os ensinamentos islâmicos eram ainda reforçados pela ação dos ulemás, estudiosos do Alcorão que se assentavam em algumas cidades ou passavam períodos em diferentes lugares. As escolas corânicas, nas quais os meninos liam e decoravam o Alcorão, também eram lugares de atuação dos ulemás, que mantinham vivo o ensino do islã. Marina de Mello e Souza. África e Brasil africano. São Paulo: Ática, 2007.",
+   "enunciado": "Ao tratar do islamismo na Idade Média, o texto caracteriza",
+   "alternativas": {
+    "a": "a transformação abrupta nas práticas e hábitos religiosos dos fiéis e o autodidatismo do ensino religioso na alfabetização de adultos e crianças.",
+    "b": "o fanatismo dos líderes religiosos e a exigência contínua de obediência e subserviência dos fiéis que desejavam alcançar a salvação.",
+    "c": "a igualdade de gêneros na formação religiosa de crianças e adultos e a ausência de preocupação com a unidade institucional da religião.",
+    "d": "o caráter educativo e doutrinário das peregrinações dos fiéis e a homogeneidade da origem étnico-racial do conjunto dos fiéis.",
+    "e": "a disposição de ampliar o conhecimento de textos religiosos pelos fiéis e a formação de redes de relações entre povos e grupos sociais distintos."
+   },
+   "resposta": "e",
+   "explicacao": "O texto descreve duas coisas que andam juntas: o esforço de levar o Alcorão aos fiéis — pelos ulemás, pelas escolas corânicas, pelos lugares de ensino intenso encontrados na viagem — e a rede que a peregrinação tece entre o Sael, o norte da África e a península Arábica, ligando povos e grupos distintos. A alternativa A fala em transformação abrupta e autodidatismo, quando o texto mostra continuidade e mestres; B reduz tudo a fanatismo e subserviência; C afirma igualdade de gêneros, e o texto menciona apenas meninos nas escolas corânicas; e D acerta o caráter educativo mas erra ao supor homogeneidade étnico-racial, sendo a diversidade o ponto."
+  },
+  {
+   "id": "fuvest-historia-26",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "No Afeganistão, em vinte anos de guerra, morreram mais de 157 mil pessoas; no Iraque, de 2003 até hoje, dez anos depois de as tropas americanas se retirarem do país, foram mortas entre 308 e 600 mil; e no Paquistão, o aliado dos Estados Unidos na Guerra ao Terror, 70 mil. As violações de direitos humanos por militares americanos, como os abusos e a tortura de prisioneiros, muitas vezes inocentes, na prisão de Abu Ghraib, no Iraque, e na base de Guantánamo, em Cuba, geraram ainda mais ressentimento nas populações desses países. A Guerra ao Terror provocou mais radicalização religiosa, conflitos internos, forçou milhões de pessoas a abandonar suas casas e a fugir para outros países, aumentando ainda mais o preconceito em relação a muçulmanos e árabes. Dizem que o mundo nunca mais foi o mesmo depois do Onze de Setembro. Simone Duarte. O vento mudou de direção: o Onze de Setembro que o mundo não viu. São Paulo: Fósforo, 2021.",
+   "enunciado": "O excerto traz informações sobre a atuação militar norte- americana na Ásia após os atentados terroristas de 11 de setembro de 2001 e afirma que essas investidas militares",
+   "alternativas": {
+    "a": "provocaram novos confrontos locais e mundiais e acirraram perseguições de caráter étnico e religioso.",
+    "b": "definiram uma nova ordem internacional e promoveram o bilateralismo que hoje caracteriza as relações entre as duas superpotências.",
+    "c": "consolidaram a hegemonia das organizações e alianças militares ocidentais nas áreas de conflito étnico e religioso do Oriente Médio e do Sul asiático.",
+    "d": "contribuíram para o estabelecimento da paz no mundo árabe, ao custo de terem provocado mais de quinhentas mil mortes em países asiáticos.",
+    "e": "erradicaram as organizações terroristas responsáveis pelos atentados, embora tenham recorrido a práticas contrárias aos princípios humanitários defendidos pela ONU."
+   },
+   "resposta": "a",
+   "explicacao": "O trecho encadeia os efeitos: centenas de milhares de mortos no Afeganistão, no Iraque e no Paquistão, os abusos de Abu Ghraib e Guantánamo, mais radicalização religiosa, conflitos internos, deslocamentos forçados e aumento do preconceito contra muçulmanos e árabes. São novos confrontos e perseguições de caráter étnico e religioso. A alternativa B fala em bilateralismo entre duas superpotências, que o texto não trata; C afirma hegemonia consolidada, quando o saldo é instabilidade; D promete paz no mundo árabe; e E declara as organizações terroristas erradicadas, contra o próprio dado de mais radicalização."
+  },
+  {
+   "id": "fuvest-historia-27",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Nossa forma de governo não entra em rivalidade com as instituições dos outros. Nosso governo não copia o de nossos vizinhos, mas é um exemplo para eles. É verdade que somos chamados de democracia, pois a administração está nas mãos de muitos e não de poucos. Mas, enquanto existe justiça igual para todos e igualmente em suas disputas privadas, a reivindicação de excelência também é reconhecida; e quando um cidadão é de alguma forma distinto, ele é preferido para o serviço público, não como uma questão de privilégio, mas como recompensa do mérito. Nem a pobreza é um obstáculo, pois um homem pode beneficiar seu país, seja qual for a obscuridade de sua condição. Não há exclusividade em nossa vida pública, e em nossos negócios privados não suspeitamos uns dos outros [...]. Enquanto estamos assim sem restrições em nossos negócios privados, um espírito de reverência permeia nossos atos públicos; somos impedidos de fazer o mal pelo respeito às autoridades e às leis, tendo uma consideração especial por aquelas que são ordenadas para a proteção dos prejudicados, bem como por aquelas leis não escritas. Tucídides. Oração Fúnebre de Péricles. University of Minnesota. Human Rights Library. Richard Hoocker, 1996. Adaptado.",
+   "enunciado": "O excerto, que pretende reproduzir o discurso fúnebre de Péricles (século V a.C.) na Guerra do Peloponeso,",
+   "alternativas": {
+    "a": "equipara os comportamentos privados às condutas públicas.",
+    "b": "oferece uma visão crítica da democracia representativa.",
+    "c": "reproduz a opinião da época sobre a política nas pólis gregas.",
+    "d": "enaltece a democracia como marca da superioridade ateniense.",
+    "e": "defende que todas as pessoas tenham igual acesso a cargos públicos."
+   },
+   "resposta": "d",
+   "explicacao": "A oração fúnebre não descreve Atenas: exalta-a. Péricles diz que o governo ateniense não copia ninguém e é exemplo para os vizinhos, que o mérito supera o privilégio e que nem a pobreza é obstáculo — o discurso é peça de afirmação da superioridade da cidade em plena guerra contra Esparta. A alternativa A equipara conduta privada e pública, quando o texto as distingue; B oferece crítica à democracia representativa, categoria que não existia; C o apresenta como reprodução neutra da opinião da época; e E generaliza o acesso a cargos a todas as pessoas, quando mulheres, metecos e escravizados estavam fora."
+  },
+  {
+   "id": "fuvest-historia-28",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Entre 1810 e 1850 os debates acalorados giraram em torno do fim do tráfico internacional, da sua legislação, da sua repressão, num impressionante vaivém, ou na famosa expressão: “Para inglês ver”. Até que o comércio internacional de almas fosse extinto em 1850, e na verdade alguns anos depois, muita pressão externa foi necessária. O fim do tráfico não significou a abolição da escravidão, que ainda permaneceria forte por quase quarenta anos. Lilia M. Schwarcz e Flávio Gomes. “Apresentação”. In: Dicionário da escravidão e liberdade. São Paulo: Companhia das Letras, 2018. Adaptado.",
+   "enunciado": "De acordo com o excerto, é correto afirmar:",
+   "alternativas": {
+    "a": "O fim do tráfico internacional de escravizados em 1850 implicou a substituição da mão de obra africana pela indígena.",
+    "b": "Os importadores de escravizados foram duramente prejudicados com a promulgação da lei Feijó de 1831.",
+    "c": "Os debates parlamentares entre os anos 1810 e 1850 defendiam formas de indenização aos proprietários.",
+    "d": "O fim do tráfico internacional após 1850 favoreceu o tráfico interprovincial.",
+    "e": "Os apelos internacionais pela abolição do tráfico revelavam os interesses de imigrantes europeus."
+   },
+   "resposta": "d",
+   "explicacao": "O excerto separa duas coisas que costumam se confundir: o fim do tráfico internacional em 1850 e a abolição, que só veio quase quarenta anos depois. Fechado o Atlântico, a escravidão seguiu forte — e passou a ser abastecida pelo deslocamento interno de escravizados do Nordeste açucareiro para as lavouras de café do Sudeste, o tráfico interprovincial. A alternativa A troca a mão de obra africana pela indígena; B afirma que a lei Feijó de 1831 prejudicou duramente os importadores, e ela é a lei \"para inglês ver\" que o próprio texto cita; C inventa indenização aos proprietários nos debates de 1810 a 1850; e E atribui os apelos internacionais aos interesses de imigrantes europeus."
   }
  ]
 }

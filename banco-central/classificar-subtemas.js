@@ -1713,6 +1713,75 @@ const REVISADAS = {
   "fuvest-quimica-11": "quimica-solucoes",
   "fuvest-quimica-14": "quimica-equilibrio-acido-base",
   "fuvest-quimica-16": "quimica-organica",
+
+  // FUVEST 2026, 1ª fase -- 24 pinos em 70 questões (34%), de volta à taxa de
+  // 2024 depois dos 41% de 2025. A prova de 2026 volta a agrupar por área e
+  // usa menos moldura interdisciplinar.
+
+  // Maria Auxiliadora é arte contemporânea, e "popular", "africana" e
+  // "artesanato" a mandaram para patrimônio. As exposições imersivas de Van
+  // Gogh caíram em clássica-moderna pelos nomes de Bosch e Brueghel, quando o
+  // assunto é a espetacularização por projeção e trilha sonora.
+  "fuvest-artes-cultura-3": "artes-contemporanea",
+  "fuvest-artes-cultura-5": "artes-audiovisual-midia",
+
+  // Mutação do vírus da gripe aviária foi para citologia por "infecta uma
+  // célula"; a respiração de minhoca, besouro e tatuzinho foi para fisiologia
+  // pelo nome do sistema, quando o que se cobra é reconhecer os três grupos.
+  "fuvest-biologia-16": "biologia-genetica",
+  "fuvest-biologia-21": "biologia-diversidade",
+
+  // Simmel e a vida na cidade grande caiu em ética-moral por "reserva" e
+  // "liberdade pessoal"; Heidegger e Sophia diante da morte caiu em
+  // conhecimento-lógica por "definição" e "possibilidade".
+  "fuvest-filosofia-sociologia-15": "sociologia-cultura-identidade",
+  "fuvest-filosofia-sociologia-16": "filosofia-etica-moral",
+
+  // Raio de Schwarzschild foi para mecânica por "gravitação universal" e
+  // "densidade". Buraco negro é física moderna.
+  "fuvest-fisica-13": "fisica-moderna",
+
+  // Créditos de carbono caíram em agrária-econômica por "mercado" e "país".
+  "fuvest-geografia-15": "geografia-ambiente-sustentabilidade",
+
+  // González Prada sobre o indígena peruano foi para Brasil-colônia por
+  // "encomiendas" e "colonização espanhola", sendo um texto do século XX; os
+  // parques infantis de Mário de Andrade foram para geral-contemporânea; Pico
+  // della Mirandola não pontuou em lugar nenhum; e a oração de Péricles caiu em
+  // Brasil-colônia por "democracia" e "cidadão".
+  "fuvest-historia-20": "historia-geral-contemporanea",
+  "fuvest-historia-22": "historia-brasil-republica",
+  "fuvest-historia-23": "historia-geral-moderna",
+  "fuvest-historia-27": "historia-geral-antiga-medieval",
+
+  // Inglês pina 4 de 9 -- e as quatro trocam detalhe por inferência ou o
+  // contrário. É a mesma causa das outras duas edições: o subtema de uma
+  // questão de leitura é a habilidade cobrada, e habilidade não deixa palavra
+  // no texto.
+  "fuvest-ingles-13": "ingles-detail",
+  "fuvest-ingles-14": "ingles-detail",
+  "fuvest-ingles-16": "ingles-detail",
+  "fuvest-ingles-19": "ingles-inference",
+  "fuvest-interpretacao-texto-4": "interpretacao-estrutura-coesao",
+  "fuvest-interpretacao-texto-6": "interpretacao-ideia-central",
+
+  // Chiziane e Djaimilia Pereira de Almeida foram para teoria-análise porque as
+  // perguntas são de leitura; as duas são literatura contemporânea de língua
+  // portuguesa.
+  "fuvest-literatura-22": "literatura-contemporanea",
+  "fuvest-literatura-23": "literatura-contemporanea",
+
+  // A equação trigonométrica caiu em geometria por "seno" e "cosseno". O erro
+  // que se cobra é de álgebra: distribuir o seno sobre a soma.
+  "fuvest-matematica-14": "matematica-algebra",
+
+  // Corrosão do aço com NaOH foi para eletroquímica pelo cenário, e a resposta
+  // é neutralização. A espectrometria de massas caiu em estequiometria por
+  // "massa molar", sendo distribuição isotópica. E a volatilidade das moléculas
+  // de sinalização caiu em soluções por "solubilizadas", sendo polaridade.
+  "fuvest-quimica-19": "quimica-equilibrio-acido-base",
+  "fuvest-quimica-23": "quimica-atomistica-ligacoes",
+  "fuvest-quimica-24": "quimica-organica",
 };
 
 // ------------------------------------------------------------------- classificação

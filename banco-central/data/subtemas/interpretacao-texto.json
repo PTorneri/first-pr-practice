@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "interpretacao-texto",
- "total": 530,
+ "total": 534,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -3041,6 +3041,28 @@
    "subtema": "interpretacao-ideia-central",
    "frenteDestino": "interpretacao-texto",
    "revisado": true
+  },
+  "fuvest-interpretacao-texto-4": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "fuvest-interpretacao-texto-5": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 8
+  },
+  "fuvest-interpretacao-texto-6": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "fuvest-interpretacao-texto-7": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
   }
  }
 }

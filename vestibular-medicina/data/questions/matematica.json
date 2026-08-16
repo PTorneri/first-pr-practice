@@ -8905,6 +8905,120 @@
       },
       "resposta": "e",
       "explicacao": "Completando quadrados: x² − 4x + y² = −3 vira (x − 2)² + y² = 1, circunferência de centro (2, 0) e raio 1; e x² + y² − 4y = −3 vira x² + (y − 2)² = 1, centro (0, 2) e raio 1. Os raios são iguais e os centros, distintos. A distância entre eles é √(2² + 2²) = 2√2 ≈ 2,83, maior que a soma dos raios, que é 2 — as circunferências são externas uma à outra e não se tocam. Isso descarta a interseção em dois pontos (A e B), a tangência (C) e a concentricidade (D), que exigiria o mesmo centro."
+    },
+    {
+      "id": "fuvest-matematica-13",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Para uma atividade de campo voltada à valorização do patrimônio histórico e cultural, professores de geografia levaram seus estudantes a um parque temático de monumentos geográficos. Eles visitaram a réplica de uma pirâmide regular de base quadrada com vértice a 18 metros de altura em relação ao centro da base. As faces da pirâmide estão voltadas para as direções norte, sul, leste e oeste. Para acessar o vértice da pirâmide, os estudantes precisaram percorrer uma trilha de pedestre e subir a rampa localizada na face norte. A trilha compreende os lados oeste, sul, leste e metade do lado norte do quadrado. Essa rampa está localizada exatamente no meio da face, ou seja, é o apótema da pirâmide.",
+      "enunciado": "Sabendo-se que o volume da pirâmide é de 864 m3, quantos metros, aproximadamente, os estudantes tiveram que percorrer para chegar até o topo da pirâmide?",
+      "alternativas": {
+        "a": "36",
+        "b": "41",
+        "c": "48",
+        "d": "54",
+        "e": "61"
+      },
+      "resposta": "e",
+      "explicacao": "Do volume vem o lado: 864 = (1/3)·L²·18, logo L² = 144 e L = 12 m. A trilha percorre três lados inteiros e meio lado: 12 + 12 + 12 + 6 = 42 m. A rampa é o apótema da pirâmide, hipotenusa do triângulo formado pela altura, 18 m, e pela metade do lado, 6 m: √(18² + 6²) = √360 ≈ 19 m. O total é 42 + 19 = 61 m. Quem esquece a rampa para em 42, e quem confunde o apótema com a aresta lateral, que usaria a meia-diagonal, chega a valores próximos de 54."
+    },
+    {
+      "id": "fuvest-matematica-14",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Considere a equação trigonométrica sen(π/2) + sen x = sen(2x) − cos π, para x ∈ ℝ, com 0 ≤ x < 2π. Um estudante resolveu essa equação da seguinte maneira:\n\nsen(π/2) + sen x = sen(2x) − cos π\n1 + sen x = sen(2x) + 1\nsen x = sen(2x)\nsen x = 2 sen x\n2 sen x − sen x = 0\nsen x = 0\nx = 0 ou x = π",
+      "enunciado": "A resolução apresentada pelo estudante está errada, pois ele",
+      "alternativas": {
+        "a": "considerou que cos 𝜋 vale 1.",
+        "b": "não considerou as infinitas voltas no ciclo trigonométrico para a resposta.",
+        "c": "considerou que sen గ ଶ vale 1.",
+        "d": "não utilizou corretamente o seno da soma de dois arcos.",
+        "e": "apresentou duas respostas e não apenas uma."
+      },
+      "resposta": "d",
+      "explicacao": "O erro está na quarta linha: o estudante trocou sen(2x) por 2·sen x, como se o seno fosse distributivo. A fórmula correta é sen(2x) = 2·sen x·cos x, que vem do seno da soma sen(a + b) = sen a·cos b + sen b·cos a com a = b = x. Refeita a conta, sen x = 2 sen x cos x leva a sen x·(2cos x − 1) = 0, e as soluções incluem também x = π/3 e x = 5π/3. As demais alternativas apontam passos corretos: cos π vale −1 e o sinal foi bem tratado (A), sen(π/2) vale 1 mesmo (C), o intervalo dado dispensa as voltas do ciclo (B) e apresentar duas raízes não é erro (E)."
+    },
+    {
+      "id": "fuvest-matematica-15",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Uma startup de tecnologia está desenvolvendo um novo aplicativo e observa que o número de usuários está crescendo, em milhares, após t semanas do lançamento, de acordo com a função: 𝑀(𝑡) = 200 × (1,1)௧\n\nNote e adote: log 3 ≅ 0,4771; log 5 ≅ 0,6990; log 11 ≅ 1,0414.",
+      "enunciado": "Com isso, a equipe da startup quer saber: qual é o período, em semanas, em que o número de usuários ultrapassa 300 mil?",
+      "alternativas": {
+        "a": "Entre 0 e 1 semana.",
+        "b": "Entre 1 e 3 semanas.",
+        "c": "Entre 2 e 4 semanas.",
+        "d": "Entre 3 e 4 semanas.",
+        "e": "Entre 4 e 6 semanas."
+      },
+      "resposta": "e",
+      "explicacao": "A condição é 200 × (1,1)ᵗ > 300, ou seja, (1,1)ᵗ > 1,5. Aplicando logaritmo: t · log 1,1 > log 1,5. Ora, log 1,1 = log 11 − log 10 = 1,0414 − 1 = 0,0414; e log 1,5 = log 3 − log 2 = 0,4771 − (1 − 0,6990) = 0,4771 − 0,3010 = 0,1761. Logo t > 0,1761 ÷ 0,0414 ≈ 4,25 semanas — o número de usuários ultrapassa 300 mil no intervalo entre 4 e 6 semanas. Os intervalos menores correspondem a valores de t em que a função ainda não chegou a 1,5 vez o valor inicial."
+    },
+    {
+      "id": "fuvest-matematica-16",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "O Brasil é o líder mundial em reciclagem de alumínio, atingindo números próximos a 99% de latas recicladas no ano de 2021. Essas latas, já utilizadas para refrigerantes, cervejas, energéticos, agora começam a trazer também água mineral em seu interior. Considere que uma empresa deseja envasar 350 mL de água em uma lata de alumínio de formato cilíndrico e que, por razões práticas como manuseio e custo do material, o diâmetro da base dessa lata deve ter entre 5 cm e 8 cm.",
+      "enunciado": "Qual será, aproximadamente, em centímetros, a menor altura possível da lata?",
+      "alternativas": {
+        "a": "5",
+        "b": "7",
+        "c": "13",
+        "d": "18",
+        "e": "28"
+      },
+      "resposta": "b",
+      "explicacao": "O volume do cilindro é πr²h = 350 cm³, então h = 350/(πr²): quanto maior o raio, menor a altura. O maior raio admitido é metade do maior diâmetro, 8 cm, ou seja, r = 4 cm. Substituindo, h = 350 ÷ (3,14 × 16) = 350 ÷ 50,3 ≈ 7 cm. O valor 13 cm corresponderia ao menor diâmetro, 5 cm, que dá a maior altura, não a menor; e 5 cm exigiria um raio maior que o permitido."
+    },
+    {
+      "id": "fuvest-matematica-17",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Engenheiros estavam mapeando um terreno para construção de um empreendimento com quatro prédios em formato cilíndrico distribuídos em torno de uma praça com o formato quadrado. Para a construção dos prédios, os engenheiros demarcaram os vértices da praça nos pontos 𝐴= (0,0), 𝐵= (8,0), C e D, em sistema de coordenadas cartesianas onde cada unidade corresponde a um metro.",
+      "enunciado": "Sabendo-se que a borda da seção circular de cada prédio tangencia cada lado do quadrado no seu ponto médio, qual deve ser a equação da circunferência do prédio que tem uma distância de 10 m do seu centro até o centro do quadrado?",
+      "alternativas": {
+        "a": "(𝑥−14)ଶ+ (𝑦−4)ଶ= 36",
+        "b": "(𝑥−18)ଶ+ (𝑦−4)ଶ= 100",
+        "c": "(𝑥−8)ଶ+ (𝑦−24)ଶ= 36",
+        "d": "𝑥ଶ+ 𝑦ଶ= 36",
+        "e": "(𝑥−4)ଶ+ (𝑦−24)ଶ= 100"
+      },
+      "resposta": "a",
+      "explicacao": "Com A = (0,0) e B = (8,0), o quadrado tem lado 8 e centro (4,4). O prédio tangencia um lado no ponto médio, então seu centro está na perpendicular a esse lado passando pelo ponto médio, a 10 m do centro do quadrado. Tomando o lado x = 8, cujo ponto médio é (8,4), o centro fica em (14,4) — de fato a 10 m de (4,4) — e o raio é a distância até o ponto de tangência, 14 − 8 = 6. A equação é (x − 14)² + (y − 4)² = 36. Nenhuma das outras satisfaz as duas condições: B, C e E têm centros a 14 ou 20 m do centro do quadrado, e D o coloca na origem."
+    },
+    {
+      "id": "fuvest-matematica-18",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Existem números curiosos na matemática. Os números perfeitos são alguns deles. Um número 𝑛 (para 𝑛∈ℕ∗) é perfeito se, e somente se, for igual à soma de seus divisores positivos (excluindo o próprio). Relacionando números perfeitos e números primos, Euclides escreveu uma proposição em seu famoso livro “Elementos”: se 2௡−1 é um número primo, então 2௡ିଵ(2௡−1) é um número perfeito.",
+      "enunciado": "Considerando o que foi exposto, é correto afirmar:",
+      "alternativas": {
+        "a": "Com exceção de 𝑛= 1, os 5 primeiros termos da sequência (𝑎௡) = (2௡−1) são números primos.",
+        "b": "Os termos da progressão geométrica, cujo primeiro termo é o primeiro número perfeito e cuja razão é 3, são pares.",
+        "c": "Os números 28 e 31 são números perfeitos.",
+        "d": "Na proposição de Euclides, para 𝑛= 4, obtemos que 2௡− 1 não é primo, mas que 2௡ିଵ(2௡−1) é perfeito.",
+        "e": "A sequência formada pela diferença dos termos consecutivos de (𝑎௡) = (2௡−1) é uma progressão aritmética de razão 2."
+      },
+      "resposta": "b",
+      "explicacao": "O primeiro número perfeito é 6, pois 1 + 2 + 3 = 6. A progressão geométrica de razão 3 que começa em 6 é 6, 18, 54, 162, …, e todo termo é 6 × 3ⁿ⁻¹: como o fator 6 é par, o produto é sempre par. A alternativa A falha porque em (2ⁿ − 1) os termos 15 e 63, para n = 4 e n = 6, não são primos; C erra porque 31 é primo, não perfeito; D erra porque, sendo 15 não primo, a proposição de Euclides não se aplica, e 8 × 15 = 120 não é perfeito; e E confunde as sequências, pois as diferenças 2, 4, 8, 16 formam progressão geométrica de razão 2, não aritmética."
     }
   ]
 }

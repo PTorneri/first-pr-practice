@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "fisica",
- "total": 569,
+ "total": 572,
  "residuo": [
   "med-fisica-31",
   "med-fisica-92",
@@ -3408,6 +3408,23 @@
    "frenteDestino": "fisica",
    "pontos": 10,
    "margem": 5
+  },
+  "fuvest-fisica-13": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "revisado": true
+  },
+  "fuvest-fisica-14": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 2
+  },
+  "fuvest-fisica-15": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 8
   }
  }
 }

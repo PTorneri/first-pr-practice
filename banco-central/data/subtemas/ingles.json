@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "ingles",
- "total": 526,
+ "total": 535,
  "residuo": [
   "med-ingles-44",
   "med-ingles-46",
@@ -3036,6 +3036,56 @@
    "revisado": true
   },
   "fuvest-ingles-10": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-11": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-ingles-12": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "fuvest-ingles-13": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-14": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-15": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-ingles-16": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-17": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-ingles-18": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-ingles-19": {
    "subtema": "ingles-inference",
    "frenteDestino": "ingles",
    "revisado": true

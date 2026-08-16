@@ -5357,6 +5357,101 @@
       },
       "resposta": "e",
       "explicacao": "Mia Couto devolve a pergunta ao europeu para mostrar que a exigência de uma identidade única só se dirige à África — e conclui perguntando se existiria uma \"alma africana\" capturável. A resposta implícita é não: o continente é um mosaico de relações econômicas, políticas e culturais em movimento, não uma essência. A alternativa A credita a construção histórica à ação humanitária dos colonizadores; B a faz resultado natural da luta anticolonial, quando ele recusa qualquer origem natural; C reduz a África a problemas demográficos e sanitários, que é o estereótipo criticado; e D a define por critérios deterministas, exatamente o que o texto desmonta."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-12",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Em meados do século XIX, Nísia Floresta publicou no Brasil seu Opúsculo Humanitário, uma ardente defesa da educação como meio para eliminar os obstáculos que impediam as mulheres de contribuir, em condições de igualdade com os homens, com a sociedade brasileira. Para tanto, contrapõe o estado da educação das mulheres nas nações ditas civilizadas e cultas ao péssimo estado da educação, pública e privada, religiosa e laica no Brasil, assumindo que a educação é uma expressão do grau de civilização das nações e muito influente sobre sua moralidade. Meio século mais tarde, Émile Durkheim dedicou duas obras à educação escolar: Educação e Sociologia e A Educação Moral. Nelas, o sociólogo francês concebe a escola como um espaço de transmissão da civilização às novas gerações por meio da sua socialização nos sentimentos, ideias e valores da sociedade, além da promoção da solidariedade com as múltiplas sociedades das quais participamos e com a humanidade como um todo. Ao funcionar como uma forma de vinculação às normas sociais por meio de uma compreensão racional da moralidade que subjaz a esses sentimentos, ideias e valores, a escola seria também um espaço de produção de autonomia. Mas, para que assim seja, esses sentimentos, ideias e valores deveriam ser justificáveis exclusivamente pela razão, sem invocar princípios religiosos, que são exclusivistas.",
+      "enunciado": "É correto afirmar que em seus escritos sobre educação, Durkheim e Floresta convergem ao",
+      "alternativas": {
+        "a": "reafirmar a importância dos valores religiosos da sociedade na educação como um projeto moralizante, ainda que critiquem a educação católica.",
+        "b": "conceber a educação das mulheres como manifestação de uma lei necessária do progresso das nações, expressão do positivismo dos autores.",
+        "c": "indicar a função da escola de integrar seus estudantes às normas e valores morais característicos de uma sociedade para permitir que com ela contribuam.",
+        "d": "justificar uma educação escolar segregada de grupos menos integrados socialmente, como as mulheres, em virtude de normas e valores da sociedade.",
+        "e": "defender uma educação com caráter cívico e nacionalista, que afirme a superioridade da nação e promova as glórias da civilização nacional."
+      },
+      "resposta": "c",
+      "explicacao": "Nísia Floresta defende a educação da mulher para que ela possa contribuir com a sociedade em igualdade; Durkheim concebe a escola como transmissão dos sentimentos, ideias e valores da sociedade às novas gerações. Os dois convergem em atribuir à escola a função de integrar o estudante às normas e valores morais de sua sociedade, e é dessa integração que vem a possibilidade de contribuir com ela. A alternativa A reafirma valores religiosos, que Durkheim exclui por exclusivistas; B invoca uma lei positivista do progresso; D justifica educação segregada; e E converte tudo em civismo e superioridade nacional."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-13",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "A uberização nomeia um novo tipo de gestão e controle da força de trabalho. Resultando das formas contemporâneas de eliminação de direitos, transferência de riscos e custos para os trabalhadores e novos arranjos produtivos, ela em alguma medida sintetiza processos em curso há décadas, ao mesmo tempo em que se apresenta como tendência para o futuro do trabalho. O tema ganha visibilidade com a formação de enormes contingentes de trabalhadores controlados por empresas que operam por meio de plataformas digitais. O desafio contemporâneo frente a esse novo tipo de organização envolve elementos complexos e armadilhas teórico-políticas. Reside em compreender as plataformas digitais como um novo meio poderoso pelo qual as relações de trabalho vêm se reestruturando, sem, entretanto, incorrer em um determinismo tecnológico que mistifique os processos sociais que envolvem décadas de flexibilização e transformação no trabalho, e que se materializam nas plataformas digitais, embora de forma obscura. Com base nessa perspectiva, o desafio também reside na compreensão de uma tendência que precede e ultrapassa as plataformas digitais, relacionada ao elemento central da uberização, qual seja, a consolidação e gerenciamento de multidões de trabalhadores como trabalhadores just-in-time. Essa condição do trabalho envolve um novo tipo generalizável de remuneração por peça que conserva sua centralidade nas formas de exploração capitalistas, mas atualiza seus elementos, demandando a compreensão das permanências, transformações e tendências que se desenham no presente ou como futuro possível e provável do trabalho. ABÍLIO, L. C. et al. “Uberização e plataformização do trabalho no Brasil: conceitos, processos e formas”. Sociologias, v. 23, n. 57, 2021.",
+      "enunciado": "Segundo o texto, a uberização é um processo que",
+      "alternativas": {
+        "a": "surgiu com o uso das plataformas digitais como elemento mediador que estimulou relações de trabalho cooperativo entre multidões de desempregados.",
+        "b": "intensificou a informalidade e a flexibilidade nas relações de trabalho por conta dos recursos técnicos das plataformas, que acirraram a exploração capitalista.",
+        "c": "libertou o trabalhador do atraso das leis trabalhistas, que impediam o empreendedor de construir novos arranjos produtivos que aumentassem sua renda.",
+        "d": "partiu da regulação das plataformas digitais para instituir uma nova forma de gerenciamento da força de trabalho baseada na eliminação de direitos sociais.",
+        "e": "acentuou a exploração capitalista, já que o aumento da renda do trabalhador não foi compatível com os custos das atividades profissionais realizadas por meio de aplicativos."
+      },
+      "resposta": "b",
+      "explicacao": "O texto define a uberização como eliminação de direitos, transferência de riscos e custos ao trabalhador e remuneração por peça generalizada, com as plataformas digitais servindo de meio poderoso para reestruturar a relação. Informalidade e flexibilidade intensificadas pelo recurso técnico, acirrando a exploração. A alternativa A fala em trabalho cooperativo; C celebra a libertação das leis trabalhistas; D faz o processo partir da regulação das plataformas, quando o texto o situa em décadas de flexibilização anteriores a elas; e E o reduz a um descompasso entre renda e custos, perdendo a mudança na forma de gestão."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-14",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "A uberização nomeia um novo tipo de gestão e controle da força de trabalho. Resultando das formas contemporâneas de eliminação de direitos, transferência de riscos e custos para os trabalhadores e novos arranjos produtivos, ela em alguma medida sintetiza processos em curso há décadas, ao mesmo tempo em que se apresenta como tendência para o futuro do trabalho. O tema ganha visibilidade com a formação de enormes contingentes de trabalhadores controlados por empresas que operam por meio de plataformas digitais. O desafio contemporâneo frente a esse novo tipo de organização envolve elementos complexos e armadilhas teórico-políticas. Reside em compreender as plataformas digitais como um novo meio poderoso pelo qual as relações de trabalho vêm se reestruturando, sem, entretanto, incorrer em um determinismo tecnológico que mistifique os processos sociais que envolvem décadas de flexibilização e transformação no trabalho, e que se materializam nas plataformas digitais, embora de forma obscura. Com base nessa perspectiva, o desafio também reside na compreensão de uma tendência que precede e ultrapassa as plataformas digitais, relacionada ao elemento central da uberização, qual seja, a consolidação e gerenciamento de multidões de trabalhadores como trabalhadores just-in-time. Essa condição do trabalho envolve um novo tipo generalizável de remuneração por peça que conserva sua centralidade nas formas de exploração capitalistas, mas atualiza seus elementos, demandando a compreensão das permanências, transformações e tendências que se desenham no presente ou como futuro possível e provável do trabalho. ABÍLIO, L. C. et al. “Uberização e plataformização do trabalho no Brasil: conceitos, processos e formas”. Sociologias, v. 23, n. 57, 2021.",
+      "enunciado": "A expressão just-in-time, destacada no texto, refere-se, no contexto da discussão, a uma modalidade de trabalho",
+      "alternativas": {
+        "a": "com escala fixa.",
+        "b": "filantrópico.",
+        "c": "híbrido.",
+        "d": "sob proteção legal.",
+        "e": "sob demanda."
+      },
+      "resposta": "e",
+      "explicacao": "Just-in-time nasce na produção enxuta para designar o insumo que chega na hora exata em que é preciso. Aplicado ao trabalhador, descreve quem fica disponível sem jornada garantida e é acionado conforme a demanda, remunerado por peça — que é o elemento central que o texto atribui à uberização. Escala fixa (A) é o oposto; filantrópico (B) e sob proteção legal (D) contrariam a eliminação de direitos descrita; e híbrido (C) diz respeito ao local de trabalho, não ao vínculo."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-15",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Considere os dois fragmentos a seguir: O fundamento psicológico sobre o qual se eleva o tipo das individualidades da cidade grande é a intensificação da vida nervosa, que resulta da mudança rápida e ininterrupta de impressões [...]. Talvez não haja nenhum fenômeno tão característico da cidade grande como o caráter blasé. [...] A essência do caráter blasé é o embotamento frente à distinção das coisas [...]. Em parte por conta dessa situação psicológica, em parte em virtude do direito à desconfiança que temos perante os elementos da vida na cidade grande, que passam por nós em um contato fugaz, somos coagidos a uma reserva, em virtude da qual mal conhecemos os vizinhos que temos por muitos anos [...]. Ao mesmo tempo, essa reserva garante ao indivíduo uma espécie [...] de liberdade pessoal. Simmel, Georg. (2005). As grandes cidades e a vida do espírito. Mana, Trad. Leopoldo Waizbort. Adaptado. As luzes da cidade se acendiam, as cortinas de aço das portas desciam com barulho e os caixeiros, os empregados que passavam o dia sorridentes ou abstratos, por trás dos balcões [...], se transformavam em homens misteriosos, individuais, que metiam um paletó, tinham uma casa, uma rua e iam comer o seu jantar, dormir o seu sono, trancar a sua porta. [...] Todos ali tinham a sua vida isolada, sua vida particular. E, naquela hora, cortavam as amarras, cada um procurando o seu mundo pessoal, a sua pequenina ilha. Rachel de Queiroz. Caminho de Pedras. Adaptado.",
+      "enunciado": "No primeiro trecho, publicado originalmente em 1903, o sociólogo Georg Simmel procurou condensar as características fundamentais da vida psíquica nas grandes cidades. Já no segundo, com que Rachel de Queiroz inicia o capítulo 7 de Caminho de Pedras, vemos como o protagonista Roberto percebe sua cidade a bordo de um bonde. Lendo-os em conjunto, é possível afirmar:",
+      "alternativas": {
+        "a": "As observações de Roberto contrariam a análise de Simmel. O “sorriso” dos empregados contradiz o diagnóstico de “embotamento” e “reserva” para com os outros.",
+        "b": "A vida “isolada” e “particular” descrita por Roberto, com que todos “cortavam as amarras”, é uma expressão da mesma reserva que Simmel argumenta produzir alguma liberdade.",
+        "c": "Ainda que haja semelhanças nas leituras, o modo “abstrato” com que os empregados passavam seus dias não é um aspecto psíquico das grandes cidades, mas da necessária desconfiança em atividades comerciais.",
+        "d": "A vida doméstica e particular sobre a qual Roberto reflete contradiz o diagnóstico de “intensificação da vida nervosa”, sugerindo uma rotina de impressões repetidas e imutáveis.",
+        "e": "O retrato da cidade em Caminho de Pedras confirma a análise de Simmel ao afirmar que a individualidade e o “embotamento frente à distinção das coisas” são expressos no espaço privado dos lares dos empregados."
+      },
+      "resposta": "b",
+      "explicacao": "Simmel diz que a reserva imposta pela vida na cidade grande garante ao indivíduo \"uma espécie de liberdade pessoal\". Roberto vê exatamente isso do bonde: à noite, os caixeiros cortam as amarras e cada um procura sua ilha, sua vida isolada e particular. A cena literária realiza o conceito. A alternativa A opõe o sorriso ao embotamento, quando o sorriso é do balcão, papel de trabalho; C nega que o modo abstrato seja aspecto psíquico urbano; D lê a vida doméstica como rotina imutável, contra a intensificação nervosa; e E situa o embotamento no espaço privado dos lares, quando Simmel o localiza no contato fugaz da rua."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-16",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "iii. Busca Pelos campos fora Caminhava sempre Como se buscasse Uma presença ausente “Onde estás tu, morte? Não posso te ver: Neste dia de Maio Com rosas e trigo É como se tu não Vivesses comigo [...] É verdade que passas Pela cidade às vezes Nos caixões de chumbo: Mas viro o meu rosto Pois não te compreendo És um pesadelo Uma coisa inventada Que o vento desmente Com suas mãos frescas E a luz logo apaga” [...] Sophia de Mello Breyner Andresen. O Cristo cigano. É tão tenaz o desvio que a esquivança encobridora ante a morte exerce sobre a cotidianidade que, no ser-um-com-o- outro, seus ‘próximos’ ainda se empenham com frequência precisamente junto ao ‘moribundo’ para o persuadir de que escapa da morte e retorna em seguida à tranquila cotidianidade do mundo de suas ocupações. Tal ‘preocupação-com-o-outro’ pensa ‘consolar’ dessa maneira o ‘moribundo’. Ela quer devolvê-lo à existência, ajudando-o a encobrir ainda mais completamente sua possibilidade de ser mais própria e irremetente. A gente se ocupa dessa maneira de uma constante tranquilização sobre a morte. Mas, no fundo, ela vale tanto para o ‘moribundo’ quanto para ‘os que consolam’. E mesmo no caso do deixar de viver, a publicidade ainda não deve ser perturbada, nem inquietada pelo acontecimento na sua ocupada despreocupação. Pois não raro se vê na morte dos outros uma inconveniência social, quando não mesmo uma falta de tato, cuja publicidade deve ser poupada. Martin Heidegger. Ser e Tempo, §51.",
+      "enunciado": "A escritora Sophia de Mello Breyner Andresen e o filósofo Martin Heidegger descrevem, por meio de recursos expositivos bem diferentes, uma mesma atitude geral comumente assumida por uma pessoa ante o desvelamento de sua própria mortalidade a partir da constatação da morte ou do adoecimento mortal de uma outra pessoa. Qual alternativa melhor descreve essa atitude?",
+      "alternativas": {
+        "a": "O enfrentamento heroico do absurdo existencial contido na morte.",
+        "b": "O respeito silencioso às tradições culturais voltadas ao morrer.",
+        "c": "A empatia antecipadora com os mortos, participando de sua dissolução existencial.",
+        "d": "A fuga acalmadora, que encobre o sentido existencial da mortalidade.",
+        "e": "A perda da sensibilidade, de modo a nem mesmo poder perceber a ocorrência da morte."
+      },
+      "resposta": "d",
+      "explicacao": "O eu lírico de Sophia vira o rosto quando a morte passa nos caixões de chumbo e a chama de pesadelo, coisa inventada que o vento desmente. Heidegger descreve os próximos persuadindo o moribundo de que ele escapa, numa \"constante tranquilização\" que encobre a possibilidade de ser mais própria. Nos dois, a mesma fuga que acalma e esconde o sentido da mortalidade. A alternativa A propõe enfrentamento heroico; B, respeito às tradições; C, empatia com os mortos; e E, perda de sensibilidade que impediria perceber a morte — mas a morte é percebida, e justamente por isso encoberta."
     }
   ]
 }

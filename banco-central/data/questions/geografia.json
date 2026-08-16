@@ -9571,6 +9571,139 @@
    },
    "resposta": "e",
    "explicacao": "Sahel, do árabe para \"margem\" ou \"borda\", é a faixa semiárida que contorna o Saara pelo sul e atravessa a África de leste a oeste, do Senegal ao Sudão, servindo de zona de contato entre o norte majoritariamente islâmico e o sul cristão. O Chifre da África (A) é a ponta oriental, na Somália e Etiópia; a África Meridional (B) e a Setentrional (C) são os extremos sul e norte do continente; e o Rift Valley (D) é a fossa tectônica que corre no sentido norte-sul, não leste-oeste."
+  },
+  {
+   "id": "fuvest-geografia-14",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A África Oriental utiliza recursos geotérmicos para gerar cerca de 630 MW por ano. O Quênia é o líder africano em usinas geotérmicas em operação, totalizando mais de 40% da produção total de eletricidade do país.",
+   "enunciado": "Assinale a alternativa correta sobre o processo geológico e sua consequência no terreno que explica a exploração de energia geotérmica no Quênia, respectivamente:",
+   "alternativas": {
+    "a": "Movimento transcorrente; morros testemunhos.",
+    "b": "Intemperismo químico; formação de relevos de cuesta.",
+    "c": "Movimento divergente de placas; rift valley.",
+    "d": "Processos erosivos contínuos; formação de cânions.",
+    "e": "Movimento convergente; cadeias montanhosas."
+   },
+   "resposta": "c",
+   "explicacao": "O Quênia está sobre o Vale do Rift da África Oriental, onde a placa africana está se partindo em duas: o movimento divergente afina a crosta, aproxima o magma da superfície e abre a fossa tectônica alongada — daí o calor acessível a pouca profundidade e a fileira de vulcões que sustenta as usinas de Olkaria. O movimento transcorrente (A) desloca blocos lateralmente e não afina a crosta; o intemperismo químico e a erosão (B e D) são processos de superfície, sem relação com calor interno; e o movimento convergente (E) produz cadeias montanhosas e vulcanismo de subducção, que não é o caso queniano."
+  },
+  {
+   "id": "fuvest-geografia-15",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O conceito de mercado de carbono foi formalizado a partir do Protocolo de Kyoto, em 1997, e foi impulsionado pelo Acordo de Paris, em 2015. No Brasil, o mercado de créditos de carbono foi formalizado em dezembro de 2024.",
+   "enunciado": "Indique a alternativa que explica corretamente a ideia central acerca dos créditos de carbono.",
+   "alternativas": {
+    "a": "Países com mais florestas devem receber créditos financeiros de países menos florestados para manter a floresta em pé.",
+    "b": "Créditos de carbono correspondem a um aumento da taxa fotossintética e uma maior conversão de CO2 em matéria orgânica pelas florestas tropicais.",
+    "c": "Créditos de carbono são obtidos por qualquer país, mesmo os mais industrializados, pela redução da emissão de CO2 e seus equivalentes na atmosfera.",
+    "d": "Países industrializados geram muitos créditos de carbono, que podem ser repassados aos países menos poluidores, via mercado de carbono.",
+    "e": "Há um limite de créditos de carbono que cada país pode emitir, estabelecido internacionalmente; ultrapassado tal limite, o país sofre sanções econômicas."
+   },
+   "resposta": "c",
+   "explicacao": "Crédito de carbono é o título gerado por quem comprova ter deixado de emitir — ou ter removido — uma tonelada de CO2 equivalente, e pode ser vendido a quem precisa compensar as próprias emissões. Qualquer país ou empresa pode gerá-lo, inclusive os industrializados, desde que reduza emissões. A alternativa A transforma o mecanismo em transferência automática entre países florestados e não florestados; B o confunde com aumento de fotossíntese; D inverte a lógica, fazendo o poluidor gerar os créditos; e E o descreve como cota de emissão com sanção econômica, que é outro instrumento."
+  },
+  {
+   "id": "fuvest-geografia-16",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Uma pesquisa realizada na Universidade de São Paulo sobre a sustentabilidade do setor têxtil destaca que “cerca de 4 milhões de resíduos têxteis são descartados todos os anos nos domicílios brasileiros, e o Brasil não tem gestão de resíduos. No ano passado, cada domicílio do País descartou cerca de 44 quilos de roupas e calçados. A estimativa é que o setor têxtil seja responsável por 2% a 8% das emissões de gases de efeito estufa em todo o mundo.” Disponível em https://jornal.usp.br/. Adaptado. Outro dado que corrobora com a pesquisa é o crescimento em 60% da produção de roupas nos últimos 15 anos, com custo barateado em 36%, significando um aumento considerável do consumo deste setor, no mundo. Além disso, a produção de algodão, apesar de ocupar 2,5% das áreas cultivadas no mundo, utiliza 25% dos inseticidas e 10% dos herbicidas. E, também, utiliza aproximadamente 11 bilhões de litros de água, para a lavagem e tingimento dos tecidos. Assim, segundo a Organização Mundial de Saúde, a cadeia produtiva da indústria têxtil é um setor econômico dos mais poluentes. Géopolitique: enjeux internationaux, 2022. Adaptado.",
+   "enunciado": "Com base nos textos, qual alternativa explica o impacto ambiental do consumismo no setor da indústria têxtil?",
+   "alternativas": {
+    "a": "O crescimento da indústria têxtil brasileira tem sido acompanhado por avanços significativos na gestão ambiental, como no tratamento de resíduos, uma vez que o descarte médio de 44 quilos de roupas e calçados por família favorece as iniciativas de gestão de resíduos e a redução das emissões de gases de efeito estufa.",
+    "b": "Nos últimos anos, a indústria têxtil teve um aumento significativo na produção de roupas, que resultou na diminuição no custo das peças em 36% e proporcionou o aumento do consumo no setor de vestuário em todo o mundo, tornando essencial a discussão de políticas de gestão da cadeia produtiva e de resíduos.",
+    "c": "A produção de algodão ocupa a maior parte de área cultivável do mundo e cresceu 60% nos últimos anos. Especialmente no Brasil, esse aumento vem gerando empregos no setor têxtil, tanto no campo quanto na cidade, impulsionando a capacidade de consumo da população.",
+    "d": "Nas últimas décadas, o setor têxtil brasileiro enfrentou desafios com a redução da produção de algodão, o que limitou o crescimento da indústria e restringiu o acesso da população ao consumo de roupas e calçados. Mesmo assim, o consumo está estimado em 44 quilos por família ao ano.",
+    "e": "A produção do setor têxtil, tanto no Brasil quanto no mundo, vem reduzindo o impacto ambiental devido ao uso de bilhões de litros de água no cultivo do algodão, o que dilui os herbicidas e inseticidas, consequentemente reduzindo a poluição atmosférica, do solo e dos recursos hídricos."
+   },
+   "resposta": "b",
+   "explicacao": "Os dois textos encadeiam a mesma sequência: a produção de roupa cresceu 60% em quinze anos, o preço caiu 36%, o consumo disparou, e o resultado são 44 quilos descartados por domicílio ao ano num país sem gestão de resíduos têxteis, além de 2% a 8% das emissões globais. É o consumo barateado que gera o impacto — daí a necessidade de política de gestão da cadeia. A alternativa A afirma avanços na gestão ambiental brasileira, que o texto diz não existir; C diz que o algodão ocupa a maior parte da área cultivável, quando são 2,5%; D fala em redução da produção; e E apresenta o consumo de água como diluição benéfica de agrotóxicos."
+  },
+  {
+   "id": "fuvest-geografia-17",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "As cores das águas dos rios são resultado de transformações físico-químicas, indicando fatores como os sólidos (material inorgânico) em suspensão (SIS) e o material orgânico dissolvido (MOD). A classificação científica das águas amazônicas mais utilizada é a de Harald Sioli (1950), que identificou três tipos: Brancas (alta concentração de SIS), Pretas (alta concentração de MOD) e Claras (baixas concentrações de SIS e MOD). Pesquisas mais recentes que analisam dados hidroquímicos têm indicado uma composição química mais variada nas águas amazônicas, dividindo os rios da região também em dois tipos intermediários: A (subtipo das águas claras) e B (subtipo que está entre as águas brancas e pretas). Principais rios da Região Hidrográfica Amazônica Atlas da Amazônia Brasileira, 2025. Adaptado.",
+   "enunciado": "A partir das informações do texto, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "As águas Pretas com alto teor orgânico na Amazônia são provenientes dos processos erosivos e localizam-se em áreas de Terras Pretas de Índio, o que caracteriza a coloração escura exclusiva da sub bacia do Rio Negro, diferindo das demais regiões amazônicas.",
+    "b": "A baixa concentração de SIS e MOD nas águas Claras é resultado dos garimpos ilegais na Amazônia, devido à utilização de mercúrio e dos agrotóxicos nos cultivos da soja nas regiões onde há maior desmatamento.",
+    "c": "A classificação intermediária do tipo A tem características hidroquímicas alteradas devido ao impacto direto e indireto de mudanças no uso do solo, além de grandes projetos de infraestrutura em toda parte norte-oriental da bacia amazônica.",
+    "d": "As águas intermediárias tipo B, com baixa concentração SIS e MOD, localizadas sobretudo no Baixo Amazonas, possuem essas características devido às mudanças no uso do solo nas últimas décadas e por ser uma área com muitos igarapés.",
+    "e": "As águas Brancas, como as do Rio Solimões, com alta concentração de SIS, têm essas características hidroquímicas devido aos processos erosivos de regiões a montante, como, por exemplo, as nascentes do rio Amazonas na Cordilheira dos Andes."
+   },
+   "resposta": "e",
+   "explicacao": "O Solimões nasce nos Andes e atravessa terrenos jovens e friáveis: a erosão a montante põe em suspensão a argila e o silte que dão à água a cor barrenta e a alta concentração de sólidos inorgânicos — a definição de água branca em Sioli. A alternativa A atribui a cor das águas pretas à erosão, quando ela vem da matéria orgânica dissolvida, os ácidos húmicos da decomposição da floresta; B explica as águas claras pelo garimpo e pela soja, que aumentariam a carga, não a reduziriam; C e D descrevem os tipos intermediários A e B com características trocadas, sendo o B, por definição do texto, o que fica entre brancas e pretas, e não o de baixa concentração dos dois."
+  },
+  {
+   "id": "fuvest-geografia-18",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "No censo do IBGE 2022 foi possível perceber que, do total de 203,1 milhões de pessoas da população brasileira, 177,5 milhões (87,4%) residiam em áreas urbanas, enquanto 25,6 milhões viviam em áreas rurais. Em relação a 2010, quando o grau de urbanização foi de 84,4%, houve aumento de 16,6 milhões de pessoas morando em áreas urbanas e queda de 4,3 milhões vivendo em áreas rurais. Já em relação à distribuição da população brasileira, o Censo 2022 trouxe uma importante constatação: o crescimento das cidades médias. Cabem nessa classificação do IBGE os municípios que contam entre 100 mil e 500 mil habitantes. Além disso, os dados também revelam que os maiores percentuais de população urbana foram observados nas regiões Sudeste (94,44%) e Centro-Oeste (91,35%), seguidas das regiões Sul (88,24%), Norte (78,47%) e Nordeste (77,64%). A população rural, por sua vez, apresentou pela primeira vez decréscimo em todas as regiões do Brasil. Segundo o Prof. Everaldo Melazzo, as cidades brasileiras estão ficando cada vez mais complexas e indicando algumas tendências inexistentes no Brasil até então. Este contexto de mudanças é denominado de fragmentação socioespacial [...]. Disponível em https://jornal.unesp.br/. Adaptado.",
+   "enunciado": "Com base no texto e em seus conhecimentos, é correto afirmar a respeito das novas tendências sobre a urbanização do Brasil:",
+   "alternativas": {
+    "a": "O grau de urbanização vem aumentando na região Centro- Oeste (91,35%) e Norte (78,47%), devido à expansão industrial e ao impacto das áreas reflorestadas e com baixa modernização agrícola.",
+    "b": "Houve um aumento de 16,6 milhões de pessoas morando em áreas urbanas, revelando que as grandes metrópoles continuam como o principal polo de crescimento populacional relativo, registrando taxas de aumento superiores às cidades médias e pequenas.",
+    "c": "Em 2010, 84,4% da população absoluta do país vivia em áreas urbanas e, em 2022, essa porcentagem passou para 87,4%; esse aumento do grau de urbanização ocorreu sobretudo nas cidades médias (entre 100 e 500 mil habitantes).",
+    "d": "De acordo com o Censo de 2022, a população rural manteve-se estável na última década, como mostram os dados das regiões Sul (88,24%) e Sudeste (94,44%), ampliando a fragmentação socioespacial.",
+    "e": "No contexto do Censo de 2022, os pequenos municípios brasileiros apresentaram o maior crescimento populacional relativo do país, superando as cidades médias e grandes, em função do avanço da industrialização e da expansão do agronegócio."
+   },
+   "resposta": "c",
+   "explicacao": "O texto dá os dois números e a tendência: o grau de urbanização passou de 84,4% em 2010 para 87,4% em 2022, e a constatação nova do Censo é o crescimento das cidades médias, aquelas entre 100 mil e 500 mil habitantes. A alternativa A atribui a urbanização do Centro-Oeste e do Norte a reflorestamento e baixa modernização agrícola, quando é o agronegócio que a puxa; B mantém as metrópoles como principal polo de crescimento relativo, contra a constatação central; D afirma população rural estável, e o texto registra decréscimo em todas as regiões; e E dá aos pequenos municípios o maior crescimento relativo."
+  },
+  {
+   "id": "fuvest-geografia-19",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Em 19 de setembro de 2023, o Azerbaijão lançou uma ofensiva contra a autoproclamada República de Nagorno-Karabakh (RAHK ou Artsakh), um território povoado por armênios sob bloqueio desde dezembro de 2022. Em 28 de setembro de 2023, a RAHK anunciou sua dissolução, que entrou em vigor a partir de 1º de janeiro de 2024, após mais de três décadas de existência não reconhecida. Em agosto de 2025, o governo norte americano propôs que a rota de transporte estratégica turco-azerbaijana seja controlada pelos EUA, por 99 anos. Essa proposta ainda está em curso, devido à oposição do Irã. Reconfiguração geopolítica do Cáucaso (2023). Atlas Géopolitique Mondial, 2025. Adaptado.",
+   "enunciado": "Com base no texto e em seus conhecimentos, assinale a alternativa que explica os motivos da ofensiva do Azerbaijão contra os armênios.",
+   "alternativas": {
+    "a": "O território armênio invadido pelo Azerbaijão é estratégico para o comércio de gás e petróleo com a Turquia e a União Europeia (UE) e há um projeto estratégico de transporte, no sul do território invadido, que permitirá uma rota de petróleo, gás e fluxo comercial.",
+    "b": "O território no sul da Armênia é de interesse do Irã devido às reservas de hidrocarbonetos, causando vários conflitos com o Azerbaijão, que, ao defender a Armênia, cria enclaves de proteção territorial, resguardando as rotas comerciais até Ierevan, a capital da Armênia.",
+    "c": "As bases militares de vários países estão concentradas no território armênio, que é disputado pela Turquia, Estados Unidos da América e Rússia, sendo este último interessado na rota Nagorno-Karabakh, por ser estratégica ao escoamento de sua produção de gás e petróleo para a UE.",
+    "d": "O conflito entre Armênia e Azerbaijão força a Turquia a ter neutralidade e, ao mesmo tempo, permite o funcionamento dos gasodutos (TANAP) e oleodutos (BTC), a partir do controle que ela tem das rotas, dos pontos de passagem fechados e das bases militares.",
+    "e": "No conflito entre Armênia e Azerbaijão, o corredor de transporte estratégico ao sul do Azerbaijão, associando a ferrovia, escoa toda a sua produção de petróleo, gás e fluxo comercial, conectando o território de Nagorno-Karabakh à Turquia e à área ocupada pela Armênia."
+   },
+   "resposta": "a",
+   "explicacao": "Nagorno-Karabakh e o sul da Armênia estão no caminho entre o Azerbaijão e seu enclave de Nakhichevan, e daí para a Turquia e a Europa: é por ali que passam o oleoduto BTC e o gasoduto TANAP, e é ali que se projeta o corredor de transporte que ligaria as duas partes do país. Tomar o território fecha essa rota. A alternativa B faz o Azerbaijão defender a Armênia; C dá à Rússia interesse em escoar gás por Nagorno-Karabakh, rota que não existe; D exige neutralidade da Turquia, que é aliada declarada de Baku; e E inverte a geografia ao situar o corredor ao sul do Azerbaijão conectando Nagorno-Karabakh à Turquia."
+  },
+  {
+   "id": "fuvest-geografia-20",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A anexação, definida como a incorporação unilateral de território de outro Estado, é proibida pela Carta das Nações Unidas e pelo direito internacional geral, que enfatizam a proibição do uso da força e o respeito à integridade territorial dos Estados (Carta da ONU, 1945). Disponível em https://www.parlamentomercosur.org. Adaptado.",
+   "enunciado": "Com base na Carta da ONU e em seus conhecimentos, é possível indicar que o caso se refere",
+   "alternativas": {
+    "a": "à invasão das tropas venezuelanas à área que pertence a fronteira norte do Brasil, contrariando o Acordo de Genebra.",
+    "b": "à retomada de áreas da região de Essequibo, pelo Suriname, que foram invadidas pelo exército venezuelano na crescente tensão com a Guiana.",
+    "c": "à anexação da região do rio Orinoco, rico em reservas minerais, pela Venezuela, conforme preconiza o Acordo de Genebra.",
+    "d": "aos novos limites definidos para o território da Venezuela em acordos com o Mercosul em conformidade com o Protocolo Porto de Espanha.",
+    "e": "à anexação da região de Essequibo pela Venezuela, contrariando a Arbitragem de 1904 que determinou que a área deveria ficar sob jurisdição da Guiana."
+   },
+   "resposta": "e",
+   "explicacao": "Em dezembro de 2023 a Venezuela realizou um referendo e anunciou a criação do estado da Guayana Esequiba, incorporando unilateralmente os dois terços ocidentais do território guianense — exatamente a anexação que a Carta da ONU proíbe. A área havia sido atribuída à Guiana Inglesa pelo laudo arbitral do início do século XX, que Caracas contesta desde o Acordo de Genebra de 1966. A alternativa A põe tropas venezuelanas na fronteira norte do Brasil; B faz o Suriname retomar o Essequibo; C move a disputa para o Orinoco, que é território venezuelano; e D inventa novos limites acordados com o Mercosul."
   }
  ]
 }

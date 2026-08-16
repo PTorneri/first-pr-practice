@@ -8196,6 +8196,158 @@
       },
       "resposta": "a",
       "explicacao": "Todas as células de um organismo descendem do zigoto por mitose e por isso carregam o mesmo genoma: uma célula muscular e um neurônio têm exatamente os mesmos genes. A diferenciação é a expressão seletiva desse conjunto — cada tipo transcreve uma parte diferente. É justamente por isso que RNAs (B), proteínas (C), lipídios de membrana (D) e organelas (E) diferem entre os tipos celulares: a mitocôndria é abundante no músculo, o retículo rugoso na célula secretora. O que permanece igual é o material genético."
+    },
+    {
+      "id": "fuvest-biologia-14",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Aristóteles produziu aquela que é considerada a primeira classificação dos organismos vivos, no mundo ocidental. Nela, considerou principalmente a existência de características compartilhadas para dividir os seres vivos em distintas categorias. Atualmente, a classificação dos seres vivos pauta-se no paradigma da Escola Filogenética (cladística).",
+      "enunciado": "Tal escola",
+      "alternativas": {
+        "a": "também realiza a análise de características compartilhadas entre os diferentes grupos de organismos, buscando identificar ancestrais comuns e relações de parentesco entre eles.",
+        "b": "busca as diferenças entre os grupos de seres vivos, agrupando-os exclusivamente com base nessas diferenças, desconsiderando características compartilhadas.",
+        "c": "abandona os princípios aristotélicos e adota ideias que propõem que os seres vivos evoluem com o passar do tempo, tornando-se sempre melhores que as gerações anteriores.",
+        "d": "determina que os seres vivos se adaptam às condições do meio em que vivem e produzem descendentes portadores dessas adaptações, de forma sucessiva.",
+        "e": "considera que características compartilhadas surgem apenas por convergência adaptativa, ou seja, organismos de linhagens diferentes, em um mesmo ambiente, podem desenvolver características comuns."
+      },
+      "resposta": "a",
+      "explicacao": "A cladística não abandona o método de Aristóteles — continua agrupando por características compartilhadas —, mas troca o critério: só valem as características herdadas de um ancestral comum, as sinapomorfias, e o objetivo é reconstruir o parentesco. A alternativa B faz o agrupamento se basear em diferenças; C introduz uma escala de progresso, que a evolução não tem; D descreve o lamarckismo, com adaptação transmitida por uso; e E atribui todas as semelhanças à convergência adaptativa, quando a convergência é justamente o que a cladística busca separar do parentesco real."
+    },
+    {
+      "id": "fuvest-biologia-15",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Em abril de 2025, uma empresa de biotecnologia anunciou que havia criado lobos com características de lobos-gigantes, ou dire-wolves, uma espécie extinta há milhares de anos. Para isso, a empresa obteve o genoma de lobos-gigantes e o comparou com o genoma de lobos modernos. Com base nesta comparação, foram feitas 20 modificações em 14 genes do genoma do lobo moderno, utilizando tecnologias de edição gênica. Em seguida, o núcleo de uma célula de lobo moderno contendo o DNA editado foi inserido em óvulos anucleados de cachorras. Por fim, os óvulos foram inseminados em cachorras, possibilitando a gestação. O resultado foi o nascimento de três filhotes, dois machos e uma fêmea, que possuem pelagem branca e espessa, além de um tamanho corporal maior, lembrando o fenótipo esperado de um lobo-gigante. Disponível em: https://colossal.com/.",
+      "enunciado": "Se, no futuro, a empresa resolver acasalar estes filhotes, espera-se que a prole seja parecida com",
+      "alternativas": {
+        "a": "cachorros, pois os óvulos utilizados para gerar os filhotes é desta espécie.",
+        "b": "lobos-gigantes, uma vez que cada geração tenderá a ser mais parecida com a espécie extinta.",
+        "c": "lobos modernos selvagens, uma vez que as edições no genoma não são hereditárias.",
+        "d": "lobos modernos modificados, pois os núcleos utilizados para gerar os filhotes são desta espécie.",
+        "e": "nenhuma espécie conhecida, pois os efeitos da edição genética são imprevisíveis."
+      },
+      "resposta": "d",
+      "explicacao": "O que os filhotes carregam é o genoma do lobo moderno com 20 edições em 14 genes: as edições estão no núcleo, foram feitas antes da transferência e são hereditárias. O óvulo da cadela entrou anucleado, servindo de recipiente. Cruzando os filhotes, a prole herda o mesmo genoma editado — lobos modernos modificados. A alternativa A confunde o citoplasma doado com herança nuclear; B supõe convergência progressiva para a espécie extinta, que nada produz; C nega a hereditariedade da edição gênica, que ocorreu na linhagem germinativa; e E declara os efeitos imprevisíveis, quando as modificações são conhecidas e dirigidas."
+    },
+    {
+      "id": "fuvest-biologia-16",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fuvest",
+      "texto_apoio": "Após a confirmação da primeira morte humana por gripe aviária nos Estados Unidos, surge a dúvida sobre a possibilidade de uma nova pandemia. Embora os vírus da gripe aviária ataquem principalmente aves, eles também podem infectar outros animais, incluindo humanos. Infecções humanas com vírus da gripe aviária são raras e, normalmente, não se transmitem de pessoa para pessoa. Os cientistas concordam que mudanças-chave na sequência genética do vírus seriam necessárias para iniciar uma pandemia. Cada vez que um vírus infecta uma célula e novas unidades virais são produzidas, erros podem ocorrer. Ocasionalmente, há uma mudança genética que ajuda o vírus a se tornar melhor em infectar células. Assim, essa versão do vírus pode superar outras, infectando novos hospedeiros ou novos tipos de hospedeiros. Disponível em https://www.cnnbrasil.com.br/. Adaptado.",
+      "enunciado": "Com base no texto, as mutações no vírus da gripe aviária",
+      "alternativas": {
+        "a": "ocorrem quando eles infectam espécies diferentes.",
+        "b": "são induzidas unicamente pela resposta imune do organismo hospedeiro.",
+        "c": "ocorrem quando o vírus se replica dentro das células infectadas.",
+        "d": "são consequência direta do contato frequente com aves migratórias portadoras do vírus.",
+        "e": "ocorrem apenas quando o vírus entra em contato com medicamentos antivirais."
+      },
+      "resposta": "c",
+      "explicacao": "O texto localiza a origem da mutação: \"Cada vez que um vírus infecta uma célula e novas unidades virais são produzidas, erros podem ocorrer.\" A mutação é falha de cópia durante a replicação intracelular, e ocorre ao acaso, antes de qualquer seleção. A alternativa A a condiciona à infecção de espécies diferentes; B a atribui à resposta imune do hospedeiro; D, ao contato com aves migratórias; e E, ao contato com antivirais — todas transformam pressão seletiva, que apenas favorece variantes já existentes, em causa da mutação."
+    },
+    {
+      "id": "fuvest-biologia-17",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "A vacina contra a dengue co-desenvolvida pelo Brasil, a Qdenga, começou a ser oferecida pelo SUS em 2024. Indivíduos imunocompetentes recebem vírus atenuados ao serem vacinados, adquirindo imunidade sem ficar doentes. Pessoas com imunodeficiências, indivíduos com HIV sintomático, gestantes e lactantes não podem ser vacinadas.",
+      "enunciado": "No entanto, estas pessoas podem ser beneficiadas com a vacinação da população, pois",
+      "alternativas": {
+        "a": "pessoas não-vacinadas adquirem imunidade por contato com vacinados.",
+        "b": "mosquitos transmissores da dengue morrem ao picar pessoas vacinadas.",
+        "c": "vírus atenuados alteram o material genético dos vírus selvagens.",
+        "d": "as chances de epidemias diminuem quando a cobertura vacinal é alta.",
+        "e": "pessoas vacinadas liberam anticorpos contra o vírus no ambiente."
+      },
+      "resposta": "d",
+      "explicacao": "É a imunidade coletiva: quando a maior parte da população está imunizada, o vírus encontra poucos hospedeiros suscetíveis, a cadeia de transmissão se interrompe e as chances de epidemia caem — protegendo indiretamente quem não pôde ser vacinado. A alternativa A supõe que a imunidade se transmite por contato, o que não acontece; B faz o mosquito morrer ao picar o vacinado; C imagina o vírus atenuado alterando o genoma do selvagem; e E supõe liberação de anticorpos no ambiente, quando eles circulam apenas no organismo de quem os produziu."
+    },
+    {
+      "id": "fuvest-biologia-18",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Nós sentimos o sabor dos alimentos com o cérebro! Esta afirmação à primeira vista nos parece estranha. No entanto, assim como ocorre em todos os sentidos do sistema sensorial, no caso do paladar, a percepção consciente do sabor só acontece quando sinais específicos chegam ao cérebro.",
+      "enunciado": "Assinale a alternativa que apresenta corretamente a informação descrita neste processo.",
+      "alternativas": {
+        "a": "Os componentes químicos dos alimentos interagem com proteínas receptoras nas células gustativas, e um potencial de ação é transmitido ao cérebro.",
+        "b": "Os componentes químicos dos alimentos são convertidos em uma corrente elétrica que estimula o músculo da língua.",
+        "c": "No processo de transdução sensorial do paladar, os componentes químicos dos alimentos são convertidos em um impulso hormonal que ativa as glândulas salivares.",
+        "d": "Os componentes químicos dos alimentos ativam, diretamente, os neurônios responsáveis por transmitir os sinais gustativos ao cérebro.",
+        "e": "A primeira etapa da transdução de sinal no paladar ocorre quando os receptores gustativos são ativados por hormônios digestivos."
+      },
+      "resposta": "a",
+      "explicacao": "A transdução sensorial do paladar começa quando moléculas do alimento se ligam a proteínas receptoras na membrana das células gustativas. A ligação altera o potencial da membrana, e essa despolarização é convertida em potencial de ação nas fibras nervosas, que o levam ao encéfalo — só ali há percepção consciente do sabor. A alternativa B faz o sinal terminar no músculo da língua; C e E introduzem hormônios, digestivos ou salivares, no lugar do estímulo químico direto; e D dispensa a célula gustativa, fazendo o alimento ativar os neurônios sem intermediário."
+    },
+    {
+      "id": "fuvest-biologia-19",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fuvest",
+      "texto_apoio": "A bióloga Lynn Margulis publicou um polêmico artigo em 1967 propondo que algumas organelas das células eucarióticas poderiam ser o resultado de eventos de endossimbiose, no qual bactérias passaram a viver em simbiose dentro de células eucarióticas até serem completamente incorporadas a elas. A hipótese de Margulis sofreu muita oposição, até que evidências experimentais mostraram que algumas organelas de fato possuíam muitas similaridades com bactérias.",
+      "enunciado": "Entre as evidências de endossimbiose, podemos citar:",
+      "alternativas": {
+        "a": "As membranas duplas dos núcleos.",
+        "b": "Os ribossomos aderidos ao retículo endoplasmático.",
+        "c": "A parede celular das células vegetais.",
+        "d": "O formato do complexo de Golgi.",
+        "e": "O genoma circular das mitocôndrias."
+      },
+      "resposta": "e",
+      "explicacao": "A mitocôndria guarda DNA próprio, circular e sem histonas, exatamente como o cromossomo bacteriano — e ainda tem ribossomos do tipo 70S, dupla membrana e divisão por bipartição. É a assinatura de que veio de uma bactéria incorporada. A membrana dupla do núcleo (A) tem origem no retículo endoplasmático; os ribossomos aderidos ao retículo (B) são eucarióticos, do tipo 80S; a parede celular vegetal (C) é de celulose, e a bacteriana, de peptidoglicano; e o formato do complexo de Golgi (D) nada informa sobre ancestralidade."
+    },
+    {
+      "id": "fuvest-biologia-20",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Duas espécies utilizam um dado recurso ambiental em comum e de forma semelhante, de modo que seus nichos ecológicos apresentam uma região comum, aqui designada por N.",
+      "enunciado": "É correto afirmar que a área N representa",
+      "alternativas": {
+        "a": "uma região de sobreposição de nichos, na qual pode ocorrer competição intraespecífica e interespecífica.",
+        "b": "uma área fictícia, já que, por definição, nicho é algo exclusivo de uma espécie e não pode se sobrepor a outro nicho.",
+        "c": "o conceito de habitat, que corresponde ao local em que duas ou mais espécies distintas coabitam.",
+        "d": "o próprio recurso compartilhado pelas duas espécies de forma simétrica e equilibrada.",
+        "e": "o surgimento de um outro nicho, no qual os organismos ali presentes podem evoluir, originando uma nova espécie."
+      },
+      "resposta": "a",
+      "explicacao": "Nicho é o conjunto de condições e recursos que a espécie usa, e nichos podem, sim, se sobrepor: quando duas espécies exploram o mesmo recurso do mesmo jeito, a região comum é onde a disputa acontece — entre indivíduos da mesma espécie e entre as duas espécies. A alternativa B declara a sobreposição impossível por definição; C confunde nicho com habitat, que é o lugar onde a espécie vive; D reduz a área ao próprio recurso; e E faz da sobreposição um nicho novo capaz de originar espécie, o que confunde competição com especiação."
+    },
+    {
+      "id": "fuvest-biologia-21",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "A rega e o zelo geraram uma infinidade de seres que descobria nos dedos ao mexer na terra: minhocas, besouros verdes, bichos-de-conta. Djaimilia Pereira de Almeida. A visão das plantas. Na obra A visão das plantas (2021) são descritas características dos animais e das plantas no jardim cuidado por Celestino. Nesta frase, são citados animais que pertencem a diferentes grupos de invertebrados, como as minhocas (anelídeos), os besouros (insetos) e os bichos-de-conta (crustáceos), também conhecidos como tatuzinhos de jardim.",
+      "enunciado": "Assinale a alternativa que apresenta corretamente a informação sobre o sistema respiratório destes grupos.",
+      "alternativas": {
+        "a": "Os besouros e os bichos-de-conta apresentam respiração traqueal, sendo a umidade do solo importante em ambos os casos.",
+        "b": "As minhocas apresentam respiração cutânea e os besouros apresentam respiração traqueal, sendo a umidade do solo importante em ambos os casos.",
+        "c": "Os besouros apresentam respiração traqueal e os bichos- de-conta apresentam respiração pulmonar, e a umidade do solo não é importante na respiração destes animais.",
+        "d": "As minhocas, os besouros e os bichos-de-conta apresentam respiração branquial, sendo a umidade do solo importante na respiração dos três animais.",
+        "e": "As minhocas, os besouros e os bichos-de-conta apresentam respiração pulmonar, e a umidade do solo não é importante na respiração dos três animais."
+      },
+      "resposta": "b",
+      "explicacao": "A minhoca respira pela pele: as trocas gasosas exigem superfície úmida, e é por isso que ela sobe à superfície quando o solo encharca e morre quando ele seca. O besouro respira por traqueias, tubos que levam ar direto aos tecidos pelos espiráculos, e também depende de umidade para não desidratar. O bicho-de-conta, crustáceo terrestre, mantém brânquias modificadas e por isso vive em lugares úmidos — o que derruba a respiração traqueal que A lhe atribui e a pulmonar de C e E, além da respiração branquial que D estende aos três."
     }
   ]
 }

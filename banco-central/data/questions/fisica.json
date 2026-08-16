@@ -9157,6 +9157,63 @@
    },
    "resposta": "d",
    "explicacao": "A rolha é empurrada pela diferença entre a pressão de dentro e a de fora: ΔP = 5 − 1 = 4 atm = 4 × 10⁵ Pa. A área do bocal, de 2 cm de diâmetro, é A = π·r² = 3 × (0,01)² = 3 × 10⁻⁴ m². A força vale F = ΔP·A = 4 × 10⁵ × 3 × 10⁻⁴ = 120 N, e a aceleração, a = F/m = 120 ÷ 0,010 = 12 000 m/s². Os demais valores diferem por potências de dez: 1200 sai de usar a massa em gramas como se fosse quilograma, e 120 de esquecer também a conversão do diâmetro."
+  },
+  {
+   "id": "fuvest-fisica-13",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Desde as primeiras descobertas, os buracos negros despertam enorme interesse da humanidade. Eles são caracterizados por regiões suficientemente densas e massivas em que o campo gravitacional é tão intenso que nada que esteja a distâncias inferiores a 𝑅Sc do buraco negro consegue escapar de sua atração, nem a luz ou outras formas de radiação. Esse raio, também conhecido como raio de Schwarzschild, é expresso por 𝑅Sc = 2𝐺𝑀/𝑐ଶ, sendo 𝐺 a constante de gravitação universal, 𝑀 a massa do buraco negro e 𝑐 a velocidade da luz.\n\nNote e adote: Suponha uniformes as densidades volumétricas do Sol e do buraco negro, ambos esféricos e com distribuição de massa uniforme. G = 10⁻¹⁰ N·m²/kg²; R_Sol = 10⁹ m; c = 3 × 10⁸ m/s.",
+   "enunciado": "Considere, por simplicidade, um buraco negro de massa igual à massa solar 𝑀Sol = 2×1030 kg e de raio igual a 𝑅Sc. Nesse caso, a razão entre a densidade volumétrica de um buraco negro e a densidade volumétrica do Sol apresenta uma ordem de grandeza mais próxima de:",
+   "alternativas": {
+    "a": "10−2",
+    "b": "104",
+    "c": "1010",
+    "d": "1016",
+    "e": "1022"
+   },
+   "resposta": "d",
+   "explicacao": "O raio de Schwarzschild para uma massa solar vale R = 2GM/c² = 2 × 10⁻¹⁰ × 2 × 10³⁰ ÷ (9 × 10¹⁶) ≈ 4,4 × 10³ m. Como as duas esferas têm a mesma massa, a razão entre as densidades é o inverso da razão entre os volumes, ou seja, o cubo da razão entre os raios: (10⁹ ÷ 4,4 × 10³)³ ≈ (2,3 × 10⁵)³ ≈ 1,2 × 10¹⁶. A ordem de grandeza é 10¹⁶. As demais alternativas correspondem a errar a potência ao elevar ao cubo — 10⁴ vem de não elevar, e 10¹⁰ de elevar ao quadrado."
+  },
+  {
+   "id": "fuvest-fisica-14",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Em 1905, Albert Einstein propôs que a luz, um tipo de radiação eletromagnética, é composta por fótons, sendo que cada fóton tem energia proporcional à frequência da luz (𝑓) e à constante de Planck (ℎ). Nesses termos, 𝐸 = ℎ𝑓, e a intensidade da luz é a medida da quantidade de fótons. Essa interpretação foi fundamental para o desenvolvimento da teoria quântica da luz e para explicar o efeito fotoelétrico. Esse efeito consiste em um fenômeno físico no qual elétrons são ejetados de um material, geralmente um metal, quando este é irradiado com luz cujos fótons têm energia maior que a energia de ligação do elétron ao material, também conhecida como função trabalho. Assim, quando o fóton incide sobre a superfície do material, a energia excedente transforma-se na energia cinética do elétron que escapa da superfície.",
+   "enunciado": "Em qual das situações a seguir a energia cinética do elétron ejetado no efeito fotoelétrico aumenta?",
+   "alternativas": {
+    "a": "Aumentando a intensidade da luz incidente.",
+    "b": "Usando uma superfície maior.",
+    "c": "Aumentando a frequência da luz incidente.",
+    "d": "Usando um material com função trabalho maior.",
+    "e": "Diminuindo a energia do fóton incidente."
+   },
+   "resposta": "c",
+   "explicacao": "A energia cinética do elétron ejetado é a energia do fóton menos a função trabalho: Ec = hf − φ. Só a frequência entra nessa conta pelo lado positivo, então aumentá-la é o único modo de aumentar Ec. A alternativa A aumenta a intensidade, que é o número de fótons: sai mais elétron, cada um com a mesma energia — foi exatamente esse resultado que a física clássica não explicou; B amplia a superfície, o que também só muda a quantidade; D aumenta a função trabalho, subtraindo mais; e E diminui a energia do fóton, reduzindo Ec."
+  },
+  {
+   "id": "fuvest-fisica-15",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Park, E. et al. “Pour-over coffee: Mixing by a water jet impinging on a granular bed with avalanche dynamics”. Phys. Fluids 37, 043332 (2025). Adaptado. Um artigo recentemente publicado na revista Physics of Fluids investigou de que modo fatores como a altura e a velocidade da água despejada na preparação de café filtrado (parte (a) da figura) influenciam no sabor da bebida pronta. Um dos parâmetros importantes é a velocidade do jato de água ao atingir a lâmina de água que já está no filtro. Uma das conclusões do estudo é que velocidades acima de 2 m/s levam a uma melhor mistura do pó de café com a água. A parte (b) da figura esquematiza a situação descrita, em que H é a altura da lâmina de água e D a altura de despejo da água do bule, medidas que têm a base do filtro como referência.\n\nNote e adote: Densidade da água: d = 1000 kg/m³. Aceleração da gravidade: g = 10 m/s².",
+   "enunciado": "Assumindo que seja desprezível a velocidade do jato quando a água começa a ser despejada no bico do bule, para uma altura H = 8 cm, qual a altura mínima D de despejo para que a velocidade do jato, ao atingir a água, seja de, pelo menos, 2 m/s?",
+   "alternativas": {
+    "a": "4 cm",
+    "b": "8,2 cm",
+    "c": "10 cm",
+    "d": "18 cm",
+    "e": "28 cm"
+   },
+   "resposta": "e",
+   "explicacao": "A água cai em queda livre do bico do bule até a lâmina de água, percorrendo a diferença de alturas D − H. Partindo do repouso, v² = 2g(D − H). Para v = 2 m/s: 4 = 20 × (D − 0,08), o que dá D − 0,08 = 0,20 e D = 0,28 m, ou 28 cm. As alternativas menores saem de esquecer de descontar a lâmina de 8 cm, que daria D = 20 cm, ou de trocar o quadrado da velocidade pela velocidade."
   }
  ],
  "textos": [

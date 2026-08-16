@@ -4705,6 +4705,177 @@
       },
       "resposta": "e",
       "explicacao": "\"If comfort is a construct, I don't believe in good luck\": chamar o conforto de construto é dizer que ele não é dado do mundo, e sim algo montado socialmente — uma promessa de segurança que a letra desconfia ser falsa, tanto que o verso seguinte descarta também a boa sorte. A alternativa A descreve os jardins secretos da mente, que são o refúgio, não o conforto criticado; B liga o conforto às experiências infantis, e a infância aparece só na leitura precoce; C o faz depender da realidade concreta, o oposto de construto; e D o converte em dificuldade de autoafirmação."
+    },
+    {
+      "id": "fuvest-ingles-11",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Considere o texto a seguir: Ice flows across Antarctica and continues to do so as it reaches the edge of the land mass and extends over the ocean. The huge floating tongues of ice often remain attached to the continent. Anything that remains grounded on the land is part of the Antarctic ice sheet; the floating part is an ice shelf. Floating ice shelves surround three-quarters of Antarctica’s coast and make up about 11% of its total area. One of the largest, the Ross Ice Shelf, is roughly the size of France. The George VI Ice Shelf is shown in the image, taken by NASA’s Landsat 8 in January 2020. It may seem intuitive that all the ice added to the ocean from melting ice shelves would raise global sea level, but that’s not the case. By Archimedes’s principle, ice shelves floating on the water have already displaced their own weight, so their disintegration or melting won’t change the water level. Ice shelves do, however, regulate the speed of glaciers on Antarctica’s land. Ice shelves act to hold glaciers back. Take the shelf away, and the glaciers are free to speed up and flow into the ocean. Any ice and liquid water that the glaciers take with them will raise sea level. Of Earth’s fresh water, 70% is stored in Antarctica’s ice; that is the equivalent of about 58 meters of sea-level rise if all of it were to melt. Buzzard, S. “The surface hydrology of Antarctica’s floating ice”. Physics Today 75, 28-33 (2022). Adaptado.",
+      "enunciado": "Segundo o texto, é correto afirmar:",
+      "alternativas": {
+        "a": "A área da superfície de gelo já derretido é aproximadamente do tamanho da França.",
+        "b": "O princípio de Arquimedes afirma que as plataformas de gelo possuem uma força de empuxo muito menor que seu peso e, portanto, flutuam.",
+        "c": "Plataformas de gelo são importantes porque atuam para regular a velocidade das geleiras na Antártida.",
+        "d": "Plataformas de gelo flutuantes são relevantes porque representam três quartos da área total da Antártida.",
+        "e": "O princípio de Arquimedes não se aplica no caso do derretimento do gelo flutuando na costa antártica."
+      },
+      "resposta": "c",
+      "explicacao": "O texto é explícito: \"Ice shelves do, however, regulate the speed of glaciers on Antarctica's land. Ice shelves act to hold glaciers back.\" Elas seguram as geleiras — e é por isso que importam, já que o derretimento delas próprias não muda o nível do mar. A alternativa A confunde a plataforma Ross, comparada em tamanho à França, com gelo já derretido; B inverte Arquimedes, cujo princípio diz que o empuxo iguala o peso do líquido deslocado; D transforma os três quartos da COSTA cercada por plataformas em três quartos da ÁREA total, que o texto dá como 11%; e E nega a aplicação do princípio, que o texto usa justamente para explicar por que o degelo flutuante não eleva o mar."
+    },
+    {
+      "id": "fuvest-ingles-12",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Our planet is home to subterranean lava deposits and smatterings of obsidian—black volcanic glass. Scalding groundwater bubbles to the surface in places. In such a landscape, you remember that the planet’s hard exterior is so thin that we call it a crust. Its superheated interior burns with an estimated forty-four trillion watts of power. Heat mined from underground is called geothermal and can be used to produce steam, spin a turbine, and generate electricity. Until recently, humans have tended to harvest small quantities in the rare places where it surfaces, such as hot springs. The biggest drawback is drilling miles through hot rock, safely. If scientists can do that, next-generation geothermal power could supply clean energy for eons. Right now, geothermal energy meets a puny portion of humanity’s electricity and heating needs. Fossil fuels power about eighty per cent of human activity, pumping out carbon dioxide and short-circuiting our climate to catastrophic effect. Converts argue that geothermal checks three key boxes: it is carbon-free, available everywhere, and effectively unlimited. It is also baseload, which means that, unlike solar panels or wind, it provides a steady flow of energy. “Over the last two years, I have watched this exponential spin- up of activity in geothermal,” a drilling expert said. But there is a risk of moon shots: often, they miss. “There’s basically zero chance that you’re going to develop a moon-shot technology and have it be commercial in five years, on a large-scale”, said Mark Jacobson, an engineering professor. That’s how long humanity has to lower emissions before climatic devastation. “There’s a very decent chance you can do that with wind and solar,” he said. Perhaps, when resources and time are finite, trying and failing could be worse than not trying at all. New Yorker. March 2025. Adaptado.",
+      "enunciado": "De acordo com o texto, atualmente a exploração do calor gerado nas regiões subterrâneas do planeta",
+      "alternativas": {
+        "a": "atende a uma parcela insignificante da demanda energética da sociedade.",
+        "b": "pode ser utilizada através de um aparato tecnológico de baixo custo.",
+        "c": "oferece vantagens ambientais limitadas em relação a outras fontes de energia renováveis.",
+        "d": "utiliza métodos desenvolvidos nas pesquisas científicas sobre a superfície lunar.",
+        "e": "proporciona utilidade prática restrita do ponto de vista da produção industrial."
+      },
+      "resposta": "a",
+      "explicacao": "\"Right now, geothermal energy meets a puny portion of humanity's electricity and heating needs\" — puny é ínfimo, e o texto contrapõe isso aos 80% da atividade humana movidos por combustíveis fósseis. A alternativa B fala em aparato de baixo custo, quando o próprio texto aponta a perfuração de quilômetros de rocha quente como o maior obstáculo; C atribui vantagens ambientais limitadas, e o texto a descreve como livre de carbono, disponível em toda parte e de fluxo constante; D confunde \"moon shot\", metáfora para aposta arriscada, com pesquisa lunar; e E restringe a utilidade prática à produção industrial."
+    },
+    {
+      "id": "fuvest-ingles-13",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Nearly a century ago, Edwin Hubble discovered that the universe is getting larger. Modern measurements of how fast it is expanding disagree, however, suggesting that our understanding of the laws of physics might be off. Everyone expected the sharp vision of the James Webb Space Telescope to bring the answer into focus. But a long-awaited analysis of the telescope’s observations released late Monday evening once again gleans conflicting expansion rates from different types of data, while homing in on possible sources of error at the heart of the conflict. Two rival teams have led the effort to measure the cosmic expansion rate, which is known as the Hubble constant, or H0. One of these teams, led by Adam Riess of Johns Hopkins University, has consistently measured H0 to be about 8 percent higher than the theoretical prediction for how fast space should be expanding, based on the cosmos’s known ingredients and governing equations. This discrepancy, known as the Hubble tension, suggests that the theoretical model of the cosmos might be missing something—some extra ingredient or effect that speeds up cosmic expansion. Riess and his team released their latest measurement of H0 based on Webb data this spring, getting a value that agrees with their earlier estimates. But for years a rival team led by Wendy Freedman of the University of Chicago has urged caution, arguing that cleaner measurements were needed. Her team’s own measurements of H0 have invariably landed closer than Riess’ to the theoretical prediction, implying that the Hubble tension may not be real. Since the Webb telescope started taking data in 2022, the astrophysics community has awaited Freedman’s multipronged analysis using the telescope’s observations of three types of stars. Now, the results are in: Two types of stars yield H0 estimates that align with the theoretical prediction, while the third—the same type of star Riess uses—matches his team’s higher H0 value. Disponível em https://wired.com/. 08 Sep 2024. Adaptado.",
+      "enunciado": "Com base no texto, a principal expectativa em relação ao telescópio James Webb estava associada a",
+      "alternativas": {
+        "a": "esclarecer as divergências nas medições da constante de Hubble por meio de observações mais precisas.",
+        "b": "substituir os métodos tradicionais por novas equações que descrevem a expansão do universo.",
+        "c": "comprovar a superioridade das estimativas obtidas pela equipe de Freedman.",
+        "d": "medir a distância entre galáxias utilizando parâmetros inéditos.",
+        "e": "determinar se o universo tem como característica crescer de modo infinito."
+      },
+      "resposta": "a",
+      "explicacao": "O texto diz que medições modernas da taxa de expansão discordam entre si e que \"everyone expected the sharp vision of the James Webb Space Telescope to bring the answer into focus\" — a expectativa era que a nitidez do telescópio resolvesse a divergência sobre a constante de Hubble. A alternativa B fala em substituir métodos por novas equações; C toma partido pela equipe de Freedman, quando a expectativa era neutra; D fala em parâmetros inéditos de distância entre galáxias; e E desloca a questão para saber se o universo cresce infinitamente, que não é o objeto da tensão de Hubble."
+    },
+    {
+      "id": "fuvest-ingles-14",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Nearly a century ago, Edwin Hubble discovered that the universe is getting larger. Modern measurements of how fast it is expanding disagree, however, suggesting that our understanding of the laws of physics might be off. Everyone expected the sharp vision of the James Webb Space Telescope to bring the answer into focus. But a long-awaited analysis of the telescope’s observations released late Monday evening once again gleans conflicting expansion rates from different types of data, while homing in on possible sources of error at the heart of the conflict. Two rival teams have led the effort to measure the cosmic expansion rate, which is known as the Hubble constant, or H0. One of these teams, led by Adam Riess of Johns Hopkins University, has consistently measured H0 to be about 8 percent higher than the theoretical prediction for how fast space should be expanding, based on the cosmos’s known ingredients and governing equations. This discrepancy, known as the Hubble tension, suggests that the theoretical model of the cosmos might be missing something—some extra ingredient or effect that speeds up cosmic expansion. Riess and his team released their latest measurement of H0 based on Webb data this spring, getting a value that agrees with their earlier estimates. But for years a rival team led by Wendy Freedman of the University of Chicago has urged caution, arguing that cleaner measurements were needed. Her team’s own measurements of H0 have invariably landed closer than Riess’ to the theoretical prediction, implying that the Hubble tension may not be real. Since the Webb telescope started taking data in 2022, the astrophysics community has awaited Freedman’s multipronged analysis using the telescope’s observations of three types of stars. Now, the results are in: Two types of stars yield H0 estimates that align with the theoretical prediction, while the third—the same type of star Riess uses—matches his team’s higher H0 value. Disponível em https://wired.com/. 08 Sep 2024. Adaptado.",
+      "enunciado": "De acordo com o texto, a abordagem metodológica da equipe de Adam Riess",
+      "alternativas": {
+        "a": "mantém as previsões do modelo consolidado pela ciência.",
+        "b": "utiliza número limitado de simulações de computador para estimar a constante de Hubble.",
+        "c": "obtém dados observacionais para confrontar previsões teóricas.",
+        "d": "faz uso exclusivo de dados do Telescópio Espacial James Webb.",
+        "e": "rejeita equações conhecidas e proposição de novas leis físicas."
+      },
+      "resposta": "c",
+      "explicacao": "A equipe de Riess mede H0 a partir de observações e encontra um valor cerca de 8% acima da previsão teórica, e é esse confronto entre dado observado e modelo que sustenta a tensão de Hubble. A alternativa A diz que ele mantém as previsões do modelo consolidado, quando são as medições de Freedman que ficam próximas delas; B fala em simulações de computador, que o texto não menciona; D restringe o método a dados do Webb, mas Riess já tinha estimativas anteriores confirmadas por ele; e E afirma que ele rejeita as equações conhecidas, quando o texto apenas sugere que o modelo pode estar faltando algum ingrediente."
+    },
+    {
+      "id": "fuvest-ingles-15",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Researchers investigated the quantities of thousands of muscle proteins and found a possible new explanation for muscle memory. A study showed for the first time that muscles \"remember\" training at the protein level. It is often thought that the effects of exercise are short-lived, and a break from the gym can cause stress over muscle loss. However, the research has shown that this stress is partly unnecessary, as the effects of resistance training persist in muscles for up to two months and the gains are fast when training is started again. But what mechanisms and changes at the cellular and molecular levels explain muscle memory? In the study, ten weeks of resistance training was followed by a break of the same length and then followed by another ten weeks of resistance training. Using the proteomics method, it was possible to study the quantities of over 3,000 muscle proteins using advanced mass spectrometry equipment. The study found two types of change profiles in muscle proteins. Some proteins changed as a result of training, returned to their pre-training state during the break, and changed again during the new training period similarly to the first training period. These included proteins related to aerobic metabolism. Another group of proteins changed as a result of training and remained changed during the break and after the new training period. Among these proteins were several calcium-binding proteins, such as calpain-2, whose gene has recently been identified to retain a memory trace even after a training break. \"At the level of the number of muscle nuclei and the memory traces of genes, that is, epigenetics, long-term responses that persist even after a break and possibly explain 'muscle memory' have previously been observed,\" says a researcher. \"Now, for the first time, we have shown that muscles 'remember' previous resistance training at the protein level for at least two and a half months.\" Disponível em https://jyu.fi/en/news/. 14 April 2025. Adaptado.",
+      "enunciado": "Segundo o texto, os experimentos demonstram que",
+      "alternativas": {
+        "a": "a prática de esportes ativa genes através da mudança do código genético.",
+        "b": "as quantidades de proteínas musculares apresentam mudanças após a atividade física.",
+        "c": "a epigenética refuta a hipótese da ação da memória muscular após treinos leves.",
+        "d": "as proteínas relacionadas ao metabolismo aeróbico ativam mudanças irreversíveis.",
+        "e": "os métodos da proteômica dificultam a caracterização das proteínas e suas interações."
+      },
+      "resposta": "b",
+      "explicacao": "O estudo usou proteômica para medir mais de três mil proteínas musculares e encontrou dois perfis de mudança: um que volta ao estado anterior durante a pausa e outro que permanece alterado. Nos dois casos, o que se mediu foi a variação nas quantidades de proteína depois do treino. A alternativa A afirma que o esporte muda o código genético, e o texto fala em epigenética, que altera a expressão sem mudar a sequência; C usa a epigenética para refutar a memória muscular, quando ela a sustenta; D chama de irreversíveis as proteínas do metabolismo aeróbico, que são justamente as que retornam ao estado inicial; e E diz que a proteômica dificulta a caracterização, sendo ela o método que a tornou possível."
+    },
+    {
+      "id": "fuvest-ingles-16",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Think for a minute about the little bumps on your tongue. You probably saw a diagram of those taste bud arrangements once in a biology textbook — sweet sensors at the tip, salty on either side, sour behind them, bitter in the back. But the idea that specific tastes are confined to certain areas of the tongue is a myth that “persists in the collective consciousness, despite decades of research debunking it”, according to a review published this month in The New England Journal of Medicine. Also wrong: the notion that taste is limited to the mouth. The old diagram, which has been used in many textbooks over the years, originated in a study published by David Hanig, a German scientist, in 1901. But the scientist was not suggesting that various tastes are segregated on the tongue. He was actually measuring the sensitivity of different areas, said Paul Breslin, a researcher at Monell Chemical Senses Center in Philadelphia. “What he found was that you could detect things at a lower concentration in one part relative to another,” Dr. Breslin said. The tip of the tongue, for example, is dense with sweet sensors but contains the others as well. The map’s mistakes are easy to confirm. If you place a lemon wedge at the tip of your tongue, it will taste sour, and if you put a bit of honey toward the side, it will be sweet. The perception of taste is a remarkably complex process, starting from that first encounter with the tongue. Taste cells have a variety of sensors that signal the brain when they encounter nutrients or toxins. For some tastes, tiny pores in cell membranes let taste chemicals in. Such taste receptors aren’t limited to the tongue; they are also found in the gastrointestinal tract, liver, pancreas, fat cells, brain, muscle cells, thyroid and lungs. We don’t generally think of these organs as tasting anything, but they use the receptors to pick up the presence of various molecules and metabolize them, said Diego Bohórquez, a self-described gut-brain neuroscientist at Duke University. For example, when the gut notices sugar in food, it tells the brain to alert other organs to get ready for digestion. New York Times. May 29, 2024. Adaptado.",
+      "enunciado": "Sobre os receptores gustativos e sua distribuição corporal, o texto sugere que",
+      "alternativas": {
+        "a": "certas áreas da língua identificam gostos específicos, como doce na ponta e azedo no fundo.",
+        "b": "o comportamento alimentar é moldado por padrões fixados na infância.",
+        "c": "a percepção gustativa reforça o prazer estético associado aos hábitos nutricionais.",
+        "d": "a detecção de sabores envolve rede integrada de órgãos que colaboram com o sistema nervoso.",
+        "e": "a função dos sensores extraorais restringe-se à regulação da glicemia."
+      },
+      "resposta": "d",
+      "explicacao": "O texto derruba duas ideias de uma vez: a do mapa da língua e a de que o paladar se limita à boca. Receptores gustativos estão também no trato gastrointestinal, no fígado, no pâncreas, nas células de gordura, no cérebro, nos músculos, na tireoide e nos pulmões — e o intestino, ao notar açúcar, avisa o cérebro para preparar os demais órgãos. É uma rede integrada que conversa com o sistema nervoso. A alternativa A repete o mito do mapa; B e C introduzem hábitos e prazer estético, que o texto não trata; e E limita os sensores extraorais à glicemia, quando eles detectam nutrientes e toxinas em geral."
+    },
+    {
+      "id": "fuvest-ingles-17",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Think for a minute about the little bumps on your tongue. You probably saw a diagram of those taste bud arrangements once in a biology textbook — sweet sensors at the tip, salty on either side, sour behind them, bitter in the back. But the idea that specific tastes are confined to certain areas of the tongue is a myth that “persists in the collective consciousness, despite decades of research debunking it”, according to a review published this month in The New England Journal of Medicine. Also wrong: the notion that taste is limited to the mouth. The old diagram, which has been used in many textbooks over the years, originated in a study published by David Hanig, a German scientist, in 1901. But the scientist was not suggesting that various tastes are segregated on the tongue. He was actually measuring the sensitivity of different areas, said Paul Breslin, a researcher at Monell Chemical Senses Center in Philadelphia. “What he found was that you could detect things at a lower concentration in one part relative to another,” Dr. Breslin said. The tip of the tongue, for example, is dense with sweet sensors but contains the others as well. The map’s mistakes are easy to confirm. If you place a lemon wedge at the tip of your tongue, it will taste sour, and if you put a bit of honey toward the side, it will be sweet. The perception of taste is a remarkably complex process, starting from that first encounter with the tongue. Taste cells have a variety of sensors that signal the brain when they encounter nutrients or toxins. For some tastes, tiny pores in cell membranes let taste chemicals in. Such taste receptors aren’t limited to the tongue; they are also found in the gastrointestinal tract, liver, pancreas, fat cells, brain, muscle cells, thyroid and lungs. We don’t generally think of these organs as tasting anything, but they use the receptors to pick up the presence of various molecules and metabolize them, said Diego Bohórquez, a self-described gut-brain neuroscientist at Duke University. For example, when the gut notices sugar in food, it tells the brain to alert other organs to get ready for digestion. New York Times. May 29, 2024. Adaptado.",
+      "enunciado": "O texto informa que, de acordo com Paul Breslin, a interpretação do estudo de Hanig foi equivocada, porque",
+      "alternativas": {
+        "a": "a representação gráfica dos resultados foi elaborada décadas depois sem base científica.",
+        "b": "o autor original investigou limiares de sensibilidade, sem defender a exclusividade de sabores em regiões da língua.",
+        "c": "o foco da pesquisa foi o comportamento alimentar em diferentes culturas.",
+        "d": "o objetivo central concentrou-se na classificação bioquímica dos receptores gustativos.",
+        "e": "a análise dos dados priorizou a resposta cerebral em vez de aspectos periféricos."
+      },
+      "resposta": "b",
+      "explicacao": "Breslin explica que Hanig não propunha segregação de sabores: ele media sensibilidade. \"What he found was that you could detect things at a lower concentration in one part relative to another\" — a ponta da língua é densa em sensores de doce, mas contém todos os outros. O erro está na leitura posterior, não no estudo. A alternativa A culpa uma representação gráfica feita décadas depois sem base científica, e o diagrama saiu do próprio dado; C e D deslocam o foco da pesquisa para cultura alimentar e bioquímica dos receptores; e E fala em priorizar a resposta cerebral, que não é o que Hanig media."
+    },
+    {
+      "id": "fuvest-ingles-18",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "During the nineteen-seventies and eighties, a researcher at the University of Washington started noticing something strange in the college’s experimental forest. For years, a blight of caterpillars had been munching the trees to death. Then, suddenly, the caterpillars themselves started dying off. The forest was able to recover. But what had happened to the caterpillars? The researcher, David Rhoades, who had a background in chemistry and zoology, found that the trees in the forest had changed the chemistry of their leaves, to the detriment of the caterpillars. Even more surprising, trees that had been nibbled by caterpillars weren’t the only ones that had changed their chemistry. Some were changing their leaves before caterpillars reached them, as if they’d received a warning. A shocking possibility presented itself: the trees were signalling to one another. Zoë Schlanger recounts Rhoades’s story in her new book, “The Light Eaters: How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth.” The contemporary world of botany that Schlanger explores in “The Light Eaters” is still divided over the matter of how plants sense the world and whether they can be said to communicate. But, in the past twenty years, the idea that plants communicate has gained broader acceptance. Research in recent decades has shown garden-variety lima beans protecting themselves by synthesizing and releasing chemicals to summon the predators of the insects that eat them; lab-grown pea shoots navigating mazes and responding to the sound of running water; and a chameleonic vine in the jungles of Chile mimicking the shape and color of nearby plants by a mechanism that’s not yet understood. Schlanger acknowledges that some of the research yields as many questions as answers. It’s not clear how the vine gathers information about surrounding plants to perform its mimicry. New Yorker. 12 June 2024. Adaptado.",
+      "enunciado": "Conforme o texto, a experiência conduzida por David Rhoades, na floresta experimental da Universidade de Washington, tornou-se marcante para a botânica, por revelar a",
+      "alternativas": {
+        "a": "dependência das árvores de inimigos naturais para a manutenção do equilíbrio das florestas.",
+        "b": "alteração da composição das folhas, capaz de comprometer a sobrevivência de insetos herbívoros.",
+        "c": "variabilidade das lagartas como fator decisivo para a resiliência dos ecossistemas.",
+        "d": "influência determinante da fertilidade do solo na recuperação da vegetação.",
+        "e": "oscilação natural das populações de pragas como causa da regeneração florestal."
+      },
+      "resposta": "b",
+      "explicacao": "Rhoades descobriu que as árvores da floresta experimental haviam mudado a química das próprias folhas \"to the detriment of the caterpillars\" — e as lagartas começaram a morrer. É a alteração da composição foliar comprometendo a sobrevivência do herbívoro, e o achado ficou marcante porque árvores ainda não atacadas também mudaram, como se avisadas. A alternativa A fala em inimigos naturais, que aparecem no exemplo do feijão-de-lima, não neste; C atribui a resiliência à variabilidade das lagartas; D introduz fertilidade do solo; e E explica tudo pela oscilação natural das pragas, que é exatamente a hipótese que a descoberta afasta."
+    },
+    {
+      "id": "fuvest-ingles-19",
+      "banca": "fuvest",
+      "sessao": "fuvest-2026-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "During the nineteen-seventies and eighties, a researcher at the University of Washington started noticing something strange in the college’s experimental forest. For years, a blight of caterpillars had been munching the trees to death. Then, suddenly, the caterpillars themselves started dying off. The forest was able to recover. But what had happened to the caterpillars? The researcher, David Rhoades, who had a background in chemistry and zoology, found that the trees in the forest had changed the chemistry of their leaves, to the detriment of the caterpillars. Even more surprising, trees that had been nibbled by caterpillars weren’t the only ones that had changed their chemistry. Some were changing their leaves before caterpillars reached them, as if they’d received a warning. A shocking possibility presented itself: the trees were signalling to one another. Zoë Schlanger recounts Rhoades’s story in her new book, “The Light Eaters: How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth.” The contemporary world of botany that Schlanger explores in “The Light Eaters” is still divided over the matter of how plants sense the world and whether they can be said to communicate. But, in the past twenty years, the idea that plants communicate has gained broader acceptance. Research in recent decades has shown garden-variety lima beans protecting themselves by synthesizing and releasing chemicals to summon the predators of the insects that eat them; lab-grown pea shoots navigating mazes and responding to the sound of running water; and a chameleonic vine in the jungles of Chile mimicking the shape and color of nearby plants by a mechanism that’s not yet understood. Schlanger acknowledges that some of the research yields as many questions as answers. It’s not clear how the vine gathers information about surrounding plants to perform its mimicry. New Yorker. 12 June 2024. Adaptado.",
+      "enunciado": "O caso da vinha chilena apresentado no texto suscita questionamentos científicos quanto",
+      "alternativas": {
+        "a": "à capacidade de adaptar seu ciclo reprodutivo às condições ecológicas.",
+        "b": "à dependência de polinizadores para manter sua plasticidade fenotípica.",
+        "c": "à influência da altitude na coloração e textura das folhas imitadas.",
+        "d": "ao papel da simbiose com fungos na alteração morfológica.",
+        "e": "ao modo como o vegetal reproduz características visuais de espécies vizinhas."
+      },
+      "resposta": "e",
+      "explicacao": "O texto cita \"a chameleonic vine in the jungles of Chile mimicking the shape and color of nearby plants by a mechanism that's not yet understood\" e reforça no fim: não se sabe como a trepadeira reúne informação sobre as plantas ao redor para executar o mimetismo. A pergunta científica em aberto é, portanto, o modo como ela reproduz as características visuais das vizinhas. As demais alternativas propõem hipóteses que o texto não levanta: ciclo reprodutivo, polinizadores, altitude e simbiose com fungos."
     }
   ]
 }

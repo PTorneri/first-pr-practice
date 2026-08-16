@@ -8492,6 +8492,177 @@
    },
    "resposta": "a",
    "explicacao": "Com 1/3 de litro de vinagre e a proporção de 2 mol de CO2 para cada 3 litros, formam-se n = 2 × (1/3) ÷ 3 = 2/9 mol de gás. O gás ocupa o que sobra da garrafa: 2 − 1/3 = 5/3 L. Aplicando PV = nRT, P = (2/9 × 0,08 × 300) ÷ (5/3) = (16/3) × (3/5) = 3,2 atm. Os demais valores saem de errar uma das duas grandezas: contar o volume da garrafa inteira como espaço do gás, sem descontar o líquido, ou tomar os 2 mol da proporção como se fossem o total produzido."
+  },
+  {
+   "id": "fuvest-quimica-18",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Essa imagem, chamada de “A formatura da capivara”, foi gerada por Inteligência Artificial (IA). Em 2024 estimou- se que 30 milhões de imagens foram geradas diariamente no mundo utilizando modelos de IA a um gasto energético médio de 131 kJ por imagem. O uso intenso dessa tecnologia tem levado à reativação de usinas termoelétricas e à construção de novas usinas nucleares para suportar os servidores que realizam o processamento de IA.\n\nNote e adote: Massa molar (g/mol): C = 12; O = 16. Entalpia de combustão completa do carvão: ΔH = −393 kJ/mol.",
+   "enunciado": "Considerando que toda a energia para gerar essas imagens fosse proveniente da combustão completa de carvão, a pegada de carbono diária medida em toneladas de CO2 formado, resultante da produção dessas imagens, seria de",
+   "alternativas": {
+    "a": "0,2.",
+    "b": "10.",
+    "c": "150.",
+    "d": "280.",
+    "e": "440."
+   },
+   "resposta": "e",
+   "explicacao": "A energia diária é 30 × 10⁶ imagens × 131 kJ = 3,93 × 10⁹ kJ. Cada mol de carbono queimado libera 393 kJ, então são necessários 3,93 × 10⁹ ÷ 393 = 1,0 × 10⁷ mol de C. Na combustão completa, cada mol de carbono gera um mol de CO2, de massa molar 44 g/mol: 1,0 × 10⁷ × 44 = 4,4 × 10⁸ g, ou 440 toneladas. Os valores menores das outras alternativas saem de esquecer a conversão de gramas para toneladas ou de usar a massa molar do carbono no lugar da do CO2."
+  },
+  {
+   "id": "fuvest-quimica-19",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O processo de corrosão do aço é favorecido em ambientes úmidos e ácidos. Para evitar a corrosão de superfícies de aço é comum utilizar óleos para impedir o contato da umidade do ar com a superfície. Nos casos em que o uso de óleo não é conveniente, é possível criar uma camada de NaOH(s) na superfície do metal aplicando uma solução aquosa relativamente concentrada desta base sobre a ferramenta e deixando a solução secar por completo.",
+   "enunciado": "Esse tipo de tratamento com hidróxido de sódio é efetivo em ambientes com elevada acidez pois, caso a água entre em contato com a superfície tratada, ela",
+   "alternativas": {
+    "a": "será repelida pela camada hidrofóbica de hidróxido de sódio, evitando o contato direto da água com o metal e sua oxidação.",
+    "b": "solubilizará o hidróxido de sódio, que neutralizará o ácido presente na água que poderia induzir o processo de oxidação na superfície do metal.",
+    "c": "será oxidada pelo hidróxido de sódio, gerando sua forma reduzida que, em contato com a superfície do metal, impede o processo de corrosão.",
+    "d": "gerará um acúmulo de água na superfície hidrofílica da camada de hidróxido de sódio, impedindo sua solubilização e a consequente formação de ácido.",
+    "e": "reagirá diretamente com o sódio do hidróxido de sódio, já que este atuará como metal de sacrifício, sofrendo oxidação e protegendo a superfície metálica."
+   },
+   "resposta": "b",
+   "explicacao": "O hidróxido de sódio é iônico e muito solúvel: a água que alcança a superfície o dissolve, e a base resultante neutraliza o ácido dissolvido nessa mesma água, removendo o H⁺ que catalisaria a oxidação do ferro. A proteção é química, não física. A alternativa A chama a camada de hidrofóbica, quando o NaOH é fortemente higroscópico; C inventa uma oxidação da água pelo hidróxido; D supõe que a camada não se solubiliza, o que anularia o mecanismo; e E faz o sódio agir como metal de sacrifício, mas no hidróxido ele já está oxidado, como Na⁺."
+  },
+  {
+   "id": "fuvest-quimica-20",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O produto conhecido como descalcificante, comumente composto por ácido cítrico, é usado para desentupir os dutos internos de eletrodomésticos como cafeteiras e ferros de passar roupa a vapor. O entupimento frequentemente é causado pelo depósito de calcário (CaCO3), produto da reação entre CO2 e íons cálcio presentes na água. O equilíbrio de formação do carbonato de cálcio está representado a seguir: Ca2+(aq) + CO2(g) + H2O(l) ⇌ CaCO3(s) + 2H+(aq).",
+   "enunciado": "Sobre os processos de entupimento por carbonato de cálcio e a descalcificação desses eletrodomésticos, é correto afirmar que",
+   "alternativas": {
+    "a": "a diminuição do pH pela presença do ácido cítrico leva à reação de descalcificação.",
+    "b": "a reação de descalcificação com ácido cítrico desloca o equilíbrio porque consome CO2.",
+    "c": "ambientes ricos em CO2 causam menos entupimento dos eletrodomésticos.",
+    "d": "a utilização de água com maior pH nos eletrodomésticos causa menos entupimento.",
+    "e": "o ácido cítrico age como um catalisador, pois não participa do equilíbrio de descalcificação."
+   },
+   "resposta": "a",
+   "explicacao": "No equilíbrio Ca²⁺ + CO2 + H2O ⇌ CaCO3 + 2H⁺, o ácido cítrico acrescenta H⁺, que está do lado dos produtos. Por Le Chatelier, o sistema desloca para a esquerda para consumir o excesso: o carbonato de cálcio se dissolve e o duto desentope. A alternativa B diz que a descalcificação consome CO2, quando ela o produz; C afirma que ambientes ricos em CO2 entopem menos, quando o CO2 é reagente e favorece a formação do depósito; D atribui menos entupimento à água de pH maior, e menos H⁺ desloca o equilíbrio para o precipitado; e E chama o ácido de catalisador, sendo ele participante do equilíbrio."
+  },
+  {
+   "id": "fuvest-quimica-21",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Quem viajou de avião já ouviu o famoso aviso: “Em caso de despressurização da cabine, máscaras de oxigênio cairão automaticamente acima do seu assento. Puxe uma das máscaras, coloque-a sobre o nariz e a boca e respire normalmente (...)”. Porém, ao invés de aviões conterem cilindros de oxigênio que alimentam as máscaras, esse gás é gerado por meio de uma reação química. No compartimento sobre cada passageiro encontra-se um reservatório contendo um sal como o clorato de sódio (NaC,O3) que, ao se decompor, produz oxigênio (O2), cloreto de sódio (NaC,) e calor. O clorato de sódio é estável em temperatura ambiente, e sua decomposição só se inicia quando o passageiro puxa a máscara, o que dispara um gatilho que gera calor suficiente para iniciar a reação que, então, se mantém autossuficiente até consumo total do reagente.",
+   "enunciado": "Essa reação de geração de oxigênio",
+   "alternativas": {
+    "a": "é endotérmica, pois se inicia somente em altas temperaturas.",
+    "b": "é uma reação de oxirredução na qual o cloro é oxidado e o oxigênio é reduzido.",
+    "c": "deve possuir uma baixa energia de ativação para ser ativada nas baixas temperaturas das altitudes elevadas.",
+    "d": "deve ser exotérmica o suficiente para manter a temperatura alta após iniciada.",
+    "e": "é uma reação de oxirredução na qual o sódio é reduzido e o oxigênio é oxidado."
+   },
+   "resposta": "d",
+   "explicacao": "O texto diz que a decomposição só começa quando um gatilho gera calor suficiente e que, uma vez iniciada, ela \"se mantém autossuficiente até consumo total do reagente\". Uma reação que se sustenta sozinha precisa liberar mais energia do que consome para prosseguir: é exotérmica o bastante para manter a temperatura alta. A alternativa A a chama de endotérmica, confundindo energia de ativação alta com absorção líquida de calor; C pede baixa energia de ativação, o que tornaria o sal instável na prateleira; e B e E erram os números de oxidação, pois no clorato o cloro passa de +5 a −1, sendo reduzido, e o oxigênio de −2 a 0, sendo oxidado."
+  },
+  {
+   "id": "fuvest-quimica-22",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Quem viajou de avião já ouviu o famoso aviso: “Em caso de despressurização da cabine, máscaras de oxigênio cairão automaticamente acima do seu assento. Puxe uma das máscaras, coloque-a sobre o nariz e a boca e respire normalmente (...)”. Porém, ao invés de aviões conterem cilindros de oxigênio que alimentam as máscaras, esse gás é gerado por meio de uma reação química. No compartimento sobre cada passageiro encontra-se um reservatório contendo um sal como o clorato de sódio (NaC,O3) que, ao se decompor, produz oxigênio (O2), cloreto de sódio (NaC,) e calor. O clorato de sódio é estável em temperatura ambiente, e sua decomposição só se inicia quando o passageiro puxa a máscara, o que dispara um gatilho que gera calor suficiente para iniciar a reação que, então, se mantém autossuficiente até consumo total do reagente.\n\nNote e adote: Considere que a quantidade de matéria de oxigênio consumida é independente da altitude e que os passageiros continuam respirando normalmente. Volume molar ao nível do mar a 20 °C = 24 L/mol. Massa molar do NaClO3 = 106 g/mol.",
+   "enunciado": "A massa de clorato de sódio consumida na reação deve ser suficiente para gerar, no mínimo, 15 minutos de oxigênio, permitindo que a aeronave baixe sua altitude, restabelecendo a pressão da cabine. Calcule a massa de clorato de sódio mínima, em gramas, que deve ser utilizada por reservatório, para gerar oxigênio suficiente por 15 minutos, considerando que a taxa de respiração média de oxigênio de um adulto é de 1,2 L/min ao nível do mar a 20 °C.",
+   "alternativas": {
+    "a": "27",
+    "b": "53",
+    "c": "80",
+    "d": "94",
+    "e": "119"
+   },
+   "resposta": "b",
+   "explicacao": "Em 15 minutos a 1,2 L/min são consumidos 18 L de O2, que a 24 L/mol equivalem a 0,75 mol. A decomposição é 2 NaClO3 → 2 NaCl + 3 O2, ou seja, 3 mol de gás para cada 2 mol de sal: são necessários 0,75 × 2/3 = 0,50 mol de clorato. Multiplicando pela massa molar, 0,50 × 106 = 53 g. O valor 80 g sairia de tomar a proporção como um para um, e 27 g de invertê-la."
+  },
+  {
+   "id": "fuvest-quimica-23",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A espectrometria de massas, utilizada para a identificação das proteínas no estudo apresentado no texto, é uma técnica que permite determinar com precisão a massa molecular de moléculas carregadas. A determinação da massa exata da molécula é feita a partir do conhecimento da sua carga e da razão massa/carga (m/z), parâmetro que influencia no movimento das espécies, permitindo sua determinação. Caso a carga das moléculas seja unitária, a razão m/z é numericamente igual à massa da espécie a ser identificada. Caso a carga seja 2, a razão m/z detectada é metade da massa da molécula. A imagem a seguir representa, na forma de um gráfico, o resultado de uma análise por espectrometria de massas de uma amostra pura contendo apenas uma espécie intacta com fórmula molecular [C44H69NO12Ca]2+ e massa exata, considerando os isótopos mais abundantes, de 843,444 g/mol, detectada como m/z 421,722.",
+   "enunciado": "A presença de outros sinais além do sinal de m/z 421,722, mesmo em uma amostra pura não contendo nenhuma outra espécie além do [C44H69NO12Ca]2+, deve-se",
+   "alternativas": {
+    "a": "à presença de outros isótopos menos abundantes e mais pesados de átomos presentes na molécula.",
+    "b": "às espécies com cargas unitárias que possuem massa maior.",
+    "c": "à presença de outros isótopos mais abundantes e mais pesados de átomos presentes na molécula.",
+    "d": "à carga do cálcio, que faz com que a espécie detectada tenha mais de uma massa molecular.",
+    "e": "à presença de outros isótopos menos abundantes e mais leves de átomos presentes na molécula."
+   },
+   "resposta": "a",
+   "explicacao": "Mesmo uma amostra quimicamente pura não é isotopicamente pura: entre os 44 carbonos da molécula, alguns aparecem como ¹³C em vez de ¹²C, e o mesmo vale para ¹⁵N, ¹⁷O e ¹⁸O. Cada substituição acrescenta um pouco de massa e gera um sinal vizinho, ligeiramente à direita do principal — a chamada distribuição isotópica. A alternativa C chama esses isótopos de mais abundantes, quando são os raros; E os diz mais leves, e os isótopos alternativos desses elementos são mais pesados; B invoca espécies de carga unitária, que não estão na amostra; e D faz a carga do cálcio conferir várias massas à mesma espécie."
+  },
+  {
+   "id": "fuvest-quimica-24",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "During the nineteen-seventies and eighties, a researcher at the University of Washington started noticing something strange in the college’s experimental forest. For years, a blight of caterpillars had been munching the trees to death. Then, suddenly, the caterpillars themselves started dying off. The forest was able to recover. But what had happened to the caterpillars? The researcher, David Rhoades, who had a background in chemistry and zoology, found that the trees in the forest had changed the chemistry of their leaves, to the detriment of the caterpillars. Even more surprising, trees that had been nibbled by caterpillars weren’t the only ones that had changed their chemistry. Some were changing their leaves before caterpillars reached them, as if they’d received a warning. A shocking possibility presented itself: the trees were signalling to one another. Zoë Schlanger recounts Rhoades’s story in her new book, “The Light Eaters: How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth.” The contemporary world of botany that Schlanger explores in “The Light Eaters” is still divided over the matter of how plants sense the world and whether they can be said to communicate. But, in the past twenty years, the idea that plants communicate has gained broader acceptance. Research in recent decades has shown garden-variety lima beans protecting themselves by synthesizing and releasing chemicals to summon the predators of the insects that eat them; lab-grown pea shoots navigating mazes and responding to the sound of running water; and a chameleonic vine in the jungles of Chile mimicking the shape and color of nearby plants by a mechanism that’s not yet understood. Schlanger acknowledges that some of the research yields as many questions as answers. It’s not clear how the vine gathers information about surrounding plants to perform its mimicry. New Yorker. 12 June 2024. Adaptado. O processo de comunicação entre plantas discutido no texto pode ocorrer de diversas formas. Uma delas baseia-se na emissão de moléculas por uma planta atacada, chamada de emissor, e a recepção dessas moléculas por uma outra planta, chamada de receptor. Dependendo do tipo de ataque e das espécies envolvidas, essa comunicação pode acontecer tanto por via aérea, quanto por via do solo, facilitada pela água presente.",
+   "enunciado": "Considerando os processos de sinalização entre plantas descritos, é correto afirmar:",
+   "alternativas": {
+    "a": "Na via aérea, os compostos gerados pelo emissor podem ser polares para que possuam uma volatilidade elevada.",
+    "b": "Na comunicação pelo solo, as moléculas devem ser necessariamente apolares, para que possam ser solubilizadas no meio, atingindo o receptor.",
+    "c": "As moléculas transportadas por via aérea seriam facilmente solubilizadas no solo por conta da sua baixa polaridade.",
+    "d": "As moléculas polares geradas pelas folhas são facilmente transportadas pelo solo por conta de suas relativas baixas solubilidades.",
+    "e": "As moléculas responsáveis pela comunicação por via aérea devem possuir alta volatilidade e baixa polaridade."
+   },
+   "resposta": "e",
+   "explicacao": "Para viajar pelo ar, a molécula precisa evaporar com facilidade — e evapora bem o que interage pouco consigo mesmo, isto é, o composto apolar, sem ligações de hidrogênio a romper. Volatilidade alta e polaridade baixa andam juntas, e é o caso dos terpenos e derivados que as plantas liberam. A alternativa A associa alta volatilidade a moléculas polares, invertendo a relação; B exige moléculas apolares para dissolver no solo úmido, quando é o polar que se solubiliza em água; C faz o composto de baixa polaridade dissolver-se facilmente no solo; e D atribui fácil transporte no solo a moléculas polares justamente por sua baixa solubilidade, contradizendo-se."
+  },
+  {
+   "id": "fuvest-quimica-25",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Um dos maiores desafios na agricultura é a manutenção da quantidade ideal de nutrientes no solo sem o uso excessivo de fertilizantes que podem ser lixiviados. Pensando nisso, uma equipe de pesquisadores da USP desenvolveu um novo vidro fertilizante: Nosso fertilizante é um material no estado vítreo (...) com concentrações adequadas de fósforo, silício e potássio (...) e apresenta solubilidade em água e no solo. (...) Diferente dos fertilizantes convencionais, que precisam ser aplicados repetidamente já que seus nutrientes são levados pela água da chuva ou perdidos para a atmosfera, os fertilizantes em vidro foram desenvolvidos para liberar nutrientes de forma controlada e prolongada. Disponível em https://www5.iqsc.usp.br/2025/. Adaptado.",
+   "enunciado": "Em comparação com fertilizantes tradicionais de dissolução rápida, os fertilizantes vítreos",
+   "alternativas": {
+    "a": "poluem mais os lençóis freáticos por liberar continuamente fósforo que não é absorvido pelas plantas e é tóxico para os seres humanos.",
+    "b": "não são eficazes, pois vidros são insolúveis e demoram mais de mil anos para serem degradados no solo.",
+    "c": "poluem menos os lençóis freáticos, pois a menor velocidade de liberação dos nutrientes permite que as plantas os absorvam antes de sofrer lixiviação.",
+    "d": "devem ser mais eficazes, pois liberam uma grande quantidade de nutrientes rapidamente, facilitando a absorção pelas plantas.",
+    "e": "devem possuir maior velocidade de liberação para que as plantas absorvam os nutrientes antes que ocorra a lixiviação."
+   },
+   "resposta": "c",
+   "explicacao": "O problema do fertilizante convencional é a velocidade: ele se dissolve de uma vez, a planta não absorve tudo e a chuva leva o excedente para o lençol freático. O vidro libera devagar e de forma prolongada, mantendo a concentração no solo próxima do que a raiz consegue captar — logo, menos lixiviação e menos poluição. A alternativa A o acusa de poluir mais; B o chama de insolúvel, contra o próprio texto; D atribui a ele liberação rápida e abundante, que é a característica do fertilizante tradicional; e E pede velocidade maior, invertendo a lógica do produto."
+  },
+  {
+   "id": "fuvest-quimica-26",
+   "banca": "fuvest",
+   "sessao": "fuvest-2026-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A porcentagem em massa de fosfato (PO43-) numa amostra do vidro fertilizante é de 19%. A velocidade de dissolução desse vidro em água é constante e independente da massa inicial, sendo igual a 7,3 mg/h. Em um teste de dissolução, adicionou- se excesso dessa amostra de vidro fertilizante a 1 L de água e mediu-se a concentração de íons fosfato ao longo do tempo.\n\nNote e adote: Massa molar do fosfato = 95 g/mol.",
+   "enunciado": "A concentração de fosfato em mol/L obtida após 100 h de experimento foi",
+   "alternativas": {
+    "a": "1,46 × 10-3",
+    "b": "7,68 × 10-3",
+    "c": "139 × 10-3",
+    "d": "365 × 10-3",
+    "e": "730 × 10-3"
+   },
+   "resposta": "a",
+   "explicacao": "Em 100 horas, a uma taxa constante de 7,3 mg/h, dissolvem-se 730 mg de vidro. Como 19% dessa massa é fosfato, são 730 × 0,19 = 138,7 mg, ou 0,1387 g. Dividindo pela massa molar, 0,1387 ÷ 95 = 1,46 × 10⁻³ mol, num litro de água — logo 1,46 × 10⁻³ mol/L. O valor 7,68 × 10⁻³ sairia de dividir a massa total sem aplicar a porcentagem; 730 × 10⁻³ é a massa em miligramas tomada como concentração; e os intermediários vêm de esquecer a conversão de miligrama para grama."
   }
  ],
  "textos": [

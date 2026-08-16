@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "artes-cultura",
- "total": 403,
+ "total": 407,
  "residuo": [
   "dir-artes-cultura-31",
   "dir-artes-cultura-32",
@@ -2415,6 +2415,28 @@
    "frenteDestino": "artes-cultura",
    "pontos": 24,
    "margem": 19
+  },
+  "fuvest-artes-cultura-3": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "revisado": true
+  },
+  "fuvest-artes-cultura-4": {
+   "subtema": "artes-musica-cena",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fuvest-artes-cultura-5": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "revisado": true
+  },
+  "fuvest-artes-cultura-6": {
+   "subtema": "artes-classica-moderna",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

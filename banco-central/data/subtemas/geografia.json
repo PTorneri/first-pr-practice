@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "geografia",
- "total": 587,
+ "total": 594,
  "residuo": [
   "dir-geografia-24",
   "dir-geografia-28",
@@ -3504,6 +3504,47 @@
    "subtema": "geografia-fisica-clima",
    "frenteDestino": "geografia",
    "revisado": true
+  },
+  "fuvest-geografia-14": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-geografia-15": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "fuvest-geografia-16": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "fuvest-geografia-17": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "fuvest-geografia-18": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "fuvest-geografia-19": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "fuvest-geografia-20": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
   }
  }
 }

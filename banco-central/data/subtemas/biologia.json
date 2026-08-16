@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-15",
+ "gerado": "2026-08-16",
  "frente": "biologia",
- "total": 459,
+ "total": 461,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -2757,6 +2757,18 @@
    "frenteDestino": "biologia",
    "pontos": 9,
    "margem": 9
+  },
+  "med-biologia-461": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-biologia-462": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 10
   }
  }
 }

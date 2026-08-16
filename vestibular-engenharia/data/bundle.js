@@ -16682,6 +16682,38 @@ window.QUESTION_BANKS = {
    "explicacao": "Na panela de pressão, o aumento da pressão interna eleva o ponto de ebulição da água para acima de 100°C, permitindo que o alimento cozinhe em temperatura mais alta e, portanto, mais rapidamente.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-486",
+   "enunciado": "Em um recipiente termicamente isolado, misturam-se 300 g de água a 80 °C com 200 g de água a 30 °C. Considerando que só há troca de calor entre as duas porções e que o calor específico da água vale 1,0 cal/(g·°C), a temperatura de equilíbrio térmico da mistura é de:",
+   "alternativas": {
+    "a": "40 °C",
+    "b": "45 °C",
+    "c": "50 °C",
+    "d": "55 °C",
+    "e": "60 °C"
+   },
+   "resposta": "e",
+   "explicacao": "O calor cedido pela porção quente iguala o recebido pela fria: 300 × 1,0 × (80 − T) = 200 × 1,0 × (T − 30). Daí 24 000 − 300T = 200T − 6 000, ou seja, 500T = 30 000 e T = 60 °C. A temperatura de equilíbrio térmico fica mais próxima da porção de maior massa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-487",
+   "enunciado": "Um trilho de aço de 20 m de comprimento é assentado a 10 °C. Em um dia de verão, sua temperatura chega a 50 °C. Sendo 1,2 × 10⁻⁵ °C⁻¹ o coeficiente de dilatação linear do aço, o acréscimo de comprimento do trilho é de:",
+   "alternativas": {
+    "a": "0,96 mm",
+    "b": "4,8 mm",
+    "c": "9,6 mm",
+    "d": "12,0 mm",
+    "e": "19,2 mm"
+   },
+   "resposta": "c",
+   "explicacao": "Na dilatação linear, ΔL = L₀ · α · ΔT. Com L₀ = 20 m, α = 1,2 × 10⁻⁵ °C⁻¹ e ΔT = 50 − 10 = 40 °C, tem-se ΔL = 20 × 1,2 × 10⁻⁵ × 40 = 9,6 × 10⁻³ m, isto é, 9,6 mm. É por isso que se deixa folga entre trilhos consecutivos.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "fisica-mecanica": [
@@ -27028,6 +27060,38 @@ window.QUESTION_BANKS = {
    "explicacao": "Na ligação metálica os elétrons de valência ficam deslocalizados por todo o retículo de cátions. Essa nuvem móvel explica a condução elétrica e permite que as camadas de cátions deslizem sob impacto sem que o material se rompa.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-449",
+   "enunciado": "Sob pressão de 1 atm, a água ferve a 100 °C, enquanto o sulfeto de hidrogênio (H₂S), de fórmula análoga e massa maior, ferve a −60 °C. Essa diferença entre as duas substâncias é explicada por:",
+   "alternativas": {
+    "a": "a maior massa das partículas de H₂S, que intensifica as forças de dispersão entre elas e por isso mantém esse composto no estado líquido em uma faixa de temperatura bem mais ampla que a da água",
+    "b": "a ligação de hidrogênio entre as partículas de água, interação intermolecular bem mais intensa que o dipolo permanente fraco do H₂S",
+    "c": "o caráter iônico da ligação entre hidrogênio e oxigênio, ausente na união entre hidrogênio e enxofre",
+    "d": "a geometria linear da partícula de água, arranjo que favorece o empacotamento e dificulta a passagem ao estado gasoso",
+    "e": "a menor eletronegatividade do oxigênio em relação ao enxofre, o que reduz a polaridade da união O—H"
+   },
+   "resposta": "b",
+   "explicacao": "O oxigênio é bem mais eletronegativo que o enxofre e, ligado ao hidrogênio, permite ligações de hidrogênio — a mais forte das forças intermoleculares. No H₂S há apenas dipolo permanente fraco, vencido em temperatura muito menor. A geometria angular da água ainda reforça essa polaridade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-450",
+   "enunciado": "O gás carbônico (CO₂) é apolar, ainda que a união entre carbono e oxigênio seja polar; já o dióxido de enxofre (SO₂), formado por átomos de diferença de eletronegatividade parecida, é polar. Assinale a alternativa que justifica corretamente essa diferença.",
+   "alternativas": {
+    "a": "o CO₂ apresenta hibridação sp³ no átomo central, arranjo que distribui as cargas de modo homogêneo pela partícula",
+    "b": "o enxofre está no terceiro período da tabela periódica e tem raio atômico maior que o do carbono, o que enfraquece cada uma das uniões e faz o dióxido de enxofre reter caráter polar mesmo em fase gasosa",
+    "c": "as uniões do CO₂ são covalentes e as do SO₂ são iônicas, e só compostos iônicos apresentam polos definidos",
+    "d": "o CO₂ tem geometria linear e os vetores de polaridade se anulam, ao passo que o SO₂ tem geometria angular e apresenta resultante diferente de zero",
+    "e": "a afinidade eletrônica do carbono é menor que a do enxofre, e átomos de menor afinidade eletrônica originam compostos apolares"
+   },
+   "resposta": "d",
+   "explicacao": "A polaridade de uma partícula depende da geometria, e não só da diferença de eletronegatividade. No CO₂ o átomo central não tem par de elétrons livre e o arranjo é linear: os dois vetores têm mesma intensidade e sentidos opostos, e a resultante é nula. No SO₂ o par livre sobre o enxofre torna o arranjo angular, e a resultante deixa de ser nula.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -28111,6 +28175,39 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Diluir reduz as concentrações de todas as espécies, mas afeta mais o encontro entre os íons que refariam a molécula. O equilíbrio químico se desloca no sentido da ionização e α cresce, embora Ka permaneça o mesmo, já que depende apenas da temperatura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-451",
+   "enunciado": "Uma solução aquosa de ácido acético de concentração 0,10 mol/L apresenta grau de ionização de 1,0%. Nessas condições, o pH dessa solução é:",
+   "alternativas": {
+    "a": "1,0, valor que corresponderia à ionização completa do ácido acético em água",
+    "b": "2,0, resultado de admitir que cada partícula do ácido libera dois íons H⁺ no meio",
+    "c": "3,0, pois a concentração de íons H⁺ no equilíbrio iônico vale 1,0 × 10⁻³ mol/L",
+    "d": "4,0, valor que corresponderia a um grau de ionização de 0,10% para essa mesma concentração inicial de ácido acético",
+    "e": "5,0, pois o caráter fraco do ácido deixaria a concentração de íons H⁺ próxima à da água pura"
+   },
+   "resposta": "c",
+   "explicacao": "Num ácido fraco, a concentração de H⁺ no equilíbrio iônico é o produto da concentração inicial pelo grau de ionização: 0,10 × 0,010 = 1,0 × 10⁻³ mol/L. Como pH = −log[H⁺], o pH vale 3,0.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-452",
+   "texto_apoio": "No plasma sanguíneo, o equilíbrio químico\n\nCO₂ + H₂O ⇌ H⁺ + HCO₃⁻\n\nmantém o pH em torno de 7,4. Durante uma crise de hiperventilação, o paciente elimina CO₂ pelos pulmões em ritmo maior que o de produção pelo organismo.",
+   "enunciado": "De acordo com o princípio de Le Chatelier, é esperado que, nessa crise:",
+   "alternativas": {
+    "a": "a hidrólise do íon bicarbonato cesse, e o plasma passe a se comportar como meio neutro",
+    "b": "o equilíbrio se desloque para a direita, o que aumenta a quantidade de íons H⁺ livres e baixa o pH",
+    "c": "a constante de equilíbrio da reação diminua, o que compensaria a saída de CO₂ e manteria o pH do plasma inalterado durante a crise",
+    "d": "o pH permaneça em 7,4, já que a retirada de um dos participantes não afeta o sentido do equilíbrio",
+    "e": "o equilíbrio se desloque para a esquerda, consumindo H⁺ e elevando o pH do plasma"
+   },
+   "resposta": "e",
+   "explicacao": "A saída acelerada de CO₂ retira um participante do lado esquerdo. Pelo princípio de Le Chatelier, o sistema desloca o equilíbrio no sentido de repor o que foi retirado, consumindo H⁺ e HCO₃⁻. Com menos H⁺ livre, o pH sobe — é a alcalose respiratória. A constante de equilíbrio só muda com a temperatura.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -30619,6 +30716,38 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "banca": "unesp",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-453",
+   "enunciado": "Duas substâncias distintas têm a mesma fórmula C₂H₆O: uma delas é líquida a 25 °C e ferve a 78 °C; a outra é gasosa nessa temperatura e ferve a −24 °C. Essa diferença de comportamento entre substâncias de mesma fórmula decorre de:",
+   "alternativas": {
+    "a": "isomeria de cadeia, já que uma das substâncias tem cadeia carbônica normal e a outra, cadeia ramificada com o mesmo número de átomos de carbono",
+    "b": "isomeria plana de função, que separa a função oxigenada dos álcoois da dos éteres; só a primeira forma ligações de hidrogênio",
+    "c": "isomeria óptica, que gera duas formas de mesma fórmula com propriedades físicas distintas por causa do carbono quiral",
+    "d": "isomeria geométrica, resultante da posição dos grupos presos a uma dupla ligação entre carbonos da cadeia",
+    "e": "diferença no grau de polimerização, pois a substância de maior temperatura de ebulição corresponderia a uma cadeia carbônica mais extensa formada por unidades repetidas"
+   },
+   "resposta": "b",
+   "explicacao": "C₂H₆O corresponde a duas funções orgânicas diferentes: o etanol, da função oxigenada dos álcoois, e o metoximetano, da dos éteres. É isomeria plana de função. Só o primeiro tem hidrogênio preso a oxigênio e faz ligações de hidrogênio, o que eleva muito sua temperatura de ebulição. Com dois carbonos não há ramificação possível, nem carbono quiral, nem dupla ligação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-454",
+   "enunciado": "O gás de cozinha vendido no Brasil é uma mistura em que predominam propano e butano, dois hidrocarbonetos saturados de cadeia aberta. Sobre essas duas substâncias, é correto afirmar que:",
+   "alternativas": {
+    "a": "são compostos aromáticos, pois a cadeia fechada lhes confere estabilidade e permite o armazenamento sob pressão",
+    "b": "pertencem à família dos alcenos, o que explicaria a facilidade com que participariam de reações de adição e justificaria o emprego das duas como combustível doméstico de alto poder calorífico",
+    "c": "apresentam isomeria de função entre si, pois diferem apenas na posição do grupo funcional preso à cadeia carbônica",
+    "d": "pertencem à família dos alcanos e apresentam apenas ligações simples entre os átomos de carbono da cadeia",
+    "e": "formam cadeia carbônica ramificada, condição para que se apresentem no estado gasoso nas condições ambientes"
+   },
+   "resposta": "d",
+   "explicacao": "Propano (C₃H₈) e butano (C₄H₁₀) são alcanos: hidrocarbonetos de cadeia aberta, saturada e sem ramificação obrigatória, com apenas ligações simples entre carbonos. Não têm grupo funcional, logo não há isomeria de função entre eles; e a cadeia é aberta, o que exclui o caráter aromático.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "quimica-solucoes": [
@@ -31704,6 +31833,38 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Na osmose espontânea, o solvente migra da região menos concentrada para a mais concentrada. Aplicando pressão maior que a osmótica, o sentido se inverte: o solvente atravessa a membrana e o soluto fica retido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-455",
+   "enunciado": "Em um laboratório, 50 mL de uma solução aquosa de cloreto de sódio de concentração 2,0 mol/L são diluídos com água destilada até que a concentração final seja 0,25 mol/L. Sabendo que a diluição não altera a quantidade de soluto presente, o volume de água destilada acrescentado foi de:",
+   "alternativas": {
+    "a": "100 mL",
+    "b": "200 mL",
+    "c": "350 mL",
+    "d": "400 mL",
+    "e": "450 mL"
+   },
+   "resposta": "c",
+   "explicacao": "Numa diluição vale C₁V₁ = C₂V₂, pois a quantidade de soluto é conservada: 2,0 × 50 = 0,25 × V₂, logo V₂ = 400 mL de solução final. Como o volume de partida era 50 mL, o volume de água destilada acrescentado foi 400 − 50 = 350 mL.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-456",
+   "enunciado": "Ao dissolver sal de cozinha em água, verifica-se que a temperatura de ebulição do sistema sobe e a de congelamento cai em relação à água pura. Esses dois efeitos coligativos, chamados ebulioscopia e crioscopia, decorrem do:",
+   "alternativas": {
+    "a": "aumento da pressão de vapor do solvente, que assim escapa com mais facilidade da superfície do líquido",
+    "b": "abaixamento da pressão de vapor do solvente, provocado pelas partículas de soluto dispersas no meio",
+    "c": "aumento do calor específico da água causado pelo soluto, que passaria a exigir mais energia em cada etapa da mudança de estado do sistema",
+    "d": "rompimento das uniões entre as partículas de água pelo soluto, o que reduziria a coesão do líquido",
+    "e": "aumento da densidade da mistura, propriedade que deslocaria os pontos de mudança de estado do solvente"
+   },
+   "resposta": "b",
+   "explicacao": "As partículas de soluto não volátil ocupam a superfície do líquido e dificultam a passagem do solvente à fase de vapor: a pressão de vapor cai. Por isso é preciso temperatura maior para que ela iguale a pressão externa (ebulioscopia) e temperatura menor para o congelamento (crioscopia). Os efeitos coligativos dependem da quantidade de partículas dispersas, não da natureza delas.",
    "formato": "direta",
    "origem": "medicina"
   }

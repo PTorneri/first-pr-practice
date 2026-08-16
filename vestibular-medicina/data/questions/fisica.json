@@ -7325,6 +7325,34 @@
       "resposta": "a",
       "explicacao": "De mesma energia, os dois fótons são fisicamente idênticos: atravessam o vácuo com a velocidade da luz e interagem com o tecido do mesmo modo. O que os nomes registram é a procedência, não uma propriedade. Na prática os gama costumam ser mais energéticos, mas isso é tendência das fontes, não definição — o que derruba (e).",
       "formato": "direta"
+    },
+    {
+      "id": "fisica-486",
+      "enunciado": "Em um recipiente termicamente isolado, misturam-se 300 g de água a 80 °C com 200 g de água a 30 °C. Considerando que só há troca de calor entre as duas porções e que o calor específico da água vale 1,0 cal/(g·°C), a temperatura de equilíbrio térmico da mistura é de:",
+      "alternativas": {
+        "a": "40 °C",
+        "b": "45 °C",
+        "c": "50 °C",
+        "d": "55 °C",
+        "e": "60 °C"
+      },
+      "resposta": "e",
+      "explicacao": "O calor cedido pela porção quente iguala o recebido pela fria: 300 × 1,0 × (80 − T) = 200 × 1,0 × (T − 30). Daí 24 000 − 300T = 200T − 6 000, ou seja, 500T = 30 000 e T = 60 °C. A temperatura de equilíbrio térmico fica mais próxima da porção de maior massa.",
+      "formato": "direta"
+    },
+    {
+      "id": "fisica-487",
+      "enunciado": "Um trilho de aço de 20 m de comprimento é assentado a 10 °C. Em um dia de verão, sua temperatura chega a 50 °C. Sendo 1,2 × 10⁻⁵ °C⁻¹ o coeficiente de dilatação linear do aço, o acréscimo de comprimento do trilho é de:",
+      "alternativas": {
+        "a": "0,96 mm",
+        "b": "4,8 mm",
+        "c": "9,6 mm",
+        "d": "12,0 mm",
+        "e": "19,2 mm"
+      },
+      "resposta": "c",
+      "explicacao": "Na dilatação linear, ΔL = L₀ · α · ΔT. Com L₀ = 20 m, α = 1,2 × 10⁻⁵ °C⁻¹ e ΔT = 50 − 10 = 40 °C, tem-se ΔL = 20 × 1,2 × 10⁻⁵ × 40 = 9,6 × 10⁻³ m, isto é, 9,6 mm. É por isso que se deixa folga entre trilhos consecutivos.",
+      "formato": "direta"
     }
   ]
 }

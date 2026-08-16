@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "fisica",
- "total": 510,
+ "total": 512,
  "residuo": [
   "med-fisica-92",
   "med-fisica-136",
@@ -2915,6 +2915,18 @@
    "frenteDestino": "fisica",
    "pontos": 17,
    "margem": 7
+  },
+  "med-fisica-486": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-487": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
   },
   "eng-fismoderna-01": {
    "subtema": "fisica-mecanica",

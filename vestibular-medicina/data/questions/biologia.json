@@ -7177,6 +7177,36 @@
       "resposta": "d",
       "explicacao": "Ilha vulcânica nasce sem vida: quem chega vem de fora, e o candidato mais provável é a terra firme mais próxima — daí o parentesco com o continente vizinho. Uma vez isolada, cada linhagem segue caminho próprio e se diferencia até formar espécie nova, o que explica por que essas espécies não ocorrem em nenhum outro lugar.",
       "formato": "direta"
+    },
+    {
+      "id": "biologia-461",
+      "texto_apoio": "Em um trecho de mata foi descrita a seguinte teia alimentar:\n\ncapim → gafanhoto → sapo → serpente → gavião\n\nMediu-se a energia acumulada em cada nível trófico e observou-se queda acentuada de um nível para o seguinte.",
+      "enunciado": "Sobre o fluxo de energia representado nessa teia alimentar, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "a energia disponível diminui a cada nível trófico porque boa parte dela é dissipada como calor pelos organismos e não fica acumulada na biomassa",
+        "b": "a energia retorna ao capim pela ação dos decompositores, o que fecharia um ciclo em que a quantidade disponível para os produtores se manteria constante ao longo das estações do ano",
+        "c": "o gavião dispõe de mais energia que o gafanhoto, pois ocupa o nível mais alto e reúne o que foi produzido nos níveis anteriores",
+        "d": "a perda de energia entre os níveis ocorre porque os consumidores primários deixam de fixar o carbono que o capim fixa",
+        "e": "o número de níveis tróficos da cadeia independe da energia disponível, sendo determinado pela riqueza de espécies do ecossistema"
+      },
+      "resposta": "a",
+      "explicacao": "O fluxo de energia num ecossistema é unidirecional e decrescente: de cada nível trófico para o seguinte passa cerca de 10% do que havia, porque o restante é dissipado como calor nos processos metabólicos ou sai como matéria não assimilada. É essa perda que limita o número de níveis de uma cadeia e faz do gavião o nível de menor energia acumulada.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-462",
+      "texto_apoio": "O escoamento de fertilizantes de lavouras vizinhas elevou muito a concentração de nitrato e de fosfato na água de um reservatório. Meses depois, a superfície ficou coberta por uma camada verde densa e os peixes que viviam no fundo morreram.",
+      "enunciado": "Esse processo é chamado eutrofização. A mortandade dos peixes de fundo do reservatório se explica porque:",
+      "alternativas": {
+        "a": "os nutrientes em excesso são tóxicos para os peixes e provocam a morte por contaminação da água do reservatório",
+        "b": "a camada verde eleva a temperatura da água e a queda de densidade daí resultante empurraria os peixes para as regiões rasas",
+        "c": "o nitrato eleva o pH da água a ponto de dissolver as estruturas de sustentação dos peixes, que assim perderiam a capacidade de se manter no fundo do reservatório",
+        "d": "a camada superficial barra a entrada de luz e a ação dos decompositores sobre a matéria morta consome o oxigênio dissolvido no fundo",
+        "e": "o fosfato se acumula nos tecidos dos peixes de fundo por bioacumulação e interrompe a captação de oxigênio pelas brânquias"
+      },
+      "resposta": "d",
+      "explicacao": "O excesso de nutrientes dispara a proliferação de organismos fotossintetizantes na superfície. A camada formada bloqueia a luz, e o material que morre e afunda é degradado pelos decompositores aeróbios do fundo. Esse consumo derruba o oxigênio dissolvido nas camadas profundas, e a fauna de fundo morre por asfixia.",
+      "formato": "direta"
     }
   ]
 }

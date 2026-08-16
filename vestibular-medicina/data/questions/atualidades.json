@@ -3406,6 +3406,96 @@
       "resposta": "c",
       "explicacao": "O argumento não é de compensação simbólica: quem atende o público decide o que a norma deixa em aberto, e um corpo técnico que não se parece com a população decide pior. A reserva também opera onde a desigualdade racial é mais resistente — no acesso a cargos estáveis e bem pagos, que o diploma sozinho não abriu.",
       "formato": "direta"
+    },
+    {
+      "id": "eng-atualidades-01",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "As guerras ainda assolam a humanidade, de modo que é possível colocar do mesmo lado Estados Unidos da América, França, Alemanha, Itália e Reino Unido, e do outro lado Afeganistão, Egito, Marrocos, Síria, Catar, Argélia e Irã, referindo-se à situação entre",
+      "alternativas": {
+        "a": "Rússia e Ucrânia.",
+        "b": "Iêmen e Venezuela.",
+        "c": "Rússia e Japão.",
+        "d": "Israel e Palestina.",
+        "e": "França e Espanha."
+      },
+      "resposta": "d",
+      "explicacao": "O que resolve a questão é a composição dos dois blocos, e não a lista de países em si. De um lado, potências ocidentais que historicamente apoiam Israel; do outro, um conjunto exclusivamente de países árabes e muçulmanos — Afeganistão, Egito, Marrocos, Síria, Catar, Argélia e Irã —, alinhamento que só faz sentido no conflito israelo-palestino. No caso da Rússia e da Ucrânia o segundo bloco estaria errado: Irã e Síria se aproximam da Rússia, mas Egito, Marrocos e Catar não formam frente com ela. E os pares restantes não correspondem a guerra alguma em curso: Rússia e Japão têm uma disputa territorial pelas Curilas, sem conflito armado, e França e Espanha são parceiras na União Europeia."
+    },
+    {
+      "id": "eng-atualidades-02",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "escada",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "A Escola Austríaca ganhou destaque por suas contribuições no campo da economia, com os teóricos Ludwig von Mises e Friedrich Hayek. Dentre os conceitos defendidos por eles estão:\nI – Praxeologia, que considera o comportamento econômico manifestação de escolhas racionais feitas pelos indivíduos.\nII – Teoria dos ciclos econômicos, seja de expansão ou de recessão, causados pela intervenção governamental.\nIII – Planificação da economia como estratégia de enfrentamento às taxas de juros e estabilização social.\nIV – Neutralidade da moeda, devido à sua condição de imparcialidade diante das mudanças econômicas que afetam a sociedade.\nV – Ordem espontânea, sugerindo que o mercado, sem intervenção do Estado, tende a organizar-se de maneira eficiente por meio de ação descentralizada dos indivíduos.\nEstão corretas as afirmativas",
+      "alternativas": {
+        "a": "I, II e V apenas.",
+        "b": "I, II, III, IV e V.",
+        "c": "I, III e V apenas.",
+        "d": "II, III e IV apenas.",
+        "e": "II, III e V apenas."
+      },
+      "resposta": "a",
+      "explicacao": "As três corretas são as que decorrem do individualismo metodológico da escola: a praxeologia de Mises, que parte da ação individual; a teoria austríaca dos ciclos, que atribui as bolhas à expansão artificial do crédito pelo governo; e a ordem espontânea de Hayek, em que a coordenação emerge sem planejador central. As duas falsas são justamente as teses que a escola COMBATE. A planificação da economia é o alvo direto de Hayek em O Caminho da Servidão, e defendê-la seria o oposto do programa austríaco. E a neutralidade da moeda também é rejeitada: para os austríacos a emissão não é imparcial, porque o dinheiro novo entra em pontos específicos da economia e distorce os preços relativos ao longo do caminho."
+    },
+    {
+      "id": "eng-atualidades-03",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Um evento histórico marcou o fim de uma relação de mais de 40 anos entre o Reino Unido e a União Europeia, cujo impacto econômico, político e social permanece até nossos dias, tanto para o Reino Unido quanto para a Europa.\nEsse fato se refere",
+      "alternativas": {
+        "a": "à Zona do Euro.",
+        "b": "à Crise dos Refugiados.",
+        "c": "à Anexação da Crimeia.",
+        "d": "ao Brexit.",
+        "e": "à Ampliação da União Europeia."
+      },
+      "resposta": "d",
+      "explicacao": "O Reino Unido aderiu ao bloco em 1973, aprovou a saída no referendo de 2016 e a efetivou em janeiro de 2020 — os \"mais de 40 anos\" do enunciado. As demais opções tratam de outros episódios europeus, nenhum deles um rompimento. A Zona do Euro é a área da moeda única, da qual o Reino Unido nunca participou, tendo mantido a libra. A crise dos refugiados e a anexação da Crimeia pesaram no debate político europeu, mas não encerram relação alguma entre o Reino Unido e o bloco. E a ampliação é o movimento inverso ao descrito: entrada de novos membros, não saída."
+    },
+    {
+      "id": "eng-atualidades-04",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-online",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Uma das questões que permeiam o debate público é o aumento do número de refugiados no mundo: 120 milhões de pessoas estão fora de suas casas, tendo sido forçadas a fugir da guerra, da violência e da perseguição, segundo a agência das Nações Unidas para os refugiados, o ACNUR.\nTambém existem casos variados de ondas migratórias, bem como pedidos de asilo político. Refugiado, migrante e asilado são pessoas que, por diferentes razões, precisam sair do seu país, mas as razões que levam cada um a se mudar são completamente diferentes.\nAssinale a alternativa que descreve de modo correto o conceito de refugiado.",
+      "alternativas": {
+        "a": "Sujeito que, embora afastado de seu país de origem, continua recebendo a proteção de seu governo.",
+        "b": "Pessoa forçada a sair do seu país de origem devido à guerra, perseguição ou desastre natural.",
+        "c": "Indivíduo que se desloca de seu país de origem para outro de forma voluntária. O objetivo é se estabelecer em outra localidade, por inúmeras razões.",
+        "d": "Pessoa oriunda de países com elevado IDH (Índice de Desenvolvimento Humano) que procura expandir sua área de atuação profissional.",
+        "e": "Indivíduo que foge de seu país de origem unicamente por razões de perseguição política, sendo-lhe negado o asilo político pelo país pretendido."
+      },
+      "resposta": "b",
+      "explicacao": "O que define o refugiado é a natureza FORÇADA da saída: ele não escolhe partir, é expulso pela guerra, pela perseguição ou pela catástrofe. É esse traço que o separa do migrante, cujo deslocamento é voluntário e motivado por trabalho ou estudo — e é exatamente isso que a opção do deslocamento \"de forma voluntária\" descreve. A que fala em perseguição política restringe demais, ao exigir uma única causa, e confunde as categorias ao condicionar o status à negativa de asilo. E a que mantém a proteção do governo de origem contradiz a própria condição de refugiado, que existe justamente porque o Estado de origem deixou de proteger a pessoa — sem isso, não haveria por que outro país concedê-la."
+    },
+    {
+      "id": "eng-atualidades-05",
+      "banca": "maua",
+      "sessao": "maua-inverno-2024",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Desde outubro de 2023, o mundo vem acompanhando a guerra entre o Hamas e Israel. O local do conflito é",
+      "alternativas": {
+        "a": "o Afeganistão, localizado entre o mar Vermelho e Jerusalém, onde muitos conflitos já aconteceram nas últimas décadas.",
+        "b": "o Líbano, região montanhosa do Oriente, com grande importância para o judaísmo, o cristianismo e o islamismo.",
+        "c": "a Palestina, localizada entre o rio Jordão e o Mediterrâneo, considerada sagrada tanto pelo judaísmo, como pelo cristianismo e o islamismo.",
+        "d": "a Síria, região próxima à faixa de Gaza, palco de muitos conflitos e campos de pessoas refugiadas.",
+        "e": "a Turquia, região ocidental, terra considerada sagrada para as três maiores religiões monoteístas do mundo."
+      },
+      "resposta": "c",
+      "explicacao": "O Hamas governava a Faixa de Gaza, e é dela que parte o ataque de 7 de outubro de 2023 — território palestino, na estreita faixa entre o rio Jordão e o mar Mediterrâneo, sagrada para as três religiões monoteístas. Cada distrator erra na geografia. O Afeganistão fica na Ásia Central, a milhares de quilômetros, e não entre o mar Vermelho e Jerusalém. O Líbano faz fronteira com Israel e teve conflitos ligados ao Hezbollah, mas não é onde o Hamas atua. A Síria não é próxima da Faixa de Gaza, que fica no outro extremo de Israel. E a Turquia não é o território disputado, além de a descrição a situar erradamente."
     }
   ]
 }

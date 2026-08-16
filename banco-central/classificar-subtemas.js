@@ -1077,6 +1077,13 @@ const REVISADAS = {
   // Sujeito posposto numa oração relativa de Alencar: identificar o sujeito é
   // sintaxe, e a palavra "concordância" do enunciado puxou regência.
   "eng-gramatica-02": "gramatica-sintaxe-periodo",
+  // Fases do capitalismo: geografia econômica. "Revolução Industrial" e
+  // "propriedade privada" não pontuam em lugar nenhum, e a questão foi parar
+  // em geografia física por falta de rival.
+  "eng-geografia-03": "geografia-agraria-economica",
+  // Cerâmica marajoara, arte plumária, cestaria e grafismo corporal: cultura
+  // material dos povos originários, não música e cena.
+  "eng-artes-cultura-01": "artes-patrimonio-cultura-popular",
 };
 
 // ------------------------------------------------------------------- classificação

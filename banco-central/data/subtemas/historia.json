@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "historia",
- "total": 492,
+ "total": 497,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -2953,6 +2953,36 @@
    "subtema": "historia-geral-moderna",
    "frenteDestino": "historia",
    "revisado": true
+  },
+  "eng-historia-01": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-historia-02": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "eng-historia-03": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-historia-04": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-historia-05": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 25,
+   "margem": 25
   }
  }
 }

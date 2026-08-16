@@ -8267,6 +8267,97 @@
    "explicacao": "As reduções e missões jesuíticas concentravam indígenas sob tutela religiosa, e isso os retirava do alcance dos colonos que os queriam como mão de obra escravizada — daí o choque permanente, de que os ataques dos bandeirantes às missões do Guairá são o exemplo brasileiro mais conhecido. A alternativa a inverte o alinhamento: a Companhia nasceu como braço da Contrarreforma, contra os protestantes. A e é a distratora mais sedutora: os jesuítas defenderam os indígenas em várias ocasiões, mas a Ordem não se opôs oficialmente à escravidão africana, e chegou a possuir escravizados em suas propriedades.",
    "origem": "direito",
    "frenteOrigem": "historia-geral"
+  },
+  {
+   "id": "eng-historia-01",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A Reforma Luterana foi realizada em 1517 por Martinho Lutero. Naquele ano, o monge condenou fortemente a venda de indulgências, escrevendo um documento conhecido por 95 Teses, em que manifestou publicamente suas críticas à Igreja e ao papa.\nNa Alemanha do período, havia outro grupo que estava profundamente descontente com a Igreja Católica, particularmente poderosa no Sacro Império:",
+   "alternativas": {
+    "a": "a Companhia de Jesus, que pretendia lucrar com as conquistas da Reforma Luterana.",
+    "b": "os anglicanos, favoráveis à dissolução do casamento, considerado pela Igreja Católica Sacramento e, portanto, indissolúvel.",
+    "c": "a nobreza alemã, ansiosa para diminuir a influência da instituição, além de cobiçar as propriedades da Igreja.",
+    "d": "os anabatistas, influenciadores da criação das Teses de Lutero.",
+    "e": "os huguenotes, comandados por João Calvino, defensores da Reforma."
+   },
+   "resposta": "c",
+   "explicacao": "O descontentamento com Roma no Sacro Império não era só religioso: a Igreja era a maior proprietária de terras da região, e a nobreza alemã via na Reforma a chance de confiscar esse patrimônio e reduzir a interferência papal nos assuntos do império — foi por isso que vários príncipes protegeram Lutero, inclusive Frederico da Saxônia. As outras opções erram de tempo ou de lugar. A Companhia de Jesus só nasce em 1534, e como instrumento da CONTRARreforma, não como aliada de Lutero. Os anglicanos surgem na Inglaterra, a partir de 1534, e por um conflito dinástico particular. Os anabatistas são posteriores às 95 Teses, e não anteriores. E os huguenotes são os calvinistas FRANCESES, não alemães."
+  },
+  {
+   "id": "eng-historia-02",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A construção de Brasília, a nova capital do país, teve início em 1957. Sua inauguração ocorreu em 21 de abril de 1960, revelando uma cidade inteiramente modelada conforme plano urbanístico de Lúcio Costa, projetos arquitetônicos de Oscar Niemeyer, engenharia de Joaquim Cardozo e o árduo trabalho dos operários migrantes, chamados de Candangos. Brasília transformou-se em \"meta-síntese\" do governo de Juscelino Kubitschek, o \"presidente Bossa-Nova\", cujo governo muitas vezes é lembrado como um período que aliou tranquilidade política e prosperidade econômica, ao mesmo tempo que gerou uma enorme dívida externa.\nSua plataforma política foi marcada pelos seguintes pontos:",
+   "alternativas": {
+    "a": "forte propaganda anticorrupção; promoção de corte nos gastos do governo; retirada dos subsídios à importação de trigo e de petróleo; proibição de brigas de galo, do uso de biquíni nas praias e de lança-perfume.",
+    "b": "projeto de modernização do país, com estímulo ao capital internacional e incentivo ao desenvolvimento das indústrias, inclusive aquelas multinacionais e automobilísticas; criação do Plano de Metas, abrangendo cinco setores: energia, transporte, indústria, alimentação e educação.",
+    "c": "adoção de medidas nacionalistas, chamadas de Reformas de Base; defesa da Reforma Agrária; distribuição de renda.",
+    "d": "aversão à intervenção estatal na economia, aliando-se abertamente aos Estados Unidos. Abertura da economia às importações, criação do Plano Salte, que procurou estimular o crescimento da indústria brasileira com investimentos estatais em saúde, educação, energia e transportes.",
+    "e": "criação da Petrobrás e da Eletrobrás, com forte comprometimento com o nacionalismo. Apesar disso, proporcionou o investimento estrangeiro no país."
+   },
+   "resposta": "b",
+   "explicacao": "O programa de JK é o Plano de Metas, resumido no lema \"cinquenta anos em cinco\": abertura ao capital estrangeiro, montadoras multinacionais instaladas no ABC e investimento pesado em energia e transporte — e a própria Brasília como a \"meta-síntese\" que o enunciado menciona. Cada distrator pertence a outro governo. A propaganda anticorrupção e as proibições de costume são de Jânio Quadros; as Reformas de Base e a reforma agrária, de João Goulart; o Plano SALTE, de Dutra; e a criação da Petrobras é de Vargas, no segundo governo. Reconhecer a QUEM pertence cada plano é o que a questão cobra, porque todos os cinco são reais."
+  },
+  {
+   "id": "eng-historia-03",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "texto_apoio": "Pois que eu, Constantino Augusto, e eu, Licínio Augusto (...) decidimos em primeiro lugar e antes de tudo, emitir regras destinadas a assegurar o respeito e a honra da divindade, isto é, decidimos conceder aos cristãos e a todos os outros a livre escolha de seguir a religião que quisessem (...). Assim pois, num salutar e retíssimo propósito, decidimos que a nossa vontade é que não seja recusada absolutamente a ninguém a liberdade de seguir e de escolher a prática ou a religião dos cristãos, e que a cada um seja concedida a liberdade de dar a sua convicta adesão à religião que considere útil para si (...).",
+   "enunciado": "O documento acima descreve o início da liberdade religiosa instituída no império romano e se refere",
+   "alternativas": {
+    "a": "à Lei Canuleia.",
+    "b": "ao Discurso de Catilina.",
+    "c": "à Lei Licínia.",
+    "d": "ao Édito de Máximo.",
+    "e": "ao Édito de Milão."
+   },
+   "resposta": "e",
+   "explicacao": "Os dois nomes que abrem o texto entregam a resposta: Constantino e Licínio assinaram juntos, em 313, o Édito de Milão, que concedeu liberdade de culto no Império Romano e encerrou a perseguição sistemática aos cristãos. As demais opções pertencem a outros momentos da história romana. A Lei Canuleia é de 445 a.C., da República, e autorizava o casamento entre patrícios e plebeus. As Catilinárias são discursos de Cícero contra uma conspiração, em 63 a.C. A Lei Licínia, também republicana, tratava da posse de terras públicas. E o Édito de Máximo, de Diocleciano, é um tabelamento de preços — economia, não religião."
+  },
+  {
+   "id": "eng-historia-04",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "O Egito e a Mesopotâmia foram sociedades contemporâneas que se formaram no fim do Neolítico, no Oriente Médio, com similaridades e diferenças.\nEm relação a esses povos da antiguidade, é correto afirmar que",
+   "alternativas": {
+    "a": "ambos dependiam de fluxos de água para sua sobrevivência, já que eram povos que se fixaram no deserto cortado por rios, o que criou a necessidade de canalização das vias fluviais para a irrigação da agricultura.",
+    "b": "quanto à religião, eram monoteístas e existiam relações entre a cosmogonia religiosa desses grupos com a instituição política desenvolvida por eles. Nesse sentido, tanto o faraó egípcio como o rei mesopotâmico eram considerados deuses.",
+    "c": "seus sistemas de escrita eram parecidos, tendo por base um alfabeto fonético, que não marcava as vogais na palavra. Para representação gráfica, utilizavam-se de hieróglifos, que só foram decodificados após a descoberta da Pedra da Roseta.",
+    "d": "o culto à morte orientava a vida na Terra para ambos os povos, de modo que nela se dedicavam à produção dos preparativos morais e materiais do pós-morte. Foram construídos monumentos funerários grandiosos, para abrigar tudo que o ser humano iria precisar no além.",
+    "e": "em relação à unidade territorial por parte do mandatário, as duas sociedades foram marcadas pela fragmentação. O Egito, dividindo-se em Alto e Baixo, e a Mesopotâmia, composta por uma variedade de reinos e comunidades, que disputavam entre si o território, num sistema retalhado de línguas e coroas."
+   },
+   "resposta": "a",
+   "explicacao": "A semelhança que de fato une as duas é hidráulica: ambas nascem em faixa árida cortada por grandes rios — o Nilo, e o Tigre com o Eufrates — e ambas dependeram de obras coletivas de canalização para irrigar a lavoura, o que é a base da organização estatal delas. As outras quatro afirmam semelhanças que não existem. As duas eram POLITEÍSTAS, e o rei mesopotâmico era representante do deus, não o próprio deus como o faraó. As escritas são diferentes: hieróglifos no Egito e cuneiforme na Mesopotâmia, e a Pedra de Roseta decifrou só a egípcia. O culto grandioso à morte é característica egípcia, não mesopotâmica. E a fragmentação vale para a Mesopotâmia, mas não para o Egito, que foi unificado sob um único faraó — Alto e Baixo Egito são as duas metades REUNIDAS, e não reinos rivais."
+  },
+  {
+   "id": "eng-historia-05",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "De acordo com o site do Senado Federal brasileiro, foram cinco as repúblicas (ou períodos republicanos) que o país já teve em sua história — o último deles se estende até a atualidade.\nAcerca dos diferentes períodos republicanos brasileiros, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "A República Nova teve início com sua proclamação, pelo Marechal Deodoro da Fonseca, em 15 de novembro de 1889, por meio de um documento assinado nesse dia, que garantiu a transição de regime.",
+    "b": "O período de 1964 a 1985 caracterizou-se pela Democracia Liberal, com a criação de partidos políticos em sistema pluripartidário, e a consolidação da liberdade de imprensa, sendo denominado de Terceira República.",
+    "c": "A Nova República caracterizou-se pela redemocratização, após a Era Vargas, com a legalização dos partidos políticos, supressão do direito à greve e o estabelecimento de eleições gerais, inclusive para a sucessão presidencial.",
+    "d": "A Segunda República iniciou em 1930, com a chegada de Getúlio Vargas ao poder. O período teve conquistas importantes, como o início da industrialização do país e a promulgação da legislação trabalhista.",
+    "e": "O atual período republicano iniciou-se com a promulgação da Constituição Cidadã, de 1988, com a eleição de Tancredo Neves de forma direta para a presidência da República e anistia ampla, geral e irrestrita, após a campanha das Diretas Já."
+   },
+   "resposta": "d",
+   "explicacao": "A Segunda República começa com a Revolução de 1930 e a ascensão de Vargas, e é o período da criação do Ministério do Trabalho, da CLT e do primeiro surto industrial planejado — exatamente o que a alternativa descreve. As demais trocam nome, data ou fato. O que Deodoro proclamou em 1889 foi a PRIMEIRA República, não a Nova. O período de 1964 a 1985 é a ditadura militar, com bipartidarismo imposto e censura à imprensa, o oposto de \"Democracia Liberal\". A Nova República não suprimiu o direito de greve. E Tancredo Neves foi eleito de forma INDIRETA, pelo Colégio Eleitoral, em 1985, e morreu antes de tomar posse — as Diretas Já haviam sido derrotadas justamente por isso."
   }
  ]
 }

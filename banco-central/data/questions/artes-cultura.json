@@ -6343,6 +6343,24 @@
    "explicacao": "Derrubar apaga; manter sem comentário legitima. A saída que vem sendo testada — placa nova, obra ao lado, troca de nome com registro do nome antigo — assume que o monumento é documento do que uma época quis celebrar, e que a identidade cultural de hoje pode discordar dele em voz alta. O mesmo país que ergueu essas homenagens deixou sem proteção os terreiros e a cultura popular negra; o patrimônio histórico, aqui, é o próprio campo de conflito.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "eng-artes-cultura-01",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A arte indígena está presente na cultura do povo brasileiro, sendo um dos seus alicerces — como mostram a cerâmica marajoara, o Kuarup da etnia Yawalapiti, no Parque do Xingu, e as apresentações artístico-culturais dos povos originários Fulni-ô.\nSobre a cultura dos povos originários do Brasil, é correto afirmar que",
+   "alternativas": {
+    "a": "a cerâmica marajoara foi descoberta em 1871, quando dois pesquisadores, em visita ao litoral sul do Brasil, ficaram impressionados com o que viram e publicaram um artigo em uma revista científica.",
+    "b": "música, dança, arte plumária, cestaria, cerâmica, tecelagem e pintura corporal são práticas de destaque.",
+    "c": "na arte plumária, a disposição e as cores das penas dos cocares são aleatórias e dependem do gosto artístico dos indígenas que os confeccionam.",
+    "d": "a música e a dança dos povos originários têm a função de divertir e facilitar o convívio tribal.",
+    "e": "os grafismos são reconhecidos pela simetria e originalidade de seus traços, desenhados na arte corporal com precisão e delicadeza pelos guerreiros da tribo, como indicação de seu status ou de preparação para guerra."
+   },
+   "resposta": "b",
+   "explicacao": "A alternativa correta é a única que apenas ENUMERA as linguagens artísticas dos povos originários, sem lhes atribuir função ou origem equivocada. As outras quatro erram por reduzir. A cerâmica marajoara é da ilha de Marajó, no litoral NORTE, na foz do Amazonas, e não do litoral sul. A arte plumária não é aleatória: cores, penas e disposição seguem códigos que indicam etnia, papel social e ocasião ritual — é linguagem, não decoração. Música e dança não servem só para divertir: estruturam rituais, marcam passagens e transmitem memória, como o próprio Kuarup, que é cerimônia funerária. E os grafismos corporais não são feitos apenas por guerreiros nem apenas para a guerra; são usados por toda a comunidade e em contextos variados."
   }
  ]
 }

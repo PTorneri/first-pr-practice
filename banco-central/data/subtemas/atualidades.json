@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "atualidades",
- "total": 680,
+ "total": 685,
  "residuo": [
   "med-atualidades-10",
   "med-atualidades-23",
@@ -3626,6 +3626,36 @@
    "subtema": "atualidades-meioambiente",
    "frenteDestino": "atualidades",
    "revisado": true
+  },
+  "eng-atualidades-01": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "eng-atualidades-02": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "eng-atualidades-03": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "eng-atualidades-04": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "eng-atualidades-05": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

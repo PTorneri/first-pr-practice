@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "artes-cultura",
- "total": 388,
+ "total": 389,
  "residuo": [
   "dir-artes-cultura-46",
   "dir-artes-cultura-52",
@@ -2332,6 +2332,11 @@
    "frenteDestino": "artes-cultura",
    "pontos": 14,
    "margem": 14
+  },
+  "eng-artes-cultura-01": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "revisado": true
   }
  }
 }

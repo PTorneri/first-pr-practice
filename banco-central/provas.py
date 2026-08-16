@@ -77,6 +77,54 @@ def cmd_recortar(args):
     print(f"{tam / 1024:.0f} KB  {pix.width}x{pix.height}  {args.saida}{aviso}")
 
 
+def cmd_montar(args):
+    """Junta varios recortes numa figura so, empilhados de cima para baixo.
+
+    Existe por causa da questao cujas ALTERNATIVAS sao desenhos. O campo
+    `visual` da questao aceita um arquivo, e as cinco opcoes costumam estar
+    espalhadas em duas colunas da pagina -- um recorte retangular unico que as
+    contivesse arrastaria junto o enunciado inteiro. Aqui cada opcao e recortada
+    pela sua propria bbox e as fatias sao coladas numa imagem vertical, na ordem
+    em que forem passadas (isto e, A a E).
+
+    As fatias sao normalizadas para a MESMA largura, senao uma opcao sairia
+    maior que as outras e viraria pista visual de qual e a certa.
+    """
+    doc = pymupdf.open(args.pdf)
+    escala = args.dpi / 72
+    fatias = []
+    for spec in args.recorte:
+        pagina_txt, bbox_txt = spec.split(":", 1)
+        pagina = doc[int(pagina_txt) - 1]
+        x0, y0, x1, y1 = (float(v) for v in bbox_txt.split(","))
+        fatias.append(
+            pagina.get_pixmap(matrix=pymupdf.Matrix(escala, escala), clip=pymupdf.Rect(x0, y0, x1, y1))
+        )
+
+    largura = max(f.width for f in fatias)
+    espaco = args.espaco
+    altura = sum(f.height for f in fatias) + espaco * (len(fatias) - 1)
+
+    # A montagem passa por uma pagina nova: insert_image reescala a fatia para o
+    # retangulo dado, que e como as larguras ficam iguais sem depender do Pillow.
+    saida_doc = pymupdf.open()
+    pagina_nova = saida_doc.new_page(width=largura, height=altura)
+    y = 0
+    for f in fatias:
+        alt = f.height * (largura / f.width)
+        pagina_nova.insert_image(pymupdf.Rect(0, y, largura, y + alt), pixmap=f)
+        y += alt + espaco
+    # A pagina foi montada em pixels 1:1, entao renderizar sem escala preserva.
+    pix = pagina_nova.get_pixmap(matrix=pymupdf.Matrix(1, 1))
+    os.makedirs(os.path.dirname(os.path.abspath(args.saida)), exist_ok=True)
+    ehjpeg = os.path.splitext(args.saida)[1].lower() in (".jpg", ".jpeg")
+    pix.save(args.saida, jpg_quality=args.qualidade) if ehjpeg else pix.save(args.saida)
+    saida_doc.close()
+    doc.close()
+    tam = os.path.getsize(args.saida)
+    print(f"{tam / 1024:.0f} KB  {pix.width}x{pix.height}  {len(fatias)} fatias  {args.saida}")
+
+
 def cmd_figuras(args):
     doc = pymupdf.open(args.pdf)
     paginas = [args.pagina - 1] if args.pagina else range(doc.page_count)
@@ -129,6 +177,15 @@ def main():
     b.add_argument("--dpi", type=int, default=200)
     b.add_argument("--qualidade", type=int, default=82, help="qualidade JPEG (so vale para .jpg)")
     b.set_defaults(func=cmd_recortar)
+
+    d = sub.add_parser("montar", help="junta varios recortes numa figura so (alternativas em desenho)")
+    d.add_argument("pdf")
+    d.add_argument("saida")
+    d.add_argument("recorte", nargs="+", help="pagina:x0,y0,x1,y1 -- um por fatia, na ordem A..E")
+    d.add_argument("--dpi", type=int, default=150)
+    d.add_argument("--espaco", type=int, default=10, help="folga em pixels entre as fatias")
+    d.add_argument("--qualidade", type=int, default=82)
+    d.set_defaults(func=cmd_montar)
 
     c = sub.add_parser("figuras", help="lista as imagens embutidas e suas bboxes")
     c.add_argument("pdf")

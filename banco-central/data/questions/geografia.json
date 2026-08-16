@@ -8786,6 +8786,78 @@
    "explicacao": "A Mata Atlântica é o bioma mais devastado do país porque coincide com a faixa de ocupação mais antiga e mais densa, e o golpe decisivo veio da cafeicultura do século XIX. A lavoura avançava derrubando mata virgem, esgotava o solo pela ausência de técnicas de conservação e seguia adiante — do Vale do Paraíba para o Oeste Paulista —, num padrão que ficou conhecido como lavoura itinerante. As demais alternativas ou citam atividades de impacto menor sobre esse bioma, ou, no caso de c, invertem o efeito, tratando a especulação imobiliária como preservação.",
    "origem": "direito",
    "frenteOrigem": "geografia"
+  },
+  {
+   "id": "eng-geografia-01",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Na Era Moderna, popularizou-se o uso de um tipo específico de mapa, que auxiliava os navegadores no sucesso de suas expedições, proporcionando, assim, o êxito das empreitadas comerciais.\nEsses mapas foram chamados de",
+   "alternativas": {
+    "a": "Portulanos.",
+    "b": "Mapas T. O (Orbis terrarum).",
+    "c": "Mapas Psalter (Salmos).",
+    "d": "Ptolomaicos.",
+    "e": "Projeções de Peters."
+   },
+   "resposta": "a",
+   "explicacao": "Portulanos são as cartas náuticas dos séculos XIV a XVII, cobertas por linhas de rumo que partem de rosas dos ventos e desenhadas para uso com bússola — feitas para navegar, e não para ilustrar. As demais opções são mapas de outra natureza ou de outro tempo. Os mapas T-O e os Psalter são medievais e simbólicos: organizam o mundo em torno de Jerusalém, sem qualquer utilidade prática para uma frota. Os ptolomaicos vêm da Antiguidade e foram redescobertos no Renascimento, mas descrevem o mundo conhecido em coordenadas, sem as linhas de rumo da navegação costeira. E a projeção de Peters é do século XX, uma resposta política à distorção de áreas na projeção de Mercator."
+  },
+  {
+   "id": "eng-geografia-02",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A crosta terrestre formou-se após um lento processo geológico. Para que se possa estudar e compreender o relevo terrestre, é necessário considerar os chamados agentes externos (chuva, vento, calor, frio) e os agentes internos, como o tectonismo, que, juntos, constituem os processos geomorfológicos de alteração do relevo terrestre. Tais processos deram origem às três principais estruturas geológicas da Terra: os maciços antigos (também conhecidos como escudos cristalinos ou crátons), as bacias sedimentares e os dobramentos modernos.\nSobre esta última estrutura geológica, assinale a alternativa que a descreve corretamente.",
+   "alternativas": {
+    "a": "São superfícies elevadas e planas, ou com poucas ondulações, entalhadas por vales encaixados, o que supõe uma certa altitude acima do nível do mar.",
+    "b": "São formações geológicas antigas, rígidas e resistentes, compostas por rochas ígneas e metamórficas, e caracterizam áreas de planaltos.",
+    "c": "São formas de relevo rebaixadas que se formaram a partir de um longo processo de erosão. Geralmente apresentam inclinações e localizam-se entre planícies e planaltos.",
+    "d": "São estruturas recentes que se formaram no início do período terciário da Era Cenozoica. Surgem nas áreas de contato entre placas tectônicas, e são acompanhadas de falhas geológicas, vulcanismos e terremotos.",
+    "e": "Formam-se em terrenos de depressão, a partir do acúmulo de sedimentos ao longo do tempo, durante as Eras Paleozoica, Mesozoica e Cenozoica. São compostas principalmente por rochas sedimentares."
+   },
+   "resposta": "d",
+   "explicacao": "A própria palavra MODERNOS diz o essencial: são as cadeias formadas na orogênese recente, no Terciário, onde placas tectônicas colidem — Andes, Himalaia, Alpes, Rochosas. Por estarem em zona de contato ativo, vêm acompanhadas de falhas, vulcões e terremotos, o que explica por que o Brasil, no meio da placa Sul-Americana, não tem nem dobramentos modernos nem vulcanismo ativo. As outras descrições pertencem às outras duas estruturas do enunciado — a que fala em acúmulo de sedimentos é a bacia sedimentar, e a que fala em rochas ígneas e metamórficas antigas é o maciço antigo — ou então descrevem planalto e depressão, que são formas de RELEVO e não estruturas GEOLÓGICAS. É a distinção que o enunciado já preparava ao nomear as três estruturas."
+  },
+  {
+   "id": "eng-geografia-03",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O capitalismo é um sistema econômico que se consolidou após a Primeira Revolução Industrial, no século XVIII, tendo por base a propriedade privada dos meios de produção, a obtenção do lucro e o trabalho assalariado. Na sua atual fase, orienta-se pela economia de mercado, em que, junto com as grandes empresas, passaram a atuar bancos, bolsas de valores, casas de investimento e seguradoras.\nEssa fase do sistema capitalista denomina-se",
+   "alternativas": {
+    "a": "Capitalismo Comercial.",
+    "b": "Capitalismo Industrial.",
+    "c": "Capitalismo Financeiro.",
+    "d": "Mercantilismo.",
+    "e": "Truste."
+   },
+   "resposta": "c",
+   "explicacao": "A pista está na lista do enunciado: bancos, bolsas de valores, casas de investimento e seguradoras passam a atuar AO LADO das grandes empresas, e é essa fusão do capital bancário com o industrial que define o capitalismo financeiro, a fase vigente desde o fim do século XIX. As duas primeiras opções são as fases anteriores, na ordem: o comercial vai das Grandes Navegações à Revolução Industrial, e o industrial vem depois dela. Mercantilismo não é uma fase do capitalismo, e sim o conjunto de políticas econômicas do Estado absolutista que precede o capitalismo comercial. E truste não é fase nenhuma: é uma FORMA de concentração empresarial, que pode aparecer em mais de uma delas."
+  },
+  {
+   "id": "eng-geografia-04",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O relevo brasileiro compõe-se de planaltos, planícies e depressões. Isso acontece porque",
+   "alternativas": {
+    "a": "é formado pela atuação de agentes endógenos ou internos, referentes à movimentação tectônica recente.",
+    "b": "suas formas são constituídas por um substrato rochoso de formação muito antiga, estruturado principalmente por meio das forças exógenas.",
+    "c": "sua formação é recente, datada entre o final da era Mesozoica e o início da era Cenozoica, mais precisamente no período Terciário.",
+    "d": "ao redor de 2.500 a.C., as monções recuaram para o sul do continente, criando uma paisagem arenosa, formada por dunas e vegetação esparsa.",
+    "e": "foi formado no decorrer do período Quaternário, nas épocas Pleistoceno e Holoceno, em que houve o fim das glaciações e a intensa atividade tectônica."
+   },
+   "resposta": "b",
+   "explicacao": "O território brasileiro está no INTERIOR da placa Sul-Americana, longe das bordas onde as placas colidem — por isso não tem dobramentos modernos, vulcões ativos nem terremotos de porte. Sobre um embasamento rochoso muito antigo, quem esculpiu o relevo foram as forças exógenas: erosão pela chuva, pelos rios e pelo vento, ao longo de centenas de milhões de anos, rebaixando o que era montanha e produzindo o predomínio de planaltos e depressões. As alternativas que atribuem o relevo brasileiro a tectonismo recente ou a formação no Terciário e no Quaternário descrevem justamente o que aqui NÃO acontece, e valeriam para os Andes, do outro lado do continente."
   }
  ]
 }

@@ -80171,6 +80171,44 @@ window.QUESTION_BANKS = {
    "explicacao": "A década de 1980 concentra a transição: campanha das Diretas Já em 1984, fim do governo militar em 1985, Constituição de 1988 e, em 1989, a primeira eleição direta para presidente desde 1960. O bipartidarismo da alternativa a foi imposto pelo AI-2 em 1965 e acabou com a reforma partidária de 1979, portanto não vigorava na década descrita. A alternativa e erra ao afirmar rechaço à Constituição de 1988, que foi o coroamento do processo, e a b atribui ao PMDB um programa redistributivo que o próprio texto nega ao falar em vazio programático.",
    "origem": "direito",
    "frenteOrigem": "historia-brasil"
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "eng-historia-02",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A construção de Brasília, a nova capital do país, teve início em 1957. Sua inauguração ocorreu em 21 de abril de 1960, revelando uma cidade inteiramente modelada conforme plano urbanístico de Lúcio Costa, projetos arquitetônicos de Oscar Niemeyer, engenharia de Joaquim Cardozo e o árduo trabalho dos operários migrantes, chamados de Candangos. Brasília transformou-se em \"meta-síntese\" do governo de Juscelino Kubitschek, o \"presidente Bossa-Nova\", cujo governo muitas vezes é lembrado como um período que aliou tranquilidade política e prosperidade econômica, ao mesmo tempo que gerou uma enorme dívida externa.\nSua plataforma política foi marcada pelos seguintes pontos:",
+   "alternativas": {
+    "a": "forte propaganda anticorrupção; promoção de corte nos gastos do governo; retirada dos subsídios à importação de trigo e de petróleo; proibição de brigas de galo, do uso de biquíni nas praias e de lança-perfume.",
+    "b": "projeto de modernização do país, com estímulo ao capital internacional e incentivo ao desenvolvimento das indústrias, inclusive aquelas multinacionais e automobilísticas; criação do Plano de Metas, abrangendo cinco setores: energia, transporte, indústria, alimentação e educação.",
+    "c": "adoção de medidas nacionalistas, chamadas de Reformas de Base; defesa da Reforma Agrária; distribuição de renda.",
+    "d": "aversão à intervenção estatal na economia, aliando-se abertamente aos Estados Unidos. Abertura da economia às importações, criação do Plano Salte, que procurou estimular o crescimento da indústria brasileira com investimentos estatais em saúde, educação, energia e transportes.",
+    "e": "criação da Petrobrás e da Eletrobrás, com forte comprometimento com o nacionalismo. Apesar disso, proporcionou o investimento estrangeiro no país."
+   },
+   "resposta": "b",
+   "explicacao": "O programa de JK é o Plano de Metas, resumido no lema \"cinquenta anos em cinco\": abertura ao capital estrangeiro, montadoras multinacionais instaladas no ABC e investimento pesado em energia e transporte — e a própria Brasília como a \"meta-síntese\" que o enunciado menciona. Cada distrator pertence a outro governo. A propaganda anticorrupção e as proibições de costume são de Jânio Quadros; as Reformas de Base e a reforma agrária, de João Goulart; o Plano SALTE, de Dutra; e a criação da Petrobras é de Vargas, no segundo governo. Reconhecer a QUEM pertence cada plano é o que a questão cobra, porque todos os cinco são reais."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "eng-historia-05",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "De acordo com o site do Senado Federal brasileiro, foram cinco as repúblicas (ou períodos republicanos) que o país já teve em sua história — o último deles se estende até a atualidade.\nAcerca dos diferentes períodos republicanos brasileiros, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "A República Nova teve início com sua proclamação, pelo Marechal Deodoro da Fonseca, em 15 de novembro de 1889, por meio de um documento assinado nesse dia, que garantiu a transição de regime.",
+    "b": "O período de 1964 a 1985 caracterizou-se pela Democracia Liberal, com a criação de partidos políticos em sistema pluripartidário, e a consolidação da liberdade de imprensa, sendo denominado de Terceira República.",
+    "c": "A Nova República caracterizou-se pela redemocratização, após a Era Vargas, com a legalização dos partidos políticos, supressão do direito à greve e o estabelecimento de eleições gerais, inclusive para a sucessão presidencial.",
+    "d": "A Segunda República iniciou em 1930, com a chegada de Getúlio Vargas ao poder. O período teve conquistas importantes, como o início da industrialização do país e a promulgação da legislação trabalhista.",
+    "e": "O atual período republicano iniciou-se com a promulgação da Constituição Cidadã, de 1988, com a eleição de Tancredo Neves de forma direta para a presidência da República e anistia ampla, geral e irrestrita, após a campanha das Diretas Já."
+   },
+   "resposta": "d",
+   "explicacao": "A Segunda República começa com a Revolução de 1930 e a ascensão de Vargas, e é o período da criação do Ministério do Trabalho, da CLT e do primeiro surto industrial planejado — exatamente o que a alternativa descreve. As demais trocam nome, data ou fato. O que Deodoro proclamou em 1889 foi a PRIMEIRA República, não a Nova. O período de 1964 a 1985 é a ditadura militar, com bipartidarismo imposto e censura à imprensa, o oposto de \"Democracia Liberal\". A Nova República não suprimiu o direito de greve. E Tancredo Neves foi eleito de forma INDIRETA, pelo Colégio Eleitoral, em 1985, e morreu antes de tomar posse — as Diretas Já haviam sido derrotadas justamente por isso."
   }
  ],
  "historia-geral-contemporanea": [
@@ -84132,6 +84170,25 @@ window.QUESTION_BANKS = {
    "explicacao": "As reduções e missões jesuíticas concentravam indígenas sob tutela religiosa, e isso os retirava do alcance dos colonos que os queriam como mão de obra escravizada — daí o choque permanente, de que os ataques dos bandeirantes às missões do Guairá são o exemplo brasileiro mais conhecido. A alternativa a inverte o alinhamento: a Companhia nasceu como braço da Contrarreforma, contra os protestantes. A e é a distratora mais sedutora: os jesuítas defenderam os indígenas em várias ocasiões, mas a Ordem não se opôs oficialmente à escravidão africana, e chegou a possuir escravizados em suas propriedades.",
    "origem": "direito",
    "frenteOrigem": "historia-geral"
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "eng-historia-01",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A Reforma Luterana foi realizada em 1517 por Martinho Lutero. Naquele ano, o monge condenou fortemente a venda de indulgências, escrevendo um documento conhecido por 95 Teses, em que manifestou publicamente suas críticas à Igreja e ao papa.\nNa Alemanha do período, havia outro grupo que estava profundamente descontente com a Igreja Católica, particularmente poderosa no Sacro Império:",
+   "alternativas": {
+    "a": "a Companhia de Jesus, que pretendia lucrar com as conquistas da Reforma Luterana.",
+    "b": "os anglicanos, favoráveis à dissolução do casamento, considerado pela Igreja Católica Sacramento e, portanto, indissolúvel.",
+    "c": "a nobreza alemã, ansiosa para diminuir a influência da instituição, além de cobiçar as propriedades da Igreja.",
+    "d": "os anabatistas, influenciadores da criação das Teses de Lutero.",
+    "e": "os huguenotes, comandados por João Calvino, defensores da Reforma."
+   },
+   "resposta": "c",
+   "explicacao": "O descontentamento com Roma no Sacro Império não era só religioso: a Igreja era a maior proprietária de terras da região, e a nobreza alemã via na Reforma a chance de confiscar esse patrimônio e reduzir a interferência papal nos assuntos do império — foi por isso que vários príncipes protegeram Lutero, inclusive Frederico da Saxônia. As outras opções erram de tempo ou de lugar. A Companhia de Jesus só nasce em 1534, e como instrumento da CONTRARreforma, não como aliada de Lutero. Os anglicanos surgem na Inglaterra, a partir de 1534, e por um conflito dinástico particular. Os anabatistas são posteriores às 95 Teses, e não anteriores. E os huguenotes são os calvinistas FRANCESES, não alemães."
   }
  ],
  "historia-geral-antiga-medieval": [
@@ -85302,6 +85359,45 @@ window.QUESTION_BANKS = {
    "explicacao": "A crítica não é ao recorte em si — organizar o tempo é inevitável —, e sim à pretensão de que marcos europeus sirvam de régua para a China, para a África ou para a América. Perceber que a periodização é uma escolha de quem escreve, e não um dado do passado, é o passo que a banca quer ver dado.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "eng-historia-03",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "texto_apoio": "Pois que eu, Constantino Augusto, e eu, Licínio Augusto (...) decidimos em primeiro lugar e antes de tudo, emitir regras destinadas a assegurar o respeito e a honra da divindade, isto é, decidimos conceder aos cristãos e a todos os outros a livre escolha de seguir a religião que quisessem (...). Assim pois, num salutar e retíssimo propósito, decidimos que a nossa vontade é que não seja recusada absolutamente a ninguém a liberdade de seguir e de escolher a prática ou a religião dos cristãos, e que a cada um seja concedida a liberdade de dar a sua convicta adesão à religião que considere útil para si (...).",
+   "enunciado": "O documento acima descreve o início da liberdade religiosa instituída no império romano e se refere",
+   "alternativas": {
+    "a": "à Lei Canuleia.",
+    "b": "ao Discurso de Catilina.",
+    "c": "à Lei Licínia.",
+    "d": "ao Édito de Máximo.",
+    "e": "ao Édito de Milão."
+   },
+   "resposta": "e",
+   "explicacao": "Os dois nomes que abrem o texto entregam a resposta: Constantino e Licínio assinaram juntos, em 313, o Édito de Milão, que concedeu liberdade de culto no Império Romano e encerrou a perseguição sistemática aos cristãos. As demais opções pertencem a outros momentos da história romana. A Lei Canuleia é de 445 a.C., da República, e autorizava o casamento entre patrícios e plebeus. As Catilinárias são discursos de Cícero contra uma conspiração, em 63 a.C. A Lei Licínia, também republicana, tratava da posse de terras públicas. E o Édito de Máximo, de Diocleciano, é um tabelamento de preços — economia, não religião."
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "eng-historia-04",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "O Egito e a Mesopotâmia foram sociedades contemporâneas que se formaram no fim do Neolítico, no Oriente Médio, com similaridades e diferenças.\nEm relação a esses povos da antiguidade, é correto afirmar que",
+   "alternativas": {
+    "a": "ambos dependiam de fluxos de água para sua sobrevivência, já que eram povos que se fixaram no deserto cortado por rios, o que criou a necessidade de canalização das vias fluviais para a irrigação da agricultura.",
+    "b": "quanto à religião, eram monoteístas e existiam relações entre a cosmogonia religiosa desses grupos com a instituição política desenvolvida por eles. Nesse sentido, tanto o faraó egípcio como o rei mesopotâmico eram considerados deuses.",
+    "c": "seus sistemas de escrita eram parecidos, tendo por base um alfabeto fonético, que não marcava as vogais na palavra. Para representação gráfica, utilizavam-se de hieróglifos, que só foram decodificados após a descoberta da Pedra da Roseta.",
+    "d": "o culto à morte orientava a vida na Terra para ambos os povos, de modo que nela se dedicavam à produção dos preparativos morais e materiais do pós-morte. Foram construídos monumentos funerários grandiosos, para abrigar tudo que o ser humano iria precisar no além.",
+    "e": "em relação à unidade territorial por parte do mandatário, as duas sociedades foram marcadas pela fragmentação. O Egito, dividindo-se em Alto e Baixo, e a Mesopotâmia, composta por uma variedade de reinos e comunidades, que disputavam entre si o território, num sistema retalhado de línguas e coroas."
+   },
+   "resposta": "a",
+   "explicacao": "A semelhança que de fato une as duas é hidráulica: ambas nascem em faixa árida cortada por grandes rios — o Nilo, e o Tigre com o Eufrates — e ambas dependeram de obras coletivas de canalização para irrigar a lavoura, o que é a base da organização estatal delas. As outras quatro afirmam semelhanças que não existem. As duas eram POLITEÍSTAS, e o rei mesopotâmico era representante do deus, não o próprio deus como o faraó. As escritas são diferentes: hieróglifos no Egito e cuneiforme na Mesopotâmia, e a Pedra de Roseta decifrou só a egípcia. O culto grandioso à morte é característica egípcia, não mesopotâmica. E a fragmentação vale para a Mesopotâmia, mas não para o Egito, que foi unificado sob um único faraó — Alto e Baixo Egito são as duas metades REUNIDAS, e não reinos rivais."
   }
  ],
  "geografia-populacao-urbana": [
@@ -89821,6 +89917,44 @@ window.QUESTION_BANKS = {
    "explicacao": "A Mata Atlântica é o bioma mais devastado do país porque coincide com a faixa de ocupação mais antiga e mais densa, e o golpe decisivo veio da cafeicultura do século XIX. A lavoura avançava derrubando mata virgem, esgotava o solo pela ausência de técnicas de conservação e seguia adiante — do Vale do Paraíba para o Oeste Paulista —, num padrão que ficou conhecido como lavoura itinerante. As demais alternativas ou citam atividades de impacto menor sobre esse bioma, ou, no caso de c, invertem o efeito, tratando a especulação imobiliária como preservação.",
    "origem": "direito",
    "frenteOrigem": "geografia"
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "eng-geografia-02",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A crosta terrestre formou-se após um lento processo geológico. Para que se possa estudar e compreender o relevo terrestre, é necessário considerar os chamados agentes externos (chuva, vento, calor, frio) e os agentes internos, como o tectonismo, que, juntos, constituem os processos geomorfológicos de alteração do relevo terrestre. Tais processos deram origem às três principais estruturas geológicas da Terra: os maciços antigos (também conhecidos como escudos cristalinos ou crátons), as bacias sedimentares e os dobramentos modernos.\nSobre esta última estrutura geológica, assinale a alternativa que a descreve corretamente.",
+   "alternativas": {
+    "a": "São superfícies elevadas e planas, ou com poucas ondulações, entalhadas por vales encaixados, o que supõe uma certa altitude acima do nível do mar.",
+    "b": "São formações geológicas antigas, rígidas e resistentes, compostas por rochas ígneas e metamórficas, e caracterizam áreas de planaltos.",
+    "c": "São formas de relevo rebaixadas que se formaram a partir de um longo processo de erosão. Geralmente apresentam inclinações e localizam-se entre planícies e planaltos.",
+    "d": "São estruturas recentes que se formaram no início do período terciário da Era Cenozoica. Surgem nas áreas de contato entre placas tectônicas, e são acompanhadas de falhas geológicas, vulcanismos e terremotos.",
+    "e": "Formam-se em terrenos de depressão, a partir do acúmulo de sedimentos ao longo do tempo, durante as Eras Paleozoica, Mesozoica e Cenozoica. São compostas principalmente por rochas sedimentares."
+   },
+   "resposta": "d",
+   "explicacao": "A própria palavra MODERNOS diz o essencial: são as cadeias formadas na orogênese recente, no Terciário, onde placas tectônicas colidem — Andes, Himalaia, Alpes, Rochosas. Por estarem em zona de contato ativo, vêm acompanhadas de falhas, vulcões e terremotos, o que explica por que o Brasil, no meio da placa Sul-Americana, não tem nem dobramentos modernos nem vulcanismo ativo. As outras descrições pertencem às outras duas estruturas do enunciado — a que fala em acúmulo de sedimentos é a bacia sedimentar, e a que fala em rochas ígneas e metamórficas antigas é o maciço antigo — ou então descrevem planalto e depressão, que são formas de RELEVO e não estruturas GEOLÓGICAS. É a distinção que o enunciado já preparava ao nomear as três estruturas."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "eng-geografia-04",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O relevo brasileiro compõe-se de planaltos, planícies e depressões. Isso acontece porque",
+   "alternativas": {
+    "a": "é formado pela atuação de agentes endógenos ou internos, referentes à movimentação tectônica recente.",
+    "b": "suas formas são constituídas por um substrato rochoso de formação muito antiga, estruturado principalmente por meio das forças exógenas.",
+    "c": "sua formação é recente, datada entre o final da era Mesozoica e o início da era Cenozoica, mais precisamente no período Terciário.",
+    "d": "ao redor de 2.500 a.C., as monções recuaram para o sul do continente, criando uma paisagem arenosa, formada por dunas e vegetação esparsa.",
+    "e": "foi formado no decorrer do período Quaternário, nas épocas Pleistoceno e Holoceno, em que houve o fim das glaciações e a intensa atividade tectônica."
+   },
+   "resposta": "b",
+   "explicacao": "O território brasileiro está no INTERIOR da placa Sul-Americana, longe das bordas onde as placas colidem — por isso não tem dobramentos modernos, vulcões ativos nem terremotos de porte. Sobre um embasamento rochoso muito antigo, quem esculpiu o relevo foram as forças exógenas: erosão pela chuva, pelos rios e pelo vento, ao longo de centenas de milhões de anos, rebaixando o que era montanha e produzindo o predomínio de planaltos e depressões. As alternativas que atribuem o relevo brasileiro a tectonismo recente ou a formação no Terciário e no Quaternário descrevem justamente o que aqui NÃO acontece, e valeriam para os Andes, do outro lado do continente."
   }
  ],
  "geografia-agraria-economica": [
@@ -91313,6 +91447,25 @@ window.QUESTION_BANKS = {
    "explicacao": "A questão pede a afirmação INCORRETA. O rodoviário é justamente o modal mais caro por tonelada-quilômetro em longas distâncias, e a dependência dele é apontada como gargalo da competitividade brasileira: para carga volumosa e de baixo valor agregado, como grãos e minério, o eficiente seria o ferroviário ou o hidroviário. As outras quatro descrevem corretamente a ocupação agrícola do Cerrado, viabilizada pela pesquisa da Embrapa em correção de solos e pelos corredores de exportação do Brasil Central.",
    "origem": "direito",
    "frenteOrigem": "geografia"
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "eng-geografia-03",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O capitalismo é um sistema econômico que se consolidou após a Primeira Revolução Industrial, no século XVIII, tendo por base a propriedade privada dos meios de produção, a obtenção do lucro e o trabalho assalariado. Na sua atual fase, orienta-se pela economia de mercado, em que, junto com as grandes empresas, passaram a atuar bancos, bolsas de valores, casas de investimento e seguradoras.\nEssa fase do sistema capitalista denomina-se",
+   "alternativas": {
+    "a": "Capitalismo Comercial.",
+    "b": "Capitalismo Industrial.",
+    "c": "Capitalismo Financeiro.",
+    "d": "Mercantilismo.",
+    "e": "Truste."
+   },
+   "resposta": "c",
+   "explicacao": "A pista está na lista do enunciado: bancos, bolsas de valores, casas de investimento e seguradoras passam a atuar AO LADO das grandes empresas, e é essa fusão do capital bancário com o industrial que define o capitalismo financeiro, a fase vigente desde o fim do século XIX. As duas primeiras opções são as fases anteriores, na ordem: o comercial vai das Grandes Navegações à Revolução Industrial, e o industrial vem depois dela. Mercantilismo não é uma fase do capitalismo, e sim o conjunto de políticas econômicas do Estado absolutista que precede o capitalismo comercial. E truste não é fase nenhuma: é uma FORMA de concentração empresarial, que pode aparecer em mais de uma delas."
   }
  ],
  "geografia-geopolitica": [
@@ -94644,6 +94797,25 @@ window.QUESTION_BANKS = {
    "explicacao": "Sem título não se sabe o que está representado; sem legenda, o que cada cor significa; sem escala, o tamanho do que se vê; sem orientação, para onde aponta o desenho. Esses quatro elementos, somados à indicação da fonte do dado, formam o mínimo de um mapa temático. Curva de nível e projeção nomeada são exigências de outros tipos de carta, não desse.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "eng-geografia-01",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Na Era Moderna, popularizou-se o uso de um tipo específico de mapa, que auxiliava os navegadores no sucesso de suas expedições, proporcionando, assim, o êxito das empreitadas comerciais.\nEsses mapas foram chamados de",
+   "alternativas": {
+    "a": "Portulanos.",
+    "b": "Mapas T. O (Orbis terrarum).",
+    "c": "Mapas Psalter (Salmos).",
+    "d": "Ptolomaicos.",
+    "e": "Projeções de Peters."
+   },
+   "resposta": "a",
+   "explicacao": "Portulanos são as cartas náuticas dos séculos XIV a XVII, cobertas por linhas de rumo que partem de rosas dos ventos e desenhadas para uso com bússola — feitas para navegar, e não para ilustrar. As demais opções são mapas de outra natureza ou de outro tempo. Os mapas T-O e os Psalter são medievais e simbólicos: organizam o mundo em torno de Jerusalém, sem qualquer utilidade prática para uma frota. Os ptolomaicos vêm da Antiguidade e foram redescobertos no Renascimento, mas descrevem o mundo conhecido em coordenadas, sem as linhas de rumo da navegação costeira. E a projeção de Peters é do século XX, uma resposta política à distorção de áreas na projeção de Mercator."
   }
  ],
  "filosofia-politica": [
@@ -105609,6 +105781,25 @@ window.QUESTION_BANKS = {
    "explicacao": "Derrubar apaga; manter sem comentário legitima. A saída que vem sendo testada — placa nova, obra ao lado, troca de nome com registro do nome antigo — assume que o monumento é documento do que uma época quis celebrar, e que a identidade cultural de hoje pode discordar dele em voz alta. O mesmo país que ergueu essas homenagens deixou sem proteção os terreiros e a cultura popular negra; o patrimônio histórico, aqui, é o próprio campo de conflito.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "eng-artes-cultura-01",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A arte indígena está presente na cultura do povo brasileiro, sendo um dos seus alicerces — como mostram a cerâmica marajoara, o Kuarup da etnia Yawalapiti, no Parque do Xingu, e as apresentações artístico-culturais dos povos originários Fulni-ô.\nSobre a cultura dos povos originários do Brasil, é correto afirmar que",
+   "alternativas": {
+    "a": "a cerâmica marajoara foi descoberta em 1871, quando dois pesquisadores, em visita ao litoral sul do Brasil, ficaram impressionados com o que viram e publicaram um artigo em uma revista científica.",
+    "b": "música, dança, arte plumária, cestaria, cerâmica, tecelagem e pintura corporal são práticas de destaque.",
+    "c": "na arte plumária, a disposição e as cores das penas dos cocares são aleatórias e dependem do gosto artístico dos indígenas que os confeccionam.",
+    "d": "a música e a dança dos povos originários têm a função de divertir e facilitar o convívio tribal.",
+    "e": "os grafismos são reconhecidos pela simetria e originalidade de seus traços, desenhados na arte corporal com precisão e delicadeza pelos guerreiros da tribo, como indicação de seu status ou de preparação para guerra."
+   },
+   "resposta": "b",
+   "explicacao": "A alternativa correta é a única que apenas ENUMERA as linguagens artísticas dos povos originários, sem lhes atribuir função ou origem equivocada. As outras quatro erram por reduzir. A cerâmica marajoara é da ilha de Marajó, no litoral NORTE, na foz do Amazonas, e não do litoral sul. A arte plumária não é aleatória: cores, penas e disposição seguem códigos que indicam etnia, papel social e ocasião ritual — é linguagem, não decoração. Música e dança não servem só para divertir: estruturam rituais, marcam passagens e transmitem memória, como o próprio Kuarup, que é cerimônia funerária. E os grafismos corporais não são feitos apenas por guerreiros nem apenas para a guerra; são usados por toda a comunidade e em contextos variados."
   }
  ],
  "artes-musica-cena": [
@@ -110392,6 +110583,25 @@ window.QUESTION_BANKS = {
    "explicacao": "Sem moeda própria, o ajuste diante de uma queda no preço da soja recai inteiramente sobre salário e emprego. Equador e El Salvador dolarizaram; a Argentina é economia muito maior e mais exposta a choques de commodities.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-politica-economia",
+   "id": "eng-atualidades-02",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "A Escola Austríaca ganhou destaque por suas contribuições no campo da economia, com os teóricos Ludwig von Mises e Friedrich Hayek. Dentre os conceitos defendidos por eles estão:\nI – Praxeologia, que considera o comportamento econômico manifestação de escolhas racionais feitas pelos indivíduos.\nII – Teoria dos ciclos econômicos, seja de expansão ou de recessão, causados pela intervenção governamental.\nIII – Planificação da economia como estratégia de enfrentamento às taxas de juros e estabilização social.\nIV – Neutralidade da moeda, devido à sua condição de imparcialidade diante das mudanças econômicas que afetam a sociedade.\nV – Ordem espontânea, sugerindo que o mercado, sem intervenção do Estado, tende a organizar-se de maneira eficiente por meio de ação descentralizada dos indivíduos.\nEstão corretas as afirmativas",
+   "alternativas": {
+    "a": "I, II e V apenas.",
+    "b": "I, II, III, IV e V.",
+    "c": "I, III e V apenas.",
+    "d": "II, III e IV apenas.",
+    "e": "II, III e V apenas."
+   },
+   "resposta": "a",
+   "explicacao": "As três corretas são as que decorrem do individualismo metodológico da escola: a praxeologia de Mises, que parte da ação individual; a teoria austríaca dos ciclos, que atribui as bolhas à expansão artificial do crédito pelo governo; e a ordem espontânea de Hayek, em que a coordenação emerge sem planejador central. As duas falsas são justamente as teses que a escola COMBATE. A planificação da economia é o alvo direto de Hayek em O Caminho da Servidão, e defendê-la seria o oposto do programa austríaco. E a neutralidade da moeda também é rejeitada: para os austríacos a emissão não é imparcial, porque o dinheiro novo entra em pontos específicos da economia e distorce os preços relativos ao longo do caminho."
   }
  ],
  "atualidades-geopolitica": [
@@ -113778,6 +113988,82 @@ window.QUESTION_BANKS = {
    "explicacao": "O texto usa a guerra como porta de entrada, mas o argumento central vem depois do \"Mas\": há grãos suficientes no mundo e mesmo assim falta comida, porque a produção se concentrou em quatro cultivos e em poucos países, e boa parte dos grãos nem se destina ao consumo humano direto. Isso é diagnóstico ESTRUTURAL, do modelo produtivo. As alternativas a, c e e propõem causas passageiras — circunstancial, conjuntural, ocasional — que o texto explicitamente relativiza; e a b inventa perdas de safra na Índia e na China, que não aparecem em lugar nenhum.",
    "origem": "direito",
    "frenteOrigem": "atualidades-geopolitica"
+  },
+  {
+   "subtema": "atualidades-geopolitica",
+   "id": "eng-atualidades-01",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "As guerras ainda assolam a humanidade, de modo que é possível colocar do mesmo lado Estados Unidos da América, França, Alemanha, Itália e Reino Unido, e do outro lado Afeganistão, Egito, Marrocos, Síria, Catar, Argélia e Irã, referindo-se à situação entre",
+   "alternativas": {
+    "a": "Rússia e Ucrânia.",
+    "b": "Iêmen e Venezuela.",
+    "c": "Rússia e Japão.",
+    "d": "Israel e Palestina.",
+    "e": "França e Espanha."
+   },
+   "resposta": "d",
+   "explicacao": "O que resolve a questão é a composição dos dois blocos, e não a lista de países em si. De um lado, potências ocidentais que historicamente apoiam Israel; do outro, um conjunto exclusivamente de países árabes e muçulmanos — Afeganistão, Egito, Marrocos, Síria, Catar, Argélia e Irã —, alinhamento que só faz sentido no conflito israelo-palestino. No caso da Rússia e da Ucrânia o segundo bloco estaria errado: Irã e Síria se aproximam da Rússia, mas Egito, Marrocos e Catar não formam frente com ela. E os pares restantes não correspondem a guerra alguma em curso: Rússia e Japão têm uma disputa territorial pelas Curilas, sem conflito armado, e França e Espanha são parceiras na União Europeia."
+  },
+  {
+   "subtema": "atualidades-geopolitica",
+   "id": "eng-atualidades-03",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Um evento histórico marcou o fim de uma relação de mais de 40 anos entre o Reino Unido e a União Europeia, cujo impacto econômico, político e social permanece até nossos dias, tanto para o Reino Unido quanto para a Europa.\nEsse fato se refere",
+   "alternativas": {
+    "a": "à Zona do Euro.",
+    "b": "à Crise dos Refugiados.",
+    "c": "à Anexação da Crimeia.",
+    "d": "ao Brexit.",
+    "e": "à Ampliação da União Europeia."
+   },
+   "resposta": "d",
+   "explicacao": "O Reino Unido aderiu ao bloco em 1973, aprovou a saída no referendo de 2016 e a efetivou em janeiro de 2020 — os \"mais de 40 anos\" do enunciado. As demais opções tratam de outros episódios europeus, nenhum deles um rompimento. A Zona do Euro é a área da moeda única, da qual o Reino Unido nunca participou, tendo mantido a libra. A crise dos refugiados e a anexação da Crimeia pesaram no debate político europeu, mas não encerram relação alguma entre o Reino Unido e o bloco. E a ampliação é o movimento inverso ao descrito: entrada de novos membros, não saída."
+  },
+  {
+   "subtema": "atualidades-geopolitica",
+   "id": "eng-atualidades-04",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Uma das questões que permeiam o debate público é o aumento do número de refugiados no mundo: 120 milhões de pessoas estão fora de suas casas, tendo sido forçadas a fugir da guerra, da violência e da perseguição, segundo a agência das Nações Unidas para os refugiados, o ACNUR.\nTambém existem casos variados de ondas migratórias, bem como pedidos de asilo político. Refugiado, migrante e asilado são pessoas que, por diferentes razões, precisam sair do seu país, mas as razões que levam cada um a se mudar são completamente diferentes.\nAssinale a alternativa que descreve de modo correto o conceito de refugiado.",
+   "alternativas": {
+    "a": "Sujeito que, embora afastado de seu país de origem, continua recebendo a proteção de seu governo.",
+    "b": "Pessoa forçada a sair do seu país de origem devido à guerra, perseguição ou desastre natural.",
+    "c": "Indivíduo que se desloca de seu país de origem para outro de forma voluntária. O objetivo é se estabelecer em outra localidade, por inúmeras razões.",
+    "d": "Pessoa oriunda de países com elevado IDH (Índice de Desenvolvimento Humano) que procura expandir sua área de atuação profissional.",
+    "e": "Indivíduo que foge de seu país de origem unicamente por razões de perseguição política, sendo-lhe negado o asilo político pelo país pretendido."
+   },
+   "resposta": "b",
+   "explicacao": "O que define o refugiado é a natureza FORÇADA da saída: ele não escolhe partir, é expulso pela guerra, pela perseguição ou pela catástrofe. É esse traço que o separa do migrante, cujo deslocamento é voluntário e motivado por trabalho ou estudo — e é exatamente isso que a opção do deslocamento \"de forma voluntária\" descreve. A que fala em perseguição política restringe demais, ao exigir uma única causa, e confunde as categorias ao condicionar o status à negativa de asilo. E a que mantém a proteção do governo de origem contradiz a própria condição de refugiado, que existe justamente porque o Estado de origem deixou de proteger a pessoa — sem isso, não haveria por que outro país concedê-la."
+  },
+  {
+   "subtema": "atualidades-geopolitica",
+   "id": "eng-atualidades-05",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Desde outubro de 2023, o mundo vem acompanhando a guerra entre o Hamas e Israel. O local do conflito é",
+   "alternativas": {
+    "a": "o Afeganistão, localizado entre o mar Vermelho e Jerusalém, onde muitos conflitos já aconteceram nas últimas décadas.",
+    "b": "o Líbano, região montanhosa do Oriente, com grande importância para o judaísmo, o cristianismo e o islamismo.",
+    "c": "a Palestina, localizada entre o rio Jordão e o Mediterrâneo, considerada sagrada tanto pelo judaísmo, como pelo cristianismo e o islamismo.",
+    "d": "a Síria, região próxima à faixa de Gaza, palco de muitos conflitos e campos de pessoas refugiadas.",
+    "e": "a Turquia, região ocidental, terra considerada sagrada para as três maiores religiões monoteístas do mundo."
+   },
+   "resposta": "c",
+   "explicacao": "O Hamas governava a Faixa de Gaza, e é dela que parte o ataque de 7 de outubro de 2023 — território palestino, na estreita faixa entre o rio Jordão e o mar Mediterrâneo, sagrada para as três religiões monoteístas. Cada distrator erra na geografia. O Afeganistão fica na Ásia Central, a milhares de quilômetros, e não entre o mar Vermelho e Jerusalém. O Líbano faz fronteira com Israel e teve conflitos ligados ao Hezbollah, mas não é onde o Hamas atua. A Síria não é próxima da Faixa de Gaza, que fica no outro extremo de Israel. E a Turquia não é o território disputado, além de a descrição a situar erradamente."
   }
  ],
  "atualidades-meioambiente": [

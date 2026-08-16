@@ -222,9 +222,10 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | 8e | ENEM 2025, os dois dias — **falta o gabarito**, ver abaixo | ~180 | bloqueada |
 | **8 — geral** | **ENEM 2023 + 2024: 283 questões** | **283** | |
 | 9a | FUVEST 2024, 1ª fase | 62 de 90 | **feito** (`d6c2b8d`) |
-| 9b | FUVEST 2025, 1ª fase | ~90 | **próxima** |
-| 9c–9f | FUVEST 2026 e os três simulados oficiais | ~340 | |
-| **9 — total** | **FUVEST: seis cadernos de 1ª fase** | 520 | em curso |
+| 9b | FUVEST 2025, 1ª fase | 71 de 90 | **feito** (`29d0561`) |
+| 9c | FUVEST 2026, 1ª fase (a 3 foi anulada pela banca) | 70 de 90 | **feito** (`8cdf2d1`) |
+| **9a–9c** | **os três vestibulares de verdade: 203 de 270** | **203** | **feito** |
+| 9d–9f | os três simulados oficiais | ~250 | **próxima** |
 
 Os cadernos de ENEM e FUVEST chegaram em `enem e fuvest/`, na raiz, e a pasta
 entrou no `.gitignore` pela mesma razão das outras: a raiz É o site.
@@ -290,6 +291,43 @@ tabela, e o PDF as entrega em fluxo único: "Componente A 200 700 Componente B 7
 500". Só a de matemática foi acusada, mas as três eram ilegíveis. Remonte com
 quebra de linha (`\n`) antes de inserir — a convenção já existe no banco, em 11
 questões de química.
+
+### O que 2025 e 2026 acrescentaram
+
+**A FUVEST muda o layout de um ano para o outro.** Não é uma banca, são três:
+
+| | cabeçalho da questão | fim da questão | espaço entre palavras | provas no gabarito |
+|---|---|---|---|---|
+| 2024 | `04` | (adivinhar) | espaço comum | cinco (V, K, Q, X, Z) |
+| 2025 | `{04}` | linha de `#####` | espaço comum | quatro (V1..V4) |
+| 2026 | `{04}` | linha de `#####` | **U+00AC (`¬`)** | quatro (V1..V4) |
+
+O `¬` de 2026 é o mais traiçoeiro: o texto sai legível na tela e ilegível para
+qualquer regra, porque `"A difusão de"` chega como `"A¬difusão¬de"`. E o número
+de provas mudar fazia o leitor de gabarito devolver **zero** respostas em
+silêncio, sem erro. Ambos agora se detectam sozinhos — o `¬` vira espaço na
+leitura, e o número de colunas sai da contagem de `PROVA` no cabeçalho.
+
+**Sempre reprocessar os cadernos já publicados depois de mexer no parser.** As
+três edições saem do mesmo script, e cada ajuste para uma pode quebrar as
+outras. Depois de cada mudança, rodar 2024 e 2025 e comparar o JSON com o que
+foi publicado — os três ajustes desta fase passaram por essa conferência.
+
+**Questão anulada aparece como buraco no gabarito, não como aviso.** A 3 de 2026
+não tem resposta na tabela de correspondência: 89 respostas para 90 questões. O
+motivo estava na página 1, em `*Questão anulada`. Conferir a contagem do
+gabarito é o jeito barato de achar isso.
+
+**Quando o cálculo não bate com o gabarito, a figura era necessária.** A questão
+71 de 2026, dos ovos cozidos, parecia resolvível pelo texto — mas a ordem das
+quantidades de calor dá diferente da alternativa correta. A divergência é a
+prova de que os dados estavam na imagem. Vale como teste: em questão de conta,
+refaça a conta antes de decidir manter.
+
+**Taxa de pino por edição:** 35% (2024), 41% (2025), 34% (2026). O pico de 2025
+tem causa visível — foi a edição mais interdisciplinar, com Física entrando pela
+imagem de um buraco negro e Biologia saindo de um romance de 1935. Quanto mais a
+prova mistura as áreas, mais o classificador lê a moldura em vez do conteúdo.
 
 **A regressão de chutabilidade da FUVEST é real e não tem conserto.** História
 saiu de OK para REPROVADO, 19.4% → 20.6%, por três questões em que a alternativa

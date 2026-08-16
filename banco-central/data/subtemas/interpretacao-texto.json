@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-15",
+ "gerado": "2026-08-16",
  "frente": "interpretacao-texto",
- "total": 475,
+ "total": 477,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -2755,6 +2755,18 @@
    "frenteDestino": "interpretacao-texto",
    "pontos": 10,
    "margem": 10
+  },
+  "med-interpretacao-texto-254": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 19,
+   "margem": 15
+  },
+  "med-interpretacao-texto-255": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 24,
+   "margem": 24
   }
  }
 }

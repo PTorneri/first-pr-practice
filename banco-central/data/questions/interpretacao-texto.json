@@ -338,7 +338,7 @@
     "b": "emotiva, porque as falas revelam o estado emocional de quem participa da conversa.",
     "c": "conativa, porque cada fala procura obter do outro uma mudança de comportamento.",
     "d": "fática, porque as falas servem para estabelecer e verificar o contato entre os interlocutores.",
-    "e": "metalinguística, porque os interlocutores discutem o significado das palavras que empregam."
+    "e": "metalinguística, porque os interlocutores interrompem a conversa para discutir o significado das palavras que um e outro empregam."
    },
    "resposta": "d",
    "explicacao": "Nenhuma informação é transmitida: as falas apenas testam se o canal está aberto e se o outro continua na linha, que é exatamente a função fática. A referencial exigiria assunto, e o diálogo não chega a ter um; a emotiva exigiria marca de sentimento; a conativa exigiria pedido de ação, e os imperativos aqui apenas devolvem o turno de fala; e a metalinguística exigiria discussão sobre a própria língua.",
@@ -352,7 +352,7 @@
     "a": "Nos polvos, os neurônios concentram-se num cérebro central proporcionalmente maior que o dos mamíferos.",
     "b": "Nos polvos, grande parte dos neurônios está distribuída pelos braços, permitindo processamento relativamente independente.",
     "c": "O polvo não possui neurônios em nenhuma parte do corpo, segundo estudos recentes de neurociência marinha.",
-    "d": "Os braços do polvo são incapazes de qualquer tipo de processamento sensorial, dependendo sempre do cérebro central do animal.",
+    "d": "Os braços do polvo são incapazes de realizar processamento sensorial por conta própria e dependem do cérebro central para cada movimento executado.",
     "e": "Os polvos têm menos neurônios do que qualquer outro animal marinho, incluindo peixes e crustáceos."
    },
    "resposta": "b",
@@ -462,7 +462,7 @@
    "enunciado": "O humor da tirinha se baseia principalmente",
    "alternativas": {
     "a": "em uma interpretação literal e absurda, pelo robô, do pedido ambíguo do dono, resultando em inação.",
-    "b": "na incapacidade técnica real de qualquer robô doméstico existente executar tarefas simultâneas de fato.",
+    "b": "na incapacidade técnica dos robôs domésticos hoje existentes de executar duas tarefas ao mesmo tempo, limitação que a tirinha ilustraria.",
     "c": "na recusa do robô em executar uma tarefa que considera abaixo de suas funções.",
     "d": "em uma explicação séria sobre como robôs domésticos funcionam tecnicamente na vida real.",
     "e": "em uma crítica direta ao consumo excessivo de energia elétrica pelos eletrodomésticos modernos."
@@ -678,7 +678,7 @@
     "a": "contraposição, em que a paciência é apresentada como mais confiável e sustentável do que a paixão.",
     "b": "indiferença, pois o orador afirma que nenhum dos dois conceitos importa para o trabalho.",
     "c": "complementaridade, em que a paixão inicia o percurso e a paciência apenas o mantém.",
-    "d": "sinonímia, já que os dois termos seriam usados como equivalentes ao longo de todo o discurso de formatura.",
+    "d": "sinonímia, já que os dois termos seriam usados como equivalentes pelo orador, sem distinção de sentido entre eles no discurso de formatura.",
     "e": "causa e efeito, em que a paixão é apontada como consequência direta da paciência."
    },
    "resposta": "a",
@@ -743,7 +743,7 @@
    "texto_apoio": "A seleção venceu por 2 a 1 e chegou aos 15 pontos na classificação, mantendo a liderança do grupo. 'Fizemos um jogo inteligente, sofremos no primeiro tempo, mas ajustamos a marcação no intervalo', avaliou o técnico após a partida.",
    "enunciado": "No trecho, é possível distinguir claramente entre",
    "alternativas": {
-    "a": "apenas opiniões pessoais do próprio jornalista, sem qualquer dado verificável sobre o resultado da partida disputada.",
+    "a": "apenas opiniões pessoais do próprio jornalista, que teria interpretado o placar e a classificação segundo sua preferência clubística.",
     "b": "dois dados estatísticos que, nessa leitura, se contradizem entre si sobre o placar e a posição na tabela.",
     "c": "duas avaliações do técnico feitas em momentos diferentes da temporada, sem dados de classificação.",
     "d": "uma crítica do técnico ao desempenho de um jogador específico, citado nominalmente na entrevista concedida.",
@@ -828,7 +828,7 @@
    "texto_apoio": "O bairro recebeu, nos últimos cinco anos, três novos condomínios de alto padrão. Os antigos moradores comentam que o supermercado tradicional, antes o único da região, fechou as portas no ano passado, dando lugar a uma rede de conveniência voltada a produtos importados. O aluguel médio, segundo a imobiliária local, praticamente dobrou no período.",
    "enunciado": "Com base no conjunto de informações apresentadas, é possível inferir que o bairro está passando por um processo de",
    "alternativas": {
-    "a": "queda constante e acentuada no valor de todos os imóveis do bairro ao longo dos últimos cinco anos mencionados no texto.",
+    "a": "queda acentuada e generalizada no valor dos imóveis do bairro ao longo dos últimos cinco anos, segundo a imobiliária local citada.",
     "b": "gentrificação, evidenciada pelos condomínios de alto padrão, pela alta do aluguel e pela mudança no comércio.",
     "c": "conurbação com o município vizinho, evidenciada pela expansão contínua da malha urbana.",
     "d": "tombamento histórico oficial do bairro por parte da prefeitura, medida não mencionada no texto.",
@@ -880,7 +880,7 @@
    "enunciado": "No texto, o conectivo 'contudo' estabelece uma relação de",
    "alternativas": {
     "a": "oposição, contrapondo a insuficiência do hábito isolado de poupar à eficácia do hábito acompanhado de reflexão.",
-    "b": "causa, indicando que guardar a mesada sozinha já seria sempre a causa direta do raciocínio financeiro adulto completo.",
+    "b": "causa, indicando que guardar parte da mesada já seria, por si só, a causa direta do raciocínio financeiro do adulto formado.",
     "c": "comparação entre duas crianças diferentes, cujos hábitos de poupança o texto contrastaria.",
     "d": "adição, reforçando a ideia anterior sobre a mesada sem introduzir nenhuma ressalva ao raciocínio.",
     "e": "conclusão, apresentando o hábito de poupar como resultado necessário do que se afirmou antes."
@@ -917,7 +917,7 @@
     "b": "o discurso entusiasmado sobre a 'flexibilidade' do home office e a rotina exaustiva revelada nos quadros seguintes.",
     "c": "o vocabulário corporativo usado pela personagem e a linguagem informal de quem responde a ela.",
     "d": "a quantidade de notebooks usados pela personagem e a qualidade da internet disponível na casa.",
-    "e": "uma explicação técnica bem detalhada sobre a configuração de todos os equipamentos usados nas reuniões virtuais mostradas."
+    "e": "uma explicação técnica bem detalhada sobre a configuração dos equipamentos usados nas reuniões virtuais mostradas na tirinha."
    },
    "resposta": "b",
    "explicacao": "O humor nasce do contraste entre o discurso entusiasmado sobre a flexibilidade do home office e a rotina exaustiva que os quadros seguintes revelam: a mesma cadeira desde as sete da manhã, três notebooks e um bilhete que continua intocado à noite. A passagem do tempo entre o primeiro e o terceiro quadro é o distrator mais fino, porque ela está na tirinha e é indispensável — é o veículo da piada, não o contraste que a produz, que se dá entre o que a personagem diz e o que se vê. O vocabulário corporativo aparece sem que haja um interlocutor de fala informal. A quantidade de notebooks compõe a cena, e a internet não é mencionada. E não há explicação técnica sobre equipamentos.",
@@ -934,7 +934,7 @@
     "b": "Apesar de anunciadas como personalizadas, as playlists tendem a reforçar a popularidade já existente, dificultando descobertas.",
     "c": "As playlists automáticas ampliam o repertório do ouvinte, expondo-o a gêneros que ele não buscaria sozinho.",
     "d": "Os serviços de streaming musical deixaram totalmente de usar playlists automáticas, segundo relata o texto apresentado.",
-    "e": "Os algoritmos de recomendação musical são incapazes de identificar as reais preferências musicais dos usuários."
+    "e": "Os algoritmos de recomendação musical são incapazes de identificar as reais preferências dos usuários e por isso sugerem artistas de gêneros escolhidos ao acaso."
    },
    "resposta": "b",
    "explicacao": "O texto contrapõe o discurso de personalização ('feitas sob medida') à prática observada (repetição de artistas populares), sustentando que a promessa de descoberta é limitada por um viés estrutural do algoritmo em favor do que já é popular.",
@@ -949,7 +949,7 @@
    "alternativas": {
     "a": "o público concordou unanimemente com a decisão de afastamento temporário tomada pela própria atleta.",
     "b": "há um sentido implícito nos comentários hostis, revelando resistência do público ao custo emocional do alto rendimento.",
-    "c": "os comentários hostis foram todos publicados literalmente entre as demais frases desse texto jornalístico específico citado.",
+    "c": "os comentários hostis foram publicados literalmente entre as demais frases desse texto jornalístico, ocupando as linhas intermediárias.",
     "d": "a atleta escreveu pessoalmente todos os comentários hostis mencionados ao longo da reportagem citada.",
     "e": "a atleta respondeu aos comentários de forma indireta, sem mencionar seus autores pelo nome."
    },
@@ -1049,7 +1049,7 @@
    "texto_apoio": "Troquei de cidade há três meses e ainda calculo distâncias pelo tempo que levava no lugar antigo. 'Fica pertinho', digo, sobre um mercado que está, na verdade, a quarenta minutos a pé. Aos poucos vou entendendo que não é só o mapa que muda quando a gente se muda: é a régua inteira com que a gente media a vida antes.",
    "enunciado": "A reflexão do narrador sobre 'a régua inteira com que a gente media a vida' sugere que",
    "alternativas": {
-    "a": "mudar de cidade só altera realmente as distâncias físicas entre os lugares, sem qualquer outro efeito notável ou relevante.",
+    "a": "mudar de cidade altera apenas as distâncias físicas entre os lugares, sem nenhum efeito sobre o modo como o narrador percebe a vida.",
     "b": "o narrador considera o mercado da nova cidade bem mais próximo do que de fato está de sua casa.",
     "c": "o narrador pretende voltar a morar definitivamente na cidade antiga assim que for possível fazer isso.",
     "d": "o narrador passou a medir distâncias em tempo de deslocamento, e não mais em quilômetros percorridos.",
@@ -1153,7 +1153,7 @@
    "alternativas": {
     "a": "A segurança da vacina depende de consenso entre especialistas; a recomendação de uso, de evidência direta.",
     "b": "Nenhuma das duas afirmações tem qualquer base científica sólida, segundo a própria cientista entrevistada.",
-    "c": "Ambas as afirmações são igualmente fatos comprovados cientificamente, sem nenhuma diferença relevante entre elas.",
+    "c": "Ambas as afirmações são igualmente fatos comprovados cientificamente, já que a recomendação de vacinar decorre dos mesmos testes clínicos revisados por pares.",
     "d": "A segurança da vacina é fato baseado em evidências; a recomendação universal envolve julgamento que extrapola os dados.",
     "e": "A cientista afirma que não há diferença relevante alguma entre fato e opinião em contextos científicos."
    },
@@ -1169,7 +1169,7 @@
    "enunciado": "Que contraponto o autor apresenta em relação ao benefício citado dos jogos de estratégia em tempo real?",
    "alternativas": {
     "a": "Sustenta que o ganho observado desaparece assim que o jogador interrompe a prática por algumas semanas.",
-    "b": "Nega que exista absolutamente qualquer relação entre jogos de estratégia e habilidades cognitivas humanas reais.",
+    "b": "Nega que exista relação demonstrável entre os jogos de estratégia em tempo real e o desempenho cognitivo de quem os pratica.",
     "c": "Sugere que apenas jogos de tabuleiro tradicionais trazem benefícios cognitivos reais.",
     "d": "Afirma que os jogos de estratégia não trazem nenhum benefício real à tomada de decisões.",
     "e": "Reconhece o ganho em rapidez decisória, mas aponta um possível custo: menor tolerância à reflexão pausada."
@@ -1274,7 +1274,7 @@
     "b": "irônico, criticando de forma bem-humorada a vagueza da informação apesar da aparência de cortesia.",
     "c": "neutro, apenas descrevendo tecnicamente o funcionamento do painel de embarque.",
     "d": "indignado, exigindo formalmente indenização da companhia aérea pelo atraso do voo.",
-    "e": "elogioso, valorizando de forma sincera a transparência da companhia aérea com todos os seus passageiros."
+    "e": "elogioso, valorizando de forma sincera a transparência com que a companhia aérea informou o novo horário de embarque."
    },
    "resposta": "b",
    "explicacao": "A caracterização da frase como algo que 'promete tudo, garante nada, e ainda parece educada' revela ironia bem-humorada diante da vagueza institucional, sem configurar elogio sincero, neutralidade técnica ou exigência formal.",
@@ -1391,7 +1391,7 @@
    "alternativas": {
     "a": "Porque o ruído urbano é medido pelos mesmos órgãos que monitoram a qualidade do ar.",
     "b": "Porque a exposição prolongada a ruídos elevados está associada a distúrbios do sono e a maior risco cardiovascular.",
-    "c": "Porque nenhum morador jamais se queixou do barulho da rodovia antes da instalação completa dessas barreiras acústicas específicas.",
+    "c": "Porque os moradores só se queixaram do barulho da rodovia depois que as barreiras acústicas foram instaladas ao longo da via residencial.",
     "d": "Porque as barreiras acústicas custam mais caro do que outras obras de infraestrutura urbana.",
     "e": "Porque a redução de ruído não trouxe nenhum benefício mensurável à saúde dos moradores da região."
    },
@@ -1474,7 +1474,7 @@
    "texto_apoio": "Pesquisas em neurolinguística indicam que crianças expostas regularmente a duas línguas desde a primeira infância desenvolvem, em média, maior flexibilidade cognitiva para alternar entre tarefas, mesmo em atividades que não envolvem linguagem diretamente. Os pesquisadores atribuem esse ganho ao exercício constante de inibir uma língua para ativar outra, um treino que parece se generalizar para outras funções executivas do cérebro.",
    "enunciado": "Qual explicação os pesquisadores oferecem para o ganho cognitivo associado ao bilinguismo infantil?",
    "alternativas": {
-    "a": "A ausência completa e definitiva de qualquer relação entre bilinguismo e todas as funções cognitivas executivas do cérebro.",
+    "a": "A ausência de relação demonstrável entre o bilinguismo infantil e as funções executivas do cérebro, apontada pelos próprios pesquisadores.",
     "b": "O uso exclusivo de métodos escolares tradicionais no ensino de idiomas estrangeiros às crianças.",
     "c": "O fato de crianças bilíngues estudarem, em média, mais horas por dia do que crianças monolíngues.",
     "d": "O contato precoce com estruturas gramaticais mais complexas, que antecipa o amadurecimento da linguagem.",
@@ -1509,7 +1509,7 @@
    "enunciado": "Segundo o texto, qual é a principal causa apontada para a insegurança alimentar em escala global?",
    "alternativas": {
     "a": "A ausência completa de organizações internacionais dedicadas ao tema da alimentação mundial.",
-    "b": "O excesso constante de produção agrícola, que tornaria os alimentos artificialmente muito mais baratos em todo o mercado.",
+    "b": "O excesso de produção agrícola registrado nos últimos anos, que teria tornado os alimentos artificialmente baratos no mercado mundial.",
     "c": "A concentração da produção agrícola em poucos países exportadores, que fragiliza os importadores.",
     "d": "Problemas de distribuição, perdas na cadeia de transporte e barreiras de acesso econômico, e não a falta de produção.",
     "e": "A insuficiência da produção mundial de alimentos frente à demanda crescente da população global."
@@ -1560,7 +1560,7 @@
    "enunciado": "O efeito de humor no trecho final ('a palavra só é sempre a mais otimista da frase') decorre de",
    "alternativas": {
     "a": "uma generalização irônica que contrasta a modéstia da expressão 'só o banheiro' com o tamanho real da reforma que se seguiu.",
-    "b": "uma explicação bem técnica e detalhada sobre os custos médios de reformas residenciais na cidade atualmente cobrados.",
+    "b": "uma explicação bem técnica e detalhada sobre os custos médios das reformas residenciais na cidade, com o preço por metro quadrado de cada etapa.",
     "c": "uma descrição neutra do cronograma originalmente planejado apenas para a reforma do banheiro.",
     "d": "de um trocadilho entre o nome da construtora e o prazo repetidamente descumprido por ela.",
     "e": "uma crítica direta e sem humor ao comportamento dos vizinhos que reclamavam do barulho aos sábados."
@@ -1597,7 +1597,7 @@
     "b": "As próteses robóticas ainda não conseguem reproduzir nenhum movimento natural da mão humana.",
     "c": "O principal obstáculo é a resistência dos usuários a dispositivos que dependem de recarga diária.",
     "d": "O principal obstáculo atual para a difusão das próteses robóticas é de natureza econômica, não mais mecânica.",
-    "e": "As próteses robóticas são utilizadas exclusivamente por pessoas de altíssimo poder aquisitivo, sem qualquer exceção."
+    "e": "As próteses robóticas já chegaram ao mesmo preço das próteses mecânicas comuns, o que ampliou muito o número de usuários atendidos."
    },
    "resposta": "d",
    "explicacao": "O texto afirma que o desafio 'não é mais puramente mecânico, mas de custo', apontando a questão econômica como o principal obstáculo atual à difusão da tecnologia, e não a limitação técnica dos movimentos.",
@@ -1661,7 +1661,7 @@
    "texto_apoio": "Diferente do rádio e da televisão, cujo conteúdo é ouvido ou visto no momento estrito da transmissão, o podcast permite que o ouvinte controle o ritmo: pausar, voltar, acelerar a velocidade de reprodução ou consumir o episódio dias depois de publicado. Essa flexibilidade tem atraído um público que valoriza aprofundamento maior do que o formato costuma oferecer em veículos de notícia mais curtos e imediatos.",
    "enunciado": "Segundo o texto, o que diferencia estruturalmente o consumo de podcast do consumo tradicional de rádio e televisão?",
    "alternativas": {
-    "a": "Não há, segundo o texto, nenhuma diferença relevante entre os três formatos de mídia mencionados no início.",
+    "a": "Não há, segundo o texto, diferença relevante entre os três formatos mencionados, já que os três dependem igualmente da grade fixa de programação da emissora.",
     "b": "O podcast depende de conexão contínua durante a escuta, o que restringe seu uso em deslocamentos.",
     "c": "O podcast exige, obrigatoriamente, que o conteúdo seja ouvido no exato momento da publicação do episódio.",
     "d": "O podcast permite ao ouvinte controlar o ritmo de consumo, ao contrário da transmissão em tempo real característica do rádio e da TV.",
@@ -1680,7 +1680,7 @@
    "alternativas": {
     "a": "O sonar identifica cardumes com precisão, mas seu custo elevado restringe o acesso à pesca industrial.",
     "b": "Os biólogos marinhos afirmam que a tecnologia de sonar não tem qualquer efeito sobre os cardumes pescados.",
-    "c": "A tecnologia de sonar teria tornado a pesca ainda menos eficiente do que era antes de sua adoção pelas frotas pesqueiras.",
+    "c": "A tecnologia de sonar teria tornado a pesca ainda menos eficiente do que era antes de sua adoção, já que o equipamento afugenta os cardumes localizados.",
     "d": "O aumento da eficiência tecnológica na captura de peixes pode reduzir, no médio prazo, a disponibilidade futura da própria pesca.",
     "e": "A pesca com sonar aumentou, comprovadamente, a taxa de reprodução das espécies capturadas pelas frotas."
    },
@@ -1752,7 +1752,7 @@
     "b": "as duas são literais, uma vez que ambas remetem a instalações elétricas concretas.",
     "c": "as duas são figuradas, pois a palavra designa um objeto ausente em ambos os contextos.",
     "d": "a primeira é figurada e a segunda é literal, já que a reforma envolve documentos físicos.",
-    "e": "a distinção não se aplica, porque a palavra tem um único sentido registrado em dicionário."
+    "e": "a distinção não se aplica, porque a palavra tem um único sentido registrado em dicionário e conserva esse mesmo sentido nos dois trechos citados."
    },
    "resposta": "a",
    "explicacao": "No manual, fiação designa o conjunto de fios elétricos dentro da parede — o objeto mesmo. No texto de opinião, ela nomeia a rede de vínculos e repasses entre os entes da federação, que não é feita de fios: o sentido é construído por transferência. Dizer que as duas são literais ignora que uma federação não tem cabos; dizer que as duas são figuradas desconsidera o manual, cujo objeto é físico; a inversão troca os dois casos; e a existência de um sentido dicionarizado não impede o uso figurado, que é justamente o que se apoia nele.",
@@ -1763,7 +1763,7 @@
    "texto_apoio": "No primeiro quadro, um usuário tenta acessar um site e vê a mensagem: 'Confirme que você não é um robô: selecione todas as imagens com semáforo'. No segundo quadro, depois de acertar, aparece nova mensagem: 'Agora selecione todas com bicicleta'. No terceiro quadro, o usuário, exausto, encara a tela e murmura: 'Eu só queria ver a previsão do tempo.'",
    "enunciado": "O humor da tirinha decorre principalmente",
    "alternativas": {
-    "a": "de uma crítica séria e detalhada às falhas de segurança em sites de previsão do tempo.",
+    "a": "de uma crítica séria e detalhada às falhas de segurança dos sites de previsão do tempo, apresentadas pela tirinha como o verdadeiro problema do usuário.",
     "b": "da comparação técnica entre diferentes tipos de verificação de segurança digital usados hoje.",
     "c": "da ausência de qualquer diálogo direto entre o usuário e o site ao longo da tirinha.",
     "d": "do exagero cômico da quantidade de etapas de verificação exigidas para uma tarefa simples e corriqueira.",
@@ -1800,7 +1800,7 @@
     "a": "Trabalhadores de turno noturno não utilizam, em nenhuma hipótese, o transporte público para se deslocar.",
     "b": "A redução de frequência nos horários noturnos beneficia diretamente os trabalhadores desse turno.",
     "c": "A lógica de custo que reduz a frequência noturna tende a prejudicar quem depende desses horários por trabalhar à noite.",
-    "d": "A redução de frequência afeta sempre igualmente todos os passageiros, sem qualquer distinção real entre turnos de trabalho.",
+    "d": "A redução de frequência afeta de modo igual os passageiros do período diurno e os do noturno, sem distinção real entre os turnos de trabalho.",
     "e": "A redução noturna é compensada por linhas alternativas, o que mantém o tempo médio de espera estável."
    },
    "resposta": "c",
@@ -1832,7 +1832,7 @@
    "enunciado": "Qual é o tom predominante do texto ao descrever a reação da comunidade após a enchente?",
    "alternativas": {
     "a": "De crítica exclusiva e resignada à ausência total de atuação do poder público na região afetada.",
-    "b": "De desconfiança em relação à eficácia dos mutirões de limpeza organizados pelos próprios moradores.",
+    "b": "De desconfiança em relação à eficácia dos mutirões organizados pelos próprios moradores, tratados no texto como improviso incapaz de resolver o problema.",
     "c": "De reconhecimento e valorização da capacidade de organização coletiva revelada pela própria comunidade diante da crise.",
     "d": "De indiferença total em relação às ações realizadas pelos moradores após o desastre relatado.",
     "e": "De cobrança dirigida aos moradores, que teriam demorado a se organizar depois da enchente."
@@ -2036,7 +2036,7 @@
    "enunciado": "Qual tese o texto sustenta em relação à criação de horários fixos de planejamento dentro da carga horária contratada?",
    "alternativas": {
     "a": "A criação de horários fixos de planejamento não trouxe nenhuma mudança perceptível na saúde dos professores.",
-    "b": "O planejamento dentro da carga horária só produz efeito quando acompanhado de redução do número de alunos por turma.",
+    "b": "O planejamento dentro da carga horária só produz efeito quando acompanhado de redução do número de alunos por turma, condição destacada pelo levantamento sindical.",
     "c": "Os afastamentos por saúde mental entre professores aumentaram após a criação de horários fixos de planejamento.",
     "d": "O planejamento pedagógico deveria ser realizado exclusivamente fora do horário de trabalho remunerado.",
     "e": "Reservar tempo de planejamento dentro da carga horária contratada está associado à redução de afastamentos por saúde mental."
@@ -2325,7 +2325,7 @@
    "enunciado": "Qual comparação o texto estabelece entre o trabalho infantil do século XIX e o do século XXI?",
    "alternativas": {
     "a": "Sugere que o trabalho infantil no século XXI é exclusivo de minas de carvão, como ocorria no século XIX.",
-    "b": "Afirma que o trabalho infantil foi completamente erradicado no mundo desde o século XIX até os dias de hoje.",
+    "b": "Afirma que o trabalho infantil foi completamente erradicado no mundo desde o século XIX, restando dele apenas os registros históricos das minas europeias.",
     "c": "Mostra que, apesar de mudanças legais desde o século XIX, o trabalho infantil persiste sob formas e cadeias produtivas diferentes.",
     "d": "Sustenta que a legislação do século XIX foi mais eficaz que a atual, por prever punição mais severa.",
     "e": "Nega qualquer relação entre a legislação do século XIX e a situação atual do trabalho infantil no mundo."
@@ -2379,7 +2379,7 @@
     "b": "O método anterior provavelmente aplicava recursos de forma mais uniforme, sem considerar as necessidades específicas de cada ponto.",
     "c": "O método anterior já utilizava sensores tão precisos quanto os descritos no texto atual sobre a agricultura.",
     "d": "O método anterior aplicava insumos de forma localizada, mas sem monitoramento contínuo do solo.",
-    "e": "Não é possível inferir nada sobre o método utilizado antes da adoção da nova tecnologia de sensores no campo."
+    "e": "Não é possível inferir nada sobre o método utilizado antes da adoção dos sensores, porque o texto trata apenas do custo dos equipamentos instalados na lavoura."
    },
    "resposta": "b",
    "explicacao": "Como o texto contrasta a aplicação 'nos pontos específicos que realmente precisam' com uma prática anterior implícita, é possível inferir que o método antigo era menos direcionado, provavelmente aplicando recursos de forma mais uniforme em toda a área.",
@@ -2395,7 +2395,7 @@
     "a": "Porque essas expressões dependem de contexto cultural compartilhado, e não apenas do significado literal das palavras.",
     "b": "Porque essas expressões variam de região para região dentro de um mesmo idioma, o que multiplica as possibilidades.",
     "c": "Porque expressões idiomáticas não existem em nenhuma língua além do português, segundo o texto.",
-    "d": "Porque as ferramentas de tradução automática ainda não conseguem traduzir tipo algum de texto, seja técnico ou não.",
+    "d": "Porque as ferramentas de tradução automática ainda não conseguem traduzir tipo algum de texto, seja ele técnico, informativo ou literário, como reconhece o autor.",
     "e": "Porque os sistemas de tradução automática são treinados exclusivamente com textos jurídicos formais."
    },
    "resposta": "a",
@@ -2410,7 +2410,7 @@
    "enunciado": "Qual explicação o texto oferece para a mobilização de voluntários sem experiência prévia em ações humanitárias?",
    "alternativas": {
     "a": "A cobertura contínua do desastre pela imprensa, que manteve o assunto em evidência por semanas.",
-    "b": "A ausência completa e absolutamente total de qualquer outro tipo de auxílio prestado às vítimas desse grande deslizamento de terra citado.",
+    "b": "A ausência de outras formas de auxílio às vítimas do deslizamento, o que teria deixado o socorro inteiramente por conta dos voluntários vindos de outras cidades.",
     "c": "A obrigatoriedade legal de participação em ações de ajuda humanitária após desastres naturais como esse.",
     "d": "A proximidade emocional criada pelas imagens do desastre compartilhadas nas redes sociais, que aproximou a tragédia apesar da distância.",
     "e": "O pagamento oferecido pelas organizações responsáveis pela coordenação da ajuda humanitária prestada."
@@ -2447,7 +2447,7 @@
     "b": "As empresas de aplicativo eliminaram completamente qualquer forma de avaliação de desempenho dos entregadores.",
     "c": "A autonomia declarada convive com a impossibilidade de o trabalhador negociar o preço do próprio serviço.",
     "d": "Não existe, segundo o texto, nenhuma contradição na categorização utilizada pelas empresas de aplicativo citadas.",
-    "e": "Os trabalhadores de aplicativo já recebem, atualmente, absolutamente todos os direitos trabalhistas tradicionais garantidos pela legislação."
+    "e": "Os trabalhadores de aplicativo já recebem, atualmente, os mesmos direitos trabalhistas assegurados pela legislação aos empregados com carteira assinada."
    },
    "resposta": "a",
    "explicacao": "O texto evidencia uma contradição entre a categoria formal de 'autônomo' (sem direitos trabalhistas tradicionais) e a prática real de controle por metas, avaliações e penalidades, elementos associados a relações de subordinação, e não de autonomia plena.",
@@ -2461,7 +2461,7 @@
    "enunciado": "Qual é a função do trecho final do texto ('até que, dois anos depois, a prefeitura passou a apoiar...') em relação ao restante do relato?",
    "alternativas": {
     "a": "Afirmar que a prefeitura foi responsável, desde o início, pela criação da biblioteca comunitária relatada.",
-    "b": "Contradizer completamente toda a informação apresentada anteriormente sobre a origem comunitária da biblioteca citada no texto.",
+    "b": "Contradizer frontalmente as informações apresentadas antes sobre a origem comunitária da biblioteca, revelando-as imprecisas ao final do relato.",
     "c": "Mostrar que a iniciativa, nascida da comunidade, obteve reconhecimento institucional posterior, sem que este fosse sua origem.",
     "d": "Encerrar o relato sem qualquer relação lógica com as informações apresentadas anteriormente ao longo do texto.",
     "e": "Indicar que a iniciativa perdeu autonomia ao passar a depender de recursos públicos."
@@ -2477,7 +2477,7 @@
    "texto_apoio": "No grupo de família do WhatsApp, minha tia manda bom dia às seis da manhã, meu primo manda memes desatualizados às três da tarde, e meu pai, fiel ao estilo, responde tudo com 'certo' três dias depois. Ainda assim, é nesse grupo bagunçado, sem nenhuma lógica de horário, que a gente sempre descobre primeiro quando alguém da família precisa de ajuda.",
    "enunciado": "O tom do narrador ao descrever o funcionamento aparentemente caótico do grupo de família é de",
    "alternativas": {
-    "a": "irritação profunda com a falta de organização das mensagens trocadas nesse grupo de família.",
+    "a": "irritação profunda com a falta de organização das mensagens trocadas nesse grupo de família, que o narrador diz pretender abandonar assim que puder.",
     "b": "crítica severa e definitiva ao uso de aplicativos de mensagem por familiares mais velhos.",
     "c": "indiferença total em relação a tudo o que acontece no grupo de família no WhatsApp da casa.",
     "d": "humor afetuoso, que reconhece a bagunça aparente do grupo sem deixar de valorizar sua função real na família.",
@@ -2494,7 +2494,7 @@
    "texto_apoio": "Países que historicamente mais contribuíram para as emissões acumuladas de gases de efeito estufa costumam ser também os que possuem maior capacidade financeira e tecnológica para mitigar os efeitos das mudanças climáticas. Já nações que menos contribuíram para o problema ao longo da história frequentemente enfrentam os impactos mais severos, como secas prolongadas e eventos climáticos extremos, com recursos proporcionalmente menores para se adaptar.",
    "enunciado": "Qual argumento pode ser construído a partir da relação apresentada no texto entre responsabilidade histórica e capacidade de mitigação?",
    "alternativas": {
-    "a": "Países menos desenvolvidos seriam os principais e únicos responsáveis históricos pelas emissões de gases de efeito estufa mundiais.",
+    "a": "Países menos desenvolvidos seriam os principais e únicos responsáveis históricos pelas emissões acumuladas de gases de efeito estufa, embora disponham de menos recursos.",
     "b": "Há uma desproporção entre quem mais contribuiu para o problema climático e quem mais sofre seus efeitos com menos recursos para se adaptar.",
     "c": "A capacidade de mitigação acompanha a responsabilidade histórica, o que torna a distribuição de encargos proporcional.",
     "d": "Não existe, segundo o texto, nenhuma relação entre capacidade financeira e mitigação climática global.",
@@ -2512,7 +2512,7 @@
    "enunciado": "Qual é a função da proposta intermediária apresentada no final do texto?",
    "alternativas": {
     "a": "Buscar conciliar a preservação da memória histórica com uma reavaliação crítica do que o monumento representa.",
-    "b": "Encerrar definitivamente todo esse debate ao atender integralmente a posição favorável à remoção do monumento.",
+    "b": "Encerrar o debate ao atender de forma integral a posição dos moradores que defendem a remoção do monumento da praça central.",
     "c": "Provar que não existe, de fato, nenhuma controvérsia real sobre a permanência da estátua na praça.",
     "d": "Defender que toda estátua histórica deveria ser removida de praças públicas, sem exceção.",
     "e": "Demonstrar que soluções intermediárias tendem a desagradar aos dois lados e por isso são inviáveis."
@@ -2676,7 +2676,7 @@
    "enunciado": "No texto, qual estratégia de construção se destaca?",
    "alternativas": {
     "a": "enumeração de exemplos em ordem crescente de importância",
-    "b": "definição técnica seguida de sua aplicação prática",
+    "b": "definição técnica do aplicativo seguida de sua aplicação prática no cotidiano",
     "c": "citação de autoridade para sustentar a afirmação",
     "d": "ironia produzida pelo contraste entre promessa e resultado",
     "e": "pergunta retórica respondida no período seguinte"
@@ -2785,7 +2785,7 @@
    "alternativas": {
     "a": "uso de dados numéricos para dimensionar o problema",
     "b": "paralelismo entre duas estruturas sintáticas idênticas",
-    "c": "descrição de um cenário sem marcas de posicionamento",
+    "c": "descrição objetiva do relatório, sem nenhuma marca de posicionamento do autor",
     "d": "conclusão anunciada antes dos dados que a sustentam",
     "e": "oposição entre quantidade de números e qualidade da explicação"
    },
@@ -2837,7 +2837,7 @@
    "dificuldade": "media",
    "enunciado": "No texto, qual estratégia de construção se destaca?",
    "alternativas": {
-    "a": "paralelismo entre duas estruturas sintáticas idênticas",
+    "a": "paralelismo entre as duas estruturas sintáticas que abrem os períodos",
     "b": "alternância entre discurso direto e discurso indireto",
     "c": "correção de expectativa por meio da estrutura não... mas",
     "d": "citação de autoridade para sustentar a afirmação",
@@ -3234,7 +3234,7 @@
    "enunciado": "É correto afirmar que a ideia central do texto é:",
    "alternativas": {
     "a": "A obra produziu efeitos idênticos nos dois lados da região que ela passou a conectar",
-    "b": "A ponte distribuiu os benefícios da integração de forma equivalente entre todos os pontos da região",
+    "b": "A ponte distribuiu os benefícios da integração de forma equivalente entre as duas cidades que ela passou a ligar",
     "c": "A ponte beneficiou igualmente todos os pontos da região",
     "d": "O comércio antigo passou a receber mais veículos depois da obra",
     "e": "Uma obra de infraestrutura pode gerar efeitos positivos e perdas distribuídos de modo desigual"
@@ -3326,7 +3326,7 @@
     "a": "citação de autoridade para sustentar a afirmação",
     "b": "pergunta retórica respondida no período seguinte",
     "c": "definição técnica seguida de sua aplicação prática",
-    "d": "enumeração de exemplos em ordem crescente de importância",
+    "d": "enumeração de exemplos em ordem crescente de importância ao longo do parágrafo final",
     "e": "comparação entre elementos explícitos e escolhas editoriais"
    },
    "resposta": "e",
@@ -3852,7 +3852,7 @@
     "b": "ironia, ao registrar um entusiasmo pequeno demais para o tamanho do anúncio feito na assembleia, concedendo a comemoração e retirando-a no mesmo movimento",
     "c": "correção, ao retificar uma informação equivocada que o narrador havia fornecido antes sobre a reação do público à obra",
     "d": "dúvida, ao sugerir que o narrador não conseguiu ouvir com clareza o que se passou durante a assembleia do condomínio",
-    "e": "explicação, ao esclarecer ao leitor qual foi o procedimento adotado pelo condomínio para aprovar formalmente a realização da obra no equipamento"
+    "e": "explicação, ao esclarecer ao leitor qual foi o procedimento adotado pelo condomínio para aprovar formalmente a realização da obra no equipamento, com as etapas de votação registradas em ata"
    },
    "resposta": "b",
    "explicacao": "A construção concede e retira ao mesmo tempo: houve palmas, mas eram poucas. O narrador registra a comemoração e, no mesmo fôlego, mostra que ela era mínima — recurso típico da crônica para marcar distância bem-humorada do que se narra.",
@@ -3928,7 +3928,7 @@
    "textoId": "med-med-int-t1",
    "enunciado": "Ao dizer que o tempo ganho \"dá, no fim do mês, um número que não impressiona ninguém\", o narrador:",
    "alternativas": {
-    "a": "sugere que a medição do tempo em ambientes coletivos é sempre imprecisa e que qualquer estimativa apresentada seria contestada por parte dos condôminos",
+    "a": "sugere que a medição do tempo em ambientes coletivos é imprecisa demais e que uma estimativa apresentada em números seria contestada por boa parte dos condôminos",
     "b": "reconhece que não dispõe de dados precisos para calcular a economia obtida e prefere não apresentar número algum ao leitor",
     "c": "critica a falta de transparência do condomínio, que não divulgou aos moradores os resultados alcançados com o investimento",
     "d": "demonstra que os moradores exageraram ao comemorar o anúncio da obra, já que o problema afetava apenas uma parcela reduzida dos usuários do elevador",
@@ -3979,7 +3979,7 @@
     "a": "introduzir um dado de pesquisa que comprova a superioridade da triagem por gravidade sobre os demais critérios de ordenação adotados nos serviços de urgência",
     "b": "apresentar a tese central do artigo, que só é enunciada nesse ponto do texto depois de o autor preparar o leitor com os exemplos apresentados anteriormente",
     "c": "admitir a objeção adversária e, em seguida, reduzir seu alcance, mostrando que a existência de erros de classificação pede uma triagem melhor, e não a volta da ordem de chegada",
-    "d": "abandonar a linha de raciocínio até então desenvolvida, passando a defender a posição contrária àquela sustentada nos primeiros parágrafos do artigo publicado",
+    "d": "abandonar a linha de raciocínio até então desenvolvida, passando a defender a posição contrária àquela sustentada nos primeiros parágrafos, numa guinada que o restante do artigo não retoma",
     "e": "encerrar a exposição com um resumo das ideias apresentadas, retomando ponto a ponto os argumentos utilizados pelo autor ao longo de toda a sua explanação"
    },
    "resposta": "c",
@@ -4042,7 +4042,7 @@
    "enunciado": "Segundo o texto, o principal obstáculo à aceitação da triagem pelos pacientes é:",
    "alternativas": {
     "a": "a invisibilidade do critério para quem está esperando, que vê o vizinho ser chamado na sua frente sem enxergar a razão da escolha",
-    "b": "a insuficiência do número de profissionais disponíveis nos serviços de urgência, que torna a espera longa demais para ser tolerada por qualquer pessoa adoecida",
+    "b": "a insuficiência do número de profissionais disponíveis nos serviços de urgência, que torna a espera longa demais para ser tolerada por quem chega adoecido",
     "c": "a desconfiança generalizada em relação à competência técnica das equipes de classificação de risco",
     "d": "a ausência de uma legislação específica que regulamente os critérios de prioridade e preveja sanções aos serviços",
     "e": "o desconhecimento, por parte da população, de que existe qualquer classificação de risco anterior ao atendimento"
@@ -4060,7 +4060,7 @@
     "a": "representa um avanço em relação aos modelos anteriores de organização das filas, ainda que exija adaptações para funcionar em unidades de grande porte",
     "b": "produz resultados clínicos equivalentes aos da triagem por gravidade, com a vantagem de ser compreendido sem esforço pelos usuários",
     "c": "elimina a possibilidade de erro humano na classificação, uma vez que dispensa qualquer avaliação técnica por parte da equipe responsável pelo acolhimento",
-    "d": "deve ser adotado nos casos em que a equipe de triagem não dispuser de informação suficiente para estabelecer a prioridade entre os pacientes que aguardam",
+    "d": "deve ser adotado nos casos em que a equipe de triagem não dispuser de informação suficiente para estabelecer a prioridade entre os pacientes que aguardam atendimento",
     "e": "não reduz o prejuízo causado pela espera, apenas o desloca para casos cuja demora é mais fácil de justificar, o que traz conforto a quem precisa explicá-la"
    },
    "resposta": "e",
@@ -4186,7 +4186,7 @@
    "textoId": "med-med-int-t3",
    "enunciado": "O poema é composto por versos ______, sem ______, e sua unidade se apoia ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "alexandrinos – pausa interna obrigatória no interior de cada verso – na simetria entre a primeira e a última estrofe da composição apresentada",
+    "a": "alexandrinos – pausa interna obrigatória no interior de cada verso – na simetria entre a primeira e a última estrofe, que se repetem quase palavra por palavra",
     "b": "decassílabos – variação no número de sílabas poéticas ao longo das estrofes – na regularidade métrica que percorre toda a composição do início ao fim",
     "c": "brancos – qualquer recurso de repetição sonora ou sintática – na sucessão cronológica dos acontecimentos narrados ao longo da noite de plantão",
     "d": "redondilhos – estrofes de extensão desigual entre si – no esquema de rimas emparelhadas que fecha cada uma das quatro estrofes do poema",
@@ -4253,7 +4253,7 @@
    "alternativas": {
     "a": "os profissionais de plantão se dividem entre os que cumprem suas obrigações e os que descansam às escondidas",
     "b": "há quem simule dormir, de modo que a insônia e o sono convivem sob a mesma luz branca, que não se apaga durante a noite",
-    "c": "os pacientes recebem medicação para dormir, ainda que nem todos apresentem resposta adequada ao tratamento prescrito pela equipe responsável pelo caso",
+    "c": "os pacientes recebem medicação para dormir, ainda que parte deles não apresente resposta adequada ao tratamento prescrito pela equipe responsável",
     "d": "o horário de visitas foi encerrado e os acompanhantes precisam permanecer em silêncio para não incomodar",
     "e": "as luzes permanecem acesas por determinação do regulamento interno, o que impede qualquer pessoa de adormecer"
    },
@@ -4268,7 +4268,7 @@
    "enunciado": "A relação entre o título \"Plantão\" e o corpo do poema é de:",
    "alternativas": {
     "a": "ironia, pois o título sugere atividade intensa enquanto o texto descreve um ambiente em que absolutamente nada acontece durante toda a noite retratada",
-    "b": "contraposição, uma vez que o título anuncia um tema que o poema recusa a desenvolver, optando por tratar de assunto inteiramente diverso do sugerido",
+    "b": "contraposição, uma vez que o título anuncia um tema que o poema recusa a desenvolver, optando por assunto inteiramente diverso, o que deixa o título sem função no conjunto",
     "c": "redundância, já que todos os elementos indicados pelo título são retomados literalmente ao longo dos versos, sem que nada de novo seja acrescentado",
     "d": "enquadramento, pois é ele que situa a cena e explica a vigília descrita, informando que alguém está de serviço e que aquela noite terminará num relato de passagem",
     "e": "ambiguidade, na medida em que o termo escolhido admite dois sentidos distintos que o poema explora alternadamente em cada uma de suas quatro estrofes"
@@ -4332,7 +4332,7 @@
    "enunciado": "Segundo o texto, o ajuste ______ acontece com o tempo, o ajuste ______ não se completa, e é por isso que ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "temporário – permanente – o retorno ao turno diurno reverte integralmente os efeitos já acumulados",
-    "b": "fisiológico – comportamental – os trabalhadores relatam dificuldade de adaptação mesmo quando os exames laboratoriais não apresentam qualquer alteração",
+    "b": "fisiológico – comportamental – os trabalhadores relatam dificuldade de adaptação mesmo quando os exames laboratoriais não apresentam alteração relevante",
     "c": "hormonal – metabólico – as alterações se restringem ao período imediatamente posterior ao início da escala",
     "d": "individual – coletivo – as medidas de organização da escala produzem resultado apenas quando adotadas simultaneamente por toda a equipe do serviço",
     "e": "comportamental – fisiológico – dormir bem durante o dia não elimina o efeito do turno sobre o metabolismo da glicose"
@@ -4349,7 +4349,7 @@
    "enunciado": "O parágrafo iniciado por \"Nada disso significa que o trabalho noturno deva acabar\" cumpre a função de:",
    "alternativas": {
     "a": "refutar os estudos mencionados no parágrafo anterior, cujos resultados o autor considera insuficientes para sustentar qualquer recomendação de política pública",
-    "b": "introduzir o argumento principal da reportagem, que só é apresentado nesse ponto após a exposição preliminar dos mecanismos biológicos envolvidos no processo",
+    "b": "introduzir o argumento principal da reportagem, que só é apresentado nesse ponto após a exposição preliminar dos mecanismos biológicos envolvidos no processo de adaptação ao turno",
     "c": "delimitar o alcance da tese, afastando uma conclusão que o leitor poderia tirar dos parágrafos anteriores, a de que os serviços noturnos deveriam simplesmente acabar",
     "d": "encerrar a exposição dos dados científicos e iniciar uma seção de caráter opinativo, claramente separada da parte informativa apresentada até aquele momento",
     "e": "apresentar o ponto de vista das instituições empregadoras, contrastando-o com a posição dos pesquisadores citados ao longo dos parágrafos anteriores do texto"
@@ -4414,7 +4414,7 @@
    "enunciado": "Segundo o texto, o que a pesquisa em cronobiologia desmontou foi a ideia de que:",
    "alternativas": {
     "a": "os trabalhadores de escala noturna apresentam maior incidência de distúrbios metabólicos que os de jornada diurna",
-    "b": "o sono desempenha papel central na manutenção da saúde, hipótese que os estudos recentes teriam substituído por explicações de natureza estritamente hormonal",
+    "b": "o sono desempenha papel central na manutenção da saúde — algo que os estudos recentes de cronobiologia teriam substituído por explicações estritamente hormonais",
     "c": "a exposição à luz artificial durante a noite influencia o funcionamento do organismo ao longo do dia",
     "d": "adaptar-se ao turno noturno depende basicamente de força de vontade e de hábito adquirido, e não da fisiologia do organismo",
     "e": "existe um relógio interno responsável por coordenar diversas funções fisiológicas, concepção hoje abandonada"
@@ -4447,7 +4447,7 @@
    "alternativas": {
     "a": "o dado correto só funciona quando entregue junto com o que o cerca — a narrativa em que ele será lido, a comparação com algo já vivido e a admissão do que ainda não se sabe",
     "b": "a população brasileira apresenta baixo nível de letramento estatístico, o que explica a dificuldade de compreensão dos números divulgados pelas autoridades de saúde",
-    "c": "os veículos de comunicação distorcem sistematicamente as informações fornecidas pelos pesquisadores, prática que compromete a credibilidade da ciência junto ao público",
+    "c": "os veículos de comunicação distorcem sistematicamente as informações fornecidas pelos pesquisadores, prática que compromete a credibilidade da ciência junto ao público que acompanha os temas de saúde",
     "d": "a comunicação de risco deveria ser realizada exclusivamente por profissionais com formação específica na área, e não pelos próprios cientistas responsáveis pelos estudos",
     "e": "os percentuais são a forma mais adequada de expressar risco, desde que acompanhados de material explicativo distribuído previamente à população interessada"
    },
@@ -4608,7 +4608,7 @@
     "a": "ofereça transporte fretado aos profissionais que residem em regiões distantes, medida que resolveria integralmente o problema apontado ao longo de toda a carta",
     "b": "elimine definitivamente a realização de reuniões no período da manhã, transferindo todos os encontros institucionais para o final da tarde ou para o início da noite",
     "c": "considere, na hora de decidir o horário da reunião, o tempo de deslocamento de quem vem de longe, um tempo que hoje não entra na conta por não aparecer na planilha do serviço",
-    "d": "reduza a jornada de trabalho dos profissionais que enfrentam trajetos longos, compensando com folgas adicionais o tempo despendido nos deslocamentos diários",
+    "d": "reduza a jornada de trabalho dos profissionais que enfrentam trajetos longos, compensando com folgas adicionais o tempo despendido nos deslocamentos diários entre a casa e a unidade de saúde",
     "e": "reconheça publicamente o esforço dos trabalhadores que cumprem horários rígidos, gesto que o autor considera suficiente para melhorar o clima institucional"
    },
    "resposta": "c",
@@ -4703,7 +4703,7 @@
    "alternativas": {
     "a": "a falta de consulta prévia aos trabalhadores sobre o horário mais adequado, procedimento que deveria ser adotado antes de qualquer definição de escala",
     "b": "a imprecisão da redação empregada nas convocações, que deveriam especificar também o horário previsto para o encerramento",
-    "c": "a ausência de tolerância para atrasos nas reuniões matinais, prática que penaliza injustamente os profissionais que dependem do transporte público coletivo",
+    "c": "a ausência de tolerância para atrasos nas reuniões matinais, prática que penaliza injustamente os profissionais que dependem do transporte público coletivo da região metropolitana",
     "d": "a aparência de neutralidade de uma regra que atinge as pessoas de modo desigual, uma vez que o mesmo horário de início custa muito mais a quem mora longe do serviço",
     "e": "o excesso de reuniões realizadas ao longo da semana, que consome tempo que poderia ser dedicado às atividades assistenciais próprias de cada profissional"
    },
@@ -4766,7 +4766,7 @@
    "enunciado": "A tese central da reportagem é a de que:",
    "alternativas": {
     "a": "a cobertura vacinal deveria ser medida por outro indicador, já que o percentual de esquemas completos não reflete a proteção real da população infantil",
-    "b": "as campanhas de conscientização produzidas pelos órgãos de saúde apresentam conteúdo tecnicamente incorreto e por isso deixam de convencer a população a que se dirigem",
+    "b": "as campanhas de conscientização produzidas pelos órgãos de saúde apresentam conteúdo tecnicamente incorreto e por isso deixam de convencer a população a que se dirigem, segundo os pesquisadores ouvidos",
     "c": "a recusa deliberada à vacinação cresceu de forma acentuada no período analisado e responde pela maior parte da redução observada na cobertura das crianças",
     "d": "as doenças imunopreveníveis retornaram porque os laboratórios reduziram a produção de vacinas, o que comprometeu o abastecimento das unidades básicas de saúde",
     "e": "boa parte da queda da vacinação se resolve removendo obstáculos, e não convencendo, já que ela vem sobretudo de fricção — o horário do posto, a segunda viagem — e não de recusa"
@@ -4818,7 +4818,7 @@
     "b": "hesitação, ao indicar que o autor não dispõe de dados para afirmar quando o processo teve início",
     "c": "concessão, ao admitir que a interpretação contrária também encontra respaldo nos dados disponíveis",
     "d": "reviravolta, ao desmentir em três palavras, logo depois do travessão, a impressão construída na oração anterior",
-    "e": "generalização, ao estender a conclusão obtida para o caso brasileiro a todos os países que enfrentaram redução semelhante em sua cobertura vacinal"
+    "e": "generalização, ao estender a conclusão obtida para o caso brasileiro a outros países que enfrentaram redução semelhante em sua cobertura vacinal"
    },
    "resposta": "d",
    "explicacao": "O travessão corta a frase e o verbo muda de tempo: o \"parece que nada estava acontecendo\" é desfeito por \"até que estava\". A brevidade é o recurso — quanto mais curta a virada, mais súbita ela soa, que é justamente o comportamento descrito.",
@@ -4849,7 +4849,7 @@
     "a": "cada uma pede um tipo diferente de solução — convencimento num caso, acesso no outro —, e tratá-las como se fossem iguais desperdiça recurso sem mover o indicador",
     "b": "a recusa é um fenômeno restrito a grupos organizados, ao passo que a fricção atinge de modo uniforme todas as camadas da população brasileira",
     "c": "somente a recusa pode ser medida com precisão pelos sistemas de informação em saúde, o que torna a fricção um fator impossível de incorporar ao planejamento",
-    "d": "a fricção é um obstáculo temporário que tende a desaparecer com a modernização dos serviços, enquanto a recusa se consolidou como problema permanente",
+    "d": "a fricção é um obstáculo temporário que tende a desaparecer com a modernização dos serviços, enquanto a recusa se consolidou como problema permanente entre as famílias brasileiras",
     "e": "as duas expressões designam o mesmo comportamento observado nas famílias, variando apenas o vocabulário adotado por diferentes áreas de pesquisa"
    },
    "resposta": "a",
@@ -4895,7 +4895,7 @@
    "enunciado": "A frase final, sobre \"gastar dinheiro sem mover o indicador\", encerra o texto:",
    "alternativas": {
     "a": "atribuindo a responsabilidade pelo problema aos gestores municipais, que não acompanham os indicadores",
-    "b": "reconhecendo que os recursos destinados à imunização são insuficientes e precisariam ser ampliados antes de qualquer discussão sobre a estratégia adotada",
+    "b": "reconhecendo que os recursos destinados à imunização são insuficientes e precisariam ser ampliados antes de se rediscutir a estratégia adotada",
     "c": "traduzindo o erro de diagnóstico em custo financeiro, o que o torna difícil de ignorar por quem decide sobre o orçamento",
     "d": "propondo um novo indicador de acompanhamento, capaz de distinguir a recusa da dificuldade de acesso",
     "e": "retomando a imagem do escorregamento apresentada na abertura, o que dá circularidade ao texto"
@@ -4910,7 +4910,7 @@
    "textoId": "med-med-int-t7",
    "enunciado": "A reportagem apresenta, na ordem: ______, depois ______, em seguida ______ e por fim ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "os dados de um levantamento – a comparação com outros países – as hipóteses explicativas levantadas pelos pesquisadores – as limitações metodológicas do estudo",
+    "a": "os dados de um levantamento – a comparação com outros países – as hipóteses explicativas levantadas pelos pesquisadores – as limitações metodológicas apontadas ao final do estudo",
     "b": "como a cobertura cai devagar – o que essa forma de cair provoca – uma causa pouco lembrada da queda – a correção do diagnóstico em que a resposta usual costuma se apoiar",
     "c": "o depoimento de uma família – a reação dos serviços de saúde locais – a posição oficial do ministério responsável – o desfecho do caso relatado na abertura",
     "d": "a definição de cobertura vacinal – o histórico do calendário brasileiro – os resultados alcançados em cada década – as projeções para os anos seguintes",
@@ -4976,7 +4976,7 @@
    "enunciado": "Nas instruções de uso predominam verbos no modo ______, adequado a um texto que ______; nas advertências, esse modo aparece combinado a ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "imperativo – orienta condutas que o leitor deve executar sozinho – orações condicionais iniciadas por \"se\", que delimitam os casos em que a ordem vale para cada paciente",
-    "b": "subjuntivo – descreve situações hipotéticas – enunciados no futuro do presente que projetam os efeitos esperados do tratamento sobre o organismo do paciente",
+    "b": "subjuntivo – descreve situações hipotéticas – enunciados no futuro do presente que projetam os efeitos esperados do tratamento sobre o organismo do paciente ao longo das semanas",
     "c": "indicativo – relata fatos verificados – construções na voz passiva que ocultam o agente responsável pela execução de cada uma das etapas descritas",
     "d": "infinitivo – enumera procedimentos sem destinatário definido – expressões de tempo que delimitam a duração máxima recomendada para o tratamento",
     "e": "gerúndio – descreve processos em andamento – complementos de finalidade que justificam cada uma das recomendações apresentadas ao longo do texto"
@@ -5057,7 +5057,7 @@
    "textoId": "med-med-int-t8",
    "enunciado": "A precisão de \"um comprimido a cada 6 horas, não ultrapassando 4 comprimidos em 24 horas\" se explica porque:",
    "alternativas": {
-    "a": "a formulação em dois números permite ao paciente escolher entre os dois critérios aquele que melhor se ajusta à sua rotina diária de trabalho e descanso",
+    "a": "a formulação em dois números permite ao paciente escolher entre os dois critérios aquele que melhor se ajusta à sua rotina diária de trabalho e de descanso ao longo da semana",
     "b": "o intervalo sozinho não impede que o total do dia passe do limite, já que quatro doses espaçadas ainda deixariam espaço para uma quinta tomada de madrugada",
     "c": "as duas informações se destinam a públicos distintos, sendo a primeira dirigida ao paciente e a segunda ao farmacêutico responsável pela dispensação",
     "d": "a repetição da mesma informação em unidades diferentes é exigência da regulamentação aplicável às bulas de medicamentos isentos de prescrição médica",
@@ -5186,7 +5186,7 @@
    "enunciado": "O uso predominante do discurso direto no conto contribui para:",
    "alternativas": {
     "a": "diferenciar o registro linguístico das duas personagens, evidenciando o contraste entre a formação técnica de cada uma delas e a região de origem",
-    "b": "estabelecer com precisão o tempo transcorrido durante o episódio narrado, uma vez que cada réplica corresponde a um intervalo determinado da conversa",
+    "b": "estabelecer com precisão o tempo transcorrido durante o episódio narrado, uma vez que cada réplica corresponde a um intervalo determinado da conversa entre as personagens",
     "c": "concentrar o sentido nas falas e reduzir ao mínimo o comentário do narrador, que informa pouco e não interpreta o que as personagens dizem uma à outra",
     "d": "aproximar o texto do gênero dramático, no qual a ausência de narrador exige que toda a ação seja construída exclusivamente por meio dos diálogos",
     "e": "suprir a falta de descrição do ambiente, elemento que o conto deliberadamente omite por considerá-lo irrelevante para a compreensão do enredo"
@@ -5381,7 +5381,7 @@
    "alternativas": {
     "a": "nomeia aquilo que falta ao sistema — a assinatura que responde pelo laudo —, e é essa falta, e não o desempenho, que o texto discute do começo ao fim",
     "b": "identifica os tipos de exame para os quais a legislação ainda não autoriza o laudo inteiramente automatizado",
-    "c": "indica que o texto tratará das limitações técnicas dos algoritmos de leitura de imagem em comparação com a acuidade visual dos especialistas humanos",
+    "c": "indica que o texto tratará das limitações técnicas dos algoritmos de leitura de imagem diante da acuidade visual dos especialistas humanos que hoje assinam os laudos",
     "d": "sugere que os sistemas ocultam deliberadamente a autoria de suas conclusões, prática que o editorial denuncia ao longo dos parágrafos seguintes",
     "e": "anuncia uma comparação entre os documentos emitidos por profissionais e aqueles gerados por sistemas, cotejados item a item no corpo do texto"
    },
@@ -5717,7 +5717,7 @@
    "textoId": "med-med-int-t12",
    "enunciado": "O \"observamos\" ______ a responsabilidade, ao passo que o \"eu não sei\" ______; o resenhista valoriza o segundo por ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "concentra – distribui entre os membros da equipe – refletir com mais fidelidade o modo como as decisões clínicas são efetivamente tomadas na prática",
+    "a": "concentra – distribui entre os membros da equipe – refletir com mais fidelidade o modo como as decisões clínicas são efetivamente tomadas na prática dos hospitais de ensino",
     "b": "dilui – tem dono, e com ele a dúvida ganha um sujeito – expor quem assume a dúvida, registro que o resenhista considera notável e lamenta ver restrito a quatro capítulos",
     "c": "explicita – oculta a autoria da conclusão apresentada – preservar o anonimato dos profissionais envolvidos nos casos relatados ao longo do volume",
     "d": "atenua – reforça a certeza expressa pela autora – transmitir ao leitor maior segurança quanto às conclusões apresentadas em cada um dos capítulos",
@@ -5783,7 +5783,7 @@
    "enunciado": "A citação \"Depois eu marco\", no Cartaz 3, é eficaz porque:",
    "alternativas": {
     "a": "reproduz, entre aspas, a frase que o próprio leitor costuma dizer a si mesmo para adiar a marcação, e a devolve como objeção a ser respondida no cartaz",
-    "b": "atribui a fala a uma personagem identificada na campanha, cujo depoimento confere credibilidade à mensagem transmitida pela peça publicitária",
+    "b": "atribui a fala a uma personagem identificada na campanha, cujo depoimento confere credibilidade à mensagem, já que ela aparece nomeada e com a idade indicada no cartaz",
     "c": "reproduz uma orientação frequentemente dada pelos profissionais de saúde aos pacientes que procuram as unidades sem encaminhamento prévio",
     "d": "ironiza a linguagem burocrática utilizada nos serviços de agendamento, cuja complexidade é apontada como causa do adiamento dos exames",
     "e": "cita um trecho de campanha anterior veiculada pelo mesmo órgão, estabelecendo continuidade entre as duas ações de comunicação realizadas"
@@ -5834,7 +5834,7 @@
     "b": "pela exigência de reduzir custos de produção gráfica, uma vez que o valor de cada peça é calculado a partir do número de caracteres impressos nela",
     "c": "pela necessidade de adaptar o texto ao público de menor escolaridade, único capaz de ser alcançado por campanhas veiculadas em transporte coletivo",
     "d": "pela obrigação legal de limitar a extensão das mensagens de utilidade pública veiculadas em espaços de circulação de pessoas nas grandes cidades",
-    "e": "pela tentativa de imitar a linguagem das redes sociais, ambiente em que a campanha teria sido originalmente concebida antes de migrar para o cartaz"
+    "e": "pela tentativa de imitar a linguagem das redes sociais, ambiente em que a campanha teria sido originalmente concebida antes de migrar para o cartaz impresso do transporte"
    },
    "resposta": "a",
    "explicacao": "O próprio cabeçalho informa onde as peças serão veiculadas. Um cartaz de ônibus disputa alguns segundos de atenção de alguém em pé — e a extensão da frase é decidida por essa condição de leitura.",
@@ -5862,7 +5862,7 @@
    "textoId": "med-med-int-t13",
    "enunciado": "O dado \"6 em cada 10\" foi preferido a um percentual porque essa forma:",
    "alternativas": {
-    "a": "apresenta maior precisão estatística do que a expressão em percentual, evitando os arredondamentos que costumam distorcer a leitura dos resultados",
+    "a": "apresenta maior precisão estatística do que a expressão em percentual, evitando os arredondamentos que costumam distorcer a leitura dos resultados divulgados ao público",
     "b": "faz o leitor se imaginar dentro do grupo contado, coisa que a porcentagem não faz por descrever uma propriedade da população, e não pessoas contáveis",
     "c": "ocupa menos espaço no cartaz, exigência decorrente das dimensões reduzidas das peças destinadas à veiculação no interior dos veículos coletivos",
     "d": "corresponde ao formato exigido pelos órgãos de saúde para a divulgação de indicadores obtidos a partir de levantamentos populacionais amostrais",
@@ -5929,7 +5929,7 @@
    "enunciado": "No trecho, predomina a função:",
    "alternativas": {
     "a": "metalinguística, porque a linguagem é usada para explicar os próprios termos, definindo o que se chama de prevalência e distinguindo-a da incidência",
-    "b": "referencial, uma vez que o texto informa dados epidemiológicos verificáveis sobre a ocorrência de doenças em uma população determinada e delimitada",
+    "b": "referencial, uma vez que o texto informa dados epidemiológicos verificáveis sobre a ocorrência de doenças em uma população determinada e delimitada no tempo e no espaço",
     "c": "apelativa, na medida em que orienta o leitor sobre o modo correto de empregar cada um dos dois conceitos apresentados ao longo do enunciado",
     "d": "fática, pois o objetivo do enunciado é verificar se o canal de comunicação entre quem escreve e quem lê permanece aberto durante a exposição",
     "e": "emotiva, considerando que o autor manifesta sua preferência pessoal por um dos dois indicadores mencionados no interior do mesmo período"
@@ -5977,7 +5977,7 @@
    "enunciado": "A frase pressupõe que:",
    "alternativas": {
     "a": "o município nunca havia registrado casos daquela doença antes do mês de abril, quando o primeiro deles foi finalmente identificado e notificado",
-    "b": "o município passou a adotar um novo sistema de notificação a partir do mês mencionado, o que alterou a forma de contabilizar os casos ocorridos",
+    "b": "o município passou a adotar um novo sistema de notificação a partir do mês mencionado, o que alterou a forma de contabilizar os casos ocorridos no território desde o início do ano",
     "c": "os casos continuaram a ocorrer, embora tenham deixado de ser informados aos órgãos responsáveis pela vigilância epidemiológica da região",
     "d": "abril foi o mês de maior incidência da doença no período analisado pelas autoridades sanitárias responsáveis pelo acompanhamento do surto",
     "e": "havia registro de casos antes de abril, informação que continua valendo mesmo quando a frase é negada, por se tratar de pressuposto e não de afirmação"
@@ -6091,7 +6091,7 @@
    "enunciado": "A sequência textual predominante é:",
    "alternativas": {
     "a": "descritiva, na medida em que caracteriza detalhadamente os materiais utilizados em cada uma das etapas mencionadas na sequência apresentada",
-    "b": "narrativa, pois relata na ordem cronológica os passos executados por um profissional durante a realização de um procedimento assistencial de rotina",
+    "b": "narrativa, pois relata na ordem cronológica os passos executados por um profissional durante a realização de um procedimento assistencial de rotina, do primeiro ao último",
     "c": "argumentativa, uma vez que justifica a necessidade de cada uma das etapas listadas por meio de razões apresentadas ao longo do enunciado",
     "d": "injuntiva, porque instrui o leitor sobre como proceder, com verbos no imperativo dispostos na ordem em que as etapas devem ser executadas no procedimento",
     "e": "expositiva, considerando que apresenta de forma neutra o conjunto de normas técnicas aplicáveis à execução do procedimento em questão"
@@ -6157,7 +6157,7 @@
     "a": "causa, apresentando o motivo pelo qual a investigação do quadro clínico deve prosseguir apesar dos resultados obtidos no exame realizado",
     "b": "concessão, admitindo um fato favorável à conclusão contrária e seguindo adiante mesmo assim, sem que ele impeça a investigação que a equipe propõe",
     "c": "condição, indicando a circunstância que precisaria ocorrer para que a investigação clínica pudesse ser considerada concluída pela equipe",
-    "d": "finalidade, expressando o objetivo que se pretende alcançar com a continuidade do processo de investigação do quadro apresentado pelo paciente",
+    "d": "finalidade, expressando o objetivo que se pretende alcançar com a continuidade do processo de investigação do quadro apresentado pelo paciente ao longo do atendimento",
     "e": "consequência, apontando o resultado decorrente da normalidade observada nos exames laboratoriais solicitados no início do atendimento"
    },
    "resposta": "b",
@@ -6205,7 +6205,7 @@
    "enunciado": "A progressão do trecho se dá por:",
    "alternativas": {
     "a": "enumeração das etapas do atendimento em ordem cronológica inversa, partindo da última delas até chegar ao momento inicial do processo descrito",
-    "b": "repetição integral da mesma informação em três formulações distintas, recurso empregado para assegurar a compreensão do leitor não especializado",
+    "b": "repetição integral da mesma informação em três formulações distintas, recurso empregado para assegurar a compreensão do leitor não especializado no assunto tratado",
     "c": "apresentação de três aspectos independentes entre si de um mesmo processo, reunidos no parágrafo sem que haja ligação lógica entre eles",
     "d": "oposição sucessiva entre as ideias enunciadas, de modo que cada período nega parcialmente o conteúdo apresentado no período anterior a ele",
     "e": "retomada, em cada período, do termo que encerrava o anterior, de modo que a informação nova vira ponto de partida do seguinte, sem repetir conteúdo"
@@ -6325,7 +6325,7 @@
     "a": "afetuoso, já que o banco demonstra preocupação genuína com o bem-estar de quem recebeu a mensagem",
     "b": "de cobrança disfarçada, em que a polidez do vocabulário mascara uma exigência de pagamento imediato",
     "c": "indiferente, pois a mensagem não menciona nenhuma consequência para quem não regularizar a dívida",
-    "d": "ameno e informativo, sem qualquer intenção de pressionar quem a recebeu a tomar alguma providência imediata",
+    "d": "ameno e informativo, limitado a comunicar ao cliente a situação atual da conta, sem lhe pedir nenhuma providência",
     "e": "de elogio indireto a quem deve, reconhecendo o esforço já feito para quitar o débito acumulado"
    },
    "resposta": "b",
@@ -6528,7 +6528,7 @@
    "alternativas": {
     "a": "coerência de registro, já que ambas as expressões pertencem à mesma variedade formal da língua",
     "b": "erro de norma culta, sem qualquer intenção expressiva por parte de quem escreveu a mensagem",
-    "c": "uso exclusivamente técnico, próprio da correspondência comercial entre clientes e gerentes de banco na cidade",
+    "c": "uso estritamente técnico, próprio da correspondência comercial entre clientes e gerentes de banco na cidade",
     "d": "contraste de registro, que reforça, pelo choque entre polidez e informalidade, o tom irônico da fala",
     "e": "neutralidade estilística, pois as duas expressões produzem o mesmo efeito sobre o leitor do texto"
    },
@@ -7884,6 +7884,38 @@
    },
    "resposta": "b",
    "explicacao": "A expressão retoma os dois dados justapostos no parágrafo inicial — 84 páginas contra dois botões — e os nomeia como desproporção. É essa retomada que dá referente ao fecho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-interpretacao-texto-254",
+   "texto_apoio": "A fila do posto de saúde é um termômetro. Quando cresce na porta, é sinal de que alguma coisa esquentou lá dentro. Naquela segunda-feira, o termômetro marcava três horas de espera.",
+   "enunciado": "A expressão \"o termômetro marcava\" sugere que o texto:",
+   "alternativas": {
+    "a": "mantém a imagem apresentada na abertura e a estende ao tempo de espera, tratando a fila como instrumento de medida",
+    "b": "abandona a linguagem figurada e passa a informar a temperatura efetivamente registrada no interior da unidade de saúde",
+    "c": "recorre à personificação, atribuindo ao aparelho de medição a capacidade de decidir quanto tempo cada pessoa espera",
+    "d": "adota registro formal para descrever um procedimento de aferição previsto nas normas de funcionamento do serviço público",
+    "e": "emprega hipérbole para exagerar um dado que o próprio texto apresenta em seguida como pouco relevante para a discussão"
+   },
+   "resposta": "a",
+   "explicacao": "O texto abre chamando a fila de termômetro — uma metáfora — e, no fim, faz o mesmo termômetro marcar horas em vez de graus. O sentido só se completa porque a imagem inicial continua valendo: o que se mede ali não é temperatura, é a pressão sobre o serviço.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-interpretacao-texto-255",
+   "texto_apoio": "No registro do plantão, o residente escreveu que a enfermaria \"amanheceu calma\". O supervisor riscou a palavra e anotou ao lado: \"calma é o que a gente sente; anote o que se mediu\".",
+   "enunciado": "A ressalva do supervisor incide sobre o sentido da palavra \"calma\", que nesse contexto é:",
+   "alternativas": {
+    "a": "estritamente denotativo, por corresponder a uma grandeza medida pelos aparelhos instalados ao lado de cada leito",
+    "b": "de tom irônico, por dizer o contrário do que se observou durante a madrugada, como o supervisor teria percebido",
+    "c": "próximo da hipérbole, por exagerar de propósito a intensidade do que se passou na enfermaria naquele período",
+    "d": "técnico, por pertencer ao jargão padronizado que a instituição impõe nos registros de acompanhamento dos pacientes",
+    "e": "impressionista, próximo da linguagem figurada, por exprimir o que quem escreveu sentiu, e não um dado aferido"
+   },
+   "resposta": "e",
+   "explicacao": "\"Calma\" descreve a impressão de quem estava lá, não uma grandeza que se possa conferir depois. É por isso que o supervisor pede a troca: no registro clínico, a palavra vale como avaliação subjetiva, e o que se cobra ali é o dado aferido.",
    "formato": "direta",
    "origem": "medicina"
   }

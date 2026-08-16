@@ -316,7 +316,7 @@
                                               "b":  "emotiva, porque as falas revelam o estado emocional de quem participa da conversa.",
                                               "c":  "conativa, porque cada fala procura obter do outro uma mudança de comportamento.",
                                               "d":  "fática, porque as falas servem para estabelecer e verificar o contato entre os interlocutores.",
-                                              "e":  "metalinguística, porque os interlocutores discutem o significado das palavras que empregam."
+                                              "e":  "metalinguística, porque os interlocutores interrompem a conversa para discutir o significado das palavras que um e outro empregam."
                                           },
                          "resposta":  "d",
                          "explicacao":  "Nenhuma informação é transmitida: as falas apenas testam se o canal está aberto e se o outro continua na linha, que é exatamente a função fática. A referencial exigiria assunto, e o diálogo não chega a ter um; a emotiva exigiria marca de sentimento; a conativa exigiria pedido de ação, e os imperativos aqui apenas devolvem o turno de fala; e a metalinguística exigiria discussão sobre a própria língua."
@@ -329,7 +329,7 @@
                                               "a":  "Nos polvos, os neurônios concentram-se num cérebro central proporcionalmente maior que o dos mamíferos.",
                                               "b":  "Nos polvos, grande parte dos neurônios está distribuída pelos braços, permitindo processamento relativamente independente.",
                                               "c":  "O polvo não possui neurônios em nenhuma parte do corpo, segundo estudos recentes de neurociência marinha.",
-                                              "d":  "Os braços do polvo são incapazes de qualquer tipo de processamento sensorial, dependendo sempre do cérebro central do animal.",
+                                              "d":  "Os braços do polvo são incapazes de realizar processamento sensorial por conta própria e dependem do cérebro central para cada movimento executado.",
                                               "e":  "Os polvos têm menos neurônios do que qualquer outro animal marinho, incluindo peixes e crustáceos."
                                           },
                          "resposta":  "b",
@@ -432,7 +432,7 @@
                          "enunciado":  "O humor da tirinha se baseia principalmente",
                          "alternativas":  {
                                               "a":  "em uma interpretação literal e absurda, pelo robô, do pedido ambíguo do dono, resultando em inação.",
-                                              "b":  "na incapacidade técnica real de qualquer robô doméstico existente executar tarefas simultâneas de fato.",
+                                              "b":  "na incapacidade técnica dos robôs domésticos hoje existentes de executar duas tarefas ao mesmo tempo, limitação que a tirinha ilustraria.",
                                               "c":  "na recusa do robô em executar uma tarefa que considera abaixo de suas funções.",
                                               "d":  "em uma explicação séria sobre como robôs domésticos funcionam tecnicamente na vida real.",
                                               "e":  "em uma crítica direta ao consumo excessivo de energia elétrica pelos eletrodomésticos modernos."
@@ -635,7 +635,7 @@
                                               "a":  "contraposição, em que a paciência é apresentada como mais confiável e sustentável do que a paixão.",
                                               "b":  "indiferença, pois o orador afirma que nenhum dos dois conceitos importa para o trabalho.",
                                               "c":  "complementaridade, em que a paixão inicia o percurso e a paciência apenas o mantém.",
-                                              "d":  "sinonímia, já que os dois termos seriam usados como equivalentes ao longo de todo o discurso de formatura.",
+                                              "d":  "sinonímia, já que os dois termos seriam usados como equivalentes pelo orador, sem distinção de sentido entre eles no discurso de formatura.",
                                               "e":  "causa e efeito, em que a paixão é apontada como consequência direta da paciência."
                                           },
                          "resposta":  "a",
@@ -696,7 +696,7 @@
                          "texto_apoio":  "A seleção venceu por 2 a 1 e chegou aos 15 pontos na classificação, mantendo a liderança do grupo. \u0027Fizemos um jogo inteligente, sofremos no primeiro tempo, mas ajustamos a marcação no intervalo\u0027, avaliou o técnico após a partida.",
                          "enunciado":  "No trecho, é possível distinguir claramente entre",
                          "alternativas":  {
-                                              "a":  "apenas opiniões pessoais do próprio jornalista, sem qualquer dado verificável sobre o resultado da partida disputada.",
+                                              "a":  "apenas opiniões pessoais do próprio jornalista, que teria interpretado o placar e a classificação segundo sua preferência clubística.",
                                               "b":  "dois dados estatísticos que, nessa leitura, se contradizem entre si sobre o placar e a posição na tabela.",
                                               "c":  "duas avaliações do técnico feitas em momentos diferentes da temporada, sem dados de classificação.",
                                               "d":  "uma crítica do técnico ao desempenho de um jogador específico, citado nominalmente na entrevista concedida.",
@@ -776,7 +776,7 @@
                          "texto_apoio":  "O bairro recebeu, nos últimos cinco anos, três novos condomínios de alto padrão. Os antigos moradores comentam que o supermercado tradicional, antes o único da região, fechou as portas no ano passado, dando lugar a uma rede de conveniência voltada a produtos importados. O aluguel médio, segundo a imobiliária local, praticamente dobrou no período.",
                          "enunciado":  "Com base no conjunto de informações apresentadas, é possível inferir que o bairro está passando por um processo de",
                          "alternativas":  {
-                                              "a":  "queda constante e acentuada no valor de todos os imóveis do bairro ao longo dos últimos cinco anos mencionados no texto.",
+                                              "a":  "queda acentuada e generalizada no valor dos imóveis do bairro ao longo dos últimos cinco anos, segundo a imobiliária local citada.",
                                               "b":  "gentrificação, evidenciada pelos condomínios de alto padrão, pela alta do aluguel e pela mudança no comércio.",
                                               "c":  "conurbação com o município vizinho, evidenciada pela expansão contínua da malha urbana.",
                                               "d":  "tombamento histórico oficial do bairro por parte da prefeitura, medida não mencionada no texto.",
@@ -825,7 +825,7 @@
                          "enunciado":  "No texto, o conectivo \u0027contudo\u0027 estabelece uma relação de",
                          "alternativas":  {
                                               "a":  "oposição, contrapondo a insuficiência do hábito isolado de poupar à eficácia do hábito acompanhado de reflexão.",
-                                              "b":  "causa, indicando que guardar a mesada sozinha já seria sempre a causa direta do raciocínio financeiro adulto completo.",
+                                              "b":  "causa, indicando que guardar parte da mesada já seria, por si só, a causa direta do raciocínio financeiro do adulto formado.",
                                               "c":  "comparação entre duas crianças diferentes, cujos hábitos de poupança o texto contrastaria.",
                                               "d":  "adição, reforçando a ideia anterior sobre a mesada sem introduzir nenhuma ressalva ao raciocínio.",
                                               "e":  "conclusão, apresentando o hábito de poupar como resultado necessário do que se afirmou antes."
@@ -860,7 +860,7 @@
                                               "b":  "o discurso entusiasmado sobre a \u0027flexibilidade\u0027 do home office e a rotina exaustiva revelada nos quadros seguintes.",
                                               "c":  "o vocabulário corporativo usado pela personagem e a linguagem informal de quem responde a ela.",
                                               "d":  "a quantidade de notebooks usados pela personagem e a qualidade da internet disponível na casa.",
-                                              "e":  "uma explicação técnica bem detalhada sobre a configuração de todos os equipamentos usados nas reuniões virtuais mostradas."
+                                              "e":  "uma explicação técnica bem detalhada sobre a configuração dos equipamentos usados nas reuniões virtuais mostradas na tirinha."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O humor nasce do contraste entre o discurso entusiasmado sobre a flexibilidade do home office e a rotina exaustiva que os quadros seguintes revelam: a mesma cadeira desde as sete da manhã, três notebooks e um bilhete que continua intocado à noite. A passagem do tempo entre o primeiro e o terceiro quadro é o distrator mais fino, porque ela está na tirinha e é indispensável — é o veículo da piada, não o contraste que a produz, que se dá entre o que a personagem diz e o que se vê. O vocabulário corporativo aparece sem que haja um interlocutor de fala informal. A quantidade de notebooks compõe a cena, e a internet não é mencionada. E não há explicação técnica sobre equipamentos.",
@@ -876,7 +876,7 @@
                                               "b":  "Apesar de anunciadas como personalizadas, as playlists tendem a reforçar a popularidade já existente, dificultando descobertas.",
                                               "c":  "As playlists automáticas ampliam o repertório do ouvinte, expondo-o a gêneros que ele não buscaria sozinho.",
                                               "d":  "Os serviços de streaming musical deixaram totalmente de usar playlists automáticas, segundo relata o texto apresentado.",
-                                              "e":  "Os algoritmos de recomendação musical são incapazes de identificar as reais preferências musicais dos usuários."
+                                              "e":  "Os algoritmos de recomendação musical são incapazes de identificar as reais preferências dos usuários e por isso sugerem artistas de gêneros escolhidos ao acaso."
                                           },
                          "resposta":  "b",
                          "explicacao":  "O texto contrapõe o discurso de personalização (\u0027feitas sob medida\u0027) à prática observada (repetição de artistas populares), sustentando que a promessa de descoberta é limitada por um viés estrutural do algoritmo em favor do que já é popular.",
@@ -890,7 +890,7 @@
                          "alternativas":  {
                                               "a":  "o público concordou unanimemente com a decisão de afastamento temporário tomada pela própria atleta.",
                                               "b":  "há um sentido implícito nos comentários hostis, revelando resistência do público ao custo emocional do alto rendimento.",
-                                              "c":  "os comentários hostis foram todos publicados literalmente entre as demais frases desse texto jornalístico específico citado.",
+                                              "c":  "os comentários hostis foram publicados literalmente entre as demais frases desse texto jornalístico, ocupando as linhas intermediárias.",
                                               "d":  "a atleta escreveu pessoalmente todos os comentários hostis mencionados ao longo da reportagem citada.",
                                               "e":  "a atleta respondeu aos comentários de forma indireta, sem mencionar seus autores pelo nome."
                                           },
@@ -984,7 +984,7 @@
                          "texto_apoio":  "Troquei de cidade há três meses e ainda calculo distâncias pelo tempo que levava no lugar antigo. \u0027Fica pertinho\u0027, digo, sobre um mercado que está, na verdade, a quarenta minutos a pé. Aos poucos vou entendendo que não é só o mapa que muda quando a gente se muda: é a régua inteira com que a gente media a vida antes.",
                          "enunciado":  "A reflexão do narrador sobre \u0027a régua inteira com que a gente media a vida\u0027 sugere que",
                          "alternativas":  {
-                                              "a":  "mudar de cidade só altera realmente as distâncias físicas entre os lugares, sem qualquer outro efeito notável ou relevante.",
+                                              "a":  "mudar de cidade altera apenas as distâncias físicas entre os lugares, sem nenhum efeito sobre o modo como o narrador percebe a vida.",
                                               "b":  "o narrador considera o mercado da nova cidade bem mais próximo do que de fato está de sua casa.",
                                               "c":  "o narrador pretende voltar a morar definitivamente na cidade antiga assim que for possível fazer isso.",
                                               "d":  "o narrador passou a medir distâncias em tempo de deslocamento, e não mais em quilômetros percorridos.",
@@ -1082,7 +1082,7 @@
                          "alternativas":  {
                                               "a":  "A segurança da vacina depende de consenso entre especialistas; a recomendação de uso, de evidência direta.",
                                               "b":  "Nenhuma das duas afirmações tem qualquer base científica sólida, segundo a própria cientista entrevistada.",
-                                              "c":  "Ambas as afirmações são igualmente fatos comprovados cientificamente, sem nenhuma diferença relevante entre elas.",
+                                              "c":  "Ambas as afirmações são igualmente fatos comprovados cientificamente, já que a recomendação de vacinar decorre dos mesmos testes clínicos revisados por pares.",
                                               "d":  "A segurança da vacina é fato baseado em evidências; a recomendação universal envolve julgamento que extrapola os dados.",
                                               "e":  "A cientista afirma que não há diferença relevante alguma entre fato e opinião em contextos científicos."
                                           },
@@ -1097,7 +1097,7 @@
                          "enunciado":  "Que contraponto o autor apresenta em relação ao benefício citado dos jogos de estratégia em tempo real?",
                          "alternativas":  {
                                               "a":  "Sustenta que o ganho observado desaparece assim que o jogador interrompe a prática por algumas semanas.",
-                                              "b":  "Nega que exista absolutamente qualquer relação entre jogos de estratégia e habilidades cognitivas humanas reais.",
+                                              "b":  "Nega que exista relação demonstrável entre os jogos de estratégia em tempo real e o desempenho cognitivo de quem os pratica.",
                                               "c":  "Sugere que apenas jogos de tabuleiro tradicionais trazem benefícios cognitivos reais.",
                                               "d":  "Afirma que os jogos de estratégia não trazem nenhum benefício real à tomada de decisões.",
                                               "e":  "Reconhece o ganho em rapidez decisória, mas aponta um possível custo: menor tolerância à reflexão pausada."
@@ -1196,7 +1196,7 @@
                                               "b":  "irônico, criticando de forma bem-humorada a vagueza da informação apesar da aparência de cortesia.",
                                               "c":  "neutro, apenas descrevendo tecnicamente o funcionamento do painel de embarque.",
                                               "d":  "indignado, exigindo formalmente indenização da companhia aérea pelo atraso do voo.",
-                                              "e":  "elogioso, valorizando de forma sincera a transparência da companhia aérea com todos os seus passageiros."
+                                              "e":  "elogioso, valorizando de forma sincera a transparência com que a companhia aérea informou o novo horário de embarque."
                                           },
                          "resposta":  "b",
                          "explicacao":  "A caracterização da frase como algo que \u0027promete tudo, garante nada, e ainda parece educada\u0027 revela ironia bem-humorada diante da vagueza institucional, sem configurar elogio sincero, neutralidade técnica ou exigência formal.",
@@ -1306,7 +1306,7 @@
                          "alternativas":  {
                                               "a":  "Porque o ruído urbano é medido pelos mesmos órgãos que monitoram a qualidade do ar.",
                                               "b":  "Porque a exposição prolongada a ruídos elevados está associada a distúrbios do sono e a maior risco cardiovascular.",
-                                              "c":  "Porque nenhum morador jamais se queixou do barulho da rodovia antes da instalação completa dessas barreiras acústicas específicas.",
+                                              "c":  "Porque os moradores só se queixaram do barulho da rodovia depois que as barreiras acústicas foram instaladas ao longo da via residencial.",
                                               "d":  "Porque as barreiras acústicas custam mais caro do que outras obras de infraestrutura urbana.",
                                               "e":  "Porque a redução de ruído não trouxe nenhum benefício mensurável à saúde dos moradores da região."
                                           },
@@ -1384,7 +1384,7 @@
                          "texto_apoio":  "Pesquisas em neurolinguística indicam que crianças expostas regularmente a duas línguas desde a primeira infância desenvolvem, em média, maior flexibilidade cognitiva para alternar entre tarefas, mesmo em atividades que não envolvem linguagem diretamente. Os pesquisadores atribuem esse ganho ao exercício constante de inibir uma língua para ativar outra, um treino que parece se generalizar para outras funções executivas do cérebro.",
                          "enunciado":  "Qual explicação os pesquisadores oferecem para o ganho cognitivo associado ao bilinguismo infantil?",
                          "alternativas":  {
-                                              "a":  "A ausência completa e definitiva de qualquer relação entre bilinguismo e todas as funções cognitivas executivas do cérebro.",
+                                              "a":  "A ausência de relação demonstrável entre o bilinguismo infantil e as funções executivas do cérebro, apontada pelos próprios pesquisadores.",
                                               "b":  "O uso exclusivo de métodos escolares tradicionais no ensino de idiomas estrangeiros às crianças.",
                                               "c":  "O fato de crianças bilíngues estudarem, em média, mais horas por dia do que crianças monolíngues.",
                                               "d":  "O contato precoce com estruturas gramaticais mais complexas, que antecipa o amadurecimento da linguagem.",
@@ -1417,7 +1417,7 @@
                          "enunciado":  "Segundo o texto, qual é a principal causa apontada para a insegurança alimentar em escala global?",
                          "alternativas":  {
                                               "a":  "A ausência completa de organizações internacionais dedicadas ao tema da alimentação mundial.",
-                                              "b":  "O excesso constante de produção agrícola, que tornaria os alimentos artificialmente muito mais baratos em todo o mercado.",
+                                              "b":  "O excesso de produção agrícola registrado nos últimos anos, que teria tornado os alimentos artificialmente baratos no mercado mundial.",
                                               "c":  "A concentração da produção agrícola em poucos países exportadores, que fragiliza os importadores.",
                                               "d":  "Problemas de distribuição, perdas na cadeia de transporte e barreiras de acesso econômico, e não a falta de produção.",
                                               "e":  "A insuficiência da produção mundial de alimentos frente à demanda crescente da população global."
@@ -1465,7 +1465,7 @@
                          "enunciado":  "O efeito de humor no trecho final (\u0027a palavra só é sempre a mais otimista da frase\u0027) decorre de",
                          "alternativas":  {
                                               "a":  "uma generalização irônica que contrasta a modéstia da expressão \u0027só o banheiro\u0027 com o tamanho real da reforma que se seguiu.",
-                                              "b":  "uma explicação bem técnica e detalhada sobre os custos médios de reformas residenciais na cidade atualmente cobrados.",
+                                              "b":  "uma explicação bem técnica e detalhada sobre os custos médios das reformas residenciais na cidade, com o preço por metro quadrado de cada etapa.",
                                               "c":  "uma descrição neutra do cronograma originalmente planejado apenas para a reforma do banheiro.",
                                               "d":  "de um trocadilho entre o nome da construtora e o prazo repetidamente descumprido por ela.",
                                               "e":  "uma crítica direta e sem humor ao comportamento dos vizinhos que reclamavam do barulho aos sábados."
@@ -1500,7 +1500,7 @@
                                               "b":  "As próteses robóticas ainda não conseguem reproduzir nenhum movimento natural da mão humana.",
                                               "c":  "O principal obstáculo é a resistência dos usuários a dispositivos que dependem de recarga diária.",
                                               "d":  "O principal obstáculo atual para a difusão das próteses robóticas é de natureza econômica, não mais mecânica.",
-                                              "e":  "As próteses robóticas são utilizadas exclusivamente por pessoas de altíssimo poder aquisitivo, sem qualquer exceção."
+                                              "e":  "As próteses robóticas já chegaram ao mesmo preço das próteses mecânicas comuns, o que ampliou muito o número de usuários atendidos."
                                           },
                          "resposta":  "d",
                          "explicacao":  "O texto afirma que o desafio \u0027não é mais puramente mecânico, mas de custo\u0027, apontando a questão econômica como o principal obstáculo atual à difusão da tecnologia, e não a limitação técnica dos movimentos.",
@@ -1560,7 +1560,7 @@
                          "texto_apoio":  "Diferente do rádio e da televisão, cujo conteúdo é ouvido ou visto no momento estrito da transmissão, o podcast permite que o ouvinte controle o ritmo: pausar, voltar, acelerar a velocidade de reprodução ou consumir o episódio dias depois de publicado. Essa flexibilidade tem atraído um público que valoriza aprofundamento maior do que o formato costuma oferecer em veículos de notícia mais curtos e imediatos.",
                          "enunciado":  "Segundo o texto, o que diferencia estruturalmente o consumo de podcast do consumo tradicional de rádio e televisão?",
                          "alternativas":  {
-                                              "a":  "Não há, segundo o texto, nenhuma diferença relevante entre os três formatos de mídia mencionados no início.",
+                                              "a":  "Não há, segundo o texto, diferença relevante entre os três formatos mencionados, já que os três dependem igualmente da grade fixa de programação da emissora.",
                                               "b":  "O podcast depende de conexão contínua durante a escuta, o que restringe seu uso em deslocamentos.",
                                               "c":  "O podcast exige, obrigatoriamente, que o conteúdo seja ouvido no exato momento da publicação do episódio.",
                                               "d":  "O podcast permite ao ouvinte controlar o ritmo de consumo, ao contrário da transmissão em tempo real característica do rádio e da TV.",
@@ -1578,7 +1578,7 @@
                          "alternativas":  {
                                               "a":  "O sonar identifica cardumes com precisão, mas seu custo elevado restringe o acesso à pesca industrial.",
                                               "b":  "Os biólogos marinhos afirmam que a tecnologia de sonar não tem qualquer efeito sobre os cardumes pescados.",
-                                              "c":  "A tecnologia de sonar teria tornado a pesca ainda menos eficiente do que era antes de sua adoção pelas frotas pesqueiras.",
+                                              "c":  "A tecnologia de sonar teria tornado a pesca ainda menos eficiente do que era antes de sua adoção, já que o equipamento afugenta os cardumes localizados.",
                                               "d":  "O aumento da eficiência tecnológica na captura de peixes pode reduzir, no médio prazo, a disponibilidade futura da própria pesca.",
                                               "e":  "A pesca com sonar aumentou, comprovadamente, a taxa de reprodução das espécies capturadas pelas frotas."
                                           },
@@ -1646,7 +1646,7 @@
                                               "b":  "as duas são literais, uma vez que ambas remetem a instalações elétricas concretas.",
                                               "c":  "as duas são figuradas, pois a palavra designa um objeto ausente em ambos os contextos.",
                                               "d":  "a primeira é figurada e a segunda é literal, já que a reforma envolve documentos físicos.",
-                                              "e":  "a distinção não se aplica, porque a palavra tem um único sentido registrado em dicionário."
+                                              "e":  "a distinção não se aplica, porque a palavra tem um único sentido registrado em dicionário e conserva esse mesmo sentido nos dois trechos citados."
                                           },
                          "resposta":  "a",
                          "explicacao":  "No manual, fiação designa o conjunto de fios elétricos dentro da parede — o objeto mesmo. No texto de opinião, ela nomeia a rede de vínculos e repasses entre os entes da federação, que não é feita de fios: o sentido é construído por transferência. Dizer que as duas são literais ignora que uma federação não tem cabos; dizer que as duas são figuradas desconsidera o manual, cujo objeto é físico; a inversão troca os dois casos; e a existência de um sentido dicionarizado não impede o uso figurado, que é justamente o que se apoia nele."
@@ -1656,7 +1656,7 @@
                          "texto_apoio":  "No primeiro quadro, um usuário tenta acessar um site e vê a mensagem: \u0027Confirme que você não é um robô: selecione todas as imagens com semáforo\u0027. No segundo quadro, depois de acertar, aparece nova mensagem: \u0027Agora selecione todas com bicicleta\u0027. No terceiro quadro, o usuário, exausto, encara a tela e murmura: \u0027Eu só queria ver a previsão do tempo.\u0027",
                          "enunciado":  "O humor da tirinha decorre principalmente",
                          "alternativas":  {
-                                              "a":  "de uma crítica séria e detalhada às falhas de segurança em sites de previsão do tempo.",
+                                              "a":  "de uma crítica séria e detalhada às falhas de segurança dos sites de previsão do tempo, apresentadas pela tirinha como o verdadeiro problema do usuário.",
                                               "b":  "da comparação técnica entre diferentes tipos de verificação de segurança digital usados hoje.",
                                               "c":  "da ausência de qualquer diálogo direto entre o usuário e o site ao longo da tirinha.",
                                               "d":  "do exagero cômico da quantidade de etapas de verificação exigidas para uma tarefa simples e corriqueira.",
@@ -1691,7 +1691,7 @@
                                               "a":  "Trabalhadores de turno noturno não utilizam, em nenhuma hipótese, o transporte público para se deslocar.",
                                               "b":  "A redução de frequência nos horários noturnos beneficia diretamente os trabalhadores desse turno.",
                                               "c":  "A lógica de custo que reduz a frequência noturna tende a prejudicar quem depende desses horários por trabalhar à noite.",
-                                              "d":  "A redução de frequência afeta sempre igualmente todos os passageiros, sem qualquer distinção real entre turnos de trabalho.",
+                                              "d":  "A redução de frequência afeta de modo igual os passageiros do período diurno e os do noturno, sem distinção real entre os turnos de trabalho.",
                                               "e":  "A redução noturna é compensada por linhas alternativas, o que mantém o tempo médio de espera estável."
                                           },
                          "resposta":  "c",
@@ -1721,7 +1721,7 @@
                          "enunciado":  "Qual é o tom predominante do texto ao descrever a reação da comunidade após a enchente?",
                          "alternativas":  {
                                               "a":  "De crítica exclusiva e resignada à ausência total de atuação do poder público na região afetada.",
-                                              "b":  "De desconfiança em relação à eficácia dos mutirões de limpeza organizados pelos próprios moradores.",
+                                              "b":  "De desconfiança em relação à eficácia dos mutirões organizados pelos próprios moradores, tratados no texto como improviso incapaz de resolver o problema.",
                                               "c":  "De reconhecimento e valorização da capacidade de organização coletiva revelada pela própria comunidade diante da crise.",
                                               "d":  "De indiferença total em relação às ações realizadas pelos moradores após o desastre relatado.",
                                               "e":  "De cobrança dirigida aos moradores, que teriam demorado a se organizar depois da enchente."
@@ -1913,7 +1913,7 @@
                          "enunciado":  "Qual tese o texto sustenta em relação à criação de horários fixos de planejamento dentro da carga horária contratada?",
                          "alternativas":  {
                                               "a":  "A criação de horários fixos de planejamento não trouxe nenhuma mudança perceptível na saúde dos professores.",
-                                              "b":  "O planejamento dentro da carga horária só produz efeito quando acompanhado de redução do número de alunos por turma.",
+                                              "b":  "O planejamento dentro da carga horária só produz efeito quando acompanhado de redução do número de alunos por turma, condição destacada pelo levantamento sindical.",
                                               "c":  "Os afastamentos por saúde mental entre professores aumentaram após a criação de horários fixos de planejamento.",
                                               "d":  "O planejamento pedagógico deveria ser realizado exclusivamente fora do horário de trabalho remunerado.",
                                               "e":  "Reservar tempo de planejamento dentro da carga horária contratada está associado à redução de afastamentos por saúde mental."
@@ -2185,7 +2185,7 @@
                          "enunciado":  "Qual comparação o texto estabelece entre o trabalho infantil do século XIX e o do século XXI?",
                          "alternativas":  {
                                               "a":  "Sugere que o trabalho infantil no século XXI é exclusivo de minas de carvão, como ocorria no século XIX.",
-                                              "b":  "Afirma que o trabalho infantil foi completamente erradicado no mundo desde o século XIX até os dias de hoje.",
+                                              "b":  "Afirma que o trabalho infantil foi completamente erradicado no mundo desde o século XIX, restando dele apenas os registros históricos das minas europeias.",
                                               "c":  "Mostra que, apesar de mudanças legais desde o século XIX, o trabalho infantil persiste sob formas e cadeias produtivas diferentes.",
                                               "d":  "Sustenta que a legislação do século XIX foi mais eficaz que a atual, por prever punição mais severa.",
                                               "e":  "Nega qualquer relação entre a legislação do século XIX e a situação atual do trabalho infantil no mundo."
@@ -2236,7 +2236,7 @@
                                               "b":  "O método anterior provavelmente aplicava recursos de forma mais uniforme, sem considerar as necessidades específicas de cada ponto.",
                                               "c":  "O método anterior já utilizava sensores tão precisos quanto os descritos no texto atual sobre a agricultura.",
                                               "d":  "O método anterior aplicava insumos de forma localizada, mas sem monitoramento contínuo do solo.",
-                                              "e":  "Não é possível inferir nada sobre o método utilizado antes da adoção da nova tecnologia de sensores no campo."
+                                              "e":  "Não é possível inferir nada sobre o método utilizado antes da adoção dos sensores, porque o texto trata apenas do custo dos equipamentos instalados na lavoura."
                                           },
                          "resposta":  "b",
                          "explicacao":  "Como o texto contrasta a aplicação \u0027nos pontos específicos que realmente precisam\u0027 com uma prática anterior implícita, é possível inferir que o método antigo era menos direcionado, provavelmente aplicando recursos de forma mais uniforme em toda a área.",
@@ -2251,7 +2251,7 @@
                                               "a":  "Porque essas expressões dependem de contexto cultural compartilhado, e não apenas do significado literal das palavras.",
                                               "b":  "Porque essas expressões variam de região para região dentro de um mesmo idioma, o que multiplica as possibilidades.",
                                               "c":  "Porque expressões idiomáticas não existem em nenhuma língua além do português, segundo o texto.",
-                                              "d":  "Porque as ferramentas de tradução automática ainda não conseguem traduzir tipo algum de texto, seja técnico ou não.",
+                                              "d":  "Porque as ferramentas de tradução automática ainda não conseguem traduzir tipo algum de texto, seja ele técnico, informativo ou literário, como reconhece o autor.",
                                               "e":  "Porque os sistemas de tradução automática são treinados exclusivamente com textos jurídicos formais."
                                           },
                          "resposta":  "a",
@@ -2265,7 +2265,7 @@
                          "enunciado":  "Qual explicação o texto oferece para a mobilização de voluntários sem experiência prévia em ações humanitárias?",
                          "alternativas":  {
                                               "a":  "A cobertura contínua do desastre pela imprensa, que manteve o assunto em evidência por semanas.",
-                                              "b":  "A ausência completa e absolutamente total de qualquer outro tipo de auxílio prestado às vítimas desse grande deslizamento de terra citado.",
+                                              "b":  "A ausência de outras formas de auxílio às vítimas do deslizamento, o que teria deixado o socorro inteiramente por conta dos voluntários vindos de outras cidades.",
                                               "c":  "A obrigatoriedade legal de participação em ações de ajuda humanitária após desastres naturais como esse.",
                                               "d":  "A proximidade emocional criada pelas imagens do desastre compartilhadas nas redes sociais, que aproximou a tragédia apesar da distância.",
                                               "e":  "O pagamento oferecido pelas organizações responsáveis pela coordenação da ajuda humanitária prestada."
@@ -2300,7 +2300,7 @@
                                               "b":  "As empresas de aplicativo eliminaram completamente qualquer forma de avaliação de desempenho dos entregadores.",
                                               "c":  "A autonomia declarada convive com a impossibilidade de o trabalhador negociar o preço do próprio serviço.",
                                               "d":  "Não existe, segundo o texto, nenhuma contradição na categorização utilizada pelas empresas de aplicativo citadas.",
-                                              "e":  "Os trabalhadores de aplicativo já recebem, atualmente, absolutamente todos os direitos trabalhistas tradicionais garantidos pela legislação."
+                                              "e":  "Os trabalhadores de aplicativo já recebem, atualmente, os mesmos direitos trabalhistas assegurados pela legislação aos empregados com carteira assinada."
                                           },
                          "resposta":  "a",
                          "explicacao":  "O texto evidencia uma contradição entre a categoria formal de \u0027autônomo\u0027 (sem direitos trabalhistas tradicionais) e a prática real de controle por metas, avaliações e penalidades, elementos associados a relações de subordinação, e não de autonomia plena.",
@@ -2313,7 +2313,7 @@
                          "enunciado":  "Qual é a função do trecho final do texto (\u0027até que, dois anos depois, a prefeitura passou a apoiar...\u0027) em relação ao restante do relato?",
                          "alternativas":  {
                                               "a":  "Afirmar que a prefeitura foi responsável, desde o início, pela criação da biblioteca comunitária relatada.",
-                                              "b":  "Contradizer completamente toda a informação apresentada anteriormente sobre a origem comunitária da biblioteca citada no texto.",
+                                              "b":  "Contradizer frontalmente as informações apresentadas antes sobre a origem comunitária da biblioteca, revelando-as imprecisas ao final do relato.",
                                               "c":  "Mostrar que a iniciativa, nascida da comunidade, obteve reconhecimento institucional posterior, sem que este fosse sua origem.",
                                               "d":  "Encerrar o relato sem qualquer relação lógica com as informações apresentadas anteriormente ao longo do texto.",
                                               "e":  "Indicar que a iniciativa perdeu autonomia ao passar a depender de recursos públicos."
@@ -2328,7 +2328,7 @@
                          "texto_apoio":  "No grupo de família do WhatsApp, minha tia manda bom dia às seis da manhã, meu primo manda memes desatualizados às três da tarde, e meu pai, fiel ao estilo, responde tudo com \u0027certo\u0027 três dias depois. Ainda assim, é nesse grupo bagunçado, sem nenhuma lógica de horário, que a gente sempre descobre primeiro quando alguém da família precisa de ajuda.",
                          "enunciado":  "O tom do narrador ao descrever o funcionamento aparentemente caótico do grupo de família é de",
                          "alternativas":  {
-                                              "a":  "irritação profunda com a falta de organização das mensagens trocadas nesse grupo de família.",
+                                              "a":  "irritação profunda com a falta de organização das mensagens trocadas nesse grupo de família, que o narrador diz pretender abandonar assim que puder.",
                                               "b":  "crítica severa e definitiva ao uso de aplicativos de mensagem por familiares mais velhos.",
                                               "c":  "indiferença total em relação a tudo o que acontece no grupo de família no WhatsApp da casa.",
                                               "d":  "humor afetuoso, que reconhece a bagunça aparente do grupo sem deixar de valorizar sua função real na família.",
@@ -2344,7 +2344,7 @@
                          "texto_apoio":  "Países que historicamente mais contribuíram para as emissões acumuladas de gases de efeito estufa costumam ser também os que possuem maior capacidade financeira e tecnológica para mitigar os efeitos das mudanças climáticas. Já nações que menos contribuíram para o problema ao longo da história frequentemente enfrentam os impactos mais severos, como secas prolongadas e eventos climáticos extremos, com recursos proporcionalmente menores para se adaptar.",
                          "enunciado":  "Qual argumento pode ser construído a partir da relação apresentada no texto entre responsabilidade histórica e capacidade de mitigação?",
                          "alternativas":  {
-                                              "a":  "Países menos desenvolvidos seriam os principais e únicos responsáveis históricos pelas emissões de gases de efeito estufa mundiais.",
+                                              "a":  "Países menos desenvolvidos seriam os principais e únicos responsáveis históricos pelas emissões acumuladas de gases de efeito estufa, embora disponham de menos recursos.",
                                               "b":  "Há uma desproporção entre quem mais contribuiu para o problema climático e quem mais sofre seus efeitos com menos recursos para se adaptar.",
                                               "c":  "A capacidade de mitigação acompanha a responsabilidade histórica, o que torna a distribuição de encargos proporcional.",
                                               "d":  "Não existe, segundo o texto, nenhuma relação entre capacidade financeira e mitigação climática global.",
@@ -2361,7 +2361,7 @@
                          "enunciado":  "Qual é a função da proposta intermediária apresentada no final do texto?",
                          "alternativas":  {
                                               "a":  "Buscar conciliar a preservação da memória histórica com uma reavaliação crítica do que o monumento representa.",
-                                              "b":  "Encerrar definitivamente todo esse debate ao atender integralmente a posição favorável à remoção do monumento.",
+                                              "b":  "Encerrar o debate ao atender de forma integral a posição dos moradores que defendem a remoção do monumento da praça central.",
                                               "c":  "Provar que não existe, de fato, nenhuma controvérsia real sobre a permanência da estátua na praça.",
                                               "d":  "Defender que toda estátua histórica deveria ser removida de praças públicas, sem exceção.",
                                               "e":  "Demonstrar que soluções intermediárias tendem a desagradar aos dois lados e por isso são inviáveis."
@@ -2524,7 +2524,7 @@
                          "enunciado":  "No texto, qual estratégia de construção se destaca?",
                          "alternativas":  {
                                               "a":  "enumeração de exemplos em ordem crescente de importância",
-                                              "b":  "definição técnica seguida de sua aplicação prática",
+                                              "b":  "definição técnica do aplicativo seguida de sua aplicação prática no cotidiano",
                                               "c":  "citação de autoridade para sustentar a afirmação",
                                               "d":  "ironia produzida pelo contraste entre promessa e resultado",
                                               "e":  "pergunta retórica respondida no período seguinte"
@@ -2633,7 +2633,7 @@
                          "alternativas":  {
                                               "a":  "uso de dados numéricos para dimensionar o problema",
                                               "b":  "paralelismo entre duas estruturas sintáticas idênticas",
-                                              "c":  "descrição de um cenário sem marcas de posicionamento",
+                                              "c":  "descrição objetiva do relatório, sem nenhuma marca de posicionamento do autor",
                                               "d":  "conclusão anunciada antes dos dados que a sustentam",
                                               "e":  "oposição entre quantidade de números e qualidade da explicação"
                                           },
@@ -2685,7 +2685,7 @@
                          "dificuldade":  "media",
                          "enunciado":  "No texto, qual estratégia de construção se destaca?",
                          "alternativas":  {
-                                              "a":  "paralelismo entre duas estruturas sintáticas idênticas",
+                                              "a":  "paralelismo entre as duas estruturas sintáticas que abrem os períodos",
                                               "b":  "alternância entre discurso direto e discurso indireto",
                                               "c":  "correção de expectativa por meio da estrutura não... mas",
                                               "d":  "citação de autoridade para sustentar a afirmação",
@@ -3082,7 +3082,7 @@
                          "enunciado":  "É correto afirmar que a ideia central do texto é:",
                          "alternativas":  {
                                               "a":  "A obra produziu efeitos idênticos nos dois lados da região que ela passou a conectar",
-                                              "b":  "A ponte distribuiu os benefícios da integração de forma equivalente entre todos os pontos da região",
+                                              "b":  "A ponte distribuiu os benefícios da integração de forma equivalente entre as duas cidades que ela passou a ligar",
                                               "c":  "A ponte beneficiou igualmente todos os pontos da região",
                                               "d":  "O comércio antigo passou a receber mais veículos depois da obra",
                                               "e":  "Uma obra de infraestrutura pode gerar efeitos positivos e perdas distribuídos de modo desigual"
@@ -3174,7 +3174,7 @@
                                               "a":  "citação de autoridade para sustentar a afirmação",
                                               "b":  "pergunta retórica respondida no período seguinte",
                                               "c":  "definição técnica seguida de sua aplicação prática",
-                                              "d":  "enumeração de exemplos em ordem crescente de importância",
+                                              "d":  "enumeração de exemplos em ordem crescente de importância ao longo do parágrafo final",
                                               "e":  "comparação entre elementos explícitos e escolhas editoriais"
                                           },
                          "resposta":  "e",

@@ -60,6 +60,29 @@ troca as cinco respostas.
 mandou uma questão sobre revista feminina de 1853 para a Primeira República.
 Agora é `fonte_texto`, renderizado sob o texto e fora do alcance das regras.
 
+**O pré-voo conta empate como acerto.** Quando uma questão tira ZERO ponto em
+todos os subtemas, ela não aparece como `FALHA` — o alvo também está em zero, e
+o desempate cai a favor dele. Só a classificação do banco inteiro revela o
+`padrao: true`, que é o subtema de resíduo da frente. Depois de inserir um
+lote, **confira o `subtemas/<frente>.json` procurando `padrao` nos ids novos**;
+duas questões de progressão passaram limpas pelo pré-voo e foram parar em
+álgebra. O `--residuo` do classificador mostra o mesmo conjunto.
+
+**O texto do PDF guarda o que o parser perde.** Quadro, tabela e alternativa
+com fração somem do `enem.py` porque dependem de tabulação e de layout, mas
+continuam no `get_text()` da página. Antes de descartar uma questão por
+"quadro ilegível", leia a página crua — quatro das trinta de Matemática só
+entraram por isso. Quando nem isso resolve, o gabarito ainda serve de teste:
+a expressão da questão 170 saiu como `V x x x 2 4 10 105`, e só
+`x²/4 − 10x + 105` tem mínimo 5 em x = 20, o único valor compatível com a
+resposta oficial.
+
+**Estatística não tem subtema em Matemática.** As 21 questões de média,
+mediana e moda já no banco estão todas em `matematica-financeira`. Média
+salarial e média de precipitação seguiram a convenção em vez de ganhar pino —
+criar `matematica-estatistica` é mexer na tabela e reclassificar as 21, não
+tratar caso a caso.
+
 **A tabela de subtemas não foi feita para prova de leitura.** Em Humanas e
 Linguagens, metade do lote fecha em ZERO ponto em todos os subtemas: o ENEM
 põe um texto e pergunta o que ele faz, sem nomear o assunto. Em Interpretação é
@@ -152,8 +175,9 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | 7 | Discursivas: FGV com as grades oficiais (`*_GC.pdf`), depois Medicina | ~80 | |
 | 8a | **ENEM 2023, 1º dia** — Humanas 44 + Linguagens 44 | 88 de 90 | **feito** (`5ea30a4`) |
 | 8b | ENEM 2023, 2º dia — as 20 de Natureza que se respondem pelo texto | 20 | **feito** (`cb4ef90`) |
-| 8c | ENEM 2023, 2º dia — o resto de Natureza e as 45 de Matemática | ~70 | **próxima** |
-| 8d | ENEM 2024, os dois dias (`ENEM D1/D2`, gabaritos oficiais no lugar) | ~180 | |
+| 8c | ENEM 2023, 2º dia — o resto de Natureza e as 45 de Matemática | 51 de 70 | **feito** (`9535de2`, `87a972a`) |
+| **8 — total** | **ENEM 2023 completo: 138 das 180 questões** | **138** | **feito** |
+| 8d | ENEM 2024, os dois dias (`ENEM D1/D2`, gabaritos oficiais no lugar) | ~180 | **próxima** |
 | 8e | ENEM 2025, os dois dias — **falta o gabarito**, ver abaixo | ~180 | bloqueada |
 | 9 | FUVEST — **seis** cadernos de 1ª fase, todos com gabarito ao lado | 520 | |
 

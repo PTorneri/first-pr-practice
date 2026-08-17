@@ -69,7 +69,7 @@ Commits vão direto na `main` — ela é a branch publicada, não há fluxo de b
 ### banco-central é a fonte; os `vestibular-*/data/*.js` são artefato
 
 ```
-banco-central/data/questions/<frente>.json   ← FONTE das objetivas (5.500+)
+banco-central/data/questions/<frente>.json   ← FONTE das objetivas (8.000+)
 banco-central/data/flashcards/<frente>.json  ← FONTE dos flashcards, por subtema
 banco-central/data/{teoria,videos}.json      ← consolidados (edite via teoria.js / videos.js)
         │

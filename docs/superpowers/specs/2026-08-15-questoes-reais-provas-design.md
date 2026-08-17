@@ -205,7 +205,7 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | **1 — total** | **FGV Unificado 2023.1, sessão completa, 4 cadernos** | **105** | **feito** |
 | 5a | **ITA 2024** — banca nova, trilha de Engenharia | 34 | **feito** (`c25242a`) |
 | 5b | **Mauá** — 92 das 95 aprovadas, as três provas | 92 | **feito** (`9c4587b` … `a546661`) |
-| 2 | FGV 2022.1 + 2021.1 — **162 páginas**, ver o mapa abaixo | ~350 | |
+| 2 | FGV 2022.1 + 2021.1 — 270 questões, 217 candidatas de texto puro | 270 | **próxima** |
 | 3 | As 113 FGV já transcritas — recuperar o texto de apoio | 113 | |
 | 4 | Insper 2026.1, 2026.1 v.2 e 2026.2 (destravado) | 91+ | |
 | 5d | ITA 2023 e 2026 — os dois cadernos nunca minerados | ~120 | |
@@ -419,6 +419,74 @@ idêntico ao da prova limpa — sinal de que a resposta está marcada
 VISUALMENTE, como na 2023.1, e por isso basta renderizar essa versão. Em
 2021.1 os arquivos `_GABARITO` têm hash diferente, então ali o gabarito é
 conteúdo à parte e precisa ser lido separadamente.
+
+### A fase 2 não precisa de leitura por imagem (2026-08-16)
+
+**Os cadernos de 2022.1 e 2021.1 têm camada de texto limpa.** A premissa de que
+"cada página precisa ser lida como imagem" veio da 2023.1, que é scan, e foi
+estendida sem conferir. Medido: 13 mil a 46 mil caracteres extraíveis por
+caderno, com acentuação e quebra de linha corretas. O custo da fase cai de
+"35 a 40 páginas por sessão" para o mesmo custo de um caderno de ENEM.
+
+**São 270 questões, não ~350.** A estimativa antiga contava páginas. O real,
+por caderno: 2022.1 tem 30 + 30 + 30 + 45 = 135; 2021.1 tem 75 + 60 = 135.
+
+**O gabarito é uma tarja amarela vetorial, e sai por extração.** A observação
+de que o texto da versão `_COM_GABARITO` é idêntico ao da prova limpa estava
+certa, e a conclusão tirada dela — "a resposta está marcada visualmente, logo
+é preciso renderizar" — estava errada. A marca é um retângulo preenchido
+(`get_drawings()`, fill ≈ RGB 0,96/0,92/0,00) desenhado por cima da
+alternativa certa. Basta cruzar o retângulo com a linha de texto que ele cobre.
+Em 2021.1 o arquivo `_GABARITO` é a mesma prova com as mesmas tarjas, apesar
+do hash diferente. Cobertura obtida: **244 de 244** questões com alternativa em
+texto, e nenhuma com duas alternativas tarjadas.
+
+Três mecânicas que não são óbvias e custaram bug:
+
+1. **A alternativa não tem letra.** É um marcador `o` sozinho na margem
+   (x ≈ 85), com o texto recuado (x ≈ 106); a letra é posicional. E em alguns
+   cadernos **o glifo do marcador fica 1 ponto ABAIXO do topo do texto que ele
+   abre** (Prova 004 de 2022.1: marcador em y=168,5, texto em y=167,5).
+   Ordenar cru por y põe o texto antes do próprio marcador e desloca todas as
+   alternativas uma casa — (a) recebe o texto de (b), e a última fica vazia.
+   A assinatura do bug é **alternativa vazia num conjunto que tem texto nas
+   outras**; audite por isso. Empurrar o marcador 3 pontos para cima na
+   ordenação resolve, com folga: a distância entre alternativas é de ~16.
+2. **A tarja tem de casar página E y.** Sem comparar a página, um retângulo de
+   y=616 casa com qualquer linha de y=616 do caderno inteiro. O sintoma é
+   silencioso e só aparece na estatística: a distribuição de gabaritos saiu
+   76/49/45/31/43 em vez de uniforme, porque empates eram resolvidos pelo
+   primeiro índice. **Conferir a distribuição a–e é o teste barato que pega
+   isso** — depois do conserto, 53/47/56/41/47.
+3. **O cabeçalho pode vir sozinho na linha** (`31.`), quando a questão abre por
+   imagem. Exigir texto depois do ponto fazia a questão sumir e o parser fechar
+   em 44 de 45 sem reclamar.
+
+**O texto-base é anunciado por uma frase que nomeia as questões servidas**, em
+quatro formas — `Para responder às questões de 03 a 06, leia...`, `Leia o texto
+de Montaigne para responder às questões de 11 a 13.`, `Read the text to answer
+questions 21 to 23.`, `Leia o texto para responder as questões 37 e 38.` O
+anúncio tanto abre quanto fecha a frase, e pode ocupar duas linhas. Todas as
+faixas observadas são contíguas, então `min..max` dos números da frase cobre as
+quatro formas. São 18 textos-base servindo 47 questões; sem capturá-los,
+metade do bloco de Inglês fica com enunciado falando do "second paragraph" de
+um texto ausente.
+
+**O que sobra depois da triagem automática:** 26 questões têm as alternativas
+em imagem (fórmulas de Matemática e Física) e não entram; 27 citam figura no
+enunciado e precisam de leitura caso a caso; **217 são candidatas de texto
+puro**, assim distribuídas:
+
+| matéria | total | candidatas |
+|---|---|---|
+| Biologia | 30 | 30 |
+| Inglês | 30 | 29 |
+| Língua Portuguesa | 30 | 27 |
+| Química | 30 | 26 |
+| Física | 30 | 24 |
+| História | 30 | 24 |
+| Geografia | 30 | 19 |
+| Matemática | 60 | 38 |
 
 ### As discursivas
 

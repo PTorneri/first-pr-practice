@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-16",
+ "gerado": "2026-08-17",
  "frente": "biologia",
- "total": 541,
+ "total": 559,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -3219,6 +3219,109 @@
    "subtema": "biologia-fisiologia",
    "frenteDestino": "biologia",
    "revisado": true
+  },
+  "fgv-biologia-1": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "fgv-biologia-2": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fgv-biologia-3": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 21,
+   "margem": 21
+  },
+  "fgv-biologia-4": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 2
+  },
+  "fgv-biologia-5": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fgv-biologia-6": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fgv-biologia-7": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "fgv-biologia-8": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 12,
+   "margem": 12
+  },
+  "fgv-biologia-9": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fgv-biologia-10": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fgv-biologia-11": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fgv-biologia-12": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fgv-biologia-13": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 12,
+   "margem": 9
+  },
+  "fgv-biologia-14": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "fgv-biologia-15": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 7,
+   "margem": 0
+  },
+  "fgv-biologia-16": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "fgv-biologia-17": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 13
+  },
+  "fgv-biologia-18": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 9
   }
  }
 }

@@ -8725,6 +8725,348 @@
       },
       "resposta": "b",
       "explicacao": "A lógica é uma só: economizar água. Raízes profundas alcançam o lençol nos meses sem chuva; folhas com pelos ou cutícula espessa reduzem a evaporação na superfície; e nas horas de calor os estômatos fecham, o que reduz a transpiração. Alternativa B. A alternativa A manda abrir os estômatos e cessar a transpiração, duas coisas incompatíveis entre si; C e E querem aumentar a transpiração no pior momento do dia; e D combina raízes retorcidas com folhas sem cutícula e estômatos abertos, o oposto da estratégia. As raízes adventícias de A e as respiratórias de C pertencem a outros ambientes, não ao cerrado."
+    },
+    {
+      "id": "fgv-biologia-1",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "texto_apoio": "O fungo Fusarium verticillioides causa a podridão vermelha, uma das principais doenças da cana-de-açúcar. O fungo é transmitido à planta por uma mariposa, a Diatraea saccharalis, popularmente conhecida como “broca-da-cana”. Pesquisadores descobriram que plantas infectadas pelo fungo produzem compostos voláteis que atraem fêmeas grávidas de mariposa que põem seus ovos nas plantas. As lagartas, recém-eclodidas, penetram e se alimentam nos colmos. As lagartas viram pupas e, mais tarde, adultos portadores do fungo. As mariposas adultas, agora infectadas, são capazes de transmitir o fungo à geração seguinte, por meio de seus ovos. (www.agencia.fapesp.br. Adaptado.)",
+      "enunciado": "As relações ecológicas abordadas no texto são:",
+      "alternativas": {
+        "a": "parasitismo, herbivoria e protocooperação.",
+        "b": "inquilinismo, predatismo e comensalismo.",
+        "c": "herbivoria, inquilinismo e mutualismo.",
+        "d": "amensalismo, herbivoria e mutualismo.",
+        "e": "parasitismo, comensalismo e protocooperação."
+      },
+      "resposta": "a",
+      "explicacao": "O texto encadeia três relações. O fungo vive na cana e a prejudica: parasitismo. As lagartas recém-eclodidas penetram e se alimentam dos colmos: herbivoria. E fungo e mariposa se ajudam — a planta infectada emite voláteis que atraem as fêmeas, e as mariposas adultas carregam o fungo para a geração seguinte —, ganho mútuo sem que nenhum dos dois dependa do outro para viver: protocooperação. Alternativa A. As demais trocam pelo menos um nome: inquilinismo e comensalismo (B, C, E) exigiriam que um dos lados nada ganhasse nem perdesse, e aqui a cana perde; amensalismo (D) exigiria que o prejudicado não desse nada em troca; e predatismo (B) exigiria morte imediata da presa."
+    },
+    {
+      "id": "fgv-biologia-2",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "Pesquisadores do Instituto de Pesquisa Pelé Pequeno Príncipe estão trabalhando no desenvolvimento de moléculas contra o coronavírus. O estudo emprega cavalos que recebem o vírus e produzem essas moléculas que serão extraídas do plasma desses animais, depois purificadas em laboratório para que possam ser aplicadas em pessoas. (https://pequenoprincipe.org.br. Adaptado.)",
+      "enunciado": "O estudo descrito no texto tem por objetivo produzir moléculas que",
+      "alternativas": {
+        "a": "estimulam as células de memória imunológica, já presentes em pessoas imunizadas pelas vacinas, a produzirem outras moléculas contra a covid-19.",
+        "b": "estimulam no cavalo a proliferação de células de memória imunológica para a fabricação de outras moléculas que serão aplicadas em pessoas que não tiveram a covid-19.",
+        "c": "não estimulam a proliferação de células de memória imunológica nas pessoas doentes e que imunizam as pessoas que não tiveram a covid-19.",
+        "d": "estimulam nas pessoas a fabricação de células de memória imunológica para combaterem o coronavírus em uma pessoa com a covid-19.",
+        "e": "não estimulam a proliferação de células do sistema de memória imunológicas nas pessoas e que neutralizam moléculas do coronavírus em pessoas com a covid-19."
+      },
+      "resposta": "e",
+      "explicacao": "O cavalo recebe o vírus, produz anticorpos e é o plasma DELE que se extrai e purifica. Quem recebe a aplicação ganha anticorpos prontos, não a capacidade de fabricá-los: é imunização passiva, que neutraliza o vírus em quem já está doente e não deixa memória imunológica. Alternativa E. A alternativa A faz as moléculas agirem sobre células de memória de quem já se vacinou; B põe a proliferação de memória no cavalo como objetivo, quando o objetivo é o anticorpo; C acerta a ausência de memória mas destina o soro a quem não teve a doença, e soro é tratamento, não vacina; e D descreve exatamente o que uma vacina faz, que é o oposto do soro."
+    },
+    {
+      "id": "fgv-biologia-3",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "texto_apoio": "Pesquisadores descobriram que determinados comprimentos de onda de luz aceleram o metabolismo da levedura Saccharomyces, pois melhoram a permeabilidade da membrana celular e isso favorece a troca entre os meios interno e externo da levedura. A incidência da luz nas células da levedura facilita ainda a troca de elétrons no ciclo de Krebs que envolve grandes transferências de elétrons de certas moléculas para outras. A exposição à luz aumenta a velocidade dessas transferências. (https://revistapesquisa.fapesp.br. Adaptado.)",
+      "enunciado": "A incidência de determinados comprimentos de onda de luz sobre a levedura Saccharomyces favorece",
+      "alternativas": {
+        "a": "a entrada de gás oxigênio na célula e a conversão dos piruvatos em etanol.",
+        "b": "a saída de gás carbônico da célula e a conversão do NAD+ em NADH.",
+        "c": "a entrada dos piruvatos na célula e a conversão do NADH em NAD+.",
+        "d": "a saída de etanol da célula e a conversão da acetilcoenzima A em piruvatos.",
+        "e": "a entrada de acetilcoenzima A na célula e a conversão da glicose em piruvatos."
+      },
+      "resposta": "b",
+      "explicacao": "O texto dá duas pistas e a resposta usa as duas. A permeabilidade da membrana melhora, o que facilita a troca com o meio externo — e o que a levedura precisa pôr para fora é o gás carbônico. E a luz acelera as transferências de elétrons no ciclo de Krebs, onde os elétrons retirados dos substratos são recebidos pelo NAD+, que se converte em NADH. Alternativa B. A alternativa A põe a conversão de piruvato em etanol, que é fermentação e ocorre fora do ciclo; C inverte o sentido da conversão, pois o NADH só volta a NAD+ na cadeia respiratória; D faz a acetilcoenzima A retroceder a piruvato; e E manda a glicose ser convertida dentro da mitocôndria, quando a glicólise é citoplasmática."
+    },
+    {
+      "id": "fgv-biologia-4",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "texto_apoio": "Na reprodução humana, a fecundação compreende a entrada do pronúcleo masculino no ovócito secundário que, por sua vez, conclui a sua meiose II e origina o pronúcleo feminino e mais um glóbulo polar. Os pronúcleos masculino e feminino carregam todas as moléculas de DNA nuclear que compõem a primeira célula diploide.",
+      "enunciado": "Para a ocorrência da primeira duplicação desta célula",
+      "alternativas": {
+        "a": "os pronúcleos fundem os seus envoltórios nucleares e em seguida inicia-se a permutação entre os cromossomos homólogos.",
+        "b": "os pronúcleos têm suas moléculas de DNA duplicadas e em seguida há o alinhamento dos cromossomos homólogos.",
+        "c": "cada pronúcleo inicia a anáfase para a separação das cromátides-irmãs e em seguida ambos fundem seus envoltórios nucleares.",
+        "d": "os pronúcleos fundem os seus envoltórios nucleares e em seguida inicia-se o pareamento dos cromossomos homólogos na metáfase.",
+        "e": "cada pronúcleo desintegra seu envoltório nuclear e em seguida inicia-se a fusão dos cromossomos maternos aos paternos."
+      },
+      "resposta": "b",
+      "explicacao": "A primeira divisão do zigoto é mitose, e toda mitose exige que o DNA esteja duplicado antes: os cromossomos se apresentam com duas cromátides-irmãs e só então se alinham na placa equatorial, maternos e paternos juntos. Alternativa B. A alternativa A traz permutação, que é evento meiótico; C manda a anáfase começar antes da fusão dos envoltórios, invertendo a ordem; D fala em pareamento de homólogos na metáfase, outra vez sinapse meiótica; e E propõe fusão de cromossomos maternos com paternos, coisa que não acontece — eles se juntam num mesmo núcleo, não se fundem entre si."
+    },
+    {
+      "id": "fgv-biologia-5",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "O RT–PCR é uma das técnicas moleculares empregadas para confirmar a presença do vírus Sars-Cov-2 em pessoas infectadas. Nesta técnica, a partir do material genético do vírus, são sintetizadas moléculas de DNA que, em seguida, são submetidas à reação em cadeia da polimerase (PCR).",
+      "enunciado": "Na técnica do RT-PCR o material genético do vírus é __________ em moléculas de DNA que são __________ pela PCR. As lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "transcrito - traduzidas",
+        "b": "traduzido - replicadas",
+        "c": "replicado - traduzidas",
+        "d": "transcrito - replicadas",
+        "e": "replicado - transcritas"
+      },
+      "resposta": "d",
+      "explicacao": "O Sars-CoV-2 tem RNA como material genético, e o \"RT\" da sigla é a transcriptase reversa: ela transcreve esse RNA em DNA complementar. O que a PCR faz em seguida é multiplicar esse DNA, produzindo cópias — replicação. Alternativa D. Tradução (A, C) é a síntese de proteína a partir do RNA, e nenhuma proteína entra aqui; replicação como primeiro passo (C, E) exigiria que o vírus já tivesse DNA; e transcrição como segundo passo (E) devolveria RNA, não as cópias de DNA que a técnica precisa detectar."
+    },
+    {
+      "id": "fgv-biologia-6",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "texto_apoio": "Animais eurihalinos são aqueles que suportam transitar por ambientes com diferentes concentrações salinas. Um exemplo são os salmões, que eclodem seus ovos em água doce, migram para o mar e na época reprodutiva voltam aos rios para depositar seus ovos.",
+      "enunciado": "Ao longo do percurso de migração do mar para o rio, o salmão",
+      "alternativas": {
+        "a": "aumenta a ingestão de água.",
+        "b": "aumenta a excreção de sais pela urina.",
+        "c": "aumenta a absorção de sais pelas brânquias.",
+        "d": "reduz o volume de urina excretada.",
+        "e": "reduz a concentração de sais em suas brânquias."
+      },
+      "resposta": "c",
+      "explicacao": "No mar o peixe é hipotônico em relação à água e perde água o tempo todo; no rio o problema se inverte, porque a água entra por osmose e os sais tendem a sair. Subindo o rio, o salmão passa a captar sais ativamente pelas brânquias e a eliminar urina abundante e diluída. Alternativa C. A alternativa A aumenta a ingestão de água, que é comportamento de peixe marinho; B aumenta a excreção de sais pela urina, quando ele precisa retê-los; D reduz o volume de urina, e em água doce ele aumenta; e E reduz a atividade salina das brânquias, justamente o órgão que assume a captação."
+    },
+    {
+      "id": "fgv-biologia-7",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "A hipertensão pulmonar tromboembólica crônica (HPTEC) é uma doença vascular relativamente rara, resultante de um coágulo na artéria pulmonar. O que já está relativamente estabelecido sobre a doença é que, nos portadores, há uma disfunção nas células endoteliais dos vasos pulmonares que facilita a formação de coágulos, reduz o fluxo sanguíneo e sobrecarrega uma das câmaras do coração. (www.agencia.fapesp.br. Adaptado.)",
+      "enunciado": "A HPTEC é uma doença vascular associada a uma disfunção nas células do epitélio pavimentoso",
+      "alternativas": {
+        "a": "simples e que sobrecarrega o ventrículo direito do coração.",
+        "b": "estratificado e que sobrecarrega o ventrículo direito do coração.",
+        "c": "simples e que sobrecarrega o ventrículo esquerdo do coração.",
+        "d": "estratificado e que sobrecarrega o átrio esquerdo do coração.",
+        "e": "simples e que sobrecarrega o átrio esquerdo do coração."
+      },
+      "resposta": "a",
+      "explicacao": "O endotélio que reveste os vasos é epitélio pavimentoso simples — uma única camada de células achatadas, fina o bastante para as trocas. E o coágulo está na artéria pulmonar, que sai do ventrículo direito: é ele que passa a bombear contra resistência aumentada e se sobrecarrega. Alternativa A. As alternativas B e D chamam o endotélio de estratificado, o que impediria a troca gasosa; C e E mandam a sobrecarga para o lado esquerdo do coração, que recebe o sangue já oxigenado de volta dos pulmões e nada tem a ver com a artéria obstruída."
+    },
+    {
+      "id": "fgv-biologia-8",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "texto_apoio": "Em uma espécie de trigo, a intensidade da cor da casca do grão é determinada por dois pares de genes que interagem e segregam-se independentemente. Um pesquisador cruzou linhagens puras de trigo de sementes vermelho-escuras com linhagens puras de sementes brancas. As plantas que compunham a geração F1 resultante desse cruzamento foram intercruzadas.",
+      "enunciado": "Em relação à cor das sementes, a fração dos indivíduos em F2 que produzem apenas dois tipos de gametas geneticamente diferentes equivale a",
+      "alternativas": {
+        "a": "1/16",
+        "b": "1/8",
+        "c": "1/4",
+        "d": "1/2",
+        "e": "3/4"
+      },
+      "resposta": "d",
+      "explicacao": "A pergunta não é sobre cor, é sobre genótipo. Um indivíduo produz dois tipos de gameta quando é heterozigoto em exatamente um dos dois pares — se for heterozigoto nos dois produz quatro tipos, e se for homozigoto nos dois produz um só. Do cruzamento AaBb × AaBb saem, em dezesseis partes, quatro genótipos com heterozigose simples: AABb, aaBb, AaBB e Aabb, com duas partes cada. São 8 em 16, ou seja, 1/2 — alternativa D. A alternativa C, 1/4, conta só metade desses genótipos; A e B correspondem a frações de genótipos individuais; e E soma indevidamente os duplo-heterozigotos."
+    },
+    {
+      "id": "fgv-biologia-9",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "A meiose foi proposta pela primeira vez em 1885 por Friedrich Leopold August Weismann como justificativa para a manutenção do número de cromossomos nas espécies a cada geração. Lamarck e Darwin faleceram antes da divulgação da hipótese de Friedrich e, portanto, não tiveram a oportunidade de compreender os fundamentos desse processo de divisão celular.",
+      "enunciado": "Em relação às ideias evolucionistas de Lamarck e Darwin, a meiose justifica",
+      "alternativas": {
+        "a": "o fenômeno de hipertrofia de estruturas corporais frequentemente utilizadas.",
+        "b": "o surgimento de novas características entre indivíduos de uma população.",
+        "c": "a ocorrência de características diferentes entre indivíduos de uma população.",
+        "d": "a transmissão das características desenvolvidas por um indivíduo aos seus descendentes.",
+        "e": "a adaptação das espécies diante das modificações ambientais."
+      },
+      "resposta": "c",
+      "explicacao": "A meiose embaralha o que já existe: separa os homólogos ao acaso e permuta pedaços entre eles, de modo que cada gameta leva uma combinação diferente. Isso explica por que os indivíduos de uma população não são iguais entre si — a variabilidade que Darwin precisava supor para que a seleção tivesse sobre o que agir. Alternativa C. A alternativa B fala em surgimento de características NOVAS, que é mutação e não recombinação; A e D reproduzem Lamarck, com hipertrofia pelo uso e transmissão do adquirido; e E chama a adaptação de consequência direta da meiose, quando ela depende da seleção operando sobre a variação."
+    },
+    {
+      "id": "fgv-biologia-10",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "texto_apoio": "Em uma ilha, a cada 1 000 formigas de certa espécie, 160 são homozigóticas dominantes para determinada característica. Sabe-se que as frequências alélicas se mantêm em equilíbrio ao longo tempo.",
+      "enunciado": "Estes números sugerem que, na população de formigas desta ilha, a quantidade",
+      "alternativas": {
+        "a": "de alelos recessivos é menor que a de alelos dominantes.",
+        "b": "de alelos recessivos é igual à de alelos dominantes.",
+        "c": "de indivíduos homozigóticos recessivos é maior que a de heterozigóticos.",
+        "d": "de indivíduos homozigóticos recessivos é menor que a de homozigóticos dominantes.",
+        "e": "de indivíduos homozigóticos recessivos é maior que a de homozigóticos dominantes."
+      },
+      "resposta": "e",
+      "explicacao": "Com as frequências em equilíbrio, a proporção de homozigotos dominantes é p². Como 160 em 1 000 são homozigotos dominantes, p² = 0,16 e p = 0,4; logo q = 0,6, e os homozigotos recessivos são q² = 0,36, ou 360 indivíduos. São mais que os 160 dominantes — alternativa E. A alternativa D afirma o contrário; A e B comparam alelos e erram, porque o alelo recessivo é o mais frequente (0,6 contra 0,4); e C compara recessivos com heterozigotos, que são 2pq = 0,48, ou 480 indivíduos, ainda mais numerosos que os 360."
+    },
+    {
+      "id": "fgv-biologia-11",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2021.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "Uma cadeia alimentar marinha é constituída por cinco níveis tróficos e a espécie do topo dessa cadeia é consumida por humanos. Um poluente inorgânico, que é absorvido por tecidos de muitos seres marinhos, foi descartado inadequadamente no oceano.",
+      "enunciado": "Esse poluente apresentará maior risco à saúde dos humanos se o seu ingresso nessa cadeia alimentar marinha ocorrer através dos",
+      "alternativas": {
+        "a": "produtores.",
+        "b": "consumidores primários.",
+        "c": "consumidores secundários.",
+        "d": "consumidores terciários.",
+        "e": "consumidores quaternários."
+      },
+      "resposta": "a",
+      "explicacao": "Poluente que se acumula em tecido não é diluído ao subir a cadeia: ele se concentra, porque cada nível come muitos indivíduos do nível de baixo. Quanto mais níveis o poluente atravessar até chegar à espécie do topo, maior a magnificação — e a rota mais longa é a que começa nos produtores, o primeiro dos cinco níveis. Alternativa A. As demais encurtam o caminho: entrando pelos consumidores primários sobram quatro níveis, pelos secundários três, e assim por diante, até os quaternários (E), que estão logo abaixo do topo e quase não deixam espaço para acumular."
+    },
+    {
+      "id": "fgv-biologia-12",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2021.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "texto_apoio": "Uma grande área na floresta amazônica foi devastada devido à ação antrópica. Para que essa área seja recuperada naturalmente é necessário que o processo de sucessão ecológica se estabeleça.",
+      "enunciado": "Um dos indicativos ecológicos quantitativos que poderá ser constatado ao longo desse processo é",
+      "alternativas": {
+        "a": "a redução das relações ecológicas interespecíficas.",
+        "b": "o aumento da produtividade primária líquida.",
+        "c": "a redução do número de comunidades integradas.",
+        "d": "o aumento da sobreposição de nichos ecológicos.",
+        "e": "o aumento do número de espécies em relação à área vizinha não devastada."
+      },
+      "resposta": "d",
+      "explicacao": "Ao longo da sucessão a comunidade ganha espécies e ganha ligações: as teias alimentares ficam mais ramificadas e mais espécies passam a explorar recursos parecidos, o que aumenta a sobreposição de nichos. Alternativa D. A alternativa A prevê redução das relações interespecíficas, e elas se multiplicam; C fala em menos comunidades integradas, quando a integração cresce; E promete mais espécies que na área vizinha intacta, e o teto da sucessão é justamente a comunidade clímax vizinha; e B, a produtividade primária líquida, sobe no começo mas cai à medida que a comunidade amadurece, então não serve como indicativo do processo inteiro."
+    },
+    {
+      "id": "fgv-biologia-13",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2021.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "texto_apoio": "Pesquisadores cultivaram um calo vegetal em meio contendo uracila marcada radioativamente. Após alguns dias, as células do calo foram analisadas ao microscópio para identificação de estruturas celulares que continham polímeros com uracila radioativa.",
+      "enunciado": "Os polímeros marcados foram encontrados em estruturas celulares como",
+      "alternativas": {
+        "a": "núcleo, vacúolo, cloroplastos e lisossomos.",
+        "b": "núcleo, vacúolo e retículo endoplasmático agranular.",
+        "c": "núcleo, complexo golgiense e retículo endoplasmático agranular.",
+        "d": "nucléolo, mitocôndrias, cloroplastos e retículo endoplasmático granular.",
+        "e": "nucléolo, mitocôndrias, complexo golgiense e retículo endoplasmático granular."
+      },
+      "resposta": "d",
+      "explicacao": "Uracila é base exclusiva do RNA, então o que ficou marcado foi RNA. Ele é produzido no nucléolo (RNA ribossômico), existe nas mitocôndrias e nos cloroplastos, que têm material genético e ribossomos próprios, e cobre o retículo endoplasmático granular, cujos grânulos são justamente ribossomos. Alternativa D. As alternativas A, B e C listam estruturas sem RNA: vacúolo, lisossomo, complexo golgiense e retículo agranular são compartimentos de armazenamento, digestão e síntese de lipídios, e não contêm ribossomo. A alternativa E acerta quase tudo mas inclui o complexo golgiense."
+    },
+    {
+      "id": "fgv-biologia-14",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2021.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "Um mergulhador profissional pretende montar um grande aquário em sua casa contendo apenas uma espécie de cnidário do gênero Obelia. Nessa espécie, o ciclo reprodutivo ocorre com alternância de gerações (metagênese). O mergulhador tem a intenção de formar uma população de cnidários com indivíduos geneticamente uniformes em seu aquário.",
+      "enunciado": "Para garantir essa uniformidade genética, o mergulhador deve coletar em mar aberto",
+      "alternativas": {
+        "a": "apenas duas medusas de sexos opostos.",
+        "b": "um único pólipo adulto.",
+        "c": "uma única éfira.",
+        "d": "vários óvulos e espermatozoides.",
+        "e": "diversas larvas plânulas."
+      },
+      "resposta": "b",
+      "explicacao": "Na metagênese da Obelia, o pólipo é a fase que se reproduz assexuadamente, por brotamento: cada broto é geneticamente idêntico ao pólipo que o originou. Levar um único pólipo adulto para o aquário produz, portanto, uma colônia de clones. Alternativa B. As alternativas A, D e E passam por reprodução sexuada — medusas de sexos opostos, gametas e larvas plânulas resultam de fecundação e geram variabilidade; e C cita a éfira, que é a fase jovem da medusa dos cifozoários e nem sequer ocorre no ciclo da Obelia."
+    },
+    {
+      "id": "fgv-biologia-15",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2021.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "Os vírus são entidades biológicas que infectam células e se reproduzem rapidamente utilizando a maquinaria bioquímica celular.",
+      "enunciado": "Para alcançar o citoplasma, necessitam transpor as fronteiras da célula, que muitas vezes apresenta restrições naturais à entrada do vírus, como",
+      "alternativas": {
+        "a": "a presença de anticorpos aderidos externamente à membrana plasmática.",
+        "b": "a liberação de enzimas que digerem e desmontam a cápsula proteica do vírus.",
+        "c": "a diferença conformacional entre a membrana plasmática e o envelope viral.",
+        "d": "o mecanismo de endocitose realizado por movimentos da membrana celular.",
+        "e": "a incompatibilidade de ligação entre proteínas superficiais do vírus e da célula."
+      },
+      "resposta": "e",
+      "explicacao": "A entrada de um vírus depende de encaixe: proteínas da superfície viral têm de reconhecer receptores específicos da membrana da célula. Onde esse encaixe não existe, o vírus simplesmente não entra — é o que define o tropismo, a razão de um vírus infectar um tecido e não outro. Alternativa E. A alternativa A põe anticorpos aderidos à membrana como barreira natural da célula, e anticorpos são produto do sistema imune, não da célula-alvo; B descreve digestão do capsídeo, que ocorre depois da entrada; C fala em diferença conformacional entre membrana e envelope; e D chama a endocitose de restrição, quando ela é uma das vias de entrada."
+    },
+    {
+      "id": "fgv-biologia-16",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2021.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "texto_apoio": "Uma planta umbrófila e outra heliófila apresentam a mesma taxa de respiração celular e diferentes pontos de compensação fóticos (PCF).",
+      "enunciado": "A produção de gás oxigênio será máxima em ambas as plantas se receberem luz com intensidade",
+      "alternativas": {
+        "a": "acima do PCF da planta heliófila.",
+        "b": "abaixo do PCF da planta umbrófila.",
+        "c": "entre os PCF das duas plantas.",
+        "d": "equivalente ao PCF da planta heliófila.",
+        "e": "equivalente ao PCF da planta umbrófila."
+      },
+      "resposta": "a",
+      "explicacao": "No ponto de compensação fótico a fotossíntese apenas iguala a respiração, e o saldo de oxigênio é zero; acima dele a planta produz mais do que consome. A heliófila exige mais luz e tem, portanto, o PCF mais alto — então só acima DELE as duas plantas estão simultaneamente produzindo. Alternativa A. Abaixo do PCF da umbrófila (B) nenhuma das duas produz saldo; entre os dois PCF (C) só a umbrófila produz; e nos valores iguais a um dos PCF (D, E) a planta correspondente está exatamente no equilíbrio, com saldo nulo."
+    },
+    {
+      "id": "fgv-biologia-17",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2021.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "texto_apoio": "Uma mulher grávida teve que retirar os dois ovários na vigésima oitava semana após a ovulação.",
+      "enunciado": "A gestação da criança foi mantida naturalmente após o procedimento porque",
+      "alternativas": {
+        "a": "a concentração de HCG no sangue materno já estava constante.",
+        "b": "o estrógeno e a progesterona continuaram sendo produzidos pela placenta.",
+        "c": "a ausência do corpo lúteo ovariano foi compensada pela ação do HCG.",
+        "d": "a hipófise manteve a produção dos dois hormônios que mantêm o endométrio.",
+        "e": "as tubas uterinas mantiveram a produção de progesterona e HCG."
+      },
+      "resposta": "b",
+      "explicacao": "Nas primeiras semanas quem sustenta o endométrio é o corpo lúteo do ovário, mantido pelo HCG. A partir do terceiro mês a placenta assume a produção de estrógeno e progesterona, e o ovário deixa de ser necessário — por isso uma ooforectomia na vigésima oitava semana não interrompe a gravidez. Alternativa B. A alternativa A confunde constância de HCG com suficiência hormonal; C faz o HCG substituir o corpo lúteo, quando ele apenas o estimula e nesse momento já está em queda; D atribui à hipófise a produção de estrógeno e progesterona, que ela regula mas não fabrica; e E dá essa função às tubas uterinas, que só conduzem o gameta."
+    },
+    {
+      "id": "fgv-biologia-18",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2021.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "O Homo sapiens apresenta parentesco evolutivo com os macacos da superfamília Hominoidea. Esses macacos não possuem cauda e são rotulados como antropoides devido a diversas semelhanças anatômicas, fisiológicas e moleculares com a espécie humana. No entanto, as diferenças anatômicas entre o H. sapiens e os demais hominoideos são evidentes.",
+      "enunciado": "Por exemplo, em comparação aos humanos, os demais hominoideos apresentam",
+      "alternativas": {
+        "a": "menor volume da caixa craniana.",
+        "b": "membros inferiores mais longos que os superiores.",
+        "c": "ossos maiores e maior massa corporal.",
+        "d": "dedos dos pés mais curtos.",
+        "e": "mandíbulas menores e projetadas."
+      },
+      "resposta": "a",
+      "explicacao": "A encefalização é a diferença anatômica mais marcada entre o Homo sapiens e os demais hominoideos: nossa caixa craniana abriga cerca de 1 350 cm³, contra 400 a 500 cm³ de gorilas e chimpanzés. Alternativa A. A alternativa B inverte a proporção dos membros, pois é nos demais hominoideos que os braços são mais longos que as pernas, adaptação à braquiação; C generaliza massa e ossos maiores, o que vale para o gorila mas não para o gibão; D encurta os dedos dos pés deles, quando são longos e preênseis; e E os dá mandíbulas menores, sendo o prognatismo e a mandíbula robusta justamente o que os distingue de nós."
     }
   ]
 }

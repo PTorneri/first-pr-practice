@@ -2043,6 +2043,17 @@ const REVISADAS = {
   "fuvest-ingles-41": "ingles-main-idea",
   "fuvest-interpretacao-texto-15": "interpretacao-ideia-central",
 
+  // FGV/EESP 2022.1 e 2021.1, bloco de Biologia -- 5 pinos em 18 (28%). O
+  // rival e sempre o mesmo: biologia-citologia puxa qualquer questao que
+  // cite membrana, meiose ou fotossintese, mesmo quando o que se cobra e
+  // osmorregulacao do salmao, ponto de compensacao fotico ou o papel da
+  // meiose na variabilidade que Darwin precisava supor.
+  "fgv-biologia-2": "biologia-fisiologia",
+  "fgv-biologia-5": "biologia-genetica",
+  "fgv-biologia-6": "biologia-fisiologia",
+  "fgv-biologia-9": "biologia-evolucao",
+  "fgv-biologia-16": "biologia-fisiologia",
+
 };
 
 // ------------------------------------------------------------------- classificação

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-17",
  "frente": "quimica",
- "total": 549,
+ "total": 567,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -3261,6 +3261,108 @@
    "frenteDestino": "quimica",
    "pontos": 13,
    "margem": 13
+  },
+  "fgv-quimica-1": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "fgv-quimica-2": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "fgv-quimica-3": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fgv-quimica-4": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fgv-quimica-5": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fgv-quimica-6": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 5
+  },
+  "fgv-quimica-7": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fgv-quimica-8": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fgv-quimica-9": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fgv-quimica-10": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fgv-quimica-11": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fgv-quimica-12": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fgv-quimica-13": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fgv-quimica-14": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fgv-quimica-15": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "fgv-quimica-16": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fgv-quimica-17": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "fgv-quimica-18": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 14,
+   "margem": 14
   }
  }
 }

@@ -2054,6 +2054,26 @@ const REVISADAS = {
   "fgv-biologia-9": "biologia-evolucao",
   "fgv-biologia-16": "biologia-fisiologia",
 
+
+  // FGV/EESP 2022.1 e 2021.1, bloco de Química -- 5 pinos em 18 (28%), a mesma
+  // taxa da Biologia. A separação de misturas do lixo eletrônico e a
+  // transmutação dos alquimistas caíram em eletroquímica por "eletrostática" e
+  // "elétrons"; a rocha fosfática foi para equilíbrio ácido-base pelos dois
+  // ácidos do enunciado, sendo questão de fases e de eletrosfera; a
+  // concentração de cálcio no cereal foi para estequiometria pela massa molar,
+  // sendo mol por litro; e os minérios (hematita, cassiterita, bauxita) não
+  // pontuaram em regra nenhuma -- empate em zero, que sem pino cai no subtema
+  // padrão da frente.
+  "fgv-quimica-3": "quimica-solucoes",
+  "fgv-quimica-7": "quimica-atomistica-ligacoes",
+  "fgv-quimica-9": "quimica-atomistica-ligacoes",
+  "fgv-quimica-11": "quimica-solucoes",
+  "fgv-quimica-16": "quimica-atomistica-ligacoes",
+  // Transformacao isovolumetrica: nao ha subtema de gases na frente, e a
+  // questao caiu em atomistica pelo vocabulario de temperatura e pressao.
+  // Estequiometria e onde as leis dos gases ja moram no banco.
+  "fgv-quimica-12": "quimica-estequiometria",
+
 };
 
 // ------------------------------------------------------------------- classificação

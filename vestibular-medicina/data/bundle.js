@@ -13137,6 +13137,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O frasco corrói se o metal for oxidado pelo Cu²⁺ da solução, e isso acontece sempre que seu potencial de redução for menor que o do cobre, +0,34 V. Alumínio (−1,66), zinco (−0,76) e chumbo (−0,13) estão todos abaixo: os três seriam consumidos, depositando cobre metálico. Só a prata, com +0,80 V, está acima e não reage — alternativa D. A alternativa B junta exatamente os três que corroem; A e C incluem parte deles; e E descarta também a prata, ignorando que um potencial maior que o do cobre é justamente a condição de estabilidade."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "fgv-quimica-5",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "A segunda etapa do processo pirometalúrgico de obtenção do zinco é representada pela equação:\nZnO(s) + C(s) → Zn(s) + CO(g)",
+   "enunciado": "Na segunda etapa da reação de obtenção do zinco metálico por pirometalurgia,",
+   "alternativas": {
+    "a": "o óxido de zinco é oxidado e o oxigênio mantém seu número de oxidação.",
+    "b": "o óxido de zinco é reduzido e o zinco adquire número de oxidação +2.",
+    "c": "o carbono é o agente redutor e adquire número de oxidação +2.",
+    "d": "o óxido de zinco é o agente redutor e o zinco cede elétrons.",
+    "e": "o carbono é reduzido e ganha quatro elétrons."
+   },
+   "resposta": "c",
+   "explicacao": "Acompanhe os números de oxidação. O zinco entra como Zn²⁺ no óxido e sai como metal, com Nox zero: ganhou elétrons, foi reduzido. O carbono entra como substância simples, Nox zero, e sai no CO com Nox +2: perdeu elétrons, foi oxidado — e quem se oxida é o agente redutor. Alternativa C. A alternativa A diz que o óxido de zinco é oxidado, invertendo; B acerta a redução do óxido mas dá ao zinco produto o Nox +2, que era o de partida; D chama o óxido de agente redutor e faz o zinco ceder elétrons; e E reduz o carbono, quando ele é oxidado."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "fgv-quimica-6",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "Uma das formas de obtenção do zinco metálico envolve o processo de hidrometalurgia. Esse processo visa a produção de uma solução de sulfato de zinco livre de impurezas e a posterior deposição do zinco metálico por eletrólise. Essa solução passa por uma eletrólise, normalmente com uma corrente de 600 A, e o zinco (massa molar = 65,4 g · mol-1) é reduzido no cátodo conforme a equação: Zn2+ + 2e– Zn",
+   "enunciado": "Considerando que 1 Faraday corresponde à carga de 96 500 C, a produção de 450 g de zinco metálico por eletrólise ocorrerá, aproximadamente, após",
+   "alternativas": {
+    "a": "3,3 x 103 s.",
+    "b": "2,2 x 103 s.",
+    "c": "2,2 x 102 s.",
+    "d": "1,1 x 103 s.",
+    "e": "1,1 x 102 s."
+   },
+   "resposta": "b",
+   "explicacao": "A eletrólise é contabilidade de carga. Depositar 450 g de zinco significa reduzir 450/65,4 ≈ 6,88 mol, e como cada Zn²⁺ precisa de dois elétrons, são 13,76 mol de elétrons. Multiplicando por 96 500 C, a carga necessária é cerca de 1,33×10⁶ C; dividida pela corrente de 600 A, dá aproximadamente 2 200 s, ou 2,2×10³ — alternativa B. A alternativa D, 1,1×10³, esquece que a redução consome dois elétrons por íon; A sai de trocar a massa molar; e C e E erram a potência de dez ao dividir pela corrente."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "fgv-quimica-17",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2021.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "Células a combustível são dispositivos eletroquímicos que convertem energia química em energia elétrica. Elas funcionam como as pilhas convencionais, mas com alimentação contínua dos reagentes diretamente nos compartimentos eletródicos. Um reagente promissor para esses dispositivos é a ureia [(NH2)2CO], que está presente na urina humana e pode ser obtida em esgotos. As semirreações de uma célula a combustível de ureia e seus potenciais-padrão de redução são:\n(NH2)2CO + 6 KOH → N2 + CO2 + 5 H2O + 6 e⁻ + 6 K⁺ ... E° = −0,751 V\nH2O2 + 2 e⁻ + 2 K⁺ → 2 KOH ... E° = +0,88 V",
+   "enunciado": "O potencial-padrão dessa célula a combustível e todos os produtos da reação global são, respectivamente,",
+   "alternativas": {
+    "a": "+1,63 V; N2, CO2, H2O.",
+    "b": "+1,63 V; N2, CO2, H2O e H2O2.",
+    "c": "+3,52 V; N2, CO2, H2O e KOH.",
+    "d": "+3,52 V; N2, CO2, H2O.",
+    "e": "+3,52 V; N2, CO2, H2O e H2O2."
+   },
+   "resposta": "a",
+   "explicacao": "O potencial da célula é a diferença entre o do eletrodo que reduz e o do que oxida: 0,88 − (−0,751) = 1,631 V, ou seja, +1,63 V. Para os produtos, some as duas semirreações depois de igualar os elétrons — o KOH aparece dos dois lados e se cancela, assim como o peróxido, que é consumido. Sobram nitrogênio, gás carbônico e água. Alternativa A. As alternativas C, D e E somam os dois potenciais em vez de subtrair, chegando a 3,52 V; B e E mantêm o peróxido entre os produtos, quando ele é reagente; e C mantém o KOH, que se cancela."
   }
  ],
  "quimica-atomistica-ligacoes": [
@@ -14707,6 +14767,146 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O que sustenta a forma tridimensional de uma proteína são interações fracas, e entre elas as que agrupam as regiões apolares longe da água. A cauda hidrofóbica do surfactante se encaixa justamente aí, afrouxa esse arranjo e muda a conformação do receptor — que, sem função, deixa de reconhecer o sabor. Como nenhuma ligação covalente se rompe, o efeito passa: alternativa C, e o \"por um breve período\" do texto confirma. A alternativa A põe a interação nas regiões hidrofílicas; B fala em desnaturação irreversível; D em ruptura de ligações covalentes da estrutura primária; e E na dissociação dos aminoácidos, que também exigiria quebrar ligações peptídicas."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fgv-quimica-2",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Os componentes microeletrônicos e a fiação de um smartphone são compostos principalmente por cobre, ouro e prata. Devido a essa composição surgiu a ideia de se utilizar smartphones usados para a reciclagem de metais na fabricação de medalhas olímpicas.",
+   "enunciado": "Esses metais apresentam alta condutividade elétrica devido",
+   "alternativas": {
+    "a": "à sua densidade elevada.",
+    "b": "aos elétrons de valência móveis.",
+    "c": "aos seus elevados pontos de fusão e ebulição.",
+    "d": "às ligações covalentes estabelecidas entre os átomos metálicos.",
+    "e": "à sua maleabilidade e ductibilidade."
+   },
+   "resposta": "b",
+   "explicacao": "No metal os elétrons de valência não pertencem a átomo nenhum: eles formam a nuvem que envolve os cátions do retículo, e é essa mobilidade que permite a corrente atravessar o sólido. Alternativa B. As demais listam propriedades que os metais de fato têm, mas que não explicam a condução: densidade elevada (A) e pontos de fusão altos (C) decorrem do empacotamento e da força da ligação metálica, e maleabilidade e ductilidade (E) decorrem de os planos de átomos deslizarem sem romper a nuvem. A alternativa D erra o tipo de ligação, chamando de covalente o que é ligação metálica."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fgv-quimica-7",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Assim como alguns atletas olímpicos, os alquimistas eram fascinados pelo ouro, o que gerou sua intensa busca por reações químicas que transformassem outros metais em ouro, um processo denominado transmutação. Com a evolução da química, firmada no conhecimento científico moderno,",
+   "enunciado": "constatou-se que a transmutação dos elementos é impossível de ser realizada por meio de reações químicas, pois não se altera",
+   "alternativas": {
+    "a": "o número de oxidação dos elementos.",
+    "b": "o núcleo dos átomos.",
+    "c": "a massa dos átomos.",
+    "d": "a quantidade total de elétrons.",
+    "e": "o orbital dos átomos."
+   },
+   "resposta": "b",
+   "explicacao": "O que define o elemento é o número de prótons, e reação química mexe apenas na eletrosfera: os átomos trocam ou compartilham elétrons e mudam de substância, nunca de identidade. Transmutar exigiria alterar o núcleo, o que só ocorre em reação nuclear. Alternativa B. A alternativa A cita o número de oxidação, que muda o tempo todo em reação química; D fala na quantidade total de elétrons, que também muda quando há oxirredução; E cita o orbital, e a distribuição eletrônica se reorganiza a cada ligação; e C menciona a massa, que numa reação química se conserva no conjunto mas não é o que fixa o elemento."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fgv-quimica-8",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Alguns historiadores da ciência atribuem a Rutherford a façanha da primeira transmutação artificial da história. Embora não tenha realizado o sonho dos alquimistas de transformar metais menos nobres em ouro, Rutherford conseguiu transmutar um átomo de nitrogênio em oxigênio pelo bombardeamento de partículas alfa, com liberação de uma partícula X.",
+   "enunciado": "Nessa transmutação, X corresponde",
+   "alternativas": {
+    "a": "a um próton.",
+    "b": "a uma partícula beta.",
+    "c": "a uma emissão gama.",
+    "d": "a um nêutron.",
+    "e": "a um pósitron. Analise a fórmula da ostarina para responder as questões 44 e 45. ostarina"
+   },
+   "resposta": "a",
+   "explicacao": "Basta fechar a carga. O nitrogênio tem número atômico 7 e a partícula alfa, 2, somando 9; o oxigênio produzido tem 8, então X tem de carregar carga +1. Entre as opções, só o próton tem carga +1 e massa 1, que é o que também fecha o número de massa. Alternativa A. A partícula beta (B) tem carga −1; a emissão gama (C) não tem carga nem massa, e sozinha não equilibraria a conta; o nêutron (D) tem carga zero, o que deixaria o total em 9 contra 8; e o pósitron (E), embora tenha carga +1, tem massa desprezível e desequilibraria o número de massa."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fgv-quimica-9",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2021.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "O ácido fosfórico (H3PO4) é fabricado a partir da reação do ácido sulfúrico (H2SO4) com a rocha fosfática, que contém preponderantemente fosfato de cálcio (Ca3(PO4)2) e outros contaminantes, representados por seus óxidos.\n\nDados: Fe Z = 26; Aℓ Z = 13; Mg Z = 12.",
+   "enunciado": "A classificação do produto obtido nessa mistura reacional em relação às suas fases e o número total de elétrons do íon metálico bivalente dentre os cátions dos óxidos utilizados na formação da mistura reacional são",
+   "alternativas": {
+    "a": "heterogênea e 10.",
+    "b": "heterogênea e 12.",
+    "c": "heterogênea e 11.",
+    "d": "homogênea e 10.",
+    "e": "homogênea e 12."
+   },
+   "resposta": "a",
+   "explicacao": "Duas perguntas em uma. O ácido sulfúrico sobre o fosfato de cálcio produz sulfato de cálcio, que é pouco solúvel e precipita: o sistema fica com sólido em meio líquido, portanto heterogêneo. Quanto ao cátion, entre ferro, alumínio e magnésio o único que forma íon bivalente estável é o magnésio; com Z = 12, o Mg²⁺ perde dois elétrons e fica com 10. Alternativa A. As alternativas D e E chamam a mistura de homogênea, ignorando o precipitado; B conta 12 elétrons, esquecendo a perda dos dois; e C chega a 11, como se o íon fosse monovalente."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fgv-quimica-10",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2021.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "O ozônio é empregado como sanitizante em algumas estações de tratamento de água. No processo de desinfecção, o ozônio se decompõe em gás oxigênio e oxigênio atômico, o qual interage com os micro-organismos patogênicos provocando sua morte.",
+   "enunciado": "Considerando essas informações, a molécula de ozônio apresenta",
+   "alternativas": {
+    "a": "2 pares de elétrons compartilhados, geometria linear e atua como redutora no processo de desinfecção.",
+    "b": "2 pares de elétrons compartilhados, geometria linear e atua como oxidante no processo de desinfecção.",
+    "c": "3 pares de elétrons compartilhados, geometria angular e atua como oxidante no processo de desinfecção.",
+    "d": "3 pares de elétrons compartilhados, geometria angular e atua como redutora no processo de desinfecção.",
+    "e": "3 pares de elétrons compartilhados, geometria plana trigonal e atua como oxidante no processo de desinfecção."
+   },
+   "resposta": "c",
+   "explicacao": "O ozônio tem três átomos de oxigênio ligados em cadeia, com uma ligação simples e uma dupla que se alternam por ressonância: são três pares de elétrons compartilhados ao todo. O átomo central guarda um par não ligante, que repele as ligações e fecha o ângulo — daí a geometria angular, e não linear. E o papel na desinfecção é oxidar: o oxigênio atômico liberado retira elétrons das estruturas do micro-organismo. Alternativa C. A e B contam apenas dois pares e propõem geometria linear, que seria a de uma molécula sem par isolado no centro; D acerta estrutura e erra a função, chamando o ozônio de redutor; e E troca a geometria por trigonal plana, que exigiria quatro átomos."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fgv-quimica-13",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2021.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "Os radioisótopos samário-153 e iodo-131 decaem por emissão de partículas beta e são indicados para tratamento de tumores. Duas amostras de preparações farmacêuticas contendo, cada uma delas, um desses radioisótopos apresentaram no início do monitoramento a mesma atividade: 200 mBq. Passados quatro dias, a amostra com samário-153 apresentou atividade igual a 50 mBq, enquanto a amostra com iodo-131 só apresentou esse valor de atividade no décimo sexto dia após o início do monitoramento.",
+   "enunciado": "O produto de decaimento do samário-153 é o ________________ , e o tempo de meia-vida do iodo-131 corresponde a __________________ tempo de meia-vida do samário-153. Dados: Sm Z = 62 I Z = 53 As lacunas são preenchidas por:",
+   "alternativas": {
+    "a": "európio-153; quatro vezes o.",
+    "b": "európio-153; um quarto do.",
+    "c": "samário-154; um quarto do.",
+    "d": "samário-154; quatro vezes o.",
+    "e": "promécio-153; quatro vezes o."
+   },
+   "resposta": "a",
+   "explicacao": "Emissão beta converte um nêutron em próton: o número de massa fica igual e o número atômico sobe uma unidade. O samário-153 tem Z = 62, então o produto tem Z = 63 e massa 153 — o európio-153. Para as meias-vidas, ambas as amostras caem de 200 para 50 mBq, o que são duas meias-vidas; o samário levou 4 dias, logo 2 dias por meia-vida, e o iodo levou 16, logo 8 dias. Oito é quatro vezes dois. Alternativa A. B inverte a razão; C e D mantêm o samário como produto, o que exigiria que o número atômico não mudasse; e E dá promécio, que tem Z = 61 e resultaria de emissão de pósitron."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fgv-quimica-16",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2021.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "A mineração é uma das atividades econômicas mais significativas para o desenvolvimento do Brasil.",
+   "enunciado": "Dentre os minérios explorados no país estão a hematita, a cassiterita e a bauxita, que resultam, respectivamente, na produção de",
+   "alternativas": {
+    "a": "ferro, estanho e alumínio.",
+    "b": "ferro, cobre e alumínio.",
+    "c": "ferro, alumínio e estanho.",
+    "d": "alumínio, estanho e ferro.",
+    "e": "alumínio, cobre e ferro."
+   },
+   "resposta": "a",
+   "explicacao": "Os três nomes vêm dos metais que carregam. A hematita é óxido de ferro, e seu nome vem do grego para sangue, pela cor avermelhada do ferro oxidado. A cassiterita é óxido de estanho — o mesmo radical de \"cassiterídeos\", as ilhas do estanho da Antiguidade. E a bauxita, batizada em Les Baux, no sul da França, é a fonte do alumínio. Alternativa A. As demais embaralham os três: C troca estanho por alumínio, B põe cobre no lugar do estanho, e D e E ainda deslocam o ferro do primeiro para o último lugar."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -16211,6 +16411,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "pH 2 significa [H⁺] = 10⁻² mol/L, e em 0,400 L há 4×10⁻³ mol de H⁺. Cada Mg(OH)2 traz duas hidroxilas, então bastam 2×10⁻³ mol da base, que a 58 g/mol pesam 0,116 g, ou 116 mg. Na suspensão de 58 mg/mL, isso corresponde a 2 mL — alternativa B. A alternativa D, 4, é a resposta de quem esquece que o hidróxido de magnésio é uma base diácida e trata a neutralização como um para um; A vem de errar o volume do estômago; e C e E não correspondem a nenhum passo da conta."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "fgv-quimica-15",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2021.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "O Brasil é o 4º produtor mundial de água engarrafada e oferece no mercado produtos com diversas especificações. Uma determinada marca de água mineral exibe no rótulo de sua garrafa de 500 mL a informação: pH = 10 a 25 oC.",
+   "enunciado": "Considerando-se que a 25 oC o produto iônico da água (Kw) é igual a 1 × 10–14, as quantidades de íons H+ e de íons OH– presentes nessa garrafa de água são, respectivamente,",
+   "alternativas": {
+    "a": "5 mol e 2 mol.",
+    "b": "105 mol e 102 mol.",
+    "c": "5 × 1010 mol e 2 × 104 mol.",
+    "d": "1 × 10–11 mol e 4 × 10–4 mol.",
+    "e": "5 × 10–11 mol e 5 × 10–5 mol."
+   },
+   "resposta": "e",
+   "explicacao": "pH 10 significa concentração de H⁺ igual a 10⁻¹⁰ mol/L; pelo produto iônico, a de OH⁻ é 10⁻¹⁴/10⁻¹⁰ = 10⁻⁴ mol/L. A pergunta é por QUANTIDADE, não por concentração, então multiplica-se pelo volume de 0,5 L: 5×10⁻¹¹ mol de H⁺ e 5×10⁻⁵ mol de OH⁻ — alternativa E. A alternativa D dá as concentrações trocadas e sem multiplicar pelo volume; B e C invertem os sinais dos expoentes, o que daria quantidades gigantescas de íons numa garrafa de meio litro; e A confunde a quantidade de íons com o volume em litros."
   }
  ],
  "quimica-organica": [
@@ -19357,6 +19577,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "É crioscopia, e o dado que a aciona está no enunciado: quatro vezes mais sais que a água do mar. Partículas dissolvidas atrapalham a organização das moléculas de água na rede cristalina do gelo, e a temperatura de congelamento cai proporcionalmente à concentração — por isso os −7 °C. Alternativa A. A alternativa C inverte o efeito, elevando o ponto de congelamento; B supõe reação exotérmica do ferro com a água, e o ferro está apenas dissolvido; D atribui tudo à pressão da geleira, insuficiente sozinha para 7 graus; e E diz que a falta de oxigênio dificulta as ligações de hidrogênio, que se formam entre as próprias moléculas de água."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "fgv-quimica-3",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "O lixo eletrônico, também denominado e-lixo, é o tipo de lixo que mais cresce no fluxo de resíduos domésticos do mundo. Dados do relatório da ONU indicam que o mundo gerou algo em torno de 45 milhões de toneladas de e-lixo em 2016 e que somente 20% desse montante foi reciclado. Para se minimizar este problema socioambiental, especialistas defendem que os países invistam urgentemente na reciclagem do e-lixo. Há três tipos de reciclagem de equipamentos eletrônicos: mecânico, químico ou térmico. A reciclagem mecânica é uma das mais utilizadas e envolve as etapas descritas a seguir. • Divisão, por granulometria, dos fragmentos dos equipamentos. • Separação dos fragmentos em magnéticos e não magnéticos. • Divisão dos resíduos não magnéticos em condutores e não condutores de corrente elétrica.",
+   "enunciado": "As técnicas de separação de misturas utilizadas ao longo das etapas de reciclagem mecânica de eletrônicos são,",
+   "alternativas": {
+    "a": "peneiração, separação magnética e separação eletrostática.",
+    "b": "britagem, moagem e granulometria.",
+    "c": "filtração, separação magnética e eletrólise.",
+    "d": "peneiração, separação eletrostática e imantação.",
+    "e": "britagem, moagem e separação eletrostática."
+   },
+   "resposta": "a",
+   "explicacao": "Cada etapa nomeia a propriedade que separa. Dividir por granulometria é passar por malhas de aberturas diferentes: peneiração. Separar magnéticos de não magnéticos é aproximar um ímã: separação magnética. E dividir os não magnéticos entre condutores e não condutores usa a diferença de resposta a um campo elétrico: separação eletrostática. Alternativa A. Britagem e moagem (B, E) reduzem o tamanho, não separam; filtração (C) separa sólido de líquido, e não há líquido aqui; eletrólise (C) é reação, não separação física; e imantação (D) magnetiza um material em vez de separá-lo."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "fgv-quimica-11",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2021.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "A tabela de valores nutricionais de um cereal matinal informa que uma porção desse produto em 125 mL de leite desnatado contém 360 mg de cálcio.",
+   "enunciado": "Nessa preparação, a concentração de cálcio é Dado: massa molar Ca = 40 g/mol",
+   "alternativas": {
+    "a": "1,44 × 10–1 mol/L.",
+    "b": "1,44 × 10–2 mol/L.",
+    "c": "7,20 × 10–1 mol/L.",
+    "d": "7,20 × 10–2 mol/L.",
+    "e": "7,20 × 10–3 mol/L."
+   },
+   "resposta": "d",
+   "explicacao": "Concentração em mol por litro pede as duas conversões. Os 360 mg são 0,36 g, que a 40 g/mol dão 0,009 mol de cálcio; os 125 mL são 0,125 L. Dividindo, 0,009/0,125 = 0,072 mol/L, ou 7,2×10⁻² — alternativa D. A alternativa C, 7,2×10⁻¹, erra uma potência de dez na conversão do volume; E erra na conversão da massa; e A e B partem de dividir a massa por 25 em vez de 40, ou seja, usam a massa molar errada."
   }
  ],
  "quimica-estequiometria": [
@@ -20696,6 +20956,106 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A garrafa de 2 L traz 7,15 g de CO2 por litro, ou seja, 14,3 g, o que dá 14,3/44 ≈ 0,325 mol. Passando tudo à fase gasosa a 1 atm e 300 K, o volume é nRT/P = 0,325 × 0,082 × 300 ≈ 8 L. Comparado aos 2 L da garrafa, são 4 vezes — alternativa C. A alternativa B, 2 vezes, sai de usar só 7,15 g em vez dos 14,3 g dos dois litros; D e E vêm de erro na temperatura, usando 27 K ou esquecendo a conversão; e A ignora a expansão."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fgv-quimica-1",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Metaforicamente, muitos atletas olímpicos afirmam que ganhar uma medalha de ouro “tem um peso muito maior”. Ironicamente, dentre as três medalhas olímpicas, a medalha de ouro é a que, de fato, apresenta a maior massa, 556 g, dos quais 98,8% correspondem ao metal prata (massa molar = 107 g · mol-1) e 1,2% do metal ouro (massa molar = 197 g · mol-1).",
+   "enunciado": "Considerando a constante de Avogadro igual a 6 × 1023 mol-1, o número aproximado de átomos de prata e o número aproximado de átomos de ouro contidos em uma medalha olímpica de ouro são, respectivamente,",
+   "alternativas": {
+    "a": "3,1 x 1024 e 2,0 x 1022.",
+    "b": "3,3 x 1025 e 4,0 x 1024.",
+    "c": "5,5 x 1024 e 6,7 x 1022.",
+    "d": "1,2 x 1026 e 2,1 x 1023.",
+    "e": "1,1 x 1025 e 1,9 x 1022."
+   },
+   "resposta": "a",
+   "explicacao": "A conta é a mesma duas vezes: massa, mols, átomos. Da medalha de 556 g, 98,8% são prata — 549,3 g, que a 107 g/mol dão 5,13 mol e, multiplicados por 6×10²³, cerca de 3,1×10²⁴ átomos. Os 1,2% de ouro são 6,7 g, que a 197 g/mol dão 0,034 mol e cerca de 2,0×10²² átomos. Alternativa A. As demais correspondem a erros de uma etapa: B e D esquecem de dividir pela massa molar, usando a massa direto; C troca as porcentagens entre os dois metais; e E aplica a porcentagem à massa molar em vez de à massa da medalha."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fgv-quimica-4",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "O metal zinco (Zn) compõe 5% da massa da medalha olímpica de bronze (450 g) e pode ser extraído da esfalerita, minério constituído pelo sulfeto de zinco (ZnS), mediante processo pirometalúrgico, que envolve as reações representadas pelas equações:\n2 ZnS(s) + 3 O2(g) → 2 ZnO(s) + 2 SO2(g)\nZnO(s) + C(s) → Zn(s) + CO(g)",
+   "enunciado": "Considerando as massas molares Zn = 65,4 g · mol-1, S = 32 g · mol-1 e que as reações do processo pirometalúrgico tenham 100% de rendimento, a massa de sulfeto de zinco, em quilogramas, necessária para a produção das cerca de 400 medalhas de bronze distribuídas nas olímpiadas de Tóquio foi de",
+   "alternativas": {
+    "a": "65,4.",
+    "b": "18,0.",
+    "c": "13,4.",
+    "d": "9,00.",
+    "e": "6,70."
+   },
+   "resposta": "c",
+   "explicacao": "Todo o zinco das medalhas vem do ZnS, e a proporção entre os dois é de um para um. Primeiro a massa de zinco: 400 medalhas de 450 g com 5% dão 400 × 22,5 = 9 000 g. Isso são 9 000/65,4 ≈ 137,6 mol de zinco e, portanto, 137,6 mol de ZnS. Como a massa molar do ZnS é 65,4 + 32 = 97,4 g/mol, chega-se a 137,6 × 97,4 ≈ 13 400 g, ou 13,4 kg — alternativa C. A alternativa D, 9,00, é a massa de zinco puro, parando uma etapa antes; E e B saem de trocar a porcentagem ou a massa molar; e A repete o valor da massa molar do zinco."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fgv-quimica-12",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2021.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "Em um procedimento de destilação cujo objetivo era recolher o produto em temperaturas baixas, o recipiente de coleta, submetido inicialmente a 1 atm e à temperatura de 27 ºC, foi mergulhado em um frasco construído com isolamento térmico contendo nitrogênio líquido à temperatura de −196 ºC.",
+   "enunciado": "Após alcançado o equilíbrio térmico no interior do recipiente de coleta, o valor percentual da pressão em seu interior, em relação à pressão inicial, será, aproximadamente,",
+   "alternativas": {
+    "a": "14%.",
+    "b": "26%.",
+    "c": "38%.",
+    "d": "50%.",
+    "e": "77%."
+   },
+   "resposta": "b",
+   "explicacao": "O recipiente é fechado e rígido, então o volume não muda e a pressão acompanha a temperatura absoluta. Convertendo: 27 ºC são 300 K e −196 ºC são 77 K. A razão 77/300 vale cerca de 0,26, ou seja, a pressão final é aproximadamente 26% da inicial — alternativa B. A alternativa A, 14%, sairia de usar uma temperatura ainda menor; C e D correspondem a razões que nenhuma das duas temperaturas produz; e E, 77%, é o erro de tomar o número 77 como a própria porcentagem, esquecendo de dividi-lo por 300."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fgv-quimica-14",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2021.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "O hipoclorito de sódio pode ser obtido na forma de sal penta-hidratado (NaCℓO·5H2O) por meio do borbulhamento do gás cloro em uma solução aquosa de hidróxido de sódio, de acordo com a equação não balanceada:\nCℓ2(g) + NaOH(aq) + H2O(ℓ) → NaCℓO·5H2O(s) + NaCℓ(s)",
+   "enunciado": "Na preparação de 1 mol de hipoclorito de sódio penta-hidratado, a quantidade de água que reage e a quantidade de cloreto de sódio que se forma são, respectivamente,",
+   "alternativas": {
+    "a": "4 mol e 1 mol.",
+    "b": "4 mol e 2 mol.",
+    "c": "4 mol e 3 mol.",
+    "d": "5 mol e 2 mol.",
+    "e": "5 mol e 1 mol."
+   },
+   "resposta": "a",
+   "explicacao": "Balanceando: Cℓ2 + 2 NaOH + 4 H2O → NaCℓO·5H2O + NaCℓ. Confira pelos átomos — sódio, 2 de cada lado; cloro, 2 de cada lado; hidrogênio, 2 do NaOH mais 8 das quatro águas, dez, contra as dez do sal penta-hidratado; oxigênio, 2 mais 4, seis, contra 1 mais 5. Logo, para 1 mol do sal, reagem 4 mol de água e forma-se 1 mol de cloreto de sódio: alternativa A. A armadilha é a alternativa E, que lê o \"5\" da fórmula do hidrato como se fosse o coeficiente da água que reage — mas uma das cinco águas de hidratação é a que a própria reação produz. B e C acertam a água e erram o cloreto; D erra os dois."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fgv-quimica-18",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2021.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "O carbeto de cálcio (CaC2) pode ser preparado a partir da reação entre o óxido de cálcio (CaO) e carbono de alta pureza, em condições de atmosfera controlada em altas temperaturas, de acordo com a equação:\nCaO(s) + 3 C(s) → CaC2(s) + CO(g)\n\nDados: massa molar C = 12 g/mol; O = 16 g/mol; Ca = 40 g/mol.",
+   "enunciado": "Em um experimento em um reator aberto, verificou-se que a diferença entre a massa da mistura reacional e a massa do conteúdo no reator ao término da reação foi 1 400 g. A massa de carbono que reagiu foi igual a",
+   "alternativas": {
+    "a": "700 g.",
+    "b": "1 200 g.",
+    "c": "1 800 g.",
+    "d": "2 400 g.",
+    "e": "3 600 g."
+   },
+   "resposta": "c",
+   "explicacao": "O reator é aberto, então o único produto que escapa é o gás: a massa perdida é a massa de monóxido de carbono liberado. Com massa molar 28 g/mol, 1 400 g correspondem a 50 mol de CO. A equação mostra 3 mol de carbono para cada 1 mol de CO, logo reagiram 150 mol de carbono, que a 12 g/mol pesam 1 800 g — alternativa C. A alternativa A, 700 g, resulta de tomar a massa perdida como se fosse a do próprio carbono e dividi-la por dois; B ignora o coeficiente 3; D e E multiplicam por 4 ou por 6 em vez de 3."
   }
  ],
  "quimica-termoquimica-cinetica": [

@@ -205,7 +205,10 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | **1 — total** | **FGV Unificado 2023.1, sessão completa, 4 cadernos** | **105** | **feito** |
 | 5a | **ITA 2024** — banca nova, trilha de Engenharia | 34 | **feito** (`c25242a`) |
 | 5b | **Mauá** — 92 das 95 aprovadas, as três provas | 92 | **feito** (`9c4587b` … `a546661`) |
-| 2 | FGV 2022.1 + 2021.1 — 270 questões, 217 candidatas de texto puro | 270 | **próxima** |
+| 2a | FGV 2022.1 + 2021.1 — Biologia | 18 de 30 | **feito** (`1636220`) |
+| 2b | FGV 2022.1 + 2021.1 — Química | 18 de 30 | **feito** (`9b4ca41`) |
+| 2c–2g | Física, História, Geografia, Inglês, Português, Matemática | ~110 | **próxima** |
+| **2 — geral** | **FGV 2022.1 + 2021.1: 270 questões nos seis cadernos** | **36 até agora** | |
 | 3 | As 113 FGV já transcritas — recuperar o texto de apoio | 113 | |
 | 4 | Insper 2026.1, 2026.1 v.2 e 2026.2 (destravado) | 91+ | |
 | 5d | ITA 2023 e 2026 — os dois cadernos nunca minerados | ~120 | |
@@ -471,6 +474,19 @@ faixas observadas são contíguas, então `min..max` dos números da frase cobre
 quatro formas. São 18 textos-base servindo 47 questões; sem capturá-los,
 metade do bloco de Inglês fica com enunciado falando do "second paragraph" de
 um texto ausente.
+
+**A triagem automática subestima a dependência de figura.** O filtro por
+ponteiro ("analise o mapa", "observe o gráfico") deu 30 candidatas em Biologia,
+e na leitura 12 das 30 precisavam de imagem: a prova também escreve "a tabela
+mostra", "o gráfico mostra", "a figura mostra", "no heredograma" e "as imagens".
+Use os 217 como teto, não como previsão — o rendimento medido nos dois
+primeiros blocos foi de 18 em 30, ou 60%.
+
+**A extração perde a SETA das equações químicas**, e devolve os dois lados
+concatenados em ordem trocada: "CaC2 (s) + CO (g) CaO (s) + 3C (s)" é o que
+resta de CaO + 3C → CaC2 + CO. Transcrever sem desconfiar publica a reação
+invertida. Confira refazendo a conta contra o gabarito — foi o que validou as
+cinco equações do bloco de Química.
 
 **O que sobra depois da triagem automática:** 26 questões têm as alternativas
 em imagem (fórmulas de Matemática e Física) e não entram; 27 citam figura no

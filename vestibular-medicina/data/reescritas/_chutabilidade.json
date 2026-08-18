@@ -1,69 +1,69 @@
 {
     "artes-cultura":  {
-                          "longaPct":  10.1,
-                          "absCertaPct":  3.3,
-                          "indice":  11.1,
-                          "n":  287
+                          "longaPct":  11.5,
+                          "absCertaPct":  3.2,
+                          "indice":  11.5,
+                          "n":  314
                       },
     "interpretacao-texto":  {
-                                "longaPct":  1.6,
-                                "absCertaPct":  17.6,
-                                "indice":  0,
-                                "n":  255
+                                "longaPct":  7.1,
+                                "absCertaPct":  18.8,
+                                "indice":  5.7,
+                                "n":  350
                             },
     "fisica":  {
-                   "longaPct":  2.3,
-                   "absCertaPct":  12.1,
-                   "indice":  3.1,
-                   "n":  484
+                   "longaPct":  2.6,
+                   "absCertaPct":  12.8,
+                   "indice":  2.6,
+                   "n":  574
                },
     "historia":  {
-                     "longaPct":  15.4,
-                     "absCertaPct":  3.4,
-                     "indice":  19.4,
-                     "n":  273
+                     "longaPct":  17.2,
+                     "absCertaPct":  3.6,
+                     "indice":  16.4,
+                     "n":  377
                  },
     "filosofia-sociologia":  {
-                                 "longaPct":  9.7,
-                                 "absCertaPct":  7.5,
-                                 "indice":  9.7,
-                                 "n":  300
+                                 "longaPct":  13.1,
+                                 "absCertaPct":  8,
+                                 "indice":  12.4,
+                                 "n":  388
                              },
     "quimica":  {
-                    "longaPct":  4.4,
-                    "absCertaPct":  8.6,
-                    "indice":  5.3,
-                    "n":  453
+                    "longaPct":  6.6,
+                    "absCertaPct":  10.9,
+                    "indice":  6.5,
+                    "n":  572
                 },
     "atualidades":  {
-                        "longaPct":  13.4,
+                        "longaPct":  13.6,
                         "absCertaPct":  4.2,
-                        "indice":  13.8,
-                        "n":  224
+                        "indice":  13.6,
+                        "n":  228
                     },
     "literatura":  {
-                       "longaPct":  14.3,
-                       "absCertaPct":  4.7,
-                       "indice":  15.7,
-                       "n":  230
+                       "longaPct":  16.8,
+                       "absCertaPct":  5.3,
+                       "indice":  16.1,
+                       "n":  310
                    },
     "biologia":  {
-                     "longaPct":  12.8,
-                     "absCertaPct":  6.5,
-                     "indice":  13.9,
-                     "n":  469
+                     "longaPct":  13.3,
+                     "absCertaPct":  7,
+                     "indice":  13.5,
+                     "n":  578
                  },
     "gramatica":  {
-                      "longaPct":  1.2,
-                      "absCertaPct":  13.4,
-                      "indice":  0,
-                      "n":  260
+                      "longaPct":  1.8,
+                      "absCertaPct":  14.3,
+                      "indice":  0.7,
+                      "n":  279
                   },
     "ingles":  {
-                   "longaPct":  13.1,
-                   "absCertaPct":  10.1,
-                   "indice":  12.8,
-                   "n":  282
+                   "longaPct":  16.5,
+                   "absCertaPct":  10.6,
+                   "indice":  15.7,
+                   "n":  364
                },
     "obras":  {
                   "longaPct":  14.7,
@@ -73,18 +73,18 @@
               },
     "geografia":  {
                       "longaPct":  11.8,
-                      "absCertaPct":  2.3,
-                      "indice":  13.4,
-                      "n":  372
+                      "absCertaPct":  3.9,
+                      "indice":  11.3,
+                      "n":  459
                   },
     "matematica":  {
-                       "longaPct":  1.6,
-                       "absCertaPct":  7,
-                       "indice":  2.5,
-                       "n":  516
+                       "longaPct":  3,
+                       "absCertaPct":  10.8,
+                       "indice":  3.2,
+                       "n":  694
                    },
     "_global":  {
-                    "indice":  9.2,
-                    "n":  4765
+                    "indice":  9.6,
+                    "n":  5847
                 }
 }

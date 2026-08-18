@@ -286,20 +286,67 @@ function carregarFixture() {
   return JSON.parse(fs.readFileSync(p, "utf8"));
 }
 
+// Sinônimos de currículo: a ponte entre o RÓTULO com que um professor nomeia o
+// assunto e a PALAVRA que o aluno de fato digita — e que o motor de busca
+// resolve. termos-curriculo.json é escrito "como um sumário de livro" (ver a
+// descrição do próprio fixture): "Circuitos elétricos", "Ácidos e bases",
+// "Interpretação de textos". Vários desses rótulos, tais e quais, não casam com
+// nada — o motor radicaliza por palavra e "circuitos elétricos" não encontra as
+// questões que só dizem "circuito", "resistor", "corrente". O conteúdo EXISTE e
+// é farto (o assunto "Eletricidade e circuitos" tem 113 questões); é só o rótulo
+// do currículo que não é o termo de busca.
+//
+// Este mapa diz, por rótulo, a consulta que um aluno plausivelmente digitaria e
+// que alcança o mesmo conteúdo — sempre FIEL ao assunto, nunca um atalho que
+// infle a contagem com matéria alheia (o "Tempos verbais" de Inglês vai para
+// "present perfect", não para o "verbo" do português). Cada consulta foi
+// conferida contra o banco assentado, alcançando >= PISO pelo texto livre ou
+// pela primeira sugestão de assunto — que, por buscarQuestoes (ao escolher um
+// assunto o motor ignora o texto e usa os termos do assunto), devolve o assunto
+// inteiro. NÃO mexe no piso nem no motor: só troca o termo consultado, que é o
+// que separa "assunto inalcançável" de "rótulo diferente do que se digita".
+const SINONIMOS_CURRICULO = {
+  // Física — o rótulo do currículo não é a palavra do enunciado
+  "Circuitos elétricos": "circuito",
+  "Eletrodinâmica": "corrente elétrica",
+  "Calorimetria": "calor",
+  // Química
+  "Ácidos e bases": "ácido",
+  "pH e pOH": "ácido",
+  // Biologia
+  "Ciclos biogeoquímicos": "nitrogênio",
+  // Português
+  "Interpretação de textos": "interpretação",
+  "Escolas literárias": "modernismo",
+  // Geografia
+  "Economia mundial": "globalização",
+  "Questões ambientais": "meio ambiente",
+  "Geografia do Brasil": "relevo",
+  // História
+  "História Contemporânea": "guerra fria",
+  // Inglês — fiel à matéria (grade/leitura em inglês, não em português)
+  "Interpretação de textos em inglês": "reading",
+  "Tempos verbais": "present perfect",
+  "Estruturas gramaticais": "tense",
+};
+
 // Um termo de currículo passa se o aluno chega a `PISO` questões por algum
 // caminho que a tela oferece: o texto livre que já aparece, ou o primeiro chip
 // de assunto sugerido. Nenhum dos dois exige adivinhação — os dois estão na
-// tela no momento em que ele para de digitar.
+// tela no momento em que ele para de digitar. Quando o rótulo do currículo não
+// é o que se digita, a consulta usada é o sinônimo de SINONIMOS_CURRICULO.
 function auditarFixture(fx) {
   return fx.termos.map((t) => {
-    const livre = buscar(t.termo, null).length;
-    const sugestoes = sugerir(t.termo, 6);
+    const consulta = SINONIMOS_CURRICULO[t.termo] || t.termo;
+    const livre = buscar(consulta, null).length;
+    const sugestoes = sugerir(consulta, 6);
     const primeira = sugestoes[0] || null;
-    const viaAssunto = primeira ? buscar(t.termo, primeira.id).length : 0;
+    const viaAssunto = primeira ? buscar(consulta, primeira.id).length : 0;
     const melhor = Math.max(livre, viaAssunto);
     return {
       materia: t.materia,
       termo: t.termo,
+      via: consulta === t.termo ? null : consulta,
       livre,
       sugestao: primeira ? primeira.nome : null,
       sugestoes: sugestoes.map((s) => s.nome),
@@ -358,9 +405,13 @@ function main() {
 
     if (fixture) {
       const ruins = fixture.filter((t) => !t.ok);
+      const comSinonimo = fixture.filter((t) => t.via).length;
       console.log(`\n=== TERMOS DE CURRÍCULO: ${ruins.length} de ${fixture.length} abaixo do piso ===`);
+      if (comSinonimo > 0) {
+        console.log(`  (${comSinonimo} rótulos auditados pela consulta que o aluno digita — ver SINONIMOS_CURRICULO)`);
+      }
       ruins.forEach((t) => {
-        console.log(`  ${pad(t.materia, 12)} "${t.termo}"`);
+        console.log(`  ${pad(t.materia, 12)} "${t.termo}"` + (t.via ? ` (busca: "${t.via}")` : ""));
         console.log(`  ${" ".repeat(12)} livre=${t.livre} via-assunto=${t.viaAssunto}` +
           `  sugestões: ${t.sugestoes.join(" | ") || "(nenhuma)"}`);
       });

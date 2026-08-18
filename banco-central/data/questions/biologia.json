@@ -238,7 +238,7 @@
     "b": "unidade de membrana, e a espessura constante observada nas membranas de todos os tipos celulares já descritos",
     "c": "matriz proteica, e a predominância das proteínas sobre os lipídios quando se compara a massa dos dois componentes",
     "d": "mosaico fluido, e a mobilidade lateral de lipídios e proteínas no plano da bicamada, que se comporta como um fluido",
-    "e": "bicamada rígida, e a disposição fixa que as proteínas mantêm em relação aos fosfolipídios ao longo de toda a superfície"
+    "e": "bicamada rígida, e a disposição fixa que as proteínas mantêm em relação aos fosfolipídios ao longo da superfície celular inteira"
    },
    "resposta": "d",
    "explicacao": "O modelo do mosaico fluido, de Singer e Nicolson, descreve a membrana como um mosaico de proteínas distribuídas numa bicamada lipídica cujos componentes se deslocam lateralmente. A alternativa (a) acerta o modelo e erra a justificativa: a bicamada é justamente permeável a moléculas apolares pequenas, sendo restritiva a íons e a moléculas polares.",
@@ -1299,7 +1299,7 @@
    "texto_apoio": "O sarcômero é a unidade contrátil do músculo esquelético. Ao microscópio, apresenta faixas claras e escuras que se alteram durante a contração: a distância entre as linhas Z diminui, a banda A mantém o mesmo comprimento e a banda I encurta.",
    "enunciado": "O padrão descrito é explicado pelo modelo de deslizamento dos filamentos, segundo o qual durante a contração:",
    "alternativas": {
-    "a": "os filamentos de actina e miosina encurtam simultaneamente, o que reduz o comprimento de todas as bandas do sarcômero em igual proporção",
+    "a": "os filamentos de actina e miosina encurtam simultaneamente, o que reduz o comprimento das bandas do sarcômero em igual proporção durante a contração",
     "b": "apenas os filamentos de miosina encurtam, arrastando consigo os filamentos de actina em direção ao centro da unidade contrátil",
     "c": "os filamentos deslizam uns sobre os outros sem mudar de comprimento, e os de actina avançam sobre a região ocupada pelos de miosina",
     "d": "os filamentos de actina se fundem aos de miosina, formando um complexo único cujo comprimento total é menor que a soma dos dois",
@@ -1690,7 +1690,7 @@
    "alternativas": {
     "a": "dispensar completamente a abertura dos estômatos, o que elimina qualquer perda de água por transpiração ao longo do período diurno",
     "b": "concentrar gás carbônico junto à enzima do ciclo de Calvin nas células da bainha, o que reduz a fotorrespiração em calor e luz intensa",
-    "c": "permitir que a fixação do carbono ocorra durante a noite, quando a temperatura mais baixa reduz a perda de água pelos estômatos abertos",
+    "c": "permitir que a fixação do carbono ocorra durante a noite, já que a temperatura mais baixa reduz a perda de água pelos estômatos abertos da planta",
     "d": "substituir a enzima do ciclo de Calvin por outra que não reage com oxigênio em nenhuma condição de temperatura ou luminosidade",
     "e": "aumentar o número de cloroplastos por célula, o que eleva proporcionalmente a captação de energia luminosa disponível no ambiente"
    },
@@ -2804,7 +2804,7 @@
     "b": "quatro fenótipos na proporção 9:3:3:1, resultado esperado sempre que dois genes independentes segregam em um mesmo cruzamento",
     "c": "dois fenótipos na proporção 3:1, já que o parental duplo-recessivo não contribui com variação para a descendência",
     "d": "três fenótipos na proporção 1:2:1, distribuição que reproduz na prole as classes genotípicas do parental di-híbrido",
-    "e": "um único fenótipo, uniforme, pois o parental di-híbrido transmite pelo menos um alelo dominante de cada gene a todos os descendentes"
+    "e": "um único fenótipo, uniforme, pois o parental di-híbrido transmite pelo menos um alelo dominante de cada gene aos descendentes da geração seguinte"
    },
    "resposta": "a",
    "explicacao": "PpMm produz quatro gametas equiprováveis: PM, Pm, pM e pm. O parental ppmm só produz pm, que não mascara nada. Cada descendente exibe, portanto, o fenótipo correspondente ao gameta recebido do di-híbrido, e as quatro classes saem em 1:1:1:1. A armadilha é (b): 9:3:3:1 exigiria di-hibridismo nos dois parentais. A opção (e) esquece que metade dos gametas do di-híbrido carrega o alelo recessivo de cada gene.",
@@ -3480,7 +3480,7 @@
    "alternativas": {
     "a": "a proteína produzida pela levedura induz memória imunológica permanente, o que dispensa qualquer dose de reforço ao longo da vida",
     "b": "o imunizante não contém o vírus, nem inteiro nem atenuado, o que elimina o risco de o próprio produto causar a doença na pessoa vacinada",
-    "c": "a resposta imune produzida é exclusivamente celular, evitando a produção de anticorpos que poderiam reagir contra tecidos do próprio vacinado",
+    "c": "a resposta imune produzida é apenas celular, evitando por completo a produção de anticorpos que poderiam reagir contra tecidos do próprio vacinado",
     "d": "a vacina passa a proteger contra qualquer vírus que infecte o fígado, pois a proteína de superfície é comum a todos os agentes hepatotrópicos",
     "e": "a produção em leveduras dispensa a cadeia de frio no transporte, uma vez que proteínas de origem fúngica resistem a altas temperaturas"
    },

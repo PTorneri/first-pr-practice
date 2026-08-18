@@ -766,7 +766,7 @@
       "texto_apoio": "Em 1808, a família real portuguesa transferiu-se para o Rio de Janeiro diante do avanço das tropas napoleônicas.",
       "enunciado": "A primeira medida econômica adotada após a chegada foi:",
       "alternativas": {
-        "a": "a transferência de todas as atividades produtivas da colônia para a metrópole, decisão adotada como resposta à ocupação do território europeu",
+        "a": "a transferência das atividades produtivas da colônia para a metrópole, decisão adotada como resposta à ocupação do território europeu pelas tropas francesas",
         "b": "a proibição da entrada de produtos estrangeiros, para proteger a manufatura local",
         "c": "a abertura dos portos às nações amigas, que rompeu na prática o exclusivo e beneficiou a Inglaterra",
         "d": "a criação de um imposto único sobre a produção agrícola, em lugar dos demais",
@@ -812,7 +812,7 @@
       "texto_apoio": "O período entre a abdicação de d. Pedro I e a antecipação da maioridade de d. Pedro II registrou revoltas em várias províncias.",
       "enunciado": "Essas revoltas tinham em comum:",
       "alternativas": {
-        "a": "a defesa do restabelecimento do vínculo colonial com Portugal, projeto sustentado por todos os movimentos ocorridos naquele período no país",
+        "a": "a defesa do restabelecimento do vínculo colonial com Portugal, projeto sustentado pelos principais movimentos ocorridos naquele período no país",
         "b": "insatisfação com a centralização do poder no Rio e com a exclusão das elites regionais das decisões",
         "c": "a exigência de abolição imediata da escravidão como pauta central de todos eles",
         "d": "a proposta de transferência da capital do império para o interior do território",
@@ -1223,7 +1223,7 @@
       "texto_apoio": "Entre as décadas de 1940 e 1970, dezenas de países da Ásia e da África conquistaram independência política.",
       "enunciado": "Entre os fatores que explicam esse processo está:",
       "alternativas": {
-        "a": "a decisão voluntária e unilateral das potências coloniais de encerrar seus impérios, sem qualquer mobilização por parte das populações locais",
+        "a": "a decisão voluntária e unilateral das potências coloniais de encerrar seus impérios, sem mobilização alguma por parte das populações locais colonizadas",
         "b": "o enfraquecimento das metrópoles com a guerra e a organização de movimentos nacionalistas locais",
         "c": "a intervenção militar direta das Nações Unidas em cada um dos territórios",
         "d": "o esgotamento completo dos recursos naturais das colônias, sem interesse econômico",
@@ -1405,7 +1405,7 @@
       "texto_apoio": "Entre 1968 e 1973, a economia brasileira cresceu a taxas superiores a 10% ao ano, com expansão da indústria e grandes obras de infraestrutura.",
       "enunciado": "Esse período é chamado milagre econômico e teve como contrapartida:",
       "alternativas": {
-        "a": "a ampliação da liberdade de organização sindical, com negociação livre entre trabalhadores e empregadores em todos os setores da economia",
+        "a": "a ampliação da liberdade de organização sindical, com negociação livre entre trabalhadores e empregadores nos diversos setores da economia nacional",
         "b": "a redução da desigualdade de renda, com ganhos de produtividade repartidos",
         "c": "a eliminação da dívida externa brasileira, quitada com os recursos do crescimento",
         "d": "concentração de renda, arrocho salarial e endividamento externo apoiado em crédito barato",
@@ -1469,7 +1469,7 @@
         "b": "distingue o caso brasileiro do da Argentina e do Chile, que levaram seus agentes a julgamento",
         "c": "impediu o retorno dos exilados ao território nacional até a constituição seguinte",
         "d": "foi revogada logo após o fim do regime, o que permitiu responsabilizar os envolvidos",
-        "e": "restringiu-se aos crimes cometidos por opositores do regime, sem qualquer efeito sobre a situação jurídica dos agentes estatais envolvidos"
+        "e": "restringiu-se aos crimes cometidos por opositores do regime, sem efeito algum sobre a situação jurídica dos agentes estatais envolvidos na repressão"
       },
       "resposta": "b",
       "explicacao": "Argentina e Chile levaram militares a julgamento; o Brasil, não. A Corte Interamericana condenou o país por isso, e a Comissão Nacional da Verdade apurou sem poder punir — a diferença marca a transição brasileira até hoje.",
@@ -1710,7 +1710,7 @@
       "texto_apoio": "Circulam com frequência afirmações que negam ou minimizam acontecimentos historicamente documentados, como o Holocausto ou a existência da ditadura militar brasileira.",
       "enunciado": "Diante desse tipo de afirmação, a posição historiográfica adequada é:",
       "alternativas": {
-        "a": "tratar todas as versões como igualmente válidas, uma vez que a história não permite estabelecer qualquer grau de certeza sobre os acontecimentos",
+        "a": "tratar as versões conflitantes como igualmente válidas, uma vez que a história não permitiria estabelecer grau algum de certeza sobre os acontecimentos",
         "b": "distinguir a divergência interpretativa, que é normal no campo, da negação de fatos documentados",
         "c": "aceitar a versão mais recente, uma vez que a produção historiográfica posterior sempre supera integralmente a que a antecedeu no mesmo campo",
         "d": "recusar o debate público sobre qualquer tema histórico, restringindo-o à academia",
@@ -1773,7 +1773,7 @@
         "a": "a distribuição uniforme dos casos entre todos os grupos sociais, sem qualquer diferença de mortalidade entre as regiões de cada uma das cidades",
         "b": "a eficiência do sistema de saúde então existente, capaz de atender toda a demanda",
         "c": "a inexistência de circulação internacional de pessoas naquele momento histórico",
-        "d": "a ausência de qualquer tipo de tratamento contra doenças infecciosas em geral, já que a bacteriologia era ciência ainda inexistente naquele período",
+        "d": "a ausência de tratamento eficaz contra doenças infecciosas em geral, já que a bacteriologia era ciência ainda inexistente naquele período histórico",
         "e": "a fragilidade da estrutura sanitária e a desigualdade de acesso, com mais mortes nos bairros pobres"
       },
       "resposta": "e",
@@ -1785,7 +1785,7 @@
       "texto_apoio": "No início do século XX, campanhas contra febre amarela, peste e varíola no Rio de Janeiro combinaram medidas científicas com métodos autoritários de execução.",
       "enunciado": "Essa combinação, associada a Oswaldo Cruz, mostra que a saúde pública brasileira nasceu:",
       "alternativas": {
-        "a": "sob controle exclusivo de instituições privadas, sem qualquer participação do Estado na formulação ou na execução das medidas adotadas",
+        "a": "sob controle restrito de instituições privadas, sem participação alguma do Estado na formulação ou na execução das medidas sanitárias adotadas",
         "b": "a partir da adesão voluntária da população, obtida por campanhas educativas",
         "c": "sem qualquer fundamento científico, o que explica o fracasso das campanhas",
         "d": "com base científica sólida e prática impositiva e truculenta, o que gerou resistência popular",
@@ -1800,7 +1800,7 @@
       "texto_apoio": "No início do século XX, difundiu-se no Brasil e no mundo um conjunto de ideias que propunha o aprimoramento da população por meio do controle da reprodução.",
       "enunciado": "Essas ideias, reunidas sob o nome de eugenia:",
       "alternativas": {
-        "a": "restringiram-se ao campo da ficção literária, sem qualquer repercussão sobre o debate científico ou político daquele momento histórico no país",
+        "a": "restringiram-se ao campo da ficção literária, sem repercussão alguma sobre o debate científico ou político daquele momento histórico no país",
         "b": "foram rejeitadas por toda a comunidade científica desde sua formulação, sem qualquer influência sobre as políticas públicas adotadas no período",
         "c": "tinham cátedras e congressos próprios na época e sustentaram políticas racistas e de imigração",
         "d": "surgiram apenas após a Segunda Guerra e passaram a orientar políticas de saúde",
@@ -2029,7 +2029,7 @@
       "texto_apoio": "As grandes guerras do século XX aceleraram o desenvolvimento de técnicas cirúrgicas, transfusão de sangue, produção de antibióticos e organização de atendimento de urgência.",
       "enunciado": "Esse fato ilustra que o avanço médico:",
       "alternativas": {
-        "a": "foi interrompido durante os períodos de guerra, quando os investimentos foram deslocados para as áreas diretamente ligadas ao esforço militar",
+        "a": "foi interrompido durante os períodos de guerra, já que os investimentos foram deslocados para as áreas diretamente ligadas ao esforço militar",
         "b": "ocorre exclusivamente em períodos de paz, quando os recursos disponíveis podem ser integralmente direcionados à pesquisa em cada um dos países",
         "c": "independe do contexto histórico, sendo determinado apenas pelo acúmulo de conhecimento",
         "d": "resultou integralmente de pesquisas civis, sem relação com os conflitos armados",
@@ -2887,7 +2887,7 @@
       "texto_apoio": "Em novembro de 1910, marinheiros da Marinha brasileira, em sua maioria negros, tomaram navios de guerra no Rio de Janeiro e exigiram o fim dos castigos físicos aplicados a bordo, além de melhores condições de alimentação e serviço.",
       "enunciado": "Esse episódio, conhecido como Revolta da Chibata, evidencia:",
       "alternativas": {
-        "a": "a inexistência de hierarquia rígida na Marinha do período, o que permitiu a negociação direta entre marinheiros e oficiais sem qualquer conflito",
+        "a": "a inexistência de hierarquia rígida na Marinha do período, o que teria permitido a negociação direta entre marinheiros e oficiais sem conflito aberto",
         "b": "o caráter estritamente político da revolta, cujas reivindicações se limitavam à substituição do presidente da República recém-empossado",
         "c": "o pioneirismo da Marinha na abolição dos castigos corporais, suprimidos das forças armadas brasileiras ainda no início do período republicano",
         "d": "a ausência de organização entre os revoltosos, que agiram isoladamente e sem qualquer articulação prévia entre as tripulações dos navios",
@@ -2936,7 +2936,7 @@
       "alternativas": {
         "a": "levou à imediata renúncia de Getúlio Vargas, substituído por um governo civil escolhido pelas oligarquias paulistas ainda em 1932",
         "b": "resultou na separação de São Paulo do restante da federação, situação mantida até a instalação do Estado Novo em novembro de 1937",
-        "c": "impediu qualquer alteração na legislação eleitoral brasileira, que permaneceu inalterada até o final do período conhecido como Era Vargas",
+        "c": "impediu alterações na legislação eleitoral brasileira, que teria permanecido inalterada até o final do período conhecido como Era Vargas, em 1945",
         "d": "provocou o cancelamento das medidas trabalhistas adotadas pelo governo provisório, revogadas por exigência dos vencedores do conflito",
         "e": "obteve seu objetivo político principal, com a eleição de uma constituinte em 1933 e a promulgação de nova Constituição no ano seguinte"
       },
@@ -3195,7 +3195,7 @@
         "b": "conferir prestígio ao financiador e legitimar sua posição na sociedade urbana",
         "c": "substituir a Igreja como única encomendante de obras religiosas na Europa",
         "d": "impedir que a arte se afastasse dos temas prescritos pela tradição anterior",
-        "e": "financiar exclusivamente as expedições marítimas organizadas pelos reinos ibéricos"
+        "e": "financiar somente as expedições marítimas organizadas pelos reinos ibéricos da península"
       },
       "resposta": "b",
       "explicacao": "O mecenato é investimento simbólico: encomendar uma capela ou um palácio traduz dinheiro em reputação e poder político. Isso explica por que o Renascimento floresce primeiro nas cidades italianas, onde a riqueza mercantil precisava de legitimidade social.",
@@ -3207,7 +3207,7 @@
       "enunciado": "O movimento iniciado por esse gesto, a Reforma protestante, teve entre suas consequências:",
       "alternativas": {
         "a": "a unificação religiosa da Europa sob a autoridade única do papado romano",
-        "b": "o fim imediato de qualquer forma de conflito religioso no continente europeu",
+        "b": "o fim imediato das diferentes formas de conflito religioso no continente europeu",
         "c": "a restauração do poder temporal da Igreja sobre os príncipes germânicos",
         "d": "a fragmentação religiosa da Europa e o fortalecimento dos príncipes locais",
         "e": "a proibição da tradução da Bíblia para as línguas faladas em cada região"
@@ -3282,7 +3282,7 @@
       "enunciado": "Em relação ao pensamento de Hobbes, a formulação de Rousseau se distingue por:",
       "alternativas": {
         "a": "manter o poder soberano nas mãos de um monarca hereditário e irresponsável",
-        "b": "recusar a existência de qualquer forma de contrato entre os membros da sociedade civil",
+        "b": "recusar a existência de formas de contrato entre os membros da sociedade civil organizada",
         "c": "atribuir a origem do poder político diretamente à vontade divina revelada",
         "d": "manter a soberania com o povo, que não a transfere de modo definitivo ao governante",
         "e": "defender que o estado de natureza seria uma guerra permanente entre os indivíduos"

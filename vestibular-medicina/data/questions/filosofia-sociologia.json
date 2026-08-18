@@ -543,7 +543,7 @@
       "alternativas": {
         "a": "o fenômeno estudado deveria ser investigado exclusivamente pela medicina, campo ao qual caberia identificar suas causas e propor formas de intervenção",
         "b": "as motivações psicológicas de cada indivíduo explicam integralmente a decisão tomada por ele, o que dispensa qualquer investigação de natureza sociológica",
-        "c": "as taxas observadas variavam de forma inteiramente aleatória entre os grupos analisados, o que impediria estabelecer qualquer relação entre elas e o contexto",
+        "c": "as taxas observadas variavam de forma inteiramente aleatória entre os grupos analisados, o que impediria estabelecer relação alguma entre elas e o contexto social",
         "d": "os dados estatísticos disponíveis à época eram insuficientes para sustentar as conclusões apresentadas pelo autor",
         "e": "um ato aparentemente individual pode ter causas sociais identificáveis estatisticamente, como o grau de integração do grupo"
       },
@@ -2630,7 +2630,7 @@
         "a": "preconceito individual, atitude isolada de quem seleciona os candidatos em cada processo",
         "b": "meritocracia, princípio de distribuição de posições segundo o desempenho de cada pessoa",
         "c": "racismo estrutural, funcionamento social que reproduz a desvantagem sem depender de intenção",
-        "d": "relativismo cultural, compreensão das práticas de um grupo a partir dos sentidos que ele atribui",
+        "d": "relativismo cultural, compreensão das práticas de um grupo a partir dos sentidos internos ao próprio grupo",
         "e": "aculturação, incorporação de traços de um grupo por outro em situação de contato prolongado"
       },
       "resposta": "c",
@@ -2840,7 +2840,7 @@
         "a": "é absoluto e impede qualquer comunicação, mesmo diante de risco a terceiros identificáveis",
         "b": "admite ruptura, porque o risco a terceiros identificáveis constitui uma das exceções previstas",
         "c": "deixa de existir assim que o paciente informa fato relacionado à sua atividade profissional",
-        "d": "depende exclusivamente da avaliação que o próprio paciente faz do risco que oferece às demais pessoas",
+        "d": "depende apenas da avaliação que o próprio paciente faz do risco que oferece às demais pessoas ao seu redor",
         "e": "pode ser rompido a qualquer momento, já que serve apenas à conveniência do atendimento"
       },
       "resposta": "b",

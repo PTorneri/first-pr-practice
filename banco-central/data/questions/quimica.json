@@ -386,7 +386,7 @@
    "alternativas": {
     "a": "tetraédrica, trigonal plana e linear, formas que decorrem apenas do número de átomos ligados ao elemento central de cada molécula",
     "b": "trigonal plana, piramidal e angular, arranjos determinados pelo número total de pares de elétrons presentes na camada de valência",
-    "c": "tetraédrica, tetraédrica e tetraédrica, uma vez que todas apresentam quatro pares de elétrons distribuídos ao redor do elemento central",
+    "c": "tetraédrica, tetraédrica e tetraédrica, uma vez que as três apresentam quatro pares de elétrons distribuídos ao redor do elemento central da molécula",
     "d": "linear, angular e tetraédrica, sequência que acompanha o aumento do número de pares não ligantes presentes no átomo central",
     "e": "tetraédrica, piramidal e angular, formas definidas pelas posições dos átomos ligados, e não pelas dos pares de elétrons não ligantes"
    },
@@ -458,7 +458,7 @@
     "b": "o pH é maior que 7, uma vez que a constante de ionização apresenta valor muito baixo em relação à concentração do ácido na solução",
     "c": "a adição de acetato de sódio aumentaria a ionização do ácido, elevando ainda mais a concentração de íons hidrogênio em solução",
     "d": "apenas uma pequena fração das moléculas está ionizada, e a concentração de íons hidrogênio resultante leva o pH a ficar em torno de 2,4",
-    "e": "o grau de ionização independe da concentração inicial, permanecendo constante em qualquer diluição realizada a partir da amostra original"
+    "e": "o grau de ionização independe da concentração inicial, permanecendo constante nas diluições sucessivas realizadas a partir da amostra original"
    },
    "resposta": "d",
    "explicacao": "O valor pequeno da constante indica ácido fraco, com ionização parcial. Estimando pela expressão do equilíbrio, a concentração de íons hidrogênio fica na ordem de 4 x 10⁻³ mol/L, o que corresponde a pH em torno de 2,4. Adicionar acetato deslocaria o equilíbrio no sentido inverso, o que torna (c) incorreta.",
@@ -2215,7 +2215,7 @@
    "enunciado": "A principal dificuldade técnica para viabilizar a fusão controlada na Terra é:",
    "alternativas": {
     "a": "impedir a reação em cadeia descontrolada, que se propaga espontaneamente uma vez iniciada e libera energia de forma explosiva no reator",
-    "b": "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em qualquer proporção",
+    "b": "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em proporção aproveitável",
     "c": "conter os resíduos radioativos de meia-vida muito longa gerados pelo processo, cujo armazenamento exige instalações geológicas profundas",
     "d": "atingir e manter temperaturas altíssimas, necessárias para vencer a repulsão elétrica entre núcleos de carga positiva, e confinar o plasma",
     "e": "resfriar o combustível até temperaturas próximas do zero absoluto, condição em que os núcleos se aproximam o suficiente para se fundirem"
@@ -5636,7 +5636,7 @@
    "alternativas": {
     "a": "monômero, unidade estrutural simples que ainda não reagiu para formar uma cadeia maior",
     "b": "isômero, composto de mesma fórmula molecular e estrutura diferente de outro composto",
-    "c": "hidrocarboneto, composto formado exclusivamente por átomos de carbono e hidrogênio ao longo de toda a cadeia",
+    "c": "hidrocarboneto, composto formado apenas por átomos de carbono e hidrogênio ao longo da cadeia principal inteira",
     "d": "eletrólito, substância capaz de conduzir corrente elétrica quando dissolvida ou fundida",
     "e": "polímero, macromolécula formada pela repetição de unidades estruturais menores ligadas entre si"
    },
@@ -5804,7 +5804,7 @@
    "texto_apoio": "O naftaleno, usado antigamente em repelentes de traça, é formado por dois anéis benzênicos fundidos, cada um mantendo o padrão de ligações deslocalizadas do benzeno.",
    "enunciado": "A presença de anéis com esse padrão de ligação classifica o naftaleno como um hidrocarboneto:",
    "alternativas": {
-    "a": "alifático saturado, formado exclusivamente por ligações simples entre os átomos de carbono da cadeia",
+    "a": "alifático saturado, formado apenas por ligações simples entre os átomos de carbono da cadeia principal",
     "b": "alicíclico, formado por um anel fechado sem as ligações deslocalizadas típicas do benzeno",
     "c": "alifático insaturado, formado por uma cadeia aberta com duplas ligações isoladas entre carbonos",
     "d": "heterocíclico, por apresentar em seu anel um átomo diferente de carbono na composição da cadeia",

@@ -384,7 +384,7 @@
         "b": "a metade – diminui, e o som se torna mais grave",
         "c": "o dobro – aumenta, e o som emitido se torna mais agudo",
         "d": "o quádruplo – aumenta, e o som se torna mais agudo",
-        "e": "a quarta parte – permanece a mesma, qualquer que seja o dedilhado"
+        "e": "a quarta parte – permanece a mesma, independentemente do dedilhado usado"
       },
       "resposta": "c",
       "explicacao": "No fundamental cabe meio comprimento de onda entre os dois nós, então o comprimento de onda é o dobro do da corda. Encurtar a corda reduz o comprimento de onda e, como a velocidade na corda não muda, a frequência sobe — é assim que se tocam notas mais agudas no braço do instrumento.",
@@ -552,7 +552,7 @@
       "enunciado": "A temperatura final de equilíbrio:",
       "alternativas": {
         "a": "depende das massas e dos calores específicos dos dois corpos, resultando numa média ponderada pelas capacidades térmicas de cada um",
-        "b": "é sempre a média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius em qualquer combinação de massas considerada",
+        "b": "é igual à média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius para as combinações de massas consideradas no problema",
         "c": "é sempre mais próxima da temperatura do corpo mais quente, uma vez que ele possui maior quantidade de energia térmica acumulada no início",
         "d": "depende apenas da diferença entre as temperaturas iniciais, sem qualquer influência das características materiais de cada um dos corpos",
         "e": "corresponde à temperatura do corpo de maior massa, que impõe sua condição térmica ao corpo menor durante o processo de equilíbrio"
@@ -1163,7 +1163,7 @@
         "b": "só se manifestam em velocidades muito próximas à da luz, condição jamais atingida por qualquer objeto construído pela engenharia humana",
         "c": "afetam exclusivamente partículas subatômicas em aceleradores, sem qualquer repercussão sobre instrumentos de escala macroscópica utilizados",
         "d": "têm consequências práticas mensuráveis em tecnologias de uso cotidiano, já que sem a correção o erro de posicionamento cresceria a cada dia",
-        "e": "contradizem as leis da mecânica clássica em todas as escalas, o que torna inválido o uso das equações de Newton em qualquer aplicação prática"
+        "e": "contradizem as leis da mecânica clássica nas diversas escalas, o que tornaria inválido o uso das equações de Newton nas aplicações práticas usuais"
       },
       "resposta": "d",
       "explicacao": "Sem as correções relativísticas — tanto a da velocidade orbital quanto a do campo gravitacional mais fraco em altitude —, o erro de posicionamento acumularia vários quilômetros por dia. A alternativa (e) exagera: a mecânica newtoniana continua válida como aproximação em baixas velocidades.",
@@ -1979,7 +1979,7 @@
       "texto_apoio": "Um objeto de 0,50 kg preso a uma mola oscila horizontalmente sobre superfície sem atrito. Na posição de máxima elongação, sua velocidade é nula; ao passar pela posição de equilíbrio, a velocidade é máxima.",
       "enunciado": "Ao longo de uma oscilação completa, a energia mecânica total do sistema:",
       "alternativas": {
-        "a": "depende exclusivamente da massa do bloco, sem qualquer contribuição da constante elástica ou da amplitude adotada na montagem experimental",
+        "a": "depende apenas da massa do bloco suspenso, sem contribuição alguma da constante elástica ou da amplitude adotada na montagem experimental do laboratório",
         "b": "aumenta continuamente, uma vez que a mola fornece energia adicional ao bloco a cada ciclo completo de oscilação realizado pelo sistema",
         "c": "diminui a cada ciclo, porque parte da energia se dissipa na deformação da mola mesmo na ausência de atrito com a superfície de apoio",
         "d": "é máxima na posição de equilíbrio e nula nos extremos, acompanhando a variação observada para a velocidade do bloco durante o movimento",
@@ -2252,7 +2252,7 @@
       "enunciado": "A circulação sem bomba é possível porque a água aquecida nas placas:",
       "alternativas": {
         "a": "reduz sua viscosidade a ponto de escoar espontaneamente contra a gravidade, sem necessidade de diferença de densidade entre as porções",
-        "b": "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa qualquer equipamento auxiliar",
+        "b": "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa o uso de equipamento auxiliar de bombeamento",
         "c": "evapora parcialmente e o vapor formado empurra a coluna líquida até o reservatório instalado na parte superior da montagem residencial",
         "d": "adquire carga elétrica pelo atrito com as paredes das tubulações, o que gera um campo capaz de movimentar o fluido ao longo do circuito",
         "e": "torna-se menos densa ao se dilatar e sobe por empuxo até o reservatório, sendo substituída pela água mais fria e mais densa que vem dele"

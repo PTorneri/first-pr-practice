@@ -8012,7 +8012,7 @@
    "enunciado": "Na matriz A = [2 −1 3; 4 −2 6; 5 0 1], em que o ponto e vírgula separa as linhas, a segunda linha é ______ da primeira; por isso det A vale ______ e o sistema linear homogêneo que tem A como matriz dos coeficientes ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "o dobro – 0 – admite infinitas soluções, e não apenas a trivial, por ser indeterminado",
-    "b": "o dobro – 0 – admite apenas a solução trivial, já que todo sistema homogêneo é determinado",
+    "b": "o dobro – 0 – admite apenas a solução trivial, já que um sistema homogêneo é determinado por definição",
     "c": "a metade – 34 – tem solução única, obtida diretamente pela regra de Cramer",
     "d": "o dobro – 68 – é impossível, pois as duas primeiras equações se contradizem",
     "e": "independente – −34 – só admite solução quando os termos independentes são todos nulos"
@@ -8281,7 +8281,7 @@
     "b": "possível e determinado para m ≠ 6 e impossível para m = 6",
     "c": "impossível para m = 6 e possível e indeterminado para m = 3",
     "d": "possível e determinado para qualquer valor real de m",
-    "e": "possível e indeterminado para todo m, já que há duas equações e duas incógnitas"
+    "e": "possível e indeterminado independentemente do valor de m, já que há duas equações e duas incógnitas"
    },
    "resposta": "a",
    "explicacao": "O determinante dos coeficientes é m − 6, então há solução única sempre que m ≠ 6. Com m = 6, a segunda equação vira 3x + 6y = 9, exatamente o triplo da primeira: mesma reta, infinitas soluções. A alternativa (b) é a armadilha central da discussão — quando o determinante zera, é obrigatório checar o termo independente antes de decidir entre impossível e indeterminado, e aqui ele acompanha a proporção.",
@@ -8871,7 +8871,7 @@
     "a": "combinação – arranjo – 35 possibilidades, pois é preciso descontar as repetições geradas pela ordem dos escolhidos",
     "b": "combinação – arranjo – 210 possibilidades, uma vez que cada trio pode ser apresentado em ordens diferentes",
     "c": "permutação – arranjo – 21 possibilidades, resultado de multiplicar o total de pessoas pelo tamanho da comissão",
-    "d": "arranjo – combinação – 210 possibilidades, porque toda escolha de pessoas para uma comissão pressupõe alguma hierarquia",
+    "d": "arranjo – combinação – 210 possibilidades, porque a escolha de pessoas para uma comissão pressuporia alguma hierarquia interna",
     "e": "arranjo – combinação – 35 possibilidades, pois a comissão sem cargos não distingue a ordem dos três nomes escolhidos"
    },
    "resposta": "e",

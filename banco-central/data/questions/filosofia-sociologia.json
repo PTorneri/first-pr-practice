@@ -27,7 +27,7 @@
     "a": "a discussão sobre a legitimidade de o Estado tributar heranças acima de determinado valor",
     "b": "qualquer legislação recente sobre tecnologia, tanto a que protege dados dos cidadãos quanto a que amplia os poderes de vigilância do Estado sobre as comunicações privadas",
     "c": "a formulação, por Locke, de uma doutrina voltada a antecipar os efeitos das redes de compartilhamento de informação sobre a vida privada dos cidadãos",
-    "d": "a defesa de que o Estado deve deter poder amplo e indivisível sobre a vida e a propriedade dos cidadãos, já que só uma autoridade sem limites conseguiria garantir a paz civil e a segurança de todos",
+    "d": "a defesa de que o Estado deve deter poder amplo e indivisível sobre a vida e a propriedade dos cidadãos, já que só uma autoridade sem limites conseguiria garantir a paz civil e a segurança coletiva",
     "e": "o debate sobre leis de proteção de dados pessoais, que buscam limitar o poder de Estados e empresas sobre informações que pertenceriam, em certo sentido, ao próprio indivíduo"
    },
    "resposta": "e",
@@ -216,7 +216,7 @@
    "texto_apoio": "Hannah Arendt analisou como os regimes totalitários dependem do isolamento dos indivíduos e da destruição dos laços sociais que sustentam a ação política coletiva.",
    "enunciado": "Essa análise arendtiana sobre o isolamento como base do totalitarismo ajuda a interpretar qual crítica contemporânea às bolhas informacionais das redes sociais?",
    "alternativas": {
-    "a": "a de que o isolamento dos indivíduos pouco pesa na sustentação de um regime autoritário, que dependeria antes do controle direto sobre os meios de comunicação de massa e de um aparato policial capaz de reprimir toda oposição já organizada",
+    "a": "a de que o isolamento dos indivíduos pouco pesa na sustentação de um regime autoritário, que dependeria antes do controle direto sobre os meios de comunicação de massa e de um aparato policial capaz de reprimir a oposição que já estivesse organizada",
     "b": "a de que as plataformas digitais ampliam a esfera pública e fortalecem a ação política coletiva, ao permitir que pessoas dispersas por todo o território se reconheçam entre si e se organizem sem depender de intermediários",
     "c": "o crescimento de comunidades on-line dedicadas a hobbies e interesses técnicos muito específicos",
     "d": "a de que ambientes digitais que isolam usuários em bolhas de informação homogêneas podem enfraquecer a pluralidade de opiniões necessária à ação política coletiva, ainda que por mecanismos distintos dos regimes totalitários do século XX",
@@ -460,7 +460,7 @@
     "b": "a de que o preço desses itens reflete o custo de matérias-primas escassas empregadas na fabricação",
     "c": "a defesa de que o peso e o volume físico de um produto determinam automaticamente seu prestígio social, critério estranho ao conceito, para quem o valor-signo deriva da capacidade simbólica do objeto",
     "d": "a de que o preço e o prestígio de determinados itens de moda decorrem, em larga medida, de sua capacidade de comunicar pertencimento a um grupo e distinção social, e não apenas de sua utilidade funcional",
-    "e": "a ideia de que esses itens são valorizados apenas por seu valor de uso estritamente funcional, sem qualquer dimensão simbólica associada, negando o que é central ao conceito de valor-signo, que Baudrillard opõe à mera utilidade material do objeto"
+    "e": "a ideia de que esses itens são valorizados apenas por seu valor de uso estritamente funcional, sem dimensão simbólica alguma associada, negando o que é central ao conceito de valor-signo, que Baudrillard opõe à mera utilidade material do objeto"
    },
    "resposta": "d",
    "explicacao": "O valor-signo, em Baudrillard, é a capacidade de o objeto comunicar status e distinção, e é ele que explica por que certos tênis e roupas de marca alcançam preço e prestígio muito acima de sua utilidade — o item vale pelo que diz de quem o usa. A explicação pelo custo de materiais e mão de obra é a mais intuitiva e a que o conceito desloca: ela é insuficiente porque a diferença entre o custo de fabricação e o preço praticado é justamente o que o valor-signo cobre. Reduzir o valor à escassez de matérias-primas fica no mesmo terreno material. Fazer o prestígio depender do peso ou do volume do produto adota um critério físico onde o que opera é simbólico. E dizer que esses itens valem apenas por sua função nega a dimensão que dá nome ao conceito.",
@@ -2259,7 +2259,7 @@
    "alternativas": {
     "a": "o fenômeno estudado deveria ser investigado exclusivamente pela medicina, campo ao qual caberia identificar suas causas e propor formas de intervenção",
     "b": "as motivações psicológicas de cada indivíduo explicam integralmente a decisão tomada por ele, o que dispensa qualquer investigação de natureza sociológica",
-    "c": "as taxas observadas variavam de forma inteiramente aleatória entre os grupos analisados, o que impediria estabelecer qualquer relação entre elas e o contexto",
+    "c": "as taxas observadas variavam de forma inteiramente aleatória entre os grupos analisados, o que impediria estabelecer relação alguma entre elas e o contexto social",
     "d": "os dados estatísticos disponíveis à época eram insuficientes para sustentar as conclusões apresentadas pelo autor",
     "e": "um ato aparentemente individual pode ter causas sociais identificáveis estatisticamente, como o grau de integração do grupo"
    },
@@ -4480,7 +4480,7 @@
     "a": "preconceito individual, atitude isolada de quem seleciona os candidatos em cada processo",
     "b": "meritocracia, princípio de distribuição de posições segundo o desempenho de cada pessoa",
     "c": "racismo estrutural, funcionamento social que reproduz a desvantagem sem depender de intenção",
-    "d": "relativismo cultural, compreensão das práticas de um grupo a partir dos sentidos que ele atribui",
+    "d": "relativismo cultural, compreensão das práticas de um grupo a partir dos sentidos internos ao próprio grupo",
     "e": "aculturação, incorporação de traços de um grupo por outro em situação de contato prolongado"
    },
    "resposta": "c",
@@ -4704,7 +4704,7 @@
     "a": "é absoluto e impede qualquer comunicação, mesmo diante de risco a terceiros identificáveis",
     "b": "admite ruptura, porque o risco a terceiros identificáveis constitui uma das exceções previstas",
     "c": "deixa de existir assim que o paciente informa fato relacionado à sua atividade profissional",
-    "d": "depende exclusivamente da avaliação que o próprio paciente faz do risco que oferece às demais pessoas",
+    "d": "depende apenas da avaliação que o próprio paciente faz do risco que oferece às demais pessoas ao seu redor",
     "e": "pode ser rompido a qualquer momento, já que serve apenas à conveniência do atendimento"
    },
    "resposta": "b",

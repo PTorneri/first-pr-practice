@@ -1,5 +1,5 @@
 {
- "gerado": "2026-08-17",
+ "gerado": "2026-08-18",
  "frente": "geografia",
  "total": 610,
  "residuo": [
@@ -9,7 +9,6 @@
   "dir-geografia-35",
   "dir-geografia-36",
   "dir-geografia-54",
-  "dir-geografia-123",
   "dir-geografia-124",
   "dir-geografia-127",
   "dir-geografia-149",
@@ -753,9 +752,10 @@
    "margem": 5
   },
   "dir-geografia-123": {
-   "subtema": "geografia-populacao-urbana",
+   "subtema": "geografia-geopolitica",
    "frenteDestino": "geografia",
-   "padrao": true
+   "pontos": 4,
+   "margem": 4
   },
   "dir-geografia-124": {
    "subtema": "geografia-populacao-urbana",

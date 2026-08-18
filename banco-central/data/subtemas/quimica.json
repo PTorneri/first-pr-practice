@@ -1,5 +1,5 @@
 {
- "gerado": "2026-08-17",
+ "gerado": "2026-08-18",
  "frente": "quimica",
  "total": 567,
  "residuo": [
@@ -180,7 +180,7 @@
    "subtema": "quimica-equilibrio-acido-base",
    "frenteDestino": "quimica",
    "pontos": 10,
-   "margem": 1
+   "margem": 5
   },
   "med-quimica-29": {
    "subtema": "quimica-solucoes",

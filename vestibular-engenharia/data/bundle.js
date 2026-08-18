@@ -9449,7 +9449,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Na matriz A = [2 −1 3; 4 −2 6; 5 0 1], em que o ponto e vírgula separa as linhas, a segunda linha é ______ da primeira; por isso det A vale ______ e o sistema linear homogêneo que tem A como matriz dos coeficientes ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "o dobro – 0 – admite infinitas soluções, e não apenas a trivial, por ser indeterminado",
-    "b": "o dobro – 0 – admite apenas a solução trivial, já que todo sistema homogêneo é determinado",
+    "b": "o dobro – 0 – admite apenas a solução trivial, já que um sistema homogêneo é determinado por definição",
     "c": "a metade – 34 – tem solução única, obtida diretamente pela regra de Cramer",
     "d": "o dobro – 68 – é impossível, pois as duas primeiras equações se contradizem",
     "e": "independente – −34 – só admite solução quando os termos independentes são todos nulos"
@@ -9685,7 +9685,7 @@ window.QUESTION_BANKS = {
     "b": "possível e determinado para m ≠ 6 e impossível para m = 6",
     "c": "impossível para m = 6 e possível e indeterminado para m = 3",
     "d": "possível e determinado para qualquer valor real de m",
-    "e": "possível e indeterminado para todo m, já que há duas equações e duas incógnitas"
+    "e": "possível e indeterminado independentemente do valor de m, já que há duas equações e duas incógnitas"
    },
    "resposta": "a",
    "explicacao": "O determinante dos coeficientes é m − 6, então há solução única sempre que m ≠ 6. Com m = 6, a segunda equação vira 3x + 6y = 9, exatamente o triplo da primeira: mesma reta, infinitas soluções. A alternativa (b) é a armadilha central da discussão — quando o determinante zera, é obrigatório checar o termo independente antes de decidir entre impossível e indeterminado, e aqui ele acompanha a proporção.",
@@ -13484,7 +13484,7 @@ window.QUESTION_BANKS = {
     "a": "combinação – arranjo – 35 possibilidades, pois é preciso descontar as repetições geradas pela ordem dos escolhidos",
     "b": "combinação – arranjo – 210 possibilidades, uma vez que cada trio pode ser apresentado em ordens diferentes",
     "c": "permutação – arranjo – 21 possibilidades, resultado de multiplicar o total de pessoas pelo tamanho da comissão",
-    "d": "arranjo – combinação – 210 possibilidades, porque toda escolha de pessoas para uma comissão pressupõe alguma hierarquia",
+    "d": "arranjo – combinação – 210 possibilidades, porque a escolha de pessoas para uma comissão pressuporia alguma hierarquia interna",
     "e": "arranjo – combinação – 35 possibilidades, pois a comissão sem cargos não distingue a ordem dos três nomes escolhidos"
    },
    "resposta": "e",
@@ -21471,7 +21471,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A temperatura final de equilíbrio:",
    "alternativas": {
     "a": "depende das massas e dos calores específicos dos dois corpos, resultando numa média ponderada pelas capacidades térmicas de cada um",
-    "b": "é sempre a média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius em qualquer combinação de massas considerada",
+    "b": "é igual à média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius para as combinações de massas consideradas no problema",
     "c": "é sempre mais próxima da temperatura do corpo mais quente, uma vez que ele possui maior quantidade de energia térmica acumulada no início",
     "d": "depende apenas da diferença entre as temperaturas iniciais, sem qualquer influência das características materiais de cada um dos corpos",
     "e": "corresponde à temperatura do corpo de maior massa, que impõe sua condição térmica ao corpo menor durante o processo de equilíbrio"
@@ -22894,7 +22894,7 @@ window.QUESTION_BANKS = {
     "b": "a metade – diminui, e o som se torna mais grave",
     "c": "o dobro – aumenta, e o som emitido se torna mais agudo",
     "d": "o quádruplo – aumenta, e o som se torna mais agudo",
-    "e": "a quarta parte – permanece a mesma, qualquer que seja o dedilhado"
+    "e": "a quarta parte – permanece a mesma, independentemente do dedilhado usado"
    },
    "resposta": "c",
    "explicacao": "No fundamental cabe meio comprimento de onda entre os dois nós, então o comprimento de onda é o dobro do da corda. Encurtar a corda reduz o comprimento de onda e, como a velocidade na corda não muda, a frequência sobe — é assim que se tocam notas mais agudas no braço do instrumento.",
@@ -24890,7 +24890,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A circulação sem bomba é possível porque a água aquecida nas placas:",
    "alternativas": {
     "a": "reduz sua viscosidade a ponto de escoar espontaneamente contra a gravidade, sem necessidade de diferença de densidade entre as porções",
-    "b": "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa qualquer equipamento auxiliar",
+    "b": "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa o uso de equipamento auxiliar de bombeamento",
     "c": "evapora parcialmente e o vapor formado empurra a coluna líquida até o reservatório instalado na parte superior da montagem residencial",
     "d": "adquire carga elétrica pelo atrito com as paredes das tubulações, o que gera um campo capaz de movimentar o fluido ao longo do circuito",
     "e": "torna-se menos densa ao se dilatar e sobe por empuxo até o reservatório, sendo substituída pela água mais fria e mais densa que vem dele"
@@ -27238,7 +27238,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Um objeto de 0,50 kg preso a uma mola oscila horizontalmente sobre superfície sem atrito. Na posição de máxima elongação, sua velocidade é nula; ao passar pela posição de equilíbrio, a velocidade é máxima.",
    "enunciado": "Ao longo de uma oscilação completa, a energia mecânica total do sistema:",
    "alternativas": {
-    "a": "depende exclusivamente da massa do bloco, sem qualquer contribuição da constante elástica ou da amplitude adotada na montagem experimental",
+    "a": "depende apenas da massa do bloco suspenso, sem contribuição alguma da constante elástica ou da amplitude adotada na montagem experimental do laboratório",
     "b": "aumenta continuamente, uma vez que a mola fornece energia adicional ao bloco a cada ciclo completo de oscilação realizado pelo sistema",
     "c": "diminui a cada ciclo, porque parte da energia se dissipa na deformação da mola mesmo na ausência de atrito com a superfície de apoio",
     "d": "é máxima na posição de equilíbrio e nula nos extremos, acompanhando a variação observada para a velocidade do bloco durante o movimento",
@@ -28376,7 +28376,7 @@ window.QUESTION_BANKS = {
     "b": "só se manifestam em velocidades muito próximas à da luz, condição jamais atingida por qualquer objeto construído pela engenharia humana",
     "c": "afetam exclusivamente partículas subatômicas em aceleradores, sem qualquer repercussão sobre instrumentos de escala macroscópica utilizados",
     "d": "têm consequências práticas mensuráveis em tecnologias de uso cotidiano, já que sem a correção o erro de posicionamento cresceria a cada dia",
-    "e": "contradizem as leis da mecânica clássica em todas as escalas, o que torna inválido o uso das equações de Newton em qualquer aplicação prática"
+    "e": "contradizem as leis da mecânica clássica nas diversas escalas, o que tornaria inválido o uso das equações de Newton nas aplicações práticas usuais"
    },
    "resposta": "d",
    "explicacao": "Sem as correções relativísticas — tanto a da velocidade orbital quanto a do campo gravitacional mais fraco em altitude —, o erro de posicionamento acumularia vários quilômetros por dia. A alternativa (e) exagera: a mecânica newtoniana continua válida como aproximação em baixas velocidades.",
@@ -29795,7 +29795,7 @@ window.QUESTION_BANKS = {
     "a": "produzir previsões meteorológicas diárias para diferentes regiões do planeta, tarefa que compete a serviços meteorológicos nacionais, não ao IPCC",
     "b": "conduzir diretamente as negociações internacionais sobre metas de redução de emissões",
     "c": "definir, de forma unilateral e vinculante, políticas ambientais que todos os países são legalmente obrigados a seguir de imediato",
-    "d": "realizar exclusivamente pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
+    "d": "realizar apenas pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade bastante distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
     "e": "sintetizar e avaliar, com base em evidências científicas revisadas por pares, o conhecimento sobre mudanças climáticas, servindo de base técnica para negociações e políticas públicas"
    },
    "resposta": "e",
@@ -31508,7 +31508,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "tetraédrica, trigonal plana e linear, formas que decorrem apenas do número de átomos ligados ao elemento central de cada molécula",
     "b": "trigonal plana, piramidal e angular, arranjos determinados pelo número total de pares de elétrons presentes na camada de valência",
-    "c": "tetraédrica, tetraédrica e tetraédrica, uma vez que todas apresentam quatro pares de elétrons distribuídos ao redor do elemento central",
+    "c": "tetraédrica, tetraédrica e tetraédrica, uma vez que as três apresentam quatro pares de elétrons distribuídos ao redor do elemento central da molécula",
     "d": "linear, angular e tetraédrica, sequência que acompanha o aumento do número de pares não ligantes presentes no átomo central",
     "e": "tetraédrica, piramidal e angular, formas definidas pelas posições dos átomos ligados, e não pelas dos pares de elétrons não ligantes"
    },
@@ -33143,7 +33143,7 @@ window.QUESTION_BANKS = {
     "b": "o pH é maior que 7, uma vez que a constante de ionização apresenta valor muito baixo em relação à concentração do ácido na solução",
     "c": "a adição de acetato de sódio aumentaria a ionização do ácido, elevando ainda mais a concentração de íons hidrogênio em solução",
     "d": "apenas uma pequena fração das moléculas está ionizada, e a concentração de íons hidrogênio resultante leva o pH a ficar em torno de 2,4",
-    "e": "o grau de ionização independe da concentração inicial, permanecendo constante em qualquer diluição realizada a partir da amostra original"
+    "e": "o grau de ionização independe da concentração inicial, permanecendo constante nas diluições sucessivas realizadas a partir da amostra original"
    },
    "resposta": "d",
    "explicacao": "O valor pequeno da constante indica ácido fraco, com ionização parcial. Estimando pela expressão do equilíbrio, a concentração de íons hidrogênio fica na ordem de 4 x 10⁻³ mol/L, o que corresponde a pH em torno de 2,4. Adicionar acetato deslocaria o equilíbrio no sentido inverso, o que torna (c) incorreta.",
@@ -35392,7 +35392,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "monômero, unidade estrutural simples que ainda não reagiu para formar uma cadeia maior",
     "b": "isômero, composto de mesma fórmula molecular e estrutura diferente de outro composto",
-    "c": "hidrocarboneto, composto formado exclusivamente por átomos de carbono e hidrogênio ao longo de toda a cadeia",
+    "c": "hidrocarboneto, composto formado apenas por átomos de carbono e hidrogênio ao longo da cadeia principal inteira",
     "d": "eletrólito, substância capaz de conduzir corrente elétrica quando dissolvida ou fundida",
     "e": "polímero, macromolécula formada pela repetição de unidades estruturais menores ligadas entre si"
    },
@@ -35570,7 +35570,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O naftaleno, usado antigamente em repelentes de traça, é formado por dois anéis benzênicos fundidos, cada um mantendo o padrão de ligações deslocalizadas do benzeno.",
    "enunciado": "A presença de anéis com esse padrão de ligação classifica o naftaleno como um hidrocarboneto:",
    "alternativas": {
-    "a": "alifático saturado, formado exclusivamente por ligações simples entre os átomos de carbono da cadeia",
+    "a": "alifático saturado, formado apenas por ligações simples entre os átomos de carbono da cadeia principal",
     "b": "alicíclico, formado por um anel fechado sem as ligações deslocalizadas típicas do benzeno",
     "c": "alifático insaturado, formado por uma cadeia aberta com duplas ligações isoladas entre carbonos",
     "d": "heterocíclico, por apresentar em seu anel um átomo diferente de carbono na composição da cadeia",
@@ -39237,7 +39237,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A principal dificuldade técnica para viabilizar a fusão controlada na Terra é:",
    "alternativas": {
     "a": "impedir a reação em cadeia descontrolada, que se propaga espontaneamente uma vez iniciada e libera energia de forma explosiva no reator",
-    "b": "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em qualquer proporção",
+    "b": "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em proporção aproveitável",
     "c": "conter os resíduos radioativos de meia-vida muito longa gerados pelo processo, cujo armazenamento exige instalações geológicas profundas",
     "d": "atingir e manter temperaturas altíssimas, necessárias para vencer a repulsão elétrica entre núcleos de carga positiva, e confinar o plasma",
     "e": "resfriar o combustível até temperaturas próximas do zero absoluto, condição em que os núcleos se aproximam o suficiente para se fundirem"
@@ -58364,7 +58364,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A doutrina funciona na obra como:",
    "alternativas": {
     "a": "resumo das teorias científicas em circulação, apresentadas sem qualquer julgamento ao leitor",
-    "b": "exposição séria do pensamento do autor, que teria adotado essa doutrina como fundamento de toda a sua produção literária a partir daquele momento",
+    "b": "exposição séria do pensamento do autor, que teria adotado essa doutrina como fundamento da sua produção literária inteira a partir daquele momento",
     "c": "paródia das filosofias que transformam a força em direito, levando ao ridículo o darwinismo social do período",
     "d": "recurso de caracterização psicológica da personagem principal, sem qualquer relação com os debates intelectuais em curso naquele período",
     "e": "homenagem às correntes positivistas então dominantes no país, cujas ideias o autor divulgaria"
@@ -58913,7 +58913,7 @@ window.QUESTION_BANKS = {
     "a": "aparece sempre idealizada como espaço de progresso e de oportunidade, leitura que atravessa sem alteração os cinco momentos apresentados",
     "b": "mantém ao longo de todo o período a mesma função de pano de fundo neutro, sem qualquer influência sobre as personagens que nela circulam",
     "c": "deixa de ser cenário e passa a ser assunto e problema, aquilo de que a história trata e não apenas onde ela se passa",
-    "d": "é progressivamente abandonada em favor do espaço rural, deslocamento que se completa com a produção do romance regionalista dos anos trinta",
+    "d": "é progressivamente abandonada em favor do espaço rural e essa mudança se completaria com a produção do romance regionalista dos anos trinta",
     "e": "recebe tratamento exclusivamente documental, com registro estatístico das mudanças"
    },
    "resposta": "c",
@@ -60615,7 +60615,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "enunciado": "A metáfora da devoração, no Manifesto Antropófago, serve para defender",
    "alternativas": {
-    "a": "o isolamento cultural do país em relação a toda influência estrangeira.",
+    "a": "o isolamento cultural do país em relação às influências estrangeiras europeias.",
     "b": "a imitação fiel dos modelos europeus como caminho de modernização.",
     "c": "a apropriação transformadora do que vem de fora, sem recusa nem cópia.",
     "d": "o retorno a uma origem indígena tida como pura e anterior ao contato.",
@@ -62851,7 +62851,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "recusar o tema nacional em favor de assuntos universais, próximos das correntes europeias",
     "b": "abandonar por completo os recursos da retórica romântica, adotando linguagem contida",
-    "c": "restringir-se ao registro documental dos fatos observados, sem que o poeta manifeste qualquer posição sobre a situação que descreve nos versos",
+    "c": "restringir-se ao registro documental dos fatos observados, sem que o poeta manifeste posição alguma sobre a situação que descreve nos versos",
     "d": "deslocar o sofrimento do eu lírico para um sujeito coletivo e concreto, mantendo intacta a retórica romântica",
     "e": "adotar formas fixas rigorosas herdadas da tradição clássica, em contraste com os antecessores"
    },
@@ -63960,7 +63960,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "abandonar o português como língua literária e substituí-lo por uma língua formada a partir dos idiomas indígenas",
     "b": "reconhecer autonomia à variedade brasileira diante da norma lisboeta, recusando Lisboa como única medida de correção",
-    "c": "aceitar sem restrições todos os estrangeirismos em circulação no país, medida que os críticos portugueses consideravam empobrecedora do idioma",
+    "c": "aceitar sem restrições os estrangeirismos em circulação no país, medida que os críticos portugueses consideravam empobrecedora do idioma nacional",
     "d": "restringir a literatura brasileira a temas locais, deixando de lado o que interessasse a outros países",
     "e": "eliminar da escrita literária as marcas da oralidade, aproximando o texto de um padrão único"
    },
@@ -73456,7 +73456,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A leitura dessa data:",
    "alternativas": {
     "a": "difere entre o padrão britânico e o americano: três de abril no Reino Unido e quatro de março nos Estados Unidos",
-    "b": "é idêntica nos dois padrões, uma vez que a ordem dos elementos foi uniformizada por convenção internacional adotada por todos os países",
+    "b": "é idêntica nos dois padrões, uma vez que a ordem dos elementos foi uniformizada por convenção internacional adotada pelos países signatários",
     "c": "segue sempre a ordem ano, mês e dia nos textos escritos em língua inglesa, independentemente da variedade adotada por quem escreve",
     "d": "depende exclusivamente do contexto em que a data aparece, sem que exista qualquer convenção estabelecida para a escrita em cada país",
     "e": "é impossível de determinar sem a indicação expressa do dia da semana correspondente"

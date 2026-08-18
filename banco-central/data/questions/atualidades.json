@@ -128,7 +128,7 @@
    "enunciado": "A diferença entre resultado primário e resultado nominal das contas públicas está em que o resultado nominal:",
    "alternativas": {
     "a": "é calculado apenas para estados e municípios, excluindo as contas da União desse cálculo",
-    "b": "refere-se exclusivamente às contas do setor externo, como o balanço de pagamentos e a conta de capital",
+    "b": "refere-se apenas às contas do setor externo brasileiro, como o balanço de pagamentos e a conta de capital",
     "c": "considera apenas as despesas de custeio, excluindo os investimentos do cálculo",
     "d": "inclui o pagamento de juros da dívida pública, enquanto o primário não considera essa despesa",
     "e": "exclui todas as receitas tributárias, considerando apenas as despesas correntes do governo"
@@ -178,7 +178,7 @@
    "texto_apoio": "O envelhecimento populacional, decorrente do aumento da expectativa de vida combinado à queda da taxa de fecundidade, eleva a razão entre aposentados e trabalhadores ativos contribuindo para o sistema.",
    "enunciado": "Esse fenômeno demográfico é frequentemente apontado como justificativa central para:",
    "alternativas": {
-    "a": "a eliminação de qualquer sistema público de aposentadoria, substituindo-o integralmente por planos privados",
+    "a": "a eliminação do sistema público de aposentadoria por repartição, substituindo-o integralmente por planos privados individuais",
     "b": "a migração do regime de repartição simples para o de capitalização individual obrigatória",
     "c": "a redução da idade mínima de aposentadoria, ampliando o tempo médio de recebimento do benefício pelo INSS",
     "d": "o aumento do número de contribuintes informais, reduzindo a arrecadação do sistema previdenciário",
@@ -1378,7 +1378,7 @@
    "alternativas": {
     "a": "substituir os promotores de Justiça na condução de investigações criminais",
     "b": "julgar recursos contra arquivamento de inquéritos civis pelos promotores de Justiça",
-    "c": "aprovar previamente qualquer ação penal antes de seu ajuizamento, condicionando a atuação de cada promotor a autorização prévia",
+    "c": "aprovar previamente as ações penais antes de seu ajuizamento, condicionando a atuação de cada promotor a autorização hierárquica prévia",
     "d": "controlar a atuação administrativa e financeira do Ministério Público e o cumprimento dos deveres funcionais de seus membros",
     "e": "definir o conteúdo das denúncias criminais oferecidas pelos membros do Ministério Público"
    },
@@ -2097,7 +2097,7 @@
    "alternativas": {
     "a": "ataques digitais são incapazes de gerar danos reais a infraestruturas físicas, atuando apenas no plano simbólico",
     "b": "a segurança cibernética substitui integralmente a necessidade de manter forças armadas convencionais",
-    "c": "ataques cibernéticos são sempre atribuíveis a um Estado específico, o que permite resposta militar imediata e proporcional",
+    "c": "ataques cibernéticos são de imediato atribuíveis a um Estado específico, o que permitiria resposta militar rápida e proporcional",
     "d": "unicamente órgãos militares formais são capazes de realizar ataques cibernéticos contra outros países",
     "e": "infraestruturas críticas dependem cada vez mais de sistemas digitais interconectados, vulneráveis a ataques diversos"
    },
@@ -2620,7 +2620,7 @@
     "a": "é decidida exclusivamente pelo país candidato, sem participação dos membros já integrantes",
     "b": "ocorre de forma automática e imediata, sem qualquer exigência prévia aos países candidatos",
     "c": "independe totalmente de qualquer avaliação institucional dos países candidatos ao ingresso no bloco",
-    "d": "é determinada exclusivamente pelo peso econômico do país candidato, dispensando avaliação de critérios políticos",
+    "d": "é determinada apenas pelo peso econômico e demográfico do país candidato, dispensando a avaliação de critérios políticos",
     "e": "depende do cumprimento de critérios políticos, econômicos e institucionais definidos pelo bloco antes da adesão"
    },
    "resposta": "e",
@@ -3293,7 +3293,7 @@
    "texto_apoio": "Críticos de determinados programas internacionais de financiamento de infraestrutura argumentam que empréstimos concedidos a países com baixa capacidade de pagamento podem, em caso de inadimplência, resultar na perda de controle de ativos estratégicos por parte do país devedor. Defensores desses programas, por sua vez, afirmam que eles preenchem uma lacuna de investimento em infraestrutura não atendida por outras fontes de financiamento.",
    "enunciado": "Esse debate, que contrapõe a crítica de uma suposta 'diplomacia da armadilha da dívida' à defesa do papel desses financiamentos no desenvolvimento de infraestrutura, ilustra:",
    "alternativas": {
-    "a": "a comprovação, aceita por todas as partes, de que os financiamentos foram concedidos com o objetivo declarado de obter ativos estratégicos",
+    "a": "a comprovação, aceita pelas partes envolvidas, de que os financiamentos foram concedidos com o objetivo declarado de obter ativos estratégicos",
     "b": "um consenso unânime entre analistas sobre os efeitos desses financiamentos internacionais",
     "c": "a existência de interpretações contrastantes sobre os riscos e benefícios desses programas de financiamento",
     "d": "a proibição legal desses financiamentos por parte de organismos multilaterais de crédito",
@@ -4295,7 +4295,7 @@
    "texto_apoio": "Empresas e alguns governos têm demonstrado interesse crescente na exploração de nódulos minerais localizados no fundo do oceano, em águas internacionais, ricos em metais usados em baterias e componentes eletrônicos. Cientistas alertam, porém, que os efeitos dessa atividade sobre ecossistemas marinhos pouco estudados ainda são amplamente desconhecidos.",
    "enunciado": "O debate em torno da regulação da mineração em águas internacionais profundas ilustra, sobretudo, a tensão entre:",
    "alternativas": {
-    "a": "a inexistência de qualquer órgão internacional responsável por regular atividades no fundo do mar profundo",
+    "a": "a inexistência de órgão internacional responsável por regular as atividades de mineração no fundo do mar profundo",
     "b": "o interesse econômico no acesso a minerais essenciais e a preocupação ambiental com ecossistemas marinhos",
     "c": "a existência de moratória internacional definitiva sobre qualquer atividade extrativa em fundos marinhos",
     "d": "a garantia científica de que essa atividade não gera qualquer impacto ambiental relevante",
@@ -10493,7 +10493,7 @@
    "alternativas": {
     "a": "aguardar as listas de temas prováveis dos cursos preparatórios antes de estudar",
     "b": "reconhecer o nome de todos os acontecimentos noticiados no ano anterior à realização da prova em cada uma das áreas",
-    "c": "memorizar os números exatos de todos os indicadores divulgados pelos órgãos oficiais durante o período de preparação",
+    "c": "memorizar os números exatos dos indicadores divulgados pelos órgãos oficiais durante o período inteiro de preparação",
     "d": "acompanhar diariamente todas as fontes de informação disponíveis sem qualquer seleção prévia dos temas relevantes",
     "e": "conseguir explicar o mecanismo por trás de um tema novo e relacioná-lo a conteúdos das disciplinas"
    },

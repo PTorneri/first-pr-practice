@@ -1212,7 +1212,7 @@
     "a": "proteínas complexas, em um processo que consome dióxido de carbono do ambiente em vez de liberá-lo",
     "b": "ácido acético e água, resultado da oxidação completa do açúcar",
     "c": "álcool etílico (etanol) e dióxido de carbono, na ausência de oxigênio, como forma de obtenção de energia pelas leveduras",
-    "d": "ácido lático, o mesmo produto formado nas células musculares humanas durante o esforço intenso, quando a chegada de oxigênio não acompanha a demanda energética do tecido",
+    "d": "ácido lático, o mesmo produto formado nas células musculares humanas durante o esforço intenso, situação em que a chegada de oxigênio não acompanha a demanda energética do tecido",
     "e": "oxigênio molecular e água, na presença de oxigênio, de forma semelhante à respiração celular aeróbica"
    },
    "resposta": "c",
@@ -1501,7 +1501,7 @@
     "a": "produzir previsões meteorológicas diárias para diferentes regiões do planeta, tarefa que compete a serviços meteorológicos nacionais, não ao IPCC",
     "b": "conduzir diretamente as negociações internacionais sobre metas de redução de emissões",
     "c": "definir, de forma unilateral e vinculante, políticas ambientais que todos os países são legalmente obrigados a seguir de imediato",
-    "d": "realizar exclusivamente pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
+    "d": "realizar apenas pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade bastante distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
     "e": "sintetizar e avaliar, com base em evidências científicas revisadas por pares, o conhecimento sobre mudanças climáticas, servindo de base técnica para negociações e políticas públicas"
    },
    "resposta": "e",
@@ -1534,7 +1534,7 @@
    "alternativas": {
     "a": "o aumento constante e ilimitado da extração de matérias-primas virgens da natureza, sem qualquer preocupação com reaproveitamento",
     "b": "a manutenção do padrão linear tradicional de produção, extração e descarte, sem qualquer alteração no ciclo de vida dos produtos",
-    "c": "a proibição total de qualquer forma de produção industrial em larga escala, medida radical incompatível com o objetivo de reaproveitamento da economia circular",
+    "c": "a proibição total das formas de produção industrial em larga escala, medida radical incompatível com o objetivo de reaproveitamento da economia circular",
     "d": "a substituição integral de materiais sintéticos por matérias-primas de origem vegetal",
     "e": "a reutilização, a reciclagem e a extensão da vida útil de produtos, reduzindo a extração de recursos naturais e a geração de resíduos"
    },

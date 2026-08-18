@@ -556,7 +556,7 @@
     "b": "Uma correção automática a cada censo, que reajusta o número de cadeiras de modo a manter a proporcionalidade populacional entre os estados",
     "c": "Uma vantagem sistemática para os estados do Sudeste, por concentrarem a maior parte das cadeiras mínimas garantidas a cada unidade",
     "d": "Uma distribuição de cadeiras definida exclusivamente pela extensão territorial de cada estado, e não por sua população efetiva",
-    "e": "Uma representação estritamente proporcional à população de cada estado, sem qualquer limite mínimo ou máximo de cadeiras na Câmara, regra vigente desde a Constituinte de 1988"
+    "e": "Uma representação estritamente proporcional à população de cada estado, sem os limites mínimo e máximo hoje fixados para as bancadas na Câmara, regra vigente desde a Constituinte de 1988"
    },
    "resposta": "a",
    "explicacao": "Como a Constituição estabelece número mínimo (8) e máximo (70) de deputados por estado, unidades menos populosas ficam relativamente super-representadas, enquanto estados muito populosos, como São Paulo, ficam sub-representados. A distribuição não é estritamente proporcional, não se baseia na extensão territorial, e a vantagem relativa recai sobre estados menos populosos, não sobre o Sudeste, que concentra os estados mais populosos do país.",
@@ -1339,7 +1339,7 @@
    "enunciado": "Nas últimas décadas, tem crescido a utilização do chamado 'Arco Norte' — conjunto de portos localizados nas regiões Norte e Nordeste do Brasil (como Itaqui, Barcarena e Santarém) — para o escoamento da produção de soja do Centro-Oeste. Essa alternativa logística ganhou espaço, sobretudo, porque:",
    "alternativas": {
     "a": "Reduz a distância de transporte terrestre para produtores localizados no norte do Centro-Oeste e no Matopiba, diminuindo custos logísticos",
-    "b": "Depende de rotas exclusivamente ferroviárias, sem qualquer trecho rodoviário no trajeto entre as fazendas e os portos, modelo raramente adotado no transporte de grãos",
+    "b": "Depende de rotas inteiramente ferroviárias, sem nenhum trecho rodoviário no trajeto entre as fazendas e os portos, modelo raramente adotado no transporte de grãos brasileiro",
     "c": "Prioriza a exportação de manufaturados de alto valor agregado, deixando as commodities agrícolas para os portos do Sudeste",
     "d": "Foi imposta por uma legislação federal que restringiu a exportação de soja exclusivamente aos portos do Norte e Nordeste, medida nunca efetivamente implementada",
     "e": "Substituiu por completo o Porto de Santos, que deixou de operar com produtos do agronegócio a partir da consolidação do Arco Norte"
@@ -1373,7 +1373,7 @@
    "enunciado": "A indústria automobilística brasileira, historicamente concentrada no ABC paulista, passou, nas últimas décadas, por um processo de desconcentração, com a instalação de novas montadoras em estados como Bahia, Paraná, Goiás e Minas Gerais. Esse movimento foi favorecido, entre outros fatores, por:",
    "alternativas": {
     "a": "O encerramento definitivo das atividades de todas as montadoras historicamente instaladas no ABC paulista, decisão anunciada pelo setor em 2015",
-    "b": "A ausência histórica de qualquer infraestrutura rodoviária fora do eixo Sudeste, o que obrigou as montadoras a construí-la do zero, processo que se estendeu por toda a década de 1990",
+    "b": "A ausência histórica de infraestrutura rodoviária minimamente utilizável fora do eixo Sudeste, o que obrigou as montadoras a construí-la do zero, processo que se estendeu ao longo da década de 1990",
     "c": "Uma determinação do Ministério da Indústria que redistribuiu compulsoriamente as fábricas entre os estados, medida hipotética nunca prevista em lei",
     "d": "Incentivos fiscais oferecidos por governos estaduais e municipais para atrair essas indústrias (a chamada guerra fiscal), além de custos menores de mão de obra e terrenos",
     "e": "A proximidade das novas plantas em relação às jazidas de minério de ferro, insumo principal da produção de veículos"
@@ -1581,7 +1581,7 @@
    "texto_apoio": "",
    "enunciado": "O fenômeno conhecido como 'fuga de cérebros' (brain drain) refere-se à:",
    "alternativas": {
-    "a": "Um fenômeno restrito a migrações internas dentro de um mesmo país, sem qualquer componente internacional, ainda que envolva impactos relevantes no país de origem e no de destino",
+    "a": "Um fenômeno restrito a migrações internas dentro de um mesmo país, sem componente internacional de espécie alguma, ainda que envolva impactos relevantes no país de origem e no de destino",
     "b": "Emigração de profissionais altamente qualificados (como cientistas, médicos e engenheiros) para países mais desenvolvidos, em busca de melhores salários e condições de trabalho",
     "c": "Migração de trabalhadores de baixa qualificação de países desenvolvidos para países em desenvolvimento, em busca de menor custo de vida",
     "d": "Entrada de trabalhadores pouco qualificados vindos de países vizinhos, atraídos por vagas em setores de baixa remuneração",
@@ -1822,7 +1822,7 @@
     "a": "Ao processo de ocupação irregular e desordenada dessas áreas, que dificulta o planejamento e a extensão de redes formais de água e esgoto pelo poder público",
     "b": "Um investimento público historicamente maior em saneamento nas periferias do que nas áreas centrais das cidades",
     "c": "Ao relevo acidentado dessas áreas, único fator a inviabilizar tecnicamente a instalação de redes de saneamento",
-    "d": "Uma legislação municipal que veda expressamente a instalação de redes de saneamento em áreas urbanas de qualquer tipo, proposta nunca formalizada por qualquer município",
+    "d": "Uma legislação municipal que veda expressamente a instalação de redes de saneamento em áreas urbanas ocupadas de forma irregular, texto que não consta da legislação de nenhuma capital brasileira",
     "e": "Uma política deliberada e já consolidada de universalização do saneamento nessas áreas, concluída nas últimas décadas"
    },
    "resposta": "a",
@@ -1857,7 +1857,7 @@
     "b": "A atividade de mineração instalada a montante das capitais, principal responsável pela carga poluidora desses rios urbanos",
     "c": "Uma política municipal que restringe a poluição a trechos específicos do rio, mantendo o restante do curso d'água preservado",
     "d": "Um processo natural de sedimentação, característico de qualquer rio que atravesse uma planície aluvial",
-    "e": "Atividades exclusivamente agrícolas realizadas no interior do estado, sem qualquer contribuição das áreas urbanas ao longo do curso do rio, realidade distante do caso do Tietê"
+    "e": "Atividades de natureza estritamente agrícola realizadas no interior do estado, sem contribuição alguma das áreas urbanas ao longo do curso do rio, realidade distante do caso do Tietê"
    },
    "resposta": "a",
    "explicacao": "A poluição de rios urbanos, como o Tietê, decorre principalmente do despejo de esgoto sem tratamento adequado e do descarte irregular de resíduos, agravados pelo crescimento urbano desordenado. O problema não é de origem exclusivamente rural, não é um processo natural de sedimentação, e não existe política que restrinja a poluição a trechos específicos do rio.",
@@ -1958,7 +1958,7 @@
     "a": "Especulação imobiliária, na qual proprietários mantêm imóveis ociosos à espera de valorização futura, contribuindo para o encarecimento do solo urbano",
     "b": "Uma escassez real e absoluta de terrenos disponíveis nas áreas centrais das cidades brasileiras",
     "c": "Uma política pública já consolidada de distribuição igualitária de moradias em áreas centrais valorizadas",
-    "d": "Uma exigência técnica de engenharia que impede a ocupação imediata de qualquer terreno urbano recém-adquirido, equívoco recorrente sobre normas de uso do solo",
+    "d": "Uma exigência técnica de engenharia que impede a ocupação imediata de terrenos urbanos recém-adquiridos, regra que não encontra respaldo nas normas municipais de uso do solo",
     "e": "Restrições legais que impedem o uso residencial de imóveis situados em áreas centrais, obrigando sua manutenção sem ocupação"
    },
    "resposta": "a",
@@ -2057,7 +2057,7 @@
    "texto_apoio": "O Brasil possui uma extensa rede hidrográfica com potencial para o transporte de cargas por hidrovias, como a Hidrovia Tietê-Paraná.",
    "enunciado": "Apesar desse potencial, a utilização das hidrovias no transporte de cargas no país permanece:",
    "alternativas": {
-    "a": "Plenamente explorada, superando o transporte rodoviário em volume total de cargas no país, situação que só se verifica em trechos isolados da Amazônia, não no país como um todo",
+    "a": "Plenamente explorada, superando o transporte rodoviário em volume total de cargas no país, situação que só se verifica em trechos isolados da Amazônia e não no conjunto do território nacional",
     "b": "Voltada exclusivamente ao transporte internacional de passageiros em cruzeiros fluviais",
     "c": "Proporcionalmente pequena em relação ao seu potencial, em razão de investimentos históricos insuficientes em infraestrutura portuária fluvial, dragagem de rios e eclusas",
     "d": "Limitada pela ausência de rios com extensão navegável no território, o que restringe o modal a trechos isolados do país",
@@ -2091,7 +2091,7 @@
    "texto_apoio": "",
    "enunciado": "O termo 'Custo Brasil' é frequentemente utilizado para descrever um conjunto de fatores estruturais que elevam os custos de produção e de exportação de empresas instaladas no país, entre os quais se destaca:",
    "alternativas": {
-    "a": "O excesso histórico de investimentos em ferrovias e hidrovias, que teria elevado desnecessariamente os custos logísticos do país, tese contrariada pelo baixo investimento histórico brasileiro nesses modais",
+    "a": "O excesso histórico de investimentos em ferrovias e hidrovias, que teria elevado desnecessariamente os custos logísticos do país e drenado recursos das rodovias federais ao longo da segunda metade do século XX",
     "b": "A valorização cambial do real frente ao dólar, apontada como causa isolada da perda de competitividade da produção nacional",
     "c": "A ausência de qualquer tributo sobre a produção industrial, o que reduziria artificialmente o custo de bens brasileiros no exterior",
     "d": "A inexistência de qualquer imposto sobre operações de exportação ou importação no comércio exterior brasileiro",
@@ -2227,7 +2227,7 @@
    "texto_apoio": "",
    "enunciado": "Nas últimas décadas, ganhou espaço, em contraposição a antigas políticas de 'combate à seca', o paradigma da 'convivência com o semiárido', que propõe:",
    "alternativas": {
-    "a": "A proibição de qualquer atividade agrícola no semiárido nordestino, restringindo a região exclusivamente à pecuária extensiva, medida que contraria a própria noção de convivência com o semiárido",
+    "a": "A proibição das atividades agrícolas de sequeiro no semiárido nordestino, restringindo a região à pecuária extensiva de grande porte, medida que destoa da própria noção de convivência com o semiárido",
     "b": "O desenvolvimento de tecnologias sociais e práticas adaptadas às condições climáticas do semiárido, permitindo que a população permaneça na região com melhor qualidade de vida",
     "c": "A substituição de todas as tecnologias sociais locais por grandes barragens como única solução hídrica viável para a região, proposta que ignora décadas de tecnologias sociais consolidadas",
     "d": "A remoção definitiva de toda a população do semiárido nordestino para regiões de clima mais úmido do país",
@@ -2315,7 +2315,7 @@
     "a": "Eliminar a circulação de automóveis particulares nas áreas centrais, condição apontada como necessária para o sistema funcionar",
     "b": "Reduzir o congestionamento, a poluição do ar e o tempo médio de deslocamento da população, promovendo uma mobilidade urbana mais eficiente, equitativa e sustentável",
     "c": "Eliminar por completo a necessidade de qualquer forma de transporte motorizado nas grandes cidades brasileiras",
-    "d": "Beneficiar exclusivamente famílias de alta renda, que seriam as principais usuárias de sistemas de metrô e trens urbanos, argumento não sustentado pelos dados de uso do transporte público",
+    "d": "Beneficiar sobretudo as famílias de alta renda, que seriam as principais usuárias de sistemas de metrô e trens urbanos, argumento não sustentado pelos dados de uso do transporte público no país",
     "e": "Aumentar deliberadamente o tempo médio de deslocamento da população, como forma de desestimular viagens desnecessárias"
    },
    "resposta": "b",
@@ -3533,7 +3533,7 @@
    "enunciado": "A urbanização brasileira se caracterizou por ser ______, ______ e acompanhada de ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "tardia – acelerada – concentração da população em poucas grandes cidades, sem infraestrutura correspondente",
-    "b": "precoce – gradual – distribuição equilibrada da população entre as cidades de todos os portes existentes no território nacional brasileiro",
+    "b": "precoce – gradual – distribuição equilibrada da população entre as cidades de pequeno, médio e grande porte existentes no território nacional brasileiro",
     "c": "planejada – contínua – oferta prévia de infraestrutura urbana nas áreas de destino",
     "d": "espontânea – reversível – retorno progressivo da população às áreas rurais",
     "e": "induzida – uniforme – crescimento simultâneo e proporcional de todas as regiões metropolitanas identificadas no território brasileiro"
@@ -4102,7 +4102,7 @@
    "enunciado": "Em lugar disso, a disputa se manifestou por meio de:",
    "alternativas": {
     "a": "guerra declarada e contínua entre os territórios das duas potências, com operações militares",
-    "b": "acordos comerciais bilaterais firmados entre as duas superpotências ao longo de todo o período de vigência daquela configuração internacional",
+    "b": "acordos comerciais bilaterais firmados entre as duas superpotências ao longo do período de vigência daquela configuração internacional bipolar",
     "c": "conflitos localizados em terceiros países, como Coreia e Vietnã, corrida armamentista e disputa ideológica",
     "d": "integração econômica progressiva entre os dois blocos, que teria levado ao fim pacífico da disputa",
     "e": "arbitragem permanente das Nações Unidas sobre todas as controvérsias surgidas entre os dois blocos ao longo daquelas quatro décadas"
@@ -4150,7 +4150,7 @@
    "texto_apoio": "O Mercosul foi criado em 1991 com o objetivo de constituir um mercado comum entre os países-membros.",
    "enunciado": "Atualmente o bloco é classificado como união aduaneira imperfeita porque:",
    "alternativas": {
-    "a": "os países-membros ainda não eliminaram as tarifas sobre o comércio entre si, condição básica para a constituição de qualquer bloco econômico",
+    "a": "os países-membros ainda não eliminaram as tarifas sobre o comércio entre si, condição básica para a constituição de um bloco econômico regional",
     "b": "há longas listas de exceção à tarifa externa comum e a livre circulação de fatores não se completou",
     "c": "o bloco adotou moeda única sem convergência prévia entre as políticas econômicas dos membros",
     "d": "os membros abriram mão da soberania política em favor de instituições supranacionais",
@@ -4265,7 +4265,7 @@
     "a": "pela substituição do comércio internacional por acordos de autossuficiência regionais",
     "b": "pela eliminação de qualquer especialização produtiva entre os países, que passaram a produzir integralmente todos os bens de que necessitam",
     "c": "pelo retorno da produção industrial aos países centrais, revertendo a configuração anterior",
-    "d": "pela concentração de todas as etapas produtivas nos países periféricos, incluindo o desenvolvimento tecnológico e a definição das estratégias",
+    "d": "pela concentração das etapas produtivas nos países periféricos, incluindo o desenvolvimento tecnológico e a definição das estratégias corporativas",
     "e": "transferência de etapas industriais para a periferia, com o centro retendo pesquisa, marca e comando"
    },
    "resposta": "e",
@@ -4279,7 +4279,7 @@
    "enunciado": "Um dos critérios que orientam essa distribuição é:",
    "alternativas": {
     "a": "o tamanho da população de cada país, único fator considerado na localização das plantas",
-    "b": "a proximidade geográfica entre todas as unidades produtivas, exigência que impede a distribuição das etapas entre continentes diferentes",
+    "b": "a proximidade geográfica entre as unidades produtivas de uma mesma empresa, exigência que impede a distribuição das etapas entre continentes diferentes",
     "c": "custo da mão de obra, carga tributária e rigor da legislação ambiental de cada território de destino",
     "d": "a filiação de cada território a organizações internacionais, que autoriza a instalação",
     "e": "a exigência de manter todas as etapas no país de origem da empresa, conforme determinam as legislações nacionais dos países centrais"
@@ -4327,7 +4327,7 @@
    "enunciado": "O princípio que fundamenta essa diferenciação é o das:",
    "alternativas": {
     "a": "responsabilidades comuns porém diferenciadas, que consideram as emissões históricas acumuladas na atmosfera",
-    "b": "metas idênticas para todos os países signatários, critério que assegura tratamento igualitário no conjunto do sistema internacional atual",
+    "b": "metas idênticas para os países signatários, sem distinção entre economias centrais e periféricas, critério inscrito no texto do próprio acordo",
     "c": "responsabilidades atribuídas exclusivamente aos países em desenvolvimento, cujas emissões cresceram",
     "d": "obrigações proporcionais à extensão territorial de cada um dos países signatários",
     "e": "isenção integral concedida às economias emergentes, que ficam dispensadas de qualquer compromisso de redução de emissões nos acordos"
@@ -4586,7 +4586,7 @@
    "texto_apoio": "Os rompimentos de barragens de rejeitos em Mariana e em Brumadinho provocaram mortes e contaminação de bacias hidrográficas inteiras.",
    "enunciado": "Os dois casos expuseram sobretudo:",
    "alternativas": {
-    "a": "a inexistência de tecnologia capaz de conter rejeitos de mineração, limitação técnica que se mantém sem solução em todos os países produtores",
+    "a": "a inexistência de tecnologia capaz de conter rejeitos de mineração, limitação técnica que se mantém sem solução nos principais países produtores",
     "b": "falhas no licenciamento, na fiscalização e no monitoramento de estruturas alteadas a montante",
     "c": "a ausência de qualquer legislação ambiental aplicável à mineração no país até então",
     "d": "a incompatibilidade absoluta entre a mineração e a preservação ambiental no país",
@@ -4911,7 +4911,7 @@
    "texto_apoio": "Mapas coropléticos representam variáveis por meio de cores ou tonalidades aplicadas a unidades territoriais, como estados ou municípios.",
    "enunciado": "Um cuidado necessário na leitura desse tipo de mapa é:",
    "alternativas": {
-    "a": "conferir se o mapa utiliza projeção conforme, única capaz de assegurar a representação adequada de variáveis estatísticas em qualquer escala",
+    "a": "conferir se o mapa utiliza projeção conforme, a única capaz de assegurar a representação adequada de variáveis estatísticas em escalas pequenas",
     "b": "confirmar que todas as unidades representadas têm a mesma extensão territorial",
     "c": "verificar se a variável é relativa, pois o valor absoluto acaba reproduzindo o mapa da população",
     "d": "assegurar que a legenda apresente no máximo duas classes de valores distintos",
@@ -4946,7 +4946,7 @@
     "a": "só pode ser elaborado por órgãos oficiais, únicos capazes de assegurar a imparcialidade necessária à representação de qualquer território",
     "b": "reproduz com exatidão a superfície terrestre, desde que siga as normas técnicas",
     "c": "perde qualquer utilidade como instrumento de análise por causa dessas escolhas",
-    "d": "deve ser substituído por imagens de satélite, registros que dispensam qualquer intervenção humana na representação do território observado",
+    "d": "deve ser substituído por imagens de satélite, registros que dispensam a intervenção humana na representação do território observado pelo sensor",
     "e": "é uma representação feita de escolhas de projeção, escala e centro, e não um registro neutro"
    },
    "resposta": "e",

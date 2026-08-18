@@ -614,7 +614,7 @@
       "enunciado": "A urbanização brasileira se caracterizou por ser ______, ______ e acompanhada de ______. As lacunas são preenchidas por:",
       "alternativas": {
         "a": "tardia – acelerada – concentração da população em poucas grandes cidades, sem infraestrutura correspondente",
-        "b": "precoce – gradual – distribuição equilibrada da população entre as cidades de todos os portes existentes no território nacional brasileiro",
+        "b": "precoce – gradual – distribuição equilibrada da população entre as cidades de pequeno, médio e grande porte existentes no território nacional brasileiro",
         "c": "planejada – contínua – oferta prévia de infraestrutura urbana nas áreas de destino",
         "d": "espontânea – reversível – retorno progressivo da população às áreas rurais",
         "e": "induzida – uniforme – crescimento simultâneo e proporcional de todas as regiões metropolitanas identificadas no território brasileiro"
@@ -1148,7 +1148,7 @@
       "enunciado": "Em lugar disso, a disputa se manifestou por meio de:",
       "alternativas": {
         "a": "guerra declarada e contínua entre os territórios das duas potências, com operações militares",
-        "b": "acordos comerciais bilaterais firmados entre as duas superpotências ao longo de todo o período de vigência daquela configuração internacional",
+        "b": "acordos comerciais bilaterais firmados entre as duas superpotências ao longo do período de vigência daquela configuração internacional bipolar",
         "c": "conflitos localizados em terceiros países, como Coreia e Vietnã, corrida armamentista e disputa ideológica",
         "d": "integração econômica progressiva entre os dois blocos, que teria levado ao fim pacífico da disputa",
         "e": "arbitragem permanente das Nações Unidas sobre todas as controvérsias surgidas entre os dois blocos ao longo daquelas quatro décadas"
@@ -1193,7 +1193,7 @@
       "texto_apoio": "O Mercosul foi criado em 1991 com o objetivo de constituir um mercado comum entre os países-membros.",
       "enunciado": "Atualmente o bloco é classificado como união aduaneira imperfeita porque:",
       "alternativas": {
-        "a": "os países-membros ainda não eliminaram as tarifas sobre o comércio entre si, condição básica para a constituição de qualquer bloco econômico",
+        "a": "os países-membros ainda não eliminaram as tarifas sobre o comércio entre si, condição básica para a constituição de um bloco econômico regional",
         "b": "há longas listas de exceção à tarifa externa comum e a livre circulação de fatores não se completou",
         "c": "o bloco adotou moeda única sem convergência prévia entre as políticas econômicas dos membros",
         "d": "os membros abriram mão da soberania política em favor de instituições supranacionais",
@@ -1301,7 +1301,7 @@
         "a": "pela substituição do comércio internacional por acordos de autossuficiência regionais",
         "b": "pela eliminação de qualquer especialização produtiva entre os países, que passaram a produzir integralmente todos os bens de que necessitam",
         "c": "pelo retorno da produção industrial aos países centrais, revertendo a configuração anterior",
-        "d": "pela concentração de todas as etapas produtivas nos países periféricos, incluindo o desenvolvimento tecnológico e a definição das estratégias",
+        "d": "pela concentração das etapas produtivas nos países periféricos, incluindo o desenvolvimento tecnológico e a definição das estratégias corporativas",
         "e": "transferência de etapas industriais para a periferia, com o centro retendo pesquisa, marca e comando"
       },
       "resposta": "e",
@@ -1314,7 +1314,7 @@
       "enunciado": "Um dos critérios que orientam essa distribuição é:",
       "alternativas": {
         "a": "o tamanho da população de cada país, único fator considerado na localização das plantas",
-        "b": "a proximidade geográfica entre todas as unidades produtivas, exigência que impede a distribuição das etapas entre continentes diferentes",
+        "b": "a proximidade geográfica entre as unidades produtivas de uma mesma empresa, exigência que impede a distribuição das etapas entre continentes diferentes",
         "c": "custo da mão de obra, carga tributária e rigor da legislação ambiental de cada território de destino",
         "d": "a filiação de cada território a organizações internacionais, que autoriza a instalação",
         "e": "a exigência de manter todas as etapas no país de origem da empresa, conforme determinam as legislações nacionais dos países centrais"
@@ -1359,7 +1359,7 @@
       "enunciado": "O princípio que fundamenta essa diferenciação é o das:",
       "alternativas": {
         "a": "responsabilidades comuns porém diferenciadas, que consideram as emissões históricas acumuladas na atmosfera",
-        "b": "metas idênticas para todos os países signatários, critério que assegura tratamento igualitário no conjunto do sistema internacional atual",
+        "b": "metas idênticas para os países signatários, sem distinção entre economias centrais e periféricas, critério inscrito no texto do próprio acordo",
         "c": "responsabilidades atribuídas exclusivamente aos países em desenvolvimento, cujas emissões cresceram",
         "d": "obrigações proporcionais à extensão territorial de cada um dos países signatários",
         "e": "isenção integral concedida às economias emergentes, que ficam dispensadas de qualquer compromisso de redução de emissões nos acordos"
@@ -1602,7 +1602,7 @@
       "texto_apoio": "Os rompimentos de barragens de rejeitos em Mariana e em Brumadinho provocaram mortes e contaminação de bacias hidrográficas inteiras.",
       "enunciado": "Os dois casos expuseram sobretudo:",
       "alternativas": {
-        "a": "a inexistência de tecnologia capaz de conter rejeitos de mineração, limitação técnica que se mantém sem solução em todos os países produtores",
+        "a": "a inexistência de tecnologia capaz de conter rejeitos de mineração, limitação técnica que se mantém sem solução nos principais países produtores",
         "b": "falhas no licenciamento, na fiscalização e no monitoramento de estruturas alteadas a montante",
         "c": "a ausência de qualquer legislação ambiental aplicável à mineração no país até então",
         "d": "a incompatibilidade absoluta entre a mineração e a preservação ambiental no país",
@@ -1907,7 +1907,7 @@
       "texto_apoio": "Mapas coropléticos representam variáveis por meio de cores ou tonalidades aplicadas a unidades territoriais, como estados ou municípios.",
       "enunciado": "Um cuidado necessário na leitura desse tipo de mapa é:",
       "alternativas": {
-        "a": "conferir se o mapa utiliza projeção conforme, única capaz de assegurar a representação adequada de variáveis estatísticas em qualquer escala",
+        "a": "conferir se o mapa utiliza projeção conforme, a única capaz de assegurar a representação adequada de variáveis estatísticas em escalas pequenas",
         "b": "confirmar que todas as unidades representadas têm a mesma extensão territorial",
         "c": "verificar se a variável é relativa, pois o valor absoluto acaba reproduzindo o mapa da população",
         "d": "assegurar que a legenda apresente no máximo duas classes de valores distintos",
@@ -1940,7 +1940,7 @@
         "a": "só pode ser elaborado por órgãos oficiais, únicos capazes de assegurar a imparcialidade necessária à representação de qualquer território",
         "b": "reproduz com exatidão a superfície terrestre, desde que siga as normas técnicas",
         "c": "perde qualquer utilidade como instrumento de análise por causa dessas escolhas",
-        "d": "deve ser substituído por imagens de satélite, registros que dispensam qualquer intervenção humana na representação do território observado",
+        "d": "deve ser substituído por imagens de satélite, registros que dispensam a intervenção humana na representação do território observado pelo sensor",
         "e": "é uma representação feita de escolhas de projeção, escala e centro, e não um registro neutro"
       },
       "resposta": "e",

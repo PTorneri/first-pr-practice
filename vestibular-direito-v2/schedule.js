@@ -197,6 +197,72 @@ function hashString(str) {
   return h;
 }
 
+// ---------- Estratificação por origem (real x autoral) ----------
+//
+// Uma questão é REAL de vestibular quando traz o campo `banca` ("fgv",
+// "insper", "fuvest"…); sem esse campo ela é AUTORAL. O produto quer ~50/50:
+// metade do que o aluno vê no dia e no simulado adaptativo vem de prova real,
+// metade de questão autoral. O campo `banca` viaja dentro do objeto da questão
+// desde build-trilhas.js (Object.assign em cada banco), então dá para decidir
+// a origem aqui, em runtime, sem tocar nos dados.
+function questaoEhReal(q) {
+  return !!(q && q.banca && String(q.banca).trim());
+}
+
+// Intercala GRUPOS (clusters inteiros) de duas listas — real, autoral, real,
+// autoral… — de modo que a FAIXA DENSA (o começo da ordem) saia ~50/50. Quando
+// um lado acaba, o resto do outro é anexado: como no banco há ~5× mais autorais
+// que reais, a ordem fica com uma faixa densa 50/50 no início seguida de uma
+// cauda só de autorais. Preservar cluster inteiro importa porque um texto de
+// apoio sustenta várias questões e não pode ser partido.
+function interleaveGroups(a, b) {
+  const ga = groupRuns(a, (q) => clusterKey(q));
+  const gb = groupRuns(b, (q) => clusterKey(q));
+  const out = [];
+  let i = 0, j = 0;
+  while (i < ga.length || j < gb.length) {
+    if (i < ga.length) ga[i++].forEach((q) => out.push(q));
+    if (j < gb.length) gb[j++].forEach((q) => out.push(q));
+  }
+  return out;
+}
+
+// Reordena o banco UMA vez, INDEPENDENTE do offset: reais e autorais
+// intercalados grupo a grupo (real na frente), o que concentra os reais no
+// começo da ordem. É de propósito que NÃO dependa de `base` — quem faz o
+// não-repetir é a janela deslizante ÚNICA de sempre (base = qOffset), que corre
+// por cima desta ordem avançando pelo nº de questões CONSUMIDAS. Girar reais e
+// autorais em janelas próprias (a versão anterior) fazia o sub-pool escasso de
+// reais dar a volta ~5× mais rápido que o consumo e recair sobre reais já
+// vistas — a regressão de duplicatas que o revisor pegou. Aqui a janela entrega
+// ~50/50 ENQUANTO passa pela faixa densa (há real inédita); ao chegar na cauda,
+// o dia/simulado transborda para autoral inédita e a proporção real cai
+// (aceitável), sem nunca reciclar antes de o banco inteiro ter sido visto —
+// exatamente o comportamento de não-repetir de antes da estratificação.
+function stratifiedOrder(bank) {
+  const reais = bank.filter(questaoEhReal);
+  const autorais = bank.filter((q) => !questaoEhReal(q));
+  // Sem um dos lados não há o que estratificar: banco na ordem de origem, e a
+  // janela única cuida do resto — idêntico ao comportamento anterior.
+  if (reais.length === 0 || autorais.length === 0) return bank;
+  return interleaveGroups(reais, autorais);
+}
+
+// Janela circular ÚNICA sobre uma sequência já ordenada, com a MESMA mecânica
+// de sempre: normaliza o offset, empurra até a fronteira de cluster (snap) e
+// roda a sequência inteira a partir daí. `base` (qOffset acumulado, ou
+// visitIndex*count na reserva) avança pelo número de questões consumidas, então
+// a janela desliza sem sobreposição — é isto, e não uma rotação por origem, que
+// garante o não-repetir.
+function circularWindow(seq, base) {
+  if (seq.length === 0) return [];
+  const bruto = ((base % seq.length) + seq.length) % seq.length;
+  const offset = snapOffsetToGroup(seq, bruto, (q) => clusterKey(q));
+  const out = [];
+  for (let i = 0; i < seq.length; i++) out.push(seq[(offset + i) % seq.length]);
+  return out;
+}
+
 // Dia N do plano -> objeto Date real, a partir da data de início (YYYY-MM-DD).
 function scheduleDateForDay(startISO, day) {
   const d = new Date(startISO + "T00:00:00");
@@ -548,18 +614,12 @@ function pickQuestions(subtopicId, visitIndex, day, qOffset) {
   // plano não trouxer o campo — por exemplo, um progresso salvo antes desta
   // mudança, cujo plano em memória ainda não tem qOffset.
   const base = typeof qOffset === "number" ? qOffset : visitIndex * count;
-  const bruto = ((base % bank.length) + bank.length) % bank.length;
-  // O snap entra DEPOIS da normalização, e não no lugar dela: o qOffset é que
-  // garante a cobertura de 95% do banco, e o snap só empurra o ponto de
-  // rotação até a fronteira de grupo mais próxima para não partir um cluster.
-  // Trocar um pelo outro perderia uma das duas propriedades.
-  const offset = snapOffsetToGroup(bank, bruto, (q) => clusterKey(q));
-
-  const circular = [];
-  for (let i = 0; i < bank.length; i++) {
-    circular.push(bank[(offset + i) % bank.length]);
-  }
-  const chosen = takeWholeGroups(circular, 0, count, (q) => clusterKey(q));
+  // Ordem estratificada (reais na frente) + a janela deslizante ÚNICA de sempre.
+  // O recorte contíguo sai ~50/50 enquanto a janela passa pela faixa densa de
+  // reais; depois transborda para autoral inédita. O `base` (qOffset acumulado)
+  // avança pelo consumido, então NÃO reexibe questão vista.
+  const seq = circularWindow(stratifiedOrder(bank), base);
+  const chosen = takeWholeGroups(seq, 0, count, (q) => clusterKey(q));
 
   const rng = mulberry32(day * 131 + hashString(subtopicId) + visitIndex);
   return shuffleGroups(chosen, rng, (q) => clusterKey(q));
@@ -574,24 +634,22 @@ function pickMoreQuestions(subtopicId, visitIndex, day, alreadyShown, extraCount
   const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[subtopicId]) || [];
   if (bank.length === 0) return [];
 
-  // Precisa começar na MESMA janela que pickQuestions usou, senão o botão
+  // Precisa começar na MESMA sequência que pickQuestions usou, senão o botão
   // "quero mais" repetiria questões já mostradas no dia.
   const baseCount = Math.min(pickExerciseCount(day, subtopicId), bank.length);
-  // Tem de ser exatamente o mesmo offset de pickQuestions, qOffset e snap
-  // incluídos: é o que faz esta chamada continuar a MESMA janela de onde a
-  // outra parou. Qualquer divergência aqui repete no botão "quero mais" as
-  // questões que o dia já mostrou.
+  // Tem de ser exatamente o mesmo `base` de pickQuestions: é o que faz esta
+  // chamada continuar a MESMA sequência estratificada de onde a outra parou.
+  // Qualquer divergência aqui repete no botão "quero mais" as questões que o
+  // dia já mostrou. A sequência tem o tamanho do banco, então `start =
+  // alreadyShown` cai no ponto certo, reais e autorais já intercalados.
   const base = typeof qOffset === "number" ? qOffset : visitIndex * baseCount;
-  const bruto = ((base % bank.length) + bank.length) % bank.length;
-  const offset = snapOffsetToGroup(bank, bruto, (q) => clusterKey(q));
-  const circular = [];
-  for (let i = 0; i < bank.length; i++) circular.push(bank[(offset + i) % bank.length]);
+  const seq = circularWindow(stratifiedOrder(bank), base);
 
   const start = alreadyShown;
-  const count = Math.min(extraCount, Math.max(0, bank.length - start));
+  const count = Math.min(extraCount, Math.max(0, seq.length - start));
   if (count <= 0) return [];
 
-  const chosen = takeWholeGroups(circular, start, count, (q) => clusterKey(q));
+  const chosen = takeWholeGroups(seq, start, count, (q) => clusterKey(q));
   const rng = mulberry32(day * 149 + hashString(subtopicId) + visitIndex + alreadyShown);
   return shuffleGroups(chosen, rng, (q) => clusterKey(q));
 }
@@ -652,9 +710,11 @@ function pickSimuladoQuestions(simuladoVisitIndex) {
     const bank = (window.QUESTION_BANKS_FRENTE && window.QUESTION_BANKS_FRENTE[f.id]) || [];
     if (bank.length === 0) return;
     const count = Math.min(counts[i], bank.length);
-    const offset = snapOffsetToGroup(bank, simuladoVisitIndex * count, (q) => clusterKey(q));
-    const circular = [];
-    for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
+    // Mesma ordem estratificada do estudo diário, agora sobre o banco da FRENTE:
+    // reais na frente + a janela deslizante única. O `simuladoVisitIndex * count`
+    // é o ponto de rotação por simulado, avançando pelo consumido (não reexibe
+    // entre simulados); o caderno sai ~50/50 enquanto há real inédita.
+    const seq = circularWindow(stratifiedOrder(bank), simuladoVisitIndex * count);
     // takeExactly, não takeWholeGroups: aqui a cota é um teto, não uma meta.
     //
     // Inglês é a única frente cujo banco é quase todo em cluster — todo texto
@@ -668,7 +728,7 @@ function pickSimuladoQuestions(simuladoVisitIndex) {
     // duas funções: lá, entregar 4 questões de um texto de 6 faz o aluno ler o
     // texto inteiro e responder dois terços dele. Aqui o caderno tem tamanho
     // fixo, e é a fatia de cada matéria que precisa ser respeitada.
-    takeExactly(circular, count, (q) => clusterKey(q)).forEach((q) => {
+    takeExactly(seq, count, (q) => clusterKey(q)).forEach((q) => {
       // `subtopicId` é o SUBTEMA da questão, nunca a frente: é a chave em que a
       // resposta é gravada, e ela precisa ser a mesma do estudo diário.
       items.push({ question: q, subtopicId: q.subtema, subtopicNome: nomeDoSubtema(q.subtema), area: f.nome });

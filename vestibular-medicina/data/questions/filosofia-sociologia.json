@@ -6205,6 +6205,20 @@
       },
       "resposta": "a",
       "explicacao": "Argila do barreiro, madeira, tinta da casca do mangue: os recursos naturais sustentam um saber-fazer de 400 anos, passado de mãe para filha — ou seja, mantêm um modo de vida. Não há roça (b) no texto; \"modelo de gestão\" e \"sociedade de consumo\" (c, d) falam a língua da empresa e do mercado, estranha à prática tradicional; e as \"várias etapas\" da fabricação (e) são feitas pelas mesmas paneleiras, sem a especialização que o distrator sugere."
+    },
+    {
+      "id": "filosofia-sociologia-trab-01",
+      "formato": "direta",
+      "enunciado": "A sociologia do trabalho estuda as formas de organização da produção no capitalismo. O toyotismo, difundido a partir do último quarto do século XX, distingue-se do fordismo por",
+      "alternativas": {
+        "a": "manter grandes estoques da produção em massa, sem considerar as oscilações da demanda do mercado consumidor ao longo do ano.",
+        "b": "organizar a produção conforme a demanda, com estoques enxutos e trabalhadores mais flexíveis e polivalentes.",
+        "c": "recusar a incorporação de inovações tecnológicas na linha de montagem herdada do taylorismo clássico do início do século.",
+        "d": "ampliar a rigidez das tarefas e a especialização extrema que eram típicas da produção em série do começo do século XX.",
+        "e": "eliminar a divisão do trabalho no interior das fábricas, dispensando a hierarquia entre as diferentes funções produtivas."
+      },
+      "resposta": "b",
+      "explicacao": "O toyotismo reorganizou a produção segundo a demanda, com estoques reduzidos (just-in-time) e trabalhadores polivalentes, em contraste com o fordismo e o taylorismo; a chamada reestruturação produtiva associou-se ao aumento da precarização do trabalho."
     }
   ]
 }

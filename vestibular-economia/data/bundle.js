@@ -35758,6 +35758,81 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Em \"seu saber de experiências feito\", \"saber\" deixou de ser verbo e virou substantivo — vem com possessivo (\"seu\") e é o objeto de \"demonstrou\". Mudou de classe sem mudar de forma: derivação imprópria. \"Entender\", \"confiar\" e \"dizer\" continuam verbos no infinitivo (começar a entender, costumo confiar, dizer Zaire é dizer…); \"são\" em \"são e salvo\" é adjetivo, que já era adjetivo — não houve passagem de classe."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-colpron-01",
+   "formato": "direta",
+   "enunciado": "Na oração \"Ninguém me avisou da mudança de horário\", o pronome oblíquo \"me\" vem antes do verbo. Essa colocação explica-se porque",
+   "alternativas": {
+    "a": "o pronome indefinido \"ninguém\" atua como palavra atrativa e exige a próclise.",
+    "b": "o verbo, por estar flexionado no futuro do presente, atrai o pronome para o interior da forma verbal, em mesóclise.",
+    "c": "não existe na frase termo atrativo, restando a ênclise como a única colocação admitida pela norma culta escrita.",
+    "d": "o sujeito posposto ao verbo impõe a ênclise, com o pronome oblíquo preso ao fim do enunciado escrito.",
+    "e": "a presença de um pronome relativo no início do período determina a anteposição do pronome ao verbo."
+   },
+   "resposta": "a",
+   "explicacao": "Pronomes indefinidos de sentido negativo, como \"ninguém\", \"nada\" e \"nenhum\", são fatores de atração e exigem a próclise; por isso o pronome oblíquo vem antes do verbo em \"ninguém me avisou\"."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-colpron-02",
+   "formato": "direta",
+   "enunciado": "Na frase \"Convidá-lo-ia para a solenidade, se houvesse tempo\", o pronome oblíquo aparece no meio da forma verbal. Essa colocação denomina-se",
+   "alternativas": {
+    "a": "próclise, exigida por um advérbio de negação que estivesse anteposto à forma verbal empregada na oração.",
+    "b": "mesóclise, própria do futuro do pretérito, quando nenhuma palavra atrai o pronome.",
+    "c": "ênclise, adotada porque o pronome oblíquo se prende ao final de um verbo no pretérito perfeito do indicativo.",
+    "d": "próclise, motivada por um pronome relativo que introduzisse a oração em que o verbo se encontra empregado.",
+    "e": "ênclise, empregada quando o verbo da oração se flexiona no modo subjuntivo do enunciado escrito."
+   },
+   "resposta": "b",
+   "explicacao": "Na mesóclise, o pronome oblíquo é colocado no meio do verbo flexionado no futuro do presente ou do pretérito, quando não há palavra atrativa; \"convidá-lo-ia\" está no futuro do pretérito, daí a colocação mesoclítica."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-colpron-03",
+   "formato": "direta",
+   "enunciado": "Em \"Diga-me a verdade sobre o ocorrido\", a colocação do pronome oblíquo depois do verbo, chamada ênclise, explica-se porque",
+   "alternativas": {
+    "a": "a forma verbal está no futuro do pretérito, caso em que se recomenda inserir o pronome no meio do verbo.",
+    "b": "há, antes do verbo, um advérbio de negação que atrai o pronome oblíquo para a posição anterior a ele.",
+    "c": "existe uma palavra atrativa que exige a anteposição do pronome à forma verbal utilizada na frase escrita.",
+    "d": "o verbo abre a frase e não há fator de atração que justifique a próclise do pronome oblíquo empregado.",
+    "e": "um pronome relativo presente na frase obriga o deslocamento do pronome oblíquo para antes do verbo."
+   },
+   "resposta": "d",
+   "explicacao": "Quando o verbo abre a frase e não há fator de atração, a colocação pronominal adequada é a ênclise, com o pronome oblíquo depois do verbo, como em \"diga-me\"."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-colpron-04",
+   "formato": "direta",
+   "enunciado": "Na frase \"O documento que me entregaram estava incompleto\", o pronome oblíquo aparece antes do verbo porque",
+   "alternativas": {
+    "a": "o pronome relativo \"que\" funciona como fator de atração e exige a próclise antes da forma verbal.",
+    "b": "o verbo está flexionado no futuro do presente, o que recomenda o emprego da mesóclise no enunciado escrito.",
+    "c": "a forma verbal inicia o enunciado de modo absoluto, situação em que se adota a ênclise do pronome oblíquo.",
+    "d": "não há termo capaz de atrair o pronome, ficando livre a posição do oblíquo diante da forma verbal usada.",
+    "e": "a forma verbal, por estar no gerúndio, atrairia o pronome oblíquo para uma posição posterior a ela."
+   },
+   "resposta": "a",
+   "explicacao": "Pronomes relativos como \"que\" são fatores de atração e exigem a próclise; por isso, em \"que me entregaram\", a colocação pronominal correta traz o pronome oblíquo antes do verbo."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-colpron-05",
+   "formato": "direta",
+   "enunciado": "Sobre a colocação pronominal em língua portuguesa, é correto afirmar que a escolha entre próclise, ênclise e mesóclise",
+   "alternativas": {
+    "a": "depende do gosto pessoal de quem escreve, sem relação com fatores gramaticais presentes na frase escrita.",
+    "b": "impõe a mesóclise nas formas do presente do indicativo, independentemente do contexto do enunciado usado.",
+    "c": "reserva a ênclise às frases abertas por advérbios de negação que antecedem a forma verbal utilizada no texto.",
+    "d": "destina a próclise às formas verbais do futuro que não trazem palavra atrativa anterior a elas na frase.",
+    "e": "é regida por fatores de atração, como palavras negativas, advérbios e pronomes relativos na frase."
+   },
+   "resposta": "e",
+   "explicacao": "A colocação pronominal é regida por fatores de atração: palavras de sentido negativo, advérbios e pronomes relativos atraem o pronome e favorecem a próclise, ao passo que a ênclise e a mesóclise seguem outras condições."
   }
  ],
  "gramatica-pontuacao": [
@@ -65429,6 +65504,381 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Perrot diz que o Primeiro de Maio foi um \"ato político deliberado\" para \"construir uma classe\" e dar-lhe \"unidade política e cultural\": a festa serve para que os operários se reconheçam como um só grupo, o movimento operário como sujeito — uma identidade coletiva. \"Sentimento burguês\" (a) é o oposto da classe em questão; \"memória nacional\" e \"comunidade cívica\" (c, d) falam da nação e da cidadania em geral, quando o texto fala de classe; \"tradição popular\" (e) apaga o caráter político e classista que a autora sublinha."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-01",
+   "formato": "direta",
+   "enunciado": "A Conferência de Berlim (1884-1885) reuniu as potências para ordenar a corrida imperialista pela África. Quanto à sua composição e ao seu objetivo, é correto afirmar que a conferência",
+   "alternativas": {
+    "a": "reuniu apenas potências europeias e fixou regras da partilha sem a presença de representantes dos povos africanos.",
+    "b": "contou com delegações dos reinos africanos, que negociaram em pé de igualdade com as nações europeias presentes.",
+    "c": "foi convocada para pôr fim ao imperialismo e devolver às sociedades locais o controle político dos territórios africanos.",
+    "d": "determinou que cada potência europeia ficaria limitada a uma única possessão no continente, regra logo abandonada por todas.",
+    "e": "entregou a organização da partilha a um conselho formado por lideranças escolhidas pelas próprias populações da África."
+   },
+   "resposta": "a",
+   "explicacao": "A Conferência de Berlim foi uma negociação entre as próprias potências europeias, sem representantes africanos, e fixou regras — como a livre navegação dos rios Congo e Níger e a ocupação efetiva — para partilhar a África reduzindo conflitos entre elas."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-02",
+   "formato": "direta",
+   "enunciado": "Além dos motivos econômicos, o imperialismo do fim do século XIX alimentou-se de fatores políticos. O nacionalismo então em alta na Europa impulsionou a expansão porque",
+   "alternativas": {
+    "a": "fazia da conquista de territórios na África e na Ásia uma questão de prestígio e de poder nacional.",
+    "b": "levava as potências a abrir mão de suas possessões para não despertar a rivalidade das nações vizinhas.",
+    "c": "pregava a fusão de todos os países europeus num só Estado, sem fronteiras internas que os separassem.",
+    "d": "condenava toda expansão territorial, tida como incompatível com o sentimento de identidade nacional.",
+    "e": "limitava o interesse das potências ao continente europeu, sem qualquer projeção sobre outros territórios."
+   },
+   "resposta": "a",
+   "explicacao": "No fim do século XIX, o nacionalismo europeu ligou a expansão imperialista ao prestígio e ao poderio nacional: dominar territórios na África e na Ásia virou símbolo de grandeza, o que acirrou a competição entre as potências — dimensão política do imperialismo, ao lado das causas econômicas."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-03",
+   "formato": "direta",
+   "enunciado": "A chamada missão civilizadora, invocada pelas potências no auge do imperialismo, cumpria a função de",
+   "alternativas": {
+    "a": "revelar sem quaisquer disfarces o caráter econômico da dominação exercida pelas potências sobre os povos africanos e asiáticos.",
+    "b": "reconhecer a plena autonomia administrativa dos territórios ocupados diante das metrópoles europeias.",
+    "c": "apresentar a dominação imperialista como dever moral de levar progresso aos povos considerados atrasados.",
+    "d": "condenar o racismo científico que então orientava a ação das potências europeias na África e na Ásia.",
+    "e": "promover a industrialização acelerada das regiões ocupadas, colocadas em pé de igualdade com a Europa."
+   },
+   "resposta": "c",
+   "explicacao": "A missão civilizadora era o verniz moral do imperialismo: apresentava a conquista como benefício aos dominados, encobrindo os objetivos econômicos e a exploração das potências."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-04",
+   "formato": "direta",
+   "enunciado": "O imperialismo do fim do século XIX articulou-se à Segunda Revolução Industrial. Essa relação explica-se porque as potências industriais buscavam nos territórios dominados",
+   "alternativas": {
+    "a": "mão de obra qualificada capaz de substituir os operários das fábricas instaladas nas metrópoles europeias.",
+    "b": "modelos de organização política com que reformar profundamente seus próprios governos nacionais.",
+    "c": "capitais e empréstimos com que financiar a industrialização ainda incipiente das metrópoles europeias.",
+    "d": "fontes de matérias-primas e mercados para o excedente de sua crescente produção industrial.",
+    "e": "territórios destinados unicamente à instalação de comunidades religiosas vindas da Europa."
+   },
+   "resposta": "d",
+   "explicacao": "A expansão produtiva da Segunda Revolução Industrial pressionava por insumos e consumidores, e o imperialismo respondia a essa demanda, nexo econômico central do neocolonialismo."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-05",
+   "formato": "direta",
+   "enunciado": "Na colonização da Ásia promovida pelo imperialismo, a Índia tornou-se a principal possessão britânica. O fato de a administração inicial ter cabido a uma companhia comercial evidencia que",
+   "alternativas": {
+    "a": "a Índia preservou plena soberania política ao longo de todo o período de presença dos britânicos.",
+    "b": "a presença britânica no território indiano dispensou o uso de tropas e de alianças com elites locais.",
+    "c": "a metrópole renunciou a explorar matérias-primas em favor do fortalecimento do mercado interno indiano.",
+    "d": "o domínio britânico restringiu-se às cidades do litoral, sem jamais alcançar as regiões do interior.",
+    "e": "interesses econômicos privados precederam e prepararam o domínio político direto exercido pela Coroa."
+   },
+   "resposta": "e",
+   "explicacao": "A Companhia das Índias Orientais administrou a Índia antes do domínio direto da Coroa britânica, mostrando como, no imperialismo, interesses econômicos privados abriram caminho para o domínio político da colonização da Ásia."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-06",
+   "formato": "direta",
+   "enunciado": "A Revolta dos Cipaios (1857), na Índia, costuma ser lida como episódio de resistência ao imperialismo britânico porque",
+   "alternativas": {
+    "a": "expressou a reação de soldados nativos ao domínio britânico e a afrontas a suas tradições religiosas.",
+    "b": "resultou na expulsão imediata e definitiva dos britânicos de todo o território do subcontinente indiano.",
+    "c": "foi conduzida sobretudo pela burguesia industrial inglesa que havia se instalado no território indiano.",
+    "d": "consolidou uma sólida aliança entre a Coroa britânica e os povos submetidos pelo imperialismo na Ásia.",
+    "e": "deu início ao processo de industrialização plenamente autônoma da Índia diante da metrópole britânica."
+   },
+   "resposta": "a",
+   "explicacao": "A Revolta dos Cipaios reuniu soldados nativos a serviço da Companhia das Índias contra o domínio britânico, sendo marco da resistência ao imperialismo, embora reprimida e seguida do domínio direto da Coroa."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-07",
+   "formato": "direta",
+   "enunciado": "As Guerras do Ópio, em meados do século XIX, inserem-se no imperialismo sobre a China na medida em que",
+   "alternativas": {
+    "a": "asseguraram à China o monopólio duradouro do comércio de chá com os mercados de toda a Europa e das demais regiões então industrializadas.",
+    "b": "impuseram à China a abertura de portos e concessões favoráveis às potências ocidentais.",
+    "c": "reconheceram a igualdade jurídica entre a China e as potências imperialistas que a pressionavam.",
+    "d": "puseram fim, de forma imediata, à presença de comerciantes europeus em todo o território chinês.",
+    "e": "transferiram à China o controle das principais rotas comerciais que cruzavam o oceano Índico."
+   },
+   "resposta": "b",
+   "explicacao": "As Guerras do Ópio levaram a tratados que abriram portos chineses e concederam vantagens às potências, exemplo do imperialismo econômico sobre a Ásia sem ocupação territorial plena."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-08",
+   "formato": "direta",
+   "enunciado": "Entre os legados mais duradouros da partilha da África promovida pelo imperialismo, destaca-se o traçado de fronteiras que",
+   "alternativas": {
+    "a": "coincidiam com os limites das antigas organizações étnicas e políticas existentes no continente africano.",
+    "b": "foram definidos por meio de plebiscitos realizados diretamente entre as diversas populações africanas.",
+    "c": "reuniram ou separaram povos de modo arbitrário, gerando tensões que persistiram após a descolonização.",
+    "d": "desapareceram logo com as independências, cedendo lugar a divisões definidas pelas próprias sociedades.",
+    "e": "restringiram-se apenas ao norte do continente, poupando por completo toda a África ao sul do Saara."
+   },
+   "resposta": "c",
+   "explicacao": "As fronteiras da partilha da África seguiram interesses das potências e ignoraram a distribuição dos povos; muitas foram mantidas após a descolonização, o que ajuda a explicar conflitos posteriores."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-09",
+   "formato": "direta",
+   "enunciado": "A resistência ao imperialismo teve na Etiópia um caso singular durante a partilha da África, pois esse país",
+   "alternativas": {
+    "a": "foi o primeiro do continente africano a assinar os acordos firmados na Conferência de Berlim.",
+    "b": "acabou repartido em partes iguais entre as diversas potências europeias signatárias de Berlim.",
+    "c": "aceitou tornar-se protetorado francês depois de resistir por anos à ocupação militar britânica.",
+    "d": "preservou sua independência ao derrotar a Itália na Batalha de Adwa, em 1896, diante da partilha.",
+    "e": "provocou, com sua resistência, o fim imediato e definitivo do imperialismo europeu no continente."
+   },
+   "resposta": "d",
+   "explicacao": "A vitória etíope sobre a Itália na Batalha de Adwa, em 1896, é o exemplo mais citado de resistência bem-sucedida ao imperialismo durante a partilha da África."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-10",
+   "formato": "direta",
+   "enunciado": "O racismo científico associado ao imperialismo do século XIX caracterizou-se por",
+   "alternativas": {
+    "a": "negar de todo qualquer relação entre os saberes científicos e os projetos de dominação política.",
+    "b": "defender a igualdade biológica entre os povos como fundamento moral do próprio imperialismo europeu.",
+    "c": "rejeitar o darwinismo social como base das políticas adotadas pelas potências na África e na Ásia.",
+    "d": "restringir-se ao debate acadêmico, sem qualquer efeito sobre a ação prática das potências europeias.",
+    "e": "atribuir a supostas diferenças raciais uma hierarquia usada para legitimar a dominação imperialista."
+   },
+   "resposta": "e",
+   "explicacao": "O racismo científico deu aparência de conhecimento a hierarquias entre povos, articulando-se ao darwinismo social e à missão civilizadora para justificar o imperialismo."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-11",
+   "formato": "direta",
+   "enunciado": "A ideologia da missão civilizadora e o darwinismo social, no imperialismo, relacionavam-se porque ambos",
+   "alternativas": {
+    "a": "forneciam justificativas que apresentavam a dominação imperialista como natural ou benéfica aos dominados.",
+    "b": "defendiam a retirada imediata das potências europeias dos territórios que haviam ocupado na África.",
+    "c": "negavam a existência de qualquer hierarquia entre os povos submetidos ao domínio das potências.",
+    "d": "propunham a industrialização plenamente igualitária dos territórios ocupados, colocando-os em pé de igualdade com as potências industriais europeias.",
+    "e": "reduziam a expansão europeia a um fenômeno estritamente militar, sem qualquer dimensão econômica."
+   },
+   "resposta": "a",
+   "explicacao": "Tanto a missão civilizadora quanto o darwinismo social davam ao imperialismo uma justificativa moral e pseudocientífica, apresentando a dominação como natural ou como um bem levado aos povos considerados atrasados."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-12",
+   "formato": "direta",
+   "enunciado": "O imperialismo do século XIX diferenciou-se das formas anteriores de expansão europeia, praticadas nos séculos XVI e XVII, sobretudo porque",
+   "alternativas": {
+    "a": "eliminou por completo a exploração econômica como objetivo da presença europeia fora do continente europeu.",
+    "b": "prescindiu de qualquer discurso que buscasse legitimar a dominação dos povos africanos e asiáticos.",
+    "c": "limitou-se ao comércio de especiarias, sem promover ocupação administrativa dos territórios dominados.",
+    "d": "ampliou a ocupação da África e da Ásia, apoiado em justificativas como a missão civilizadora.",
+    "e": "foi conduzido apenas por companhias privadas, sem participação direta dos Estados europeus nacionais."
+   },
+   "resposta": "d",
+   "explicacao": "O imperialismo do século XIX ampliou a ocupação territorial e administrativa da África e da Ásia, apoiando-se em ideologias como a missão civilizadora e o darwinismo social, diferentemente da expansão europeia dos séculos anteriores."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-13",
+   "formato": "direta",
+   "enunciado": "O imperialismo sobre a China, no fim do século XIX, teve caráter particular em relação à partilha da África porque, no caso chinês,",
+   "alternativas": {
+    "a": "o território foi integralmente anexado e transformado em possessão de uma única potência europeia, sem partilha com as demais nações imperialistas.",
+    "b": "as potências reconheceram sem restrições a plena soberania chinesa sobre suas próprias rotas comerciais.",
+    "c": "o país dividiu-se em zonas de influência controladas por diferentes potências, sem uma dominação formal única.",
+    "d": "a China participou, ao lado das potências europeias, da própria organização da partilha da África.",
+    "e": "o imperialismo poupou por completo a Ásia oriental de toda e qualquer forma de dominação econômica."
+   },
+   "resposta": "c",
+   "explicacao": "Diferentemente de um território único dominado, a China foi repartida em zonas de influência por várias potências, o que caracteriza o imperialismo sobre a Ásia oriental sem uma dominação formal exclusiva."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-imperialismo-14",
+   "formato": "direta",
+   "enunciado": "A resistência dos povos ao imperialismo, na África e na Ásia, assumiu formas variadas. Sobre esse processo, é correto afirmar que",
+   "alternativas": {
+    "a": "revoltas armadas, guerras e afirmações culturais expressaram a oposição dos povos à dominação estrangeira.",
+    "b": "não houve reações organizadas às potências, dada a evidente superioridade militar dos europeus.",
+    "c": "as reações se limitaram a acordos diplomáticos firmados entre líderes locais e as metrópoles europeias.",
+    "d": "a resistência se restringiu ao continente americano, estando ausente tanto na África quanto na Ásia.",
+    "e": "os movimentos de oposição foram, em regra, liderados pelas próprias potências europeias, e não pelos povos submetidos ao domínio do imperialismo."
+   },
+   "resposta": "a",
+   "explicacao": "A resistência ao imperialismo manifestou-se por revoltas armadas, guerras e afirmações culturais e religiosas contra o domínio estrangeiro, contrariando a ideia de aceitação passiva da dominação."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-01",
+   "formato": "direta",
+   "enunciado": "A Revolução Mexicana, iniciada em 1910, é um marco da história da América Latina no século XX. Entre suas principais bandeiras estava",
+   "alternativas": {
+    "a": "a reforma agrária, reivindicada por lideranças camponesas como Emiliano Zapata no sul do país.",
+    "b": "a restauração do poder absoluto do porfiriato sobre as regiões rurais e sobre as cidades mexicanas.",
+    "c": "a manutenção das grandes propriedades rurais nas mãos da oligarquia que apoiara o governo anterior.",
+    "d": "a recusa de mudanças na Constituição, mantida tal como vigorava desde as décadas do século anterior.",
+    "e": "a submissão da economia mexicana ao domínio político direto de uma potência europeia daquela época."
+   },
+   "resposta": "a",
+   "explicacao": "A Revolução Mexicana derrubou o porfiriato e teve na reforma agrária uma de suas bandeiras centrais, defendida por Emiliano Zapata; o processo resultou na Constituição de 1917, referência da América Latina no século XX."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-02",
+   "formato": "direta",
+   "enunciado": "O peronismo, na Argentina, é frequentemente estudado como exemplo de populismo latino-americano. Uma de suas marcas foi",
+   "alternativas": {
+    "a": "a defesa fechada dos interesses da oligarquia agroexportadora tradicional, contra os trabalhadores urbanos.",
+    "b": "a aproximação entre o Estado e os trabalhadores urbanos, com ampliação de direitos trabalhistas.",
+    "c": "a recusa de qualquer mediação do Estado nas relações entre patrões e empregados do país.",
+    "d": "a submissão da política econômica argentina às diretrizes de organismos financeiros estrangeiros.",
+    "e": "a extinção dos sindicatos, tratados como obstáculo ao projeto de governo então em curso no país."
+   },
+   "resposta": "b",
+   "explicacao": "O peronismo, forma de populismo latino-americano, caracterizou-se pela aproximação entre o Estado e os trabalhadores urbanos, com ampliação de direitos e forte organização sindical."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-03",
+   "formato": "direta",
+   "enunciado": "Em 1973, um golpe instaurou no Chile a ditadura de Augusto Pinochet, episódio central da história da América Latina no século XX. Esse golpe",
+   "alternativas": {
+    "a": "recolocou no poder o presidente Salvador Allende, que havia sido afastado por uma intervenção estrangeira.",
+    "b": "preservou intactas as instituições democráticas chilenas ao longo de todo o período que se seguiu a ele.",
+    "c": "derrubou o governo de Salvador Allende, eleito com um projeto de orientação socialista.",
+    "d": "resultou de uma ampla mobilização popular favorável à permanência do governo então vigente no país.",
+    "e": "levou o Chile a romper relações com as demais ditaduras militares existentes na região naquele período."
+   },
+   "resposta": "c",
+   "explicacao": "O golpe de 1973 no Chile derrubou Salvador Allende, eleito com um projeto de orientação socialista, e levou Pinochet ao poder, no contexto da Guerra Fria e das ditaduras militares na América Latina."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-04",
+   "formato": "direta",
+   "enunciado": "A Revolução Cubana, vitoriosa em 1959, tornou-se um marco da história da América Latina no século XX porque",
+   "alternativas": {
+    "a": "recolocou no poder o ditador Fulgencio Batista, que havia sido deposto anos antes por uma intervenção estrangeira.",
+    "b": "derrubou a ditadura de Fulgencio Batista e, no contexto da Guerra Fria, aproximou Cuba da União Soviética.",
+    "c": "manteve Cuba alinhada aos Estados Unidos, preservando as relações econômicas que vinham desde o início do século.",
+    "d": "resultou de eleições diretas que conduziram ao poder um governo de orientação liberal apoiado por Washington.",
+    "e": "encerrou de imediato as tensões da Guerra Fria no continente, aproximando as duas superpotências rivais da época."
+   },
+   "resposta": "b",
+   "explicacao": "Liderada por Fidel Castro, a Revolução Cubana derrubou o ditador Fulgencio Batista em 1959 e, diante do embargo e das pressões dos Estados Unidos, aproximou-se da União Soviética, tornando-se episódio central da Guerra Fria na América Latina."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-05",
+   "formato": "direta",
+   "enunciado": "O populismo latino-americano, presente em experiências como o peronismo, costuma ser caracterizado por",
+   "alternativas": {
+    "a": "a defesa aberta e restrita dos interesses das oligarquias rurais frente aos setores urbanos das cidades.",
+    "b": "a ausência de participação do Estado na condução da economia e das políticas sociais dos países da região.",
+    "c": "o rompimento imediato com toda forma de industrialização voltada ao mercado interno de cada país.",
+    "d": "a rejeição do voto popular como base de legitimidade dos governos então estabelecidos na região.",
+    "e": "uma relação direta entre líder e massas urbanas, com apelo popular e concessão de direitos sociais."
+   },
+   "resposta": "e",
+   "explicacao": "O populismo latino-americano marcou-se pela relação direta entre líder e massas urbanas e pela concessão de direitos sociais, associada a projetos de industrialização, como no peronismo argentino."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-06",
+   "formato": "direta",
+   "enunciado": "A Constituição mexicana de 1917, resultado da Revolução Mexicana, é considerada avançada para a época porque",
+   "alternativas": {
+    "a": "restabeleceu os antigos privilégios políticos da oligarquia agrária que fora deposta durante o conflito armado.",
+    "b": "incorporou direitos trabalhistas e previu a reforma agrária, temas centrais da revolução.",
+    "c": "suprimiu a oferta de educação pública, transferida por inteiro à iniciativa privada do país.",
+    "d": "manteve a concentração de terras nas mãos dos grandes proprietários rurais mexicanos da época.",
+    "e": "aboliu o sufrágio como forma de escolha dos governantes da república mexicana então em formação."
+   },
+   "resposta": "b",
+   "explicacao": "A Constituição de 1917 incorporou direitos trabalhistas e a previsão de reforma agrária, respondendo às bandeiras da Revolução Mexicana e influenciando o constitucionalismo social na América Latina."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-07",
+   "formato": "direta",
+   "enunciado": "As ditaduras militares que se espalharam pela América Latina entre as décadas de 1960 e 1980 costumam ser associadas",
+   "alternativas": {
+    "a": "à ampliação das liberdades civis e à valorização de uma imprensa livre em toda a região naquele período.",
+    "b": "à realização de eleições diretas e regulares para os cargos do Executivo dos países que estiveram envolvidos.",
+    "c": "ao fortalecimento imediato dos sindicatos e dos movimentos sociais nos diversos países do Cone Sul.",
+    "d": "à recusa de apoio externo e ao consequente isolamento econômico completo dos regimes então instalados.",
+    "e": "à chamada doutrina de segurança nacional, usada para justificar a repressão a opositores."
+   },
+   "resposta": "e",
+   "explicacao": "As ditaduras militares latino-americanas apoiaram-se na doutrina de segurança nacional para justificar a repressão a opositores, no contexto da Guerra Fria e da história da América Latina no século XX."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-08",
+   "formato": "direta",
+   "enunciado": "O governo de Salvador Allende no Chile (1970-1973), tema recorrente no estudo da América Latina no século XX, ficou conhecido por",
+   "alternativas": {
+    "a": "implantar um governo apoiado pelas Forças Armadas contra o Congresso, suspendendo a competição eleitoral.",
+    "b": "restaurar o livre mercado irrestrito e privatizar rapidamente os principais setores da economia chilena.",
+    "c": "recusar a participação em eleições, chegando ao poder por meio de uma insurreição de caráter armado.",
+    "d": "alinhar-se de modo aberto às ditaduras militares vizinhas na repressão a movimentos populares da região.",
+    "e": "adotar um programa de nacionalizações e reformas dentro de uma via institucional ao socialismo."
+   },
+   "resposta": "e",
+   "explicacao": "Allende chegou ao poder pelo voto e conduziu nacionalizações e reformas por uma via institucional ao socialismo, projeto interrompido pelo golpe de 1973 que levou Pinochet ao poder, no contexto da Guerra Fria."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-09",
+   "formato": "direta",
+   "enunciado": "A Revolução Mexicana e o peronismo argentino, embora distintos, permitem discutir a história da América Latina no século XX porque ambos",
+   "alternativas": {
+    "a": "envolveram a mobilização de setores populares e mudanças na relação entre Estado e sociedade.",
+    "b": "resultaram na restauração de monarquias hereditárias nos respectivos países latino-americanos da região.",
+    "c": "levaram ao fim da industrialização voltada ao mercado interno em toda a extensão do continente americano.",
+    "d": "reforçaram, sem abrir exceções, o poder político das antigas oligarquias agroexportadoras já existentes.",
+    "e": "eliminaram por inteiro a presença do Estado na condução das políticas econômicas e sociais nacionais."
+   },
+   "resposta": "a",
+   "explicacao": "Tanto a Revolução Mexicana quanto o peronismo mobilizaram setores populares e alteraram a relação entre Estado e sociedade, temas recorrentes no estudo da América Latina no século XX."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-10",
+   "formato": "direta",
+   "enunciado": "Após o golpe de 1973, a ditadura de Pinochet, no Chile, adotou na economia",
+   "alternativas": {
+    "a": "a estatização ampla dos setores produtivos herdados do governo de Allende, incluindo a mineração e a banca.",
+    "b": "a manutenção do programa de nacionalizações que caracterizara a via chilena ao socialismo democrático.",
+    "c": "a distribuição de terras aos camponeses como a principal política social do novo governo instalado.",
+    "d": "políticas de abertura de mercado e privatizações, associadas a economistas de orientação liberal.",
+    "e": "o fechamento da economia chilena ao comércio exterior e às aplicações de capital de origem estrangeira."
+   },
+   "resposta": "d",
+   "explicacao": "A ditadura de Pinochet no Chile adotou políticas de abertura de mercado e privatizações inspiradas em economistas liberais, contrastando com o projeto de Allende, no contexto da América Latina no século XX."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-amlat-11",
+   "formato": "direta",
+   "enunciado": "O estudo do populismo e das ditaduras militares na América Latina permite concluir que a região, no século XX,",
+   "alternativas": {
+    "a": "manteve regimes democráticos estáveis e ininterruptos ao longo de todas as décadas daquele século.",
+    "b": "esteve isolada dos conflitos internacionais e das disputas ideológicas próprias do período da Guerra Fria.",
+    "c": "alternou experiências populistas, governos democráticos e regimes autoritários de origem militar.",
+    "d": "aboliu por completo a participação de setores populares na vida política dos seus diversos países.",
+    "e": "preservou intacto o poder das oligarquias tradicionais, sem passar por qualquer transformação social."
+   },
+   "resposta": "c",
+   "explicacao": "A América Latina no século XX alternou experiências populistas, períodos democráticos e ditaduras militares, o que evidencia a instabilidade política e as disputas sociais que marcaram a região."
   }
  ],
  "historia-geral-moderna": [
@@ -83660,6 +84110,21 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Os dados cruzam duas variáveis: ser mulher chefiando o domicílio sozinha (56,9% abaixo da linha de pobreza, contra 30,4% dos casais com filhos) e a cor dessa mulher (64,4% entre pretas e pardas, 41,5% entre brancas). Gênero e raça se sobrepõem e agravam a desigualdade — é exatamente o intercruzamento que o Texto I chama de interseccionalidade. Idade, profissão, sexualidade, escolaridade e fecundidade (c, d, e) não constam do gráfico; \"habitação\" (b) confunde arranjo domiciliar com moradia."
+  },
+  {
+   "subtema": "sociologia-trabalho-classes",
+   "id": "filosofia-sociologia-trab-01",
+   "formato": "direta",
+   "enunciado": "A sociologia do trabalho estuda as formas de organização da produção no capitalismo. O toyotismo, difundido a partir do último quarto do século XX, distingue-se do fordismo por",
+   "alternativas": {
+    "a": "manter grandes estoques da produção em massa, sem considerar as oscilações da demanda do mercado consumidor ao longo do ano.",
+    "b": "organizar a produção conforme a demanda, com estoques enxutos e trabalhadores mais flexíveis e polivalentes.",
+    "c": "recusar a incorporação de inovações tecnológicas na linha de montagem herdada do taylorismo clássico do início do século.",
+    "d": "ampliar a rigidez das tarefas e a especialização extrema que eram típicas da produção em série do começo do século XX.",
+    "e": "eliminar a divisão do trabalho no interior das fábricas, dispensando a hierarquia entre as diferentes funções produtivas."
+   },
+   "resposta": "b",
+   "explicacao": "O toyotismo reorganizou a produção segundo a demanda, com estoques reduzidos (just-in-time) e trabalhadores polivalentes, em contraste com o fordismo e o taylorismo; a chamada reestruturação produtiva associou-se ao aumento da precarização do trabalho."
   }
  ],
  "sociologia-cultura-identidade": [
@@ -111669,6 +112134,471 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A palavra \"respectivamente\" obriga a manter a ordem. O primeiro texto aposta no futuro: a tecnologia criada para o turismo espacial \"pode, em algum momento, voltar para a sociedade\", como já voltaram a câmera fotográfica e o titânio — é expectativa. A charge faz o movimento inverso: enquanto os bilionários dizem \"viemos em paz\", alguém avisa para não confiar neles — é desconfiança. Duas opções trazem o par certo na ordem trocada: \"receio e civilidade\" inverte exatamente isso. As outras não descrevem nenhum dos dois textos — o primeiro não fala em dependência nem em angústia, e a charge não anuncia retrocesso, apenas duvida da intenção de quem financia a viagem."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-01",
+   "formato": "direta",
+   "enunciado": "Entre as políticas de inclusão digital adotadas no Brasil, os telecentros e os pontos de acesso público à internet têm como função principal",
+   "alternativas": {
+    "a": "oferecer acesso gratuito à internet e a computadores em espaços comunitários, sobretudo a quem não tem conexão em casa.",
+    "b": "substituir por completo a internet domiciliar, tornando desnecessária qualquer conexão particular nas residências do país.",
+    "c": "vender aparelhos e planos de dados à população de maior renda das grandes cidades, onde a conexão já é mais presente.",
+    "d": "fiscalizar o conteúdo acessado pelos usuários, restringindo o uso da rede a apenas alguns sites previamente permitidos.",
+    "e": "concentrar o acesso à internet nas áreas já bem atendidas, reforçando as desigualdades regionais hoje existentes no país."
+   },
+   "resposta": "a",
+   "explicacao": "Telecentros e pontos de acesso público oferecem internet e equipamentos de forma gratuita em espaços comunitários, ampliando o acesso de quem não tem conexão própria; são instrumentos concretos das políticas de inclusão digital voltadas a reduzir a exclusão digital."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-02",
+   "formato": "direta",
+   "enunciado": "Políticas de inclusão digital costumam ir além da simples distribuição de aparelhos. Isso ocorre porque",
+   "alternativas": {
+    "a": "a posse de um dispositivo conectado já assegura, por si só, o uso pleno e crítico de todas as ferramentas digitais existentes.",
+    "b": "o acesso à internet e o letramento digital são necessários para converter a conexão em oportunidade real.",
+    "c": "a conectividade deixou de ser relevante desde que a maioria dos serviços passou a funcionar fora da internet.",
+    "d": "a exclusão digital afeta apenas a população idosa, dispensando ações voltadas aos demais grupos da sociedade.",
+    "e": "os aparelhos digitais perderam importância diante do avanço dos meios de comunicação impressos tradicionais."
+   },
+   "resposta": "b",
+   "explicacao": "A inclusão digital combina acesso à internet, conectividade e letramento digital: sem a habilidade de usar as ferramentas, a mera posse de um aparelho não reduz a exclusão digital."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-03",
+   "formato": "direta",
+   "enunciado": "No Brasil, a expansão da banda larga e da conectividade à internet ainda é desigual. Um fator que aprofunda essa desigualdade é",
+   "alternativas": {
+    "a": "a distribuição perfeitamente uniforme da infraestrutura de internet entre as áreas urbanas e as áreas rurais de todo o país.",
+    "b": "o desaparecimento das diferenças de renda como elemento capaz de influenciar o acesso das famílias à rede mundial.",
+    "c": "a menor oferta de banda larga em regiões rurais e periféricas, que amplia a exclusão digital.",
+    "d": "a decisão das operadoras de priorizar sempre o atendimento das áreas de menor densidade populacional do território.",
+    "e": "a gratuidade universal do acesso à internet, hoje garantida a todos os domicílios brasileiros por uma lei federal."
+   },
+   "resposta": "c",
+   "explicacao": "A menor oferta de banda larga e conectividade em áreas rurais e periféricas, somada às diferenças de renda, aprofunda a exclusão digital e é um dos alvos das políticas de inclusão digital."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-04",
+   "formato": "direta",
+   "enunciado": "Costuma-se supor que ser jovem e ter crescido usando aparelhos digitais já garante o letramento digital. Especialistas contestam essa suposição com o argumento de que",
+   "alternativas": {
+    "a": "usar redes com desenvoltura não equivale a avaliar informações de forma crítica, algo que precisa ser aprendido.",
+    "b": "a familiaridade com os aparelhos já assegura, por si mesma, a leitura crítica das informações que circulam pela rede.",
+    "c": "o letramento digital se resume à rapidez com que a pessoa digita mensagens no teclado do próprio aparelho conectado.",
+    "d": "as pessoas mais velhas avaliam melhor os conteúdos por terem tido menos contato com as redes ao longo da vida.",
+    "e": "operar um aplicativo com facilidade indica, por si, que o usuário sabe verificar a origem daquilo que lê na internet."
+   },
+   "resposta": "a",
+   "explicacao": "O chamado \"mito do nativo digital\" adverte que a familiaridade dos jovens com aparelhos e redes não implica letramento digital: avaliar a confiabilidade de fontes e informações é competência crítica que precisa ser aprendida, e não um dom da idade."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-05",
+   "formato": "direta",
+   "enunciado": "A expressão apagão digital costuma designar",
+   "alternativas": {
+    "a": "a suspensão programada dos serviços de internet feita por empresas para reduzir o consumo de energia elétrica das cidades.",
+    "b": "a ausência ou a precariedade de conexão à internet em áreas à margem da infraestrutura de banda larga.",
+    "c": "a interrupção mundial e simultânea de todas as redes de comunicação por decisão dos organismos internacionais.",
+    "d": "o momento em que os usuários decidem, de forma coletiva, desligar seus aparelhos conectados à rede mundial.",
+    "e": "a queda temporária de uma única rede social, sem qualquer efeito sobre o acesso geral à internet no país."
+   },
+   "resposta": "b",
+   "explicacao": "O apagão digital nomeia a ausência ou precariedade de conexão à internet em regiões sem infraestrutura adequada de banda larga, expressão da exclusão digital que as políticas de inclusão buscam superar."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-06",
+   "formato": "direta",
+   "enunciado": "A ampliação dos serviços prestados exclusivamente pela internet tornou mais visível a exclusão digital porque",
+   "alternativas": {
+    "a": "toda a população passou a dispor de acesso à internet e de equipamentos adequados para usar esses serviços em casa.",
+    "b": "o acesso à internet deixou de ser necessário para que as pessoas pudessem resolver suas demandas cotidianas.",
+    "c": "quem não dispõe de conexão à internet ou de equipamento ficou em desvantagem para acessar tais serviços.",
+    "d": "a conectividade domiciliar tornou-se irrelevante, já que os serviços passaram a ser oferecidos apenas em papel.",
+    "e": "as instituições públicas suspenderam o uso de tecnologias digitais e retomaram integralmente o atendimento presencial."
+   },
+   "resposta": "c",
+   "explicacao": "Quando serviços passam a existir apenas on-line, quem carece de acesso à internet ou de equipamento fica em desvantagem, o que evidencia a exclusão digital e reforça a necessidade de inclusão digital."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-07",
+   "formato": "direta",
+   "enunciado": "A chamada divisão digital entre países ricos e pobres pode ser compreendida como",
+   "alternativas": {
+    "a": "a decisão dos países mais pobres de recusar a instalação de redes de internet em todos os seus territórios nacionais.",
+    "b": "a diferença de acesso à internet e à infraestrutura digital entre nações de distintos graus de desenvolvimento.",
+    "c": "a existência de dois tipos de internet tecnicamente incompatíveis entre si, um para cada grupo de países do mundo.",
+    "d": "a igualdade de conectividade já alcançada por todas as nações, independentemente de sua situação econômica atual.",
+    "e": "a repartição da rede mundial em fusos horários, que organiza o acesso à internet ao longo das horas de cada dia."
+   },
+   "resposta": "b",
+   "explicacao": "A divisão digital global é a diferença de acesso à internet e à infraestrutura digital entre países de distintos níveis de desenvolvimento, dimensão internacional da exclusão digital."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-08",
+   "formato": "direta",
+   "enunciado": "A inclusão digital abrange também a acessibilidade digital, voltada às pessoas com deficiência. Constitui exemplo de recurso de acessibilidade digital",
+   "alternativas": {
+    "a": "o leitor de tela, que converte em áudio o texto exibido para que uma pessoa cega navegue na internet.",
+    "b": "o aumento da franquia de dados oferecido de modo igual a todos os usuários de um mesmo plano de telefonia móvel.",
+    "c": "a exigência de que todo site passe a ser acessado apenas por computadores de mesa, e nunca por telefones celulares.",
+    "d": "a redução da velocidade de conexão nos horários de pico, adotada pelos provedores para economizar energia elétrica.",
+    "e": "a troca dos conteúdos em vídeo por versões unicamente impressas, distribuídas fora do ambiente da internet."
+   },
+   "resposta": "a",
+   "explicacao": "A acessibilidade digital adapta sites e aplicativos para pessoas com deficiência: recursos como leitores de tela, legendas e alto contraste permitem o uso da internet por quem tem deficiência visual ou auditiva — dimensão da inclusão digital muitas vezes esquecida."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-09",
+   "formato": "direta",
+   "enunciado": "A relação entre a conectividade à internet e as oportunidades disponíveis on-line evidencia que",
+   "alternativas": {
+    "a": "o acesso à internet perdeu relevância para a participação das pessoas na vida econômica contemporânea das cidades.",
+    "b": "a conectividade influencia apenas o lazer, sem efeito algum sobre o acesso a cursos, serviços e oportunidades.",
+    "c": "a posse de um aparelho conectado assegura, de forma automática, o sucesso profissional de quem o utiliza no dia a dia.",
+    "d": "a exclusão digital limita o acesso a cursos, vagas e serviços que hoje passam por plataformas na internet.",
+    "e": "a ampliação da banda larga elimina, por si mesma, todas as desigualdades entre as diferentes regiões do país."
+   },
+   "resposta": "d",
+   "explicacao": "A exclusão digital limita o acesso a cursos, vagas e serviços que migraram para a internet, de modo que a conectividade se tornou fator relevante para as oportunidades, tema das políticas de inclusão digital."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-10",
+   "formato": "direta",
+   "enunciado": "Programas públicos de universalização da banda larga têm como principal objetivo",
+   "alternativas": {
+    "a": "restringir o acesso à internet às áreas urbanas de maior densidade populacional e de maior poder de compra do país.",
+    "b": "elevar o preço do acesso à internet para financiar a instalação de novas redes em áreas que já estão conectadas.",
+    "c": "transferir às famílias a responsabilidade integral pela construção de toda a infraestrutura de banda larga local.",
+    "d": "substituir a internet fixa pela conexão via satélite em todos os domicílios das grandes cidades do território.",
+    "e": "ampliar a conectividade em regiões pouco atendidas, reduzindo a exclusão digital no território."
+   },
+   "resposta": "e",
+   "explicacao": "A universalização da banda larga visa ampliar a conectividade em regiões pouco atendidas e reduzir a exclusão digital, aproximando o acesso à internet das áreas historicamente desassistidas."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-11",
+   "formato": "direta",
+   "enunciado": "Considerando o debate sobre inclusão digital, é correto afirmar que reduzir a exclusão digital exige",
+   "alternativas": {
+    "a": "combinar acesso à internet, conectividade de qualidade e letramento digital para grupos hoje desassistidos.",
+    "b": "unicamente a construção de redes, sem que a formação dos usuários tenha qualquer papel relevante no processo.",
+    "c": "apenas a distribuição de aparelhos, pois o acesso à internet e o letramento digital seriam detalhes secundários.",
+    "d": "concentrar a conectividade nas capitais, deixando as demais regiões dependentes de soluções improvisadas e caras.",
+    "e": "aguardar que o mercado, sozinho, leve a banda larga a todas as regiões, sem participação alguma do poder público."
+   },
+   "resposta": "a",
+   "explicacao": "Reduzir a exclusão digital exige combinar acesso à internet, conectividade de qualidade e letramento digital voltados aos grupos desassistidos, articulando infraestrutura e formação nas políticas de inclusão digital."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-incldig-12",
+   "formato": "direta",
+   "enunciado": "A afirmação de que o acesso à internet é hoje condição para o exercício pleno da cidadania apoia-se na ideia de que",
+   "alternativas": {
+    "a": "o uso da internet se restringe ao entretenimento, sem qualquer relação com direitos ou com a vida pública dos cidadãos.",
+    "b": "a cidadania independe por completo do acesso à internet, pois todos os serviços seguem oferecidos apenas em papel.",
+    "c": "o letramento digital diz respeito apenas às gerações mais jovens, sem efeito sobre a cidadania dos demais grupos.",
+    "d": "a exclusão digital foi superada em escala mundial, tornando desnecessário qualquer debate sobre a conectividade.",
+    "e": "informação, serviços públicos e participação social passaram, em grande parte, a depender da conexão digital."
+   },
+   "resposta": "e",
+   "explicacao": "Como informação, serviços públicos e participação social passaram a depender da conexão digital, o acesso à internet tornou-se condição para o exercício da cidadania, o que justifica as políticas de inclusão digital."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-01",
+   "formato": "direta",
+   "enunciado": "No debate sobre regulação digital no Brasil, a Lei Geral de Proteção de Dados (LGPD) tem como objeto principal",
+   "alternativas": {
+    "a": "estabelecer regras para o tratamento de dados pessoais por empresas e pelos órgãos públicos do país.",
+    "b": "definir quais publicações podem permanecer no ar nas redes sociais, cabendo às plataformas a decisão de removê-las.",
+    "c": "garantir a mesma velocidade de conexão a todos os aplicativos, vedando a discriminação de tráfego pelos provedores.",
+    "d": "obrigar as operadoras de telefonia a oferecer acesso gratuito à internet em todo o território nacional brasileiro.",
+    "e": "transferir ao Poder Judiciário a tarefa de autorizar, caso a caso, cada coleta de dados feita pelas empresas do país."
+   },
+   "resposta": "a",
+   "explicacao": "A LGPD disciplina o tratamento de dados pessoais por empresas e pelo poder público, fixando bases legais como o consentimento e assegurando ao titular direitos de acesso, correção e exclusão de seus dados — dimensão central da regulação digital, distinta da moderação de conteúdo."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-02",
+   "formato": "direta",
+   "enunciado": "O Marco Civil da Internet, no Brasil, é frequentemente citado no debate sobre a regulação das plataformas porque",
+   "alternativas": {
+    "a": "transferiu às plataformas digitais a tarefa de julgar e punir criminalmente os autores das publicações apontadas como ilícitas na rede.",
+    "b": "estabeleceu princípios e regras de uso da internet, com direitos dos usuários e deveres dos provedores.",
+    "c": "proibiu a moderação de conteúdo e obrigou as redes sociais a manter no ar o que os usuários venham a publicar.",
+    "d": "retirou a liberdade de expressão online ao autorizar a remoção de conteúdo sem previsão de regra específica.",
+    "e": "entregou às operadoras o poder de escolher quais sites o usuário acessa conforme o plano que ele contratar."
+   },
+   "resposta": "b",
+   "explicacao": "O Marco Civil da Internet fixou princípios e regras para o uso da rede no Brasil, como direitos dos usuários e deveres dos provedores, sendo referência no debate sobre a regulação das plataformas."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-03",
+   "formato": "direta",
+   "enunciado": "Um dos pontos mais discutidos na regulação das plataformas é a responsabilidade das plataformas pelo conteúdo publicado por terceiros. O cerne desse debate está em definir",
+   "alternativas": {
+    "a": "se as plataformas digitais devem produzir, elas próprias, as publicações que circulam diariamente nas redes sociais do país.",
+    "b": "se os usuários perdem o direito de publicar assim que aderem aos termos de uso de uma rede social específica.",
+    "c": "em que medida a plataforma responde por publicações de terceiros, sobretudo após ser notificada de conteúdo ilícito.",
+    "d": "se a rede deve ser desligada quando uma publicação apontada como ilícita deixa de ser removida com rapidez.",
+    "e": "quem arca com a conta de energia dos servidores que hospedam as publicações das redes sociais mais acessadas."
+   },
+   "resposta": "c",
+   "explicacao": "O debate sobre a responsabilidade das plataformas gira em torno de quando e como elas respondem por conteúdo de terceiros, especialmente após notificação sobre publicações ilícitas, tema central da regulação das plataformas."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-04",
+   "formato": "direta",
+   "enunciado": "A tensão entre a liberdade de expressão online e a remoção de conteúdo pelas plataformas digitais decorre do fato de que",
+   "alternativas": {
+    "a": "a remoção de conteúdo é tida como ilegal, pois a liberdade de expressão online não admitiria restrição de nenhuma espécie.",
+    "b": "a liberdade de expressão online deixou de ser um valor relevante desde o surgimento das grandes redes sociais.",
+    "c": "as plataformas digitais são obrigadas a retirar do ar as publicações assim que recebem a primeira reclamação de um usuário.",
+    "d": "remover conteúdo pode proteger direitos de terceiros, mas também pode restringir manifestações legítimas dos usuários.",
+    "e": "a remoção de conteúdo depende de decisão unânime dos usuários da rede social envolvida em cada caso concreto."
+   },
+   "resposta": "d",
+   "explicacao": "A remoção de conteúdo pode proteger direitos, como a honra e a segurança, mas também pode atingir manifestações legítimas; equilibrar esses interesses é o desafio da regulação das plataformas e da liberdade de expressão online."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-05",
+   "formato": "direta",
+   "enunciado": "Entre os argumentos favoráveis à regulação das plataformas digitais pelo Estado, costuma-se apontar que ela",
+   "alternativas": {
+    "a": "dispensaria a necessidade de moderação de conteúdo por parte das próprias redes sociais e dos aplicativos de mensagem.",
+    "b": "asseguraria a permanência de todas as publicações no ar, sem que houvesse remoção de conteúdo em situação alguma.",
+    "c": "repassaria às operadoras de telefonia o controle sobre o conteúdo que circula na internet do país inteiro.",
+    "d": "obrigaria os usuários a se identificar com nome real para acessar os serviços prestados na internet brasileira.",
+    "e": "poderia impor transparência e responsabilidade às plataformas, hoje regidas sobretudo por regras internas próprias."
+   },
+   "resposta": "e",
+   "explicacao": "Um argumento a favor da regulação das plataformas é que ela pode impor deveres de transparência e responsabilidade a empresas que hoje operam segundo regras próprias, com pouca prestação de contas ao público."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-06",
+   "formato": "direta",
+   "enunciado": "A circulação de desinformação nas redes sociais relaciona-se ao debate sobre moderação de conteúdo porque",
+   "alternativas": {
+    "a": "a moderação de conteúdo é uma das ferramentas discutidas para lidar com a difusão de informações falsas.",
+    "b": "a desinformação some por conta própria assim que uma publicação atinge um número elevado de compartilhamentos na rede.",
+    "c": "as plataformas digitais estão proibidas por lei de adotar medidas diante de conteúdos comprovadamente falsos que circulam.",
+    "d": "a checagem de fatos foi extinta em escala mundial, o que teria encerrado o debate sobre a difusão de notícias falsas.",
+    "e": "a desinformação atinge somente os veículos de imprensa tradicionais, sem relação com as publicações das redes sociais."
+   },
+   "resposta": "a",
+   "explicacao": "A moderação de conteúdo é uma das ferramentas discutidas para enfrentar a desinformação nas plataformas digitais, embora seu uso levante questões sobre limites e sobre a liberdade de expressão online."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-07",
+   "formato": "direta",
+   "enunciado": "A exigência de transparência nos processos de remoção de conteúdo das plataformas digitais busca, sobretudo,",
+   "alternativas": {
+    "a": "assegurar que publicação nenhuma de usuário seja retirada do ar, seja qual for a circunstância apontada na reclamação.",
+    "b": "permitir que os usuários saibam por que uma publicação foi removida e possam contestar a decisão da plataforma.",
+    "c": "repassar ao usuário o custo técnico de manter as publicações hospedadas nos servidores da rede social utilizada.",
+    "d": "fazer com que a reclamação de um usuário resulte, por conta própria, na remoção imediata do conteúdo apontado.",
+    "e": "obrigar as plataformas a divulgar os dados pessoais de quem denuncia conteúdos considerados irregulares na rede."
+   },
+   "resposta": "b",
+   "explicacao": "A transparência na remoção de conteúdo permite que os usuários compreendam os motivos das decisões e possam contestá-las, o que é apontado como salvaguarda da liberdade de expressão online na regulação das plataformas."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-08",
+   "formato": "direta",
+   "enunciado": "A discussão sobre monopólio e concentração de mercado no setor das grandes plataformas digitais, as chamadas big techs, aponta que",
+   "alternativas": {
+    "a": "a presença de muitas empresas de igual porte já afastou a preocupação com a concentração de mercado no setor digital.",
+    "b": "a concorrência digital perdeu relevância desde que boa parte dos serviços das plataformas passou a ser oferecida sem cobrança.",
+    "c": "um pequeno número de empresas concentra parte importante do mercado digital, o que suscita debates sobre concorrência.",
+    "d": "as big techs deixaram de influenciar a economia mundial após a popularização dos aparelhos de telefonia móvel.",
+    "e": "a concentração de mercado no setor digital foi vedada de modo idêntico em cada país por um mesmo tratado internacional."
+   },
+   "resposta": "c",
+   "explicacao": "A concentração de parte importante do mercado digital em poucas empresas, as big techs, alimenta debates sobre monopólio, concorrência digital e a necessidade de regulação das plataformas."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-09",
+   "formato": "direta",
+   "enunciado": "No debate sobre concorrência digital, argumenta-se que o grande poder de mercado de algumas plataformas pode",
+   "alternativas": {
+    "a": "beneficiar os pequenos concorrentes, que passariam a ter acesso irrestrito à base de usuários das big techs do setor.",
+    "b": "encerrar a possibilidade de que novos serviços digitais venham a surgir em outros lugares a partir daquele momento.",
+    "c": "provocar a redução automática dos preços dos produtos vendidos pela internet nos diferentes países do planeta.",
+    "d": "dificultar a entrada de novos concorrentes e reforçar a posição dominante das empresas já estabelecidas no setor.",
+    "e": "impedir que outras empresas venham a alcançar uma posição de destaque no mercado das plataformas digitais."
+   },
+   "resposta": "d",
+   "explicacao": "O poder de mercado de algumas plataformas pode dificultar a entrada de novos concorrentes e reforçar posições dominantes, argumento usado em favor da regulação da concorrência digital e do controle de monopólios."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-10",
+   "formato": "direta",
+   "enunciado": "A comparação entre autorregulação e regulação estatal das plataformas digitais pode ser assim resumida:",
+   "alternativas": {
+    "a": "autorregulação e regulação estatal são expressões equivalentes e designam o mesmo modelo de controle das plataformas.",
+    "b": "a autorregulação existe apenas em países sem internet, ao passo que a regulação estatal valeria só para as redes sociais.",
+    "c": "a regulação estatal veda a moderação de conteúdo, enquanto a autorregulação imporia a remoção de todas as publicações.",
+    "d": "ambas repassam às operadoras de telefonia a decisão sobre quais conteúdos podem circular livremente na internet do país.",
+    "e": "na autorregulação, as próprias plataformas definem suas regras; na regulação estatal, o poder público fixa deveres a elas."
+   },
+   "resposta": "e",
+   "explicacao": "Na autorregulação, as próprias plataformas definem e aplicam suas regras de moderação de conteúdo; na regulação estatal, o poder público estabelece deveres, como transparência e responsabilidade, no centro do debate atual."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-11",
+   "formato": "direta",
+   "enunciado": "O tratamento do discurso de ódio nas redes sociais liga-se à liberdade de expressão online porque",
+   "alternativas": {
+    "a": "reconhecer limites ao discurso de ódio pode proteger direitos, exigindo cuidado para não atingir manifestações legítimas.",
+    "b": "o discurso de ódio estaria protegido de modo pleno pela liberdade de expressão, sem caber às plataformas providência alguma.",
+    "c": "a liberdade de expressão online obrigaria as plataformas a retirar do ar as publicações que gerem alguma discordância.",
+    "d": "o combate ao discurso de ódio dependeria apenas da decisão individual de cada usuário de deixar de acessar a rede social.",
+    "e": "o discurso de ódio teria desaparecido das redes sociais desde que as plataformas passaram a moderar seus conteúdos."
+   },
+   "resposta": "a",
+   "explicacao": "Reconhecer limites ao discurso de ódio pode proteger direitos de grupos atingidos, mas exige cuidado para não restringir manifestações legítimas, tensão típica do debate sobre liberdade de expressão online e moderação de conteúdo."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-12",
+   "formato": "direta",
+   "enunciado": "A discussão sobre a transparência dos algoritmos de recomendação das plataformas digitais parte da constatação de que",
+   "alternativas": {
+    "a": "os algoritmos apenas ordenam as publicações em ordem alfabética, sem efeito sobre o que os usuários acabam vendo na rede.",
+    "b": "os algoritmos influenciam o que cada usuário vê, o que motiva pedidos de transparência na regulação das plataformas.",
+    "c": "a recomendação é feita à mão por funcionários que leem, um a um, os textos publicados diariamente pelos usuários da rede.",
+    "d": "os algoritmos das plataformas seriam idênticos entre si e definidos por um órgão internacional comum às redes sociais.",
+    "e": "a ordem das publicações é sorteada ao acaso a cada acesso, sem relação com o comportamento anterior daquele usuário."
+   },
+   "resposta": "b",
+   "explicacao": "Como os algoritmos de recomendação influenciam o que cada usuário vê nas redes sociais, cresce a demanda por transparência sobre seu funcionamento, ponto recorrente no debate sobre a regulação das plataformas."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-13",
+   "formato": "direta",
+   "enunciado": "No debate sobre o acesso à internet, a prática conhecida como zero rating (ou franquia zero) consiste em",
+   "alternativas": {
+    "a": "isentar da franquia de dados o uso de certos aplicativos, prática que tensiona a neutralidade de rede.",
+    "b": "cobrar uma tarifa fixa mensal idêntica de todos os usuários, qualquer que seja o aplicativo que cada um deles acesse.",
+    "c": "bloquear por completo o acesso a qualquer aplicativo que ainda não tenha recebido autorização prévia para funcionar.",
+    "d": "reduzir a zero a velocidade da conexão nos horários de maior uso da rede pelos assinantes de um mesmo provedor.",
+    "e": "oferecer internet gratuita e ilimitada a toda a população, sem qualquer custo para os usuários finais do serviço."
+   },
+   "resposta": "a",
+   "explicacao": "No zero rating, a operadora não desconta da franquia os dados usados em determinados aplicativos, o que barateia o acesso a eles, mas favorece alguns serviços em detrimento de outros — daí a tensão com o princípio da neutralidade de rede."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-14",
+   "formato": "direta",
+   "enunciado": "A moderação de conteúdo em grande escala nas redes sociais enfrenta o desafio de que",
+   "alternativas": {
+    "a": "o volume de publicações seria tão baixo que dispensaria o uso de sistemas automáticos por parte das plataformas digitais.",
+    "b": "as decisões de moderação poderiam ser tomadas com perfeição por sistemas automáticos, sem margem para erro de avaliação.",
+    "c": "a moderação de conteúdo teria sido proibida em escala mundial, o que impediria as plataformas de agir sobre publicações.",
+    "d": "o enorme volume de publicações leva ao uso de sistemas automáticos, que podem cometer erros ao avaliar contextos.",
+    "e": "as plataformas conseguiriam submeter cada publicação à análise individual de juízes antes de exibi-la na rede social."
+   },
+   "resposta": "d",
+   "explicacao": "O grande volume de publicações leva as plataformas a usar sistemas automáticos de moderação de conteúdo, que podem errar ao avaliar contextos e ironias, o que reforça a demanda por transparência e revisão humana."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-15",
+   "formato": "direta",
+   "enunciado": "Ao comparar diferentes experiências internacionais de regulação das plataformas digitais, observa-se que os países costumam buscar",
+   "alternativas": {
+    "a": "a proibição do acesso às redes sociais como via principal para lidar com os problemas ligados ao uso da internet.",
+    "b": "a entrega às próprias big techs do poder de redigir, sem participação pública, as leis que iriam regulá-las em cada país.",
+    "c": "a supressão das regras sobre a internet, deixando o setor sem forma alguma de supervisão ou de controle público.",
+    "d": "a adoção de um mesmo modelo idêntico de regulação, imposto de maneira uniforme aos diferentes países do mundo.",
+    "e": "equilibrar a liberdade de expressão online com deveres de transparência e responsabilidade das plataformas digitais."
+   },
+   "resposta": "e",
+   "explicacao": "As experiências internacionais de regulação das plataformas costumam buscar equilíbrio entre a liberdade de expressão online e deveres de transparência e responsabilidade, ainda que os modelos variem entre os países."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-16",
+   "formato": "direta",
+   "enunciado": "No debate sobre a regulação das plataformas, o chamado sistema de notificação e retirada, ligado à responsabilidade das plataformas, funciona quando",
+   "alternativas": {
+    "a": "a plataforma, notificada sobre um conteúdo apontado como ilícito, avalia o caso e pode remover a publicação indicada.",
+    "b": "a plataforma retira do ar, de forma imediata e sem análise, a publicação que receba ao menos uma reclamação de usuário.",
+    "c": "o usuário que publica um conteúdo passa a notificar pessoalmente os demais usuários antes de fazê-lo na rede social.",
+    "d": "o Estado assume a hospedagem das publicações das redes sociais para decidir, sozinho, o que permanece no ar na internet.",
+    "e": "as operadoras de telefonia passam a redigir os termos de uso de cada uma das plataformas digitais em funcionamento."
+   },
+   "resposta": "a",
+   "explicacao": "No sistema de notificação e retirada, a plataforma que é informada sobre conteúdo apontado como ilícito avalia o caso e pode removê-lo, arranjo central no debate sobre a responsabilidade das plataformas e a regulação das plataformas."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-17",
+   "formato": "direta",
+   "enunciado": "A relação entre monopólio digital e inovação é discutida sob o argumento de que a forte concentração de mercado pode",
+   "alternativas": {
+    "a": "assegurar mais inovação, pois a ausência de concorrentes liberaria as empresas de qualquer esforço de melhoria dos serviços.",
+    "b": "reduzir os incentivos à inovação, ao dificultar que novos concorrentes desafiem as plataformas já dominantes no setor.",
+    "c": "impedir o surgimento de novas tecnologias no mundo a partir do momento em que a concentração ocorre no setor digital.",
+    "d": "afastar a necessidade de políticas de defesa da concorrência no âmbito da economia digital dos diferentes países.",
+    "e": "assegurar preços mínimos e idênticos nos serviços digitais oferecidos por empresas de portes distintos no mercado."
+   },
+   "resposta": "b",
+   "explicacao": "Argumenta-se que a concentração de mercado pode reduzir incentivos à inovação, ao dificultar que novos concorrentes desafiem as plataformas dominantes, o que reforça o debate sobre concorrência digital e regulação."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-18",
+   "formato": "direta",
+   "enunciado": "A afirmação de que a liberdade de expressão online não é um direito absoluto significa que",
+   "alternativas": {
+    "a": "as manifestações nas redes sociais poderiam ser suprimidas a cada instante pela simples vontade das plataformas digitais.",
+    "b": "a liberdade de expressão perdeu validade no ambiente da internet e deixou de ser reconhecida como direito dos usuários.",
+    "c": "seu exercício pode encontrar limites quando colide com outros direitos, como a honra, a segurança e a proteção de grupos.",
+    "d": "cada publicação feita nas redes sociais precisaria ser aprovada por um órgão do governo antes de ir ao ar na internet.",
+    "e": "somente as pessoas autorizadas pelas plataformas poderiam se manifestar sobre assuntos de interesse público na rede."
+   },
+   "resposta": "c",
+   "explicacao": "Dizer que a liberdade de expressão online não é absoluta significa que seu exercício pode encontrar limites ao colidir com outros direitos, como a honra e a segurança, o que orienta a moderação de conteúdo e a regulação das plataformas."
+  },
+  {
+   "subtema": "atualidades-tecnologia",
+   "id": "atualidades-regdig-19",
+   "formato": "direta",
+   "enunciado": "De modo geral, o debate contemporâneo sobre a regulação das plataformas digitais procura responder à pergunta de",
+   "alternativas": {
+    "a": "se a internet deveria ser desligada assim que surgir uma publicação considerada inadequada por um único usuário da rede.",
+    "b": "qual operadora de telefonia deveria assumir, sozinha, a propriedade das redes sociais em funcionamento no país inteiro.",
+    "c": "por que motivo as redes sociais deveriam deixar de existir diante das dificuldades de moderação de conteúdo em escala.",
+    "d": "como conciliar a liberdade de expressão online com a responsabilidade das plataformas e a proteção dos usuários.",
+    "e": "quantas horas por dia cada usuário estaria autorizado a permanecer conectado às plataformas digitais mais acessadas."
+   },
+   "resposta": "d",
+   "explicacao": "O debate sobre a regulação das plataformas busca conciliar a liberdade de expressão online com a responsabilidade das plataformas e a proteção dos usuários, equilíbrio que envolve moderação de conteúdo, transparência e concorrência digital."
   }
  ],
  "atualidades-sociedade-educacao": [

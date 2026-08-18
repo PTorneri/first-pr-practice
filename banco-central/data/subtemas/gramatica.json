@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "gramatica",
- "total": 431,
+ "total": 436,
  "residuo": [
   "dir-gramatica-01",
   "dir-gramatica-21",
@@ -2581,6 +2581,36 @@
    "frenteDestino": "gramatica",
    "pontos": 10,
    "margem": 5
+  },
+  "gramatica-colpron-01": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "gramatica-colpron-02": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 12
+  },
+  "gramatica-colpron-03": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "gramatica-colpron-04": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "gramatica-colpron-05": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

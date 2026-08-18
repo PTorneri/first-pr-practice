@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "atualidades",
- "total": 689,
+ "total": 720,
  "residuo": [
   "med-atualidades-10",
   "med-atualidades-23",
@@ -3677,6 +3677,192 @@
    "subtema": "atualidades-meioambiente",
    "frenteDestino": "atualidades",
    "revisado": true
+  },
+  "atualidades-incldig-01": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-incldig-02": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-incldig-03": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-incldig-04": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-incldig-05": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "atualidades-incldig-06": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-incldig-07": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-incldig-08": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-incldig-09": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-incldig-10": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-incldig-11": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-incldig-12": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-regdig-01": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 13,
+   "margem": 13
+  },
+  "atualidades-regdig-02": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "atualidades-regdig-03": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "atualidades-regdig-04": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "atualidades-regdig-05": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "atualidades-regdig-06": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "atualidades-regdig-07": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "atualidades-regdig-08": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 5
+  },
+  "atualidades-regdig-09": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "atualidades-regdig-10": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "atualidades-regdig-11": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "atualidades-regdig-12": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "atualidades-regdig-13": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-regdig-14": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "atualidades-regdig-15": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "atualidades-regdig-16": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "atualidades-regdig-17": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "atualidades-regdig-18": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "atualidades-regdig-19": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
   }
  }
 }

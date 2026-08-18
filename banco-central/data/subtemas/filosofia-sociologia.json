@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "filosofia-sociologia",
- "total": 491,
+ "total": 492,
  "residuo": [
   "dir-filosofia-sociologia-81",
   "dir-filosofia-sociologia-97",
@@ -2913,6 +2913,12 @@
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
    "margem": 5
+  },
+  "filosofia-sociologia-trab-01": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 20,
+   "margem": 20
   }
  }
 }

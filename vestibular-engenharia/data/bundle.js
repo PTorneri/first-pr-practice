@@ -48299,6 +48299,81 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Em \"seu saber de experiências feito\", \"saber\" deixou de ser verbo e virou substantivo — vem com possessivo (\"seu\") e é o objeto de \"demonstrou\". Mudou de classe sem mudar de forma: derivação imprópria. \"Entender\", \"confiar\" e \"dizer\" continuam verbos no infinitivo (começar a entender, costumo confiar, dizer Zaire é dizer…); \"são\" em \"são e salvo\" é adjetivo, que já era adjetivo — não houve passagem de classe."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-colpron-01",
+   "formato": "direta",
+   "enunciado": "Na oração \"Ninguém me avisou da mudança de horário\", o pronome oblíquo \"me\" vem antes do verbo. Essa colocação explica-se porque",
+   "alternativas": {
+    "a": "o pronome indefinido \"ninguém\" atua como palavra atrativa e exige a próclise.",
+    "b": "o verbo, por estar flexionado no futuro do presente, atrai o pronome para o interior da forma verbal, em mesóclise.",
+    "c": "não existe na frase termo atrativo, restando a ênclise como a única colocação admitida pela norma culta escrita.",
+    "d": "o sujeito posposto ao verbo impõe a ênclise, com o pronome oblíquo preso ao fim do enunciado escrito.",
+    "e": "a presença de um pronome relativo no início do período determina a anteposição do pronome ao verbo."
+   },
+   "resposta": "a",
+   "explicacao": "Pronomes indefinidos de sentido negativo, como \"ninguém\", \"nada\" e \"nenhum\", são fatores de atração e exigem a próclise; por isso o pronome oblíquo vem antes do verbo em \"ninguém me avisou\"."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-colpron-02",
+   "formato": "direta",
+   "enunciado": "Na frase \"Convidá-lo-ia para a solenidade, se houvesse tempo\", o pronome oblíquo aparece no meio da forma verbal. Essa colocação denomina-se",
+   "alternativas": {
+    "a": "próclise, exigida por um advérbio de negação que estivesse anteposto à forma verbal empregada na oração.",
+    "b": "mesóclise, própria do futuro do pretérito, quando nenhuma palavra atrai o pronome.",
+    "c": "ênclise, adotada porque o pronome oblíquo se prende ao final de um verbo no pretérito perfeito do indicativo.",
+    "d": "próclise, motivada por um pronome relativo que introduzisse a oração em que o verbo se encontra empregado.",
+    "e": "ênclise, empregada quando o verbo da oração se flexiona no modo subjuntivo do enunciado escrito."
+   },
+   "resposta": "b",
+   "explicacao": "Na mesóclise, o pronome oblíquo é colocado no meio do verbo flexionado no futuro do presente ou do pretérito, quando não há palavra atrativa; \"convidá-lo-ia\" está no futuro do pretérito, daí a colocação mesoclítica."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-colpron-03",
+   "formato": "direta",
+   "enunciado": "Em \"Diga-me a verdade sobre o ocorrido\", a colocação do pronome oblíquo depois do verbo, chamada ênclise, explica-se porque",
+   "alternativas": {
+    "a": "a forma verbal está no futuro do pretérito, caso em que se recomenda inserir o pronome no meio do verbo.",
+    "b": "há, antes do verbo, um advérbio de negação que atrai o pronome oblíquo para a posição anterior a ele.",
+    "c": "existe uma palavra atrativa que exige a anteposição do pronome à forma verbal utilizada na frase escrita.",
+    "d": "o verbo abre a frase e não há fator de atração que justifique a próclise do pronome oblíquo empregado.",
+    "e": "um pronome relativo presente na frase obriga o deslocamento do pronome oblíquo para antes do verbo."
+   },
+   "resposta": "d",
+   "explicacao": "Quando o verbo abre a frase e não há fator de atração, a colocação pronominal adequada é a ênclise, com o pronome oblíquo depois do verbo, como em \"diga-me\"."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-colpron-04",
+   "formato": "direta",
+   "enunciado": "Na frase \"O documento que me entregaram estava incompleto\", o pronome oblíquo aparece antes do verbo porque",
+   "alternativas": {
+    "a": "o pronome relativo \"que\" funciona como fator de atração e exige a próclise antes da forma verbal.",
+    "b": "o verbo está flexionado no futuro do presente, o que recomenda o emprego da mesóclise no enunciado escrito.",
+    "c": "a forma verbal inicia o enunciado de modo absoluto, situação em que se adota a ênclise do pronome oblíquo.",
+    "d": "não há termo capaz de atrair o pronome, ficando livre a posição do oblíquo diante da forma verbal usada.",
+    "e": "a forma verbal, por estar no gerúndio, atrairia o pronome oblíquo para uma posição posterior a ela."
+   },
+   "resposta": "a",
+   "explicacao": "Pronomes relativos como \"que\" são fatores de atração e exigem a próclise; por isso, em \"que me entregaram\", a colocação pronominal correta traz o pronome oblíquo antes do verbo."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-colpron-05",
+   "formato": "direta",
+   "enunciado": "Sobre a colocação pronominal em língua portuguesa, é correto afirmar que a escolha entre próclise, ênclise e mesóclise",
+   "alternativas": {
+    "a": "depende do gosto pessoal de quem escreve, sem relação com fatores gramaticais presentes na frase escrita.",
+    "b": "impõe a mesóclise nas formas do presente do indicativo, independentemente do contexto do enunciado usado.",
+    "c": "reserva a ênclise às frases abertas por advérbios de negação que antecedem a forma verbal utilizada no texto.",
+    "d": "destina a próclise às formas verbais do futuro que não trazem palavra atrativa anterior a elas na frase.",
+    "e": "é regida por fatores de atração, como palavras negativas, advérbios e pronomes relativos na frase."
+   },
+   "resposta": "e",
+   "explicacao": "A colocação pronominal é regida por fatores de atração: palavras de sentido negativo, advérbios e pronomes relativos atraem o pronome e favorecem a próclise, ao passo que a ênclise e a mesóclise seguem outras condições."
   }
  ],
  "gramatica-pontuacao": [

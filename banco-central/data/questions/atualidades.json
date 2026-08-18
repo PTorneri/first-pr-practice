@@ -11892,6 +11892,440 @@
    },
    "resposta": "d",
    "explicacao": "O texto nomeia as duas fontes de pressão que elevaram a meta brasileira de 43% para 50%. De cima, a ONU, que organiza a Conferência do Clima e cobra compromissos mais ambiciosos desde o Acordo de Paris: um organismo supranacional. De dentro, o CEBDS e os 119 CEOs do movimento Empresários pelo Clima — atores privados organizados, que é o que se entende por sociedade civil. As demais alternativas citam grupos que podem atuar no debate climático, mas nenhum deles aparece no texto como responsável pelo tensionamento descrito."
+  },
+  {
+   "id": "atualidades-incldig-01",
+   "formato": "direta",
+   "enunciado": "Entre as políticas de inclusão digital adotadas no Brasil, os telecentros e os pontos de acesso público à internet têm como função principal",
+   "alternativas": {
+    "a": "oferecer acesso gratuito à internet e a computadores em espaços comunitários, sobretudo a quem não tem conexão em casa.",
+    "b": "substituir por completo a internet domiciliar, tornando desnecessária qualquer conexão particular nas residências do país.",
+    "c": "vender aparelhos e planos de dados à população de maior renda das grandes cidades, onde a conexão já é mais presente.",
+    "d": "fiscalizar o conteúdo acessado pelos usuários, restringindo o uso da rede a apenas alguns sites previamente permitidos.",
+    "e": "concentrar o acesso à internet nas áreas já bem atendidas, reforçando as desigualdades regionais hoje existentes no país."
+   },
+   "resposta": "a",
+   "explicacao": "Telecentros e pontos de acesso público oferecem internet e equipamentos de forma gratuita em espaços comunitários, ampliando o acesso de quem não tem conexão própria; são instrumentos concretos das políticas de inclusão digital voltadas a reduzir a exclusão digital."
+  },
+  {
+   "id": "atualidades-incldig-02",
+   "formato": "direta",
+   "enunciado": "Políticas de inclusão digital costumam ir além da simples distribuição de aparelhos. Isso ocorre porque",
+   "alternativas": {
+    "a": "a posse de um dispositivo conectado já assegura, por si só, o uso pleno e crítico de todas as ferramentas digitais existentes.",
+    "b": "o acesso à internet e o letramento digital são necessários para converter a conexão em oportunidade real.",
+    "c": "a conectividade deixou de ser relevante desde que a maioria dos serviços passou a funcionar fora da internet.",
+    "d": "a exclusão digital afeta apenas a população idosa, dispensando ações voltadas aos demais grupos da sociedade.",
+    "e": "os aparelhos digitais perderam importância diante do avanço dos meios de comunicação impressos tradicionais."
+   },
+   "resposta": "b",
+   "explicacao": "A inclusão digital combina acesso à internet, conectividade e letramento digital: sem a habilidade de usar as ferramentas, a mera posse de um aparelho não reduz a exclusão digital."
+  },
+  {
+   "id": "atualidades-incldig-03",
+   "formato": "direta",
+   "enunciado": "No Brasil, a expansão da banda larga e da conectividade à internet ainda é desigual. Um fator que aprofunda essa desigualdade é",
+   "alternativas": {
+    "a": "a distribuição perfeitamente uniforme da infraestrutura de internet entre as áreas urbanas e as áreas rurais de todo o país.",
+    "b": "o desaparecimento das diferenças de renda como elemento capaz de influenciar o acesso das famílias à rede mundial.",
+    "c": "a menor oferta de banda larga em regiões rurais e periféricas, que amplia a exclusão digital.",
+    "d": "a decisão das operadoras de priorizar sempre o atendimento das áreas de menor densidade populacional do território.",
+    "e": "a gratuidade universal do acesso à internet, hoje garantida a todos os domicílios brasileiros por uma lei federal."
+   },
+   "resposta": "c",
+   "explicacao": "A menor oferta de banda larga e conectividade em áreas rurais e periféricas, somada às diferenças de renda, aprofunda a exclusão digital e é um dos alvos das políticas de inclusão digital."
+  },
+  {
+   "id": "atualidades-incldig-04",
+   "formato": "direta",
+   "enunciado": "Costuma-se supor que ser jovem e ter crescido usando aparelhos digitais já garante o letramento digital. Especialistas contestam essa suposição com o argumento de que",
+   "alternativas": {
+    "a": "usar redes com desenvoltura não equivale a avaliar informações de forma crítica, algo que precisa ser aprendido.",
+    "b": "a familiaridade com os aparelhos já assegura, por si mesma, a leitura crítica das informações que circulam pela rede.",
+    "c": "o letramento digital se resume à rapidez com que a pessoa digita mensagens no teclado do próprio aparelho conectado.",
+    "d": "as pessoas mais velhas avaliam melhor os conteúdos por terem tido menos contato com as redes ao longo da vida.",
+    "e": "operar um aplicativo com facilidade indica, por si, que o usuário sabe verificar a origem daquilo que lê na internet."
+   },
+   "resposta": "a",
+   "explicacao": "O chamado \"mito do nativo digital\" adverte que a familiaridade dos jovens com aparelhos e redes não implica letramento digital: avaliar a confiabilidade de fontes e informações é competência crítica que precisa ser aprendida, e não um dom da idade."
+  },
+  {
+   "id": "atualidades-incldig-05",
+   "formato": "direta",
+   "enunciado": "A expressão apagão digital costuma designar",
+   "alternativas": {
+    "a": "a suspensão programada dos serviços de internet feita por empresas para reduzir o consumo de energia elétrica das cidades.",
+    "b": "a ausência ou a precariedade de conexão à internet em áreas à margem da infraestrutura de banda larga.",
+    "c": "a interrupção mundial e simultânea de todas as redes de comunicação por decisão dos organismos internacionais.",
+    "d": "o momento em que os usuários decidem, de forma coletiva, desligar seus aparelhos conectados à rede mundial.",
+    "e": "a queda temporária de uma única rede social, sem qualquer efeito sobre o acesso geral à internet no país."
+   },
+   "resposta": "b",
+   "explicacao": "O apagão digital nomeia a ausência ou precariedade de conexão à internet em regiões sem infraestrutura adequada de banda larga, expressão da exclusão digital que as políticas de inclusão buscam superar."
+  },
+  {
+   "id": "atualidades-incldig-06",
+   "formato": "direta",
+   "enunciado": "A ampliação dos serviços prestados exclusivamente pela internet tornou mais visível a exclusão digital porque",
+   "alternativas": {
+    "a": "toda a população passou a dispor de acesso à internet e de equipamentos adequados para usar esses serviços em casa.",
+    "b": "o acesso à internet deixou de ser necessário para que as pessoas pudessem resolver suas demandas cotidianas.",
+    "c": "quem não dispõe de conexão à internet ou de equipamento ficou em desvantagem para acessar tais serviços.",
+    "d": "a conectividade domiciliar tornou-se irrelevante, já que os serviços passaram a ser oferecidos apenas em papel.",
+    "e": "as instituições públicas suspenderam o uso de tecnologias digitais e retomaram integralmente o atendimento presencial."
+   },
+   "resposta": "c",
+   "explicacao": "Quando serviços passam a existir apenas on-line, quem carece de acesso à internet ou de equipamento fica em desvantagem, o que evidencia a exclusão digital e reforça a necessidade de inclusão digital."
+  },
+  {
+   "id": "atualidades-incldig-07",
+   "formato": "direta",
+   "enunciado": "A chamada divisão digital entre países ricos e pobres pode ser compreendida como",
+   "alternativas": {
+    "a": "a decisão dos países mais pobres de recusar a instalação de redes de internet em todos os seus territórios nacionais.",
+    "b": "a diferença de acesso à internet e à infraestrutura digital entre nações de distintos graus de desenvolvimento.",
+    "c": "a existência de dois tipos de internet tecnicamente incompatíveis entre si, um para cada grupo de países do mundo.",
+    "d": "a igualdade de conectividade já alcançada por todas as nações, independentemente de sua situação econômica atual.",
+    "e": "a repartição da rede mundial em fusos horários, que organiza o acesso à internet ao longo das horas de cada dia."
+   },
+   "resposta": "b",
+   "explicacao": "A divisão digital global é a diferença de acesso à internet e à infraestrutura digital entre países de distintos níveis de desenvolvimento, dimensão internacional da exclusão digital."
+  },
+  {
+   "id": "atualidades-incldig-08",
+   "formato": "direta",
+   "enunciado": "A inclusão digital abrange também a acessibilidade digital, voltada às pessoas com deficiência. Constitui exemplo de recurso de acessibilidade digital",
+   "alternativas": {
+    "a": "o leitor de tela, que converte em áudio o texto exibido para que uma pessoa cega navegue na internet.",
+    "b": "o aumento da franquia de dados oferecido de modo igual a todos os usuários de um mesmo plano de telefonia móvel.",
+    "c": "a exigência de que todo site passe a ser acessado apenas por computadores de mesa, e nunca por telefones celulares.",
+    "d": "a redução da velocidade de conexão nos horários de pico, adotada pelos provedores para economizar energia elétrica.",
+    "e": "a troca dos conteúdos em vídeo por versões unicamente impressas, distribuídas fora do ambiente da internet."
+   },
+   "resposta": "a",
+   "explicacao": "A acessibilidade digital adapta sites e aplicativos para pessoas com deficiência: recursos como leitores de tela, legendas e alto contraste permitem o uso da internet por quem tem deficiência visual ou auditiva — dimensão da inclusão digital muitas vezes esquecida."
+  },
+  {
+   "id": "atualidades-incldig-09",
+   "formato": "direta",
+   "enunciado": "A relação entre a conectividade à internet e as oportunidades disponíveis on-line evidencia que",
+   "alternativas": {
+    "a": "o acesso à internet perdeu relevância para a participação das pessoas na vida econômica contemporânea das cidades.",
+    "b": "a conectividade influencia apenas o lazer, sem efeito algum sobre o acesso a cursos, serviços e oportunidades.",
+    "c": "a posse de um aparelho conectado assegura, de forma automática, o sucesso profissional de quem o utiliza no dia a dia.",
+    "d": "a exclusão digital limita o acesso a cursos, vagas e serviços que hoje passam por plataformas na internet.",
+    "e": "a ampliação da banda larga elimina, por si mesma, todas as desigualdades entre as diferentes regiões do país."
+   },
+   "resposta": "d",
+   "explicacao": "A exclusão digital limita o acesso a cursos, vagas e serviços que migraram para a internet, de modo que a conectividade se tornou fator relevante para as oportunidades, tema das políticas de inclusão digital."
+  },
+  {
+   "id": "atualidades-incldig-10",
+   "formato": "direta",
+   "enunciado": "Programas públicos de universalização da banda larga têm como principal objetivo",
+   "alternativas": {
+    "a": "restringir o acesso à internet às áreas urbanas de maior densidade populacional e de maior poder de compra do país.",
+    "b": "elevar o preço do acesso à internet para financiar a instalação de novas redes em áreas que já estão conectadas.",
+    "c": "transferir às famílias a responsabilidade integral pela construção de toda a infraestrutura de banda larga local.",
+    "d": "substituir a internet fixa pela conexão via satélite em todos os domicílios das grandes cidades do território.",
+    "e": "ampliar a conectividade em regiões pouco atendidas, reduzindo a exclusão digital no território."
+   },
+   "resposta": "e",
+   "explicacao": "A universalização da banda larga visa ampliar a conectividade em regiões pouco atendidas e reduzir a exclusão digital, aproximando o acesso à internet das áreas historicamente desassistidas."
+  },
+  {
+   "id": "atualidades-incldig-11",
+   "formato": "direta",
+   "enunciado": "Considerando o debate sobre inclusão digital, é correto afirmar que reduzir a exclusão digital exige",
+   "alternativas": {
+    "a": "combinar acesso à internet, conectividade de qualidade e letramento digital para grupos hoje desassistidos.",
+    "b": "unicamente a construção de redes, sem que a formação dos usuários tenha qualquer papel relevante no processo.",
+    "c": "apenas a distribuição de aparelhos, pois o acesso à internet e o letramento digital seriam detalhes secundários.",
+    "d": "concentrar a conectividade nas capitais, deixando as demais regiões dependentes de soluções improvisadas e caras.",
+    "e": "aguardar que o mercado, sozinho, leve a banda larga a todas as regiões, sem participação alguma do poder público."
+   },
+   "resposta": "a",
+   "explicacao": "Reduzir a exclusão digital exige combinar acesso à internet, conectividade de qualidade e letramento digital voltados aos grupos desassistidos, articulando infraestrutura e formação nas políticas de inclusão digital."
+  },
+  {
+   "id": "atualidades-incldig-12",
+   "formato": "direta",
+   "enunciado": "A afirmação de que o acesso à internet é hoje condição para o exercício pleno da cidadania apoia-se na ideia de que",
+   "alternativas": {
+    "a": "o uso da internet se restringe ao entretenimento, sem qualquer relação com direitos ou com a vida pública dos cidadãos.",
+    "b": "a cidadania independe por completo do acesso à internet, pois todos os serviços seguem oferecidos apenas em papel.",
+    "c": "o letramento digital diz respeito apenas às gerações mais jovens, sem efeito sobre a cidadania dos demais grupos.",
+    "d": "a exclusão digital foi superada em escala mundial, tornando desnecessário qualquer debate sobre a conectividade.",
+    "e": "informação, serviços públicos e participação social passaram, em grande parte, a depender da conexão digital."
+   },
+   "resposta": "e",
+   "explicacao": "Como informação, serviços públicos e participação social passaram a depender da conexão digital, o acesso à internet tornou-se condição para o exercício da cidadania, o que justifica as políticas de inclusão digital."
+  },
+  {
+   "id": "atualidades-regdig-01",
+   "formato": "direta",
+   "enunciado": "No debate sobre regulação digital no Brasil, a Lei Geral de Proteção de Dados (LGPD) tem como objeto principal",
+   "alternativas": {
+    "a": "estabelecer regras para o tratamento de dados pessoais por empresas e pelos órgãos públicos do país.",
+    "b": "definir quais publicações podem permanecer no ar nas redes sociais, cabendo às plataformas a decisão de removê-las.",
+    "c": "garantir a mesma velocidade de conexão a todos os aplicativos, vedando a discriminação de tráfego pelos provedores.",
+    "d": "obrigar as operadoras de telefonia a oferecer acesso gratuito à internet em todo o território nacional brasileiro.",
+    "e": "transferir ao Poder Judiciário a tarefa de autorizar, caso a caso, cada coleta de dados feita pelas empresas do país."
+   },
+   "resposta": "a",
+   "explicacao": "A LGPD disciplina o tratamento de dados pessoais por empresas e pelo poder público, fixando bases legais como o consentimento e assegurando ao titular direitos de acesso, correção e exclusão de seus dados — dimensão central da regulação digital, distinta da moderação de conteúdo."
+  },
+  {
+   "id": "atualidades-regdig-02",
+   "formato": "direta",
+   "enunciado": "O Marco Civil da Internet, no Brasil, é frequentemente citado no debate sobre a regulação das plataformas porque",
+   "alternativas": {
+    "a": "transferiu às plataformas digitais a tarefa de julgar e punir criminalmente os autores das publicações apontadas como ilícitas na rede.",
+    "b": "estabeleceu princípios e regras de uso da internet, com direitos dos usuários e deveres dos provedores.",
+    "c": "proibiu a moderação de conteúdo e obrigou as redes sociais a manter no ar o que os usuários venham a publicar.",
+    "d": "retirou a liberdade de expressão online ao autorizar a remoção de conteúdo sem previsão de regra específica.",
+    "e": "entregou às operadoras o poder de escolher quais sites o usuário acessa conforme o plano que ele contratar."
+   },
+   "resposta": "b",
+   "explicacao": "O Marco Civil da Internet fixou princípios e regras para o uso da rede no Brasil, como direitos dos usuários e deveres dos provedores, sendo referência no debate sobre a regulação das plataformas."
+  },
+  {
+   "id": "atualidades-regdig-03",
+   "formato": "direta",
+   "enunciado": "Um dos pontos mais discutidos na regulação das plataformas é a responsabilidade das plataformas pelo conteúdo publicado por terceiros. O cerne desse debate está em definir",
+   "alternativas": {
+    "a": "se as plataformas digitais devem produzir, elas próprias, as publicações que circulam diariamente nas redes sociais do país.",
+    "b": "se os usuários perdem o direito de publicar assim que aderem aos termos de uso de uma rede social específica.",
+    "c": "em que medida a plataforma responde por publicações de terceiros, sobretudo após ser notificada de conteúdo ilícito.",
+    "d": "se a rede deve ser desligada quando uma publicação apontada como ilícita deixa de ser removida com rapidez.",
+    "e": "quem arca com a conta de energia dos servidores que hospedam as publicações das redes sociais mais acessadas."
+   },
+   "resposta": "c",
+   "explicacao": "O debate sobre a responsabilidade das plataformas gira em torno de quando e como elas respondem por conteúdo de terceiros, especialmente após notificação sobre publicações ilícitas, tema central da regulação das plataformas."
+  },
+  {
+   "id": "atualidades-regdig-04",
+   "formato": "direta",
+   "enunciado": "A tensão entre a liberdade de expressão online e a remoção de conteúdo pelas plataformas digitais decorre do fato de que",
+   "alternativas": {
+    "a": "a remoção de conteúdo é tida como ilegal, pois a liberdade de expressão online não admitiria restrição de nenhuma espécie.",
+    "b": "a liberdade de expressão online deixou de ser um valor relevante desde o surgimento das grandes redes sociais.",
+    "c": "as plataformas digitais são obrigadas a retirar do ar as publicações assim que recebem a primeira reclamação de um usuário.",
+    "d": "remover conteúdo pode proteger direitos de terceiros, mas também pode restringir manifestações legítimas dos usuários.",
+    "e": "a remoção de conteúdo depende de decisão unânime dos usuários da rede social envolvida em cada caso concreto."
+   },
+   "resposta": "d",
+   "explicacao": "A remoção de conteúdo pode proteger direitos, como a honra e a segurança, mas também pode atingir manifestações legítimas; equilibrar esses interesses é o desafio da regulação das plataformas e da liberdade de expressão online."
+  },
+  {
+   "id": "atualidades-regdig-05",
+   "formato": "direta",
+   "enunciado": "Entre os argumentos favoráveis à regulação das plataformas digitais pelo Estado, costuma-se apontar que ela",
+   "alternativas": {
+    "a": "dispensaria a necessidade de moderação de conteúdo por parte das próprias redes sociais e dos aplicativos de mensagem.",
+    "b": "asseguraria a permanência de todas as publicações no ar, sem que houvesse remoção de conteúdo em situação alguma.",
+    "c": "repassaria às operadoras de telefonia o controle sobre o conteúdo que circula na internet do país inteiro.",
+    "d": "obrigaria os usuários a se identificar com nome real para acessar os serviços prestados na internet brasileira.",
+    "e": "poderia impor transparência e responsabilidade às plataformas, hoje regidas sobretudo por regras internas próprias."
+   },
+   "resposta": "e",
+   "explicacao": "Um argumento a favor da regulação das plataformas é que ela pode impor deveres de transparência e responsabilidade a empresas que hoje operam segundo regras próprias, com pouca prestação de contas ao público."
+  },
+  {
+   "id": "atualidades-regdig-06",
+   "formato": "direta",
+   "enunciado": "A circulação de desinformação nas redes sociais relaciona-se ao debate sobre moderação de conteúdo porque",
+   "alternativas": {
+    "a": "a moderação de conteúdo é uma das ferramentas discutidas para lidar com a difusão de informações falsas.",
+    "b": "a desinformação some por conta própria assim que uma publicação atinge um número elevado de compartilhamentos na rede.",
+    "c": "as plataformas digitais estão proibidas por lei de adotar medidas diante de conteúdos comprovadamente falsos que circulam.",
+    "d": "a checagem de fatos foi extinta em escala mundial, o que teria encerrado o debate sobre a difusão de notícias falsas.",
+    "e": "a desinformação atinge somente os veículos de imprensa tradicionais, sem relação com as publicações das redes sociais."
+   },
+   "resposta": "a",
+   "explicacao": "A moderação de conteúdo é uma das ferramentas discutidas para enfrentar a desinformação nas plataformas digitais, embora seu uso levante questões sobre limites e sobre a liberdade de expressão online."
+  },
+  {
+   "id": "atualidades-regdig-07",
+   "formato": "direta",
+   "enunciado": "A exigência de transparência nos processos de remoção de conteúdo das plataformas digitais busca, sobretudo,",
+   "alternativas": {
+    "a": "assegurar que publicação nenhuma de usuário seja retirada do ar, seja qual for a circunstância apontada na reclamação.",
+    "b": "permitir que os usuários saibam por que uma publicação foi removida e possam contestar a decisão da plataforma.",
+    "c": "repassar ao usuário o custo técnico de manter as publicações hospedadas nos servidores da rede social utilizada.",
+    "d": "fazer com que a reclamação de um usuário resulte, por conta própria, na remoção imediata do conteúdo apontado.",
+    "e": "obrigar as plataformas a divulgar os dados pessoais de quem denuncia conteúdos considerados irregulares na rede."
+   },
+   "resposta": "b",
+   "explicacao": "A transparência na remoção de conteúdo permite que os usuários compreendam os motivos das decisões e possam contestá-las, o que é apontado como salvaguarda da liberdade de expressão online na regulação das plataformas."
+  },
+  {
+   "id": "atualidades-regdig-08",
+   "formato": "direta",
+   "enunciado": "A discussão sobre monopólio e concentração de mercado no setor das grandes plataformas digitais, as chamadas big techs, aponta que",
+   "alternativas": {
+    "a": "a presença de muitas empresas de igual porte já afastou a preocupação com a concentração de mercado no setor digital.",
+    "b": "a concorrência digital perdeu relevância desde que boa parte dos serviços das plataformas passou a ser oferecida sem cobrança.",
+    "c": "um pequeno número de empresas concentra parte importante do mercado digital, o que suscita debates sobre concorrência.",
+    "d": "as big techs deixaram de influenciar a economia mundial após a popularização dos aparelhos de telefonia móvel.",
+    "e": "a concentração de mercado no setor digital foi vedada de modo idêntico em cada país por um mesmo tratado internacional."
+   },
+   "resposta": "c",
+   "explicacao": "A concentração de parte importante do mercado digital em poucas empresas, as big techs, alimenta debates sobre monopólio, concorrência digital e a necessidade de regulação das plataformas."
+  },
+  {
+   "id": "atualidades-regdig-09",
+   "formato": "direta",
+   "enunciado": "No debate sobre concorrência digital, argumenta-se que o grande poder de mercado de algumas plataformas pode",
+   "alternativas": {
+    "a": "beneficiar os pequenos concorrentes, que passariam a ter acesso irrestrito à base de usuários das big techs do setor.",
+    "b": "encerrar a possibilidade de que novos serviços digitais venham a surgir em outros lugares a partir daquele momento.",
+    "c": "provocar a redução automática dos preços dos produtos vendidos pela internet nos diferentes países do planeta.",
+    "d": "dificultar a entrada de novos concorrentes e reforçar a posição dominante das empresas já estabelecidas no setor.",
+    "e": "impedir que outras empresas venham a alcançar uma posição de destaque no mercado das plataformas digitais."
+   },
+   "resposta": "d",
+   "explicacao": "O poder de mercado de algumas plataformas pode dificultar a entrada de novos concorrentes e reforçar posições dominantes, argumento usado em favor da regulação da concorrência digital e do controle de monopólios."
+  },
+  {
+   "id": "atualidades-regdig-10",
+   "formato": "direta",
+   "enunciado": "A comparação entre autorregulação e regulação estatal das plataformas digitais pode ser assim resumida:",
+   "alternativas": {
+    "a": "autorregulação e regulação estatal são expressões equivalentes e designam o mesmo modelo de controle das plataformas.",
+    "b": "a autorregulação existe apenas em países sem internet, ao passo que a regulação estatal valeria só para as redes sociais.",
+    "c": "a regulação estatal veda a moderação de conteúdo, enquanto a autorregulação imporia a remoção de todas as publicações.",
+    "d": "ambas repassam às operadoras de telefonia a decisão sobre quais conteúdos podem circular livremente na internet do país.",
+    "e": "na autorregulação, as próprias plataformas definem suas regras; na regulação estatal, o poder público fixa deveres a elas."
+   },
+   "resposta": "e",
+   "explicacao": "Na autorregulação, as próprias plataformas definem e aplicam suas regras de moderação de conteúdo; na regulação estatal, o poder público estabelece deveres, como transparência e responsabilidade, no centro do debate atual."
+  },
+  {
+   "id": "atualidades-regdig-11",
+   "formato": "direta",
+   "enunciado": "O tratamento do discurso de ódio nas redes sociais liga-se à liberdade de expressão online porque",
+   "alternativas": {
+    "a": "reconhecer limites ao discurso de ódio pode proteger direitos, exigindo cuidado para não atingir manifestações legítimas.",
+    "b": "o discurso de ódio estaria protegido de modo pleno pela liberdade de expressão, sem caber às plataformas providência alguma.",
+    "c": "a liberdade de expressão online obrigaria as plataformas a retirar do ar as publicações que gerem alguma discordância.",
+    "d": "o combate ao discurso de ódio dependeria apenas da decisão individual de cada usuário de deixar de acessar a rede social.",
+    "e": "o discurso de ódio teria desaparecido das redes sociais desde que as plataformas passaram a moderar seus conteúdos."
+   },
+   "resposta": "a",
+   "explicacao": "Reconhecer limites ao discurso de ódio pode proteger direitos de grupos atingidos, mas exige cuidado para não restringir manifestações legítimas, tensão típica do debate sobre liberdade de expressão online e moderação de conteúdo."
+  },
+  {
+   "id": "atualidades-regdig-12",
+   "formato": "direta",
+   "enunciado": "A discussão sobre a transparência dos algoritmos de recomendação das plataformas digitais parte da constatação de que",
+   "alternativas": {
+    "a": "os algoritmos apenas ordenam as publicações em ordem alfabética, sem efeito sobre o que os usuários acabam vendo na rede.",
+    "b": "os algoritmos influenciam o que cada usuário vê, o que motiva pedidos de transparência na regulação das plataformas.",
+    "c": "a recomendação é feita à mão por funcionários que leem, um a um, os textos publicados diariamente pelos usuários da rede.",
+    "d": "os algoritmos das plataformas seriam idênticos entre si e definidos por um órgão internacional comum às redes sociais.",
+    "e": "a ordem das publicações é sorteada ao acaso a cada acesso, sem relação com o comportamento anterior daquele usuário."
+   },
+   "resposta": "b",
+   "explicacao": "Como os algoritmos de recomendação influenciam o que cada usuário vê nas redes sociais, cresce a demanda por transparência sobre seu funcionamento, ponto recorrente no debate sobre a regulação das plataformas."
+  },
+  {
+   "id": "atualidades-regdig-13",
+   "formato": "direta",
+   "enunciado": "No debate sobre o acesso à internet, a prática conhecida como zero rating (ou franquia zero) consiste em",
+   "alternativas": {
+    "a": "isentar da franquia de dados o uso de certos aplicativos, prática que tensiona a neutralidade de rede.",
+    "b": "cobrar uma tarifa fixa mensal idêntica de todos os usuários, qualquer que seja o aplicativo que cada um deles acesse.",
+    "c": "bloquear por completo o acesso a qualquer aplicativo que ainda não tenha recebido autorização prévia para funcionar.",
+    "d": "reduzir a zero a velocidade da conexão nos horários de maior uso da rede pelos assinantes de um mesmo provedor.",
+    "e": "oferecer internet gratuita e ilimitada a toda a população, sem qualquer custo para os usuários finais do serviço."
+   },
+   "resposta": "a",
+   "explicacao": "No zero rating, a operadora não desconta da franquia os dados usados em determinados aplicativos, o que barateia o acesso a eles, mas favorece alguns serviços em detrimento de outros — daí a tensão com o princípio da neutralidade de rede."
+  },
+  {
+   "id": "atualidades-regdig-14",
+   "formato": "direta",
+   "enunciado": "A moderação de conteúdo em grande escala nas redes sociais enfrenta o desafio de que",
+   "alternativas": {
+    "a": "o volume de publicações seria tão baixo que dispensaria o uso de sistemas automáticos por parte das plataformas digitais.",
+    "b": "as decisões de moderação poderiam ser tomadas com perfeição por sistemas automáticos, sem margem para erro de avaliação.",
+    "c": "a moderação de conteúdo teria sido proibida em escala mundial, o que impediria as plataformas de agir sobre publicações.",
+    "d": "o enorme volume de publicações leva ao uso de sistemas automáticos, que podem cometer erros ao avaliar contextos.",
+    "e": "as plataformas conseguiriam submeter cada publicação à análise individual de juízes antes de exibi-la na rede social."
+   },
+   "resposta": "d",
+   "explicacao": "O grande volume de publicações leva as plataformas a usar sistemas automáticos de moderação de conteúdo, que podem errar ao avaliar contextos e ironias, o que reforça a demanda por transparência e revisão humana."
+  },
+  {
+   "id": "atualidades-regdig-15",
+   "formato": "direta",
+   "enunciado": "Ao comparar diferentes experiências internacionais de regulação das plataformas digitais, observa-se que os países costumam buscar",
+   "alternativas": {
+    "a": "a proibição do acesso às redes sociais como via principal para lidar com os problemas ligados ao uso da internet.",
+    "b": "a entrega às próprias big techs do poder de redigir, sem participação pública, as leis que iriam regulá-las em cada país.",
+    "c": "a supressão das regras sobre a internet, deixando o setor sem forma alguma de supervisão ou de controle público.",
+    "d": "a adoção de um mesmo modelo idêntico de regulação, imposto de maneira uniforme aos diferentes países do mundo.",
+    "e": "equilibrar a liberdade de expressão online com deveres de transparência e responsabilidade das plataformas digitais."
+   },
+   "resposta": "e",
+   "explicacao": "As experiências internacionais de regulação das plataformas costumam buscar equilíbrio entre a liberdade de expressão online e deveres de transparência e responsabilidade, ainda que os modelos variem entre os países."
+  },
+  {
+   "id": "atualidades-regdig-16",
+   "formato": "direta",
+   "enunciado": "No debate sobre a regulação das plataformas, o chamado sistema de notificação e retirada, ligado à responsabilidade das plataformas, funciona quando",
+   "alternativas": {
+    "a": "a plataforma, notificada sobre um conteúdo apontado como ilícito, avalia o caso e pode remover a publicação indicada.",
+    "b": "a plataforma retira do ar, de forma imediata e sem análise, a publicação que receba ao menos uma reclamação de usuário.",
+    "c": "o usuário que publica um conteúdo passa a notificar pessoalmente os demais usuários antes de fazê-lo na rede social.",
+    "d": "o Estado assume a hospedagem das publicações das redes sociais para decidir, sozinho, o que permanece no ar na internet.",
+    "e": "as operadoras de telefonia passam a redigir os termos de uso de cada uma das plataformas digitais em funcionamento."
+   },
+   "resposta": "a",
+   "explicacao": "No sistema de notificação e retirada, a plataforma que é informada sobre conteúdo apontado como ilícito avalia o caso e pode removê-lo, arranjo central no debate sobre a responsabilidade das plataformas e a regulação das plataformas."
+  },
+  {
+   "id": "atualidades-regdig-17",
+   "formato": "direta",
+   "enunciado": "A relação entre monopólio digital e inovação é discutida sob o argumento de que a forte concentração de mercado pode",
+   "alternativas": {
+    "a": "assegurar mais inovação, pois a ausência de concorrentes liberaria as empresas de qualquer esforço de melhoria dos serviços.",
+    "b": "reduzir os incentivos à inovação, ao dificultar que novos concorrentes desafiem as plataformas já dominantes no setor.",
+    "c": "impedir o surgimento de novas tecnologias no mundo a partir do momento em que a concentração ocorre no setor digital.",
+    "d": "afastar a necessidade de políticas de defesa da concorrência no âmbito da economia digital dos diferentes países.",
+    "e": "assegurar preços mínimos e idênticos nos serviços digitais oferecidos por empresas de portes distintos no mercado."
+   },
+   "resposta": "b",
+   "explicacao": "Argumenta-se que a concentração de mercado pode reduzir incentivos à inovação, ao dificultar que novos concorrentes desafiem as plataformas dominantes, o que reforça o debate sobre concorrência digital e regulação."
+  },
+  {
+   "id": "atualidades-regdig-18",
+   "formato": "direta",
+   "enunciado": "A afirmação de que a liberdade de expressão online não é um direito absoluto significa que",
+   "alternativas": {
+    "a": "as manifestações nas redes sociais poderiam ser suprimidas a cada instante pela simples vontade das plataformas digitais.",
+    "b": "a liberdade de expressão perdeu validade no ambiente da internet e deixou de ser reconhecida como direito dos usuários.",
+    "c": "seu exercício pode encontrar limites quando colide com outros direitos, como a honra, a segurança e a proteção de grupos.",
+    "d": "cada publicação feita nas redes sociais precisaria ser aprovada por um órgão do governo antes de ir ao ar na internet.",
+    "e": "somente as pessoas autorizadas pelas plataformas poderiam se manifestar sobre assuntos de interesse público na rede."
+   },
+   "resposta": "c",
+   "explicacao": "Dizer que a liberdade de expressão online não é absoluta significa que seu exercício pode encontrar limites ao colidir com outros direitos, como a honra e a segurança, o que orienta a moderação de conteúdo e a regulação das plataformas."
+  },
+  {
+   "id": "atualidades-regdig-19",
+   "formato": "direta",
+   "enunciado": "De modo geral, o debate contemporâneo sobre a regulação das plataformas digitais procura responder à pergunta de",
+   "alternativas": {
+    "a": "se a internet deveria ser desligada assim que surgir uma publicação considerada inadequada por um único usuário da rede.",
+    "b": "qual operadora de telefonia deveria assumir, sozinha, a propriedade das redes sociais em funcionamento no país inteiro.",
+    "c": "por que motivo as redes sociais deveriam deixar de existir diante das dificuldades de moderação de conteúdo em escala.",
+    "d": "como conciliar a liberdade de expressão online com a responsabilidade das plataformas e a proteção dos usuários.",
+    "e": "quantas horas por dia cada usuário estaria autorizado a permanecer conectado às plataformas digitais mais acessadas."
+   },
+   "resposta": "d",
+   "explicacao": "O debate sobre a regulação das plataformas busca conciliar a liberdade de expressão online com a responsabilidade das plataformas e a proteção dos usuários, equilíbrio que envolve moderação de conteúdo, transparência e concorrência digital."
   }
  ]
 }

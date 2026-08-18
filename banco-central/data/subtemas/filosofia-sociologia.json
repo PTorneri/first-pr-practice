@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "filosofia-sociologia",
- "total": 467,
+ "total": 473,
  "residuo": [
   "dir-filosofia-sociologia-81",
   "dir-filosofia-sociologia-97",
@@ -2772,6 +2772,40 @@
    "frenteDestino": "filosofia-sociologia",
    "pontos": 19,
    "margem": 14
+  },
+  "unicamp-filosofia-sociologia-01": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "unicamp-filosofia-sociologia-02": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "unicamp-filosofia-sociologia-03": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "unicamp-filosofia-sociologia-04": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "unicamp-filosofia-sociologia-05": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "unicamp-filosofia-sociologia-06": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
   }
  }
 }

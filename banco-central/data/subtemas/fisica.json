@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "fisica",
- "total": 594,
+ "total": 614,
  "residuo": [
   "med-fisica-31",
   "med-fisica-92",
@@ -3551,6 +3551,125 @@
    "frenteDestino": "fisica",
    "pontos": 15,
    "margem": 8
+  },
+  "fisica-2200416": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "fisica-2200417": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fisica-2200419": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fisica-2200420": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 8
+  },
+  "fisica-2200423": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "fisica-2200426": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "fisica-2200430": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "ita-2023-q09": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "ita-2023-q10": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "ita-2023-q05": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 11
+  },
+  "ita-2023-q12": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 25,
+   "margem": 22
+  },
+  "ita-2023-q07": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "ita-2023-q03": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "ita-2026-q13": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "ita-2026-q15": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "ita-2026-q18": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 10
+  },
+  "ita-2026-q14": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "ita-2026-q20": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "ita-2026-q23": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 1
+  },
+  "ita-2026-q19": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "revisado": true
   }
  }
 }

@@ -2995,6 +2995,83 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O texto abre dizendo que crianças com TEA enfrentam desafios que dificultam a prática regular de atividade física e que os exergames surgem como alternativa; o pesquisador então investiga como elas respondem a esse tipo de atividade. Alternativa D. A alternativa A inverte a ordem: alfabetização e comprometimento aparecem como variáveis que afetaram os resultados, não como critérios de seleção; B afirma que os consoles são acessíveis a qualquer classe social, e o texto diz apenas que são mais acessíveis que outros recursos; C compara com terapias tradicionais, e o pesquisador diz que os exergames não as substituem; e E fala em melhoras equivalentes, quando o texto registra limites diferentes entre as crianças."
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "interpretacao-texto-220033",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Aben Assan, filho espúrio¹ e estrafalário², sempre contrariava as decisões de Ibin Bibar, seu pai. Desde menino — já lá vão quatro décadas —, fazia exatamente o oposto do que o velho mandava ou sugeria. A princípio, o pai não percebeu, depois percebeu, enfim certificou-se — o comportamento do filho era coisa cruel e deliberada. Por isso, quando sentiu que ia morrer, querendo ser enterrado no maravilhoso mausoléu da família, Ibin Bibar chamou Aben Assan e disse:\n\n— Meu filho, não quero ir pro cemitério da cidade, onde estão enterrados todos os nossos ancestrais. Quero estar num lugar onde não sejam possíveis reverências nem adulações póstumas, todas hipócritas. Pegue meu corpo e jogue no lamaçal lá no fim da estrada. — E, dizendo isso, condizentemente, morreu.\n\nAo ver o pai morto, Aben Assan teve uma súbita crise de arrependimento por tudo que havia feito na vida. E resolveu mudar seu comportamento para com aquele que sempre o tratara como... um pai. Pensou: “Não, ele nunca mereceu a maneira como eu o tratei. Desta vez, a última, vou fazer exatamente o que ele pediu.”\n\nE ajudado por empregados um tanto relutantes, pegou o corpo do pai e o atirou no lamaçal no fim da estrada.\nMORAL: Cria corvos e te arrancam os olhos.\n(Millôr Fernandes. “A última vontade”. 100 fábulas fabulosas, 2012.)\n¹ espúrio: ilegítimo, bastardo.\n² estrafalário: desprezível.",
+   "enunciado": "Na fábula, o plano concebido pelo pai fracassa devido",
+   "alternativas": {
+    "a": "à desobediência do filho.",
+    "b": "à ganância do filho.",
+    "c": "ao rancor do filho.",
+    "d": "à hesitação do filho.",
+    "e": "ao remorso do filho."
+   },
+   "resposta": "e",
+   "explicacao": "O pai contava com a desobediência de sempre: pediu o lamaçal para ser levado ao mausoléu, porque o filho fazia \"exatamente o oposto\" há quatro décadas. O plano quebra no momento em que Aben Assan, diante do pai morto, tem \"uma súbita crise de arrependimento\" e resolve, \"desta vez, a última\", fazer o que foi pedido. Conclui-se que quem derruba o plano é o remorso do filho. A desobediência era justamente o que o pai esperava; não há ganância, hesitação nem rancor no gesto final — há culpa."
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "unicamp-interpretacao-texto-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "É advogado com d mudo, estúpida!\nMirian Goldenberg\nAntropóloga e professora da Universidade Federal do Rio de Janeiro, é autora de “A Invenção de uma Bela Velhice”\n\nFiz um vídeo para o Instagram sobre a minha coluna intitulada No dia 1º de abril, quase caí no golpe do ‘falso advogado’. No vídeo, confessei que quase morri de vergonha por quase ter caído em um golpe no Dia da Mentira.\n\nFiquei triste quando li alguns dos comentários sobre o vídeo: “AdEvogado?; “Não é adevogado que fala”; “A desinformada que fala adêvogado aprendeu o que é golpe de verdade kkkk”; “Adevogado? Pode isso? Uma ‘intelequitual’ brasileira da linha de frente falando assim?”; “Um currículo e tanto e falando adevogado?; “Chamou de adEvogado. Então não foi difícil entender por que caiu em golpe... Eu teria é vergonha de falar adEvogado”; “A palavra ‘advogado’ se pronuncia ‘advogado’, com o ‘d’ mudo. A pronúncia adevogado é um erro de ortoépia”; “É advogado com ‘d’ mudo, estúpida!”.\n\nPerguntei ao meu marido, que editou o vídeo, por que ele não me falou nada. Ele respondeu: “Porque eu acho bonitinho. Você é filha de advogado e tem dois irmãos advogados. Desde menina aprendeu a falar assim. Não é fácil falar ‘advogado’ com o ‘d’ mudo. Eu falo advogado com ‘i’: adivogado. Será que alguém consegue falar advogado com o ‘d’ mudo?”\n\nDa próxima vez que fizer uma denúncia importante, vou tentar falar advogado com o “d” mudo. Será que vou conseguir?",
+   "fonte_texto": "Adaptado de GOLDENBERG, M. É advogado com d mudo, estúpida! Folha de São Paulo, 16/04/2025, B6. Acesso em 29/07/2025.",
+   "enunciado": "Considerando que consoantes mudas não são seguidas de uma vogal, e levando em conta as duas pronúncias para advogado mencionadas no texto, as críticas reproduzidas no segundo parágrafo revelam",
+   "alternativas": {
+    "a": "preconceito linguístico, já que os comentários negativos foram motivados pelo fato de a autora ter um baixo nível de escolaridade",
+    "b": "desconhecimento linguístico, uma vez que a palavra advogado não é pronunciada com “d” mudo no português brasileiro",
+    "c": "negacionismo linguístico, pois os críticos não reconhecem que a pronúncia adevogado é a mais comum na norma culta",
+    "d": "correção linguística, porque só uma das duas pronúncias ocorre no português, enquanto a outra é um desvio fonético"
+   },
+   "explicacao": "Consoante muda é a que não se pronuncia; no português brasileiro, porém, o “d” de advogado é sempre pronunciado — o que varia é a vogal de apoio que o falante insere depois dele (“adevogado” ou “adivogado”, como o marido). Quem exige “d mudo” está, portanto, descrevendo mal a própria língua: é desconhecimento linguístico. Não é preconceito por baixa escolaridade (a autora é professora universitária, e é por isso que a criticam), “adevogado” não é a forma da norma culta, e as duas pronúncias existem no português.",
+   "resposta": "b",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "unicamp-interpretacao-texto-02",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "A rua é nóix! Sempre com letra minúscula, porque não é o Nós da totalidade, uma vez que não sabemos exatamente quem ou quantos somos, quem faz parte ou não, quem está dentro ou fora. Mas, se pegar para um, vai pegar pra geral. O nóix é sempre mais que um. Mesmo sozinho, na missão, existe algo para além da presença física do eu e do outro. Assumindo nossas ancestralidades, convivemos com os espíritos daqueles que já se foram. O nóix opera pela lógica dos bondes de galera, do lado A ou lado B. Quem é amigo fecha com a gente, quem é alemão rala. Porque o fechamento é o fundamento ético das ruas. Recebe-se quem chega de boa, na paz, mas, se vacila, vai. Com i e x, o nóix demarca um sotaque, um registro local, um lugar, o Pretuguês de Lélia Gonzalez. Desobedecendo à instituída norma culta, o nóix – escrito ou falado – revela sua potência operando à margem da obediência à linguagem fonética dominante. O nóix é a potência da contaminação diferencial das diversidades de um povo em tempos e espaços múltiplos, que se repete numa atmosfera espectral que ultrapassa a lógica temporal predominante.",
+   "fonte_texto": "Adaptado de MORAES, M. J. D. A rua é nóix, Revista Cult, ed. 271, 1 jul. de 2021.",
+   "enunciado": "Sobre a diferença que o texto estabelece entre Nós e nóix, podemos afirmar que está relacionada a uma distinção",
+   "alternativas": {
+    "a": "sociocultural, pois esses termos se referem a grupos demarcados distintamente: enquanto Nós é bem delimitado, nóix diz respeito a uma coletividade difusa, mas marcada por compartilhar vivências específicas",
+    "b": "gramatical, pois esses termos não pertencem à mesma classe de palavras: enquanto Nós é um pronome típico da norma culta, nóix é um substantivo popular que serve à expressão da diversidade",
+    "c": "histórica, pois esses termos caracterizam os indivíduos em função do seu passado: enquanto Nós abrange aqueles sem ancestralidade, nóix reúne os que assumem os ancestrais como parte de sua história",
+    "d": "política, pois esses termos revelam uma polarização na forma de se relacionar com o poder: enquanto Nós simboliza o apoio à opressão social, nóix caracteriza uma rejeição aos poderes instituídos"
+   },
+   "explicacao": "O texto opõe o “Nós da totalidade”, delimitado, ao nóix em minúscula, de que “não sabemos exatamente quem ou quantos somos” — uma coletividade difusa, mas unida por vivências comuns: a rua, o bonde, o fechamento, a ancestralidade, o sotaque. É distinção sociocultural. Não é gramatical (nóix continua pronome, só grafado com i e x), o texto não diz que quem usa “Nós” não tem ancestralidade, e não associa “Nós” a apoio à opressão.",
+   "resposta": "a",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "unicamp-interpretacao-texto-03",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Artigo “A rua é nóix”, de Marcelo José Derzi Moraes:\n\nA rua é nóix! Sempre com letra minúscula, porque não é o Nós da totalidade, uma vez que não sabemos exatamente quem ou quantos somos, quem faz parte ou não, quem está dentro ou fora. Mas, se pegar para um, vai pegar pra geral. O nóix é sempre mais que um. Mesmo sozinho, na missão, existe algo para além da presença física do eu e do outro. Assumindo nossas ancestralidades, convivemos com os espíritos daqueles que já se foram. O nóix opera pela lógica dos bondes de galera, do lado A ou lado B. Quem é amigo fecha com a gente, quem é alemão rala. Porque o fechamento é o fundamento ético das ruas. Recebe-se quem chega de boa, na paz, mas, se vacila, vai. Com i e x, o nóix demarca um sotaque, um registro local, um lugar, o Pretuguês de Lélia Gonzalez. Desobedecendo à instituída norma culta, o nóix – escrito ou falado – revela sua potência operando à margem da obediência à linguagem fonética dominante. O nóix é a potência da contaminação diferencial das diversidades de um povo em tempos e espaços múltiplos, que se repete numa atmosfera espectral que ultrapassa a lógica temporal predominante.\n(Adaptado de MORAES, M. J. D. A rua é nóix, Revista Cult, ed. 271, 1 jul. de 2021.)\n\nTexto:\n\nA partir das análises de Lélia Gonzalez – intelectual, professora universitária, mulher, negra e feminista – conseguimos compreender quão extensa é a introdução de palavras e termos de origens africanas na nossa língua. O Pretuguês é, então, parte da africanização da língua portuguesa brasileira. As pessoas negras escravizadas resistiam de inúmeras formas, lutando, fugindo, se organizando, mas também através da fala, no jeito de agir e na forma de viver que se enraizou na maneira de ser de todo o Brasil. E isso vem da ancestralidade, é o passar do conhecimento através do tempo e das relações de respeito pelo que veio antes, através do cântico antigo, da reza falada, da contação de história que os entrelaços linguísticos vão formando. Muitos vocábulos estão tão acomodados no nosso idioma que sequer paramos para pensar sua origem e seu significado. Mas são de origem africana, como dengo, quitanda, cafuné, muvuca, caçula e axé.",
+   "fonte_texto": "Adaptado de texto publicado no perfil de Instagram de Mari Canuto em 28/09/2022. Disponível em https://www.instagram.com/mari_canuto/reel/CjD8ALkPw9o/. Acesso em 30/07/2025.",
+   "enunciado": "Considerando esse texto, a menção ao “Pretuguês de Lélia Gonzalez” no artigo de Marcelo José Derzi Moraes (“A rua é nóix”) ocorre pelo fato de nóix ser",
+   "alternativas": {
+    "a": "um vocábulo introduzido no Brasil pelos africanos escravizados, da mesma forma que outras palavras de origem africana acomodadas na língua",
+    "b": "uma expressão identitária que serve para demarcar os negros brasileiros e segregá-los dos demais grupos étnico-raciais que compõem o país",
+    "c": "uma marca linguística associada a um grupo cujos ancestrais reúnem aqueles que contribuíram para a africanização do português brasileiro",
+    "d": "um traço dialetal característico dos sotaques urbanos brasileiros que são fortemente marcados pela presença de palavras africanas"
+   },
+   "explicacao": "O Pretuguês, na leitura de Lélia Gonzalez apresentada no texto, é a africanização do português brasileiro pela fala e pela ancestralidade das pessoas escravizadas. Moraes escreve que “com i e x, o nóix demarca um sotaque, um registro local, um lugar, o Pretuguês” e fala em “assumindo nossas ancestralidades”: nóix é a marca linguística de um grupo cujos ancestrais fizeram essa africanização. Nóix não é vocábulo africano como “dengo” ou “axé”, o texto não fala em segregar, e o sotaque não é qualquer sotaque urbano, mas o de um lugar e de uma ancestralidade específicos.",
+   "resposta": "c",
+   "origem": "medicina"
   }
  ],
  "interpretacao-genero-discurso": [
@@ -4416,6 +4493,52 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A lista numerada é o coração do texto, e ela reúne fatores de risco e manifestações a observar: histórico familiar, alterações hormonais, caroço no tórax e retração do mamilo. Reconhecer esses sinais é o que permite procurar ajuda cedo, e é aí que a reportagem contribui para o combate à doença. A alternativa (c) fala de exames diagnósticos, que o texto não menciona; e a (d) inverte o conteúdo, porque o mito desfeito é o de que homens não têm câncer de mama, não algo sobre hereditariedade."
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "unicamp-interpretacao-texto-04",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Meme",
+    "arquivo": "assets/provas/unicamp-2026-q58.jpg",
+    "descricao": "Texto 2: o meme “Nazaré Confusa” — quatro fotogramas da atriz Renata Sorrah, com expressões de confusão, cada um sobreposto por fórmulas matemáticas diferentes (πr², integrais, figuras geométricas, equações trigonométricas) brilhando ao redor do rosto."
+   },
+   "texto_apoio": "Texto 1\nO image macro é o mais velho, o mais simples e o mais difundido tipo de meme, provavelmente pela facilidade de criação e difusão, além do inegável apelo visual que permite uma rápida apreensão do seu conteúdo. Ele corresponde a uma estrutura imagético-textual em frame¹ único que carrega uma qualidade icônica.\n\nPodemos caracterizar o image macro como um texto em caixa alta e em fonte branca, superposto a uma imagem – quase sempre para fins de humor. Esse jogo memético consiste tanto em adicionar o mesmo texto a várias imagens quanto em “remixar” uma mesma imagem com diferentes textos. Os image macros têm seus templates², bem como suas referências intertextuais extraídas de diversas fontes, como videoclipes, fotografias, desenhos, filmes, seriados, videogames, comerciais, notícias etc.\n\nUsando essa estrutura híbrida, os image macros tornam-se uma espécie de imagens-texto em que o imbricamento desses dois elementos ocorre sem subordinação da experiência visual nem da verbal – o pictório complementa o discursivo em um processo de afetação recíproca.\n\n¹ Frame: quadro, moldura; imagem estática que, quando reproduzida em sequência com outras, resultam no efeito de movimento.\n² Template: modelo.\n(Adaptado de OLIVERA NETA, J. P. Por uma tipologia dos memes da internet. Entremeios, 13(2), 2017. Disponível em https://entremeios.com.puc-rio.br/media/Juracy%20Oliveira.pdf. Acesso em 02/06/2025.)\n\nTexto 2\n[meme “Nazaré Confusa”, reproduzido acima]\n(Disponível em https://pt.wikipedia.org/wiki/Nazar%C3%A9_Confusa. Acesso em 02/06/2025.)",
+   "enunciado": "Leia os textos 1 e 2.\n\nConsiderando as informações do texto 1, o texto 2 pode ser caracterizado como",
+   "alternativas": {
+    "a": "um típico image macro, pois utiliza um único frame para fundir o visual e o verbal, além de adicionar um mesmo elemento textual a várias ocorrências de uma só imagem",
+    "b": "um meme composto por vários image macros, nos quais uma mesma imagem se subordina à linguagem textual matemática em um jogo pictório de afetação recíproca",
+    "c": "uma experiência verbal e visual que se aproxima do image macro no que diz respeito à sua estrutura híbrida, mas se afasta desse tipo por não permitir a rápida apreensão do seu conteúdo",
+    "d": "uma peça memética que não reúne todos os elementos de um image macro, pois apresenta mais de um frame e adiciona conteúdos textuais diferentes a imagens distintas"
+   },
+   "explicacao": "O texto 1 define o image macro por três traços: frame único, texto em caixa alta e fonte branca superposto à imagem, e um mesmo texto em várias imagens ou vários textos numa mesma imagem. O meme da Nazaré tem quatro frames, imagens diferentes e fórmulas diferentes em cada um — não reúne os elementos do tipo. Não é um único frame, nem há subordinação da imagem ao texto (o texto 1 diz que não há subordinação), e a apreensão do conteúdo é imediata, não lenta.",
+   "resposta": "d",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "unicamp-interpretacao-texto-05",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Meme",
+    "arquivo": "assets/provas/unicamp-2026-q59.jpg",
+    "descricao": "Texto 1: versão do meme “Nazaré Confusa” redesenhada por inteligência artificial no estilo das animações do Studio Ghibli — a personagem em traço de anime, com expressão confusa, cercada de fórmulas matemáticas."
+   },
+   "texto_apoio": "Texto 1\n[Nazaré Confusa no Estilo Studio Ghibli, reproduzido acima]\n(Disponível em https://scc10.com.br/colunistas/um-noob/memes-em-estilo-ghibli-a-nova-febre-que-esta-quebrando-a-internet-e-o-chatgpt/. Acesso em 29/07/2025.)\n\nTexto 2\nStudio Ghibli vs. IA: Por que não usar imagens no “Estilo Ghibli”\nPor Amanda, editora-chefe e responsável pelo Studio Ghibli Brasil.\n\nRecentemente, uma tendência tomou conta das redes sociais: usuários utilizando inteligência artificial para transformar suas fotos em imagens que imitam o estilo do Studio Ghibli. A trend ganhou força em março deste ano, com a nova atualização da ferramenta GPT-4.0.\n\nO Studio Ghibli é reconhecido não apenas por seu estilo visual, mas também por sua filosofia artística e valores profundos. Hayao Miyazaki, um dos fundadores do estúdio, sempre defendeu a arte feita à mão e criticou fortemente o uso excessivo da tecnologia na criação de animações. Em entrevistas, ele expressou preocupação com a mecanização da arte, argumentando que a verdadeira expressividade vem do esforço humano, da emoção e da experiência de vida.\n\nA tentativa de emular o “estilo Ghibli” por meio da IA entra em conflito direto com esses princípios. A criação de imagens automatizadas baseadas em padrões estatísticos e grandes volumes de dados contrasta com o meticuloso processo artesanal pelo qual os filmes do estúdio são produzidos. Muitos profissionais da indústria da animação e ilustração já expressaram preocupação com a possibilidade de a IA substituir ou minar o valor do trabalho humano na criação artística.\n\nNós acreditamos na autenticidade e na ética de preservar os artistas e seus trabalhos autorais. A inteligência artificial, ao emular o estilo do Studio Ghibli, fere os princípios da animação tradicional do estúdio e desvaloriza o esforço humano por trás dessas obras. A melhor forma de levar o conhecimento sobre o Studio Ghibli adiante é apreciando e divulgando seus trabalhos originais e buscando conhecer cada vez mais sua história e relevância para o mundo da animação.\n(Adaptado de https://studioghibli.com.br/2025/04/02/studio-ghibli-vs-ia-porque-nao-usar-imagens-no-estilo-ghibli/. Acesso em 29/07/2025.)",
+   "enunciado": "O texto 1 é a versão do meme Nazaré Confusa no chamado “Estilo Ghibli”, que é abordado no texto 2, publicado por um portal brasileiro dedicado às animações do Studio Ghibli. Leia os dois textos para responder à questão.\n\nConsiderando as imagens do texto 1 desta questão, o texto 2 pode ser caracterizado como",
+   "alternativas": {
+    "a": "uma nota de repúdio às IAs, por simplificarem o conteúdo das produções do Studio Ghibli, que perdem seus traços irreverentes ao serem utilizadas na geração mecânica de imagens",
+    "b": "uma carta aberta para incentivar um boicote às IAs, que permitem construir animações mecanizadas de qualquer imagem e emulam as produções do Studio Ghibli no intuito confundir as pessoas",
+    "c": "um manifesto contrário ao uso de IAs para gerar o estilo Ghibli, por utilizarem recursos automatizados que imitam animações originais do Studio Ghibli, o que desvaloriza a autenticidade artística do estúdio",
+    "d": "uma resenha crítica sobre a forma como as IAs imitam os recursos artesanais do Studio Ghibli para produzir imagens sem identidade autoral, que depreciam o esforço humano"
+   },
+   "explicacao": "O texto 2 toma posição em nome de um coletivo (“Nós acreditamos...”), expõe princípios (arte feita à mão, autenticidade, ética) e conclama a não usar imagens no estilo Ghibli geradas por IA — a forma do manifesto, contrário à imitação automatizada que desvaloriza a autenticidade artística do estúdio. Não é repúdio por “simplificar o conteúdo”, não pede boicote às IAs em geral nem fala em confundir pessoas, e não é resenha (não avalia uma obra específica).",
+   "resposta": "c",
+   "origem": "medicina"
   }
  ],
  "interpretacao-recursos-linguagem": [
@@ -5896,6 +6019,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Meteoro é o corpo que risca o céu com brilho intenso e some. Chamar a ascensão de \"meteórica\" empresta as duas coisas — a intensidade e a brevidade —, e a segunda é confirmada pelo que vem depois na frase: exército, filmes sem sucesso, declínio. Alternativa A. A alternativa B lê falta de consistência, e o texto fala em ascensão ao estrelato, não em sucesso raso; C encontra planejamento meticuloso, que a imagem não sugere; D toma o adjetivo ao pé da letra, como referência astronômica; e E o inverte, atribuindo sucesso duradouro e gradual justamente onde o termo marca rapidez."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "interpretacao-texto-220034",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Aben Assan, filho espúrio¹ e estrafalário², sempre contrariava as decisões de Ibin Bibar, seu pai. Desde menino — já lá vão quatro décadas —, fazia exatamente o oposto do que o velho mandava ou sugeria. A princípio, o pai não percebeu, depois percebeu, enfim certificou-se — o comportamento do filho era coisa cruel e deliberada. Por isso, quando sentiu que ia morrer, querendo ser enterrado no maravilhoso mausoléu da família, Ibin Bibar chamou Aben Assan e disse:\n\n— Meu filho, não quero ir pro cemitério da cidade, onde estão enterrados todos os nossos ancestrais. Quero estar num lugar onde não sejam possíveis reverências nem adulações póstumas, todas hipócritas. Pegue meu corpo e jogue no lamaçal lá no fim da estrada. — E, dizendo isso, condizentemente, morreu.\n\nAo ver o pai morto, Aben Assan teve uma súbita crise de arrependimento por tudo que havia feito na vida. E resolveu mudar seu comportamento para com aquele que sempre o tratara como... um pai. Pensou: “Não, ele nunca mereceu a maneira como eu o tratei. Desta vez, a última, vou fazer exatamente o que ele pediu.”\n\nE ajudado por empregados um tanto relutantes, pegou o corpo do pai e o atirou no lamaçal no fim da estrada.\nMORAL: Cria corvos e te arrancam os olhos.\n(Millôr Fernandes. “A última vontade”. 100 fábulas fabulosas, 2012.)\n¹ espúrio: ilegítimo, bastardo.\n² estrafalário: desprezível.",
+   "enunciado": "Considerada em si, a moral da fábula, “Cria corvos e te arrancam os olhos”, alude, em termos figurados,",
+   "alternativas": {
+    "a": "à intolerância.",
+    "b": "à ingratidão.",
+    "c": "à intemperança.",
+    "d": "à indiferença.",
+    "e": "à impaciência."
+   },
+   "resposta": "b",
+   "explicacao": "\"Cria corvos e te arrancam os olhos\" é provérbio em linguagem figurada — a metáfora do pássaro criado que ataca o criador — sobre quem retribui com dano o cuidado recebido: cria-se o pássaro e ele se volta contra quem o criou. Considerada em si, portanto, a moral fala de ingratidão. Intolerância, intemperança, indiferença e impaciência não descrevem a inversão entre benefício recebido e mal devolvido que a imagem do corvo carrega."
   }
  ],
  "interpretacao-estrutura-coesao": [
@@ -9789,6 +9932,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A sinopse coloca Elvis \"em uma encruzilhada\" no verão de 1968: depois da ascensão dos anos 1950, dois anos de exército e uma carreira em declínio com filmes sem sucesso, ele está longe do auge. O especial é a resposta a isso — busca de revitalização artística após o declínio, alternativa B. A alternativa A descreve o estado anterior, não o retorno; C põe a recuperação no cinema, que é justamente de onde ele sai; D fala em ascensão gradual sem destaques, quando o texto chama o especial de um dos momentos mais decisivos; e E propõe continuar o sucesso no cinema, que a sinopse classifica como fracasso."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "interpretacao-texto-220037",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Que dinâmicas movimentam o acúmulo e a distribuição do capital? O tema da política econômica há muito suscita debates constantes sobre crescimento, concentração da riqueza e aumento da desigualdade. No entanto, a carência de dados adequados dificulta o acesso a respostas satisfatórias.\n\nEm O capital no século XXI, o economista francês Thomas Piketty apresenta um conjunto inédito de dados de vinte países para os últimos duzentos anos. O autor demonstra que o crescimento econômico e a difusão do conhecimento ao longo do século XX impediram que se concretizasse o cenário apocalíptico preconizado por Karl Marx, mas, ao contrário do que o otimismo dominante após a Segunda Guerra Mundial costuma sugerir, a estrutura básica do capital e da desigualdade permaneceu relativamente inalterada. Piketty constata, com absoluta clareza, que a taxa de rendimento do capital supera o crescimento econômico — e isso se traduz numa concentração cada vez maior da riqueza, um círculo vicioso de desigualdade que, a um nível extremo, pode levar a um descontentamento geral e até ameaçar os valores democráticos. Contudo, Piketty ressalta que tendências econômicas não são forças da natureza: a intervenção política já foi capaz de reverter tal quadro no passado e poderá voltar a fazê-lo.\n\nO capital no século XXI, já considerado referência entre os economistas, contribui para renovar inteiramente nossa compreensão sobre a dinâmica do capitalismo. Por destacar a contradição fundamental da relação entre o crescimento econômico e o rendimento do capital, esta obra monumental está revolucionando o pensamento econômico atual e instigando uma reflexão profunda sobre as questões mais prementes de nosso tempo.\n(O capital no século XXI, 2014. Adaptado.)",
+   "enunciado": "De acordo com o texto, Thomas Piketty",
+   "alternativas": {
+    "a": "ressalta que, em razão da dinâmica frenética do capital, o quadro de concentração cada vez maior da riqueza não pode mais ser revertido.",
+    "b": "assinala que a intervenção política, precisamente por conceber as forças econômicas como forças naturais, revela-se uma via promissora para se impedir o colapso democrático.",
+    "c": "assinala que, diferentemente do cenário otimista do pós-guerra, a dinâmica de concentração crescente da riqueza pode colocar a democracia em risco.",
+    "d": "argumenta que a concepção das tendências econômicas enquanto forças da natureza pode se mostrar um caminho para a interrupção da dinâmica de acumulação da riqueza.",
+    "e": "ressalta que, diferentemente do cenário preconizado por Marx, a estrutura básica do capital e da desigualdade tem se mantido relativamente inalterada."
+   },
+   "resposta": "c",
+   "explicacao": "O segundo parágrafo diz que, \"ao contrário do que o otimismo dominante após a Segunda Guerra Mundial costuma sugerir\", a concentração crescente da riqueza forma um círculo vicioso que \"pode levar a um descontentamento geral e até ameaçar os valores democráticos\" — exatamente a alternativa que opõe o cenário otimista do pós-guerra ao risco à democracia, e que resume a tese central do livro. As outras distorcem o texto: Piketty ressalta que o quadro PODE ser revertido pela intervenção política, e que tendências econômicas NÃO são forças da natureza — o que derruba as três alternativas que dizem o contrário; e a estrutura do capital permaneceu inalterada apesar do otimismo do pós-guerra, não \"diferentemente do cenário de Marx\", cujo apocalipse é o que não se concretizou."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "interpretacao-texto-2200311",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Os que se dedicam à crítica das ações humanas jamais se sentem tão embaraçados como quando procuram agrupar e harmonizar sob uma mesma luz todos os atos dos homens, pois estes se contradizem comumente a tal ponto que não parecem provir de um mesmo indivíduo. [...] Somos todos constituídos de peças e pedaços juntados de maneira casual e diversa, e cada peça funciona independentemente das demais. Daí ser tão grande a diferença entre nós e nós mesmos quanto entre nós e outrem: “Crede-me, não é coisa fácil conduzir-se como um só homem” [Sêneca].\n(Michel de Montaigne apud Eduardo Giannetti. O livro das citações, 2008.)",
+   "enunciado": "No texto, o autor reflete sobre",
+   "alternativas": {
+    "a": "a volubilidade humana.",
+    "b": "o conformismo humano.",
+    "c": "a transitoriedade humana.",
+    "d": "o egoísmo humano.",
+    "e": "a insensibilidade humana."
+   },
+   "resposta": "a",
+   "explicacao": "Montaigne diz que os atos de um mesmo homem \"se contradizem\" a ponto de não parecerem do mesmo indivíduo, que somos \"peças e pedaços\" e que a diferença entre nós e nós mesmos é tão grande quanto entre nós e outrem. É a inconstância, a mudança de conduta e de ânimo: a volubilidade humana — o tema central do trecho. Conformismo seria aceitação passiva; transitoriedade fala do tempo e da morte; egoísmo e insensibilidade dizem respeito à relação com o outro — nada disso é o assunto do trecho."
   }
  ],
  "gramatica-coesao-semantica": [
@@ -11048,6 +11231,86 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O trecho opõe duas coisas: a sanção do cancelamento não busca a liberdade do sujeito, como faz o direito penal, nem a reparação indenizatória do direito civil, \"mas sim\" atingir sua trajetória econômica e profissional. O conector marca justamente essa diferença entre os modos de punir. A alternativa A lê dúvida em \"seja...seja\", que é alternância inclusiva e não hesitação; B trata o \"que\" relativo como intensificador; C vê no \"sendo assim\" adesão das autoras, quando ele apenas encadeia conclusão; e E chama de comparação o \"como\", que ali introduz exemplificação."
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "gramatica-220038",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Que dinâmicas movimentam o acúmulo e a distribuição do capital? O tema da política econômica há muito suscita debates constantes sobre crescimento, concentração da riqueza e aumento da desigualdade. No entanto, a carência de dados adequados dificulta o acesso a respostas satisfatórias.\n\nEm O capital no século XXI, o economista francês Thomas Piketty apresenta um conjunto inédito de dados de vinte países para os últimos duzentos anos. O autor demonstra que o crescimento econômico e a difusão do conhecimento ao longo do século XX impediram que se concretizasse o cenário apocalíptico preconizado por Karl Marx, mas, ao contrário do que o otimismo dominante após a Segunda Guerra Mundial costuma sugerir, a estrutura básica do capital e da desigualdade permaneceu relativamente inalterada. Piketty constata, com absoluta clareza, que a taxa de rendimento do capital supera o crescimento econômico — e isso se traduz numa concentração cada vez maior da riqueza, um círculo vicioso de desigualdade que, a um nível extremo, pode levar a um descontentamento geral e até ameaçar os valores democráticos. Contudo, Piketty ressalta que tendências econômicas não são forças da natureza: a intervenção política já foi capaz de reverter tal quadro no passado e poderá voltar a fazê-lo.\n\nO capital no século XXI, já considerado referência entre os economistas, contribui para renovar inteiramente nossa compreensão sobre a dinâmica do capitalismo. Por destacar a contradição fundamental da relação entre o crescimento econômico e o rendimento do capital, esta obra monumental está revolucionando o pensamento econômico atual e instigando uma reflexão profunda sobre as questões mais prementes de nosso tempo.\n(O capital no século XXI, 2014. Adaptado.)",
+   "enunciado": "Em “«No entanto», a carência de dados adequados dificulta o acesso a respostas satisfatórias” (1º parágrafo), a locução destacada pode ser substituída, sem prejuízo para o sentido do texto, por:",
+   "alternativas": {
+    "a": "Nesse caso.",
+    "b": "Por conseguinte.",
+    "c": "Além disso.",
+    "d": "Por isso.",
+    "e": "Não obstante."
+   },
+   "resposta": "e",
+   "explicacao": "\"No entanto\" opõe a segunda frase à primeira: o tema suscita debates constantes, mas faltam dados. É valor adversativo, e o conectivo com o mesmo valor semântico é \"não obstante\". \"Por conseguinte\" e \"por isso\" são conclusivas; \"além disso\" é aditiva; \"nesse caso\" é condicional-conclusiva — nenhuma marca a oposição."
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "gramatica-2200312",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Os que se dedicam à crítica das ações humanas jamais se sentem tão embaraçados como quando procuram agrupar e harmonizar sob uma mesma luz todos os atos dos homens, pois «estes» «se» contradizem comumente a tal ponto que não parecem provir de um mesmo indivíduo. [...] Somos todos constituídos de peças e pedaços juntados de maneira casual e diversa, e cada peça funciona independentemente das demais. Daí ser tão grande a diferença entre nós e nós mesmos quanto entre nós e outrem: “Crede-me, não é coisa fácil conduzir-se como um só homem” [Sêneca].\n(Michel de Montaigne apud Eduardo Giannetti. O livro das citações, 2008.)",
+   "enunciado": "Os pronomes destacados no texto referem-se a",
+   "alternativas": {
+    "a": "“atos dos homens” e “homens”, respectivamente.",
+    "b": "“homens”, em ambos os casos.",
+    "c": "“homens” e “os atos dos homens”, respectivamente.",
+    "d": "“atos dos homens”, em ambos os casos.",
+    "e": "“homens” e “contradizem”, respectivamente."
+   },
+   "resposta": "d",
+   "explicacao": "\"pois estes se contradizem comumente a tal ponto que não parecem provir de um mesmo indivíduo\": o que se contradiz e não parece provir de um mesmo indivíduo são os atos, não os homens — quem escreve acaba de dizer que é difícil \"harmonizar sob uma mesma luz todos os atos dos homens\". \"Estes\" é retomada anafórica de \"atos dos homens\", e o \"se\" recíproco (contradizem-se uns aos outros) tem o mesmo referente. Logo, \"atos dos homens\" em ambos os casos. Ler \"estes\" como \"homens\" ignora que \"estes\" aponta para o termo mais próximo; e \"se\" não pode retomar um verbo."
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "gramatica-2200313",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Os que se dedicam à crítica das ações humanas jamais se sentem tão embaraçados como quando procuram agrupar e harmonizar sob uma mesma luz todos os atos dos homens, pois estes se contradizem comumente a tal ponto que não parecem provir de um mesmo indivíduo. [...] Somos todos constituídos de peças e pedaços juntados de maneira casual e diversa, e cada peça funciona independentemente das demais. Daí ser tão grande a diferença entre nós e nós mesmos quanto entre nós e outrem: “Crede-me, não é coisa fácil conduzir-se como um só homem” [Sêneca].\n(Michel de Montaigne apud Eduardo Giannetti. O livro das citações, 2008.)",
+   "enunciado": "Para evitar a sua repetição, o autor omite um substantivo no seguinte trecho:",
+   "alternativas": {
+    "a": "“Os que se dedicam à crítica das ações humanas jamais se sentem tão embaraçados”.",
+    "b": "“Somos todos constituídos de peças e pedaços juntados de maneira casual e diversa”.",
+    "c": "“e cada peça funciona independentemente das demais”.",
+    "d": "“Daí ser tão grande a diferença entre nós e nós mesmos”.",
+    "e": "“Crede-me, não é coisa fácil conduzir-se como um só homem”."
+   },
+   "resposta": "c",
+   "explicacao": "Em \"cada peça funciona independentemente das demais\", \"das demais\" está por \"das demais peças\": o substantivo foi omitido para não repetir \"peça\" na mesma frase — é elipse, recurso de coesão que enxuga a frase sem perda semântica. Nos outros trechos não há termo subentendido: \"os que\" é pronome com oração adjetiva, \"peças e pedaços\" e \"nós mesmos\" estão completos, e \"um só homem\" traz o substantivo expresso."
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "gramatica-2200314",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "De futebol não entendo, e é tarde «para» começar a entender. Por isso não me permito dar conselho a mestre Zagallo, e muito menos chamá-lo à ordem, «como» faz tanta gente que tem no bolso da calça a Seleção ideal, «além» da fórmula infalível para que o Brasil tire de letra o quarto Campeonato Mundial. Confio em Zagallo como costumo confiar no motorista de ônibus (também não entendo de condução de veículos) que, quase sempre, me leva para casa, no horário vespertino. O primeiro já demonstrou seu saber de experiências feito. O segundo, idem, pois até agora tenho regressado são e salvo, o que significa, mais ou menos: vitorioso.\n\nEste nariz de cera tem como objetivo esclarecer que, «se» vou falar hoje em Zaire, não é absolutamente com vistas à análise crítica do futebol do Zaire, e às possibilidades que a Seleção Brasileira tem de triunfar no jogo «com» os atletas de lá. Porque agora só se pensa nesse país em termos de pelota, e dizer Zaire é dizer um competidor do caneco.\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\n(Crônica “A voz do Zaire”, publicada originalmente em 11.04.1974.)",
+   "enunciado": "Dos termos destacados no texto, aquele que estabelece relação de finalidade é:",
+   "alternativas": {
+    "a": "“como”.",
+    "b": "“além”.",
+    "c": "“para”.",
+    "d": "“com”.",
+    "e": "“se”."
+   },
+   "resposta": "c",
+   "explicacao": "\"É tarde para começar a entender\": o conectivo \"para\" introduz o fim, o propósito — tarde para quê? para começar a entender. É o valor semântico de finalidade. \"Como faz tanta gente\" é comparação; \"além da fórmula\" é adição; \"se vou falar\" é condição; \"com os atletas\" é companhia. Só \"para\" responde a \"com que finalidade\"."
   }
  ],
  "gramatica-regencia-crase": [
@@ -14650,6 +14913,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "\"Se você não falar de política nos dias de hoje, você nem existe\" não fala do leitor em particular: fala de qualquer um, é o \"você\" indeterminado que equivale a \"a gente\" ou a \"se\". Esse uso genérico é o que amplia o alcance da constatação, alternativa E. A alternativa A restringe o pronome à pessoa que lê; B o iguala a \"ela/ele\", terceira pessoa de referência definida; C o chama de estratégia formal que exclui o leitor, quando o efeito é justamente incluir todo mundo; e D vê polidez com responsabilização, e não há acusação dirigida a ninguém."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-220036",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Aben Assan, filho espúrio¹ e estrafalário², sempre contrariava as decisões de Ibin Bibar, seu pai. Desde menino — já lá vão quatro décadas —, fazia exatamente o oposto do que o velho mandava ou sugeria. A princípio, o pai não percebeu, depois percebeu, enfim certificou-se — o comportamento do filho era coisa cruel e deliberada. Por isso, quando sentiu que ia morrer, querendo ser enterrado no maravilhoso mausoléu da família, Ibin Bibar chamou Aben Assan e disse:\n\n— Meu filho, não quero ir pro cemitério da cidade, onde estão enterrados todos os nossos ancestrais. Quero estar num lugar onde não sejam possíveis reverências nem adulações póstumas, todas hipócritas. Pegue meu corpo e jogue no lamaçal lá no fim da estrada. — E, dizendo isso, condizentemente, morreu.\n\nAo ver o pai morto, Aben Assan teve uma súbita crise de arrependimento por tudo que havia feito na vida. E resolveu mudar seu comportamento para com aquele que sempre o tratara como... um pai. Pensou: “Não, ele nunca mereceu a maneira como eu o tratei. Desta vez, a última, vou fazer exatamente o que ele pediu.”\n\nE ajudado por empregados um tanto relutantes, pegou o corpo do pai e o atirou no lamaçal no fim da estrada.\nMORAL: Cria corvos e te arrancam os olhos.\n(Millôr Fernandes. “A última vontade”. 100 fábulas fabulosas, 2012.)\n¹ espúrio: ilegítimo, bastardo.\n² estrafalário: desprezível.",
+   "enunciado": "O narrador da fábula relata uma série de eventos ocorridos no passado. Um evento anterior a esse tempo passado está indicado pela forma verbal destacada em:",
+   "alternativas": {
+    "a": "“Aben Assan, filho espúrio e estrafalário, sempre «contrariava» as decisões de Ibin Bibar, seu pai.” (1º parágrafo)",
+    "b": "“Desde menino — já lá «vão» quatro décadas —, fazia exatamente o oposto do que o velho mandava ou sugeria.” (1º parágrafo)",
+    "c": "“A princípio, o pai não percebeu, depois «percebeu», enfim certificou-se — o comportamento do filho era coisa cruel e deliberada.” (1º parágrafo)",
+    "d": "“«Pegue» meu corpo e jogue no lamaçal lá no fim da estrada.” (2º parágrafo)",
+    "e": "“E resolveu mudar seu comportamento para com aquele que sempre o «tratara» como... um pai.” (3º parágrafo)"
+   },
+   "resposta": "e",
+   "explicacao": "O tempo verbal que marca um passado anterior a outro passado é o pretérito mais-que-perfeito, e a única forma nesse tempo é \"tratara\": o pai o tratara como pai antes do momento, já passado, da decisão do filho de mudar. \"Contrariava\" é imperfeito (ação habitual no passado); \"vão\" é presente; \"percebeu\" é perfeito, simultâneo à narrativa; \"pegue\" é imperativo, na fala do pai."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-2200310",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Que dinâmicas movimentam o acúmulo e a distribuição do capital? O tema da política econômica há muito suscita debates constantes sobre crescimento, concentração da riqueza e aumento da desigualdade. No entanto, a carência de dados adequados dificulta o acesso a respostas satisfatórias.\n\nEm O capital no século XXI, o economista francês Thomas Piketty apresenta um conjunto inédito de dados de vinte países para os últimos duzentos anos. O autor demonstra que o crescimento econômico e a difusão do conhecimento ao longo do século XX impediram que se concretizasse o cenário apocalíptico preconizado por Karl Marx, mas, ao contrário do que o otimismo dominante após a Segunda Guerra Mundial costuma sugerir, a estrutura básica do capital e da desigualdade permaneceu relativamente inalterada. Piketty constata, com absoluta clareza, que a taxa de rendimento do capital supera o crescimento econômico — e isso se traduz numa concentração cada vez maior da riqueza, um círculo vicioso de desigualdade que, a um nível extremo, pode levar a um descontentamento geral e até ameaçar os valores democráticos. Contudo, Piketty ressalta que tendências econômicas não são forças da natureza: a intervenção política já foi capaz de reverter tal quadro no passado e poderá voltar a fazê-lo.\n\nO capital no século XXI, já considerado referência entre os economistas, contribui para renovar inteiramente nossa compreensão sobre a dinâmica do capitalismo. Por destacar a contradição fundamental da relação entre o crescimento econômico e o rendimento do capital, esta obra monumental está revolucionando o pensamento econômico atual e instigando uma reflexão profunda sobre as questões mais prementes de nosso tempo.\n(O capital no século XXI, 2014. Adaptado.)",
+   "enunciado": "A palavra destacada em “a intervenção política já foi capaz de reverter tal quadro no passado e poderá voltar «a» fazê-lo” (2º parágrafo) pertence à mesma classe gramatical da palavra destacada em:",
+   "alternativas": {
+    "a": "“O tema da política econômica há muito suscita debates constantes «sobre» crescimento” (1º parágrafo).",
+    "b": "“Em O capital no século XXI, o economista francês Thomas Piketty apresenta «um» conjunto inédito de dados” (2º parágrafo).",
+    "c": "“ao contrário do que o otimismo dominante após «a» Segunda Guerra Mundial costuma sugerir” (2º parágrafo).",
+    "d": "“e «isso» se traduz numa concentração cada vez maior da riqueza” (2º parágrafo).",
+    "e": "“O capital no século XXI, «já» considerado referência entre os economistas, contribui para renovar inteiramente nossa compreensão” (3º parágrafo)."
+   },
+   "resposta": "a",
+   "explicacao": "Em \"voltar a fazê-lo\", o \"a\" liga o verbo \"voltar\" ao infinitivo: é preposição, exigida pela regência de \"voltar a\". A palavra da mesma classe é \"sobre\", preposição em \"debates sobre crescimento\". As armadilhas: \"um\" é artigo indefinido; o \"a\" de \"a Segunda Guerra\" é artigo definido, homônimo da preposição; \"isso\" é pronome demonstrativo; \"já\" é advérbio."
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "gramatica-2200315",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "De futebol não entendo, e é tarde para começar a entender. Por isso não me permito dar conselho a mestre Zagallo, e muito menos chamá-lo à ordem, como faz tanta gente que tem no bolso da calça a Seleção ideal, além da fórmula infalível para que o Brasil tire de letra o quarto Campeonato Mundial. Confio em Zagallo como costumo confiar no motorista de ônibus (também não entendo de condução de veículos) que, quase sempre, me leva para casa, no horário vespertino. O primeiro já demonstrou seu saber de experiências feito. O segundo, idem, pois até agora tenho regressado são e salvo, o que significa, mais ou menos: vitorioso.\n\nEste nariz de cera tem como objetivo esclarecer que, se vou falar hoje em Zaire, não é absolutamente com vistas à análise crítica do futebol do Zaire, e às possibilidades que a Seleção Brasileira tem de triunfar no jogo com os atletas de lá. Porque agora só se pensa nesse país em termos de pelota, e dizer Zaire é dizer um competidor do caneco.\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\n(Crônica “A voz do Zaire”, publicada originalmente em 11.04.1974.)",
+   "enunciado": "Um vocábulo também pode ser formado quando passa de uma classe gramatical a outra, sem a modificação de sua forma. É o que se denomina derivação imprópria. Constitui exemplo de derivação imprópria o vocábulo destacado em:",
+   "alternativas": {
+    "a": "“De futebol não entendo, e é tarde para começar a «entender».”",
+    "b": "“Confio em Zagallo como costumo «confiar» no motorista de ônibus (também não entendo de condução de veículos) que, quase sempre, me leva para casa, no horário vespertino.”",
+    "c": "“O primeiro já demonstrou seu «saber» de experiências feito.”",
+    "d": "“O segundo, idem, pois até agora tenho regressado «são» e salvo, o que significa, mais ou menos: vitorioso.”",
+    "e": "“Porque agora só se pensa nesse país em termos de pelota, e «dizer» Zaire é dizer um competidor do caneco.”"
+   },
+   "resposta": "c",
+   "explicacao": "Em \"seu saber de experiências feito\", \"saber\" deixou de ser verbo e virou substantivo — vem com possessivo (\"seu\") e é o objeto de \"demonstrou\". Mudou de classe sem mudar de forma: derivação imprópria. \"Entender\", \"confiar\" e \"dizer\" continuam verbos no infinitivo (começar a entender, costumo confiar, dizer Zaire é dizer…); \"são\" em \"são e salvo\" é adjetivo, que já era adjetivo — não houve passagem de classe."
   }
  ],
  "gramatica-pontuacao": [
@@ -17040,6 +17363,70 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O primeiro parágrafo enfileira orações independentes separadas por vírgula e ponto e vírgula — \"gritos se tornam equivalentes a ênfases, ataques passam a valer como expressão de individualidade e a retórica mais rude toma ares de argumentação\" —, sem que nenhuma dependa sintaticamente da outra. É coordenação justaposta, e o efeito é o de listar sintomas, montar um panorama: alternativa C. A alternativa A afirma predomínio da subordinação; B fala em inversão da ordem das orações; D reduz o parágrafo a períodos simples, e há vários compostos; e E descreve oscilação entre os dois processos, quando um deles predomina claramente."
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "gramatica-220035",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Aben Assan, filho espúrio¹ e estrafalário², sempre contrariava as decisões de Ibin Bibar, seu pai. Desde menino — já lá vão quatro décadas —, fazia exatamente o oposto do que o velho mandava ou sugeria. A princípio, o pai não percebeu, depois percebeu, enfim certificou-se — o comportamento do filho era coisa cruel e deliberada. Por isso, quando sentiu que ia morrer, querendo ser enterrado no maravilhoso mausoléu da família, Ibin Bibar chamou Aben Assan e disse:\n\n— Meu filho, não quero ir pro cemitério da cidade, onde estão enterrados todos os nossos ancestrais. Quero estar num lugar onde não sejam possíveis reverências nem adulações póstumas, todas hipócritas. Pegue meu corpo e jogue no lamaçal lá no fim da estrada. — E, dizendo isso, condizentemente, morreu.\n\nAo ver o pai morto, Aben Assan teve uma súbita crise de arrependimento por tudo que havia feito na vida. E resolveu mudar seu comportamento para com aquele que sempre o tratara como... um pai. Pensou: “Não, ele nunca mereceu a maneira como eu o tratei. Desta vez, a última, vou fazer exatamente o que ele pediu.”\n\nE ajudado por empregados um tanto relutantes, pegou o corpo do pai e o atirou no lamaçal no fim da estrada.\nMORAL: Cria corvos e te arrancam os olhos.\n(Millôr Fernandes. “A última vontade”. 100 fábulas fabulosas, 2012.)\n¹ espúrio: ilegítimo, bastardo.\n² estrafalário: desprezível.",
+   "enunciado": "“Ibin Bibar chamou Aben Assan e disse: — [...] «Quero» estar num lugar onde não «sejam» possíveis reverências nem adulações póstumas, todas hipócritas.” (1º e 2º parágrafos)\nAo se transpor o trecho para o discurso indireto, os termos destacados assumem as seguintes formas:",
+   "alternativas": {
+    "a": "quis e fossem.",
+    "b": "queria e eram.",
+    "c": "quis e seriam.",
+    "d": "queria e fossem.",
+    "e": "quis e eram."
+   },
+   "resposta": "d",
+   "explicacao": "No discurso indireto, a fala citada passa a depender de um verbo de dizer no passado (\"disse que…\"), e os tempos recuam: o presente do indicativo \"quero\" vira pretérito imperfeito, \"queria\"; o presente do subjuntivo \"sejam\" vira imperfeito do subjuntivo, \"fossem\" — \"Ibin Bibar disse que queria estar num lugar onde não fossem possíveis reverências\". Daí \"queria e fossem\". \"Quis\" é perfeito, que fecharia a ação como pontual e não é a transposição do presente; \"eram\" e \"seriam\" trocam o modo subjuntivo exigido pela oração adjetiva com sentido de desejo."
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "gramatica-220039",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Que dinâmicas movimentam o acúmulo e a distribuição do capital? O tema da política econômica há muito suscita debates constantes sobre crescimento, concentração da riqueza e aumento da desigualdade. No entanto, a carência de dados adequados dificulta o acesso a respostas satisfatórias.\n\nEm O capital no século XXI, o economista francês Thomas Piketty apresenta um conjunto inédito de dados de vinte países para os últimos duzentos anos. O autor demonstra que o crescimento econômico e a difusão do conhecimento ao longo do século XX impediram que se concretizasse o cenário apocalíptico preconizado por Karl Marx, mas, ao contrário do que o otimismo dominante após a Segunda Guerra Mundial costuma sugerir, a estrutura básica do capital e da desigualdade permaneceu relativamente inalterada. Piketty constata, com absoluta clareza, que a taxa de rendimento do capital supera o crescimento econômico — e isso se traduz numa concentração cada vez maior da riqueza, um círculo vicioso de desigualdade que, a um nível extremo, pode levar a um descontentamento geral e até ameaçar os valores democráticos. Contudo, Piketty ressalta que tendências econômicas não são forças da natureza: a intervenção política já foi capaz de reverter tal quadro no passado e poderá voltar a fazê-lo.\n\nO capital no século XXI, já considerado referência entre os economistas, contribui para renovar inteiramente nossa compreensão sobre a dinâmica do capitalismo. Por destacar a contradição fundamental da relação entre o crescimento econômico e o rendimento do capital, esta obra monumental está revolucionando o pensamento econômico atual e instigando uma reflexão profunda sobre as questões mais prementes de nosso tempo.\n(O capital no século XXI, 2014. Adaptado.)",
+   "enunciado": "“«Por destacar a contradição fundamental da relação entre o crescimento econômico e o rendimento do capital», esta obra monumental está revolucionando o pensamento econômico atual” (3º parágrafo)\nEm relação à oração que a sucede, a oração destacada expressa ideia de",
+   "alternativas": {
+    "a": "conformidade.",
+    "b": "condição.",
+    "c": "causa.",
+    "d": "consequência.",
+    "e": "concessão."
+   },
+   "resposta": "c",
+   "explicacao": "\"Por destacar a contradição…\" é oração reduzida de infinitivo introduzida por \"por\", e responde a \"por que a obra está revolucionando o pensamento econômico?\" — porque destaca a contradição. É a causa; a oração principal traz o efeito. Não há hipótese (condição), quebra de expectativa (concessão), conformidade com um modelo nem resultado — a relação lógica vai da razão para o efeito, e a oração destacada é a razão."
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "unicamp-gramatica-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Obra de arte",
+    "arquivo": "assets/provas/unicamp-2026-q57.jpg",
+    "descricao": "Reprodução do trabalho “A luta”, de Santarosa Barreto: texto em letras de fôrma pretas sobre fundo vermelho: “LUTE A LUTA COMO VOCÊ ACHA QUE DEVE LUTAR E NÃO COMO EXIGEM QUE VOCÊ LUTE QUE VÃO DIZER QUE VOCÊ NÃO SABE O QUE É UMA LUTA QUE VÃO DIZER QUE VOCÊ NÃO TEM FORÇA PARA LUTAR QUE VÃO DIZER QUE ELES É QUE SABEM LUTAR QUE VÃO DIZER QUE ELES LUTAM HÁ MAIS TEMPO DO QUE VOCÊ LUTA QUE VÃO DIZER QUE É MELHOR VOCÊ DESISTIR DA LUTA QUE VÃO DIZER QUE NÃO É ASSIM QUE SE LUTA QUE VÃO DIZER QUE VOCÊ NÃO SABE LUTAR QUE VÃO DIZER QUE VOCÊ NUNCA LUTOU QUE VÃO DIZER QUE VOCÊ NÃO ESTÁ LUTANDO A MESMA LUTA QUE ELES ESTÃO LUTANDO OS SUPOSTOS DONOS DA LUTA.”"
+   },
+   "texto_apoio": "LUTE A LUTA COMO VOCÊ ACHA QUE DEVE LUTAR E NÃO COMO EXIGEM QUE VOCÊ LUTE QUE VÃO DIZER QUE VOCÊ NÃO SABE O QUE É UMA LUTA QUE VÃO DIZER QUE VOCÊ NÃO TEM FORÇA PARA LUTAR QUE VÃO DIZER QUE ELES É QUE SABEM LUTAR QUE VÃO DIZER QUE ELES LUTAM HÁ MAIS TEMPO DO QUE VOCÊ LUTA QUE VÃO DIZER QUE É MELHOR VOCÊ DESISTIR DA LUTA QUE VÃO DIZER QUE NÃO É ASSIM QUE SE LUTA QUE VÃO DIZER QUE VOCÊ NÃO SABE LUTAR QUE VÃO DIZER QUE VOCÊ NUNCA LUTOU QUE VÃO DIZER QUE VOCÊ NÃO ESTÁ LUTANDO A MESMA LUTA QUE ELES ESTÃO LUTANDO OS SUPOSTOS DONOS DA LUTA.",
+   "fonte_texto": "BARRETO, S. A luta. Ikrek Edições, 2019 (reimpressão 2024).",
+   "enunciado": "O texto acima é um trabalho da artista Santarosa Barreto apresentado na exposição Histórias das mulheres: artistas depois de 2000, realizada no MASP em 2019.\n\nNesse texto, observamos ocorrências de “que” com diferentes valores, entre eles o",
+   "alternativas": {
+    "a": "explicativo, com o objetivo de listar justificativas que tentam suprimir, em favor de outros, uma dimensão pessoal da luta",
+    "b": "comparativo, com o objetivo de equiparar a luta motivada por convicções próprias e a luta instigada por quem está no poder",
+    "c": "condicional, com o objetivo de caracterizar a luta como uma condição para combater aqueles que a querem controlar",
+    "d": "causal, com o objetivo de reiterar as situações que levam alguém a desistir de promover a luta como forma de resistência individual"
+   },
+   "explicacao": "A série “lute a luta como você acha que deve ... QUE vão dizer que você não sabe ... QUE vão dizer que você não tem força ...” encadeia orações nas quais o “que” introduz explicações — o porquê de lutar do próprio jeito é que os “supostos donos da luta” vão dizer isso e aquilo para tirar de você a dimensão pessoal da luta. É o valor explicativo, listando as justificativas alheias que tentam suprimir a luta individual em favor da deles. Não há comparação de igualdade, nem condição, nem causa que leve à desistência — o texto convoca a não desistir.",
+   "resposta": "a",
+   "origem": "medicina"
   }
  ],
  "literatura-realismo-naturalismo": [
@@ -18741,6 +19128,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O enunciado avisa que o romance dialoga com o naturalismo mas introduz deslocamentos, e o deslocamento é justamente onde a alternativa E o localiza: Julia Lopes de Almeida usa a precariedade urbana do Rio da virada do século para denunciar as vítimas do progresso, mostrando que aquela modernidade se erguia sobre a invisibilidade do trabalho feminino, sobretudo o doméstico. A alternativa A adota o determinismo rigoroso que o romance rompe, ao permitir que Martha se desenvolva; B celebra um sistema educacional democrático que a obra não retrata; C diz que a pobreza é suavizada por idealismo romântico; e D reduz o livro à reprodução das teorias de degenerescência racial."
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "unicamp-literatura-05",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "O sineiro era um preto velho e doido. Não fazia mais que tocar o sino da capela, para a missa, aos domingos. O resto do tempo vivia calado ou resmungando. Ninguém lhe falava, embora fosse manso. [...] Com a razão, perdera a convivência dos mais. Vivia entregue aos pensamentos solitários, mergulhado na inconsciência e na solidão. A moça representava aos olhos dele alguma coisa mais do que uma simples criatura, era a sociedade humana, e uma sombra de sombra da consciência antiga.",
+   "fonte_texto": "ASSIS, M. de. Casa Velha. Apresentação e notas de Paulo Franchetti. Campinas, SP: Editora da UNICAMP, p. 85-86, 2023.",
+   "enunciado": "No enredo de Casa Velha, é possível afirmar que a cena em que aparece a figura do sineiro cumpre o papel de",
+   "alternativas": {
+    "a": "mostrar a solidariedade de classe desenvolvida por Lalau que, sendo uma agregada, identifica seus interesses com os do velho sineiro",
+    "b": "exibir o caráter caridoso de Dona Antônia, que mantém o escravizado sob seus cuidados mesmo após deixar de ser útil como trabalhador",
+    "c": "expor a Dona Antônia o sentimento existente entre Lalau e seu filho, enquanto ele observa a compaixão da moça pelo sineiro",
+    "d": "sugerir a complexidade da organização social característica da Casa Velha, na qual se via representada toda a sociedade humana"
+   },
+   "explicacao": "Na novela de Machado, a cena do sineiro é o momento em que Félix, filho de D. Antônia, observa Lalau tratando com compaixão o velho escravizado — e a mãe, ao vê-los juntos, percebe o sentimento entre os dois, o que desencadeia sua reação contra o namoro da agregada com o filho. O trecho citado marca a solidão do sineiro, para quem a moça “era a sociedade humana”. Não se trata de solidariedade de classe de Lalau, nem de caridade de D. Antônia; e a frase sobre “toda a sociedade humana” descreve o olhar do sineiro, não a organização da casa.",
+   "resposta": "c",
+   "origem": "medicina"
   }
  ],
  "literatura-colonial-romantismo": [
@@ -21376,6 +21782,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "\"A Indesejada das gentes\" nomeia a morte sem dizer a palavra, suavizando o que se teme — é eufemismo, e a perífrase com maiúscula ainda a personifica. Já \"O meu dia foi bom, pode a noite descer\" opõe dia e noite, e por trás deles vida e morte, numa contraposição que dá o tom sereno do poema: antítese. Alternativa C. As demais nomeiam figuras que não estão ali: anáfora exigiria repetição no início de versos; hipérbole, exagero, e o poema é contido; catacrese é o uso forçado por falta de termo próprio; metonímia e onomatopeia não comparecem em nenhum dos dois versos."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "unicamp-literatura-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "“O Homem; as Viagens\n\nO homem, bicho da Terra tão pequeno\nchateia-se na Terra\nlugar de muita miséria e pouca diversão,\nfaz um foguete, uma cápsula, um módulo\ntoca para a Lua\ndesce cauteloso na Lua\npisa na Lua\nplanta bandeirola na Lua\nexperimenta a Lua\ncoloniza a Lua\nciviliza a Lua\nhumaniza a Lua.\n\nLua humanizada: tão igual à Terra.\nO homem chateia-se na Lua.\nVamos para Marte – ordena a suas máquinas.\nElas obedecem, o homem desce em Marte\npisa em Marte\nexperimenta\ncoloniza\nciviliza\nhumaniza Marte com engenho e arte.\nMarte humanizado, que lugar quadrado.\n(...)”.",
+   "fonte_texto": "ANDRADE, C. D. O Homem; As viagens, As impurezas do Branco. In: Poesia Completa. Rio de Janeiro, Editora Nova Aguilar, p. 718, 2002. KRENAK, A. A vida não é útil. Pesquisa e organização de Rita Carelli. São Paulo: Companhia das Letras, 2020.",
+   "enunciado": "Em seu ensaio “A vida não é útil”, Ailton Krenak elege Carlos Drummond de Andrade como um de seus “escudos”. Ele cita a última estrofe de “O Homem; as Viagens”, poema publicado em As impurezas do Branco (1973). Reproduzimos a primeira e a segunda estrofe desse poema.\n\nEm relação às reflexões de Ailton Krenak, é correto afirmar que esse trecho do poema",
+   "alternativas": {
+    "a": "responsabiliza a ciência e tecnologia, desgastadas em seus valores, pela corrosão das relações nas sociedades contemporâneas",
+    "b": "mostra que os Homens, guiados pela ideia de progresso, não adotam uma postura consciente em relação ao seu espaço",
+    "c": "evidencia que a Terra, desgastada em seus valores, foi superada pelos elementos da conquista espacial",
+    "d": "identifica a aniquilação das sociedades contemporâneas nos programas de governos persuadidos pelo progresso"
+   },
+   "explicacao": "O homem do poema “chateia-se na Terra”, vai à Lua, “coloniza, civiliza, humaniza” — e, entediado, repete o gesto em Marte: cada lugar humanizado vira “tão igual à Terra”, “lugar quadrado”. É a crítica de Krenak à humanidade que, movida pelo progresso, não sabe habitar o próprio lugar e o repete em série. O poema não culpa a ciência em si nem fala em governos ou em aniquilação de sociedades; e a Terra não é “superada” — é reproduzida, chata, em toda parte.",
+   "resposta": "b",
+   "origem": "medicina"
   }
  ],
  "literatura-teoria-analise": [
@@ -23293,6 +23718,43 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Palavras não são faíscas nem queimam de verdade: chamá-las assim é transferir para o campo do fogo o efeito de uma agressão verbal, e isso é conotação, o uso figurado. As demais associações erram o nome da figura. \"Empurrou\", \"acuou\" e \"encurralada\" se somam na mesma direção, o que é gradação e não antítese (B); \"esse abismo\" aposto a \"amor\" é metáfora, e o próprio item se desmente ao dizer que expressa literalmente (C); \"recolher meus pedaços\" acrescenta sentido em vez de repeti-lo, logo não é pleonasmo (D); e \"encher\" e \"desaguar\" são próximos em sentido, o que é sinonímia, não paronímia, que trata de semelhança sonora (E)."
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "unicamp-literatura-02",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Texto 1\nAos óculos\n\nSó fingem que põem\no mundo ao alcance\ndos meus olhos míopes.\nNa verdade, me exilam\ndele com filtrar-lhe\na menor imagem.\nJá não vejo as coisas\ncomo são: vejo-as como eles querem\nque as veja.\nLogo, são eles que veem,\nnão eu que, mesmo cônscio\ndo logro, lhes sou grato\npor anteciparem em mim\no Édipo curioso\nde suas próprias trevas.\n(PAES, J. P. Prosas seguidas de Odes mínimas. São Paulo: Companhia das Letras, p. 63, 1992.)\n\nTexto 2\n“Do grego odé e do latim ōde (ou ōda), a ode era, na antiguidade clássica, um poema destinado a ser cantado, ou um canto alegre, triste ou lírico. Era um poema de alguma extensão, de elevado assunto ou nobre, expressando sentimentos ilustres, em homenagem a algo ou a alguém. Apresentava também a elaboração estrófica, bem como estilo formal nobre e cerimonioso”.\n(Adaptado do verbete “Ode”, elaborado por Ana Ladeira. In: CEIA, C. E-Dicionário de termos literários (projeto abrigado pela Universidade Nova de Lisboa). Disponível em https://edtl.fcsh.unl.pt/encyclopedia/ode. Acesso em 31/05/2025.)",
+   "enunciado": "Leia os textos 1 e 2.\n\nÉ correto afirmar que a ode mínima de José Paulo Paes reelabora a definição clássica de “ode” ao",
+   "alternativas": {
+    "a": "respeitar a elevação do assunto, a nobreza do tom e os sentimentos ilustres",
+    "b": "utilizar-se de um tom elevado e cerimonioso para a homenagem",
+    "c": "dirigir-se a um objeto, vinculando-se ao gênero canção popular",
+    "d": "celebrar um objeto fundamental, os óculos, e não algo/alguém ilustre"
+   },
+   "explicacao": "A ode clássica homenageia algo ou alguém ilustre em tom nobre; a “ode mínima” de Paes se dirige a um objeto cotidiano — os óculos —, com humor e ironia (eles “fingem”, “exilam”, são um “logro”), sem tom cerimonioso. A reelaboração está justamente em celebrar o objeto banal e fundamental no lugar do ilustre. O poema não mantém elevação e nobreza, não é cerimonioso e não se vincula à canção popular.",
+   "resposta": "d",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "unicamp-literatura-06",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "ALVORADA\n\nAlvorada lá no morro, que beleza,\nNinguém chora, não há tristeza,\nNinguém sente dissabor.\nO sol colorindo é tão lindo, é tão lindo.\nE a natureza sorrindo, tingindo, tingindo.\n\nVocê também me lembra a alvorada\nQuando chega iluminando\nMeus caminhos tão sem vida.\nE o que me resta\né bem pouco, quase nada,\ndo que ir assim vagando\nnuma estrada perdida.",
+   "fonte_texto": "CARTOLA. Alvorada. In: Cartola. Rio de Janeiro: Marcus Pereira Discos, 1974.",
+   "enunciado": "Leia os versos da canção e assinale a alternativa correta.",
+   "alternativas": {
+    "a": "O eu-lírico enfatiza a harmonia entre a cena idílica do morro no momento da alvorada e a alegria de sua vida junto à pessoa amada",
+    "b": "O eu-lírico enfatiza um contraste entre a alegria da alvorada no morro e a pobreza das pessoas que habitam aquele espaço",
+    "c": "A alvorada no morro é, para o eu-lírico, como a imagem da pessoa amada, que lhe traz alegria, apesar de sua desilusão e desesperança",
+    "d": "A alvorada no morro funciona, no poema, como imagem do futuro que pode ser transformado pelo amor, apesar das condições de vida difíceis"
+   },
+   "explicacao": "A primeira estrofe é só luz e beleza; a segunda transfere a imagem à pessoa amada — “você também me lembra a alvorada quando chega iluminando meus caminhos tão sem vida” — e revela um eu-lírico desiludido, a quem “resta bem pouco, quase nada”, vagando “numa estrada perdida”. A alvorada e a amada iluminam, mas sobre um fundo de desesperança: não há harmonia plena, não se fala da pobreza dos moradores, e a estrada perdida é o presente do eu-lírico, não um futuro transformado.",
+   "resposta": "c",
+   "origem": "medicina"
   }
  ],
  "literatura-contemporanea": [
@@ -25162,6 +25624,43 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A faca do poema não fere: divide. \"Ele me atravessa / E atravessa os dias / Ele me divide / Tudo o que em mim vive\" — o amor parte o sujeito poético em dois, e a libertação virá \"com uma faca limpa\", isto é, do mesmo corte. Alternativa B. A alternativa A transfere a separação para objetos, a escultura e o rosto do cigano; C a põe entre esculpir e matar, dois atos da narrativa maior mas não do trecho; D a atribui às vozes do escultor e do assassino, que aqui não falam; e E a desloca para noite e dia, que no poema marcam o tempo do desconhecimento, não a divisão."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "unicamp-literatura-03",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "fonte_texto": "ADICHIE, C. N. No seu pescoço. Tradução: Júlia Romeu. São Paulo: Companhia das Letras, 2017.",
+   "enunciado": "No conto “Réplica”, que integra a coletânea No seu pescoço, de Chimamanda Adichie, a protagonista vive",
+   "alternativas": {
+    "a": "o choque cultural, consequente das diásporas africanas contemporâneas, reelaborado pelas observações de Nkem",
+    "b": "as contradições culturais, consequentes do processo de recolonização da Nigéria, expressas pelos negócios ilícitos de Obiora",
+    "c": "a opressão feminina, consequente da falência do modelo africano de sororidade, como no relato de Ijemamaka",
+    "d": "o sentimento de nacionalismo, consequente das saudades de práticas culturais, como no estranhamento dos vizinhos brancos (povo oyibo)"
+   },
+   "explicacao": "Em “Réplica”, Nkem vive nos Estados Unidos com os filhos enquanto o marido Obiora, rico, fica na Nigéria com uma amante; ao saber disso, ela observa a própria vida — a casa americana, a máscara de Benin que é réplica, o cabelo que corta — e decide voltar a Lagos. O eixo é o choque cultural da diáspora, elaborado pelo olhar de Nkem. Não há “recolonização” nem negócios ilícitos, Ijemamaka é a amiga que conta a traição (não um relato de sororidade falida), e a relação com os vizinhos não é o tema.",
+   "resposta": "a",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "unicamp-literatura-04",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Foi então que vi aquelas ameixas e achei tão bonitas e tão vermelhas que pedi um quilo e era minha última grana certo porque meus pais não me dão nada e daí eu pensei assim se comprar essas ameixas agora vou ter que voltar a pé para casa mas que importa volto a pé mesmo pode ser até que acorde um pouco e aquela coisa lá longe volte pra perto de mim e então eu vinha caminhando devagarinho as ameixas eu não conseguia parar de comer sabe já tinha comido acho que umas seis estava toda melada quando dobrei a esquina aqui da rua e ia saindo um caixão de defunto do sobrado amarelo na esquina certo acho que era um caixão cheio quer dizer com defunto dentro porque ia saindo e não entrando certo e foi bem na hora que eu dobrei não deu tempo de parar nem de desviar daí então eu tropecei no caixão e as ameixas todas caíram assim paf! na calçada e foi aí que eu reparei naquelas pessoas todas de preto e óculos escuros e lenços no nariz e uma porrada de coroas de flores devia ser um defunto muito rico certo e aquele carro fúnebre ali parado e só aí eu entendi que era um velório.",
+   "fonte_texto": "ABREU, C. F. Morangos Mofados. 9ª. ed. São Paulo: Companhia das Letras, p. 105-106, 2015.",
+   "enunciado": "Leia a citação, extraída do conto “Pera, uva ou maçã?”, publicado no livro Morangos mofados, de Caio Fernando Abreu, e assinale a alternativa correta sobre o excerto.",
+   "alternativas": {
+    "a": "A presença de orações como “foi então que vi”, “foi aí que eu reparei” e “só aí eu entendi” cria um efeito de retardamento da narrativa, o que reflete o estado psicológico de apatia da personagem que fala",
+    "b": "A ausência de pontuação cria um efeito de aceleração da narrativa, o que reflete o estado psicológico de ansiedade da personagem que fala",
+    "c": "A presença de orações como “foi então que vi”, “foi aí que eu reparei” e “só aí eu entendi” rompe a sequência temporal da narrativa, prejudicando o seu desenvolvimento lógico",
+    "d": "A ausência de pontuação desorganiza a sequência das ações da personagem, o que reflete sua confusão e causa uma ambiguidade de sentido em sua narrativa"
+   },
+   "explicacao": "O trecho é um único fluxo sem vírgulas nem pontos, encadeado por “e”, “daí”, “certo”: a fala corre sem pausa, o que acelera a narrativa e traduz a ansiedade da personagem, que devora as ameixas “sem conseguir parar”. As orações “foi então que vi”, “foi aí que eu reparei” organizam a sequência em vez de rompê-la, e a narrativa continua clara e ordenada — não há ambiguidade nem desorganização das ações.",
+   "resposta": "b",
+   "origem": "medicina"
   }
  ],
  "ingles-inference": [
@@ -28527,6 +29026,29 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "\"To be the butt of the joke\" é ser o alvo da piada, aquele de quem se ri. Ao dizer que somos todos o alvo, o autor transfere a obra do objeto para nós: o espetáculo verdadeiro são as reações, as paródias e os debates, e \"our swiftness to react has caused us all to waste time caring about a fruit signifying nothing\". Sem a reação coletiva e imediata, não há obra — alternativa C. A alternativa A trata da legitimação institucional pelo museu; B, do debate da crítica especializada; D, da absorção pelo mercado de arte; e E afirma que os memes interpretam mal a obra, quando eles são a obra."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "unicamp-ingles-03",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Tirinha",
+    "arquivo": "assets/provas/unicamp-2026-q03.jpg",
+    "descricao": "Tirinha em três quadros passada na Wall St. Um homem à esquerda reclama “NOT FAIR! NO ONE IS GIVING ME MONEY!” diante de um pedinte com a placa “HELP THE NEEDY”; outro responde “THAT’S BECAUSE YOU’VE GOT THE WRONG PARADIGM...”; no último quadro, uma barraca de “COIN TOSS GAME” lotada de moedas com a fala “...IN THIS PLACE MONEY IS FOR PLAYING GAMES.”"
+   },
+   "fonte_texto": "Adaptado de https://toonut.com. Acesso em 15/05/2025.",
+   "enunciado": "Leia a tirinha acima.\n\nA tirinha, em seu sentido geral, faz uma crítica à",
+   "alternativas": {
+    "a": "injustiça de um personagem receber menos moedas do que o outro, na Wall St.",
+    "b": "diferença de status financeiro entre as pessoas que transitam pela Wall St.",
+    "c": "atitude das pessoas que circulam na Wall St. para as quais lidar com dinheiro é um jogo",
+    "d": "postura das pessoas que circulam na Wall St. que ignoram problemas e necessidades sociais"
+   },
+   "explicacao": "O pedinte com a placa “HELP THE NEEDY” não recebe nada, enquanto a barraca do “COIN TOSS GAME” transborda de moedas: “in this place money is for playing games”. A crítica é ao público de Wall St., que gasta com jogo e ignora quem precisa — a necessidade social passa em branco. Não se trata de comparar dois pedintes nem de status financeiro entre transeuntes; e a alternativa sobre “lidar com dinheiro é um jogo” descreve o mecanismo da piada, não o alvo da crítica, que é a indiferença.",
+   "resposta": "c",
+   "origem": "medicina"
   }
  ],
  "ingles-grammar-structure": [
@@ -29675,6 +30197,142 @@ window.QUESTION_BANKS = {
    "explicacao": "As três formas estão na voz passiva: o particípio vem precedido do verbo “be” flexionado em algum tempo verbal — past simple em “were announced” e “was published”, past perfect em “had been completed”. A voz passiva desloca para a posição de sujeito aquilo que sofre a ação e permite omitir quem a praticou, recurso frequente no relato científico e no texto jornalístico. Em “were told” aparece a mesma estrutura com verbo de dois complementos, e não há aí nem verbo modal nem discurso indireto.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "ingles-2200323",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "China is taking hog biosecurity to new levels — 13 stories in fact.\n\nThat’s the height of a building in southern China where more than 10,000 pigs are kept in a condominium-style complex, complete with restricted access, security cameras, in-house veterinary services and carefully prepared meals.\n\nThe seemingly luxurious conditions represent a state-of-the-art approach to biosecurity in which pigs — the main source of meat in China — are shielded from viruses, including the devastating African swine fever that wiped out half the nation’s hogs in the two years before the coronavirus pandemic emerged.\n\nThe rise of large hog farms also reflects shifting diets in China. Whereas Beijing focused on fighting hunger and eliminating poverty in past decades, rapid economic development and expanding incomes mean China’s 1.4 billion people are eating more meat, eggs and other animal proteins. That’s driving more-intensive animal production.\n(www.bloomberg.com, 02.08.2021. Adapted.)",
+   "enunciado": "In the fragment from the fourth paragraph “Whereas Beijing focused on fighting hunger and eliminating poverty in past decades”, the term “whereas” can be replaced, with no change in meaning, by",
+   "alternativas": {
+    "a": "since.",
+    "b": "because.",
+    "c": "while.",
+    "d": "although.",
+    "e": "despite."
+   },
+   "resposta": "c",
+   "explicacao": "“Whereas Beijing focused on fighting hunger in past decades, rapid economic development … mean China’s 1.4 billion people are eating more meat”: the connector “whereas” sets two situations side by side in contrast — then versus now. “While” carries the same contrastive value. “Since” and “because” would turn the past focus into a cause; “although” expresses concession, and “despite” is a preposition, which cannot introduce a clause with a subject and a verb."
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "ingles-2200325",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Notwithstanding the current turbulent socio-economic conditions in the country, Vice President Yemi Osinbajo has insisted that generating economic growth, developing human capital, and building Nigeria’s infrastructural backbone is doable. To achieve this, Osinbajo said all tiers of government and critical partners ought to be focused, open-minded and collaborative in meeting shared aspirations to provide better and decent jobs for Nigerians, especially the youths.\n(Terhemba Daka. www.guardian.ng, 06.08.2021. Adapted.)",
+   "enunciado": "In the fragment “all tiers of government and critical partners «ought to» be focused, open-minded and collaborative”, the highlighted terms carry the idea of",
+   "alternativas": {
+    "a": "obligation.",
+    "b": "preference.",
+    "c": "necessity.",
+    "d": "capacity.",
+    "e": "possibility."
+   },
+   "resposta": "c",
+   "explicacao": "The modal verb “ought to” expresses what is right or needed — “should”: to reach the goals, government and partners need to be focused and collaborative. That is necessity. It is weaker than the obligation of “must”, expresses no preference (“would rather”), no capacity (“can”) and no possibility (“may”)."
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "ingles-2200329",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Apart from the impact on the environment, increasing use of air conditioning (AC) could have social and political effects. A new paper by researchers from the University of California, Berkeley and the University of Mannheim set out to understand the relationships between climate, income and residential air conditioning. Their model suggested that wider use of AC will save lives that would otherwise be taken by heartstroke or the exacerbation of other health conditions — 550,000 a year by 2050 in India alone — but it will disproportionately benefit those with higher incomes. Poorer people without AC are more likely to be less productive or to die than those who can afford it. Heat hinders learning and lowers test scores, causing poorer children to fall behind. And the use of AC itself contributes to global warming, making life even hotter for everyone.\n(www.economist.com, 10.08.2021. Adapted.)",
+   "enunciado": "The expression “Apart from”, on the first line of the text, introduces the idea of",
+   "alternativas": {
+    "a": "contrast.",
+    "b": "addition.",
+    "c": "alternative.",
+    "d": "cause.",
+    "e": "condition."
+   },
+   "resposta": "b",
+   "explicacao": "“Apart from the impact on the environment, increasing use of air conditioning could have social and political effects”: besides the environmental impact — already known — there are further effects. The preposition “apart from” works here as a connector meaning “in addition to”: addition. It is not contrast (the two impacts are added, not opposed), not alternative, cause or condition."
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "ita-2026-q38",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Texto-base (primeiro parágrafo):\nThe voluminous literature dealing with the idea of human progress is decidedly a mixed bag. While some of these writings are impressive and even inspiring, many of them are superficial, perhaps even ridiculous, in their reiteration (especially during the nineteenth century) of the comforting prospect that every day in every way we are growing better and better.\n(VAN DOREN, Charles. A History of Knowledge. Past, Present and Future. New York: The Random House Publishing Group, 1991, p. XV-XVI.)\n\nOs termos abaixo, retirados do primeiro parágrafo, exercem no texto as funções indicadas após a seta, EXCETO em",
+   "alternativas": {
+    "a": "dealing → função adjetiva.",
+    "b": "writings → função substantiva.",
+    "c": "during → função adjetiva.",
+    "d": "comforting → função adjetiva.",
+    "e": "growing → função verbal."
+   },
+   "resposta": "c",
+   "explicacao": "During é preposição no sintagma 'during the nineteenth century', não adjetivo. Dealing e comforting participam de grupos adjetivais, writings é substantivo e growing integra a locução verbal 'are growing'. In English grammar, during is a preposition; that is the grammatically correct classification of its grammatical structure."
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "ita-2026-q44",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Referring to the establishment of a national youth mental health crisis, U.S. Surgeon General Vivek Murthy stated: “I am concerned that social media is an important driver of that crisis, one that we must urgently address”. In this sentence, the modal verb MUST indicates",
+   "alternativas": {
+    "a": "a possibility that addressing the crisis may happen.",
+    "b": "a necessity to act regarding the crisis.",
+    "c": "an ability to address the matter at any time.",
+    "d": "a recommendation to act regarding the matter.",
+    "e": "a request for people to recognize the relevance of the matter."
+   },
+   "resposta": "b",
+   "explicacao": "Must expresses strong obligation or necessity. Here it marks the urgent need to address the crisis, not mere possibility, ability, recommendation or request. In English grammar, must is a modal verb of obligation."
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "ita-2026-q45",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Ao transpor “Seventy-two percent of high school teachers cite cellphones as a major distraction in the classroom” para a voz passiva, a construção correta é",
+   "alternativas": {
+    "a": "Seventy-two percent of high school teachers are cited cellphones as a major distraction in the classroom.",
+    "b": "Cellphones are cited as a major distraction in the classroom by seventy-two percent of high school teachers.",
+    "c": "Cellphones are cited as seventy-two percent of a major distraction by high school teachers.",
+    "d": "Seventy-two percent of high school teachers were cited cellphones as a major distraction in the classroom.",
+    "e": "Cellphones cites by seventy-two percent of high school teachers as a major distraction in the classroom."
+   },
+   "resposta": "b",
+   "explicacao": "O objeto cellphones torna-se sujeito, mantém-se o presente com are cited e o agente aparece após by. Isso produz exatamente a alternativa B."
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "ita-2026-q48",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Observe the following sentence: “The goal is to give society time to adapt to what the signatories describe as an ‘AI summer’, which they believe will ultimately benefit humanity, as long as the right guardrails are put in place.” Choose the alternative that can be considered the CORRECT past version of the sentence above.",
+   "alternativas": {
+    "a": "The goal was to give society time to adapt to what the signatories described as an ‘AI summer’, which they believe was ultimately benefit humanity, as long as the right guardrails were put in place.",
+    "b": "The goal was to give society time to adapt to what the signatories had described as an ‘AI summer’, which they believe would ultimately benefit humanity, as long as the right guardrails were put in place.",
+    "c": "The goal was to give society time to adapt to what the signatories described as an ‘AI summer’, which they believed would ultimately benefit humanity, as long as the right guardrails were put in place.",
+    "d": "The goal would be to give society time to adapt to what the signatories describe as an ‘AI summer’, which they believe had ultimately benefited humanity, as long as the right guardrails were put in place.",
+    "e": "The goal would be to give society time to adapt to what the signatories had described as an ‘AI summer’, which they believe would ultimately benefit humanity, as long as the right guardrails were put in place."
+   },
+   "resposta": "c",
+   "explicacao": "A transposição coerente leva is→was, describe→described, believe→believed, will→would e are put→were put. Somente a alternativa C aplica toda essa sequência sem criar forma verbal agramatical. The verb tense sequence follows reported speech and past-time agreement."
   }
  ],
  "ingles-main-idea": [
@@ -31060,6 +31718,65 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O argumento do texto é social antes de ser astronômico: \"Post-pandemic, many of us feel less a part of our communities. In a polarized world, we lack common cause. Amid this disconnection and alienation, a solar eclipse is an opportunity...\" O eclipse interessa porque devolve algo comum a um mundo fragmentado, e o fecho repete — \"something that, no matter how stark our differences, we still share\". Alternativa E. A alternativa A fala em busca de espiritualidade; B, em cientistas corrigindo mitos; C, em popularidade do tema na ficção científica; e D, em difusão de pesquisas em revistas especializadas."
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "ingles-2200318",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "One of the most exciting things about today's business environment is the ever-increasing range of collaborative opportunities that technology is bringing to the table. This has only been accelerated by the covid pandemic, which has necessitated a complete rethink of the concept of how we conduct meetings, how we contribute to projects or products and how we interact with our subordinates, peers and managers. ‘Work’ can now potentially be conducted from anywhere and at any time, meaning increased flexibility for employees, and in many cases increased output due to the lack of 'down time' commuting or having to take time off for domestic commitments that can now be managed simultaneously with office duties. (www.newsweek.com, 06.08.2021. Adapted.)",
+   "enunciado": "The paragraph mentions the following feature of today’s business settings:",
+   "alternativas": {
+    "a": "more open and flexible interpersonal relations.",
+    "b": "cutting edge uses of technology.",
+    "c": "increased down time for handling off-work activities.",
+    "d": "the adequate balance between home and office commitments.",
+    "e": "a redefinition of collaborative paradigms."
+   },
+   "resposta": "e",
+   "explicacao": "The main idea of the paragraph is that the pandemic “has necessitated a complete rethink of the concept of how we conduct meetings, how we contribute to projects or products and how we interact” — that is a redefinition of collaborative paradigms, the “collaborative opportunities” the first sentence opens with. Technology is the vehicle, not described as “cutting edge”; relations are not called more open; down time is said to be LACKING, not increased; and domestic duties being managed “simultaneously with office duties” is not presented as an adequate balance."
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "ingles-2200321",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "China is taking hog biosecurity to new levels — 13 stories in fact.\n\nThat’s the height of a building in southern China where more than 10,000 pigs are kept in a condominium-style complex, complete with restricted access, security cameras, in-house veterinary services and carefully prepared meals.\n\nThe seemingly luxurious conditions represent a state-of-the-art approach to biosecurity in which pigs — the main source of meat in China — are shielded from viruses, including the devastating African swine fever that wiped out half the nation’s hogs in the two years before the coronavirus pandemic emerged.\n\nThe rise of large hog farms also reflects shifting diets in China. Whereas Beijing focused on fighting hunger and eliminating poverty in past decades, rapid economic development and expanding incomes mean China’s 1.4 billion people are eating more meat, eggs and other animal proteins. That’s driving more-intensive animal production.\n(www.bloomberg.com, 02.08.2021. Adapted.)",
+   "enunciado": "The text",
+   "alternativas": {
+    "a": "describes vertical pig farms built to guarantee better biosecurity.",
+    "b": "questions the luxury of buildings aimed at hosting animals rather than humans.",
+    "c": "enumerates actions by the Chinese government to shield animals from a variety of deadly diseases.",
+    "d": "details the biotechnology methods employed in animal raising in China.",
+    "e": "advertises measures by the Chinese government to provide the population with more animal proteins."
+   },
+   "resposta": "a",
+   "explicacao": "The text is mainly about a new kind of pig farm: it opens with “China is taking hog biosecurity to new levels — 13 stories in fact” and describes a 13-storey building where pigs are “shielded from viruses”: vertical pig farms built for biosecurity. It does not question the luxury (the “seemingly luxurious conditions” are explained, not criticised), lists no government actions, gives no biotechnology methods and advertises nothing — the last paragraph explains the demand side (more meat in Chinese diets), which is context, not the subject."
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "unicamp-ingles-07",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Dear Members of the Harvard Community,\n\nFor years, the federal government’s grants to Harvard have helped lead to groundbreaking innovations. Recently, the federal government has threatened its partnerships over accusations of antisemitism on our campuses. A list of demands was issued, warning that Harvard must comply if we intend to “maintain our financial relationship with the government.” Most of these demands are unprecedented and represent direct governmental regulation of the “intellectual conditions” at Harvard.\n\nThey include requirements to audit the viewpoints of our students and faculty, and to “reduce their power” for their ideological views. We will not accept that. The University will not surrender its independence or relinquish its constitutional rights. No government should dictate what universities can teach and which areas of inquiry they can pursue.\n\nWe do not take our moral duties lightly and we have taken many steps to address and fight antisemitism on campus. However, this will not be achieved by assertions of power, unmoored from the law, to dictate how we operate.\n\nSincerely,\nAlan M. Garber\n(President of Harvard University)",
+   "fonte_texto": "Adaptado de https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/. Acesso em 07/05/2025.",
+   "enunciado": "Leia a carta acima.\n\nAssinale a alternativa correta em relação ao posicionamento do presidente de Harvard em sua carta.",
+   "alternativas": {
+    "a": "As acusações de antissemitismo feitas à universidade são inconstitucionais, por isso Garber se recusa a aceitar as demandas propostas pelo governo",
+    "b": "As comparações entre as ideologias de professores e de alunos são sem precedentes, por isso Garber se nega a abrir mão da liberdade de expressão da comunidade",
+    "c": "As justificativas do governo para interromper o financiamento são falhas, por isso Garber se nega a tomar medidas para resolver os problemas apontados",
+    "d": "As demandas do governo são uma tentativa de controle da autonomia das universidades, por isso Garber se recusa a acatar as exigências impostas"
+   },
+   "explicacao": "Garber chama as demandas de “direct governmental regulation of the intellectual conditions at Harvard” e conclui: “No government should dictate what universities can teach” — a universidade “will not surrender its independence”. É a defesa da autonomia universitária contra o controle do governo. Ele não diz que as acusações são inconstitucionais (o que é constitucional são os direitos da universidade), não fala em comparar ideologias e afirma explicitamente que já tomou medidas contra o antissemitismo.",
+   "resposta": "d",
+   "origem": "medicina"
   }
  ],
  "ingles-detail": [
@@ -34085,6 +34802,151 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O texto projeta o futuro em duas frases: \"total eclipses will recur for the next half-billion years\" e elas são \"one thing about the foreseeable future that, despite the dramatic technological and planetary changes ahead, will remain consistent with our past\". Elo com o passado coletivo — alternativa B. A alternativa A prevê raridade maior por causa do clima, e a recorrência é orbital; C atribui a previsão a inteligências artificiais, que no texto apenas talvez governem os descendentes; D fala em atenção da comunidade científica; e E restringe a observação aos polos, quando o texto diz que a maioria é visível dos polos ou do meio do oceano, não todas."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "ingles-2200319",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Many feel as if the covid-19 pandemic is stealing their present and jeopardising their future. But this unprecedented global public health emergency is also precipitating the destruction of our past, one piece at a time. Indeed, the pandemic has exacerbated the theft and trafficking of antiquities and historical manuscripts, eroding our collective memory and ability to share it with future generations. Although the theft of antiquities has been a problem since antiquity itself, its pace has increased during the pandemic, particularly in the Middle East and North Africa — areas rich in heritage sites.\n(Hamad Bin Abdulaziz Al-Kuwari. www.aljazeera.com, 30.07.2021. Adapted.)",
+   "enunciado": "According to the writer,",
+   "alternativas": {
+    "a": "covid-19 is robbing people of their expectations about the present and the future.",
+    "b": "both the pandemic and the trafficking of relics are to be seen as global emergencies.",
+    "c": "the pandemic has facilitated anti-ethical and even illegal attitudes, individual as well as collective ones.",
+    "d": "the stealing of antiquities should not surprise us since it is a practice as old as civilization.",
+    "e": "the theft of historical objects and documents has helped compromise humanity’s collective memory."
+   },
+   "resposta": "e",
+   "explicacao": "The passage states that the pandemic “has exacerbated the theft and trafficking of antiquities and historical manuscripts, eroding our collective memory and ability to share it with future generations” — the theft of objects and documents has helped compromise collective memory. The other options twist a phrase each: it is the pandemic that jeopardises the future, not covid stealing “expectations”; only the pandemic is called a global emergency; the text speaks of theft, not of “individual attitudes”; and the age of the practice is a concession (“although…”), not a reason not to be surprised."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "ingles-2200326",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Online, Generation Z (ages 9-24) has been criticising numerous aspects of mainstream Millennial (ages 25-40) style, namely their affections for side-parted hair and skinny jeans. In the process they have unleashed a tidal wave of bold, self-conscious and downright spiteful reactions from Millennials. The trending dispute is so impassioned, not due to a lifelong allegiance to the particular jeans or hairstyle in question, but because the accusation of being outdated has forced Millennials to face an uncomfortable truth: there's been a transfer of generational power. (Cassidy George. www.bbc.com, 22.02.2021. Adapted.)",
+   "enunciado": "According to the text, Generation Z’s criticism of mainstream Millenials",
+   "alternativas": {
+    "a": "reveals the lack of affection of youngsters towards older people.",
+    "b": "has sparked an excessively aggressive dialogue between the two groups.",
+    "c": "has been seen as unjustifiable judgement of one group towards the other.",
+    "d": "did not come out as heated a dispute as one would have expected.",
+    "e": "reflects the growth of the social influence of the former."
+   },
+   "resposta": "e",
+   "explicacao": "The text states, in its last sentence, why the dispute is so impassioned: “the accusation of being outdated has forced Millennials to face an uncomfortable truth: there’s been a transfer of generational power”. Gen Z’s criticism thus reflects the growth of the social influence of the former — Generation Z. The reactions are “bold, self-conscious and downright spiteful”, so the dispute is heated, not milder than expected; the text does not speak of lack of affection, calls no judgement unjustifiable, and “excessively aggressive dialogue” overstates a description of reactions."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "ingles-2200328",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Apart from the impact on the environment, increasing use of air conditioning (AC) could have social and political effects. A new paper by researchers from the University of California, Berkeley and the University of Mannheim set out to understand the relationships between climate, income and residential air conditioning. Their model suggested that wider use of AC will save lives that would otherwise be taken by heartstroke or the exacerbation of other health conditions — 550,000 a year by 2050 in India alone — but it will disproportionately benefit those with higher incomes. Poorer people without AC are more likely to be less productive or to die than those who can afford it. Heat hinders learning and lowers test scores, causing poorer children to fall behind. And the use of AC itself contributes to global warming, making life even hotter for everyone.\n(www.economist.com, 10.08.2021. Adapted.)",
+   "enunciado": "According to the text,",
+   "alternativas": {
+    "a": "air-conditioning use should be limited to places with exceedingly high temperatures.",
+    "b": "wider use of AC has saved lives, so its use should be fostered in special circumstances and countries.",
+    "c": "poor productivity of adults at work and of children at school result, to a great extent, from long- -term heat exposure.",
+    "d": "air-conditioning use can contradictorily add to the problem it is trying to mitigate.",
+    "e": "environmental and social-political burdens of AC must be seen as equally worrisome."
+   },
+   "resposta": "d",
+   "explicacao": "The final sentence is the point: “the use of AC itself contributes to global warming, making life even hotter for everyone” — air-conditioning adds to the very problem it tries to relieve, a contradiction. The text does not recommend limiting AC to hot places, does not say AC “has saved” lives (the model projects it will), attributes lower productivity to heat in general rather than “long-term exposure”, and never ranks environmental and social-political burdens as equally worrisome."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "unicamp-ingles-02",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Fotogramas",
+    "arquivo": "assets/provas/unicamp-2026-q02.jpg",
+    "descricao": "Três fotogramas do filme “Ainda Estou Aqui”, rotulados Quadro A, Quadro B e Quadro C. Quadro A: close-up do rosto de Eunice (Fernanda Torres) olhando para fora do quadro. Quadro B: sala da casa com uma pessoa fechando as cortinas ao fundo, Eunice em primeiro plano e uma jovem à direita. Quadro C: o casal se beija no interior da casa, visto por trás dos ombros de um militar."
+   },
+   "texto_apoio": "30 minutes into the film, before any of these scenes, everything in the movie conveys a sense of normalcy. From this point onward, though, this frame revolves around subtraction: of light, as the drapes are shut, of sounds from the outside, of music. In this other one, we see the last intimacy moment between the couple, framed by the military officers, emphasizing a sense of suffocation in what was once a safe place: the family house. Then, we see the first of the only two close-ups in the entire film. We saved it for Eunice’s last glance at Rubens. From here on, we are with her. “I'm Still Here” becomes her film.",
+   "fonte_texto": "Imagens e texto adaptados de https://www.youtube.com/watch?v=mtXCWXkgCFg. Acesso em 01/05/2025.",
+   "enunciado": "Em um vídeo publicado no canal do Youtube do The New York Times, o diretor de “Ainda Estou Aqui” descreve cenas do filme. Apresenta-se, acima, a transcrição da fala do diretor. Observe os três quadros extraídos do filme.\n\nAssinale a alternativa que apresenta os quadros na ordem em que foram descritos no texto.",
+   "alternativas": {
+    "a": "Quadro A, Quadro C, Quadro B",
+    "b": "Quadro B, Quadro C, Quadro A",
+    "c": "Quadro C, Quadro B, Quadro A",
+    "d": "Quadro B, Quadro A, Quadro C"
+   },
+   "explicacao": "O diretor descreve primeiro a subtração de luz “as the drapes are shut” — a cena das cortinas sendo fechadas, Quadro B. Depois, “the last intimacy moment between the couple, framed by the military officers” — o beijo do casal visto por trás do militar, Quadro C. Por fim, o primeiro dos dois únicos close-ups do filme, “Eunice’s last glance at Rubens” — o rosto em primeiro plano, Quadro A. A ordem é B, C, A.",
+   "resposta": "b",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "unicamp-ingles-04",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "U.S. Inflation Mild Ahead of Expected Jump From Tariffs\nEconomists and policymakers are bracing for inflation to reaccelerate as companies adapt to the trade war.",
+   "fonte_texto": "Adaptado de https://www.nytimes.com/2025/05/13/business/inflation-prices-tariffs.html. Acesso em 15/05/2025.",
+   "enunciado": "Segundo o texto,",
+   "alternativas": {
+    "a": "o governo dos EUA está se preparando para um salto na inflação diante da guerra comercial de tarifas",
+    "b": "a inflação nos EUA se mantém moderada, mas economistas e legisladores estão se preparando diante da expectativa de alta das tarifas",
+    "c": "a inflação nos EUA deve se manter moderada, pois as empresas estão se adaptando ao aumento das tarifas",
+    "d": "as empresas dos EUA estão se adaptando à aceleração da inflação diante da guerra de tarifas estabelecida pelo governo"
+   },
+   "explicacao": "A manchete diz que a inflação está “mild” (moderada) “ahead of expected jump from tariffs”, e o subtítulo completa: economistas e formuladores de política (“policymakers”) “are bracing for inflation to reaccelerate” conforme as empresas se adaptam à guerra comercial. Ou seja: hoje moderada, com expectativa de alta ligada às tarifas. Quem se prepara não é “o governo”, e a adaptação das empresas é à guerra tarifária, não causa de moderação nem reação a uma aceleração já ocorrida.",
+   "resposta": "b",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "unicamp-ingles-05",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Obra de arte",
+    "arquivo": "assets/provas/unicamp-2026-q05.jpg",
+    "descricao": "Duas telas de Glenn Ligon (texto 2): frases em letras de fôrma pretas estampadas com estêncil sobre fundo branco, repetidas linha após linha — “I DO NOT ALWAYS FEEL COLORED” à esquerda e “I FEEL MOST COLORED WHEN I AM THROWN AGAINST A SHARP WHITE BACKGROUND” à direita — que vão se borrando e ficando ilegíveis conforme descem pela tela."
+   },
+   "texto_apoio": "Texto 1\n“I do not always feel colored (…). I feel most colored when I am thrown against a sharp white background.”\n(Adaptado de HURSTON, Z. N. How it feels to be colored me. 1928.)\n\nTexto 2\n[obra de Glenn Ligon reproduzida acima]\n(Disponível em https://whitney.org/artists/3425. Acesso em 29/04/2025.)\n\nTexto 3\nThe artist Glenn Ligon has stenciled the sentences over and over until the words dissolve into abstract patterns. He built on a text by Zora Neale Hurston, who describes leaving the protective black community of her childhood and suddenly confronting the issue of race. The smearing in the painting’s illegible words embody her confusion about this, something Ligon builds on: “Oil paint wants to spread out and smudge. After trying to make perfect letters, I realized that the smudging and disappearance of the letters was more interesting than trying to make perfect letters.”\n(Adaptado de https://whitney.org/media/720. Acesso em 29/04/2025.)",
+   "enunciado": "Apresenta-se uma citação (texto 1) que originou uma obra de arte (texto 2). Há também um parágrafo (texto 3) que descreve e explica essa obra.\n\nDe acordo com o texto 3, é correto afirmar que",
+   "alternativas": {
+    "a": "a ilegibilidade em parte das imagens é intencional, pois reforça a invisibilização da identidade negra em contextos brancos, como sugere a autora do texto 1",
+    "b": "os efeitos da tinta usada por Glenn Ligon aludem à confusão desse artista quanto à sua própria identidade racial, semelhante ao que relata a autora do texto 1",
+    "c": "a repetição de frases nas imagens é proposital, pois representa a recusa de algumas pessoas em se verem como negras, como sugere a autora do texto 1",
+    "d": "os borrões em parte das imagens são um efeito da técnica usada por Glenn Ligon e aludem às vivências raciais da autora do texto 1"
+   },
+   "explicacao": "O texto 3 diz que os borrões (“smearing”, “smudging”) nascem da técnica — a tinta a óleo “wants to spread out and smudge”, e Ligon percebeu que isso era mais interessante que letras perfeitas — e que as palavras ilegíveis “embody HER confusion”, isto é, a confusão de Zora Neale Hurston ao confrontar a questão racial fora da comunidade negra da infância. A confusão é da autora, não do artista; e o texto não fala em invisibilização nem em recusa de identidade.",
+   "resposta": "d",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "unicamp-ingles-06",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Incels: Masculinity in the Transition to Adulthood\n\nIncels are men who are members of an online community that experiences an unmet desire for sex and blame women for their struggle. Since 2019 there have been several mass murder attacks committed by Incels motivated by Incel ideology creating a threat of future violence. While the vast majority of Incels do not commit such attacks, researchers have begun to study Incels to prevent violence and uncover the true nature of this community. The study of Incels is incipient; therefore, more knowledge about interventions to address the struggles of involuntary celibacy is needed. This paper emphasizes the masculinity strain experienced by Incels who attempt to perform hegemonic masculinity as part of the transition to adulthood but fall short because of their lack of sexual activity. This work proposes the creation and implementation of Incel-specific, online therapeutic interventions and continued research directly with the Incel community to uncover the complexities of Incel experiences.",
+   "fonte_texto": "Adaptado de https://link.springer.com/article/10.1007/s12119-024-10201-7. Acesso em 16/05/2025.",
+   "enunciado": "Leia o resumo de um artigo científico.\n\nDe acordo com o resumo, é correto afirmar que",
+   "alternativas": {
+    "a": "“Incel” é uma comunidade majoritariamente constituída por homens que culpam mulheres por questionarem sua masculinidade",
+    "b": "as pesquisas sobre a comunidade “Incel” ainda são escassas, por isso há a necessidade de mais estudos que definam teoricamente a abstinência sexual",
+    "c": "homens “Incel”, muitas vezes, tentam exercer uma masculinidade dominante que resulta em expectativas frustradas devido à inatividade sexual",
+    "d": "a pesquisa propõe práticas terapêuticas que integrem homens “Incel” a outros grupos sociais para melhor compreender as complexidades da masculinidade"
+   },
+   "explicacao": "O resumo destaca a “masculinity strain” de incels que “attempt to perform hegemonic masculinity ... but fall short because of their lack of sexual activity” — tentam a masculinidade dominante e fracassam pela falta de atividade sexual. Eles culpam as mulheres pela própria frustração sexual, não por questionarem sua masculinidade; a lacuna apontada é de intervenções, não de definição teórica da abstinência; e as intervenções propostas são on-line e específicas para incels, não de integração a outros grupos.",
+   "resposta": "c",
+   "origem": "medicina"
   }
  ],
  "ingles-vocabulary": [
@@ -35330,6 +36192,206 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Os três trocadilhos exploram expressões que têm um sentido literal e outro idiomático, e o riso vem de ler a idiomática ao pé da letra. \"Up to something\" é tramar algo, mas escadas de fato sobem; \"then it hit me\" é \"então me dei conta\", e a bola realmente acerta; \"take a day off\" é tirar um dia de folga, e na fábrica de calendários seria remover um dia. Alternativa C. A alternativa A descreve homófonos, e as palavras aqui são as mesmas; B fala em ordem sintática invertida; D, em vocábulos eruditos; e E, em aliterações e onomatopeias, ausentes nos três."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "ingles-2200316",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Electric vehicles are an important part of countries’ efforts to address climate change. In the U.S., for example, gas-powered vehicles are the biggest single source of greenhouse gases, producing more than a quarter of the country’s total emissions. “A rapid shift from fossil-fueled combustion engines to electric vehicles is an essential step toward mitigating climate change,” says Coral Davenport, nytimes reporter on environmental issues. “You can’t solve climate change without getting rid of them.” The U.S. is moving to strengthen pollution standards as well.\n\nThe country’s push is also an attempt to keep American industry competitive. Europe and China are using regulations and subsidies for automakers to bolster electric vehicles. Europe has proposed banning sales of gas-powered cars by 2035. Chinese automakers are expanding, with government help, into new markets around the world.\n(www.nytimes.com, 06.08.2021. Adapted.)",
+   "enunciado": "In the fragment from the first paragraph “You can’t solve climate change without getting rid of «them».”, the highlighted term refers to",
+   "alternativas": {
+    "a": "gas-powered vehicles.",
+    "b": "greenhouse gases.",
+    "c": "fossil-fueled combustion engines.",
+    "d": "pollution standards.",
+    "e": "the country’s total emissions."
+   },
+   "resposta": "c",
+   "explicacao": "The sentence is Coral Davenport’s second line, right after “A rapid shift from fossil-fueled combustion engines to electric vehicles is an essential step toward mitigating climate change”. The pronoun “them” refers to what has to be gotten rid of to solve climate change — the thing being replaced: fossil-fueled combustion engines. “Gas-powered vehicles” is the tempting near-miss from two sentences earlier, but the pronoun picks up the plural noun inside the same quotation; greenhouse gases, pollution standards and total emissions are not what one “gets rid of” in that clause."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "ingles-2200317",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Electric vehicles are an important part of countries’ efforts to address climate change. In the U.S., for example, gas-powered vehicles are the biggest single source of greenhouse gases, producing more than a quarter of the country’s total emissions. “A rapid shift from fossil-fueled combustion engines to electric vehicles is an essential step toward mitigating climate change,” says Coral Davenport, nytimes reporter on environmental issues. “You can’t solve climate change without getting rid of them.” The U.S. is moving to strengthen pollution standards as well.\n\nThe country’s push is also an attempt to keep American industry competitive. Europe and China are using regulations and subsidies for automakers to bolster electric vehicles. Europe has proposed banning sales of gas-powered cars by 2035. Chinese automakers are expanding, with government help, into new markets around the world.\n(www.nytimes.com, 06.08.2021. Adapted.)",
+   "enunciado": "In the fragment from the second paragraph “Europe and China are using regulations and subsidies for automakers to «bolster» electric vehicles”, the highlighted term can be replaced, without affecting the sentence’s meaning, by",
+   "alternativas": {
+    "a": "stimulate.",
+    "b": "produce.",
+    "c": "design.",
+    "d": "launch.",
+    "e": "prioritise."
+   },
+   "resposta": "a",
+   "explicacao": "The word “bolster” means to support, strengthen, boost — governments use regulations and subsidies to give electric vehicles a push. “Stimulate” is the synonym that keeps that meaning. Regulations and subsidies do not produce, design or launch cars, and “prioritise” says something else: to rank first, not to strengthen."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "ingles-2200320",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Many feel as if the covid-19 pandemic is stealing their present and jeopardising their future. But this unprecedented global public health emergency is also precipitating the destruction of our past, one piece at a time. Indeed, the pandemic has exacerbated the theft and trafficking of antiquities and historical manuscripts, eroding our collective memory and ability to share it with future generations. Although the theft of antiquities has been a problem since antiquity itself, its pace has increased during the pandemic, particularly in the Middle East and North Africa — areas rich in heritage sites.\n(Hamad Bin Abdulaziz Al-Kuwari. www.aljazeera.com, 30.07.2021. Adapted.)",
+   "enunciado": "In the fragment “this «unprecedented» global public health emergency”, the highlighted word can be replaced, with no change in meaning, by",
+   "alternativas": {
+    "a": "undesired.",
+    "b": "unparalleled.",
+    "c": "unanticipated.",
+    "d": "unmanageable.",
+    "e": "unequivocal."
+   },
+   "resposta": "b",
+   "explicacao": "The word “unprecedented” means never seen before, without precedent — its synonym here is “unparalleled”. “Unanticipated” (not foreseen) is close but says something about expectation, not about there being no earlier case; “undesired”, “unmanageable” and “unequivocal” change the meaning entirely."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "ingles-2200322",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "China is taking hog biosecurity to new levels — 13 stories in fact.\n\nThat’s the height of a building in southern China where more than 10,000 pigs are kept in a condominium-style complex, complete with restricted access, security cameras, in-house veterinary services and carefully prepared meals.\n\nThe seemingly luxurious conditions represent a state-of-the-art approach to biosecurity in which pigs — the main source of meat in China — are shielded from viruses, including the devastating African swine fever that wiped out half the nation’s hogs in the two years before the coronavirus pandemic emerged.\n\nThe rise of large hog farms also reflects shifting diets in China. Whereas Beijing focused on fighting hunger and eliminating poverty in past decades, rapid economic development and expanding incomes mean China’s 1.4 billion people are eating more meat, eggs and other animal proteins. That’s driving more-intensive animal production.\n(www.bloomberg.com, 02.08.2021. Adapted.)",
+   "enunciado": "In the last sentence of the text “«That’s» driving more-intensive animal production.”, the highlighted term refers to:",
+   "alternativas": {
+    "a": "Beijing’s huge hog farms.",
+    "b": "China’s population of 1.4 billion people.",
+    "c": "Beijing’s fight against hunger and poverty.",
+    "d": "Chinese people’s new dieting behavior.",
+    "e": "China’s need to feed their huge population."
+   },
+   "resposta": "d",
+   "explicacao": "The previous sentence says China’s 1.4 billion people “are eating more meat, eggs and other animal proteins”; the pronoun “that” refers to the new eating pattern, which is what drives more-intensive production. So the referent is the Chinese people’s new dieting behavior. The population size, the fight against hunger and the hog farms are all in the paragraph, but the demonstrative points to the immediately preceding statement, and the farms are the RESULT of the driving, not its cause."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "ingles-2200324",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Notwithstanding the current turbulent socio-economic conditions in the country, Vice President Yemi Osinbajo has insisted that generating economic growth, developing human capital, and building Nigeria’s infrastructural backbone is doable. To achieve this, Osinbajo said all tiers of government and critical partners ought to be focused, open-minded and collaborative in meeting shared aspirations to provide better and decent jobs for Nigerians, especially the youths.\n(Terhemba Daka. www.guardian.ng, 06.08.2021. Adapted.)",
+   "enunciado": "The word which introduces the paragraph can be replaced, with no change in meaning, by",
+   "alternativas": {
+    "a": "in spite of.",
+    "b": "on account of.",
+    "c": "as a result of.",
+    "d": "in addition to.",
+    "e": "as an alternative to."
+   },
+   "resposta": "a",
+   "explicacao": "“Notwithstanding the current turbulent socio-economic conditions … Osinbajo has insisted that generating economic growth … is doable”: the vice-president says the goals are achievable DESPITE the conditions. The word “notwithstanding” means “despite”, so “in spite of” is the synonym that keeps that concessive value. “On account of” and “as a result of” would make the turbulence the reason for the optimism; “in addition to” and “as an alternative to” do not fit the logic of the sentence."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "ingles-2200330",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "ABSTRACT. This study aimed to investigate the point of intersection of teachers’ and learners’ perceptions regarding language learning strategies. Using an original questionnaire developed in a classroom situation, the study examined reported frequency of strategy use by international students and teacher perceptions regarding the importance of strategy use. There was a high level of accord (71 per cent) between strategies which students reported using highly frequently and those which teachers reported regarding as highly important, an encouraging finding somewhat at variance with the results of some previous studies. Implications of these results for the teaching/learning situation are discussed. (Carol Griffiths. www.academic.oup.com. Adapted.)",
+   "enunciado": "The description on the final lines of the text “an encouraging finding somewhat at variance with the results of some previous studies” means that",
+   "alternativas": {
+    "a": "the findings were completely different from what the researchers had expected.",
+    "b": "the main research finding confirmed antecipations by the researcher.",
+    "c": "the study reached results which, to some extent, differed from those in former research.",
+    "d": "arriving at findings which confirmed results from prior studies was encouraging.",
+    "e": "finding variances was a somewhat simple but encouraging result of the research process."
+   },
+   "resposta": "c",
+   "explicacao": "The expression “somewhat at variance with” means partly different from: the 71 per cent agreement between students’ reported strategies and teachers’ perceptions differed, to some extent, from what previous studies had found — and that difference was described as encouraging. So the study reached results which, to some extent, differed from former research. “Completely different” overstates “somewhat”; the text says nothing about the researcher’s anticipations; and “confirmed results from prior studies” is the opposite of “at variance with”."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "unicamp-ingles-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Manchete",
+    "arquivo": "assets/provas/unicamp-2026-q01.jpg",
+    "descricao": "Reprodução da manchete do Los Angeles Times com foto de Fernanda Torres segurando o Globo de Ouro: “‘I’m Still Here’ star Fernanda Torres pulls off Golden Globes’ biggest upset. The Brazilian performer won the female actor in a motion picture, drama category, besting bigger stars such as Angelina Jolie, Nicole Kidman and Pamela Anderson.”"
+   },
+   "texto_apoio": "Texto 1\n‘I’m Still Here’ star Fernanda Torres pulls off Golden Globes’ biggest upset\nThe Brazilian performer won the female actor in a motion picture, drama category, besting bigger stars such as Angelina Jolie, Nicole Kidman and Pamela Anderson.\n(Disponível em https://www.latimes.com/entertainment-arts/awards/story/2025-01-05/fernanda-torres-golden-globes-2025-im-still-here. Acesso em 22/05/2025.)\n\nTexto 2\nUPSET\n1. noun [C]\n− an outcome that goes against what was considered to be the most likely result.\n2. adjective\n− unhappy, worried, angry, or disappointed because something unpleasant has happened.\n(Adaptado de https://www.collinsdictionary.com/dictionary/english/upset. Acesso em 22/05/2025.)",
+   "enunciado": "Leia o texto 1 e as informações do texto 2.\n\nO texto 1 causou indignação nas redes sociais. Algumas pessoas comentaram: “Se eles estão upset, a gente tá happy!”. O mal-entendido se deve à polissemia, em inglês, da palavra \"upset\". É correto afirmar que, no texto 1, “upset” é usada com o sentido da",
+   "alternativas": {
+    "a": "primeira definição mostrada no texto 2 e, por isso, tem conotação sarcástica ao comparar as atrizes citadas",
+    "b": "segunda definição mostrada no texto 2 e, por isso, não assume conotação crítica",
+    "c": "primeira definição mostrada no texto 2 e, por isso, não desqualifica a vitória da atriz",
+    "d": "segunda definição mostrada no texto 2 e, por isso, estabelece uma hierarquia entre as atrizes citadas"
+   },
+   "explicacao": "Na manchete, “upset” é substantivo (“the biggest upset”): um resultado que contraria o favoritismo — a primeira definição do dicionário. A atriz brasileira venceu “bigger stars”, ou seja, a surpresa é elogiosa e não desqualifica a vitória; quem leu “upset” como adjetivo (“chateado”) criou o mal-entendido das redes. Não há sarcasmo na comparação: o texto apenas registra que as concorrentes eram mais famosas.",
+   "resposta": "c",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "ita-2026-q39",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Na passagem “Here, it is possible to argue cogently that progress is in the nature of things.”, a palavra COGENTLY pode ser melhor traduzida por",
+   "alternativas": {
+    "a": "urgentemente.",
+    "b": "indiscutivelmente.",
+    "c": "persuasivamente.",
+    "d": "indubitavelmente.",
+    "e": "concomitantemente."
+   },
+   "resposta": "c",
+   "explicacao": "Cogently significa de modo claro, lógico e convincente; entre as opções, 'persuasivamente' preserva esse sentido."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "ita-2026-q41",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Check the alternative that best rephrases the following sentence, without altering its meaning: “Speaking of all-time great books, it seems like just about every bestseller has been turned into a movie that either gives the book a bad rap or receives great reviews and overshadows the book.”",
+   "alternativas": {
+    "a": "Speaking of classic books, it appears that nearly every bestseller has been adapted into a movie that either tarnishes the book’s image or receives rave reviews and outshines the book.",
+    "b": "Speaking of iconic books, it seems that almost every bestseller has been turned into a movie that either improves the book’s reputation or gets stellar reviews and eclipses the book.",
+    "c": "Speaking of substandard books, it seems that nearly every bestseller has been made into a movie that either harms the book’s reputation or earns enthusiastic reviews and surpasses the book.",
+    "d": "Speaking of timeless books, it appears that virtually every bestseller has been transformed into a movie that either damages the book’s image or gets annoying reviews and brightens the book.",
+    "e": "Speaking of legendary books, it seems that just about every bestseller has been converted into a film that either spoils the book’s reputation or gets glowing reviews and praises the book."
+   },
+   "resposta": "a",
+   "explicacao": "A alternativa A conserva todas as equivalências: all-time great/classic, just about/nearly, turned into/adapted, bad rap/tarnishes the image, great/rave reviews e overshadows/outshines. As demais alteram ao menos uma relação de sentido. This is the closest in meaning because every key expression is preserved."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "ita-2026-q43",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Na passagem “Fellow teachers nationwide face the same challenge, which explains why more states and districts are moving to limit or outright ban cellphones in the classroom”, a palavra OUTRIGHT pode ser substituída, sem prejuízo de sentido, por",
+   "alternativas": {
+    "a": "partial.",
+    "b": "legal.",
+    "c": "thorough.",
+    "d": "confined.",
+    "e": "illicit."
+   },
+   "resposta": "c",
+   "explicacao": "Outright qualifica uma proibição completa, total. Thorough é a única opção com esse valor de abrangência; partial e confined o contradizem, e legal/illicit tratam de legalidade."
   }
  ],
  "matematica-geometria": [
@@ -39131,6 +40193,257 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "As colheres têm formatos iguais, então são sólidos semelhantes: quando o comprimento é multiplicado por 1,6, o volume é multiplicado por 1,6³. E 1,6³ = 4,096, um pouco mais que 4. A colher de sopa enche 4 colheres de sobremesa e sobra um resto pequeno demais para completar a quinta — alternativa D. A alternativa B, 2, corresponderia a escalar pelo quadrado, como se o que crescesse fosse área; A, 1, ignoraria a escala; e C e E resultam de arredondar 1,6³ para baixo ou para cima sem fazer a conta."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "matematica-2200111",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Em um sistema cartesiano ortogonal, considere uma circunferência de centro C(1, 3) com uma corda PQ e os pontos A(1, –2) e B(5, 0) que dividem essa corda em três segmentos congruentes, na ordem P, A, B, Q. O raio dessa circunferência é",
+   "alternativas": {
+    "a": "√119",
+    "b": "√65",
+    "c": "√30",
+    "d": "√42",
+    "e": "√105"
+   },
+   "resposta": "b",
+   "explicacao": "Se A e B dividem PQ em três partes iguais, o vetor AB = (4, 2) é um terço da corda: P = A − (4, 2) = (−3, −4) e Q = B + (4, 2) = (9, 2). O raio é a distância do centro a qualquer extremidade: CP = √((1 + 3)² + (3 + 4)²) = √(16 + 49) = √65 — e CQ = √(64 + 1) = √65 confere. √30 e √42 aparecem quando se toma a distância do centro a A ou a B, que são pontos internos da corda, não da circunferência."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "matematica-2200112",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "No sistema cartesiano, os pontos A(3, 1), B(7, 3) e D(x_D, y_D) são colineares, com D situado além de B na semirreta AB, e o triângulo BCD tem área 9, com C = (9, 7). O valor de x_D + y_D é igual a",
+   "alternativas": {
+    "a": "18.",
+    "b": "19.",
+    "c": "20.",
+    "d": "21.",
+    "e": "22."
+   },
+   "resposta": "b",
+   "explicacao": "A reta AB tem inclinação (3 − 1)/(7 − 3) = 1/2: x − 2y − 1 = 0. A distância de C(9, 7) a ela é |9 − 14 − 1|/√5 = 6/√5, que é a altura do triângulo BCD relativa ao lado BD. Área 9 = ½·BD·(6/√5) → BD = 3√5. Andando de B na direção (2, 1), cujo comprimento é √5, três vezes: D = (7 + 6, 3 + 3) = (13, 6), e x_D + y_D = 19. (O outro ponto a essa distância, (1, 0), estaria antes de A e daria soma 1, que não está entre as opções.)"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "matematica-2200113",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Uma parábola tem equação y² = (–1)ⁿ · 14(x – 2), em que n é um número inteiro. O esboço do gráfico dessa parábola revela que sua concavidade está para a esquerda, ou seja, todos os pontos que representam esse gráfico estão à esquerda de uma reta x = v₀, para algum v₀ real. Nessas condições, o foco e a diretriz dessa parábola, e o número n são, respectivamente,",
+   "alternativas": {
+    "a": "(0; 2), x = 1,5 e ímpar.",
+    "b": "(–2; 0), x = 2 e par.",
+    "c": "(0; 3,5), x = –2 e par.",
+    "d": "(–1,5; 0), x = – 0,5 e ímpar.",
+    "e": "(–1,5; 0), x = 5,5 e ímpar."
+   },
+   "resposta": "e",
+   "explicacao": "y² = 4p(x − x_v) abre para a esquerda quando 4p < 0, então (−1)ⁿ = −1 e n é ímpar: y² = −14(x − 2). Vértice (2, 0), 4p = −14 → p = −3,5. Foco a p do vértice no eixo x: (2 − 3,5; 0) = (−1,5; 0); diretriz do outro lado: x = 2 + 3,5 = 5,5. Confere com a última alternativa. A opção com diretriz x = −0,5 coloca foco e diretriz do mesmo lado do vértice; as que dizem \"par\" fariam a parábola abrir para a direita."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "matematica-2200124",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "O rombicosidodecaedro é um sólido formado por 62 faces, todas polígonos regulares. Cada vértice do rombicosidodecaedro é um vértice em comum de dois quadrados, um triângulo e um pentágono. O número de faces quadradas no rombicosidodecaedro é",
+   "alternativas": {
+    "a": "24.",
+    "b": "28.",
+    "c": "30.",
+    "d": "32.",
+    "e": "36."
+   },
+   "resposta": "c",
+   "explicacao": "Seja V o número de vértices. Cada vértice toca 1 triângulo, 2 quadrados e 1 pentágono; contando incidências vértice-face: 3T = V, 4Q = 2V e 5P = V, ou seja, T = V/3, Q = V/2, P = V/5. Como T + Q + P = 62: V(1/3 + 1/2 + 1/5) = 62 → V·31/30 = 62 → V = 60. Logo Q = 30 (com T = 20 e P = 12, que fecham 62). 24, 28, 32 e 36 não são compatíveis com uma contagem de vértices inteira e 62 faces."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "unicamp-matematica-02",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Mapa",
+    "arquivo": "assets/provas/unicamp-2026-q47.jpg",
+    "descricao": "Mapa do litoral norte e nordeste do Brasil (do Amapá a Pernambuco), com o limite marítimo de 200 milhas em vigor até então, a nova fronteira brasileira e, hachurada, a nova área marítima conquistada pelo Brasil, no Oceano Atlântico, incluindo Fernando de Noronha, Atol das Rocas e o Arquipélago de São Pedro e São Paulo."
+   },
+   "enunciado": "Em 2025, a Comissão de Limites da Plataforma Continental (CLPC), da Organização das Nações Unidas (ONU), aprovou uma proposta do Brasil que pedia a ampliação da plataforma continental na costa do litoral norte, como indicado na figura. A decisão reconhece o direito do Brasil de explorar a Margem Equatorial, em uma área equivalente à área territorial da Alemanha.\n\nO cálculo de área de figuras planas irregulares envolve em geral noções complexas de matemática. No caso de áreas de figuras que estão impressas e/ou desenhadas em um papel, pode-se empregar um método prático, que considera a relação entre o peso do papel por unidade de área.\n\nPara calcular a área da região recentemente incorporada ao território brasileiro, um mapa contendo esta região, na escala 1:5.000.000 — isto é, 1 cm no papel equivale a 5.000.000 cm no local — foi impresso em um papel cuja relação peso/área é de 75 g/m². A seguir, a parte do mapa referente a esta região foi recortada e pesada, obtendo-se 1,0815 g.\n\nA partir desses dados, é correto afirmar que a área obtida foi:",
+   "fonte_texto": "Texto e mapas adaptados de https://g1.globo.com/economia/noticia/2025/03/27/brasil-area-maritima-decisao-onu.ghtml. Acesso em 16/06/2025.",
+   "alternativas": {
+    "a": "359.900 km²",
+    "b": "360.100 km²",
+    "c": "360.300 km²",
+    "d": "360.500 km²"
+   },
+   "explicacao": "Área do recorte de papel: 1,0815 g ÷ 75 g/m² = 0,01442 m² = 144,2 cm². Na escala 1:5.000.000, 1 cm no papel são 5.000.000 cm = 50 km no terreno, logo 1 cm² de papel equivale a 50 × 50 = 2.500 km². Área real: 144,2 × 2.500 = 360.500 km².",
+   "resposta": "d",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "ita-2023-q39",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere:\nI. Se P é convexo e tem n lados iguais, então é regular.\nII. Se os seis ângulos internos de um hexágono convexo, em ordem crescente, formam uma PA, a soma do menor e do maior é 240°.\nIII. Existe polígono convexo de 100 lados cujos ângulos internos, em ordem crescente, formam PA de razão 1°.\n\nÉ (são) sempre verdadeira(s)",
+   "alternativas": {
+    "a": "apenas I.",
+    "b": "apenas II.",
+    "c": "apenas III.",
+    "d": "apenas II e III.",
+    "e": "nenhuma."
+   },
+   "resposta": "b",
+   "explicacao": "I é falsa: equilátero não implica equiângulo. Em qualquer PA de seis termos, a soma é três vezes a soma dos extremos; como a soma interna do hexágono é 720°, os extremos somam 240°, validando II. Em III, a média teria de ser 176,4°, e com razão 1° o maior ângulo ultrapassaria 180°, contrariando a convexidade."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "ita-2023-q42",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Seja ABC um triângulo retângulo tal que ∠BAC=30°. Tome D na hipotenusa AC e retas r e s por D, paralelas a AB e BC. Se E=r∩BC, F=s∩AB e BC=1, o menor valor possível de EF é",
+   "alternativas": {
+    "a": "√2/5.",
+    "b": "√2/2.",
+    "c": "√3/3.",
+    "d": "√3/2.",
+    "e": "√3."
+   },
+   "resposta": "d",
+   "explicacao": "Colocando A=(0,0), B=(√3,0) e C=(√3,1), parametriza-se D na hipotenusa. As projeções paralelas dão EF² como uma quadrática no parâmetro; seu vértice ocorre no ponto médio da hipotenusa e fornece EF²=3/4. Logo o mínimo é √3/2."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "ita-2023-q44",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere a hipérbole H: x² − y²/4 = 1. Seja T o triângulo de vértices P,F₁,F₂, em que F₁ e F₂ são os focos e P∈H. Sabendo que o perímetro de T é 5√5, o produto das medidas dos lados de T é",
+   "alternativas": {
+    "a": "41√5/2.",
+    "b": "41/4.",
+    "c": "41√5/4.",
+    "d": "41/8.",
+    "e": "41√5/8."
+   },
+   "resposta": "a",
+   "explicacao": "Na hipérbole, a=1, b=2 e c=√5, então F₁F₂=2√5. Se u=PF₁ e v=PF₂, u+v=3√5 pelo perímetro e |u−v|=2a=2. Logo uv=[(u+v)²−(u−v)²]/4=(45−4)/4=41/4. Multiplicando pela base 2√5, obtém-se 41√5/2."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "ita-2023-q46",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "A hipotenusa de um triângulo retângulo mede 10 cm. O volume do sólido gerado pela rotação do triângulo em torno de um eixo que contém a hipotenusa é 30π cm³. O perímetro do triângulo, em cm, é",
+   "alternativas": {
+    "a": "10+4√7.",
+    "b": "10+5√7.",
+    "c": "10+2√10.",
+    "d": "10+3√10.",
+    "e": "10+4√10."
+   },
+   "resposta": "e",
+   "explicacao": "A rotação forma dois cones com base comum. Se h é a altura à hipotenusa, o volume total é (πh²/3)·10, logo h=3. Para catetos a,b, ab=10h=30 e a²+b²=100; então (a+b)²=160 e a+b=4√10. O perímetro é 10+4√10."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "ita-2026-q05",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma circunferência é dividida em seis partes iguais pelos pontos A, B, C, D, E, F, designados nessa ordem. Os pontos A, C, E são vértices de um triângulo equilátero, os pontos B, D, F são vértices de um segundo triângulo equilátero. A sobreposição desses dois triângulos define uma estrela de seis pontas denominada hexagrama. Se a área desse hexagrama é 25√3 cm², então a área do quadrado inscrito na circunferência mede",
+   "alternativas": {
+    "a": "10 cm².",
+    "b": "25 cm².",
+    "c": "40 cm².",
+    "d": "50 cm².",
+    "e": "75 cm²."
+   },
+   "resposta": "d",
+   "explicacao": "Se R é o raio, cada triângulo equilátero inscrito tem área 3√3R²/4 e a interseção central, um hexágono regular de lado R/√3, tem área √3R²/2. A união dos dois triângulos mede, portanto, √3R². Igualando a 25√3, vem R²=25; o quadrado inscrito tem área 2R²=50 cm²."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "ita-2026-q09",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere a reta r: 3x + 4y = −15 e a parábola P: y = x² + x + 6 com vértice V. Seja t a reta tangente a P, que tem coeficiente angular negativo e forma um ângulo de 45° com r. Sendo A o ponto de tangência de t a P e B o ponto de interseção de r e t, a área do triângulo ABV é",
+   "alternativas": {
+    "a": "13/500.",
+    "b": "25/4.",
+    "c": "105/8.",
+    "d": "147/8.",
+    "e": "126/5."
+   },
+   "resposta": "d",
+   "explicacao": "A reta r tem inclinação −3/4. A tangente negativa que forma 45° com ela tem inclinação −7; como y' = 2x + 1, o ponto de tangência é A = (−4,18) e t: y = −7x − 10. A interseção com r é B = (−1,−3), enquanto V = (−1/2,23/4). O determinante das coordenadas fornece área 147/8."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "ita-2026-q04",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Os vértices de um polígono são todos os números complexos não nulos que satisfazem a equação iz² = 2z̄. A área desse polígono é",
+   "alternativas": {
+    "a": "√3.",
+    "b": "2√3.",
+    "c": "3√3.",
+    "d": "4√3.",
+    "e": "5√3."
+   },
+   "resposta": "c",
+   "explicacao": "Escrevendo z = re^{iθ}, a equação dá r = 2 e 3θ + π/2 = 2kπ. As três soluções são vértices de um triângulo equilátero de raio circunscrito 2; seu lado é 2√3 e sua área é 3√3. Na linguagem de números complexos, essas raízes complexas são descritas pela forma polar e pelo argumento do número complexo."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "ita-2026-q12",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere m ∈ ℝ positivo. A sequência rₖ é uma progressão geométrica crescente de termos positivos de razão q e termo inicial r₁ = q. As circunferências Cₖ: (x−rₖ)² + (y−mrₖ)² = rₖ² são duas a duas tangentes externamente, nessa ordem. A expressão de q em função de m é",
+   "alternativas": {
+    "a": "(√(m²+1)+1)/m.",
+    "b": "((√(m²+1)+1)/m)².",
+    "c": "(√(m²+1)−1)/m.",
+    "d": "((√(m²+1)−1)/m)².",
+    "e": "(m²+1)/m."
+   },
+   "resposta": "b",
+   "explicacao": "A distância entre centros consecutivos é (q−1)rₖ√(m²+1), e a tangência externa exige que ela seja (q+1)rₖ. Resolvendo, q = (s+1)/(s−1), s = √(m²+1); racionalizando, q = ((s+1)/m)². A razão da progressão geométrica também determina o termo geral da sequência."
   }
  ],
  "matematica-financeira": [
@@ -42991,6 +44304,67 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O preço equilíbrio é a razão entre custo e produção por hectare: 4.300/99 ≈ R$ 43,43 por saca — é o valor em que a venda apenas cobre o custo. Para lucrar 40% sobre ele, o preço de venda precisa ser 43,43 × 1,4 ≈ R$ 60,81, alternativa A. As demais correspondem a margens diferentes da pedida: aplicar 40% sobre outro valor, ou somar o lucro depois de arredondar o preço equilíbrio, produz os R$ 63,20, R$ 65,45, R$ 67,31 e R$ 68,21 — todos acima do mínimo que a questão procura."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "matematica-220011",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Julia e Lucas estão em frente ao seu quarto de hotel, que é o quarto número 1 em um longo corredor cujos números dos quartos seguem a ordem dos números inteiros positivos. Julia começou a correr pelo corredor seguida de Lucas, de maneira que a cada 5 quartos pelos quais ela passava, Lucas passava por 3 quartos. Quando Julia chegou ao último quarto do corredor, imediatamente deu meia volta e voltou pelo corredor com a mesma velocidade. Em dado momento Lucas, que também sempre manteve a mesma velocidade, encontrou-se com Julia em frente ao quarto de número 196. O número total de quartos desse corredor, sabendo que é um número terminado em 1 ou 6, é",
+   "alternativas": {
+    "a": "216.",
+    "b": "261.",
+    "c": "281.",
+    "d": "286.",
+    "e": "291."
+   },
+   "resposta": "b",
+   "explicacao": "Seja N o número de quartos. Julia foi do quarto 1 ao N e voltou até o 196: percorreu (N − 1) + (N − 196) = 2N − 197 quartos. Lucas foi do 1 ao 196: 195 quartos. As velocidades estão na razão 5:3, e o tempo é o mesmo, então (2N − 197)/195 = 5/3 → 6N − 591 = 975 → N = 261, que termina em 1, como o enunciado exige. 216, 281, 286 e 291 não satisfazem a proporção: com 281, por exemplo, Julia teria percorrido 365 quartos contra 195 de Lucas, razão 1,87, e não 5/3."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "matematica-2200127",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "enunciado": "Em uma academia 40 praticantes de halterofilismo marcaram em uma planilha o maior peso que conseguiram levantar em um sábado e calcularam a média aritmética desses pesos, obtendo o valor de 55 kg. No domingo, alguns praticantes conseguiram levantar 10 kg a mais do que o maior peso que tinham conseguido no dia anterior e os demais só conseguiram igualar a marca do sábado, de maneira que no domingo a média aritmética dos maiores pesos levantados pelas 40 pessoas foi 57 kg. O número de praticantes que conseguiram superar a marca do sábado foi",
+   "alternativas": {
+    "a": "4.",
+    "b": "5.",
+    "c": "6.",
+    "d": "7.",
+    "e": "8."
+   },
+   "resposta": "e",
+   "explicacao": "A média subiu de 55 kg para 57 kg entre 40 pessoas, então a soma dos pesos cresceu 2 × 40 = 80 kg. Cada praticante que superou a marca contribuiu com exatamente 10 kg a mais, e os demais com zero: 10k = 80 → k = 8. Com 4, 5, 6 ou 7 praticantes, a soma cresceria 40, 50, 60 ou 70 kg, e a média ficaria abaixo de 57."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "unicamp-matematica-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/unicamp-2026-q42.png",
+    "descricao": "Gráfico de linhas “Distribuição dos cardeais votantes, por região, em cada conclave desde 2005”, com os anos 2005, 2013 e 2025 no eixo horizontal e percentuais de 0 a 50% no vertical. Europa: cerca de 50% em 2005, 52% em 2013 e 39,3% em 2025. Ásia e Oceania: cerca de 10% em 2005 e 2013 e 20,0% em 2025. América Latina: cerca de 17% nos três anos, 17,0% em 2025. África: cerca de 10% em 2005 e 2013 e 13,3% em 2025. EUA e Canadá: cerca de 11% em 2005, 10% em 2013 e 10,4% em 2025."
+   },
+   "enunciado": "Uma regra estabelecida pelo papa Paulo VI, em 1970, define que somente cardeais com menos de 80 anos participam e votam no conclave. Em 2025, 135 pessoas cumpriram esse critério de idade. O vencedor só é definido após garantir o apoio de dois terços dos votantes. Os últimos 3 conclaves aconteceram em 2005, 2013 e 2025.\n\nConsiderando o gráfico, é correto afirmar que, desde 2005, em cada conclave,",
+   "fonte_texto": "Adaptado de https://www.nexojornal.com.br/grafico/2025/04/24/eleicao-papa-conclave-quem-faz-parte-cardeais/. Acesso em 30/05/2025.",
+   "alternativas": {
+    "a": "América Latina e África juntas corresponderam a mais que 40% da quantidade de cardeais votantes",
+    "b": "Ásia, Oceania e África juntas corresponderam a mais que 30% da quantidade de cardeais votantes",
+    "c": "Europa e África juntas corresponderam a mais que 50% da quantidade de cardeais votantes",
+    "d": "Ásia, Oceania, Estados Unidos e Canadá juntos corresponderam a 30% da quantidade de cardeais votantes"
+   },
+   "explicacao": "A afirmação precisa valer nos três conclaves. Europa e África: cerca de 50% + 10% em 2005, 52% + 10% em 2013 e 39,3% + 13,3% = 52,6% em 2025 — sempre acima de 50%. América Latina e África somam por volta de 27% a 30%, nunca 40%; Ásia, Oceania e África ficam perto de 20% em 2005 e 2013; e Ásia, Oceania, EUA e Canadá dão cerca de 21% em 2005 e 30,4% em 2025 — não são 30% em cada conclave.",
+   "resposta": "c",
+   "origem": "medicina"
   }
  ],
  "matematica-algebra": [
@@ -46939,6 +48313,253 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A propriedade f(xy) = f(x) + f(y) faz f se comportar como logaritmo. Numa PG de razão q, aᵢ = a₁·q^(i−1), então f(aᵢ) = f(a₁) + (i−1)·f(q) e a primeira soma vale 5f(a₁) + 10f(q); igualando a 13f(2) + 2f(a₁), vem 3f(a₁) + 10f(q) = 13f(2). A segunda soma é telescópica: f(a₁/a₂) + ... + f(a₄/a₅) = f(a₁) − f(a₅) = −4f(q), e igualando a −2[f(2) + f(a₁)] obtém-se 2f(q) = f(2) + f(a₁). Substituindo na primeira, 3f(a₁) + 5f(2) + 5f(a₁) = 13f(2), ou seja, 8f(a₁) = 8f(2). Como f é injetora, a₁ = 2 — alternativa B."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "matematica-220018",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Considere uma matriz quadrada A de ordem n e um polinômio p(x) de grau m. Um polinômio matricial em A é a matriz p(A) de ordem n definida por:\np(A) = a₀·Iₙ + a₁·A + a₂·A² + … + aₘ·Aᵐ,\nem que Iₙ é a matriz identidade de ordem n e aᵢ, com 0 ≤ i ≤ m, o coeficiente do termo de grau i do polinômio. De maneira resumida p(A) é a matriz obtida ao substituir, no polinômio, x pela matriz A e a₀ pela matriz a₀·Iₙ. Dado o polinômio p(x) = 3x² – x + 2 e a matriz A = [[1, 0], [–1, 2]], o polinômio matricial em A é",
+   "alternativas": {
+    "a": "[[2, 0], [2, 4]]",
+    "b": "[[0, 0], [0, 0]]",
+    "c": "[[4, 0], [4, 12]]",
+    "d": "[[4, 0], [–8, 12]]",
+    "e": "[[0, 1], [2, –1]]"
+   },
+   "resposta": "d",
+   "explicacao": "Primeiro A² = A·A: linha 1 [1, 0]; linha 2 [−1·1 + 2·(−1), −1·0 + 2·2] = [−3, 4]. Então 3A² = [[3, 0], [−9, 12]], −A = [[−1, 0], [1, −2]] e 2I = [[2, 0], [0, 2]]. Somando entrada a entrada: [[3 − 1 + 2, 0], [−9 + 1 + 0, 12 − 2 + 2]] = [[4, 0], [−8, 12]]. A matriz [[4, 0], [4, 12]] erra o sinal da entrada (2,1) — é o resultado de tomar A² = [[1,0],[−1,4]] sem multiplicar de fato; a nula suporia que A anula p, o que não ocorre."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "matematica-220019",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Considere o seguinte sistema linear em que α e β são números reais:\nx + y + αz = 0\nx – y + βz = 0\nβx + αy + z = 0\nAs soluções não triviais desse sistema serão aquelas tais que",
+   "alternativas": {
+    "a": "α + β = 0.",
+    "b": "α – β = 0.",
+    "c": "α² + β² = 2.",
+    "d": "α² – β² = 2.",
+    "e": "α – β = 2."
+   },
+   "resposta": "c",
+   "explicacao": "Um sistema homogêneo só tem solução além da trivial quando o determinante dos coeficientes é zero. Desenvolvendo pela primeira linha: 1·(−1·1 − β·α) − 1·(1·1 − β·β) + α·(1·α − (−1)·β) = −1 − αβ − 1 + β² + α² + αβ = α² + β² − 2. Anulando: α² + β² = 2. As demais condições (soma, diferença ou diferença de quadrados) não são o determinante — com α = β = 1, por exemplo, α − β = 0 mas o determinante vale 0 só porque 1 + 1 = 2, e com α = β = 2 a diferença continua nula e o sistema tem só a solução trivial."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "matematica-2200110",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "enunciado": "Sejam A = [aᵢⱼ], B = [bᵢⱼ] e C = [cᵢⱼ] matrizes quadradas de ordem 3, tais que para i = 1 ou i = 2 aᵢⱼ = bᵢⱼ = cᵢⱼ. Para essas matrizes, c₃ⱼ = a₃ⱼ + b₃ⱼ para quaisquer j.\nSabendo que det(A) = 9 e que det(B) = –5, o valor de 3 · det(2C⁻¹) · det(AB/3) é igual a",
+   "alternativas": {
+    "a": "–90.",
+    "b": "–50.",
+    "c": "–10.",
+    "d": "20.",
+    "e": "60."
+   },
+   "resposta": "c",
+   "explicacao": "A, B e C têm as duas primeiras linhas iguais e a terceira linha de C é a soma das terceiras linhas de A e B; como o determinante é linear em cada linha, det(C) = det(A) + det(B) = 4. Daí det(2C⁻¹) = 2³·(1/4) = 2 (o escalar sai elevado à ordem, e a inversa inverte o determinante). E det(AB/3) = (1/3)³·det(A)·det(B) = 9·(−5)/27 = −5/3. Produto: 3·2·(−5/3) = −10. Os erros típicos: multiplicar os determinantes de A e B para obter C (−45), ou tratar det(2C⁻¹) como 2/4 e det(AB/3) como −45/3, que levam a −90, −50 ou 60."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "matematica-2200114",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Uma função real f é tal que f(x – 1) = 3f(x) – f(2) para todo x real. Dado que f(3) = 12, o valor de f(0) + f(4) é igual a",
+   "alternativas": {
+    "a": "40.",
+    "b": "60.",
+    "c": "80.",
+    "d": "100.",
+    "e": "120."
+   },
+   "resposta": "d",
+   "explicacao": "Use a relação f(x − 1) = 3f(x) − f(2) com valores escolhidos. x = 3: f(2) = 3·12 − f(2) → f(2) = 18. x = 2: f(1) = 3·18 − 18 = 36. x = 1: f(0) = 3·36 − 18 = 90. x = 4: f(3) = 3f(4) − 18 → 12 = 3f(4) − 18 → f(4) = 10. Logo f(0) + f(4) = 100. Quem esquece de subtrair f(2) obtém f(0) = 108 e f(4) = 4, que não somam nenhuma das opções; 40 e 60 vêm de parar em f(1) ou em f(2)."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "matematica-2200116",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "A solução da equação logarítmica 1/log₉ x + 1/log₂₄ x = 3 é",
+   "alternativas": {
+    "a": "x = 3.",
+    "b": "x = 6.",
+    "c": "x = 12.",
+    "d": "x = 24.",
+    "e": "x = 72."
+   },
+   "resposta": "b",
+   "explicacao": "Pela mudança de base, 1/log₉ x = log_x 9 e 1/log₂₄ x = log_x 24. A equação vira log_x 9 + log_x 24 = log_x 216 = 3, ou seja, x³ = 216 → x = 6 (com x > 0 e x ≠ 1, condição de existência atendida). Testar x = 3, 12, 24 ou 72 não devolve 3: 12³ = 1728 ≠ 216, por exemplo. Note que 216 = 9·24 — quem multiplica errado os argumentos chega a outras potências."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "matematica-2200117",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "enunciado": "Fones de ouvido com cancelamento de ruído são aqueles que possuem microfones que captam o som ambiente e produzem uma onda sonora que “cancela” esse som, ou seja, o fone faz uma adição dessas ondas sonoras de maneira que a soma seja zero, dando a sensação de não haver sons externos ao fone. Considere que um desses fones detectou uma onda sonora de equação y = 4sen(2x). Uma onda que o fone poderá produzir para cancelar o ruído detectado é",
+   "alternativas": {
+    "a": "y = 4sen(2x + π).",
+    "b": "y = 0,25sen(2x + π).",
+    "c": "y = 2sen(x + π).",
+    "d": "y = 0,25sen(0,5x + 2π).",
+    "e": "y = 4sen(2x + 2π)."
+   },
+   "resposta": "a",
+   "explicacao": "Cancelar é somar zero: a onda produzida deve ser −4sen(2x), com a mesma amplitude e a mesma frequência, em oposição de fase. Como sen(θ + π) = −sen θ, temos 4sen(2x + π) = −4sen(2x). É a primeira alternativa. As com amplitude 0,25 ou 2 não anulam a amplitude 4; sen(x + π) e sen(0,5x + 2π) têm outra frequência; e 4sen(2x + 2π) é a própria onda original, que somada dobraria o ruído em vez de cancelá-lo."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "matematica-2200118",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "No intervalo [0, 2π], a soma de todas as soluções de cos(π/4) · √(1 + cos 2x) = sen(π/3) é igual a",
+   "alternativas": {
+    "a": "–4π.",
+    "b": "–2π.",
+    "c": "0.",
+    "d": "2π.",
+    "e": "4π."
+   },
+   "resposta": "e",
+   "explicacao": "Como 1 + cos 2x = 2cos²x, √(1 + cos 2x) = √2·|cos x|. Com cos(π/4) = √2/2, o lado esquerdo vira |cos x|, e a equação é |cos x| = √3/2. Em [0, 2π] isso dá cos x = ±√3/2: x = π/6, 5π/6, 7π/6 e 11π/6. Soma: (1 + 5 + 7 + 11)π/6 = 24π/6 = 4π. Quem esquece o módulo (cos x = √3/2 apenas) soma π/6 + 11π/6 = 2π; as opções negativas não têm sentido, pois todas as soluções são não negativas."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "matematica-2200129",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Sejam x e y dois algarismos e considere todos os números da forma 34x981y, em que y é a unidade desse número e x é a dezena de milhar. Sabendo que 34x981y é divisível por 12, o total de números dessa forma é",
+   "alternativas": {
+    "a": "4.",
+    "b": "5.",
+    "c": "6.",
+    "d": "7.",
+    "e": "8."
+   },
+   "resposta": "d",
+   "explicacao": "Entre os números inteiros, ser divisível por 12 é ser divisível por 3 e por 4. Por 4: os dois últimos algarismos \"1y\" devem formar múltiplo de 4 → y = 2 (12) ou y = 6 (16). Por 3: a soma 3 + 4 + x + 9 + 8 + 1 + y = 25 + x + y deve ser múltiplo de 3. Com y = 2: 27 + x → x ∈ {0, 3, 6, 9}, quatro números. Com y = 6: 31 + x → x ∈ {2, 5, 8}, três números. Total: 7. Quem só testa y = 2 acha 4; quem aceita y = 0, 4 ou 8 (que dão 10, 14, 18, não múltiplos de 4) infla a conta."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "ita-2023-q37",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere A ∈ M₃(ℝ) tal que existe um único número real x que satisfaz a equação det(∛2·x²A) + det(xA³) = det A². Então, x + det A é",
+   "alternativas": {
+    "a": "−5.",
+    "b": "−4.",
+    "c": "−3.",
+    "d": "−2.",
+    "e": "−1."
+   },
+   "resposta": "c",
+   "explicacao": "Se d=det A, então det(∛2·x²A)=2x⁶d, det(xA³)=x³d³ e det A²=d². Com y=x³, resulta 2dy²+d³y−d²=0. Como há um único x real, a quadrática em y tem raiz dupla; seu discriminante d⁶+8d³ é zero. Como d≠0, d=−2, e a raiz dupla é y=−1, isto é, x=−1. Logo x+d=−3."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "ita-2023-q41",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Sejam f e g funções reais definidas por f(x) = 3^{2x} e g(x) = 3ˣ − 2ˣ. Considere:\nI. g(x) ≥ 0 para todo x real.\nII. f(x) ≥ g(x) para todo x real.\nIII. f(x) + g(x) ≥ 0 para todo x real.\n\nÉ (são) sempre verdadeira(s)",
+   "alternativas": {
+    "a": "apenas I.",
+    "b": "apenas II.",
+    "c": "apenas III.",
+    "d": "todas.",
+    "e": "nenhuma."
+   },
+   "resposta": "b",
+   "explicacao": "I falha para x < 0, pois 3ˣ < 2ˣ. Para II, escreva t = 3ˣ > 0: f = t² e g = t−2ˣ; quando t≥1, t²≥t>g, e quando t<1, g<0<f. III falha, por exemplo, para x suficientemente negativo, quando 2ˣ domina 3ˣ+3^{2x}. Só II vale sempre."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "ita-2023-q47",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere f(x) = cos x[cos(x/3)+2sen x] − sen x·sen(x/3) − 2, definida em I = ]−4π,4π[. Sobre f(x)=0, podemos afirmar que",
+   "alternativas": {
+    "a": "não admite soluções em I.",
+    "b": "admite uma única solução em I.",
+    "c": "admite exatamente duas soluções em I.",
+    "d": "admite exatamente três soluções em I.",
+    "e": "admite exatamente quatro soluções em I."
+   },
+   "resposta": "a",
+   "explicacao": "Usando cos x cos(x/3) − sen x sen(x/3) = cos(4x/3) e 2sen x cos x = sen 2x, a equação seria cos(4x/3)+sen 2x=2. Isso exigiria simultaneamente cos(4x/3)=1 e sen 2x=1, condições incompatíveis. Não há solução no intervalo."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "ita-2026-q07",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as matrizes A = [[√3/2, −1/2],[1/2, √3/2]] e B = [[√2/2],[√2/2]]. A matriz A³¹ × B é igual a",
+   "alternativas": {
+    "a": "[−(√2/4)(√3−1), −(√2/4)(1+√3)]ᵀ.",
+    "b": "[−(√2/4)(1−√3), −(√2/4)(1+√3)]ᵀ.",
+    "c": "[(1−√6)/(2√2), (1+√6)/(2√2)]ᵀ.",
+    "d": "[(√6−1)/(2√2), (1+√6)/(2√2)]ᵀ.",
+    "e": "nenhuma das alternativas anteriores."
+   },
+   "resposta": "a",
+   "explicacao": "A é a matriz de rotação de 30°. Como 31·30° = 930° equivale a 210°, A³¹ gira B, que aponta a 45°, para 255°. As componentes cos 255° e sen 255° se simplificam exatamente para o vetor da alternativa A."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "ita-2026-q10",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Sejam x, y ∈ ]0, π/2[, satisfazendo o sistema tan(y)tan(y/2) = cos(2x)sec(y) e sen(y)/cos(x) + cos(x)/sen(y) = 2. O produto de todos os valores de x e y que resolvem esse sistema é",
+   "alternativas": {
+    "a": "π²/24.",
+    "b": "π⁴/324.",
+    "c": "π²/50.",
+    "d": "π²/16.",
+    "e": "π²/18."
+   },
+   "resposta": "e",
+   "explicacao": "Na segunda equação, a + 1/a = 2 com a = sen(y)/cos(x) implica a = 1, portanto sen y = cos x e y = π/2 − x. Substituindo na primeira e simplificando, obtém-se x = π/3 e y = π/6. O produto é π²/18."
   }
  ],
  "matematica-probabilidade": [
@@ -49371,6 +50992,101 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "São 36 resultados igualmente prováveis em dois lançamentos. Somar 10 ou mais acontece em seis deles: (4,6), (6,4), (5,5), (5,6), (6,5) e (6,6). A probabilidade é 6/36 = 1/6, alternativa B. A alternativa A, 1/9, sai de contar apenas quatro casos, esquecendo que (4,6) e (6,4) são resultados distintos; C, 1/5, e D, 1/4, superestimam a contagem; e E, 1/2, trataria \"10 ou mais\" como metade dos resultados, quando as somas vão de 2 a 12 e as altas são raras justamente por exigirem faces altas nos dois dados."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "matematica-220015",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "enunciado": "Um garoto brinca com um conjunto de 7 blocos que podem ser inseridos em 3 hastes distintos. Os blocos e as hastes possuem, dois a dois, cores distintas. Na brincadeira o garoto pode colocar os blocos em uma ou mais hastes e a ordem dos blocos nas hastes e a cor da haste em que cada bloco foi colocado diferencia cada montagem feita. O número de montagens distintas que esse garoto poderá fazer usando os 7 blocos é",
+   "alternativas": {
+    "a": "30 240.",
+    "b": "105 840.",
+    "c": "181 440.",
+    "d": "211 680.",
+    "e": "236 880."
+   },
+   "resposta": "c",
+   "explicacao": "Coloque os blocos um a um. O primeiro escolhe uma das 3 hastes (3 modos). O segundo pode ir para qualquer haste, e na haste onde já há um bloco pode ficar em cima ou embaixo dele: são 4 posições. O terceiro tem 5, e assim por diante — cada bloco já colocado abre uma posição a mais. É uma contagem de \"de quantos modos\": 3·4·5·6·7·8·9 = 181 440, o mesmo que 9!/2! — uma permutação de 9 objetos com 2 repetidos. Os 30 240 (= 10·9·8·7·6) e os demais valores vêm de contagens que ignoram a ordem dentro da haste ou a possibilidade de haste vazia."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "matematica-220016",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Duas filas, uma de meninos e uma de meninas, são formadas para a entrada em um brinquedo. Entram nesse brinquedo 10 crianças por vez e um sorteio decide de qual fila entrará a criança, com 50% de chances para a fila de meninos e 50% de chances para a fila de meninas. Estando o brinquedo vazio, Ana, Joana e Mariana, que eram as primeiras da fila das meninas, foram as três primeiras sorteadas para entrar. Após o brinquedo atingir sua capacidade máxima, a probabilidade de estar com mais meninos do que meninas é",
+   "alternativas": {
+    "a": "1/7",
+    "b": "2/7",
+    "c": "2/21",
+    "d": "1/8",
+    "e": "1/16"
+   },
+   "resposta": "e",
+   "explicacao": "Três meninas já entraram; faltam 7 vagas, cada uma decidida por um sorteio equiprovável. Para haver mais meninos do que meninas entre as 10, são necessários pelo menos 6 meninos nas 7 vagas restantes: 6 ou 7 meninos. Casos favoráveis: C(7,6) + C(7,7) = 7 + 1 = 8, em 2⁷ = 128 sequências possíveis. Probabilidade 8/128 = 1/16. Quem exige \"5 meninos ou mais\" ou esquece as três meninas já dentro chega às outras frações."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "matematica-220017",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "enunciado": "Em um trecho retilíneo de uma rua há 14 vagas, lado a lado, demarcadas para o estacionamento de carros. Os carros entram e saem aleatoriamente dessas vagas e em um dado momento havia 9 carros estacionados. A probabilidade, nesse momento, de não haver vagas vazias lado a lado é de",
+   "alternativas": {
+    "a": "1/24",
+    "b": "5/24",
+    "c": "3/40",
+    "d": "9/125",
+    "e": "18/143"
+   },
+   "resposta": "e",
+   "explicacao": "Há 14 vagas e 5 vazias. Total de configurações: C(14,5) = 2002. Para nenhuma vaga vazia ficar ao lado de outra, escolhem-se 5 posições não adjacentes entre 14: coloque os 9 carros em fila, formando 10 \"espaços\" (antes, entre e depois deles), e escolha 5 desses espaços para as vagas vazias — C(10,5) = 252. Probabilidade: 252/2002 = 18/143. As outras frações não saem dessa contagem; 5/24 e 1/24, por exemplo, tratariam o problema com denominador 24, que não é número de configurações de 5 vagas em 14."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "ita-2023-q45",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um conjunto de moedas é lançado sucessivas vezes. Em cada lançamento, todas as moedas que resultam em coroa são retiradas; as demais permanecem. O jogo termina quando todas forem retiradas. A probabilidade de durar mais de três rodadas, começando com quatro moedas, é",
+   "alternativas": {
+    "a": "1341/4096.",
+    "b": "1695/4096.",
+    "c": "2049/4096.",
+    "d": "2401/4096.",
+    "e": "2755/4096."
+   },
+   "resposta": "b",
+   "explicacao": "Para uma moeda, a chance de ainda não ter saído coroa após três lançamentos é 1/8. O jogo dura mais de três rodadas se ao menos uma das quatro sobreviver: 1−(7/8)⁴ = (4096−2401)/4096 = 1695/4096."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "ita-2026-q11",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Seja A = {1,2,3,4,5,6,7,8}. A quantidade de bijeções F: A → A que satisfazem F(1) < F(5) < F(3) e F(7) < F(2) é",
+   "alternativas": {
+    "a": "3360.",
+    "b": "4200.",
+    "c": "5040.",
+    "d": "5880.",
+    "e": "6720."
+   },
+   "resposta": "a",
+   "explicacao": "Entre as 8! bijeções, as três imagens F(1), F(5), F(3) aparecem em cada uma das 3! ordens com igual frequência, e F(7), F(2) aparecem nas duas ordens com igual frequência. As restrições são independentes, logo 8!/(3!·2!) = 3360."
   }
  ],
  "matematica-sequencias": [
@@ -50774,6 +52490,44 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "As compras crescem em progressão geométrica de razão r, e do primeiro mês ao mesmo mês do ano seguinte passam-se 12 meses, ou seja, 12 multiplicações: r¹² = 64. Como 64 = 2⁶, vem r = 2^(6/12) = 2^(1/2) = √2 — alternativa A. A alternativa D, ¹²√2, é a armadilha de quem lê \"64 vezes\" como \"2 vezes\" ou resolve r¹² = 2; E, ⁸√2, viria de um expoente 8; e B e C são raízes quadradas de 8 e de 12, números que não aparecem em nenhuma etapa da conta."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "matematica-2200115",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Um novo produto será lançado e uma campanha de telemarketing será contratada por 30 dias com a meta de vender 100 unidades desse produto no primeiro dia e a cada dia seguinte vender 8 unidades a mais do que no dia anterior. Foi definido pela campanha que o preço unitário em reais desse produto no dia d, com 1 ≤ d ≤ 30, será calculado pela função p(d) = d·n(d)/400 + 50, em que n(d) é o número de produtos que se espera vender no dia d, de acordo com a meta. O total arrecadado pela campanha no dia em que o preço desse produto teve o menor valor foi",
+   "alternativas": {
+    "a": "R$ 5.000,00.",
+    "b": "R$ 5.025,00.",
+    "c": "R$ 5.075,00.",
+    "d": "R$ 5.125,00.",
+    "e": "R$ 5.150,00."
+   },
+   "resposta": "b",
+   "explicacao": "A meta é uma PA: n(d) = 100 + 8(d − 1) = 92 + 8d, crescente. O preço p(d) = d·n(d)/400 + 50 é produto de dois fatores crescentes e positivos mais uma constante, então cresce com d — o menor preço é no dia 1: p(1) = 100/400 + 50 = 50,25. Nesse dia vendem-se 100 unidades: 100 × 50,25 = R$ 5.025,00. R$ 5.000,00 esquece a parcela d·n(d)/400; os demais valores supõem que o preço mínimo ocorra em outro dia, o que a monotonicidade descarta."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "matematica-2200128",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Considere os seguintes comandos de uma linguagem de programação natural:\n• def atribui um valor a uma variável, por exemplo, def n = 5 atribui o valor 5 à variável n.\n• n++ aumenta em uma unidade o valor da variável n, por exemplo, se n = 0 e o comando n++ é executado, o valor de n passa a ser 1.\n• x = 3x + 1 altera o valor da variável x para o resultado da expressão 3x + 1, por exemplo, se x = 7 e o comando x = 3x + 1 é executado, o valor de x passa a ser 22, pois 3⋅7 + 1 = 22.\n• x = x/2 altera o valor da variável x para a sua metade, por exemplo, se x = 8 e o comando x = x/2 é executado, o valor de x passa a ser 4, pois a metade de 8 é 4.\nConsidere o seguinte programa escrito nessa linguagem natural:\ndef n = 0\ndef x = 52\nrepita os comandos entre chaves enquanto o valor da variável x for diferente de 1\n{\nn++\nse x for ímpar execute x = 3x + 1\nse x for par execute x = x/2\n}\nAo término da execução desse programa o valor da variável n será",
+   "alternativas": {
+    "a": "8.",
+    "b": "9.",
+    "c": "10.",
+    "d": "11.",
+    "e": "12."
+   },
+   "resposta": "b",
+   "explicacao": "O programa gera uma sequência definida por recorrência; simule contando as passagens pelo laço, cada etapa seguinte a partir do valor anterior. Repare que os dois \"se\" estão na mesma iteração: se x é ímpar, vira 3x + 1, que é par, e é dividido por 2 na mesma passagem. Partindo de x = 52: 52 → 26 (n=1) → 13 (n=2) → 13 é ímpar: 40, e 40 é par: 20 (n=3) → 10 (n=4) → 5 (n=5) → 5 ímpar: 16, par: 8 (n=6) → 4 (n=7) → 2 (n=8) → 1 (n=9). Ao chegar a 1, o laço para: n = 9. Quem trata os dois \"se\" como excludentes (uma operação por passagem) conta 11, que é o distrator; 8 e 10 são erros de um passo na simulação."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -53027,6 +54781,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A forma polar resolve. Os módulos são iguais: |a| = √(1 + 27) = √28 e |b| = √(12 + 16) = √28 — condição necessária, sem a qual nenhum expoente igualaria as potências. Resta o argumento: aᵐ = bᵐ exige m(θ_a − θ_b) múltiplo de 2π. Com tg θ_a = 3√3 e tg θ_b = 4/(2√3) = 2/√3, a tangente da diferença é (3√3 − 2/√3)/(1 + 3√3·2/√3) = (7/√3)/7 = 1/√3, ou seja, a diferença é exatamente 30°. Daí 30m tem de ser múltiplo de 360, e o menor natural é m = 12. A alternativa (e) é a armadilha de quem confere só que a ≠ b."
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "matematica-220012",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "enunciado": "Considere um número complexo z = a + bi e seu conjugado z̄. Ao desenharmos, no plano complexo, todos os afixos dos complexos z, tais que z + z̄ = 2π², obteremos",
+   "alternativas": {
+    "a": "uma reta vertical paralela ao eixo imaginário.",
+    "b": "uma reta horizontal paralela ao eixo real.",
+    "c": "um quadrado, em que um de seus vértices é (π, – π).",
+    "d": "uma circunferência de raio π e todos os pontos do seu interior.",
+    "e": "apenas os pontos de uma circunferência de raio 2π."
+   },
+   "resposta": "a",
+   "explicacao": "O conjugado de z troca o sinal da parte imaginária, então a soma de um complexo com seu conjugado elimina a unidade imaginária: (a + bi) + (a − bi) = 2a. A condição vira 2a = 2π², ou seja, a = π², sem restrição sobre b. No plano, parte real fixa e parte imaginária livre é uma reta vertical, paralela ao eixo imaginário. Não há módulo na condição, então não aparece circunferência nem disco; e reta horizontal seria b fixo, o que exigiria z − z̄."
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "ita-2023-q38",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Sejam z ∈ ℂ e f(z)=z²+i. Para n∈ℕ, defina f⁽¹⁾(z)=f(z) e f⁽ⁿ⁾(z)=f(f⁽ⁿ⁻¹⁾(z)). Então f⁽²⁰²³⁾(0) é",
+   "alternativas": {
+    "a": "1−i.",
+    "b": "i−1.",
+    "c": "−1−i.",
+    "d": "i.",
+    "e": "−i."
+   },
+   "resposta": "e",
+   "explicacao": "A órbita de 0 é 0 → i → −1+i → −i → −1+i → −i, entrando num ciclo de período 2. Como 2023 é ímpar e, a partir da terceira iteração, os índices ímpares dão −i, resulta f⁽²⁰²³⁾(0)=−i."
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "ita-2023-q43",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Dado z=5−5i, defina f(n)=|z^{2n+1}+z̄^{2n+1}|. A soma de f(n) para n de 1 até 20 é",
+   "alternativas": {
+    "a": "250(50²¹−1)/49.",
+    "b": "500√2(50²⁰−1)/49.",
+    "c": "1000(50²¹−1)/49.",
+    "d": "500(50²⁰−1)/49.",
+    "e": "nenhuma das alternativas anteriores."
+   },
+   "resposta": "d",
+   "explicacao": "Como z=5√2e^{−iπ/4}, a soma com o conjugado é duas vezes a parte real. Para expoente 2n+1, o módulo absoluto do cosseno alterna entre √2/2, dando f(n)=2·(5√2)^{2n+1}·√2/2 = 10·50ⁿ. A soma geométrica de n=1 a 20 é 500(50²⁰−1)/49."
   }
  ],
  "matematica-polinomios": [
@@ -54123,6 +55934,82 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Escrever as três raízes em PG como a/q, a e aq é o que faz a conta sair sem resolver a cúbica. Por Girard, a soma das raízes é a(1/q + 1 + q) = −3 e a soma dos produtos dois a dois é a²(1/q + 1 + q) = −6. Dividindo a segunda pela primeira, o fator (1/q + 1 + q) se cancela e sobra a = −6/−3 = 2 — ou seja, a raiz do meio da PG é 2, e de fato p(2) = 8 + 12 − 12 + k = 8 + k. O produto das raízes é a³ = 8 e, por Girard, vale −k. Logo k = −8. Escrever as raízes como a, aq, aq² em vez de a/q, a, aq faz o cancelamento não acontecer e a questão vira um sistema desnecessário."
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "matematica-220014",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Considere o polinômio P(x) = x³ – 10x² + 14x + d, em que d é uma constante real. Se a soma de duas das raízes desse polinômio é igual a 8, o valor da constante d é",
+   "alternativas": {
+    "a": "– 4.",
+    "b": "–2.",
+    "c": "2.",
+    "d": "4.",
+    "e": "6."
+   },
+   "resposta": "d",
+   "explicacao": "Pelas relações de Girard, a soma das três raízes é 10 (o oposto do coeficiente de x²). Se duas somam 8, a terceira é 2, e 2 é raiz: P(2) = 8 − 40 + 28 + d = 0 → d = 4. Testar os outros valores confirma: com d = −4, por exemplo, P(2) = −8, e 2 não seria raiz — nenhuma dupla de raízes somaria 8."
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "ita-2023-q40",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "A média harmônica de positivos a₁,…,aₙ é H=n/(1/a₁+…+1/aₙ). Sabendo que p(x)=30x³−113x²+108x−30 possui três raízes reais positivas, a média harmônica das raízes é",
+   "alternativas": {
+    "a": "2/3.",
+    "b": "5/18.",
+    "c": "5/6.",
+    "d": "1.",
+    "e": "3."
+   },
+   "resposta": "c",
+   "explicacao": "Se r₁,r₂,r₃ são as raízes, 1/r₁+1/r₂+1/r₃=(r₁r₂+r₁r₃+r₂r₃)/(r₁r₂r₃). Por Viète, isso vale (108/30)/(30/30)=18/5. Portanto H=3/(18/5)=5/6."
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "ita-2023-q48",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Na expansão de [1+x²−x³+x⁴]¹⁰, a soma de todos os coeficientes das potências múltiplas de 3 é",
+   "alternativas": {
+    "a": "114.",
+    "b": "228.",
+    "c": "342.",
+    "d": "456.",
+    "e": "570."
+   },
+   "resposta": "c",
+   "explicacao": "O filtro das raízes cúbicas da unidade dá S=[P(1)+P(ω)+P(ω²)]/3 para P(x)=(1+x²−x³+x⁴)¹⁰. P(1)=2¹⁰=1024 e, usando ω³=1 e 1+ω+ω²=0, P(ω)=P(ω²)=1. Assim S=(1024+1+1)/3=342."
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "ita-2026-q08",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Seja p(x) = x³ + bx² + cx + d um polinômio com coeficientes reais. Se todas as raízes de p(x) são reais e, para todo x ∈ ℝ, p(2+x) = −p(2−x), então o menor valor possível para p(0) é",
+   "alternativas": {
+    "a": "−10.",
+    "b": "−8.",
+    "c": "−6.",
+    "d": "−4.",
+    "e": "−2."
+   },
+   "resposta": "b",
+   "explicacao": "A simetria torna p ímpar em torno de 2, então p(x) = (x−2)[(x−2)²−a²], com a real. Assim p(0) = 2a²−8, cujo mínimo ocorre em a = 0 e vale −8. Trata-se de um polinômio de grau 3 com raiz tripla no caso mínimo."
   }
  ],
  "historia-brasil-colonia-imperio": [
@@ -56403,6 +58290,85 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A tese antiga era econômica: escravidão improdutiva, condenada a sumir diante do mercado. Os estudos recentes citados desmontam isso — o sistema era lucrativo até o fim, os proprietários agiam racionalmente e havia compatibilidade com avanço técnico. Se não foi o mercado que a matou, foi a política, e o texto conclui exatamente assim: \"O fim da escravidão foi essencialmente um fenômeno político\". Alternativa E. As alternativas A, B, C e D repetem, com palavras diferentes, a posição antiga que o texto declara superada: conflito com a modernização, obsolescência diante do capitalismo, ineficácia na geração de lucros e incompatibilidade com o trabalho assalariado."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "historia-2200219",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "É inevitável que, nesse processo de adaptação, o indígena se torne seu principal iniciador e guia. Ao contato dele, os colonos, atraídos para um sertão cheio de promessas, abandonam, ao cabo, todas as comodidades da vida civilizada. O simples recurso às rudes vias de comunicação, abertas pelos naturais do país, já exige uma penosa aprendizagem, que servirá, por si só, para reagir sobre os hábitos do europeu e de seus descendentes. (Sérgio Buarque de Holanda. Monções, 1989.)",
+   "enunciado": "Nos séculos XVI e XVII, a colonização europeia do planalto de Piratininga",
+   "alternativas": {
+    "a": "baseou-se na economia agroexportadora com a utilização extensiva da mão de obra indígena abundante no litoral da capitania.",
+    "b": "estendeu ao longo de trilhas milenares uma rede de cidades sustentadas pelas explorações de metais preciosos como ouro e prata.",
+    "c": "emancipou-se prematuramente das restrições impostas pelo domínio político-econômico da metrópole portuguesa.",
+    "d": "implicou a transformação da cultura do colonizador português em decorrência das exigências da exploração do meio geográfico.",
+    "e": "aproveitou a facilidade de escoamento de produtos em rios navegáveis para a criação de gado em grandes propriedades."
+   },
+   "resposta": "d",
+   "explicacao": "Sérgio Buarque descreve o colono do planalto aprendendo com o indígena: os caminhos, as técnicas, os hábitos — a ponto de o europeu e seus descendentes abandonarem \"as comodidades da vida civilizada\". A colonização de Piratininga transformou a cultura do colonizador por exigência do meio; é a tese de \"Monções\" e de \"Caminhos e Fronteiras\". A economia agroexportadora com indígenas abundantes no litoral descreve o Nordeste açucareiro, não o planalto; a rede de cidades sustentada por ouro e prata é o século XVIII mineiro; a emancipação prematura da metrópole não ocorreu; e o gado em grandes propriedades com escoamento fluvial fácil é o sertão nordestino, não os rios encachoeirados do planalto."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "historia-2200221",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "Beneficiados pela aquisição de capacidade tributária, legislativa e coercitiva, os grupos regionais acabaram por aceitar, em certo grau, os novos padrões de comportamento político impostos pelo Estado. Fosse para atender a demandas específicas da região como, por exemplo, a necessidade de estradas, fosse para satisfazer anseios generalizados, [...] os grupos regionais acabaram envolvendo-se de fato na construção do Estado nacional. (Miriam Dolhnikoff. “Elites regionais e a construção do Estado nacional”. In: István Jancsó (org.). Brasil: formação do Estado e da Nação, 2003.)",
+   "enunciado": "O texto menciona as relações entre os grupos sociais das províncias com o poder monárquico brasileiro ao longo do século XIX, acentuando",
+   "alternativas": {
+    "a": "a distribuição conveniente de poderes entre membros de uma elite escravista.",
+    "b": "a natureza opressiva do poder central sobre os políticos provinciais.",
+    "c": "a manutenção do equilíbrio político devido ao uso comedido do poder moderador.",
+    "d": "a predominância do direito costumeiro nos vínculos políticos interprovinciais.",
+    "e": "a extensão às províncias do direito de constituição de governos autônomos."
+   },
+   "resposta": "a",
+   "explicacao": "O texto de Dolhnikoff diz que as elites regionais receberam capacidade tributária, legislativa e coercitiva e, em troca, aceitaram os padrões impostos pelo Estado — envolvendo-se na construção da ordem nacional. É um arranjo de partilha de poder entre o centro e as elites provinciais, todas escravistas: uma distribuição conveniente de poderes entre membros de uma elite escravista. A tese nega justamente a leitura de um poder central opressivo; o poder moderador não está no texto; direito costumeiro não rege vínculos entre províncias; e as províncias não ganharam governos autônomos, mas atribuições dentro do Estado unitário."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "historia-2200222",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "O único inocente é aquele que não tem imputação, e que fez apenas uma travessura de criança, levado pelo instinto da amizade. Eu o corrijo, fazendo do autômato um homem; restituo-o à sociedade, porém expulso-o do seio de minha família e fecho-lhe para sempre a porta de minha casa. (a Pedro) Toma: é a tua carta de liberdade, ela será a tua punição de hoje em diante, porque as tuas faltas recairão unicamente sobre ti. [...] Livre, sentirás a necessidade do trabalho honesto e apreciará os nobres sentimentos que hoje não compreendes. (José de Alencar. O demônio familiar, 2003.)",
+   "enunciado": "O Demônio familiar é uma comédia de costumes escrita em 1857. No enredo, as relações entre famílias brancas senhoriais do Rio de Janeiro são conturbadas pelas astúcias e intrigas de Pedro, “moleque escravo” do personagem Eduardo. A comédia encerra-se com as palavras de Eduardo sobre os malefícios sociais da escravidão e sobre a forma de solucioná-los, com",
+   "alternativas": {
+    "a": "a adoção de leis abolicionistas sem indenizações dos proprietários de escravos.",
+    "b": "a aculturação da população negra por meio de políticas estatais de alfabetização.",
+    "c": "a manutenção exclusiva do trabalho escravo nas empresas de produção agrícola.",
+    "d": "a miscigenação de escravos alforriados com a população de origem europeia.",
+    "e": "a moralização da mão de obra por meio da disciplina do trabalho assalariado."
+   },
+   "resposta": "e",
+   "explicacao": "A fala final de Eduardo dá a solução que a comédia propõe: a carta de alforria vira \"punição\", porque, livre, Pedro \"sentirá a necessidade do trabalho honesto\" e aprenderá os \"nobres sentimentos\" que como escravo não compreende. Ou seja: o remédio para os malefícios da escravidão é a disciplina do trabalho livre e assalariado, que moraliza a mão de obra. Não se fala em lei abolicionista nem em indenização; não há políticas estatais de alfabetização; a manutenção exclusiva do trabalho escravo é o oposto da alforria concedida; e a miscigenação não aparece."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "unicamp-historia-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Os dados da alfândega de Buenos Aires fixam em 18.100 o número de africanos oficialmente importados no porto entre 1597 e 1645. Durante alguns anos, a zona platense esteve aberta ao contrato de fornecimento de pessoas escravizadas (Asiento), com os navios negreiros saindo diretamente de Luanda para Buenos Aires. Nos anos de proibição, o contrabando ocorria por meio do Rio de Janeiro. Barcos ligavam os dois portos. No retorno, traziam prata lavrada e por lavrar e ouro, não só para o Rio de Janeiro, mas também para a Bahia e o Recife. Em torno das trocas de africanos pela prata do Peru (Potosí), esses interesses foram consolidados no Rio de Janeiro. Desse episódio resultou uma tradição religiosa conhecida: o culto a Nossa Senhora de Copacabana no Rio de Janeiro, oriundo do Baixo Peru em 1637. Nos anos seguintes, uma capela dedicada à santa foi erigida na praia que recebeu o seu nome.",
+   "fonte_texto": "Adaptado de ALENCASTRO, L. F. O Trato dos Viventes. São Paulo: Companhia das Letras, 2000. p. 110.",
+   "enunciado": "Com base no excerto, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "A extração de prata em Buenos Aires conectou o Brasil ao comércio internacional de metais que passava por Copacabana",
+    "b": "O tráfico de pedras preciosas de Buenos Aires complementava o fornecimento de mão de obra trazida de Luanda para o Porto de Copacabana",
+    "c": "Copacabana remete ao passado em que as Américas portuguesa e espanhola se conectavam por redes comerciais e culturais",
+    "d": "Copacabana preserva a memória do desembarque de escravizados que, dali, eram levados para Buenos Aires e Peru"
+   },
+   "explicacao": "O excerto descreve uma rede: africanos levados de Luanda ao Prata (via Rio de Janeiro no contrabando), prata do Potosí voltando ao Rio, Bahia e Recife — e, dessa conexão comercial, a chegada de um culto peruano, Nossa Senhora de Copacabana, ao Rio em 1637. O nome da praia guarda essa ligação comercial e cultural entre a América portuguesa e a espanhola. A prata não era extraída em Buenos Aires (vinha do Peru), não há pedras preciosas no texto nem “porto de Copacabana”, e o texto não diz que escravizados desembarcavam ali.",
+   "resposta": "c",
+   "origem": "medicina"
   }
  ],
  "historia-brasil-republica": [
@@ -58424,6 +60390,128 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A eleição de 1960 é o auge da política de massas na República de 1946: eleitorado urbano ampliado, rádio e televisão em campanha e candidaturas construídas sobre a figura pessoal — Jânio Quadros e a vassoura que varreria a corrupção são o retrato exato disso. Alternativa B. A alternativa A afirma redução do personalismo e das mobilizações populares, o oposto; C fala em consenso desenvolvimentista, quando a disputa opunha projetos; D anuncia declínio dos meios de comunicação de massa, em plena expansão do rádio e da TV; e E descreve baixa participação urbana e pouca circulação de discursos moralizadores, contra a campanha moralizadora que definiu o pleito."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "historia-2200223",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fgv",
+   "texto_apoio": "A produção industrial de têxteis brasileiros cresceu sistematicamente do século XIX até 1923, e então diminuiu durante o restante da década de 1920. A produção diminuía na fase de expansão das exportações e aumentava quando ocorriam choques adversos no setor de exportação, sobretudo do café. (Francisco Vidal Luna e Herbert S. Klein. História econômica e social do Brasil: o Brasil desde a república, 2016. Adaptado.)",
+   "enunciado": "Esse descompasso no crescimento da produção nos dois setores da economia brasileira devia-se à correlação entre",
+   "alternativas": {
+    "a": "o aumento dos lucros na grande empresa agrícola e a aplicação de capitais líquidos industriais nas atividades de maior rendimento monetário.",
+    "b": "a diminuição de rentabilidade na produção econômica tradicional e a política governamental de proteção industrial.",
+    "c": "os lucros empresariais elevados e o deslocamento da mão de obra especializada para os setores econômicos potencialmente mais dinâmicos.",
+    "d": "a perda do poder de compra dos latifundiários agrícolas e a expansão do mercado consumidor de produtos nacionais de baixa qualidade.",
+    "e": "a entrada de divisas na economia do país e a possibilidade de aquisição de mercadorias estrangeiras."
+   },
+   "resposta": "e",
+   "explicacao": "A chave é a balança de divisas. Quando o café exportava bem, entrava moeda estrangeira, o câmbio favorecia e o país importava tecidos — a indústria nacional perdia mercado. Quando o café sofria choque, faltavam divisas, importar ficava caro e a fábrica brasileira ocupava o espaço. O descompasso vem, portanto, da correlação entre a entrada de divisas e a possibilidade de comprar mercadorias estrangeiras. É o mecanismo que a historiografia chama de substituição de importações por choque externo. As demais supõem transferências de capital ou de mão de obra entre setores que o texto não menciona, ou uma política protecionista deliberada que não existia na República Velha; e latifundiários não perderam poder de compra na fase de expansão das exportações."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "historia-2200225",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "No tópico mais importante, [Getúlio Vargas] acompanhou a maioria liderada por Washington na resolução que equiparou o eventual controle de um país das Américas por um regime comunista a uma ameaça a todos os países das Américas. Dois meses antes do suicídio de Vargas, em 24 de agosto de 1954, o Brasil apoiou a invasão contra o governo esquerdista da Guatemala, numa operação montada pelo governo americano, e sustentou no Conselho de Segurança da ONU, a posição dos Estados Unidos. (Rubens Ricupero. A diplomacia na construção do Brasil, 2017. Adaptado.)",
+   "enunciado": "A diretriz das relações exteriores do governo de Getúlio Vargas (1951–1954) nas Américas",
+   "alternativas": {
+    "a": "garantia o apoio de organizações políticas nacionais conservadoras à sua política trabalhista.",
+    "b": "resultava do reconhecimento pelo governo norte-americano do protagonismo do Brasil na América Latina.",
+    "c": "ocorria em uma conjuntura internacional tensa caracterizada pela divisão dos países entre superpotências nucleares.",
+    "d": "ajustava-se ao discurso governamental de união necessária dos países do Terceiro Mundo contra a exploração colonialista.",
+    "e": "revelava a neutralidade brasileira frente às disputas dos países industrializados pelos mercados da América do Sul."
+   },
+   "resposta": "c",
+   "explicacao": "Ricupero mostra o Brasil de Vargas votando com Washington na OEA e na ONU e apoiando a derrubada de Árbenz na Guatemala em 1954: a política externa brasileira alinhada aos Estados Unidos no auge da Guerra Fria, quando o mundo se dividia entre duas superpotências nucleares. É essa conjuntura tensa que explica a diretriz. Não se trata de apoio interno de conservadores ao trabalhismo, nem de reconhecimento de protagonismo brasileiro; o discurso terceiro-mundista de união contra o colonialismo é dos anos 1960; e \"neutralidade\" é o contrário do que o texto descreve."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "historia-2200227",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "A velha aposta no crescimento econômico e num futuro promissor para o Brasil assumia, então, a forma de uma crença cega na capacidade individual de “fazer a diferença” contra todos os prognósticos, algo que o jovem presidente [Collor de Mello] já havia transformado em sua marca pessoal. [...] A promessa de modernização mais uma vez se encarnava no fascínio pela indústria e suas máquinas maravilhosas. Para quem não lembra, a vinheta da propaganda política do então candidato Collor mostrava um trem em marcha acelerada rumo ao progresso. (Maria Eduarda da Mota Rocha. A nova retórica do capital: a publicidade brasileira em tempos neoliberais, 2010.)",
+   "enunciado": "O projeto de modernização",
+   "alternativas": {
+    "a": "revestia-se da ideologia da iniciativa criativa dos agentes econômicos.",
+    "b": "insistia na necessidade da atuação do Estado como gestor econômico.",
+    "c": "garantia a proteção exclusiva dos setores nacionais de alta tecnologia.",
+    "d": "pressupunha a extensão do sistema de proteção social aos trabalhadores.",
+    "e": "distinguia-se na conjuntura internacional do final da década de 1980."
+   },
+   "resposta": "a",
+   "explicacao": "A propaganda de Collor, segundo o texto, apostava na \"capacidade individual de fazer a diferença\" e no fascínio pela indústria e pelas máquinas: é a ideologia da iniciativa individual, do empreendedor que vence \"contra todos os prognósticos\" — a retórica neoliberal do começo dos anos 1990. Daí a alternativa da iniciativa criativa dos agentes econômicos. O projeto de Collor era o oposto do Estado gestor; abriu a economia em vez de proteger setores; não ampliou a proteção social; e não se distinguia da conjuntura internacional — era a versão brasileira dela."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "historia-2200230",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Um relatório recém-publicado pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) analisou o desempenho de países em seis tecnologias transversais consideradas estratégicas para o futuro da indústria — inteligência artificial e robótica, biotecnologia, energia, materiais, nanociência e nanotecnologia, e optoeletrônica — e mostrou que o Brasil não está conseguindo acompanhar esse esforço global. [...] O desempenho brasileiro foi um pouco melhor em biotecnologia. [...] Para Carlos Alberto Moreira Filho, professor da Faculdade de Medicina da USP, “a performance brasileira se deve mais a pesquisas em áreas de interesse da agroindústria — como controle biológico de pragas, melhoramento genético de cultivares.” (Rodrigo de Oliveira Andrade. “Alicerce para inovar”. Revista Pesquisa FAPESP, agosto de 2021.)",
+   "enunciado": "Os resultados apresentados pelo estudo",
+   "alternativas": {
+    "a": "assinalam o descompasso das pesquisas científicas com as condições econômicas.",
+    "b": "confirmam o controle direto das pesquisas universitárias pelos agroexportadores.",
+    "c": "reafirmam a precedência do saber científico sobre as estruturas econômicas.",
+    "d": "revelam a configuração inovadora do setor mais dinâmico da economia brasileira.",
+    "e": "demonstram o processo irreversível do desmonte industrial brasileiro."
+   },
+   "resposta": "d",
+   "explicacao": "O Brasil vai mal nas seis tecnologias estratégicas e um pouco melhor em biotecnologia — e o pesquisador explica: o desempenho vem de pesquisas de interesse da agroindústria, controle de pragas e melhoramento de cultivares. Ou seja, no Brasil da Nova República a inovação acompanha o setor mais dinâmico da economia, o agronegócio: a configuração inovadora desse setor é o que os resultados revelam. Não se trata de descompasso entre ciência e economia — pelo contrário, uma segue a outra; não há controle direto das universidades pelos exportadores; a ciência não \"precede\" as estruturas econômicas no texto; e o desmonte industrial não é tratado como irreversível."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "unicamp-historia-04",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Em 1937, um golpe de Estado instaurou o Estado Novo no Brasil, um regime autoritário. Diferentes leituras do golpe de Vargas foram publicadas no jornal The New York Times, ilustrando o impacto difuso daquele evento na imprensa. De um lado, escrevendo da Argentina, o chefe dos correspondentes na América Latina, John White, afirmou o caráter “pseudo-fascista” do movimento, registrando a atuação dos censores sobre o trabalho dos correspondentes internacionais que atuavam no Brasil. White destacava o apoio alemão ao novo regime brasileiro e os desafios de centralizar o poder nas mãos de Getúlio Vargas. De outro lado, Frank Garcia, correspondente do The New York Times, que atuava então no Brasil, comentou:\n\nEu posso dizer que, embora tenha havido censura, eu não tive dificuldades em enviar matérias ao The New York Times. Elas foram telegrafadas sem nenhum problema. Essa nova Constituição configura o Estado um tanto fascista, mas não inteiramente. É mais democrático que fascista. Na verdade, é nacionalista.",
+   "fonte_texto": "Adaptado de LINS, L.F.T. de S. Notícias de falsos vendavais: o golpe do Estado Novo de 1937 e o discurso de junho de 1940 nos jornais estadunidenses. História: Debates e Tendências, vol. 19, n. 2, p. 332-351, 2019.",
+   "enunciado": "Sobre a repercussão internacional do Golpe do Estado Novo no exterior, podemos afirmar que havia",
+   "alternativas": {
+    "a": "percepção unânime do pleno alinhamento ideológico do Brasil com governos fascistas",
+    "b": "condenação ao fascismo e sugestão de sanções econômicas em razão do apoio alemão a Vargas",
+    "c": "controvérsias e ambiguidades na caracterização ideológica do novo governo Vargas",
+    "d": "estratégias de resistência à censura imposta aos jornalistas que atuavam no Brasil"
+   },
+   "explicacao": "O próprio texto opõe duas leituras no mesmo jornal: White vê um movimento “pseudo-fascista” com apoio alemão e censura; Garcia diz que o Estado é “um tanto fascista, mas não inteiramente”, “mais democrático que fascista”, “nacionalista”. Não há unanimidade, não se fala em sanções, e Garcia afirma ter enviado matérias sem dificuldade — nada de estratégias de resistência à censura. O que há é controvérsia e ambiguidade na caracterização do regime.",
+   "resposta": "c",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "unicamp-historia-06",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Fotografia e desenhos",
+    "arquivo": "assets/provas/unicamp-2026-q33.jpg",
+    "descricao": "Três imagens da coleção International Dateline Collection III, de Zuzu Angel (1971). No alto, o vestido de noiva: longo, branco, com bordados coloridos de desenhos infantis espalhados — sol, flores, passarinhos, tambor, canhão, soldadinho, gaiola. Abaixo, dois desenhos usados como modelo dos bordados, com anotações a lápis e caneta: um quepe militar (verde-oliva, amarelo e azulão-verde, com o número 32) e um canhão (vermelho, amarelo e azul, com bandeira verde e bola preta, número 23 e assinatura “Carlos L”)."
+   },
+   "enunciado": "As imagens fazem parte da coleção International Dateline Collection III, exposta em um desfile internacional, organizado pela estilista brasileira Zuzu Angel, em Nova Iorque, no dia 13 de setembro de 1971.\n\nLegenda: Vestido de noiva idealizado por Zuzu Angel.\nLegenda: Desenho de quepe militar nas cores verde oliva, amarela, azulão-verde; com aba na cor verde direcionada para a direita. Possui inscrição do número \"32\" a lápis e à caneta, bem como o texto \"verde oliva, amarelo, azulão-verde\" e a palavra \"azulão\" registrados à caneta. Desenho utilizado em bordado de vestido.\nLegenda: Desenho de canhão nas cores vermelha amarela, e azul. Possui bandeira na cor verde e bola na cor preta. Apresenta inscrição a lápis com o número \"23\" e assinatura \"Carlos L\" à caneta. Desenho utilizado em bordado de vestido.\n\nSobre as criações de Zuzu Angel para a produção das peças e organização do desfile, é correto afirmar que a",
+   "fonte_texto": "Imagens disponíveis em https://www.zuzuangel.com.br. Acesso em 01/08/2025.",
+   "alternativas": {
+    "a": "utilização de um vestido de noiva, decorado com símbolos militares e desenhos infantis, amenizava a percepção internacional dos anos de chumbo do Brasil pós-AI5",
+    "b": "escolha por desenhos infantis, associados aos motivos militares, expressa uma denúncia do desaparecimento de presos políticos",
+    "c": "banalização de elementos militares, em um desfile de moda, mostra uma alienação de parte da classe artística brasileira diante do regime militar",
+    "d": "opção pelos motivos militares remonta à valorização do nacionalismo e à adesão da estilista à política externa do Regime Militar"
+   },
+   "explicacao": "O desfile de 1971 em Nova York é o protesto de Zuzu Angel pelo filho Stuart Angel, militante desaparecido depois de preso pela ditadura naquele ano: os motivos infantis (o filho) misturados a quepes, canhões e soldados (o regime) são a denúncia costurada no vestido, levada a uma plateia internacional. Nada ali ameniza a imagem do país nem adere ao regime; e chamar de alienação o gesto de uma mãe denunciando o desaparecimento do filho é o oposto do que a coleção significou.",
+   "resposta": "b",
+   "origem": "medicina"
   }
  ],
  "historia-geral-contemporanea": [
@@ -61567,6 +63655,88 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O que aproxima Gutenberg dos computadores, no argumento de Lyons, é o efeito sobre a leitura: as duas revoluções ampliaram o acesso à informação, e as previsões erradas que ele cita — cinco computadores no mundo, quinze toneladas cada, nenhuma razão para ter um em casa — servem para medir o tamanho da subestimação. Alternativa E. A alternativa A fala em impacto diminuto; B elogia o espírito visionário de Gutenberg e Ken Olsen, quando Olsen é citado justamente por não ter visto o que vinha; C nega a existência de mercado amplo de leitores; e D atribui lentidão às inovações, e o texto insiste na velocidade da revolução eletrônica."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-2200224",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "O governo fascista de Benito Mussolini assinou com o Papado, em 1929, o Tratado de Latrão, que",
+   "alternativas": {
+    "a": "transferia para a organização eclesiástica a estrutura administrativa do regime totalitário italiano.",
+    "b": "entregava à burocracia do Vaticano o controle da rede púbica de ensino secundário do país.",
+    "c": "inaugurava na história do Ocidente europeu a sagração religiosa do poder político do Estado.",
+    "d": "procurava superar o conflito entre Estados resultantes do processo de unificação política da Itália.",
+    "e": "instituía a política das duas espadas com a abdicação do poder temporal pela Igreja católica."
+   },
+   "resposta": "d",
+   "explicacao": "A unificação italiana, concluída em 1870 com a tomada de Roma, deixou o papa \"prisioneiro no Vaticano\" e a Igreja em conflito aberto com o Estado italiano — a chamada Questão Romana. O Tratado de Latrão, de 1929, encerrou esse conflito: criou o Estado da Cidade do Vaticano, indenizou a Santa Sé e regulou as relações entre os dois Estados. É isso que a alternativa correta descreve. O tratado não entregou a administração do regime nem o ensino secundário à Igreja; a sagração religiosa do poder político é muito anterior na história europeia; e a \"política das duas espadas\" é doutrina medieval, não fórmula de 1929."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "historia-2200226",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Apesar da convicção de comentaristas contemporâneos de que a maioria dos jovens franceses era despolitizada, estudantes acalentavam queixas que, se não eram convencionalmente “políticas”, poderiam rapidamente converter-se em políticas. Uma fonte de ressentimento era a proibição de que estudantes do sexo masculino e do sexo feminino visitassem os halls de dormitórios uns dos outros à noite. Isso vinha provocando protestos esporádicos em vários campi. Mais velha do que a massa de estudantes, havia também uma minoria de líderes estudantis altamente politizados pela Guerra da Argélia. (Julian Jackson. Charles de Gaulle: uma biografia, 2020.)",
+   "enunciado": "A revolta estudantil de maio de 1968 na França, apesar de ter se propagado para fora do país, foi provocada por fatores particulares à sociedade francesa, tais como:",
+   "alternativas": {
+    "a": "a escassez de oferta de trabalho para os estudantes universitários recém-formados e a lentidão do desenvolvimento industrial do país.",
+    "b": "a permanência dos símbolos dos movimentos revolucionários franceses nos meios estudantis e a consolidação de um regime político autoritário.",
+    "c": "a diminuição progressiva do número de estudantes de nível superior e a falta de investimento estatal nas universidades.",
+    "d": "a emergência de uma consciência de autonomia nacional na massa estudantil e a submissão da política exterior francesa ao bloco capitalista.",
+    "e": "a revolução dos costumes ao longo de um período de crescimento econômico e a agitação político-social na conjuntura de crise do colonialismo."
+   },
+   "resposta": "e",
+   "explicacao": "O texto lista os ingredientes franceses: queixas de costumes — a proibição de visitas entre dormitórios masculinos e femininos — em plena prosperidade dos \"trinta gloriosos\", e uma minoria de líderes politizada pela Guerra da Argélia, isto é, pela crise do colonialismo francês no ciclo da descolonização afro-asiática. Revolução dos costumes num período de crescimento e agitação ligada ao fim do império colonial: é a alternativa correta. Não havia escassez de emprego nem lentidão industrial; a França de De Gaulle era autoritária no estilo, mas não um regime autoritário; o número de estudantes crescia, não diminuía; e \"consciência de autonomia nacional\" não é o que move o movimento."
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "unicamp-historia-05",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "\"A OMC não será uma organização mundial de comércio até que a China seja um país-membro\", afirmou Mike Moore, diretor-geral da OMC. A assinatura de um acordo bilateral de comércio entre os Estados Unidos e a China teve uma repercussão positiva no mercado internacional, apesar da desconfiança de que a China poderá ter dificuldades para cumprir o prometido. \"A China deu um passo grande em direção à OMC\", disse o presidente dos Estados Unidos, Bill Clinton. A União Europeia aprovou a assinatura do acordo. A adesão da China à OMC permitirá incluir no sistema comercial internacional a décima potência do planeta, que cresceu em média 9,6% ao ano desde 1980. O acordo será um teste importante para verificar se a economia chinesa aguentaria o impacto de sua incorporação à OMC e se continuaria com seu crescimento. Desde 1986, o país asiático busca ser aceito em um organismo de comércio internacional. Segundo nota chinesa, \"ambas as partes estreitarão sua cooperação no seio da OMC para garantir no futuro o aumento de suas relações bilaterais e a prosperidade da economia mundial\".",
+   "fonte_texto": "De agências internacionais, Sem a China, OMC não é mundial. Folha de S. Paulo, ano 79, n. 25.794, 16 de novembro de 1999. Disponível em https://www1.folha.uol.com.br/fsp/dinheiro/fi1611199903.htm. Acesso em 05/08/2025.",
+   "enunciado": "Comparando as expectativas sobre o ingresso da China na Organização Mundial de Comércio (OMC) expressas no texto com o contexto atual, é correto afirmar que",
+   "alternativas": {
+    "a": "havia um otimismo em relação à expansão da globalização da economia mundial entre as décadas de 1990 e 2000",
+    "b": "a entrada da China na OMC interrompeu o deslocamento das indústrias norte-americana e europeia para a Ásia",
+    "c": "a guerra tarifária contemporânea revela o fracasso do modelo de desenvolvimento chinês dos anos 2000",
+    "d": "os compromissos assumidos pela China na entrada na OMC permitiram a consolidação dos direitos humanos no país"
+   },
+   "explicacao": "A notícia de 1999 respira otimismo: repercussão positiva nos mercados, aprovação da União Europeia, Clinton celebrando o “passo grande”, promessa de prosperidade da economia mundial — é o clima da globalização da virada do século. Depois da adesão (2001) a indústria continuou migrando para a Ásia, e não o contrário; a guerra tarifária atual reage ao sucesso, não ao fracasso, do modelo chinês; e a entrada na OMC não trouxe consolidação de direitos humanos na China.",
+   "resposta": "a",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "unicamp-historia-07",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Mapa",
+    "arquivo": "assets/provas/unicamp-2026-q34.jpg",
+    "descricao": "Mapa-múndi “Distribuição do princípio de nacionalidade no mundo contemporâneo”: em verde (predomínio do jus soli) as Américas quase inteiras — Canadá, Estados Unidos, México, América Central e do Sul — e alguns países da África; em laranja (predomínio do jus sanguinis) a Europa, o norte da África, o Oriente Médio, a Índia, o Sudeste Asiático e a Austrália; em cinza (sem definição) o restante, inclusive a maior parte da África e da Ásia."
+   },
+   "texto_apoio": "Nas concepções de cidadania e nacionalidade em vigor a partir do século XIX, a filiação formal a um país é geralmente adquirida no nascimento, seja pelo jus soli (direito de solo) ou pelo jus sanguinis (direito de sangue). O jus soli atribui a nacionalidade com base no nascimento no território de um país; o jus sanguinis atribui às crianças a nacionalidade de seus pais. A dicotomia soli/sanguinis foi uma invenção do século XIX. Os impérios europeus do Antigo Regime atribuíam a pertença à comunidade com base em um ou outro princípio único de direito natural.",
+   "fonte_texto": "Adaptado de PERL-ROSENTHAL, N. E.; ERMAN, S. Inventing Birthright: The Nineteenth-Century Fabrication of Jus Soli and Jus Sanguinis. Law and History Review 42, n. 3, p. 421-48, 2024. Mapa adaptado de The Law Library of Congress, 2020.",
+   "enunciado": "Considerando o texto e o mapa (legenda: verde — predomínio do princípio do jus soli; laranja — predomínio do jus sanguinis; cinza — sem definição), assinale a alternativa correta.",
+   "alternativas": {
+    "a": "Filhos de estrangeiros nascidos em países europeus adquiriam a nacionalidade e a cidadania ao nascer, após o fim das revoluções burguesas",
+    "b": "As ex-colônias europeias nas Américas eram importantes destinos de imigrantes, o que influenciou suas definições de cidadania e nacionalidade",
+    "c": "Regimes populistas proibiram que os nascidos nos novos países reivindicassem cidadania europeia, após as independências americanas",
+    "d": "O jus sanguinis era utilizado nas colônias como um instrumento de controle pela Europa para dificultar o acesso à cidadania dos povos nativos"
+   },
+   "explicacao": "O mapa mostra o jus soli concentrado nas Américas e o jus sanguinis na Europa. Os países americanos, formados por imigração em massa no século XIX, adotaram o direito de solo para incorporar os filhos dos imigrantes como nacionais — a imigração moldou suas definições de cidadania. Na Europa, ao contrário, predomina o sangue: filhos de estrangeiros não adquirem a nacionalidade automaticamente. As opções sobre regimes populistas e sobre jus sanguinis colonial não têm apoio no texto nem no mapa.",
+   "resposta": "b",
+   "origem": "medicina"
   }
  ],
  "historia-geral-moderna": [
@@ -63047,6 +65217,65 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Os cercamentos transformaram terras comuns em propriedade privada, expulsaram o campesinato que delas vivia — daí o êxodo rural que abasteceu de mão de obra as cidades industriais — e abriram caminho para a produção voltada ao mercado. É a alternativa A. A alternativa B fala em coletivização e manutenção da subsistência, exatamente o que foi desfeito; C acerta as cercas e a lã, mas transforma os camponeses em proprietários, quando foram expropriados; D nega amparo legal, e os cercamentos foram feitos por atos do Parlamento, e ainda promete contenção da urbanização; e E promete justa compensação aos expropriados e mais trabalho no campo."
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "historia-2200218",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Entre a arte cisterciense do século XII e a pintura calvinista e jansenista do XVII, e passando pela vaga de oposição às cores dos inícios da Reforma, não há ruptura, mas, ao contrário, um discurso único: a cor é fardo, luxo, artifício, ilusão. Ela é vã porque é matéria; ela é perigosa porque ela afasta do verdadeiro e do bem; ela é culpável porque ela tenta seduzir e enganar. A esse respeito, São Bernardo e Calvino empregam, mais ou menos, as mesmas palavras. (Michel Pastoureau. Bleu, histoire d´une couleur, 2000. Adaptado.)",
+   "enunciado": "As considerações sobre as cores no interior dos diversos movimentos de reforma do cristianismo",
+   "alternativas": {
+    "a": "demonstravam o emprego das imagens como recurso para a propagação das religiões monoteístas.",
+    "b": "insistiam na necessidade de reorientação da existência do fiel para os textos sagrados.",
+    "c": "configuravam uma crítica religiosa aos faustos das cortes monárquicas.",
+    "d": "entendiam a vida monástica como o caminho seguro para a salvação da humanidade.",
+    "e": "postulavam a teoria do livre arbítrio como o fundamento da concepção cristã do universo."
+   },
+   "resposta": "b",
+   "explicacao": "De São Bernardo, no século XII, a Calvino, no XVI, o texto de Pastoureau encontra um mesmo discurso: a cor é matéria, luxo, sedução — desvia do verdadeiro e do bem. Recusar a cor e a imagem é dirigir o fiel para o que não seduz os olhos: a palavra, o texto sagrado, o que a Reforma chamou de sola scriptura. Daí a reorientação da existência do fiel para os textos sagrados. A alternativa que fala em imagens como recurso de propagação diz o contrário do texto; a crítica é à cor, não aos faustos das cortes; a vida monástica cabe a Bernardo, mas não a Calvino; e o livre-arbítrio é justamente o que a teologia calvinista restringe."
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "historia-2200220",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Os nativos americanos estavam isolados, vivendo em condições relativamente saudáveis. Quando os europeus invadiram, trazendo consigo suas doenças endêmicas, as populações nativas não contavam com nenhuma proteção de qualquer das imunidades adequadas. [...] Pouco tempo depois, a África começou a enviar suas doenças tropicais diretamente às terras litorâneas da América. A febre amarela chegou com os navios de escravos. (Nicolás Sanchez-Albornoz. “A população da América espanhola colonial.” In. Leslie Bethell (org.). História da América Latina: a América Latina colonial, vol. II, 1999.)",
+   "enunciado": "O texto descreve um aspecto essencial do processo da colonização europeia da Idade Moderna, que",
+   "alternativas": {
+    "a": "impediu a extração de riquezas minerais por falta de mão de obra.",
+    "b": "revelou o emprego de armas bacteriológicas contra os índios rebeldes.",
+    "c": "facilitou a conquista de povos pré-colombianos, principalmente nas regiões muito povoadas.",
+    "d": "restringiu a ocupação europeia do novo continente às faixas litorâneas.",
+    "e": "implicou a transferência de trabalhadores assalariados para a América."
+   },
+   "resposta": "c",
+   "explicacao": "No quadro da expansão marítima e do mercantilismo europeu, populações isoladas, sem imunidade, encontraram varíola, sarampo e gripe: a mortalidade foi catastrófica exatamente onde havia mais gente — os impérios asteca e inca, densamente povoados —, e desorganizou a resistência antes e durante a conquista. As epidemias facilitaram a conquista dos povos pré-colombianos, sobretudo nas regiões muito povoadas. Não impediram a mineração, que usou o trabalho compulsório indígena e depois africano; não foi guerra bacteriológica deliberada; a ocupação europeia não ficou restrita ao litoral; e o trabalhador transferido da África veio cativo, pelo comércio atlântico, não assalariado."
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "unicamp-historia-03",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Entre várias obras que devem formar este precioso presente que ofereço aos meus concidadãos, dei o primeiro lugar ao Contrato Social, escrito pelo cidadão de Genebra, Jean-Jacques Rousseau. Este homem imortal, que obteve a admiração de seu século e será o assombro de todas as idades, [... ensinou que] os povos aprenderam a procurar no pacto social a raiz e a única origem da obediência, não reconhecendo os seus chefes como emissários da divindade, enquanto não mostrassem as patentes do céu na qual eram destinados a imperar sobre seus semelhantes. [...] Como o autor teve a desgraça de delirar em matérias religiosas, suprimo o capítulo e as passagens principais onde delas tratou.",
+   "fonte_texto": "MORENO, M. Prólogo de O Contrato Social ou Princípios do direito político, de Jean-Jacques Rousseau, Buenos Aires, 1810 apud MYERS, J. A revolução de independência no Rio da Prata e as origens da nacionalidade argentina (1806-1825) In: PAMPLONA, M; MÄDER, M. (org.). Revoluções de independências e nacionalismos nas Américas: região do Prata e Chile. São Paulo: Paz e Terra, p. 107 e 109, 2007.",
+   "enunciado": "Mariano Moreno, tradutor de Rousseau para o espanhol, foi secretário do primeiro governo da Argentina entre os anos 1810 e 1811. No texto acima, ele",
+   "alternativas": {
+    "a": "critica a defesa que Rousseau faz da Igreja e dos governos absolutistas na obra O Contrato Social",
+    "b": "interfere na tradução e edição da obra de Rousseau conforme seus ideários políticos e ideológicos",
+    "c": "justifica a tradução da obra para difundir a ideia de obediência cívica ligada à religião católica e ao rei",
+    "d": "demonstra seu caráter conservador e a resistência ao pensamento liberal e iluminista na Argentina"
+   },
+   "explicacao": "Moreno exalta Rousseau e o pacto social como única origem da obediência — posição iluminista e liberal, contrária ao direito divino dos reis —, mas anuncia que “suprime o capítulo e as passagens” sobre religião, por julgá-las “delírio”. Ou seja, edita a obra segundo suas convicções políticas e religiosas. Rousseau não defende Igreja nem absolutismo; Moreno não prega obediência ao rei; e seu gesto é de adesão ao iluminismo, não de resistência a ele.",
+   "resposta": "b",
+   "origem": "medicina"
   }
  ],
  "historia-geral-antiga-medieval": [
@@ -64476,6 +66705,50 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Boccaccio registra três receitas opostas contra o mesmo mal — moderação, excesso e meio-termo — e uma delas, \"vagavam de um lugar a outro\", é a que interessa: sem saber como a doença se transmitia, as pessoas fugiam e levavam a peste consigo. Alternativa C. A alternativa A restringe a mortandade à Península Itálica, quando a peste varreu a Europa; B afirma que os comportamentos dificultaram a disseminação, e a fuga a facilitou; D diz que os rituais fúnebres foram preservados, contra os cadáveres postos em tábuas e os caixões com dois ou três mortos; e E fala em ruptura institucional imediata da cristandade, que foi lenta e posterior."
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "historia-2200216",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "O que se produziu ao mesmo tempo que a invenção da escrita? O que a acompanhou? O que pode tê-la condicionado? Com respeito a isso, pode-se fazer uma constatação: o único fenômeno que parece sempre e em todos os lugares ligado à aparição da escrita, não somente no Mediterrâneo oriental, mas na China proto-histórica e mesmo nas regiões da América onde esboços de escrita aparecem antes da conquista, é a constituição de sociedades hierarquizadas, de sociedades compostas de senhores e escravos, de sociedades que utilizam uma certa parte de sua população para trabalhar em benefício da outra parte. (Georges Charbonnier. Arte, linguagem, etnologia: entrevistas com Claude Lévi-Strauss, 1989.)",
+   "enunciado": "Lévi-Strauss fez algumas perguntas a respeito das condições do aparecimento da escrita e comparou as formações sociais nas quais ela se originou. Em seguida, concluiu que a escrita",
+   "alternativas": {
+    "a": "surgiu simultaneamente às primeiras manifestações artísticas conhecidas da humanidade.",
+    "b": "relacionou-se necessariamente com o nascimento dos cultos das deusas da fertilidade.",
+    "c": "pressupôs a constituição do Estado no quadro de uma economia de produção de excedentes.",
+    "d": "pacificou as relações entre os povos com a fiscalização dos indivíduos por meio de códigos de leis.",
+    "e": "transformou a economia de coleta de produtos naturais em uma intervenção efetiva na natureza."
+   },
+   "resposta": "c",
+   "explicacao": "A resposta está na constatação de Lévi-Strauss: em todo lugar onde a escrita apareceu, apareceu junto uma sociedade hierarquizada, com uma parte da população trabalhando para a outra. Isso pressupõe excedente de produção — sem ele não há quem viva do trabalho alheio — e um poder que organiza e registra essa apropriação: o Estado. A escrita nasce, portanto, ligada à administração de sociedades estatais com excedente — é o que se vê na Mesopotâmia e no Egito antigo, onde os primeiros registros são contas de templos e palácios. As primeiras manifestações artísticas são muito anteriores; cultos de fertilidade e códigos de leis pacificadores não estão no texto; e a passagem da coleta à produção é a Revolução Neolítica, que precede a escrita em milênios."
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "unicamp-historia-02",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Pintura em vaso grego",
+    "arquivo": "assets/provas/unicamp-2026-q29.jpg",
+    "descricao": "Pintura de figuras vermelhas em cerâmica ática: no centro, um jovem imberbe e nu, de perfil, prepara-se para lançar o disco; ao redor aparecem dois halteres e um enxadão, objetos de uma palestra."
+   },
+   "texto_apoio": "Esporte apreciado entre os helenos, o lançamento de disco exigia do atleta uma disciplina técnica, evidenciada pela harmonia dos movimentos corporais. No centro da imagem, há um jovem se preparando para o lançar o disco. A ausência da barba do personagem permite afirmar que ele está sendo preparado para o exercício da cidadania plena. A presença dos dois halteres e do enxadão indica que a cena ocorre em uma palestra: campo de exercício cercado de edifícios com funções diversas. Na imagem original, contamos com uma inscrição que diz \"Kléomelos é belo\".",
+   "fonte_texto": "Texto e imagem adaptados de LESSA, F. de S. Corpo, Esporte e Masculinidade em Atenas. PHOÎNIX, Rio de Janeiro. v. 10: p. 111-132, 2004.",
+   "enunciado": "A imagem e o texto têm como tema comum as práticas esportivas e a construção da masculinidade entre os atenienses no Período Clássico (séculos V e IV a.C.).\n\nA partir da imagem e do texto, assinale a alternativa correta sobre a interpretação da imagem.",
+   "alternativas": {
+    "a": "Um atleta do lançamento de discos, esporte olímpico, ligado ao trabalho manual das camadas subalternas",
+    "b": "Distinção de classe social, já que se representa um ideário de beleza própria ao atleta bem-nascido",
+    "c": "Um cidadão ateniense maduro e despido, em pose comum aos lançadores de disco já vitoriosos",
+    "d": "Elementos gráficos que representam a percepção social e esportiva do ápice da masculinidade"
+   },
+   "explicacao": "A palestra, o treino atlético e a inscrição “Kléomelos é belo” pertencem ao universo dos jovens bem-nascidos de Atenas, preparados para a cidadania plena — o ideal de beleza (kalós) marca a distinção de classe. O texto diz que o jovem é imberbe, ou seja, ainda não é o cidadão maduro nem representa o ápice da masculinidade adulta; e o esporte era prática da elite, não trabalho manual das camadas subalternas.",
+   "resposta": "b",
+   "origem": "medicina"
   }
  ],
  "geografia-populacao-urbana": [
@@ -66722,6 +68995,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Cidade que se espalha alonga o percurso: quanto maior a mancha urbana, maiores as distâncias entre moradia e trabalho e maior o tempo gasto, ainda mais quando o espalhamento vem acompanhado de dependência do automóvel. Alternativa A, e os números ajudam — Mumbai, confinada numa península, tem quatro vezes a densidade de São Paulo em área muito menor. A alternativa B atribui a Mumbai maior área urbana, e é o contrário; C culpa o transporte coletivo pelo tempo de deslocamento, quando ele o reduz; D chama o veículo particular de eficiente, e é o modal que congestiona a Cidade do México; e E explica o uso do carro pelo nível econômico, ignorando a oferta de transporte público."
+  },
+  {
+   "subtema": "geografia-populacao-urbana",
+   "id": "geografia-220028",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Nas décadas de 1950 e 1960 houve aumento da razão de dependência, chegando a 90 dependentes para cada 100 pessoas em idade ativa. A partir de 1970, a razão de dependência começa a cair continuamente até chegar ao nível de 50 dependentes para cada 100 indivíduos em idade ativa no período de 2010 a 2030. Esta menor carga de dependência é denominada na literatura de Janela de Oportunidade ou Bônus Demográfico. (José Eustáquio D. Alves. A transição demográfica e a janela de oportunidade, 2008. Adaptado.)",
+   "enunciado": "As informações sobre a população brasileira, apresentadas no excerto, relacionam-se",
+   "alternativas": {
+    "a": "à diminuição do êxodo rural.",
+    "b": "ao aumento do desemprego estrutural.",
+    "c": "à queda da taxa de fecundidade.",
+    "d": "ao incremento da taxa de mortalidade.",
+    "e": "à redução do número de idosos."
+   },
+   "resposta": "c",
+   "explicacao": "A razão de dependência cai quando a parcela de crianças encolhe em relação à população ativa — e isso é o que a queda da fecundidade produz depois de 1970: menos nascimentos por mulher, menos dependentes jovens, e uma geração numerosa chegando à idade de trabalhar. É o bônus demográfico. Menos êxodo rural não altera a estrutura etária; desemprego estrutural não entra na conta da razão de dependência, que é por idade; aumento da mortalidade e redução do número de idosos contrariam a transição demográfica brasileira, que envelhece a população."
   }
  ],
  "geografia-fisica-clima": [
@@ -68505,6 +70798,48 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A causa de fundo é climática: a Patagônia acumula anos de precipitação abaixo da média, e a seca crônica retira umidade do solo e da vegetação, que passa a queimar com facilidade. Alternativa D. A alternativa A descreve a região como planície de pouca variação altimétrica, e ela é andino-patagônica, de relevo acidentado; B fala em florestas ombrófilas, que são úmidas por definição e não formam combustível seco; C atribui o alastramento a ventos pouco intensos, quando a Patagônia é notória pelos ventos fortes, que espalham o fogo; e E situa os incêndios na transição com a floresta equatorial, ausente naquela latitude."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "geografia-220029",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "enunciado": "O clima mais ameno encontrado na costa Atlântica da Europa, especialmente nos litorais da Irlanda, da Grã-Bretanha e do sul da Escandinávia, está relacionado à",
+   "alternativas": {
+    "a": "longitude em relação à Linha do Equador, que proporciona menores índices de albedo para a região.",
+    "b": "corrente marítima quente do Golfo, que oferece calor e umidade para as massas de ar ao longo de sua área de atuação.",
+    "c": "proximidade com a zona térmica equatorial, que garante um regime de insolação mais intenso ao longo das estações do ano.",
+    "d": "corrente marítima fria de Humboldt, que transfere suas características ao ser impulsionada pela força eólica junto à superfície.",
+    "e": "ocorrência de fenômenos climáticos extremos, que reduzem aspectos como pressão atmosférica e altimetria locais."
+   },
+   "resposta": "b",
+   "explicacao": "Irlanda, Grã-Bretanha e sul da Escandinávia ficam entre 50° e 60° norte, onde se esperaria frio rigoroso, e ainda assim têm clima temperado, de invernos amenos — o que os aquece é a corrente do Golfo, quente, que sobe do Caribe pelo Atlântico e cede calor e umidade às massas de ar que chegam do oeste — por isso há vegetação de floresta temperada e portos livres de gelo onde, na mesma faixa do Canadá, há tundra. Longitude não determina temperatura, e \"longitude em relação ao Equador\" nem faz sentido; a região está longe da zona equatorial; a corrente de Humboldt é fria e banha o Pacífico sul-americano; e fenômenos extremos não reduzem \"altimetria\"."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "unicamp-geografia-02",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Mapa",
+    "arquivo": "assets/provas/unicamp-2026-q17.jpg",
+    "descricao": "Mapa da África com faixas latitudinais coloridas: zona I (tropical equatorial, verde) sobre a linha do Equador; zona II (tropical estacional, laranja) ao norte e ao sul dela; zona III (subtropical árido, amarelo) no Saara e no sudoeste do continente; zona IV (mediterrâneo, rosa) no extremo norte e no extremo sul; zona V (temperado quente-úmido, lilás) na costa sudeste; faixas cinza de transição (I–II, II–III, III–II, II–V) entre as zonas. Legenda tabular com zona, clima e zonobiomas."
+   },
+   "enunciado": "O mapa da África apresentando seus respectivos climas e zonobiomas (classificação internacional feita em função do clima e da fitofisionomia) é um bom exemplo para mostrar a distribuição das zonas climáticas em faixas latitudinais. Em outros continentes, cordilheiras, correntes marinhas e diversos fatores distorcem, interrompem e/ou expandem essas faixas, tornando-as menos evidentes.\n\nÁfrica e as suas zonas climáticas e zonobiomas — legenda:\nI — Tropical Equatorial — Florestas e savanas equatoriais\nII — Tropical Estacional — Florestas e savanas estacionais\nIII — Subtropical árido — Desertos quentes\nIV — Mediterrâneo — Chaparral, maqui mediterrâneo\nV — Temperado quente-úmido — Florestas quente-temperadas\n(faixas em cinza: zonas de transição)\n\nA partir da leitura do mapa e de seus conhecimentos sobre os componentes naturais do continente africano, assinale a alternativa correta em relação às zonas de transição.",
+   "fonte_texto": "COUTINHO, L. M. Biomas brasileiros. São Paulo: Oficina de Textos, p. 27-28, 2016.",
+   "alternativas": {
+    "a": "A zona de transição I–II apresenta fitofisionomias típicas de savanas perenifólias nas proximidades da zona I e um processo gradativo do desenvolvimento de florestas ombrófilas no limite com a zona II",
+    "b": "A zona de transição II–III apresenta formações vegetais contínuas e densas, com árvores latifoliadas e higrófilas, típicas da zona II e em detrimento das savanas típicas da zona III",
+    "c": "A zona de transição II–V apresenta uma vegetação densa e permanente, com gramíneas e arbustos, pois a influência da zona V predomina por influência dos processos costeiros",
+    "d": "A zona de transição III–II apresenta vegetação de pequeno porte e espécies xerófitas no contato com a zona III, e um processo gradativo de savanização em direção à zona II"
+   },
+   "explicacao": "A faixa III–II é a passagem do deserto quente (III) para o tropical estacional (II): junto ao deserto a vegetação é rala, de pequeno porte e xerófita (o Sahel), e vai ganhando savana conforme se aproxima da zona II — a savanização gradativa. As outras invertem a lógica: a floresta ombrófila é da zona I (não do limite com II), a zona III é de deserto (não de savana) e o contato com II não é de floresta densa, e a zona V é de floresta temperada, não de gramíneas e arbustos.",
+   "resposta": "d",
+   "origem": "medicina"
   }
  ],
  "geografia-agraria-economica": [
@@ -70609,6 +72944,107 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Os três termos saem do próprio texto. A Serra do Espinhaço em Minas, com campos rupestres e sempre-vivas, está no Cerrado. O deslocamento sazonal descrito — terras baixas na chuva, terras altas na estiagem, levando o gado — é transumância, movimento pendular ligado ao ciclo do pastoreio. E o Sistema Agrícola Tradicional é definido pela fala de Tatinha: panhar flor \"é fazer esse modo de ser, de fazer, de viver\", cultura material e imaterial junto com os agroecossistemas. Alternativa C. As demais erram o bioma (Caatinga, Pradarias, Mata Atlântica) ou reduzem a prática a lucro e técnica rudimentar, como em A e B."
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "geografia-220022",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "enunciado": "A partir do início do século XX, o processo de alienação do trabalho intensificou-se com uma nova organização do processo produtivo, denominada",
+   "alternativas": {
+    "a": "automação, que substituiu a força de trabalho humana por equipamentos.",
+    "b": "fordismo, que introduziu nas fábricas as linhas de montagem.",
+    "c": "telemática, que integrou diferentes formas de comunicação.",
+    "d": "toyotismo, que permitiu a customização de mercadorias.",
+    "e": "desregulamentação, que eliminou normas trabalhistas."
+   },
+   "resposta": "b",
+   "explicacao": "O que se organizou no início do século XX, na indústria automobilística, foi a linha de montagem: a peça se move e o operário repete um gesto só, sem ver o produto inteiro — a forma mais nítida da alienação do trabalho descrita pela crítica marxista. É o fordismo. A automação e a telemática são fenômenos da segunda metade do século; o toyotismo, com produção flexível e customização, é resposta ao fordismo a partir dos anos 1970; e a desregulamentação trabalhista pertence ao ciclo neoliberal, não à organização do chão de fábrica."
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "geografia-220026",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "As superintendências de desenvolvimento regional tinham como objetivo diminuir as desigualdades e promover maior integração do território brasileiro. Um mecanismo utilizado pelas superintendências para cumprir esses objetivos foi",
+   "alternativas": {
+    "a": "a concessão de incentivos fiscais, o que permitiu, por exemplo, a criação da Zona Franca de Manaus.",
+    "b": "o deslocamento da fronteira agroecológica, o que permitiu, por exemplo, o maior acesso da mecanização aos campos.",
+    "c": "a criação de áreas geoeconômicas, o que permitiu, por exemplo, a concentração da produção industrial.",
+    "d": "o incentivo da produção agrícola familiar, o que permitiu, por exemplo, a maior proximidade entre o produtor e o consumidor.",
+    "e": "a expansão da malha de transportes, o que permitiu, por exemplo, a construção de Brasília."
+   },
+   "resposta": "a",
+   "explicacao": "As superintendências — SUDENE, SUDAM, SUFRAMA — operavam com o instrumento clássico do planejamento regional dos anos 1950 e 1960: incentivos fiscais para atrair empresas às regiões que se queria integrar. A Zona Franca de Manaus, criada em 1967 sob a SUFRAMA, é o exemplo mais visível. A construção de Brasília não foi obra de superintendência; a criação de áreas geoeconômicas concentraria a indústria em vez de desconcentrá-la; a fronteira agrícola avançou por outros mecanismos; e o incentivo à agricultura familiar é política posterior, dos anos 1990 em diante."
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "geografia-2200210",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Oito províncias respondem pela produção doméstica de um determinado recurso natural no Brasil, que é encontrado nas bacias do Solimões, Ceará, Potiguar, Sergipe-Alagoas, Recôncavo, Espírito Santo, Campos e Santos. Sua formação geológica remonta à era paleozoica a partir de material mineral acumulado no período Devoniano. (Edison J. Milani e Laury M. de Araújo. www.cprm.gov.br, 2003. Adaptado.)",
+   "enunciado": "O excerto refere-se à produção de",
+   "alternativas": {
+    "a": "manganês.",
+    "b": "xisto betuminoso.",
+    "c": "sal marinho.",
+    "d": "petróleo.",
+    "e": "minério de ferro."
+   },
+   "resposta": "d",
+   "explicacao": "A lista de bacias é a geografia do petróleo brasileiro: Campos, Santos e Espírito Santo no mar, Potiguar, Recôncavo e Sergipe-Alagoas no Nordeste, o Solimões em terra amazônica. Recurso que se forma em bacias sedimentares, a partir de matéria acumulada em eras geológicas antigas, é hidrocarboneto. Manganês e minério de ferro ocorrem em formações do escudo cristalino, como Carajás e o Quadrilátero Ferrífero, não em bacias; sal marinho é produto de salinas litorâneas; e o xisto betuminoso brasileiro se concentra na formação Irati, no Paraná."
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "unicamp-geografia-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "“O ato de comer é construído culturalmente, e mediado por práticas, crenças, comportamentos, tabus, que formam os hábitos alimentares, que, por sua vez, relacionam-se a aspectos culturais, socioeconômicos e psicológicos que envolvem o ambiente alimentar de cada indivíduo. Os hábitos alimentares são dinâmicos e sensíveis às mudanças que ocorrem nas sociedades, fundamentalmente, nos sistemas alimentares. Com o sistema alimentar que predomina hoje, a humanidade vem substituindo a comida que carrega significados culturais e tradições ancestrais por produtos alimentares ultraprocessados globalizados, que viajam quilômetros até chegar ao prato, causando a homogeneização dos hábitos alimentares de forma global. O problema é que os ultraprocessados têm acarretado sérios problemas à saúde da população [...]”.",
+   "fonte_texto": "Disponível em https://obha.fiocruz.br/?p=1413. Acesso em 06/08/25.",
+   "enunciado": "A partir do texto, é correto afirmar que a produção e o consumo de alimentos no mundo contemporâneo possuem",
+   "alternativas": {
+    "a": "menor vínculo com o lugar, visto que a indústria de processamento de alimentos e a produção agropecuária estão cada vez mais especializadas. Assim, produtos circulam com maior velocidade e eficiência entre a área de produção e o mercado consumidor, reduzindo o acesso da população a alimentos in natura e à diversidade produtiva regional",
+    "b": "maior interdependência com o lugar, visto que a indústria de processamento precisa manter a proximidade com as áreas da produção agropecuária, aproveitando a modernização do sistema de circulação para atingir o mercado consumidor mais distante. Isso fortalece o acesso da população a produtos da agricultura familiar e à diversidade produtiva regional",
+    "c": "maior conexão com o lugar, visto que a indústria de processamento de alimentos pode estar distante da área de produção agropecuária. O sistema de circulação permite interligar, com menor custo, a área de produção ao mercado consumidor, restringindo o acesso da população à produção da pequena indústria local e à diversidade alimentar regional",
+    "d": "menor correlação com o lugar, visto que a indústria de processamento e a produção agropecuária possuem pouca vinculação entre si, tornando-se independentes, mas com estreitamento promovido pelo sistema de circulação entre a área de produção e o mercado consumidor. Isso favorece o acesso da população aos alimentos da culinária local e à diversidade alimentar regional"
+   },
+   "explicacao": "O texto descreve ultraprocessados globalizados “que viajam quilômetros até chegar ao prato” e homogeneízam os hábitos alimentares: o alimento se desprende do lugar. Isso resulta da especialização da agropecuária e da indústria de processamento e da circulação rápida e eficiente entre produção e consumo — com o efeito de reduzir o acesso ao alimento in natura e à diversidade regional. As demais opções ou afirmam maior vínculo com o lugar, ou concluem que o arranjo favorece a culinária local, o oposto do que o texto denuncia.",
+   "resposta": "a",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "unicamp-geografia-03",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Mapa",
+    "arquivo": "assets/provas/unicamp-2026-q18.jpg",
+    "descricao": "Mapa “Países drenados pela rede hidrográfica do rio Indo”: a bacia do Indo (em cinza) nasce no Tibete/China e na região da Caxemira, atravessa a Índia (Punjab) e desce pelo Paquistão até desaguar no Oceano Índico; a rede de drenagem em azul corre de nordeste (Índia/Caxemira, a montante) para sudoeste (Paquistão, a jusante). Legenda com a área de litígio da Caxemira, Aksai Chin, Afeganistão, China, Índia, Paquistão e demais países."
+   },
+   "texto_apoio": "Os conflitos entre Índia e Paquistão se acirraram em 2025, entre outros fatores, pela disputa de recursos hídricos na bacia hidrográfica do rio Indo. Em setembro de 1960, os dois países firmaram o Tratado das Águas do Indo, que regula o uso compartilhado das águas desse sistema fluvial. Ao longo dos anos, a Índia manifestou, em diferentes ocasiões, a intenção de se desvincular do acordo. Em resposta, o governo paquistanês declarou que qualquer tentativa de bloqueio hídrico seria considerada um 'ato de guerra'.",
+   "fonte_texto": "Adaptado de https://www.nytimes.com/2025/04/24/world/asia/india-pakistan-indus-waters-treaty.html. Acesso em 12/05/2025. Mapa: elaboração COMVEST, 2025, baseado em https://www.aljazeera.com/news/2011/8/1/kashmir-and-the-politics-of-water e https://www.hydrosheds.org/.",
+   "enunciado": "Para entender o conflito, é fundamental analisar o sentido do fluxo de drenagem na bacia hidrográfica do rio Indo, conforme mostrado pelo mapa.\n\nA partir da leitura do mapa e do texto, é correto afirmar que os afluentes",
+   "alternativas": {
+    "a": "são rios drenados para o interior do continente (endorreicos) e escoam em direção à jusante, onde se localizam áreas agrícolas do Paquistão. Por isso, eventuais represamentos pela Índia comprometeriam a economia paquistanesa",
+    "b": "são rios drenados para o oceano (exorreicos) situados na montante do território indiano. Isso permitiria ao Paquistão represar sua vazão e reduzir o abastecimento indiano destinado às atividades agropecuárias e industriais",
+    "c": "são rios drenados para o interior do continente (endorreicos) e correm em direção à jusante, comprometendo as atividades econômicas das áreas urbanizadas do Paquistão que dependem da vazão originada nos afluentes situados na Índia",
+    "d": "são rios drenados para o oceano (exorreicos) situados na montante do Paquistão. Isso permitiria à Índia controlar seu fluxo, afetando as atividades agrícolas paquistanesas e comprometendo a economia do Paquistão"
+   },
+   "explicacao": "O Indo deságua no Oceano Índico — a bacia é exorreica, o que elimina as opções que falam em drenagem para o interior do continente. No mapa, os afluentes nascem a montante, na Índia e na Caxemira, e correm para o Paquistão, a jusante: quem está a montante (Índia) tem o poder de controlar a vazão, e é o Paquistão, agrícola e dependente dessa água, que fica vulnerável — daí a ameaça de tratar o bloqueio como “ato de guerra”. A opção que inverte as posições (Paquistão a montante) contradiz o mapa.",
+   "resposta": "d",
+   "origem": "medicina"
   }
  ],
  "geografia-geopolitica": [
@@ -72093,6 +74529,70 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A Turquia combina as duas formas de poder, e é isso que a alternativa B reconhece: ocupa posição de charneira entre Europa e Ásia, controla os estreitos, integra a OTAN desde 1952 — tudo isso é hard power — e ainda projeta influência cultural pelas séries. A alternativa A afirma que ela não usa hard power, o que a própria condição de membro da OTAN desmente; C, D e E fazem afirmações sobre o alcance das séries — presença na América do Sul, em todos os continentes, ausência nos Estados Unidos — que a pergunta sobre a posição geopolítica não sustenta e que a alternativa B dispensa."
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "geografia-220021",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Quarenta anos depois de algumas reformas, mais de 800 milhões de pessoas saíram da pobreza, mas, ao mesmo tempo, o coeficiente de Gini subiu 15 pontos entre 1990 e 2015. Essas transformações favoreceram o progresso do setor privado, mas o Estado mantém um controle direto sobre boa parte da economia — o setor público representa por volta de 30% —, um exemplo de capitalismo de Estado. (https://diplomatique.org.br, 01.07.2021. Adaptado.)",
+   "enunciado": "O excerto reúne características",
+   "alternativas": {
+    "a": "da Índia, a partir da instalação de tecnopolos e de investimentos em alta tecnologia.",
+    "b": "do Reino Unido, a partir da saída da União Europeia e da inserção da política de bem-estar social.",
+    "c": "da Rússia, a partir da planificação da economia e da abertura do sistema político-administrativo.",
+    "d": "do Japão, a partir da reconstrução pós-Segunda Guerra e dos investimentos norte-americanos.",
+    "e": "da China, a partir da liberalização econômica e da introdução da economia de mercado."
+   },
+   "resposta": "e",
+   "explicacao": "Os números são o retrato das reformas chinesas iniciadas em 1978: centenas de milhões saíram da pobreza, a desigualdade cresceu com o mercado e o Estado seguiu dono de parte substancial da economia — o \"capitalismo de Estado\" nomeado no texto. A resposta é a China, a partir da liberalização econômica e da introdução da economia de mercado. A Índia não é descrita por controle estatal direto de 30% da economia; o Reino Unido e o Japão não tiveram \"reformas\" que tirassem 800 milhões da pobreza; e a Rússia fez o caminho inverso, abandonando a planificação nos anos 1990, sem que a abertura política acompanhasse."
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "geografia-220024",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "O planeta que está ficando cada vez mais desigual. Nos últimos 40 anos, a concentração de renda só cresceu com a globalização. Tanto é assim que atualmente nenhum país tem maior desigualdade que a África do Sul. O país, por ironia, viu crescer a desigualdade após o fim do Apartheid. (www.uol.com.br/ecoa. Adaptado.)",
+   "enunciado": "Um dos motivos para o crescimento da desigualdade na África do Sul, mesmo com o fim do Apartheid, foi",
+   "alternativas": {
+    "a": "a abertura de seu mercado para o exterior, o que beneficiou as elites econômicas.",
+    "b": "o envio de capitais por instituições de ajuda humanitária, o que privilegiou apenas pequena parcela da população.",
+    "c": "a interrupção das relações comerciais colonialistas, o que causou seu desamparo econômico.",
+    "d": "o imperativo por investimentos em logística, o que desviou recursos antes destinados ao combate da segregação social.",
+    "e": "a reapropriação de terras pelo novo governo instituído, o que desalojou populações tradicionais no campo."
+   },
+   "resposta": "a",
+   "explicacao": "O texto liga a desigualdade à globalização, e a África do Sul pós-apartheid, um dos países emergentes mais desiguais do mundo, é caso de escola: a economia se abriu ao capital externo e ao comércio, e os ganhos ficaram com quem já tinha capital, qualificação e ativos — as elites econômicas, que continuaram majoritariamente brancas. Por isso a abertura de mercado é o motivo. As demais inventam causas: não houve enxurrada de ajuda humanitária concentradora, nem interrupção de relações comerciais que a desamparasse; investimentos em logística não desviaram recursos do combate à segregação; e uma reforma agrária ampla que desalojasse populações tradicionais simplesmente não aconteceu — a lentidão da redistribuição de terras é uma das críticas ao período."
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "unicamp-geografia-04",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Mapa",
+    "arquivo": "assets/provas/unicamp-2026-q19.jpg",
+    "descricao": "Mapa “Localização dos países e grupos sob influência do Irã”: o Irã em vermelho; em amarelo, os países e grupos sob sua influência — Iraque, Síria, Líbano e Iêmen; demais países em verde-claro; Mar Negro, Mar Cáspio, Mediterrâneo, Golfo Pérsico, Mar Vermelho e Golfo de Áden nomeados; escala de 750 km."
+   },
+   "texto_apoio": "Historicamente, a região do Oriente Médio vive uma série de conflitos envolvendo alianças e disputas por interesses econômicos, geopolíticos e religiosos. Por exemplo, o chamado eixo da resistência é formado por um conjunto de países e grupos rebeldes sob influência do Irã. Esse eixo se define por confrontar forças militares ocidentais, como no caso dos Estados Unidos e de Israel. O mapa mostra a localização dos países e grupos sob influência do Irã.",
+   "fonte_texto": "Adaptado de https://www.bbc.com/portuguese/articles/cw4dgr9yrpvo. Acesso em 23/05/2025. Mapa: elaboração COMVEST, 2025.",
+   "enunciado": "A partir dessas informações, assinale a alternativa que apresenta corretamente as disputas e as alianças do Irã com grupos étnicos, militares e religiosos dentro dos países indicados no mapa.",
+   "alternativas": {
+    "a": "Disputas: com a minoria sunita do islamismo (Iraque); com o Estado Islâmico (Síria). Alianças: com os Houthis (Iêmen); com o Hezbollah (Líbano)",
+    "b": "Disputas: com os Houthis (Iêmen); com o Estado Islâmico (Síria). Alianças: com a minoria sunita do islamismo (Iraque); com o Hezbollah (Líbano)",
+    "c": "Disputas: com a minoria sunita do islamismo (Iraque); com o Hezbollah (Líbano). Alianças: com os Houthis (Iêmen); com o Estado Islâmico (Síria)",
+    "d": "Disputas: com os Houthis (Iêmen); com o Hezbollah (Líbano). Alianças: com a minoria sunita do islamismo (Iraque); com o Estado Islâmico (Síria)"
+   },
+   "explicacao": "O Irã é xiita e lidera o “eixo da resistência” com grupos xiitas ou aliados: o Hezbollah no Líbano e os Houthis no Iêmen são seus aliados. Seus adversários na região são sunitas — a minoria sunita do Iraque, que disputa poder com o governo xiita apoiado por Teerã, e o Estado Islâmico, grupo sunita radical que o Irã combateu na Síria. Qualquer opção que ponha Hezbollah ou Houthis como disputa, ou o Estado Islâmico como aliado, inverte essas relações.",
+   "resposta": "a",
+   "origem": "medicina"
   }
  ],
  "geografia-ambiente-sustentabilidade": [
@@ -73566,6 +76066,65 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O texto monta a contradição em dois blocos: de um lado Venezuela, Brasil, Suriname e Guiana, com reservas significativas e sem sinal de que vão parar de explorá-las; de outro a Colômbia, que suspendeu novas licenças para acelerar a transição energética. A alternativa E descreve exatamente esse embate. A alternativa A promete reversibilidade dos impactos mediante compensação financeira; B afirma que a maior fonte brasileira de gases de efeito estufa é a queima de fósseis, quando é o desmatamento e a mudança de uso da terra; C inverte a lógica, preservando a Amazônia para explorar fósseis alhures; e D põe Suriname e Guiana defendendo matriz sustentável, e o texto os coloca no grupo oposto."
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "geografia-220023",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Desmatamento líquido no comércio de cada país: diferença entre o desmatamento importado e o desmatamento exportado. (https://ourworldindata.org. Adaptado.)",
+   "enunciado": "Considerando conhecimentos sobre o comércio mundial e sabendo que, quanto maior o desmatamento líquido, maior é o desmatamento promovido em outros países, afirma-se que",
+   "alternativas": {
+    "a": "o alto índice de desmatamento líquido está relacionado com a importação de produtos biotecnológicos.",
+    "b": "o baixo índice de desmatamento líquido está relacionado com a exportação de produtos manufaturados.",
+    "c": "o alto índice de desmatamento líquido está relacionado com a importação de produtos agrícolas.",
+    "d": "o baixo índice de desmatamento líquido está relacionado com a importação de produtos minerais.",
+    "e": "o alto índice de desmatamento líquido está relacionado com a exportação de produtos bioenergéticos."
+   },
+   "resposta": "c",
+   "explicacao": "A definição resolve a questão: desmatamento líquido alto significa importar mais desmatamento do que se exporta — o país consome produtos cuja produção derrubou floresta em outro lugar. E o que derruba floresta é a fronteira agropecuária: soja, carne, óleo de palma. Logo, alto índice de desmatamento líquido está ligado à importação de produtos agrícolas — o país exporta, na prática, a degradação ambiental que seu consumo provoca, e a sustentabilidade da floresta fica a cargo do outro. Produtos biotecnológicos e minerais não são o vetor típico do desmatamento; e as alternativas que falam em exportação invertem o sinal — quem exporta commodities agrícolas e bioenergéticas, como o Brasil, tem desmatamento líquido baixo ou negativo, porque desmata para os outros."
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "geografia-2200213",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "enunciado": "Alguns países do mundo têm colocado em prática a construção de uma “grande muralha verde”, que envolve medidas como o reflorestamento, a criação de sistemas agroflorestais, a criação de terraços e o conserto de dunas. O objetivo dessa intervenção é",
+   "alternativas": {
+    "a": "frear o avanço da desertificação.",
+    "b": "diminuir a incidência de laterização.",
+    "c": "melhorar a ação da calagem.",
+    "d": "manter a salinização do solo.",
+    "e": "corrigir a acidez do solo."
+   },
+   "resposta": "a",
+   "explicacao": "A \"grande muralha verde\" é o cinturão de vegetação plantado no Sahel africano — e há projeto semelhante na China — para conter o avanço do deserto: reflorestar, fixar dunas, criar terraços e sistemas agroflorestais são medidas de contenção da desertificação, isto é, de combate à degradação ambiental do semiárido, num projeto pensado como desenvolvimento sustentável. Laterização é o endurecimento de solos tropicais lavados pela chuva; calagem e correção de acidez são práticas agrícolas de manejo do solo, não objetivos de um cinturão de árvores; e \"manter a salinização\" seria preservar um problema."
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "geografia-2200214",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "A termodinâmica adquire um valor paradigmático universal. A Terra é como uma máquina térmica. Assim, além do reservatório, o funcionamento das máquinas a fogo requer o que se poderia chamar de um “escoadouro”, que não é outra coisa senão a atmosfera terrestre que deve desempenhar o papel de “um poço frio” e de receptáculo do calor transmitido aos motores pela “fonte quente” dos fornos e caldeiras. Mas, ao mesmo tempo em que a máquina a fogo funciona entre esse diferencial de temperaturas, ela trabalha também para reduzir essa diferença. (Franck-Dominique Vivien. Economia e ecologia, 2011. Adaptado.)",
+   "enunciado": "O excerto apresenta a problemática",
+   "alternativas": {
+    "a": "da ação dos raios ultravioletas na estratosfera.",
+    "b": "do balanço energético da radiação solar.",
+    "c": "da ação corrosiva da chuva ácida.",
+    "d": "do aquecimento por irradiação da troposfera.",
+    "e": "da intensificação antrópica do efeito estufa."
+   },
+   "resposta": "e",
+   "explicacao": "O texto descreve a Terra como máquina térmica cujo \"escoadouro\" é a atmosfera, que recebe o calor de fornos e caldeiras — e diz que a máquina, ao funcionar, reduz a diferença de temperatura de que depende. Calor lançado na atmosfera pela queima de combustíveis, acumulando-se: é a intensificação antrópica do efeito estufa. Raios ultravioleta na estratosfera são o problema do ozônio; balanço energético da radiação solar é conceito neutro, sem a ação humana que o texto enfatiza; chuva ácida é corrosão por óxidos, não calor; e \"aquecimento por irradiação da troposfera\" descreve um mecanismo, não a problemática das máquinas a fogo."
   }
  ],
  "geografia-cartografia": [
@@ -75103,6 +77662,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Politemático é o mapa que representa mais de um fenômeno no mesmo recorte, e aqui são seis: étnicos, militares, humanitários e econômicos, cada um exigindo uma variável visual distinta — cor, forma, tamanho, textura. É a alternativa C, que ainda acerta ao dizer que a articulação busca dar conta da complexidade da região. A alternativa A o chama de monotemático com um único fenômeno central; B e D o classificam como qualitativo, uma delas negando o uso de variáveis visuais e a outra dispensando a semiologia gráfica; e E, embora acerte \"politemático\", desvia a finalidade para destacar riqueza de recursos naturais, quando o mapa documenta uma crise humanitária."
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "geografia-2200215",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Um experimento, em cinco passos:\n1º passo: colocar uma estaca de 1 metro no chão, ao meio-dia, na cidade A.\n2º passo: medir o comprimento da sombra projetada no chão.\n3º passo: repetir os passos 1 e 2 na cidade B, localizada na mesma longitude da cidade A.\n4º passo: medir a distância entre as cidades A e B.\n5º passo: fazer os cálculos.\n(https://canaltech.com.br, 15.03.2019. Adaptado.)",
+   "enunciado": "Por meio desse experimento, será possível calcular",
+   "alternativas": {
+    "a": "a variação altimétrica entre as cidades A e B.",
+    "b": "o valor da circunferência da Terra.",
+    "c": "a espessura da crosta terrestre.",
+    "d": "o perfil topográfico da Terra.",
+    "e": "a hora oficial nas cidades A e B."
+   },
+   "resposta": "b",
+   "explicacao": "É o experimento de Eratóstenes. Duas cidades no mesmo meridiano, ao meio-dia solar, dão sombras de comprimentos diferentes; da diferença entre os ângulos das sombras sai o arco de círculo máximo entre elas, e, conhecida a distância linear entre A e B, uma regra de três leva ao comprimento total da circunferência da Terra. Altimetria e perfil topográfico exigiriam medir alturas; espessura da crosta é dado sísmico; e a hora oficial das duas cidades é a mesma, porque estão na mesma longitude — o experimento depende disso."
   }
  ],
  "filosofia-politica": [
@@ -76325,6 +78904,24 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A nona paixão mobilizadora é literal: \"o direito do povo eleito de dominar os demais, sem restrições provenientes de qualquer tipo de lei humana ou divina, o direito sendo decidido por meio do critério único das proezas do grupo no interior de uma luta darwiniana\". Vencer confere direito de subjugar — alternativa B. A alternativa A atribui ao fascismo o bem comum e as liberdades individuais, e a lista traz o pavor do \"liberalismo individualista\"; C diz que a violência contra opositores é ilegítima, contra \"a beleza da violência\"; D abre a liderança a qualquer grupo, e o texto fala em chefes naturais sempre do sexo masculino; e E o restringe ao início do século XX, quando Paxton afirma que ele \"ainda é visível nos dias de hoje\"."
+  },
+  {
+   "subtema": "filosofia-politica",
+   "id": "unicamp-filosofia-sociologia-05",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Texto 1\n\"Para Rosa Luxemburgo, uma sociedade socialista terá necessariamente que ser democrática (e vice-versa), o que significa que só poderá resultar da participação efetiva das massas populares. [...] ela rejeita premonitoriamente a estratégia dos partidos de esquerda que chegarão ao poder no decorrer do século XX: primeiro toma-se o poder, depois muda-se o mundo. Para ela, a tomada do poder e a instituição da democracia (equivalente aqui à mudança do mundo) não são duas etapas separadas no tempo, mas duas faces da mesma moeda”.\n(Comentário de Isabel Loureiro ao texto “A Revolução Russa (1918)” de Rosa Luxemburgo. LUXEMBURGO, R. Textos Escolhidos. Editora Expressão Popular, p. 101-2, 2009. Org. Isabel Loureiro.)\n\nTexto 2\n\"Sem eleições gerais, sem liberdade ilimitada de imprensa e de reunião, sem livre debate de opiniões, a vida se definha em qualquer instituição pública, torna-se uma vida aparente em que só a burocracia subsiste como o único elemento ativo. [...] Somente massas esclarecidas, autônomas, politicamente formadas poderão exercer o poder nos novos organismos de base, os conselhos; em outras palavras, realizar o socialismo democrático\".\n(LUXEMBURGO, R. Textos Escolhidos. A Revolução Russa (1918). Editora Expressão Popular, Org. Isabel Loureiro, p. 114-131, 2009.)",
+   "enunciado": "Leia os textos 1 e 2.\n\nConsiderando os textos, assinale a alternativa que corresponde ao pensamento de Rosa Luxemburgo.",
+   "alternativas": {
+    "a": "Para afastar o socialismo da ameaça da burocracia, às vezes é necessário restringir a liberdade de imprensa, o debate público e as eleições gerais",
+    "b": "A instituição da democracia é uma etapa posterior à tomada do poder político e equivale à mudança do mundo",
+    "c": "A democracia socialista não difere da democracia representativa: ambas se baseiam na soberania popular dos conselhos, mas tendem à burocracia partidária",
+    "d": "Democracia e socialismo são sinônimos, pois os conselhos populares deveriam possibilitar a participação ativa das massas na condução do poder político e econômico"
+   },
+   "explicacao": "Para Luxemburgo, socialismo e democracia são “duas faces da mesma moeda” (texto 1): só as massas esclarecidas e autônomas, exercendo o poder nos conselhos, realizam o socialismo democrático (texto 2). É o que diz a alternativa correta. Restringir imprensa e eleições é exatamente o que ela denuncia como caminho para a burocracia; a democracia como etapa posterior à tomada do poder é a estratégia que ela rejeita; e ela não iguala a democracia dos conselhos à democracia representativa.",
+   "resposta": "d",
+   "origem": "medicina"
   }
  ],
  "filosofia-etica-moral": [
@@ -77639,6 +80236,24 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Pascal descreve um círculo sem saída: o desejo pinta como feliz um estado que soma os prazeres que temos aos que não temos; alcançado esse estado, novos desejos nascem conformes a ele, e a insatisfação recomeça. Por isso a realização do desejo não produz felicidade — o estado alcançado é intrinsecamente infeliz, alternativa D. A alternativa A faz da realização um caminho cumulativo para a felicidade, que é o que o texto nega; B garante felicidade pelos desejos de outro estado; C compara prazeres vividos e não vividos, comparação que o trecho não faz; e E propõe uma aritmética de prazeres estranha ao argumento."
+  },
+  {
+   "subtema": "filosofia-etica-moral",
+   "id": "unicamp-filosofia-sociologia-06",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Texto 1\n“Convém recorrer aos fundamentos da justiça que propus no começo: primeiro, a ninguém prejudicar, depois, servir à utilidade comum”.\n(CÍCERO, Marco Túlio. Dos deveres. UFJF, p. 1-31, 2021.)\n\nTexto 2\n“Único, com efeito, é o direito a partir do qual a sociedade dos homens foi congregada, e una a lei que o constituiu, lei que é a reta razão ao obrigar e proibir. Quem a ignora é injusto, esteja ela escrita em algum lugar ou em nenhum. Se a justiça é obediência às leis escritas e às instituições dos povos, e se (como dizem aqueles mesmos aos quais me referi) todas as coisas devem ser medidas pela utilidade, negligenciará as leis e as destruirá, se o puder, aquele que assim julgá-lo vantajoso para si; do que se segue que absolutamente não há justiça, se esta não é fundada na natureza, e a que se constitui por causa da utilidade é deteriorada por essa utilidade”.\n(CÍCERO, Marco Túlio. Sobre as leis. UFJF, p. 1-46, 2021.)",
+   "enunciado": "Os textos 1 e 2 apresentam a compreensão de Marco Túlio Cícero (106 − 43 a.C), magistrado e Cônsul da República Romana, sobre o tema da justiça.\n\nConsiderando os textos, escolha a alternativa correta.",
+   "alternativas": {
+    "a": "A justiça consiste na obediência às leis escritas e às instituições dos povos: deve servir à utilidade comum e não à utilidade daquilo que é vantajoso para si",
+    "b": "A utilidade comum é o fundamento da justiça de uma República e, para serem justos, os cidadãos devem agir conforme a reta razão, com a qual a natureza lhes dotou",
+    "c": "A reta razão, enquanto lei natural, é a base da justiça. A injustiça ocorre quando a utilidade deixa de ser a medida de todas as coisas",
+    "d": "Se a justiça é agir conforme a reta razão e a utilidade é um dos fundamentos da justiça, agir com vistas aquilo que é vantajoso para si é justo"
+   },
+   "explicacao": "Cícero une os dois textos: a justiça tem por fundamento não prejudicar ninguém e servir à utilidade comum (texto 1), e sua base é a lei natural, “a reta razão ao obrigar e proibir”, escrita ou não (texto 2). A alternativa correta junta as duas peças. Reduzir a justiça à obediência às leis escritas é justamente a tese que ele refuta; dizer que a injustiça ocorre quando a utilidade “deixa de ser a medida” inverte o argumento (é medir tudo pela utilidade que destrói a justiça); e o vantajoso para si é o que corrói a lei, não o que a cumpre.",
+   "resposta": "b",
+   "origem": "medicina"
   }
  ],
  "sociologia-trabalho-classes": [
@@ -80928,6 +83543,84 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Cooley diz que o self espelho tem três elementos: a imaginação da nossa aparência para o outro, a imaginação do julgamento que o outro faz dela, e o sentimento daí resultante — orgulho ou mortificação. Note o \"imaginação\": não é o julgamento real do outro, é o que supomos dele. Nas redes, o material dessa suposição são imagens idealizadas, e o parâmetro imaginado fica irreal — alternativa E. A alternativa A fala em julgamentos objetivos, e o processo é imaginário; B desloca o julgar para a imagem dos outros; C cria um self dissociado da avaliação alheia, o oposto do conceito; e D diz que os jovens param de se preocupar com a autoimagem."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "unicamp-filosofia-sociologia-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Postagem",
+    "arquivo": "assets/provas/unicamp-2026-q22.jpg",
+    "descricao": "Reprodução da postagem do ator Chay Suede em seu perfil no Instagram (14/04/2022): fotografia do prato de feijoada servido em um restaurante de luxo, com porções pequenas e apresentação sofisticada."
+   },
+   "texto_apoio": "Texto 1\nA imagem reproduz uma postagem feita pelo ator Chay Suede sobre uma feijoada que havia consumido em um restaurante de luxo. As reações na rede social do ator incluíram comentários como \"se isso é feijoada de rico eu prefiro morrer pobre”.\n(Adaptado de JIMENEZ, K. Saiba quanto Chay Suede pagou pela polêmica 'feijoada de rico'!. Portal R7, 17 de abr de 2022. Acesso em 01/09/25.)\n\nTexto 2\nA forma como as pessoas vivenciam as diferentes classes deve gerar as probabilidades dessas pessoas terem certos gostos, certos estilos de vida. No caso das classes altas, essa lógica é a do desinteresse ou da não-necessidade. Uma vez afastada de toda a urgência da vida pela sobrevivência e pela reprodução, os sujeitos das classes altas possuem uma relação de distanciamento com o mundo. Esse distanciamento transforma o senso de distinção em senso estético nessa classe. O senso estético é a noção de que o belo se dá pela forma, e não pela função.\n(Adaptado de BERTONCELO, E.; NICOLAU NETTO, M. Captando a distinção empiricamente. Contemporânea, v. 13, p. 363-364, 2024.)",
+   "enunciado": "Leia os textos 1 e 2.\n\nA partir dos textos, é correto afirmar que a polêmica associada à postagem",
+   "alternativas": {
+    "a": "demonstra que a formação do gosto está mais relacionado a juízos pessoais, pois as práticas alimentares são guiadas por necessidades de sobrevivência e não produzem distinção social",
+    "b": "representa uma aproximação social das classes altas em relação às populares, pois reduz a distância simbólica entre o universo do luxo e o popular, limitando o alcance da distinção social",
+    "c": "demonstra que o gosto está mais relacionado a experiências de classe e menos a juízos pessoais, pois simboliza o gosto das classes altas pelo belo e um senso estético formado pela necessidade",
+    "d": "representa uma prática de distinção social das classes altas em relação às populares, pois simboliza um senso estético que valoriza a forma e aquilo que não é necessário, em vez da função"
+   },
+   "explicacao": "O texto 2 (na chave de Bourdieu) diz que o gosto das classes altas segue a lógica “do desinteresse ou da não-necessidade”: distanciadas da urgência da sobrevivência, elas convertem distinção em senso estético, em que “o belo se dá pela forma, e não pela função”. A feijoada de luxo — cara, minúscula, apresentada como obra — é exatamente isso: distinção social pela forma. A opção que fala em senso estético “formado pela necessidade” contradiz o texto; as outras negam a distinção ou falam em aproximação entre classes, o contrário da polêmica.",
+   "resposta": "d",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "unicamp-filosofia-sociologia-02",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Texto 1\nMuitos povos, de diferentes matrizes culturais, têm a compreensão de que nós e a Terra somos uma mesma entidade. Até o começo do século XX, o mundo do trabalho e da produção se dava com ferramentas e meios que não tinham a potência de exaurir os recursos da Terra como hoje. Desse tempo para cá, sobraram poucas humanidades espalhadas pelo planeta.\n(Adaptado de KRENAK, A. A vida não é útil. São Paulo, Companhia das Letras, p. 38, 2020.)\n\nTexto 2\nA Terra é um denso conjunto de relações que articula seres vivos, oceanos, atmosfera, clima e solos. Ela é dotada de uma história e de um regime de atividades próprio, resultado da articulação de múltiplos processos. Hoje, já não estamos lidando com uma natureza selvagem e ameaçadora, nem com uma natureza frágil, que deve ser protegida, nem com uma natureza que pode ser explorada à vontade. A hipótese é nova. A Terra não está ameaçada, diferentemente das inúmeras espécies vivas que serão varridas pelas mudanças de seu meio, com uma rapidez sem precedente.\n(Adaptado de STENGERS, I. No tempo das catástrofes. São Paulo: Cosac & Naify, p. 23, 2015.)",
+   "enunciado": "Leia os textos 1 e 2.\n\nA partir da leitura dos textos é correto afirmar que natureza e sociedade",
+   "alternativas": {
+    "a": "passaram a se influenciar por meio do desenvolvimento das forças produtivas e do trabalho ao longo da história, o que coloca a natureza em risco",
+    "b": "estão articuladas por múltiplos processos que envolvem agentes humanos e não humanos (oceanos, atmosfera, clima, solo, etc.), o que coloca a natureza em risco",
+    "c": "possuem uma história comum e articulada, fato percebido por povos de diferentes matrizes culturais, o que coloca a sociedade em risco",
+    "d": "possuem um regime de atividades próprio, que envolve agentes humanos e não humanos (oceanos, atmosfera, clima, solo, etc.), o que coloca tais agentes em risco"
+   },
+   "explicacao": "Os dois textos negam a separação entre nós e a Terra: Krenak fala de uma mesma entidade, e Stengers descreve a Terra como um regime de atividades próprio, articulando humanos e não humanos. O ponto decisivo é o final do texto 2: “A Terra não está ameaçada, diferentemente das inúmeras espécies vivas que serão varridas” — quem está em risco são os agentes (as espécies, inclusive a humana), não a natureza. As opções que dizem “coloca a natureza em risco” contrariam esse trecho; a que fala só em “sociedade em risco” deixa de fora os demais agentes vivos.",
+   "resposta": "d",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "unicamp-filosofia-sociologia-03",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "Texto 1\nA adolescência é uma questão de corporificação do social. Mudanças físicas, como hormônios em ebulição, são importantes, mas elas não determinam como se experimenta a adolescência. Essa é uma questão de como as práticas sociais se relacionam com as mudanças físicas, dando significados sociais a eventos biológicos. A adolescência é um processo de se tornar participante do mundo adulto. Ela é um período em que corpos em desenvolvimento enfrentam desafios, e às vezes são danificados. Instituições, incluindo a escola, e os poderes do mundo adulto são confrontados e negociados. Isso forma uma arena de prazer, humor, curiosidade, mas também de ansiedade e violência.\n(Adaptado de CONNELL, R. Crescer como masculino. In: Gênero em termos reais. São Paulo: nVersos, p. 139-141, 2016.)\n\nTexto 2\nOrdens de gênero são centrais para a vida dos adolescentes. Quando insistem na diferença absoluta entre masculinidade e feminilidade criam um dilema e fazem com que os meninos exagerem na performance da masculinidade, procurando se aproximarem da posição social dos homens adultos. Práticas corporais, como a sexualidade e o esporte, se tornam importantes meios de diferenciação e espaços de produção das masculinidades hegemônicas e subordinadas. Aquelas que produzem maior status e prestígio masculino são as com os efeitos mais tóxicos sobre os corpos dos adolescentes, como por exemplo o hábito de fumar e praticar a violência física, etc.\n(Adaptado de CONNELL, R. Crescer como masculino. In: Gênero em termos reais. São Paulo: nVersos, p. 139-151, 2016.)",
+   "enunciado": "Leia os textos 1 e 2.\n\nA partir da leitura dos textos é correto afirmar que",
+   "alternativas": {
+    "a": "a adolescência, como processo de participar do mundo adulto, desafia padrões previamente estabelecidos, promovendo riscos e violência que poderiam ser evitados caso tais padrões fossem mantidos",
+    "b": "masculinidades hegemônicas e subordinadas são produzidas biológica e socialmente, por meio de práticas corporais como a sexualidade e o esporte e em confronto com instituições, como a escola",
+    "c": "eventos biológicos associados às mudanças corporais da adolescência são significados socialmente, o que torna a ordem de gênero em que tais mudanças ocorrem importante para compreendermos masculinidades e feminilidades",
+    "d": "a precocidade na busca de status de adultos e do prestígio masculino por meninos adolescentes os torna ansiosos, fazendo das masculinidades juvenis contemporâneas um todo homogêneo e violento"
+   },
+   "explicacao": "Connell sustenta que a adolescência é “corporificação do social”: os eventos biológicos ganham significado pelas práticas sociais (texto 1), e as ordens de gênero são centrais nesse processo (texto 2) — logo, compreender masculinidades e feminilidades exige olhar para a ordem de gênero em que as mudanças ocorrem. As masculinidades são produzidas socialmente (não “biológica e socialmente”); os textos não dizem que manter padrões evitaria violência (ao contrário, a insistência na diferença absoluta é que gera o dilema); e falam em masculinidades plurais, hegemônicas e subordinadas, não em um todo homogêneo.",
+   "resposta": "c",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "unicamp-filosofia-sociologia-04",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "texto_apoio": "A OMS, e não uma associação trans-gay-lésbica-anarcofeminista, afirma hoje que “o gênero tipicamente descrito como masculino e feminino é uma construção social que varia segundo as culturas e épocas”. A partir desse princípio, a OMS reconhece a dimensão arbitrária e inatural da taxonomia binária com a qual as instituições sociais e políticas trabalham no Ocidente e abre a porta para uma revisão mais profunda do paradigma da diferença sexual. Nos próximos anos, deveremos elaborar coletivamente uma epistemologia capaz de dar conta da multiplicidade radical dos seres vivos, que não reduza o corpo à sua força reprodutiva heterossexual, que não legitime a violência heteropatriarcal e colonial. Quando falo de uma nova epistemologia me refiro também a um processo de ampliação radical do horizonte democrático para reconhecer como sujeito político todo corpo vivo sem que a designação sexual ou de gênero seja a condição desse reconhecimento social e político.",
+   "fonte_texto": "Adaptado de PRECIADO, P. Eu sou o monstro que vos fala. Zahar Editora, p. 78-84, 2022.",
+   "enunciado": "Considerando o texto assinale a alternativa correta.",
+   "alternativas": {
+    "a": "A diferença sexual entre homem e mulher é informada pela biologia e indiferente a variações culturais, a despeito do que dizem a OMS e as associações feministas, gays, lésbicas e trans",
+    "b": "Embora seja inevitável admitir que haja pessoas que não se enquadram na taxonomia binária, é necessário elaborar coletivamente caminhos para ajudá-las a uma reconciliação com a própria natureza",
+    "c": "As instituições sociais e políticas operam normalmente com uma taxonomia binária violenta e excludente da multiplicidade de seres humanos, que precisa ser revista em nome da ampliação do nosso horizonte democrático",
+    "d": "Gênero e sexualidade são categorias identitárias inadequadas ao processo de ampliação do horizonte democrático com vistas ao reconhecimento social e político de todos os indivíduos em função do seu próprio mérito"
+   },
+   "explicacao": "Preciado parte da OMS para afirmar que a taxonomia binária das instituições é “arbitrária e inatural”, legitima a “violência heteropatriarcal e colonial” e precisa de revisão — uma nova epistemologia que amplie “radicalmente o horizonte democrático” para reconhecer todo corpo vivo como sujeito político. É o que a alternativa correta resume. A primeira opção afirma o contrário do texto (diferença sexual natural e fixa); a segunda propõe “reconciliar” as pessoas com a natureza, quando o autor questiona justamente a ideia de natureza binária; a última introduz o “mérito”, ausente do texto.",
+   "resposta": "c",
+   "origem": "medicina"
   }
  ],
  "filosofia-conhecimento-logica": [
@@ -110869,6 +113562,29 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-citologia",
+   "id": "unicamp-biologia-02",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/unicamp-2026-q38.png",
+    "descricao": "Ciclo de vida de um fungo haplobionte haplonte. À esquerda, um indivíduo haploide (n) ligado a outro indivíduo haploide (n) por duas setas pretas em circuito: a seta superior é o evento II e a inferior, o evento I. Do segundo indivíduo (n) saem duas células com flagelo, marcadas n, que se fundem (seta laranja, evento III) formando uma célula 2n; dessa célula 2n uma seta pontilhada amarela (evento IV) volta ao indivíduo haploide."
+   },
+   "enunciado": "Fungos e metazoários evoluíram de um ancestral comum similar aos protistas, entretanto, os dois reinos divergiram ao longo do tempo. Os fungos crescem em cima ou dentro do seu alimento e a digestão ocorre no meio externo. Além disso, a maioria dos representantes dos fungos é composta por organismos com ciclo de vida haplobionte. A figura representa um ciclo de vida típico de um fungo haplobionte haplonte.\n\nAssinale a alternativa que identifica corretamente os eventos I, II, III e IV.",
+   "fonte_texto": "Adaptado de AMSES, K. R. e colaboradores. PNAS, Washington, v.119, p. e2116841119, ago. 2022.",
+   "alternativas": {
+    "a": "I: mitose; II: meiose; III: plasmogamia; IV: meiose",
+    "b": "I: meiose; II: meiose; III: cariogamia; IV: mitose",
+    "c": "I: mitose; II: mitose; III: plasmogamia; IV: meiose",
+    "d": "I: meiose; II: mitose; III: cariogamia; IV: mitose"
+   },
+   "explicacao": "No ciclo haplonte o organismo adulto é haploide (n) e a única fase 2n é o zigoto. As setas I e II ligam indivíduos n a indivíduos n — divisões que mantêm a ploidia, isto é, mitoses (reprodução assexuada e produção de gametas). Em III, dois gametas n se fundem para gerar a célula 2n: é a plasmogamia (fusão de citoplasmas, seguida da cariogamia que forma o zigoto). Em IV, o zigoto 2n volta a n, o que só a meiose faz — a meiose zigótica típica dos fungos.",
+   "resposta": "c",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-citologia",
    "id": "dir-ciencias-natureza-04",
    "texto_apoio": "As chuvas ácidas resultam da emissão de determinados poluentes atmosféricos provenientes de processos industriais e da queima de combustíveis.",
    "enunciado": "As chuvas ácidas são causadas, principalmente, pela reação da água presente na atmosfera com",
@@ -114547,6 +117263,29 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-diversidade",
+   "id": "unicamp-biologia-04",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Placa",
+    "arquivo": "assets/provas/unicamp-2026-q40.jpg",
+    "descricao": "Placa de aviso com o título “CUIDADO, INSETOS PERIGOSOS!” e quatro triângulos de alerta vermelhos com desenhos de um mosquito (MOSQUITOS), um carrapato (CARRAPATOS), um escorpião (ESCORPIÕES) e uma abelha (ABELHAS)."
+   },
+   "enunciado": "Considere a placa de aviso encontrada em uma reserva ecológica: “CUIDADO, INSETOS PERIGOSOS!”, ilustrada com mosquitos, carrapatos, escorpiões e abelhas.\n\nA informação da placa está",
+   "fonte_texto": "Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.",
+   "alternativas": {
+    "a": "correta, já que os carrapatos e escorpiões são classificados como quilópodes e os mosquitos e as abelhas como diplópodes",
+    "b": "errada, pois apenas dois animais são artrópodes, sendo eles os mosquitos e as abelhas, que são classificados como insetos",
+    "c": "correta, já que os mosquitos e as abelhas são classificados como artrópodes e os carrapatos e escorpiões como aracnídeos",
+    "d": "errada, pois mesmo que todos os animais sejam classificados como artrópodes, os carrapatos e os escorpiões são aracnídeos"
+   },
+   "explicacao": "Os quatro são artrópodes, mas só mosquitos e abelhas são insetos (três pares de patas, corpo em cabeça, tórax e abdome). Carrapatos e escorpiões têm quatro pares de patas e cefalotórax: são aracnídeos. Logo, a placa erra ao chamar todos de insetos. Quilópodes (lacraias) e diplópodes (piolhos-de-cobra) são outras classes, que não incluem nenhum dos quatro; e dizer que só dois são artrópodes também está errado, porque aracnídeos são artrópodes.",
+   "resposta": "d",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
    "id": "dir-ciencias-natureza-139",
    "banca": "fgv",
    "sessao": "fgv-unificado-2023.1",
@@ -116743,6 +119482,29 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-fisiologia",
+   "id": "unicamp-biologia-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/unicamp-2026-q35.png",
+    "descricao": "Gráfico de caixas da profundidade da glândula intestinal (µm) em camundongos colonizados com microbiota de três populações humanas — EUA, FIJI e GUAT —, comparando controle (caixa branca) e infectado (caixa hachurada). Nos controles as três populações ficam em torno de 145 µm. Nos infectados, EUA sobe para cerca de 230 µm e FIJI para cerca de 230 µm, enquanto GUAT permanece em torno de 150 µm, praticamente igual ao controle."
+   },
+   "enunciado": "A bactéria Citrobacter rodentium é um patógeno que causa aumento da profundidade das glândulas intestinais em camundongos devido à inflamação do cólon. Em um experimento, camundongos livres de germes tiveram seus intestinos colonizados pela microbiota de três populações humanas geograficamente distintas: Estados Unidos (EUA), Ilhas Fiji (FIJI) ou Guatemala (GUAT). Com a colonização bem-sucedida, dois grupos foram estudados: controle (apenas microbiota) e infectado (microbiota e C. rodentium). Após 14 dias, a profundidade das glândulas intestinais desses animais foi avaliada, conforme a figura.\n\nConsiderando as informações apresentadas, é correto afirmar que as diferenças geográficas na composição da microbiota intestinal podem",
+   "fonte_texto": "Adaptado de PORRAS, A. e colaboradores. Cell Reports, Cambridge, v. 36, p. 109457, jul. 2021.",
+   "alternativas": {
+    "a": "impactar a sensibilidade às infecções entéricas, sendo as populações dos EUA e de FIJI as mais suscetíveis",
+    "b": "auxiliar a digestão no trato gastrointestinal, sendo a população da GUAT a mais beneficiada",
+    "c": "impactar a sensibilidade às infecções entéricas, sendo a população da GUAT a mais suscetível",
+    "d": "auxiliar a digestão no trato gastrointestinal, sendo as populações dos EUA e de FIJI as mais beneficiadas"
+   },
+   "explicacao": "A profundidade da glândula é o marcador de inflamação causada pela infecção. Nos animais com microbiota dos EUA e de Fiji, a infecção elevou a medida de ~145 para ~230 µm; nos de microbiota da Guatemala, o infectado ficou igual ao controle (~150 µm). Logo, a microbiota da Guatemala protegeu, e as dos EUA e de Fiji deixaram os animais mais suscetíveis à infecção entérica. O experimento não mede digestão — apenas resposta à infecção.",
+   "resposta": "a",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-fisiologia",
    "id": "dir-ciencias-natureza-02",
    "texto_apoio": "A eutrofização é um processo ecológico frequentemente associado à poluição de rios e lagos por esgoto doméstico e fertilizantes agrícolas.",
    "enunciado": "A eutrofização de um corpo d'água ocorre quando",
@@ -118783,6 +121545,29 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-ecologia",
+   "id": "unicamp-biologia-03",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/unicamp-2026-q39.png",
+    "descricao": "Dois gráficos de densidade de populações (0 a 25) em função do tempo, cenários I e II, cada um com três curvas: linha contínua, linha tracejada e linha pontilhada. No cenário I, a contínua cai de 15 para cerca de 10 e se estabiliza; a tracejada cai de 10 até zero; a pontilhada, que começa perto de 2, sobe até cerca de 6,5 e se estabiliza. No cenário II, a contínua sobe de 15 para cerca de 20; a tracejada sobe de 10 para cerca de 14; a pontilhada, que começa perto de 2, oscila e cai a zero."
+   },
+   "enunciado": "Nas invasões biológicas, os predadores exóticos são a maior causa de extinção de espécies e perda de biodiversidade. Isso acontece porque o predador exótico pode tanto consumir a presa nativa quanto competir com o predador nativo. O sucesso da invasão biológica ocorre quando existe a extinção de uma ou ambas as espécies nativas, ou quando existe a redução da população nativa na presença do predador exótico. Na figura, considere os cenários I e II da chegada de um predador exótico em um sistema nativo de presa-predador em equilíbrio.\n\nA partir dessas informações, assinale a alternativa correta.",
+   "fonte_texto": "Adaptado de V. RIVERA-ESTAY e colaboradores. Scientific Reports, Londres, v.14, p. 4416, fev. 2024.",
+   "alternativas": {
+    "a": "O cenário I representa insucesso da invasão biológica. O predador exótico é extinto, causando a redução populacional da presa nativa e o aumento populacional do predador nativo",
+    "b": "O cenário I representa sucesso da invasão biológica. O predador exótico se instala, causando a redução populacional da presa nativa e a extinção do predador nativo",
+    "c": "O cenário II representa sucesso da invasão biológica. O predador exótico se instala, causando a redução populacional do predador nativo e a extinção da presa nativa",
+    "d": "O cenário II representa insucesso da invasão biológica. O predador exótico é extinto, causando a redução populacional da presa nativa e o aumento populacional do predador nativo"
+   },
+   "explicacao": "A curva que começa perto de zero é a do recém-chegado, o predador exótico. No cenário I ela cresce e se estabiliza (o invasor se instala), enquanto a presa nativa cai de 15 para 10 e o predador nativo vai a zero — invasão bem-sucedida, com extinção do predador nativo. No cenário II o invasor é extinto e as duas populações nativas crescem, portanto não há redução da presa, o que derruba a última opção; e ninguém é extinto entre os nativos, o que derruba a terceira.",
+   "resposta": "b",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
    "id": "dir-ciencias-natureza-01",
    "texto_apoio": "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
    "enunciado": "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
@@ -120505,6 +123290,29 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-evolucao",
+   "id": "unicamp-biologia-05",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Ilustração",
+    "arquivo": "assets/provas/unicamp-2026-q41.jpg",
+    "descricao": "Quatro crânios de hominídeos em perfil, da esquerda para a direita: Australopithecus (crânio pequeno, face projetada), Homo erectus (crânio maior, arcada supraorbital saliente), Homo neanderthalensis (crânio volumoso e alongado, nariz grande) e Homo sapiens (crânio arredondado, testa vertical, queixo)."
+   },
+   "enunciado": "A figura apresenta o crânio de alguns hominídeos que fazem parte da história evolutiva humana.\n\nConsiderando essas informações e os seus conhecimentos em biologia, assinale a alternativa correta.",
+   "fonte_texto": "Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.",
+   "alternativas": {
+    "a": "O Australopithecus possuía cérebro pequeno e crânio com a maxila projetada para frente da face. Apresentava bipedismo e utilizava o fogo, o que favoreceu a evolução da espécie",
+    "b": "O Homo erectus possuía cérebro de tamanho médio, fala rudimentar e várias características atuais, como testa plana e proeminente. Foi o primeiro a apresentar bipedismo e usar ferramentas, o que permitiu sua coexistência com outros hominídeos",
+    "c": "O Homo neanderthalensis possuía nariz e narinas voltadas para baixo, além de cérebro bem desenvolvido e capacidade de comunicação. Utilizava o fogo e ferramentas, o que permitiu sua coexistência com outros hominídeos",
+    "d": "O Homo sapiens possui, como característica mais marcante, o cérebro bem desenvolvido e a capacidade da fala. Foi o primeiro a usar o fogo e ferramentas, favorecendo a evolução da espécie"
+   },
+   "explicacao": "Os neandertais tinham cérebro tão grande quanto o nosso (ou maior), nariz amplo, dominavam o fogo, produziam ferramentas e conviveram (e cruzaram) com o Homo sapiens na Eurásia. Os erros das outras: Australopithecus era bípede, mas não usava fogo; o bipedismo é anterior ao Homo erectus (já estava nos australopitecos) e a testa dele era fugidia, não plana e proeminente; e o Homo sapiens não foi o primeiro a usar fogo nem ferramentas — Homo erectus já fazia ambos.",
+   "resposta": "c",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
    "id": "dir-ciencias-natureza-06",
    "texto_apoio": "A resistência bacteriana a antibióticos é apontada pela Organização Mundial da Saúde como uma das principais ameaças à saúde pública global.",
    "enunciado": "O uso inadequado e excessivo de antibióticos, tanto em humanos quanto na produção animal, contribui para a resistência bacteriana porque",
@@ -122085,6 +124893,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O potencial da célula é a diferença entre o do eletrodo que reduz e o do que oxida: 0,88 − (−0,751) = 1,631 V, ou seja, +1,63 V. Para os produtos, some as duas semirreações depois de igualar os elétrons — o KOH aparece dos dois lados e se cancela, assim como o peróxido, que é consumido. Sobram nitrogênio, gás carbônico e água. Alternativa A. As alternativas C, D e E somam os dois potenciais em vez de subtrair, chegando a 3,52 V; B e E mantêm o peróxido entre os produtos, quando ele é reagente; e C mantém o KOH, que se cancela."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "ita-2026-q29",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma célula galvânica é constituída de um béquer contendo uma solução S aerada, na qual estão imersas duas barras metálicas, uma de ferro e outra de cobre, conectadas externamente por um condutor metálico. Sobre essa célula galvânica, são feitas as seguintes afirmações:\nI. Quando S é uma solução aquosa a 1 mol·L⁻¹ em NaCl, o meio torna-se mais básico.\nII. Quando S é uma solução aquosa a 1 mol·L⁻¹ em CuSO₄, a massa da barra de cobre aumenta.\nIII. Quando S é uma solução aquosa a 1 mol·L⁻¹ em HCl, há formação de bolhas de gás sobre a barra de cobre.\nIV. Quando S é uma solução aquosa a 1 mol·L⁻¹ em HNO₃, a massa da barra de cobre diminui.\n\nDados de potenciais padrão de eletrodo eventualmente necessários:\nSemirreação | E° (V)\nNa⁺ + e⁻ ⇌ Na | −2,71\n2H₂O + 2e⁻ ⇌ H₂ + 2OH⁻ | −0,83\nFe²⁺ + 2e⁻ ⇌ Fe | −0,44\n2H⁺ + 2e⁻ ⇌ H₂ | 0\nCu²⁺ + 2e⁻ ⇌ Cu | 0,34\nO₂ + 2H₂O + 4e⁻ ⇌ 4OH⁻ | 0,40\nNO₃⁻ + 2H⁺ + e⁻ ⇌ NO₂ + H₂O | 0,80\nO₂ + 4H⁺ + 4e⁻ ⇌ 2H₂O | 1,23\nCl₂ + 2e⁻ ⇌ 2Cl⁻ | 1,36\n\nCom base nas informações do enunciado, está(ão) correta(s) apenas:",
+   "alternativas": {
+    "a": "I.",
+    "b": "I, II e IV.",
+    "c": "II e III.",
+    "d": "III e IV.",
+    "e": "todas."
+   },
+   "resposta": "e",
+   "explicacao": "O ferro funciona como ânodo. Em NaCl aerado, a redução de O₂ forma OH⁻; em CuSO₄, Cu²⁺ se deposita no cobre; em HCl, H⁺ se reduz a H₂ sobre o cobre; em HNO₃, o oxidante nitrato permite também a oxidação do cobre. Assim as quatro afirmações são corretas."
   }
  ],
  "quimica-atomistica-ligacoes": [
@@ -123795,6 +126622,124 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Os três nomes vêm dos metais que carregam. A hematita é óxido de ferro, e seu nome vem do grego para sangue, pela cor avermelhada do ferro oxidado. A cassiterita é óxido de estanho — o mesmo radical de \"cassiterídeos\", as ilhas do estanho da Antiguidade. E a bauxita, batizada em Les Baux, no sul da França, é a fonte do alumínio. Alternativa A. As demais embaralham os três: C troca estanho por alumínio, B põe cobre no lugar do estanho, e D e E ainda deslocam o ferro do primeiro para o último lugar."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "unicamp-quimica-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/unicamp-2026-q66.jpg",
+    "descricao": "Triângulo de Johnstone: no vértice superior (1) Macroscópico, no vértice inferior esquerdo (2) Submicroscópico e no inferior direito (3) Simbólico, ilustrado como uma pirâmide de escadas com pessoas. Abaixo, oito ilustrações rotuladas de A a H: A — três garrafas com balões inflando; B — fórmulas estruturais do etanol reagindo com O₂ e do ácido acético com água; C — diagrama de energia versus progresso da reação ao lado de modelos moleculares coloridos; D — fotografia de um tanque industrial em chamas; E — triângulo com uma chama e a equação CH₄ + 2O₂ = CO₂ + 2H₂O; F — retículo cristalino em cubo com esferas alaranjadas; G — modelos de bolas e varetas mostrando duas moléculas reagindo (+ e →) e formando outras; H — a equação C₂H₅OH(l) + 3O₂(g) = 2CO₂(g) + 3H₂O(l)."
+   },
+   "enunciado": "O desafio de ensinar como as reações químicas acontecem está no fato de que elas geralmente ocorrem por meio de sinais detectáveis pelos nossos sentidos, enquanto que sua explicação geralmente ocorre em um nível invisível ou abstrato. Johnstone, pesquisador escocês em educação científica, propôs que, para se entender um fenômeno do ponto de vista químico, qualquer pessoa precisa ser capaz de pensá-lo em três domínios distintos: o macroscópico, o submicroscópico e o simbólico. A figura mostra o triângulo de Johnstone que correlaciona os três domínios, identificados como (1) Macroscópico, (2) Submicroscópico e (3) Simbólico. Já as ilustrações apresentam os domínios de forma aleatória.\n\nCom base nas informações do enunciado, da figura e das ilustrações, é correto afirmar que os domínios (1), (2) e (3) do triângulo de Johnstone são representados respectivamente pelas ilustrações",
+   "fonte_texto": "Adaptado de https://edu.rsc.org/feature/develop-deeper-understanding-with-models/3010519.article. Acesso em 09/10/2025.",
+   "alternativas": {
+    "a": "(F), (H) e (G), enquanto a ilustração (C) apresenta uma combinação dos domínios simbólico e submicroscópico",
+    "b": "(G), (D) e (A), enquanto a ilustração (E) apresenta uma combinação dos domínios simbólico e submicroscópico",
+    "c": "(B), (A) e (H), enquanto a ilustração (E) apresenta uma combinação dos domínios simbólico e submicroscópico",
+    "d": "(D), (G) e (H), enquanto a ilustração (C) apresenta uma combinação dos domínios simbólico e submicroscópico"
+   },
+   "explicacao": "Macroscópico é o que se vê a olho nu: a fotografia do incêndio (D). Submicroscópico é o nível das partículas: os modelos moleculares de bolas e varetas reagindo (G). Simbólico é a linguagem de fórmulas e equações: C₂H₅OH + 3O₂ = 2CO₂ + 3H₂O (H). A ilustração C junta uma curva da reação (representação simbólica) a modelos moleculares (submicroscópico). Nas outras opções, F (retículo) e G são submicroscópicos, A (balões) é macroscópico e E combina macroscópico (chama) com simbólico, não submicroscópico.",
+   "resposta": "d",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "ita-2023-q51",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Para O e seus íons gasosos:\nI. A afinidade eletrônica de O é maior que a de O⁻.\nII. A energia de ionização de O é maior que a de O²⁻.\nIII. O raio de O é maior que o de O⁻.\nIV. O tem maior afinidade eletrônica e menor energia de ionização que N.\n\nEstão corretas",
+   "alternativas": {
+    "a": "apenas I e II.",
+    "b": "apenas I, II e IV.",
+    "c": "apenas I e III.",
+    "d": "apenas II, III e IV.",
+    "e": "apenas III e IV."
+   },
+   "resposta": "b",
+   "explicacao": "Adicionar o primeiro elétron a O é mais favorável que adicionar outro a O⁻, então I vale. É mais fácil remover elétron do ânion que do átomo, validando II. O⁻ é maior que O, tornando III falsa. Comparado a N, O tem maior afinidade e menor primeira ionização devido à estabilidade 2p³ do N, validando IV."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "ita-2023-q57",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Valores maiores de energia de hidratação ocorrem para íons menores e mais carregados. Compare:\nI. Li⁺>K⁺.\nII. B³⁺>Al³⁺.\nIII. Sr²⁺<Ca²⁺.\nIV. Ga³⁺>Ca²⁺.\nV. S²⁻>Se²⁻.\n\nEstão corretas",
+   "alternativas": {
+    "a": "apenas I e II.",
+    "b": "apenas I, II e IV.",
+    "c": "apenas II, III e V.",
+    "d": "apenas III, IV e V.",
+    "e": "todas."
+   },
+   "resposta": "e",
+   "explicacao": "I, II, III e V seguem diretamente o menor raio dentro de cada par de mesma carga. Em IV, Ga³⁺ combina carga maior e raio menor que Ca²⁺. Portanto todas as comparações estão corretas. A tendência acompanha o raio atômico e o raio iônico ao longo da tabela periódica."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "ita-2026-q26",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere:\nI. A primeira energia de ionização de N é menor que a de O.\nII. Rb⁺ tem menor raio que Sr²⁺.\nIII. CH₂O é trigonal plana e apolar.\nIV. PCl₅ é bipirâmide trigonal e polar.\n\nEstá(ão) correta(s)",
+   "alternativas": {
+    "a": "apenas I e II.",
+    "b": "apenas II e III.",
+    "c": "apenas I e IV.",
+    "d": "apenas IV.",
+    "e": "nenhuma."
+   },
+   "resposta": "e",
+   "explicacao": "I é falsa porque a configuração semipreenchida 2p³ torna a ionização do N mais difícil que a do O. Em II, os íons são isoeletrônicos e Sr²⁺, com maior carga nuclear, é menor. CH₂O é trigonal plana, mas polar; PCl₅ é bipirâmide trigonal e apolar. Nenhuma afirmação é correta. São tendências da tabela periódica, envolvendo raio atômico, energia de ionização, geometria molecular e polaridade."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "ita-2026-q28",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Sobre o efeito estufa:\nI. CH₄ e N₂O, embora menos abundantes, têm potencial de aquecimento muito maior que CO₂.\nII. Sem o efeito estufa, a temperatura média da Terra seria aproximadamente 25 °C.\nIII. O aquecimento aumenta a evaporação dos oceanos, intensificando o efeito estufa.\nIV. Sob UV, CFCs liberam H porque C–H é mais fraca que C–F e C–Cl.\n\nEstão corretas",
+   "alternativas": {
+    "a": "apenas I, II e III.",
+    "b": "apenas I e III.",
+    "c": "apenas I e IV.",
+    "d": "apenas II, III e IV.",
+    "e": "apenas II e IV."
+   },
+   "resposta": "b",
+   "explicacao": "I é verdadeira pelo maior potencial de aquecimento de CH₄ e N₂O; III descreve a realimentação positiva do vapor d'água. II é falsa: sem o efeito estufa natural a média seria cerca de −18 °C. IV é falsa porque CFCs não contêm hidrogênio; a fotólise libera cloro. A fotólise rompe ligação covalente C–Cl, não uma ligação C–H inexistente no CFC."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "ita-2026-q33",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere:\nI. O modelo de Rutherford evidenciou núcleo positivo e os elementos passaram a ser diferenciados pelo número de elétrons.\nII. Raios catódicos determinaram carga/massa de um próton, permitindo obter a massa do elétron.\nIII. Cu-63 (69,09%; 62,93 u) e Cu-65 (30,91%; 64,93 u) dão massa média aproximada 63,55 u.\nIV. Amostras com 2,65 g C e 0,665 g H e com 4,56 g C e 0,383 g H obedecem às proporções múltiplas e poderiam ser etano e eteno, respectivamente.\n\nContêm afirmações erradas",
+   "alternativas": {
+    "a": "apenas I e II.",
+    "b": "apenas I, II e IV.",
+    "c": "apenas I, III e IV.",
+    "d": "apenas II e III.",
+    "e": "apenas III e IV."
+   },
+   "resposta": "b",
+   "explicacao": "I erra porque a identidade do elemento é dada pelo número de prótons; II erra porque raios catódicos forneceram e/m do elétron. III confere: a média ponderada é 63,55 u. IV erra nas fórmulas sugeridas pelas razões C/H. Portanto estão erradas I, II e IV."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -125319,6 +128264,48 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "pH 10 significa concentração de H⁺ igual a 10⁻¹⁰ mol/L; pelo produto iônico, a de OH⁻ é 10⁻¹⁴/10⁻¹⁰ = 10⁻⁴ mol/L. A pergunta é por QUANTIDADE, não por concentração, então multiplica-se pelo volume de 0,5 L: 5×10⁻¹¹ mol de H⁺ e 5×10⁻⁵ mol de OH⁻ — alternativa E. A alternativa D dá as concentrações trocadas e sem multiplicar pelo volume; B e C invertem os sinais dos expoentes, o que daria quantidades gigantescas de íons numa garrafa de meio litro; e A confunde a quantidade de íons com o volume em litros."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "unicamp-quimica-02",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Infográfico",
+    "arquivo": "assets/provas/unicamp-2026-q67.jpg",
+    "descricao": "Infográfico: à esquerda, uma cidade com fábricas e carro emitindo CO₂ para a atmosfera; setas levam o CO₂ ao oceano, onde aparecem as equações CO₂ + H₂O ⇒ HCO₃⁻ + H⁺; H⁺ + [A] ⇒ HCO₃⁻; [B] ⇒ Ca²⁺ + [C] (coral). No canto inferior esquerdo, um gráfico com eixo Y (0 a 800) e eixo X (0 a 800) mostrando uma curva decrescente. Recife de corais com peixes ao fundo."
+   },
+   "enunciado": "Os recifes de corais são ecossistemas ricos em biodiversidade, sendo essenciais para a pesca e proteção costeira. Essas estruturas são formadas por pólipos com esqueleto externo de carbonato de cálcio e sofrem degradação nas últimas décadas devido às atividades humanas no meio ambiente. O infográfico representa o efeito da ação humana sobre um dos equilíbrios químicos da água dos oceanos pela emissão de CO₂ atmosférico (CO₂ atm). Dados: [CO₂]atm = concentração de CO₂ atmosférico. Equações do infográfico: CO₂ + H₂O ⇒ HCO₃⁻ + H⁺; H⁺ + A ⇒ HCO₃⁻; B ⇒ Ca²⁺ + C (coral).\n\nCom base nas informações do enunciado e do infográfico apresentado, é correto afirmar que as espécies A, B e C são, respectivamente,",
+   "fonte_texto": "Adaptado de HOEGH-GULDBERG et al. Science, v. 318, p.1737-1742, 2007.",
+   "alternativas": {
+    "a": "CO₂, CO₃²⁻ e CaCO₃, enquanto os eixos X e Y no infográfico representam respectivamente [CO₃²⁻] e [CO₂]atm. Globalmente, o aumento da [CO₂]atm provoca um aumento do pH dos oceanos e, consequentemente, uma maior degradação dos corais",
+    "b": "CO₃²⁻, CaCO₃ e CO₃²⁻, enquanto os eixos X e Y no infográfico representam respectivamente [CO₂]atm e [CO₃²⁻]. Globalmente, o aumento da [CO₂]atm provoca uma diminuição do pH dos oceanos e, consequentemente, uma maior degradação dos corais",
+    "c": "CO₂, CaCO₃ e CO₃²⁻, enquanto os eixos X e Y no infográfico representam respectivamente [CO₃²⁻] e [CO₂]atm. Globalmente, o aumento da [CO₂]atm provoca uma diminuição do pH dos oceanos e, consequentemente, uma menor degradação dos corais",
+    "d": "CO₃²⁻, CaCO₃ e CO₃²⁻, enquanto os eixos X e Y no infográfico representam respectivamente [CO₃²⁻] e [CO₂]atm. Globalmente, o aumento da [CO₂]atm provoca um aumento do pH dos oceanos e, consequentemente, uma menor degradação dos corais"
+   },
+   "explicacao": "O CO₂ absorvido pela água do mar gera H⁺ (CO₂ + H₂O ⇒ HCO₃⁻ + H⁺): a água acidifica, o pH cai. Esse H⁺ consome o carbonato: H⁺ + CO₃²⁻ ⇒ HCO₃⁻, logo A é CO₃²⁻. Com menos carbonato, o esqueleto dos corais se desfaz: CaCO₃ (B) ⇒ Ca²⁺ + CO₃²⁻ (C). O gráfico é decrescente porque, quanto maior [CO₂]atm (eixo X), menor [CO₃²⁻] disponível (eixo Y) — e mais degradação dos corais. As opções que falam em aumento de pH ou em menor degradação invertem o efeito.",
+   "resposta": "b",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "ita-2023-q56",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Em 1 L, X₂, Y₂ e XY têm concentrações iniciais 0,4, 0,4 e 0,8 mol·L⁻¹. Para X₂+Y₂ ⇌ 2XY, K_c=16. A concentração aproximada de XY no equilíbrio é",
+   "alternativas": {
+    "a": "0,5.",
+    "b": "0,8.",
+    "c": "1,1.",
+    "d": "2,2.",
+    "e": "2,7."
+   },
+   "resposta": "c",
+   "explicacao": "O quociente inicial é 0,8²/(0,4·0,4)=4<16, então a reação avança. Com extensão x, 16=(0,8+2x)²/(0,4−x)². Tomando a raiz positiva, (0,8+2x)/(0,4−x)=4, de onde x=0,133. Assim [XY]≈1,07≈1,1 mol/L."
   }
  ],
  "quimica-organica": [
@@ -126918,6 +129905,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A proporção Ω-6/Ω-3 é uma razão, e o texto diz que a linhaça a levou de 7,92 para 2,72. Ler a razão é direto: depois da dieta, há 2,72 vezes mais Ω-6 do que Ω-3 no leite. Alternativa B. A alternativa A usa o valor anterior à dieta, 7,92; C e D tratam a razão como se comparasse o leite novo com o antigo, quando ela compara os dois ácidos entre si dentro do mesmo leite; e E inventa variações absolutas de 5 e 10 vezes a partir da faixa recomendada pela OMS, que é o intervalo de referência para a dieta humana total, não uma medida do leite."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "ita-2026-q32",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Sobre séries orgânicas:\nI. {CH₄, C₂H₆, C₃H₈, CH₃OH, C₂H₅OH, C₃H₇OH} pode ser dividido em três séries homólogas distintas.\nII. As propriedades químicas em uma série isóloga são próximas.\nIII. Uma série heteróloga é constituída por diferentes números de carbono nas cadeias.\n\nEstá(ão) correta(s)",
+   "alternativas": {
+    "a": "nenhuma.",
+    "b": "apenas I.",
+    "c": "apenas I e III.",
+    "d": "apenas II.",
+    "e": "apenas II e III."
+   },
+   "resposta": "a",
+   "explicacao": "O conjunto forma duas séries homólogas, alcanos e álcoois, não três. Série isóloga varia pelo grau de insaturação e não pressupõe propriedades químicas próximas; série heteróloga varia a função química, não simplesmente o número de carbonos. As três afirmações são falsas."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "ita-2026-q34",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Na substituição R₁R₂R₃C–X + Nu → R₁R₂R₃C–Nu + X⁻:\nI. Comparando dois possíveis haloalcanos para essa reação, o (CH₃)H₂C–I é mais suscetível a formar um carbocátion do tipo R₁R₂R₃C⁺ do que o (C₃H₇)₃C–I.\nII. Entre haloalcanos do tipo (CH₃)₃C–X, a tendência de se formar um carbocátion do tipo (CH₃)₃C⁺ em um solvente polar aumenta na ordem (CH₃)₃C–F > (CH₃)₃C–Cl > (CH₃)₃C–Br > (CH₃)₃C–I.\nIII. O carbocátion (C₃H₇)₃C⁺ atacado por nucleófilo produz enantiômero puro.\n\nEstá(ão) correta(s)",
+   "alternativas": {
+    "a": "nenhuma.",
+    "b": "apenas I e II.",
+    "c": "apenas I e III.",
+    "d": "apenas II e III.",
+    "e": "todas."
+   },
+   "resposta": "a",
+   "explicacao": "I inverte a estabilidade: o carbocátion terciário é mais favorecido que o primário. II também inverte a qualidade do grupo de saída, que cresce de F para I. III é falsa porque o carbocátion plano pode ser atacado por ambas as faces, produzindo mistura, não enantiômero puro. É uma reação de substituição estudada em química orgânica."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "ita-2026-q35",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "O PET resulta da condensação entre ácido tereftálico (C₈H₆O₄) e etilenoglicol (C₂H₆O₂). Sua densidade é 1,38 g·cm⁻³ e a massa molar média do fio é 38.400 g·mol⁻¹. Com 332 g de ácido e excesso de glicol, rendimento 100%, a massa molar da unidade repetitiva, a massa teórica e o volume de PET produzido e o número médio de unidades repetitivas por cadeia são, respectivamente (dados: massas molares C = 12,01; H = 1,01; O = 16,00 g·mol⁻¹)",
+   "alternativas": {
+    "a": "192,17 g·mol⁻¹; 384,34 g; 278,51 cm³; 200.",
+    "b": "210,19 g·mol⁻¹; 400,00 g; 290,00 cm³; 182.",
+    "c": "192,17 g·mol⁻¹; 432,17 g; 313,17 cm³; 250.",
+    "d": "166,14 g·mol⁻¹; 384,34 g; 250,00 cm³; 231.",
+    "e": "192,17 g·mol⁻¹; 384,34 g; 300,00 cm³; 220."
+   },
+   "resposta": "a",
+   "explicacao": "A unidade repetitiva é C₁₀H₈O₄, com 192,17 g·mol⁻¹. Os 332 g de ácido são 2 mol e formam 2 mol de unidades, ou 384,34 g de PET. O volume é 384,34/1,38 = 278,51 cm³ e 38.400/192,17 ≈ 200 unidades por cadeia. A cadeia do polímero contém grupos éster formados na condensação."
   }
  ],
  "quimica-solucoes": [
@@ -128505,6 +131549,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Concentração em mol por litro pede as duas conversões. Os 360 mg são 0,36 g, que a 40 g/mol dão 0,009 mol de cálcio; os 125 mL são 0,125 L. Dividindo, 0,009/0,125 = 0,072 mol/L, ou 7,2×10⁻² — alternativa D. A alternativa C, 7,2×10⁻¹, erra uma potência de dez na conversão do volume; E erra na conversão da massa; e A e B partem de dividir a massa por 25 em vez de 40, ou seja, usam a massa molar errada."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "ita-2023-q49",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Em uma titulação, 100 mL de ácido monoprótico fraco com K_a=10⁻⁹ são neutralizados por 25 mL de NaOH 0,5 mol·L⁻¹. O pH no ponto de equivalência é",
+   "alternativas": {
+    "a": "9,0.",
+    "b": "9,5.",
+    "c": "10,0.",
+    "d": "10,5.",
+    "e": "11,0."
+   },
+   "resposta": "e",
+   "explicacao": "Há 0,0125 mol do sal em 0,125 L, logo C=0,10 mol/L. Para a base conjugada, K_b=10⁻¹⁴/10⁻⁹=10⁻⁵ e [OH⁻]≈√(K_bC)=10⁻³. Assim pOH=3 e pH=11."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "ita-2026-q30",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma solução a 100 °C contém o equilíbrio A(aq) ⇌ B(aq), com 1,0 mol inicial de A e K = 1,0, em 1000 g de água. Recebe 540 cal por segundo; o volume de A e B é desprezível em relação ao da solução, o equilíbrio é atingido muito rapidamente, A e B são não voláteis e toda a energia é utilizada para ebulição do solvente. Dados K_e = 0,52 °C·kg·mol⁻¹ e ΔH_eb(H₂O)=540 cal·g⁻¹. O tempo para a temperatura aumentar 1,04 °C é",
+   "alternativas": {
+    "a": "400 s.",
+    "b": "500 s.",
+    "c": "600 s.",
+    "d": "700 s.",
+    "e": "800 s."
+   },
+   "resposta": "b",
+   "explicacao": "A elevação de 1,04 °C exige molalidade total 2 mol·kg⁻¹. Como A ⇌ B conserva o total de 1 mol de soluto, a massa de água deve cair a 0,5 kg. Evaporam 500 g, exigindo 500·540 cal; a 540 cal/s, o tempo é 500 s. A ebulioscopia é uma propriedade coligativa do solvente e relaciona a solução à sua pressão de vapor."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "ita-2026-q31",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Na reação elementar A → 3B em água, A e B são não voláteis. Inicialmente, 1 mol de A está em 90 g de água. Após 20 h, a pressão de vapor da solução é 16 mmHg; a temperatura é de 25 °C durante a reação, e a pressão de vapor da água pura a 25 °C é 24 mmHg. A pressão de vapor da solução após 30 h é (dados: massas molares H = 1,01 g·mol⁻¹ e O = 16,00 g·mol⁻¹)",
+   "alternativas": {
+    "a": "11,54 mmHg.",
+    "b": "12,07 mmHg.",
+    "c": "13,20 mmHg.",
+    "d": "14,05 mmHg.",
+    "e": "15,48 mmHg."
+   },
+   "resposta": "e",
+   "explicacao": "Pela lei de Raoult em 20 h, x_água = 16/24 = 2/3. Há 5 mol de água, então o total de solutos é 2,5 mol. Se a extensão é ξ, 1−ξ+3ξ = 1+2ξ = 2,5, logo ξ=0,75 e, para primeira ordem, restam 0,25 mol: duas meias-vidas em 20 h. Em 30 h restam 0,125 mol, os solutos totalizam 2,75 mol e P = 24·5/7,75 = 15,48 mmHg."
   }
  ],
  "quimica-estequiometria": [
@@ -129944,6 +133045,113 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O reator é aberto, então o único produto que escapa é o gás: a massa perdida é a massa de monóxido de carbono liberado. Com massa molar 28 g/mol, 1 400 g correspondem a 50 mol de CO. A equação mostra 3 mol de carbono para cada 1 mol de CO, logo reagiram 150 mol de carbono, que a 12 g/mol pesam 1 800 g — alternativa C. A alternativa A, 700 g, resulta de tomar a massa perdida como se fosse a do próprio carbono e dividi-la por dois; B ignora o coeficiente 3; D e E multiplicam por 4 ou por 6 em vez de 3."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "unicamp-quimica-03",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/unicamp-2026-q69.png",
+    "descricao": "Gráfico de captura cumulativa de CO₂ (mmol/g), de 0,0 a 3,0, em função do tempo (min), de 0 a 60. A curva parte de zero, sobe rapidamente entre 5 e 20 minutos (cerca de 1,8 mmol/g aos 20 min), desacelera e se aproxima de um patamar de 3,0 mmol/g por volta de 50–60 minutos."
+   },
+   "enunciado": "Diante das mudanças climáticas, muitos químicos desempenham um papel estratégico no enfrentamento desse problema. Uma dessas ações é o esforço no desenvolvimento de recursos que removem CO₂ por meio da captura direta do ar. Nesse sentido, os químicos se dedicam a produzir materiais que, ao mesmo tempo, possam capturar o CO₂ em situações diversas em quantidades e velocidades altas. Um exemplo disso é a captura cumulativa de CO₂ (em mmol) por grama de tetraperoxotitanato de potássio K₄Ti(O₂)₄ em função do tempo. Esses resultados são parcialmente mostrados no gráfico.\n\nDado parcial: Massa molar: K₄Ti(O₂)₄ = 332,3 g·mol⁻¹\n\nConsiderando as informações do gráfico, é correto afirmar que após 65 minutos de adsorção: (i) a razão molar [mol CO₂ por mol de K₄Ti(O₂)₄] e (ii) o aumento percentual de massa do sólido serão aproximadamente de",
+   "fonte_texto": "Adaptado de BACH, K. et al. ChemRxiv, DOI: 10.26434/chemrxiv-2024-xb06z-v2. Acesso em 09/10/2025.",
+   "alternativas": {
+    "a": "(i) 3 e (ii) 13% em relação ao inicial",
+    "b": "(i) 1 e (ii) 13% em relação ao inicial",
+    "c": "(i) 3 e (ii) 30% em relação ao inicial",
+    "d": "(i) 1 e (ii) 30% em relação ao inicial"
+   },
+   "explicacao": "Aos 60 min a curva já está no patamar de 3,0 mmol de CO₂ por grama de sólido, e aos 65 min continua aí. Um grama de K₄Ti(O₂)₄ são 1/332,3 mol ≈ 3,0 mmol; logo a razão é 3,0 mmol CO₂ / 3,0 mmol de sal ≈ 1 mol por mol. Em massa: 3,0 mmol × 44 g/mol = 0,132 g de CO₂ retidos por grama de sólido, ou seja, aumento de cerca de 13%.",
+   "resposta": "b",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "unicamp-quimica-04",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Fluxograma",
+    "arquivo": "assets/provas/unicamp-2026-q70.png",
+    "descricao": "Fluxograma do processo Solvay: entram NaCl (saturado) e CaCO₃(s); o CaCO₃ gera CO₂(g) e CaO(s); NH₃(g), CO₂ e a salmoura formam NaHCO₃(s) e NH₄Cl(aq); o NaHCO₃ é convertido em Na₂CO₃(s), liberando CO₂ que retorna ao processo e H₂O(vap); o NH₄Cl reage com o CaO, regenerando NH₃(g), que retorna ao processo, e produzindo CaCl₂(s)."
+   },
+   "enunciado": "A produção industrial de barrilha (carbonato de sódio) é majoritariamente feita pelo processo Solvay. A barrilha é um dos compostos químicos inorgânicos mais importantes globalmente, sendo vital para a fabricação de vidro, sabão, detergente, papel, entre muitos outros produtos. As reações envolvidas no processo Solvay, que ocorrem em fluxo contínuo, estão representadas esquematicamente no fluxograma.\n\nNesse processo de fabricação, após o fluxo contínuo de produção ser iniciado, é necessário adicionar para sua manutenção",
+   "fonte_texto": "Adaptado de ARAÚJO A. L. et al. Química Nova, v. 21, n. 1, p. 114, 1998.",
+   "alternativas": {
+    "a": "salmoura e calcário, pois a amônia é totalmente regenerada durante o processo",
+    "b": "gás carbônico e salmoura, pois a amônia é totalmente regenerada durante o processo",
+    "c": "calcário e amônia, pois o gás carbônico é totalmente regenerado durante o processo",
+    "d": "amônia e salmoura, pois o gás carbônico é totalmente regenerado durante o processo"
+   },
+   "explicacao": "No fluxograma só duas setas entram de fora e não voltam: NaCl saturado (salmoura) e CaCO₃ (calcário). O CO₂ vem da calcinação do calcário e da decomposição do NaHCO₃; a amônia, consumida na formação de NH₄Cl, é regenerada quando o NH₄Cl reage com o CaO e volta ao circuito. Portanto o que se repõe é salmoura e calcário; amônia não precisa ser adicionada porque é integralmente reciclada. Balanço global: 2 NaCl + CaCO₃ → Na₂CO₃ + CaCl₂.",
+   "resposta": "a",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "unicamp-quimica-05",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/unicamp-2026-q72.jpg",
+    "descricao": "Comparação entre o método convencional e o método proposto de obtenção de lítio a partir do α-LiAlSi₂O₆. Convencional: (i) calcinação a 1100 °C, formando β-LiAlSi₂O₆; (ii) calcinação com H₂SO₄ a 325 °C; (iii) lixiviação aquosa a 90 °C, liberando íons Li⁺ (quatro Li⁺ desenhados); (iv) CO₃²⁻, formando Li₂CO₃. Proposto: (i) tratamento térmico com NaOH a 325 °C, formando silicato de sódio e lítio; (ii) lixiviação aquosa à temperatura ambiente, liberando Li⁺ (três Li⁺ desenhados); (iii) CO₃²⁻, formando Li₂CO₃."
+   },
+   "enunciado": "Uma patente é uma concessão pública, conferida pelo Estado, que garante ao seu titular a exclusividade de explorar comercialmente a sua criação. É necessário que a patente seja de uma criação inédita. Para ser explorada comercialmente, deve apresentar vantagens para quem vai adquiri-la e utilizá-la na produção a que se propõe. É com base nesses pressupostos que cientistas entraram com pedido de patente para um processo de produção de lítio a partir do minério α-espodumênio (α-LiAlSi₂O₆). Para explicar o seu novo método e compará-lo a um método convencional, os pesquisadores apresentaram a figura.\n\nConsiderando apenas essas informações, é correto afirmar que, em relação ao método convencional, esse novo método é",
+   "fonte_texto": "Adaptado de SUBASINGHE, S.A.D.T. et al. Chemical Engineer Journal, v. 505, n. 159661, 2025.",
+   "alternativas": {
+    "a": "mais rápido e apresenta maior rendimento, porém consome mais carbonato na etapa final de separação do lítio",
+    "b": "mais intensivo em energia e com maior consumo de carbonato na etapa final de separação do lítio, porém com maior rendimento",
+    "c": "mais lento e apresenta menor rendimento, porém consome menos carbonato na etapa final de separação do lítio",
+    "d": "menos intensivo em energia e com menor consumo de carbonato na etapa final de separação do lítio, porém nada se pode afirmar acerca do rendimento"
+   },
+   "explicacao": "O método convencional exige calcinação a 1100 °C, outra a 325 °C e lixiviação a 90 °C; o proposto tem uma etapa a 325 °C e lixiviação à temperatura ambiente — muito menos energia. Na figura, a lixiviação convencional libera mais íons Li⁺ que a do método novo (quatro contra três), de modo que a etapa final consome menos carbonato para precipitar o Li₂CO₃. Como o esquema não traz tempos nem quantidades de produto, nada se pode afirmar sobre velocidade ou rendimento — o que descarta as opções que falam em “mais rápido”, “mais lento” ou em rendimento maior ou menor.",
+   "resposta": "d",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "ita-2023-q55",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Oxigênio-16 e os dois isótopos estáveis de H formam, em duas condições, produtos únicos X e Y, neutros, estáveis e com octeto, sendo M_X<M_Y. As possíveis razões massa de H/massa de O em X e Y são",
+   "alternativas": {
+    "a": "X: 1/8, 3/16 e 1/4; Y: 1/16, 3/32 e 1/8.",
+    "b": "X: 1/8, 3/16 e 1/4; Y: 1/24, 1/16 e 1/12.",
+    "c": "X: 1/16, 3/32 e 1/8; Y: 1/8, 3/16 e 1/4.",
+    "d": "X: 1/16, 1/8 e 1/4; Y: 1/32, 1/16 e 1/8.",
+    "e": "X: 1/24, 1/16 e 1/12; Y: 1/8, 3/16 e 1/4."
+   },
+   "resposta": "a",
+   "explicacao": "Os produtos compatíveis são águas isotópicas H₂O/HDO/D₂O e peróxidos H₂O₂/HDO₂/D₂O₂. As razões H/O da água são 1/8, 3/16 e 1/4; as do peróxido, com o dobro de O, são 1/16, 3/32 e 1/8. A água é o conjunto de menor massa molar média."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "ita-2026-q36",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Na reação gasosa 2X + W → Y + Z, um reator de volume fixo e temperatura constante contém 36 atm de X, W e inerte I na proporção molar 3:2:1. A pressão quando 75% de W forem consumidos é",
+   "alternativas": {
+    "a": "18 atm.",
+    "b": "24 atm.",
+    "c": "27 atm.",
+    "d": "30 atm.",
+    "e": "33 atm."
+   },
+   "resposta": "c",
+   "explicacao": "Tome 6 mol iniciais: 3 X, 2 W e 1 inerte. Consumir 75% de W corresponde à extensão 1,5 mol e consumiria 3 mol de X. Como cada avanço reduz o total gasoso em 1 mol, restam 4,5 mol. A volume e temperatura constantes, P = 36·(4,5/6) = 27 atm."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -131398,6 +134606,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Combustão é exotérmica, mas não começa sozinha: é preciso vencer uma barreira inicial, a energia de ativação. A chama externa fornece essa energia até que a superfície metálica fique quente o bastante para sustentar o processo — e por isso pode ser apagada logo depois, como o próprio enunciado diz. Alternativa A. A alternativa B chama a chama de comburente, papel que cabe ao oxigênio; C lhe atribui a função de evitar vazamento; D a liga à lubrificação; e E diz que ela aquece o comburente para que a combustão não cesse, quando o motor passa a operar sem ela."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "ita-2023-q50",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Pela lei de Arrhenius, a velocidade de uma reação aumenta 1000 vezes quando a temperatura passa de 400 K para 500 K, mantidos os demais parâmetros. Considerando que o fator de frequência e a energia de ativação não dependem da temperatura, a energia de ativação, em kcal·mol⁻¹, é (dados: R = 1,98 cal·K⁻¹·mol⁻¹; ln X = 2,3 log X)",
+   "alternativas": {
+    "a": "7,3.",
+    "b": "17,3.",
+    "c": "27,3.",
+    "d": "37,3.",
+    "e": "47,3."
+   },
+   "resposta": "c",
+   "explicacao": "ln(k₂/k₁)=E_a/R(1/T₁−1/T₂). Com ln1000=3ln10≈6,9, R=1,98 cal·K⁻¹·mol⁻¹ e diferença 1/400−1/500=1/2000, resulta E_a≈27.300 cal/mol=27,3 kcal/mol. A lei de Arrhenius é um resultado de cinética química; a termoquímica e a entalpia global não determinam esse fator de velocidade."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "ita-2026-q25",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Sem catalisador, uma reação tem k = 2,0×10⁻³ s⁻¹ a 310 K e E_a = 85 kJ·mol⁻¹. Com catalisador, k aumenta 10 vezes, sem alteração do fator pré-exponencial nem da ordem. A concentração inicial é 0,200 mol·L⁻¹. A energia de ativação e o tempo para a concentração cair a 0,050 mol·L⁻¹, na presença do catalisador, são, respectivamente (dados: R = 8,31 J·K⁻¹·mol⁻¹; ln X = 2,3 log X; ln 2 = 0,693)",
+   "alternativas": {
+    "a": "79 kJ·mol⁻¹; 69 s.",
+    "b": "66 kJ·mol⁻¹; 69 s.",
+    "c": "72 kJ·mol⁻¹; 75 s.",
+    "d": "66 kJ·mol⁻¹; 75 s.",
+    "e": "79 kJ·mol⁻¹; 75 s."
+   },
+   "resposta": "a",
+   "explicacao": "Pela razão de Arrhenius, ln 10 = (85−E_a')/(RT), resultando E_a' ≈ 79 kJ·mol⁻¹. Como k' = 0,020 s⁻¹ e a unidade s⁻¹ indica primeira ordem, t = ln(0,200/0,050)/0,020 = ln4/0,020 ≈ 69 s. O catalisador muda o caminho da cinética química, sem alterar a termoquímica nem a entalpia global da reação."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "ita-2026-q27",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Duas barras X e Y, de 200 g cada, atingem equilíbrio a 30 °C em dois experimentos isobáricos, realizados num mesmo recipiente isolado de 500 g com c = 0,1 cal·g⁻¹·°C⁻¹, que contém 350 g de água (c = 1,0 cal·g⁻¹·°C⁻¹); água e recipiente estão inicialmente a 25 °C. No experimento 1, X e Y começam a 230 °C. No experimento 2, X começa a 260 °C e Y a 185 °C. Os calores específicos de X e Y são",
+   "alternativas": {
+    "a": "0,01 e 0,04.",
+    "b": "0,02 e 0,03.",
+    "c": "0,025 e 0,025.",
+    "d": "0,03 e 0,02.",
+    "e": "0,04 e 0,01."
+   },
+   "resposta": "d",
+   "explicacao": "Água e recipiente absorvem (350+50)·5 = 2000 cal. O primeiro ensaio fornece c_X+c_Y = 0,05. O segundo fornece 200·230c_X + 200·155c_Y = 2000. Resolvendo o sistema, c_X = 0,03 e c_Y = 0,02 cal·g⁻¹·°C⁻¹. O balanço termoquímico iguala o calor cedido pelas barras ao calor absorvido pelo conjunto."
   }
  ],
  "fisica-mecanica": [
@@ -133751,6 +137016,101 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Quem segura a caixa é o atrito estático, e ele não passa de μmg. A maior desaceleração que a caixa suporta sem deslizar é, portanto, a = μg = 0,5 × 10 = 5 m/s² — e note que a massa some, de modo que os 100 kg e as 2 toneladas não entram na conta. Com v = 36 km/h = 10 m/s, a distância mínima sai de v² = 2ad: d = 100/10 = 10 m, alternativa C. A alternativa B, 5 m, resulta de esquecer o fator 2; D e E vêm de usar 36 m/s em vez de 10; e A, de dividir a velocidade pela aceleração."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fisica-2200416",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "enunciado": "Uma pedra foi arremessada verticalmente para cima, a partir do solo, e permaneceu no ar por 4 s até regressar ao solo. Desprezando a resistência do ar e adotando g = 10 m/s², a altura máxima atingida por essa pedra foi",
+   "alternativas": {
+    "a": "5 m.",
+    "b": "10 m.",
+    "c": "15 m.",
+    "d": "20 m.",
+    "e": "25 m."
+   },
+   "resposta": "d",
+   "explicacao": "Sem resistência do ar, subida e descida são simétricas: dos 4 s no ar, 2 s são de subida e 2 s de descida. Na descida, a pedra parte do repouso no ponto mais alto e cai em queda livre por 2 s: h = ½·g·t² = ½·10·2² = 20 m. Os 5 m correspondem a 1 s de queda, os 10 m ao erro de esquecer o ½, e 15 m e 25 m não saem de nenhuma conta com esses dados."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fisica-2200417",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Uma caixa A de massa mA = 40 kg está apoiada sobre uma mesa plana e horizontal e, sobre ela, está apoiada uma outra caixa B de massa mB = 20 kg, de modo que as superfícies em contato dessas caixas sejam paralelas à mesa. Uma pessoa empurra a caixa B exercendo sobre ela uma força horizontal e constante. Sabe-se que entre as superfícies das caixas A e B existe um coeficiente de atrito estático de valor 0,4 e que o atrito entre as superfícies da caixa A e da mesa pode ser desprezado. Adotando g = 10 m/s², a maior intensidade da força que pode ser aplicada sobre a caixa B para que ela não se mova em relação à caixa A é",
+   "alternativas": {
+    "a": "80 N.",
+    "b": "100 N.",
+    "c": "120 N.",
+    "d": "160 N.",
+    "e": "200 N."
+   },
+   "resposta": "c",
+   "explicacao": "Se B não desliza sobre A, as duas caixas aceleram juntas: a = F/(40 + 20) = F/60. Quem acelera a caixa A é só o atrito que B exerce nela: f = mA·a = 40·F/60 = 2F/3. O atrito estático tem limite μ·N = 0,4·(20·10) = 80 N. Então 2F/3 ≤ 80 → F ≤ 120 N. Os 80 N são o próprio limite do atrito, e não a força máxima; 100 N, 160 N e 200 N supõem que toda a força ou metade dela vá para o atrito, o que ignora que B também acelera."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fisica-2200419",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Exoplaneta é um planeta situado fora do Sistema Solar, ou seja, que orbita uma estrela que não seja o Sol. Hoje, já são conhecidos milhares de exoplanetas de diferentes tamanhos e composições químicas, desde pequenos maciços e rochosos, até gigantes compostos predominantemente de gás. Considere um hipotético exoplaneta esférico cujo raio corresponda a 60% do raio da Terra. Para que a intensidade do campo gravitacional criado por esse exoplaneta em sua superfície fosse igual à intensidade do campo gravitacional criado pela Terra em sua superfície, ele deveria ter uma massa, comparada à massa da Terra,",
+   "alternativas": {
+    "a": "64% menor.",
+    "b": "36% maior.",
+    "c": "60% menor.",
+    "d": "36% menor.",
+    "e": "64% maior."
+   },
+   "resposta": "a",
+   "explicacao": "Na superfície de um planeta esférico, g = G·M/R². Para o campo ser o mesmo da Terra com raio de 60% do terrestre: M/(0,6R)² = M_T/R² → M = 0,36·M_T. Massa de 36% da massa da Terra é 64% menor. \"36% menor\" confunde a fração restante com a fração perdida; \"60% menor\" trata a massa como proporcional ao raio; e as opções \"maior\" invertem o sentido — com raio menor, precisa-se de MENOS massa para o mesmo campo."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "ita-2023-q05",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere um recipiente tubular fino, em forma de U e com área transversal constante, que contém dois líquidos imiscíveis A e B. As hastes verticais deste recipiente distam L = 20 cm uma da outra. O líquido A, mais denso, ocupa o trecho horizontal inferior do tubo e sobe pelas duas hastes; o líquido B fica sobre A em apenas uma das hastes, e a linha de separação dos líquidos é a interface horizontal entre B e A nessa haste. Na outra haste há somente A. Quando o recipiente está em repouso, o líquido A atinge, nessa outra haste, uma altura de 80 cm em relação à linha de separação dos líquidos. Quando o recipiente é colocado em movimento retilíneo uniformemente variado, com aceleração horizontal na direção que une as duas hastes (no sentido da haste que contém somente A), a altura de A com relação à linha de separação dos líquidos passa a ser H = 76 cm. Considerando-se que o sistema parta do repouso e adotando g = 10 m/s², a distância percorrida pelo recipiente após um intervalo de 3,0 s é",
+   "alternativas": {
+    "a": "2,4 m.",
+    "b": "4,6 m.",
+    "c": "9,0 m.",
+    "d": "1,3×10 m.",
+    "e": "1,8×10 m."
+   },
+   "resposta": "c",
+   "explicacao": "A inclinação da superfície equipotencial no referencial acelerado dá a/g=(80−76)/20=0,20, portanto a=2,0 m/s². Partindo do repouso, s=at²/2=2·3²/2=9,0 m."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "ita-2026-q14",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma pequena esfera é abandonada do repouso a partir de uma altura H, em relação ao solo, e cai verticalmente em queda livre. No mesmo instante, um canhão, situado a uma distância horizontal D da trajetória da esfera e a uma altura h relativamente ao solo, dispara um projétil com velocidade v, formando um ângulo θ em relação à horizontal. O projétil atinge a esfera exatamente no instante em que ela toca o solo. Desprezando a resistência do ar, a magnitude da velocidade de lançamento v é",
+   "alternativas": {
+    "a": "√{g[(H−h)²+D²]/(2H)}.",
+    "b": "√{g[(H−h)²+D²]/H}.",
+    "c": "√{g[(H−h)²−D²]/(2H)}.",
+    "d": "√{g[(H−h)²−D²]/H}.",
+    "e": "√{2g[(H−h)²+D²]/H}."
+   },
+   "resposta": "a",
+   "explicacao": "A queda dura t = √(2H/g). Para o encontro, as componentes iniciais do projétil devem ser D/t e (H−h)/t, pois ambos sofrem a mesma aceleração vertical. Assim v² = [D²+(H−h)²]/t² = g[D²+(H−h)²]/(2H)."
   }
  ],
  "fisica-termologia": [
@@ -135182,6 +138542,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Cozinhar não depende de a água ferver, e sim da temperatura que ela atinge. A 0,6 atm a água entra em ebulição bem abaixo de 100 °C, e a partir daí não esquenta mais por mais fogo que se dê: a temperatura de cozimento cai e o processo fica mais lento, exigindo mais tempo. Alternativa D. A alternativa A afirma que o ponto de ebulição não depende do local; B acerta que ele diminui, mas conclui menos tempo; C e E invertem a física, fazendo o ponto de ebulição subir quando a pressão cai — se fosse assim, panela de pressão e altitude teriam efeitos trocados."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "fisica-2200423",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Determinada quantidade de gás ideal, armazenada em um recipiente sob pressão de 4 atm, foi transferida para outro recipiente com volume maior. Porém, durante o processo de transferência, 20% da massa total desse gás escapou para a atmosfera e se perdeu, enquanto a massa restante foi armazenada no novo recipiente, onde permaneceu sob pressão de 2 atm. Considerando que as paredes dos dois recipientes sejam isolantes e sabendo que a temperatura da porção do gás restante permaneceu igual à temperatura da porção total inicial, o volume do novo recipiente, em relação ao volume do recipiente inicial, é maior em",
+   "alternativas": {
+    "a": "20%.",
+    "b": "30%.",
+    "c": "40%.",
+    "d": "50%.",
+    "e": "60%."
+   },
+   "resposta": "e",
+   "explicacao": "Equação de estado antes e depois, à mesma temperatura: P₁V₁ = nRT e P₂V₂ = 0,8·nRT, porque 20% do gás se perdeu. Dividindo: P₂V₂/(P₁V₁) = 0,8 → 2·V₂ = 0,8·4·V₁ → V₂ = 1,6·V₁. O novo recipiente é 60% maior. Quem esquece a perda de massa acha V₂ = 2V₁ (100% maior, que nem está entre as opções); 20% é só a fração perdida; 40% e 50% saem de contas com a razão de pressões sem o fator 0,8, ou vice-versa."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "ita-2023-q03",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere um recipiente, sobre uma plataforma, sujeito à pressão atmosférica P_atm. Esse recipiente contém um volume inicial V_i de um gás ideal monoatômico em equilíbrio e é fechado por um êmbolo de seção transversal de área A e massa m (o gás fica abaixo do êmbolo, e sobre a face externa dele atua P_atm). Para monitorar o movimento do sistema, a plataforma foi suspensa por um dinamômetro. Por causa da ação de uma força externa vertical, o êmbolo atinge uma nova posição de equilíbrio; nessa posição, a leitura do dinamômetro indica que o sistema acelera para cima com 1/10 de g. Considerando que o gás sofre uma transformação adiabática reversível (isentrópica), o módulo Δx de quanto o êmbolo se desloca, com relação ao fundo do recipiente, é",
+   "alternativas": {
+    "a": "(3V_i/2A)[11mg/(50P_atmA+55mg)].",
+    "b": "(V_i/A){1−[(AP_atm+mg)/(AP_atm+1,1mg)]^{5/3}}.",
+    "c": "(3V_i/A)[11mg/(50P_atmA+55mg)].",
+    "d": "(V_i/A)[0,1mg/(AP_atm+1,1mg)].",
+    "e": "(V_i/A){1−[(AP_atm+mg)/(AP_atm+1,1mg)]^{3/5}}."
+   },
+   "resposta": "e",
+   "explicacao": "As pressões inicial e final são P_i=P_atm+mg/A e P_f=P_atm+1,1mg/A. Para gás monoatômico em processo isentrópico, PV^{5/3} é constante, logo V_f/V_i=(P_i/P_f)^{3/5}. Como Δx=(V_i−V_f)/A, resulta a expressão da alternativa E. É um processo térmico de gás ideal entre estados de temperaturas diferentes, equivalente a uma transformação adiabática reversível."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "ita-2026-q19",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Em um escritório, trabalham 10 funcionários de segunda a sexta, oito horas por dia. O ar-condicionado mantém o local a 17 °C, com ambiente externo a 37 °C. Considere máxima eficiência e que ele age apenas para retirar os 100 W gerados por cada funcionário. Com tarifa de R$ 0,91 por kWh, o custo aproximado durante 4 semanas é",
+   "alternativas": {
+    "a": "R$ 8,00.",
+    "b": "R$ 10,00.",
+    "c": "R$ 14,00.",
+    "d": "R$ 80,00.",
+    "e": "R$ 170,00."
+   },
+   "resposta": "b",
+   "explicacao": "Para uma máquina de Carnot, o coeficiente de desempenho é COP = T_f/(T_q−T_f) = 290/20 = 14,5. A carga térmica é 1 kW, então a potência elétrica é 1/14,5 kW. Em 160 h, o consumo é cerca de 11,0 kWh e o custo é aproximadamente R$ 10,00."
   }
  ],
  "fisica-ondas-optica": [
@@ -136894,6 +140311,82 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A largura do máximo central é y = 2λD/L. Com D = 1 m e L = 50 μm, y = 4×10⁴·λ: para 200 nm dá 8 mm; para 600 nm, 24 mm. Como a régua erra sempre 1 mm, a precisão relativa é 1 mm dividido por y — quanto maior y, menor o erro relativo. Entre as opções, o maior comprimento de onda é o que produz a franja mais larga e a melhor medida: 600 nm, alternativa E. As alternativas A a D vão na direção contrária, estreitando o máximo central e fazendo o mesmo milímetro de erro pesar mais na medida."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "fisica-2200426",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "O diretor de prova de uma corrida de F1 está parado ao lado da pista de um autódromo, quando um carro se aproxima dele, em alta velocidade, para receber a bandeirada de chegada. Devido ao efeito Doppler, quanto ao som do motor do carro percebido pelo diretor de prova e pelo piloto do carro, nessa aproximação, pode-se afirmar que",
+   "alternativas": {
+    "a": "o diretor de prova e o piloto percebem sons de mesma frequência, mas de diferentes comprimentos de onda.",
+    "b": "o som percebido pelo diretor de prova se propaga mais rápido pelo ar do que o percebido pelo piloto.",
+    "c": "o diretor de prova e o piloto percebem sons de mesmo comprimento de onda, mas de diferentes frequências.",
+    "d": "o diretor de prova percebe um som cuja altura é maior do que a do som percebido pelo piloto.",
+    "e": "o som percebido pelo piloto é mais agudo do que o percebido pelo diretor de prova."
+   },
+   "resposta": "d",
+   "explicacao": "O piloto viaja junto com a fonte, então ouve o motor na frequência real. O diretor de prova, parado, vê a fonte se aproximar: as frentes de onda chegam comprimidas e ele percebe frequência maior — som mais agudo, isto é, de altura maior. É a alternativa correta. As outras erram por: dizer que as frequências são iguais (o efeito Doppler é justamente a diferença de frequência); dizer que a velocidade de propagação muda (ela depende só do ar, não do observador); e trocar quem ouve o som mais agudo — é o diretor, não o piloto."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "ita-2023-q07",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Numa 'ola', fileiras sucessivas erguem e abaixam os braços; cada participante inicia quando o vizinho encerra. A distância entre cadeiras é D e o tempo do braço é τ.\nI. Se 30.000 pessoas geram 90 dB, 60.000 geram aproximadamente 93 dB.\nII. A onda da coreografia é longitudinal.\nIII. Sua velocidade é diretamente proporcional a τ e inversamente a D.\n\nEstá(ão) correta(s)",
+   "alternativas": {
+    "a": "apenas I e II.",
+    "b": "apenas I.",
+    "c": "apenas II.",
+    "d": "apenas III.",
+    "e": "as três estão incorretas."
+   },
+   "resposta": "b",
+   "explicacao": "Dobrar fontes sonoras independentes dobra a intensidade e acrescenta 10log10(2)≈3 dB, validando I. O deslocamento dos braços é transversal à propagação da ola, tornando II falsa. A velocidade é D/τ, portanto cresce com D e diminui com τ, ao contrário de III."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "ita-2026-q20",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma fina camada de óleo flutua sobre a água. Os índices de refração do óleo e da água são 3/2 e 4/3. A luz solar incide com ângulo de 45° e o reflexo apresenta forte contribuição em torno de 520 nm. O valor mais próximo da menor espessura da camada de óleo que permite esse efeito é",
+   "alternativas": {
+    "a": "40 nm.",
+    "b": "90 nm.",
+    "c": "100 nm.",
+    "d": "160 nm.",
+    "e": "200 nm."
+   },
+   "resposta": "c",
+   "explicacao": "Na reflexão ar–óleo há inversão de fase e na reflexão óleo–água não. Para interferência construtiva, 2nd cos r = λ/2 no primeiro máximo. Pela lei de Snell, sen r = sin45°/(3/2), dando cos r ≈ 0,88. Assim d ≈ 520/(4·1,5·0,88) nm ≈ 99 nm, isto é, 100 nm."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "ita-2026-q23",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um equipamento de ultrassom, em repouso e posicionado próximo a uma artéria, emite uma onda sonora de frequência f e velocidade v que se propaga em sentido oposto ao fluxo de sangue da artéria, é refletida por ele e, posteriormente, captada pelo próprio equipamento, que mede a diferença Δf entre a frequência registrada e a frequência de emissão. A artéria e o coração estão na mesma altura, v_c é a velocidade do sangue no coração, ρ é sua densidade e a velocidade do sangue na artéria é muito menor que v. A variação da pressão sanguínea entre a artéria e o coração é",
+   "alternativas": {
+    "a": "(ρ/2)[v_c²−(2vΔf/f)²].",
+    "b": "ρ[v_c²−(vΔf/(2f))²].",
+    "c": "(ρ/2)[v_c²−(vΔf/(2f))²].",
+    "d": "ρ[2v_c²−(vΔf/f)²].",
+    "e": "(ρ/2)[2v_c²−(vΔf/(2f))²]."
+   },
+   "resposta": "c",
+   "explicacao": "No eco Doppler há duas mudanças de frequência; para u ≪ v, Δf ≈ 2fu/v, logo u = vΔf/(2f). Bernoulli, na mesma altura, dá ΔP = ρ(v_c²−u²)/2, que coincide com a alternativa C."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -138461,6 +141954,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "I é falsa: o ímã sobe e desce, o fluxo através da espira cresce e decresce alternadamente, e pela lei de Lenz a corrente inverte o sentido a cada meio ciclo. II também: como não há atrito nem resistência do ar, a única perda é a energia levada pela corrente induzida, de modo que as oscilações vão diminuindo até cessarem — o brilho não se estabiliza, apaga. III é verdadeira: a energia armazenada na mola é kx²/2, e dobrar x quadruplica essa energia; como ela acaba toda dissipada na lâmpada, a energia irradiada também quadruplica. Só III, alternativa C."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "ita-2023-q09",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma membrana neuronal tem duas camadas de lipídeos separando meios condutores por fina camada isolante, e proteínas transmembrana atuam como poros, canais iônicos não seletivos. O sistema entre interior e exterior pode ser representado por",
+   "alternativas": {
+    "a": "resistores e fontes de corrente em série.",
+    "b": "fontes de corrente e capacitores em paralelo.",
+    "c": "fontes de corrente e capacitores em série.",
+    "d": "resistores e capacitores em série.",
+    "e": "resistores e capacitores em paralelo."
+   },
+   "resposta": "e",
+   "explicacao": "A bicamada isolante entre meios condutores armazena cargas como um capacitor. Os canais iônicos fornecem caminhos de condução modelados por resistores. Ambos ligam os mesmos meios intra e extracelular, portanto ficam em paralelo."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "ita-2023-q10",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma partícula de massa m e carga de módulo q move-se no vácuo com v⃗ = v senθ ĵ − v cosθ k̂, em B⃗ = B î e g⃗ = −g k̂. θ é escolhido para conservar a energia cinética. A energia cinética é",
+   "alternativas": {
+    "a": "m³g²/(q²B²).",
+    "b": "(2/3)m³g²/(q²B²).",
+    "c": "2m³g²/(q²B²).",
+    "d": "(1/4)m³g²/(q²B²).",
+    "e": "(1/2)m³g²/(q²B²)."
+   },
+   "resposta": "e",
+   "explicacao": "Para a potência total ser nula durante o movimento, a força elétrica magnética deve compensar a gravidade na dinâmica compatível com a direção inicial. A condição de equilíbrio das forças transversais resulta qBv=mg. Assim K=mv²/2=m(mg/qB)²/2=m³g²/(2q²B²). A força de Lorentz decorre do campo magnético agindo sobre a carga elétrica."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "ita-2026-q13",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Em um microscópio eletrônico de varredura (MEV), um feixe de elétrons apresenta área transversal A, densidade de carga ρ e velocidade dos elétrons v. Sabendo que a corrente I do feixe é determinada pelo fluxo de carga através da seção reta e que C é uma constante adimensional, assinale a alternativa que representa a relação correta entre I, A, ρ e v.",
+   "alternativas": {
+    "a": "I = CρA²v.",
+    "b": "I = CρAv.",
+    "c": "I = CρAv².",
+    "d": "I = Cρv/A.",
+    "e": "I = CρA/v."
+   },
+   "resposta": "b",
+   "explicacao": "A carga que atravessa a seção em um intervalo Δt ocupa o volume AvΔt, logo ΔQ = CρAvΔt. Portanto I = ΔQ/Δt = CρAv; a mesma conclusão segue da análise dimensional. Fisicamente, é uma corrente elétrica transportada por carga elétrica em movimento."
   }
  ],
  "fisica-hidrostatica": [
@@ -139620,6 +143170,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A rolha é empurrada pela diferença entre a pressão de dentro e a de fora: ΔP = 5 − 1 = 4 atm = 4 × 10⁵ Pa. A área do bocal, de 2 cm de diâmetro, é A = π·r² = 3 × (0,01)² = 3 × 10⁻⁴ m². A força vale F = ΔP·A = 4 × 10⁵ × 3 × 10⁻⁴ = 120 N, e a aceleração, a = F/m = 120 ÷ 0,010 = 12 000 m/s². Os demais valores diferem por potências de dez: 1200 sai de usar a massa em gramas como se fosse quilograma, e 120 de esquecer também a conversão do diâmetro."
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "ita-2026-q18",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um vaso comunicante contém um volume V₀ = 2,00 L de água e possui duas colunas verticais, de áreas de seção A₁ = 100 cm² e A₂ = 400 cm², ligadas pela base por um tubo de conexão horizontal de comprimento L₀ = 10,0 cm e área de seção transversal A_c = 100 cm² (o tubo permanece cheio de água, com volume A_c·L₀, e as alturas h₁ e h₂ da água em cada coluna são medidas a partir do fundo). Sobre cada uma das colunas verticais colocam-se duas massas distintas, apoiadas diretamente sobre a água como êmbolos: m₁ = 200 g sobre a coluna de área A₁ e m₂ = 100 g sobre a coluna de área A₂. Admita que o sistema atinge o equilíbrio estático, que a água é incompressível e despreze o atrito. Dado o exposto, assinale a alternativa que corresponde à altura h₁ da coluna de água sob a massa m₁.",
+   "alternativas": {
+    "a": "6,00 cm.",
+    "b": "2,35 cm.",
+    "c": "1,75 cm.",
+    "d": "0,75 cm.",
+    "e": "0,60 cm."
+   },
+   "resposta": "e",
+   "explicacao": "A igualdade de pressão no fundo dá ρg(h₂−h₁) = m₁g/A₁ − m₂g/A₂, com ρ = 1 g/cm³ a densidade da água, logo h₂−h₁ = 1,75 cm. O volume é A₁h₁ + A₂h₂ + A_cL₀ = 2000 cm³. Substituindo h₂ = h₁+1,75, obtém-se 500h₁ + 1700 = 2000 e h₁ = 0,60 cm."
   }
  ],
  "fisica-energia-trabalho": [
@@ -140945,6 +144514,44 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A resposta correta é a única que não promete exceção à segunda lei: atrito, resistência do ar, resistência elétrica e trocas de calor sempre degradam parte da energia, e nenhum material elimina todas as dissipações. Alternativa E. As outras quatro reproduzem os próprios truques que o enunciado manda rebater — A afirma que a escolha do material permite movimento perpétuo; B faz ímãs naturais girarem um motor para sempre; C confunde tensão com energia, pois os milhares de volts da eletricidade estática correspondem a uma carga ínfima, incapaz de manter uma lâmpada acesa; e D promete supercondutores em temperatura ambiente com perda zero, que não existem e ainda assim não gerariam energia, apenas evitariam parte da perda."
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "fisica-2200420",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Um brinquedo é constituído por dois carrinhos, A e B, e uma mola ideal. Inicialmente, o brinquedo está em repouso, apoiado sobre uma mesa plana e horizontal, com a mola comprimida e travada, armazenando 120 J de energia potencial. Sabe-se que a massa do carrinho B é o dobro da massa do carrinho A. Quando a mola é destravada, os carrinhos são empurrados por ela. Desprezando os atritos, depois de perderem contato com a mola, os carrinhos A e B terão, respectivamente, energias cinéticas iguais a",
+   "alternativas": {
+    "a": "40 J e 80 J.",
+    "b": "60 J e 60 J.",
+    "c": "80 J e 40 J.",
+    "d": "90 J e 30 J.",
+    "e": "100 J e 20 J."
+   },
+   "resposta": "c",
+   "explicacao": "O sistema parte do repouso e não sofre força externa horizontal, então a quantidade de movimento total continua nula: os carrinhos saem com quantidades de movimento de mesmo módulo, p_A = p_B = p. Como E_c = p²/(2m), quem tem menos massa fica com mais energia: E_A/E_B = m_B/m_A = 2. Os 120 J da mola se repartem então em 80 J para A e 40 J para B. \"40 J e 80 J\" dá a energia maior ao carrinho mais pesado, invertendo a relação; \"60 J e 60 J\" ignora a diferença de massa; 90/30 e 100/20 usam razões 3 e 5, que não vêm de massa dupla."
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "ita-2026-q15",
+   "banca": "ita",
+   "sessao": "ita-2026",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um objeto de massa m = 1,00 kg é lançado verticalmente para cima a partir do solo com velocidade inicial v₀ = 30,0 m/s. A força de resistência do ar tem módulo constante f_d = 2,00 N durante toda a trajetória. Ao retornar ao nível do solo, ele colide com uma plataforma de massa desprezível, presa a uma mola ideal vertical de constante elástica k = 800 N/m. Após o impacto, o sistema plataforma-massa desliza sobre apoios verticais, sofrendo uma força dissipativa total constante igual a 410 N. Assinale a alternativa que corresponde, respectivamente, à altura máxima e à energia total dissipada até a mola atingir sua máxima compressão. Adote g = 10 m/s².",
+   "alternativas": {
+    "a": "45,0 m; 180 J.",
+    "b": "45,0 m; 376 J.",
+    "c": "37,5 m; 150 J.",
+    "d": "37,5 m; 355 J.",
+    "e": "37,5 m; 765 J."
+   },
+   "resposta": "d",
+   "explicacao": "Na subida, 450 = (mg+f_d)H = 12H, então H = 37,5 m. A energia ao voltar ao solo é 450−2f_dH = 300 J. Na compressão máxima, 300 + 10x = 400x² + 410x, cuja raiz positiva é x = 0,5 m. A dissipação total é 2f_dH + 410x = 150 + 205 = 355 J. O balanço usa conservação da energia mecânica e acompanha a energia cinética transformada em energia potencial elástica e dissipação."
   }
  ],
  "fisica-moderna": [
@@ -142315,6 +145922,44 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A energia do fóton cai de hf₁ para hf₂: h(f₂ − f₁) = 6×10⁻³⁴ × (2,5×10¹⁶ − 5×10¹⁶) = 6×10⁻³⁴ × (−2,5×10¹⁶) = −1,5×10⁻¹⁷ J. O enunciado diz que toda a energia perdida pelo fóton vai para o elétron, então a variação da energia do elétron é a mesma em módulo e de sinal oposto: +1,5×10⁻¹⁷ J, alternativa D. A alternativa B é a variação do fóton, com o sinal que a pergunta não pede; A e E usam a soma das frequências em vez da diferença; e C afirma que nada muda, contra o enunciado."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fisica-2200430",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "enunciado": "Quando uma superfície metálica é exposta à radiação eletromagnética com frequência suficientemente alta, ocorre a emissão de elétrons, fenômeno conhecido como efeito fotoelétrico. A energia mínima necessária para remover um elétron dessa superfície metálica é chamada função trabalho (Φ) do metal. Considere que um veículo espacial esteja em órbita ao redor da Terra e que, devido ao efeito fotoelétrico causado pela luz solar, tenha acumulado cargas elétricas em sua superfície. Sabendo que o casco desse veículo é revestido por Níquel, cuja função trabalho é Φ(Ni) = 8 × 10⁻¹⁹ J, e adotando o valor h = 6,6 × 10⁻³⁴ J·s para a constante de Planck, a menor frequência do espectro solar capaz de fazer com que o casco desse veículo espacial emita fotoelétrons é, aproximadamente,",
+   "alternativas": {
+    "a": "2,4 × 10¹⁴ Hz.",
+    "b": "4,2 × 10¹⁴ Hz.",
+    "c": "1,2 × 10¹⁵ Hz.",
+    "d": "3,6 × 10¹⁵ Hz.",
+    "e": "5,2 × 10¹⁶ Hz."
+   },
+   "resposta": "c",
+   "explicacao": "A frequência de corte é a que dá ao fóton exatamente a função trabalho: h·f = Φ → f = Φ/h = 8 × 10⁻¹⁹ / 6,6 × 10⁻³⁴ ≈ 1,2 × 10¹⁵ Hz. Abaixo disso o fóton não tem energia para arrancar o elétron, por mais intensa que seja a luz. Os valores em 10¹⁴ Hz ficam abaixo do corte (não emitem); 3,6 × 10¹⁵ e 5,2 × 10¹⁶ emitem, mas não são a MENOR frequência pedida."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "ita-2023-q12",
+   "banca": "ita",
+   "sessao": "ita-2023",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um múon é criado a 100 km de altitude e desce verticalmente a 0,9999c. Seu tempo de vida em repouso é 2,2 μs. A mínima altitude que atinge aproximadamente é",
+   "alternativas": {
+    "a": "0 km.",
+    "b": "0,66 km.",
+    "c": "46 km.",
+    "d": "53 km.",
+    "e": "99 km."
+   },
+   "resposta": "d",
+   "explicacao": "O fator relativístico é γ=1/√(1−0,9999²)≈70,7. No referencial terrestre, a vida média é γ·2,2 μs≈155 μs; nesse tempo percorre aproximadamente 0,9999c·155 μs≈46,6 km. Partindo de 100 km, chega a cerca de 53 km. A dilatação do tempo é calculada pelo fator de Lorentz na relatividade especial."
   }
  ]
 };

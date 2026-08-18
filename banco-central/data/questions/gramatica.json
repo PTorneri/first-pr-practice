@@ -6821,6 +6821,200 @@
    },
    "resposta": "e",
    "explicacao": "\"Se você não falar de política nos dias de hoje, você nem existe\" não fala do leitor em particular: fala de qualquer um, é o \"você\" indeterminado que equivale a \"a gente\" ou a \"se\". Esse uso genérico é o que amplia o alcance da constatação, alternativa E. A alternativa A restringe o pronome à pessoa que lê; B o iguala a \"ela/ele\", terceira pessoa de referência definida; C o chama de estratégia formal que exclui o leitor, quando o efeito é justamente incluir todo mundo; e D vê polidez com responsabilização, e não há acusação dirigida a ninguém."
+  },
+  {
+   "id": "gramatica-220035",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Aben Assan, filho espúrio¹ e estrafalário², sempre contrariava as decisões de Ibin Bibar, seu pai. Desde menino — já lá vão quatro décadas —, fazia exatamente o oposto do que o velho mandava ou sugeria. A princípio, o pai não percebeu, depois percebeu, enfim certificou-se — o comportamento do filho era coisa cruel e deliberada. Por isso, quando sentiu que ia morrer, querendo ser enterrado no maravilhoso mausoléu da família, Ibin Bibar chamou Aben Assan e disse:\n\n— Meu filho, não quero ir pro cemitério da cidade, onde estão enterrados todos os nossos ancestrais. Quero estar num lugar onde não sejam possíveis reverências nem adulações póstumas, todas hipócritas. Pegue meu corpo e jogue no lamaçal lá no fim da estrada. — E, dizendo isso, condizentemente, morreu.\n\nAo ver o pai morto, Aben Assan teve uma súbita crise de arrependimento por tudo que havia feito na vida. E resolveu mudar seu comportamento para com aquele que sempre o tratara como... um pai. Pensou: “Não, ele nunca mereceu a maneira como eu o tratei. Desta vez, a última, vou fazer exatamente o que ele pediu.”\n\nE ajudado por empregados um tanto relutantes, pegou o corpo do pai e o atirou no lamaçal no fim da estrada.\nMORAL: Cria corvos e te arrancam os olhos.\n(Millôr Fernandes. “A última vontade”. 100 fábulas fabulosas, 2012.)\n¹ espúrio: ilegítimo, bastardo.\n² estrafalário: desprezível.",
+   "enunciado": "“Ibin Bibar chamou Aben Assan e disse: — [...] «Quero» estar num lugar onde não «sejam» possíveis reverências nem adulações póstumas, todas hipócritas.” (1º e 2º parágrafos)\nAo se transpor o trecho para o discurso indireto, os termos destacados assumem as seguintes formas:",
+   "alternativas": {
+    "a": "quis e fossem.",
+    "b": "queria e eram.",
+    "c": "quis e seriam.",
+    "d": "queria e fossem.",
+    "e": "quis e eram."
+   },
+   "resposta": "d",
+   "explicacao": "No discurso indireto, a fala citada passa a depender de um verbo de dizer no passado (\"disse que…\"), e os tempos recuam: o presente do indicativo \"quero\" vira pretérito imperfeito, \"queria\"; o presente do subjuntivo \"sejam\" vira imperfeito do subjuntivo, \"fossem\" — \"Ibin Bibar disse que queria estar num lugar onde não fossem possíveis reverências\". Daí \"queria e fossem\". \"Quis\" é perfeito, que fecharia a ação como pontual e não é a transposição do presente; \"eram\" e \"seriam\" trocam o modo subjuntivo exigido pela oração adjetiva com sentido de desejo."
+  },
+  {
+   "id": "gramatica-220036",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Aben Assan, filho espúrio¹ e estrafalário², sempre contrariava as decisões de Ibin Bibar, seu pai. Desde menino — já lá vão quatro décadas —, fazia exatamente o oposto do que o velho mandava ou sugeria. A princípio, o pai não percebeu, depois percebeu, enfim certificou-se — o comportamento do filho era coisa cruel e deliberada. Por isso, quando sentiu que ia morrer, querendo ser enterrado no maravilhoso mausoléu da família, Ibin Bibar chamou Aben Assan e disse:\n\n— Meu filho, não quero ir pro cemitério da cidade, onde estão enterrados todos os nossos ancestrais. Quero estar num lugar onde não sejam possíveis reverências nem adulações póstumas, todas hipócritas. Pegue meu corpo e jogue no lamaçal lá no fim da estrada. — E, dizendo isso, condizentemente, morreu.\n\nAo ver o pai morto, Aben Assan teve uma súbita crise de arrependimento por tudo que havia feito na vida. E resolveu mudar seu comportamento para com aquele que sempre o tratara como... um pai. Pensou: “Não, ele nunca mereceu a maneira como eu o tratei. Desta vez, a última, vou fazer exatamente o que ele pediu.”\n\nE ajudado por empregados um tanto relutantes, pegou o corpo do pai e o atirou no lamaçal no fim da estrada.\nMORAL: Cria corvos e te arrancam os olhos.\n(Millôr Fernandes. “A última vontade”. 100 fábulas fabulosas, 2012.)\n¹ espúrio: ilegítimo, bastardo.\n² estrafalário: desprezível.",
+   "enunciado": "O narrador da fábula relata uma série de eventos ocorridos no passado. Um evento anterior a esse tempo passado está indicado pela forma verbal destacada em:",
+   "alternativas": {
+    "a": "“Aben Assan, filho espúrio e estrafalário, sempre «contrariava» as decisões de Ibin Bibar, seu pai.” (1º parágrafo)",
+    "b": "“Desde menino — já lá «vão» quatro décadas —, fazia exatamente o oposto do que o velho mandava ou sugeria.” (1º parágrafo)",
+    "c": "“A princípio, o pai não percebeu, depois «percebeu», enfim certificou-se — o comportamento do filho era coisa cruel e deliberada.” (1º parágrafo)",
+    "d": "“«Pegue» meu corpo e jogue no lamaçal lá no fim da estrada.” (2º parágrafo)",
+    "e": "“E resolveu mudar seu comportamento para com aquele que sempre o «tratara» como... um pai.” (3º parágrafo)"
+   },
+   "resposta": "e",
+   "explicacao": "O tempo verbal que marca um passado anterior a outro passado é o pretérito mais-que-perfeito, e a única forma nesse tempo é \"tratara\": o pai o tratara como pai antes do momento, já passado, da decisão do filho de mudar. \"Contrariava\" é imperfeito (ação habitual no passado); \"vão\" é presente; \"percebeu\" é perfeito, simultâneo à narrativa; \"pegue\" é imperativo, na fala do pai."
+  },
+  {
+   "id": "gramatica-220038",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fgv",
+   "texto_apoio": "Que dinâmicas movimentam o acúmulo e a distribuição do capital? O tema da política econômica há muito suscita debates constantes sobre crescimento, concentração da riqueza e aumento da desigualdade. No entanto, a carência de dados adequados dificulta o acesso a respostas satisfatórias.\n\nEm O capital no século XXI, o economista francês Thomas Piketty apresenta um conjunto inédito de dados de vinte países para os últimos duzentos anos. O autor demonstra que o crescimento econômico e a difusão do conhecimento ao longo do século XX impediram que se concretizasse o cenário apocalíptico preconizado por Karl Marx, mas, ao contrário do que o otimismo dominante após a Segunda Guerra Mundial costuma sugerir, a estrutura básica do capital e da desigualdade permaneceu relativamente inalterada. Piketty constata, com absoluta clareza, que a taxa de rendimento do capital supera o crescimento econômico — e isso se traduz numa concentração cada vez maior da riqueza, um círculo vicioso de desigualdade que, a um nível extremo, pode levar a um descontentamento geral e até ameaçar os valores democráticos. Contudo, Piketty ressalta que tendências econômicas não são forças da natureza: a intervenção política já foi capaz de reverter tal quadro no passado e poderá voltar a fazê-lo.\n\nO capital no século XXI, já considerado referência entre os economistas, contribui para renovar inteiramente nossa compreensão sobre a dinâmica do capitalismo. Por destacar a contradição fundamental da relação entre o crescimento econômico e o rendimento do capital, esta obra monumental está revolucionando o pensamento econômico atual e instigando uma reflexão profunda sobre as questões mais prementes de nosso tempo.\n(O capital no século XXI, 2014. Adaptado.)",
+   "enunciado": "Em “«No entanto», a carência de dados adequados dificulta o acesso a respostas satisfatórias” (1º parágrafo), a locução destacada pode ser substituída, sem prejuízo para o sentido do texto, por:",
+   "alternativas": {
+    "a": "Nesse caso.",
+    "b": "Por conseguinte.",
+    "c": "Além disso.",
+    "d": "Por isso.",
+    "e": "Não obstante."
+   },
+   "resposta": "e",
+   "explicacao": "\"No entanto\" opõe a segunda frase à primeira: o tema suscita debates constantes, mas faltam dados. É valor adversativo, e o conectivo com o mesmo valor semântico é \"não obstante\". \"Por conseguinte\" e \"por isso\" são conclusivas; \"além disso\" é aditiva; \"nesse caso\" é condicional-conclusiva — nenhuma marca a oposição."
+  },
+  {
+   "id": "gramatica-220039",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Que dinâmicas movimentam o acúmulo e a distribuição do capital? O tema da política econômica há muito suscita debates constantes sobre crescimento, concentração da riqueza e aumento da desigualdade. No entanto, a carência de dados adequados dificulta o acesso a respostas satisfatórias.\n\nEm O capital no século XXI, o economista francês Thomas Piketty apresenta um conjunto inédito de dados de vinte países para os últimos duzentos anos. O autor demonstra que o crescimento econômico e a difusão do conhecimento ao longo do século XX impediram que se concretizasse o cenário apocalíptico preconizado por Karl Marx, mas, ao contrário do que o otimismo dominante após a Segunda Guerra Mundial costuma sugerir, a estrutura básica do capital e da desigualdade permaneceu relativamente inalterada. Piketty constata, com absoluta clareza, que a taxa de rendimento do capital supera o crescimento econômico — e isso se traduz numa concentração cada vez maior da riqueza, um círculo vicioso de desigualdade que, a um nível extremo, pode levar a um descontentamento geral e até ameaçar os valores democráticos. Contudo, Piketty ressalta que tendências econômicas não são forças da natureza: a intervenção política já foi capaz de reverter tal quadro no passado e poderá voltar a fazê-lo.\n\nO capital no século XXI, já considerado referência entre os economistas, contribui para renovar inteiramente nossa compreensão sobre a dinâmica do capitalismo. Por destacar a contradição fundamental da relação entre o crescimento econômico e o rendimento do capital, esta obra monumental está revolucionando o pensamento econômico atual e instigando uma reflexão profunda sobre as questões mais prementes de nosso tempo.\n(O capital no século XXI, 2014. Adaptado.)",
+   "enunciado": "“«Por destacar a contradição fundamental da relação entre o crescimento econômico e o rendimento do capital», esta obra monumental está revolucionando o pensamento econômico atual” (3º parágrafo)\nEm relação à oração que a sucede, a oração destacada expressa ideia de",
+   "alternativas": {
+    "a": "conformidade.",
+    "b": "condição.",
+    "c": "causa.",
+    "d": "consequência.",
+    "e": "concessão."
+   },
+   "resposta": "c",
+   "explicacao": "\"Por destacar a contradição…\" é oração reduzida de infinitivo introduzida por \"por\", e responde a \"por que a obra está revolucionando o pensamento econômico?\" — porque destaca a contradição. É a causa; a oração principal traz o efeito. Não há hipótese (condição), quebra de expectativa (concessão), conformidade com um modelo nem resultado — a relação lógica vai da razão para o efeito, e a oração destacada é a razão."
+  },
+  {
+   "id": "gramatica-2200310",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Que dinâmicas movimentam o acúmulo e a distribuição do capital? O tema da política econômica há muito suscita debates constantes sobre crescimento, concentração da riqueza e aumento da desigualdade. No entanto, a carência de dados adequados dificulta o acesso a respostas satisfatórias.\n\nEm O capital no século XXI, o economista francês Thomas Piketty apresenta um conjunto inédito de dados de vinte países para os últimos duzentos anos. O autor demonstra que o crescimento econômico e a difusão do conhecimento ao longo do século XX impediram que se concretizasse o cenário apocalíptico preconizado por Karl Marx, mas, ao contrário do que o otimismo dominante após a Segunda Guerra Mundial costuma sugerir, a estrutura básica do capital e da desigualdade permaneceu relativamente inalterada. Piketty constata, com absoluta clareza, que a taxa de rendimento do capital supera o crescimento econômico — e isso se traduz numa concentração cada vez maior da riqueza, um círculo vicioso de desigualdade que, a um nível extremo, pode levar a um descontentamento geral e até ameaçar os valores democráticos. Contudo, Piketty ressalta que tendências econômicas não são forças da natureza: a intervenção política já foi capaz de reverter tal quadro no passado e poderá voltar a fazê-lo.\n\nO capital no século XXI, já considerado referência entre os economistas, contribui para renovar inteiramente nossa compreensão sobre a dinâmica do capitalismo. Por destacar a contradição fundamental da relação entre o crescimento econômico e o rendimento do capital, esta obra monumental está revolucionando o pensamento econômico atual e instigando uma reflexão profunda sobre as questões mais prementes de nosso tempo.\n(O capital no século XXI, 2014. Adaptado.)",
+   "enunciado": "A palavra destacada em “a intervenção política já foi capaz de reverter tal quadro no passado e poderá voltar «a» fazê-lo” (2º parágrafo) pertence à mesma classe gramatical da palavra destacada em:",
+   "alternativas": {
+    "a": "“O tema da política econômica há muito suscita debates constantes «sobre» crescimento” (1º parágrafo).",
+    "b": "“Em O capital no século XXI, o economista francês Thomas Piketty apresenta «um» conjunto inédito de dados” (2º parágrafo).",
+    "c": "“ao contrário do que o otimismo dominante após «a» Segunda Guerra Mundial costuma sugerir” (2º parágrafo).",
+    "d": "“e «isso» se traduz numa concentração cada vez maior da riqueza” (2º parágrafo).",
+    "e": "“O capital no século XXI, «já» considerado referência entre os economistas, contribui para renovar inteiramente nossa compreensão” (3º parágrafo)."
+   },
+   "resposta": "a",
+   "explicacao": "Em \"voltar a fazê-lo\", o \"a\" liga o verbo \"voltar\" ao infinitivo: é preposição, exigida pela regência de \"voltar a\". A palavra da mesma classe é \"sobre\", preposição em \"debates sobre crescimento\". As armadilhas: \"um\" é artigo indefinido; o \"a\" de \"a Segunda Guerra\" é artigo definido, homônimo da preposição; \"isso\" é pronome demonstrativo; \"já\" é advérbio."
+  },
+  {
+   "id": "gramatica-2200312",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Os que se dedicam à crítica das ações humanas jamais se sentem tão embaraçados como quando procuram agrupar e harmonizar sob uma mesma luz todos os atos dos homens, pois «estes» «se» contradizem comumente a tal ponto que não parecem provir de um mesmo indivíduo. [...] Somos todos constituídos de peças e pedaços juntados de maneira casual e diversa, e cada peça funciona independentemente das demais. Daí ser tão grande a diferença entre nós e nós mesmos quanto entre nós e outrem: “Crede-me, não é coisa fácil conduzir-se como um só homem” [Sêneca].\n(Michel de Montaigne apud Eduardo Giannetti. O livro das citações, 2008.)",
+   "enunciado": "Os pronomes destacados no texto referem-se a",
+   "alternativas": {
+    "a": "“atos dos homens” e “homens”, respectivamente.",
+    "b": "“homens”, em ambos os casos.",
+    "c": "“homens” e “os atos dos homens”, respectivamente.",
+    "d": "“atos dos homens”, em ambos os casos.",
+    "e": "“homens” e “contradizem”, respectivamente."
+   },
+   "resposta": "d",
+   "explicacao": "\"pois estes se contradizem comumente a tal ponto que não parecem provir de um mesmo indivíduo\": o que se contradiz e não parece provir de um mesmo indivíduo são os atos, não os homens — quem escreve acaba de dizer que é difícil \"harmonizar sob uma mesma luz todos os atos dos homens\". \"Estes\" é retomada anafórica de \"atos dos homens\", e o \"se\" recíproco (contradizem-se uns aos outros) tem o mesmo referente. Logo, \"atos dos homens\" em ambos os casos. Ler \"estes\" como \"homens\" ignora que \"estes\" aponta para o termo mais próximo; e \"se\" não pode retomar um verbo."
+  },
+  {
+   "id": "gramatica-2200313",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "Os que se dedicam à crítica das ações humanas jamais se sentem tão embaraçados como quando procuram agrupar e harmonizar sob uma mesma luz todos os atos dos homens, pois estes se contradizem comumente a tal ponto que não parecem provir de um mesmo indivíduo. [...] Somos todos constituídos de peças e pedaços juntados de maneira casual e diversa, e cada peça funciona independentemente das demais. Daí ser tão grande a diferença entre nós e nós mesmos quanto entre nós e outrem: “Crede-me, não é coisa fácil conduzir-se como um só homem” [Sêneca].\n(Michel de Montaigne apud Eduardo Giannetti. O livro das citações, 2008.)",
+   "enunciado": "Para evitar a sua repetição, o autor omite um substantivo no seguinte trecho:",
+   "alternativas": {
+    "a": "“Os que se dedicam à crítica das ações humanas jamais se sentem tão embaraçados”.",
+    "b": "“Somos todos constituídos de peças e pedaços juntados de maneira casual e diversa”.",
+    "c": "“e cada peça funciona independentemente das demais”.",
+    "d": "“Daí ser tão grande a diferença entre nós e nós mesmos”.",
+    "e": "“Crede-me, não é coisa fácil conduzir-se como um só homem”."
+   },
+   "resposta": "c",
+   "explicacao": "Em \"cada peça funciona independentemente das demais\", \"das demais\" está por \"das demais peças\": o substantivo foi omitido para não repetir \"peça\" na mesma frase — é elipse, recurso de coesão que enxuga a frase sem perda semântica. Nos outros trechos não há termo subentendido: \"os que\" é pronome com oração adjetiva, \"peças e pedaços\" e \"nós mesmos\" estão completos, e \"um só homem\" traz o substantivo expresso."
+  },
+  {
+   "id": "gramatica-2200314",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "De futebol não entendo, e é tarde «para» começar a entender. Por isso não me permito dar conselho a mestre Zagallo, e muito menos chamá-lo à ordem, «como» faz tanta gente que tem no bolso da calça a Seleção ideal, «além» da fórmula infalível para que o Brasil tire de letra o quarto Campeonato Mundial. Confio em Zagallo como costumo confiar no motorista de ônibus (também não entendo de condução de veículos) que, quase sempre, me leva para casa, no horário vespertino. O primeiro já demonstrou seu saber de experiências feito. O segundo, idem, pois até agora tenho regressado são e salvo, o que significa, mais ou menos: vitorioso.\n\nEste nariz de cera tem como objetivo esclarecer que, «se» vou falar hoje em Zaire, não é absolutamente com vistas à análise crítica do futebol do Zaire, e às possibilidades que a Seleção Brasileira tem de triunfar no jogo «com» os atletas de lá. Porque agora só se pensa nesse país em termos de pelota, e dizer Zaire é dizer um competidor do caneco.\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\n(Crônica “A voz do Zaire”, publicada originalmente em 11.04.1974.)",
+   "enunciado": "Dos termos destacados no texto, aquele que estabelece relação de finalidade é:",
+   "alternativas": {
+    "a": "“como”.",
+    "b": "“além”.",
+    "c": "“para”.",
+    "d": "“com”.",
+    "e": "“se”."
+   },
+   "resposta": "c",
+   "explicacao": "\"É tarde para começar a entender\": o conectivo \"para\" introduz o fim, o propósito — tarde para quê? para começar a entender. É o valor semântico de finalidade. \"Como faz tanta gente\" é comparação; \"além da fórmula\" é adição; \"se vou falar\" é condição; \"com os atletas\" é companhia. Só \"para\" responde a \"com que finalidade\"."
+  },
+  {
+   "id": "gramatica-2200315",
+   "banca": "fgv",
+   "sessao": "fgv-eesp-2022.1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fgv",
+   "texto_apoio": "De futebol não entendo, e é tarde para começar a entender. Por isso não me permito dar conselho a mestre Zagallo, e muito menos chamá-lo à ordem, como faz tanta gente que tem no bolso da calça a Seleção ideal, além da fórmula infalível para que o Brasil tire de letra o quarto Campeonato Mundial. Confio em Zagallo como costumo confiar no motorista de ônibus (também não entendo de condução de veículos) que, quase sempre, me leva para casa, no horário vespertino. O primeiro já demonstrou seu saber de experiências feito. O segundo, idem, pois até agora tenho regressado são e salvo, o que significa, mais ou menos: vitorioso.\n\nEste nariz de cera tem como objetivo esclarecer que, se vou falar hoje em Zaire, não é absolutamente com vistas à análise crítica do futebol do Zaire, e às possibilidades que a Seleção Brasileira tem de triunfar no jogo com os atletas de lá. Porque agora só se pensa nesse país em termos de pelota, e dizer Zaire é dizer um competidor do caneco.\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\n(Crônica “A voz do Zaire”, publicada originalmente em 11.04.1974.)",
+   "enunciado": "Um vocábulo também pode ser formado quando passa de uma classe gramatical a outra, sem a modificação de sua forma. É o que se denomina derivação imprópria. Constitui exemplo de derivação imprópria o vocábulo destacado em:",
+   "alternativas": {
+    "a": "“De futebol não entendo, e é tarde para começar a «entender».”",
+    "b": "“Confio em Zagallo como costumo «confiar» no motorista de ônibus (também não entendo de condução de veículos) que, quase sempre, me leva para casa, no horário vespertino.”",
+    "c": "“O primeiro já demonstrou seu «saber» de experiências feito.”",
+    "d": "“O segundo, idem, pois até agora tenho regressado «são» e salvo, o que significa, mais ou menos: vitorioso.”",
+    "e": "“Porque agora só se pensa nesse país em termos de pelota, e «dizer» Zaire é dizer um competidor do caneco.”"
+   },
+   "resposta": "c",
+   "explicacao": "Em \"seu saber de experiências feito\", \"saber\" deixou de ser verbo e virou substantivo — vem com possessivo (\"seu\") e é o objeto de \"demonstrou\". Mudou de classe sem mudar de forma: derivação imprópria. \"Entender\", \"confiar\" e \"dizer\" continuam verbos no infinitivo (começar a entender, costumo confiar, dizer Zaire é dizer…); \"são\" em \"são e salvo\" é adjetivo, que já era adjetivo — não houve passagem de classe."
+  },
+  {
+   "id": "unicamp-gramatica-01",
+   "banca": "unicamp",
+   "sessao": "unicamp-2026-fase1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Obra de arte",
+    "arquivo": "assets/provas/unicamp-2026-q57.jpg",
+    "descricao": "Reprodução do trabalho “A luta”, de Santarosa Barreto: texto em letras de fôrma pretas sobre fundo vermelho: “LUTE A LUTA COMO VOCÊ ACHA QUE DEVE LUTAR E NÃO COMO EXIGEM QUE VOCÊ LUTE QUE VÃO DIZER QUE VOCÊ NÃO SABE O QUE É UMA LUTA QUE VÃO DIZER QUE VOCÊ NÃO TEM FORÇA PARA LUTAR QUE VÃO DIZER QUE ELES É QUE SABEM LUTAR QUE VÃO DIZER QUE ELES LUTAM HÁ MAIS TEMPO DO QUE VOCÊ LUTA QUE VÃO DIZER QUE É MELHOR VOCÊ DESISTIR DA LUTA QUE VÃO DIZER QUE NÃO É ASSIM QUE SE LUTA QUE VÃO DIZER QUE VOCÊ NÃO SABE LUTAR QUE VÃO DIZER QUE VOCÊ NUNCA LUTOU QUE VÃO DIZER QUE VOCÊ NÃO ESTÁ LUTANDO A MESMA LUTA QUE ELES ESTÃO LUTANDO OS SUPOSTOS DONOS DA LUTA.”"
+   },
+   "texto_apoio": "LUTE A LUTA COMO VOCÊ ACHA QUE DEVE LUTAR E NÃO COMO EXIGEM QUE VOCÊ LUTE QUE VÃO DIZER QUE VOCÊ NÃO SABE O QUE É UMA LUTA QUE VÃO DIZER QUE VOCÊ NÃO TEM FORÇA PARA LUTAR QUE VÃO DIZER QUE ELES É QUE SABEM LUTAR QUE VÃO DIZER QUE ELES LUTAM HÁ MAIS TEMPO DO QUE VOCÊ LUTA QUE VÃO DIZER QUE É MELHOR VOCÊ DESISTIR DA LUTA QUE VÃO DIZER QUE NÃO É ASSIM QUE SE LUTA QUE VÃO DIZER QUE VOCÊ NÃO SABE LUTAR QUE VÃO DIZER QUE VOCÊ NUNCA LUTOU QUE VÃO DIZER QUE VOCÊ NÃO ESTÁ LUTANDO A MESMA LUTA QUE ELES ESTÃO LUTANDO OS SUPOSTOS DONOS DA LUTA.",
+   "fonte_texto": "BARRETO, S. A luta. Ikrek Edições, 2019 (reimpressão 2024).",
+   "enunciado": "O texto acima é um trabalho da artista Santarosa Barreto apresentado na exposição Histórias das mulheres: artistas depois de 2000, realizada no MASP em 2019.\n\nNesse texto, observamos ocorrências de “que” com diferentes valores, entre eles o",
+   "alternativas": {
+    "a": "explicativo, com o objetivo de listar justificativas que tentam suprimir, em favor de outros, uma dimensão pessoal da luta",
+    "b": "comparativo, com o objetivo de equiparar a luta motivada por convicções próprias e a luta instigada por quem está no poder",
+    "c": "condicional, com o objetivo de caracterizar a luta como uma condição para combater aqueles que a querem controlar",
+    "d": "causal, com o objetivo de reiterar as situações que levam alguém a desistir de promover a luta como forma de resistência individual"
+   },
+   "explicacao": "A série “lute a luta como você acha que deve ... QUE vão dizer que você não sabe ... QUE vão dizer que você não tem força ...” encadeia orações nas quais o “que” introduz explicações — o porquê de lutar do próprio jeito é que os “supostos donos da luta” vão dizer isso e aquilo para tirar de você a dimensão pessoal da luta. É o valor explicativo, listando as justificativas alheias que tentam suprimir a luta individual em favor da deles. Não há comparação de igualdade, nem condição, nem causa que leve à desistência — o texto convoca a não desistir.",
+   "resposta": "a",
+   "origem": "medicina"
   }
  ]
 }

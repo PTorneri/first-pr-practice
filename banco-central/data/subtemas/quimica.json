@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "quimica",
- "total": 567,
+ "total": 590,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -3363,6 +3363,140 @@
    "frenteDestino": "quimica",
    "pontos": 14,
    "margem": 14
+  },
+  "unicamp-quimica-01": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "unicamp-quimica-02": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "unicamp-quimica-03": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "unicamp-quimica-04": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "unicamp-quimica-05": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "ita-2023-q51": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "ita-2023-q57": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "ita-2023-q55": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "ita-2023-q56": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "ita-2023-q49": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "ita-2023-q50": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "ita-2026-q26": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 20,
+   "margem": 15
+  },
+  "ita-2026-q28": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "ita-2026-q33": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "ita-2026-q29": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "ita-2026-q36": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "ita-2026-q32": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "ita-2026-q34": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "ita-2026-q35": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "ita-2026-q30": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "ita-2026-q31": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "ita-2026-q25": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "ita-2026-q27": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "interpretacao-texto",
- "total": 545,
+ "total": 554,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -3122,6 +3122,56 @@
    "frenteDestino": "interpretacao-texto",
    "pontos": 10,
    "margem": 10
+  },
+  "interpretacao-texto-220033": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "interpretacao-texto-220034": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "interpretacao-texto-220037": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "interpretacao-texto-2200311": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "unicamp-interpretacao-texto-01": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "unicamp-interpretacao-texto-02": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "unicamp-interpretacao-texto-03": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "unicamp-interpretacao-texto-04": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "unicamp-interpretacao-texto-05": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 3
   }
  }
 }

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "gramatica",
- "total": 420,
+ "total": 430,
  "residuo": [
   "dir-gramatica-01",
   "dir-gramatica-21",
@@ -2514,6 +2514,65 @@
   },
   "fuvest-gramatica-7": {
    "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "revisado": true
+  },
+  "gramatica-220035": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "gramatica-220036": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "gramatica-220038": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "gramatica-220039": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "gramatica-2200310": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "gramatica-2200312": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "gramatica-2200313": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "gramatica-2200314": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "gramatica-2200315": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "unicamp-gramatica-01": {
+   "subtema": "gramatica-sintaxe-periodo",
    "frenteDestino": "gramatica",
    "revisado": true
   }

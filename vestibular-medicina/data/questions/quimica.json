@@ -8580,6 +8580,440 @@
       },
       "resposta": "c",
       "explicacao": "O reator é aberto, então o único produto que escapa é o gás: a massa perdida é a massa de monóxido de carbono liberado. Com massa molar 28 g/mol, 1 400 g correspondem a 50 mol de CO. A equação mostra 3 mol de carbono para cada 1 mol de CO, logo reagiram 150 mol de carbono, que a 12 g/mol pesam 1 800 g — alternativa C. A alternativa A, 700 g, resulta de tomar a massa perdida como se fosse a do próprio carbono e dividi-la por dois; B ignora o coeficiente 3; D e E multiplicam por 4 ou por 6 em vez de 3."
+    },
+    {
+      "id": "unicamp-quimica-01",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/provas/unicamp-2026-q66.jpg",
+        "descricao": "Triângulo de Johnstone: no vértice superior (1) Macroscópico, no vértice inferior esquerdo (2) Submicroscópico e no inferior direito (3) Simbólico, ilustrado como uma pirâmide de escadas com pessoas. Abaixo, oito ilustrações rotuladas de A a H: A — três garrafas com balões inflando; B — fórmulas estruturais do etanol reagindo com O₂ e do ácido acético com água; C — diagrama de energia versus progresso da reação ao lado de modelos moleculares coloridos; D — fotografia de um tanque industrial em chamas; E — triângulo com uma chama e a equação CH₄ + 2O₂ = CO₂ + 2H₂O; F — retículo cristalino em cubo com esferas alaranjadas; G — modelos de bolas e varetas mostrando duas moléculas reagindo (+ e →) e formando outras; H — a equação C₂H₅OH(l) + 3O₂(g) = 2CO₂(g) + 3H₂O(l)."
+      },
+      "enunciado": "O desafio de ensinar como as reações químicas acontecem está no fato de que elas geralmente ocorrem por meio de sinais detectáveis pelos nossos sentidos, enquanto que sua explicação geralmente ocorre em um nível invisível ou abstrato. Johnstone, pesquisador escocês em educação científica, propôs que, para se entender um fenômeno do ponto de vista químico, qualquer pessoa precisa ser capaz de pensá-lo em três domínios distintos: o macroscópico, o submicroscópico e o simbólico. A figura mostra o triângulo de Johnstone que correlaciona os três domínios, identificados como (1) Macroscópico, (2) Submicroscópico e (3) Simbólico. Já as ilustrações apresentam os domínios de forma aleatória.\n\nCom base nas informações do enunciado, da figura e das ilustrações, é correto afirmar que os domínios (1), (2) e (3) do triângulo de Johnstone são representados respectivamente pelas ilustrações",
+      "fonte_texto": "Adaptado de https://edu.rsc.org/feature/develop-deeper-understanding-with-models/3010519.article. Acesso em 09/10/2025.",
+      "alternativas": {
+        "a": "(F), (H) e (G), enquanto a ilustração (C) apresenta uma combinação dos domínios simbólico e submicroscópico",
+        "b": "(G), (D) e (A), enquanto a ilustração (E) apresenta uma combinação dos domínios simbólico e submicroscópico",
+        "c": "(B), (A) e (H), enquanto a ilustração (E) apresenta uma combinação dos domínios simbólico e submicroscópico",
+        "d": "(D), (G) e (H), enquanto a ilustração (C) apresenta uma combinação dos domínios simbólico e submicroscópico"
+      },
+      "explicacao": "Macroscópico é o que se vê a olho nu: a fotografia do incêndio (D). Submicroscópico é o nível das partículas: os modelos moleculares de bolas e varetas reagindo (G). Simbólico é a linguagem de fórmulas e equações: C₂H₅OH + 3O₂ = 2CO₂ + 3H₂O (H). A ilustração C junta uma curva da reação (representação simbólica) a modelos moleculares (submicroscópico). Nas outras opções, F (retículo) e G são submicroscópicos, A (balões) é macroscópico e E combina macroscópico (chama) com simbólico, não submicroscópico.",
+      "resposta": "d",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-quimica-02",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Infográfico",
+        "arquivo": "assets/provas/unicamp-2026-q67.jpg",
+        "descricao": "Infográfico: à esquerda, uma cidade com fábricas e carro emitindo CO₂ para a atmosfera; setas levam o CO₂ ao oceano, onde aparecem as equações CO₂ + H₂O ⇒ HCO₃⁻ + H⁺; H⁺ + [A] ⇒ HCO₃⁻; [B] ⇒ Ca²⁺ + [C] (coral). No canto inferior esquerdo, um gráfico com eixo Y (0 a 800) e eixo X (0 a 800) mostrando uma curva decrescente. Recife de corais com peixes ao fundo."
+      },
+      "enunciado": "Os recifes de corais são ecossistemas ricos em biodiversidade, sendo essenciais para a pesca e proteção costeira. Essas estruturas são formadas por pólipos com esqueleto externo de carbonato de cálcio e sofrem degradação nas últimas décadas devido às atividades humanas no meio ambiente. O infográfico representa o efeito da ação humana sobre um dos equilíbrios químicos da água dos oceanos pela emissão de CO₂ atmosférico (CO₂ atm). Dados: [CO₂]atm = concentração de CO₂ atmosférico. Equações do infográfico: CO₂ + H₂O ⇒ HCO₃⁻ + H⁺; H⁺ + A ⇒ HCO₃⁻; B ⇒ Ca²⁺ + C (coral).\n\nCom base nas informações do enunciado e do infográfico apresentado, é correto afirmar que as espécies A, B e C são, respectivamente,",
+      "fonte_texto": "Adaptado de HOEGH-GULDBERG et al. Science, v. 318, p.1737-1742, 2007.",
+      "alternativas": {
+        "a": "CO₂, CO₃²⁻ e CaCO₃, enquanto os eixos X e Y no infográfico representam respectivamente [CO₃²⁻] e [CO₂]atm. Globalmente, o aumento da [CO₂]atm provoca um aumento do pH dos oceanos e, consequentemente, uma maior degradação dos corais",
+        "b": "CO₃²⁻, CaCO₃ e CO₃²⁻, enquanto os eixos X e Y no infográfico representam respectivamente [CO₂]atm e [CO₃²⁻]. Globalmente, o aumento da [CO₂]atm provoca uma diminuição do pH dos oceanos e, consequentemente, uma maior degradação dos corais",
+        "c": "CO₂, CaCO₃ e CO₃²⁻, enquanto os eixos X e Y no infográfico representam respectivamente [CO₃²⁻] e [CO₂]atm. Globalmente, o aumento da [CO₂]atm provoca uma diminuição do pH dos oceanos e, consequentemente, uma menor degradação dos corais",
+        "d": "CO₃²⁻, CaCO₃ e CO₃²⁻, enquanto os eixos X e Y no infográfico representam respectivamente [CO₃²⁻] e [CO₂]atm. Globalmente, o aumento da [CO₂]atm provoca um aumento do pH dos oceanos e, consequentemente, uma menor degradação dos corais"
+      },
+      "explicacao": "O CO₂ absorvido pela água do mar gera H⁺ (CO₂ + H₂O ⇒ HCO₃⁻ + H⁺): a água acidifica, o pH cai. Esse H⁺ consome o carbonato: H⁺ + CO₃²⁻ ⇒ HCO₃⁻, logo A é CO₃²⁻. Com menos carbonato, o esqueleto dos corais se desfaz: CaCO₃ (B) ⇒ Ca²⁺ + CO₃²⁻ (C). O gráfico é decrescente porque, quanto maior [CO₂]atm (eixo X), menor [CO₃²⁻] disponível (eixo Y) — e mais degradação dos corais. As opções que falam em aumento de pH ou em menor degradação invertem o efeito.",
+      "resposta": "b",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-quimica-03",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Gráfico",
+        "arquivo": "assets/provas/unicamp-2026-q69.png",
+        "descricao": "Gráfico de captura cumulativa de CO₂ (mmol/g), de 0,0 a 3,0, em função do tempo (min), de 0 a 60. A curva parte de zero, sobe rapidamente entre 5 e 20 minutos (cerca de 1,8 mmol/g aos 20 min), desacelera e se aproxima de um patamar de 3,0 mmol/g por volta de 50–60 minutos."
+      },
+      "enunciado": "Diante das mudanças climáticas, muitos químicos desempenham um papel estratégico no enfrentamento desse problema. Uma dessas ações é o esforço no desenvolvimento de recursos que removem CO₂ por meio da captura direta do ar. Nesse sentido, os químicos se dedicam a produzir materiais que, ao mesmo tempo, possam capturar o CO₂ em situações diversas em quantidades e velocidades altas. Um exemplo disso é a captura cumulativa de CO₂ (em mmol) por grama de tetraperoxotitanato de potássio K₄Ti(O₂)₄ em função do tempo. Esses resultados são parcialmente mostrados no gráfico.\n\nDado parcial: Massa molar: K₄Ti(O₂)₄ = 332,3 g·mol⁻¹\n\nConsiderando as informações do gráfico, é correto afirmar que após 65 minutos de adsorção: (i) a razão molar [mol CO₂ por mol de K₄Ti(O₂)₄] e (ii) o aumento percentual de massa do sólido serão aproximadamente de",
+      "fonte_texto": "Adaptado de BACH, K. et al. ChemRxiv, DOI: 10.26434/chemrxiv-2024-xb06z-v2. Acesso em 09/10/2025.",
+      "alternativas": {
+        "a": "(i) 3 e (ii) 13% em relação ao inicial",
+        "b": "(i) 1 e (ii) 13% em relação ao inicial",
+        "c": "(i) 3 e (ii) 30% em relação ao inicial",
+        "d": "(i) 1 e (ii) 30% em relação ao inicial"
+      },
+      "explicacao": "Aos 60 min a curva já está no patamar de 3,0 mmol de CO₂ por grama de sólido, e aos 65 min continua aí. Um grama de K₄Ti(O₂)₄ são 1/332,3 mol ≈ 3,0 mmol; logo a razão é 3,0 mmol CO₂ / 3,0 mmol de sal ≈ 1 mol por mol. Em massa: 3,0 mmol × 44 g/mol = 0,132 g de CO₂ retidos por grama de sólido, ou seja, aumento de cerca de 13%.",
+      "resposta": "b",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-quimica-04",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Fluxograma",
+        "arquivo": "assets/provas/unicamp-2026-q70.png",
+        "descricao": "Fluxograma do processo Solvay: entram NaCl (saturado) e CaCO₃(s); o CaCO₃ gera CO₂(g) e CaO(s); NH₃(g), CO₂ e a salmoura formam NaHCO₃(s) e NH₄Cl(aq); o NaHCO₃ é convertido em Na₂CO₃(s), liberando CO₂ que retorna ao processo e H₂O(vap); o NH₄Cl reage com o CaO, regenerando NH₃(g), que retorna ao processo, e produzindo CaCl₂(s)."
+      },
+      "enunciado": "A produção industrial de barrilha (carbonato de sódio) é majoritariamente feita pelo processo Solvay. A barrilha é um dos compostos químicos inorgânicos mais importantes globalmente, sendo vital para a fabricação de vidro, sabão, detergente, papel, entre muitos outros produtos. As reações envolvidas no processo Solvay, que ocorrem em fluxo contínuo, estão representadas esquematicamente no fluxograma.\n\nNesse processo de fabricação, após o fluxo contínuo de produção ser iniciado, é necessário adicionar para sua manutenção",
+      "fonte_texto": "Adaptado de ARAÚJO A. L. et al. Química Nova, v. 21, n. 1, p. 114, 1998.",
+      "alternativas": {
+        "a": "salmoura e calcário, pois a amônia é totalmente regenerada durante o processo",
+        "b": "gás carbônico e salmoura, pois a amônia é totalmente regenerada durante o processo",
+        "c": "calcário e amônia, pois o gás carbônico é totalmente regenerado durante o processo",
+        "d": "amônia e salmoura, pois o gás carbônico é totalmente regenerado durante o processo"
+      },
+      "explicacao": "No fluxograma só duas setas entram de fora e não voltam: NaCl saturado (salmoura) e CaCO₃ (calcário). O CO₂ vem da calcinação do calcário e da decomposição do NaHCO₃; a amônia, consumida na formação de NH₄Cl, é regenerada quando o NH₄Cl reage com o CaO e volta ao circuito. Portanto o que se repõe é salmoura e calcário; amônia não precisa ser adicionada porque é integralmente reciclada. Balanço global: 2 NaCl + CaCO₃ → Na₂CO₃ + CaCl₂.",
+      "resposta": "a",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-quimica-05",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/provas/unicamp-2026-q72.jpg",
+        "descricao": "Comparação entre o método convencional e o método proposto de obtenção de lítio a partir do α-LiAlSi₂O₆. Convencional: (i) calcinação a 1100 °C, formando β-LiAlSi₂O₆; (ii) calcinação com H₂SO₄ a 325 °C; (iii) lixiviação aquosa a 90 °C, liberando íons Li⁺ (quatro Li⁺ desenhados); (iv) CO₃²⁻, formando Li₂CO₃. Proposto: (i) tratamento térmico com NaOH a 325 °C, formando silicato de sódio e lítio; (ii) lixiviação aquosa à temperatura ambiente, liberando Li⁺ (três Li⁺ desenhados); (iii) CO₃²⁻, formando Li₂CO₃."
+      },
+      "enunciado": "Uma patente é uma concessão pública, conferida pelo Estado, que garante ao seu titular a exclusividade de explorar comercialmente a sua criação. É necessário que a patente seja de uma criação inédita. Para ser explorada comercialmente, deve apresentar vantagens para quem vai adquiri-la e utilizá-la na produção a que se propõe. É com base nesses pressupostos que cientistas entraram com pedido de patente para um processo de produção de lítio a partir do minério α-espodumênio (α-LiAlSi₂O₆). Para explicar o seu novo método e compará-lo a um método convencional, os pesquisadores apresentaram a figura.\n\nConsiderando apenas essas informações, é correto afirmar que, em relação ao método convencional, esse novo método é",
+      "fonte_texto": "Adaptado de SUBASINGHE, S.A.D.T. et al. Chemical Engineer Journal, v. 505, n. 159661, 2025.",
+      "alternativas": {
+        "a": "mais rápido e apresenta maior rendimento, porém consome mais carbonato na etapa final de separação do lítio",
+        "b": "mais intensivo em energia e com maior consumo de carbonato na etapa final de separação do lítio, porém com maior rendimento",
+        "c": "mais lento e apresenta menor rendimento, porém consome menos carbonato na etapa final de separação do lítio",
+        "d": "menos intensivo em energia e com menor consumo de carbonato na etapa final de separação do lítio, porém nada se pode afirmar acerca do rendimento"
+      },
+      "explicacao": "O método convencional exige calcinação a 1100 °C, outra a 325 °C e lixiviação a 90 °C; o proposto tem uma etapa a 325 °C e lixiviação à temperatura ambiente — muito menos energia. Na figura, a lixiviação convencional libera mais íons Li⁺ que a do método novo (quatro contra três), de modo que a etapa final consome menos carbonato para precipitar o Li₂CO₃. Como o esquema não traz tempos nem quantidades de produto, nada se pode afirmar sobre velocidade ou rendimento — o que descarta as opções que falam em “mais rápido”, “mais lento” ou em rendimento maior ou menor.",
+      "resposta": "d",
+      "origem": "medicina"
+    },
+    {
+      "id": "ita-2023-q51",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Para O e seus íons gasosos:\nI. A afinidade eletrônica de O é maior que a de O⁻.\nII. A energia de ionização de O é maior que a de O²⁻.\nIII. O raio de O é maior que o de O⁻.\nIV. O tem maior afinidade eletrônica e menor energia de ionização que N.\n\nEstão corretas",
+      "alternativas": {
+        "a": "apenas I e II.",
+        "b": "apenas I, II e IV.",
+        "c": "apenas I e III.",
+        "d": "apenas II, III e IV.",
+        "e": "apenas III e IV."
+      },
+      "resposta": "b",
+      "explicacao": "Adicionar o primeiro elétron a O é mais favorável que adicionar outro a O⁻, então I vale. É mais fácil remover elétron do ânion que do átomo, validando II. O⁻ é maior que O, tornando III falsa. Comparado a N, O tem maior afinidade e menor primeira ionização devido à estabilidade 2p³ do N, validando IV."
+    },
+    {
+      "id": "ita-2023-q57",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Valores maiores de energia de hidratação ocorrem para íons menores e mais carregados. Compare:\nI. Li⁺>K⁺.\nII. B³⁺>Al³⁺.\nIII. Sr²⁺<Ca²⁺.\nIV. Ga³⁺>Ca²⁺.\nV. S²⁻>Se²⁻.\n\nEstão corretas",
+      "alternativas": {
+        "a": "apenas I e II.",
+        "b": "apenas I, II e IV.",
+        "c": "apenas II, III e V.",
+        "d": "apenas III, IV e V.",
+        "e": "todas."
+      },
+      "resposta": "e",
+      "explicacao": "I, II, III e V seguem diretamente o menor raio dentro de cada par de mesma carga. Em IV, Ga³⁺ combina carga maior e raio menor que Ca²⁺. Portanto todas as comparações estão corretas. A tendência acompanha o raio atômico e o raio iônico ao longo da tabela periódica."
+    },
+    {
+      "id": "ita-2023-q55",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Oxigênio-16 e os dois isótopos estáveis de H formam, em duas condições, produtos únicos X e Y, neutros, estáveis e com octeto, sendo M_X<M_Y. As possíveis razões massa de H/massa de O em X e Y são",
+      "alternativas": {
+        "a": "X: 1/8, 3/16 e 1/4; Y: 1/16, 3/32 e 1/8.",
+        "b": "X: 1/8, 3/16 e 1/4; Y: 1/24, 1/16 e 1/12.",
+        "c": "X: 1/16, 3/32 e 1/8; Y: 1/8, 3/16 e 1/4.",
+        "d": "X: 1/16, 1/8 e 1/4; Y: 1/32, 1/16 e 1/8.",
+        "e": "X: 1/24, 1/16 e 1/12; Y: 1/8, 3/16 e 1/4."
+      },
+      "resposta": "a",
+      "explicacao": "Os produtos compatíveis são águas isotópicas H₂O/HDO/D₂O e peróxidos H₂O₂/HDO₂/D₂O₂. As razões H/O da água são 1/8, 3/16 e 1/4; as do peróxido, com o dobro de O, são 1/16, 3/32 e 1/8. A água é o conjunto de menor massa molar média."
+    },
+    {
+      "id": "ita-2023-q56",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Em 1 L, X₂, Y₂ e XY têm concentrações iniciais 0,4, 0,4 e 0,8 mol·L⁻¹. Para X₂+Y₂ ⇌ 2XY, K_c=16. A concentração aproximada de XY no equilíbrio é",
+      "alternativas": {
+        "a": "0,5.",
+        "b": "0,8.",
+        "c": "1,1.",
+        "d": "2,2.",
+        "e": "2,7."
+      },
+      "resposta": "c",
+      "explicacao": "O quociente inicial é 0,8²/(0,4·0,4)=4<16, então a reação avança. Com extensão x, 16=(0,8+2x)²/(0,4−x)². Tomando a raiz positiva, (0,8+2x)/(0,4−x)=4, de onde x=0,133. Assim [XY]≈1,07≈1,1 mol/L."
+    },
+    {
+      "id": "ita-2023-q49",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Em uma titulação, 100 mL de ácido monoprótico fraco com K_a=10⁻⁹ são neutralizados por 25 mL de NaOH 0,5 mol·L⁻¹. O pH no ponto de equivalência é",
+      "alternativas": {
+        "a": "9,0.",
+        "b": "9,5.",
+        "c": "10,0.",
+        "d": "10,5.",
+        "e": "11,0."
+      },
+      "resposta": "e",
+      "explicacao": "Há 0,0125 mol do sal em 0,125 L, logo C=0,10 mol/L. Para a base conjugada, K_b=10⁻¹⁴/10⁻⁹=10⁻⁵ e [OH⁻]≈√(K_bC)=10⁻³. Assim pOH=3 e pH=11."
+    },
+    {
+      "id": "ita-2023-q50",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Pela lei de Arrhenius, a velocidade de uma reação aumenta 1000 vezes quando a temperatura passa de 400 K para 500 K, mantidos os demais parâmetros. Considerando que o fator de frequência e a energia de ativação não dependem da temperatura, a energia de ativação, em kcal·mol⁻¹, é (dados: R = 1,98 cal·K⁻¹·mol⁻¹; ln X = 2,3 log X)",
+      "alternativas": {
+        "a": "7,3.",
+        "b": "17,3.",
+        "c": "27,3.",
+        "d": "37,3.",
+        "e": "47,3."
+      },
+      "resposta": "c",
+      "explicacao": "ln(k₂/k₁)=E_a/R(1/T₁−1/T₂). Com ln1000=3ln10≈6,9, R=1,98 cal·K⁻¹·mol⁻¹ e diferença 1/400−1/500=1/2000, resulta E_a≈27.300 cal/mol=27,3 kcal/mol. A lei de Arrhenius é um resultado de cinética química; a termoquímica e a entalpia global não determinam esse fator de velocidade."
+    },
+    {
+      "id": "ita-2026-q26",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere:\nI. A primeira energia de ionização de N é menor que a de O.\nII. Rb⁺ tem menor raio que Sr²⁺.\nIII. CH₂O é trigonal plana e apolar.\nIV. PCl₅ é bipirâmide trigonal e polar.\n\nEstá(ão) correta(s)",
+      "alternativas": {
+        "a": "apenas I e II.",
+        "b": "apenas II e III.",
+        "c": "apenas I e IV.",
+        "d": "apenas IV.",
+        "e": "nenhuma."
+      },
+      "resposta": "e",
+      "explicacao": "I é falsa porque a configuração semipreenchida 2p³ torna a ionização do N mais difícil que a do O. Em II, os íons são isoeletrônicos e Sr²⁺, com maior carga nuclear, é menor. CH₂O é trigonal plana, mas polar; PCl₅ é bipirâmide trigonal e apolar. Nenhuma afirmação é correta. São tendências da tabela periódica, envolvendo raio atômico, energia de ionização, geometria molecular e polaridade."
+    },
+    {
+      "id": "ita-2026-q28",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Sobre o efeito estufa:\nI. CH₄ e N₂O, embora menos abundantes, têm potencial de aquecimento muito maior que CO₂.\nII. Sem o efeito estufa, a temperatura média da Terra seria aproximadamente 25 °C.\nIII. O aquecimento aumenta a evaporação dos oceanos, intensificando o efeito estufa.\nIV. Sob UV, CFCs liberam H porque C–H é mais fraca que C–F e C–Cl.\n\nEstão corretas",
+      "alternativas": {
+        "a": "apenas I, II e III.",
+        "b": "apenas I e III.",
+        "c": "apenas I e IV.",
+        "d": "apenas II, III e IV.",
+        "e": "apenas II e IV."
+      },
+      "resposta": "b",
+      "explicacao": "I é verdadeira pelo maior potencial de aquecimento de CH₄ e N₂O; III descreve a realimentação positiva do vapor d'água. II é falsa: sem o efeito estufa natural a média seria cerca de −18 °C. IV é falsa porque CFCs não contêm hidrogênio; a fotólise libera cloro. A fotólise rompe ligação covalente C–Cl, não uma ligação C–H inexistente no CFC."
+    },
+    {
+      "id": "ita-2026-q33",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere:\nI. O modelo de Rutherford evidenciou núcleo positivo e os elementos passaram a ser diferenciados pelo número de elétrons.\nII. Raios catódicos determinaram carga/massa de um próton, permitindo obter a massa do elétron.\nIII. Cu-63 (69,09%; 62,93 u) e Cu-65 (30,91%; 64,93 u) dão massa média aproximada 63,55 u.\nIV. Amostras com 2,65 g C e 0,665 g H e com 4,56 g C e 0,383 g H obedecem às proporções múltiplas e poderiam ser etano e eteno, respectivamente.\n\nContêm afirmações erradas",
+      "alternativas": {
+        "a": "apenas I e II.",
+        "b": "apenas I, II e IV.",
+        "c": "apenas I, III e IV.",
+        "d": "apenas II e III.",
+        "e": "apenas III e IV."
+      },
+      "resposta": "b",
+      "explicacao": "I erra porque a identidade do elemento é dada pelo número de prótons; II erra porque raios catódicos forneceram e/m do elétron. III confere: a média ponderada é 63,55 u. IV erra nas fórmulas sugeridas pelas razões C/H. Portanto estão erradas I, II e IV."
+    },
+    {
+      "id": "ita-2026-q29",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Uma célula galvânica é constituída de um béquer contendo uma solução S aerada, na qual estão imersas duas barras metálicas, uma de ferro e outra de cobre, conectadas externamente por um condutor metálico. Sobre essa célula galvânica, são feitas as seguintes afirmações:\nI. Quando S é uma solução aquosa a 1 mol·L⁻¹ em NaCl, o meio torna-se mais básico.\nII. Quando S é uma solução aquosa a 1 mol·L⁻¹ em CuSO₄, a massa da barra de cobre aumenta.\nIII. Quando S é uma solução aquosa a 1 mol·L⁻¹ em HCl, há formação de bolhas de gás sobre a barra de cobre.\nIV. Quando S é uma solução aquosa a 1 mol·L⁻¹ em HNO₃, a massa da barra de cobre diminui.\n\nDados de potenciais padrão de eletrodo eventualmente necessários:\nSemirreação | E° (V)\nNa⁺ + e⁻ ⇌ Na | −2,71\n2H₂O + 2e⁻ ⇌ H₂ + 2OH⁻ | −0,83\nFe²⁺ + 2e⁻ ⇌ Fe | −0,44\n2H⁺ + 2e⁻ ⇌ H₂ | 0\nCu²⁺ + 2e⁻ ⇌ Cu | 0,34\nO₂ + 2H₂O + 4e⁻ ⇌ 4OH⁻ | 0,40\nNO₃⁻ + 2H⁺ + e⁻ ⇌ NO₂ + H₂O | 0,80\nO₂ + 4H⁺ + 4e⁻ ⇌ 2H₂O | 1,23\nCl₂ + 2e⁻ ⇌ 2Cl⁻ | 1,36\n\nCom base nas informações do enunciado, está(ão) correta(s) apenas:",
+      "alternativas": {
+        "a": "I.",
+        "b": "I, II e IV.",
+        "c": "II e III.",
+        "d": "III e IV.",
+        "e": "todas."
+      },
+      "resposta": "e",
+      "explicacao": "O ferro funciona como ânodo. Em NaCl aerado, a redução de O₂ forma OH⁻; em CuSO₄, Cu²⁺ se deposita no cobre; em HCl, H⁺ se reduz a H₂ sobre o cobre; em HNO₃, o oxidante nitrato permite também a oxidação do cobre. Assim as quatro afirmações são corretas."
+    },
+    {
+      "id": "ita-2026-q36",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Na reação gasosa 2X + W → Y + Z, um reator de volume fixo e temperatura constante contém 36 atm de X, W e inerte I na proporção molar 3:2:1. A pressão quando 75% de W forem consumidos é",
+      "alternativas": {
+        "a": "18 atm.",
+        "b": "24 atm.",
+        "c": "27 atm.",
+        "d": "30 atm.",
+        "e": "33 atm."
+      },
+      "resposta": "c",
+      "explicacao": "Tome 6 mol iniciais: 3 X, 2 W e 1 inerte. Consumir 75% de W corresponde à extensão 1,5 mol e consumiria 3 mol de X. Como cada avanço reduz o total gasoso em 1 mol, restam 4,5 mol. A volume e temperatura constantes, P = 36·(4,5/6) = 27 atm."
+    },
+    {
+      "id": "ita-2026-q32",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Sobre séries orgânicas:\nI. {CH₄, C₂H₆, C₃H₈, CH₃OH, C₂H₅OH, C₃H₇OH} pode ser dividido em três séries homólogas distintas.\nII. As propriedades químicas em uma série isóloga são próximas.\nIII. Uma série heteróloga é constituída por diferentes números de carbono nas cadeias.\n\nEstá(ão) correta(s)",
+      "alternativas": {
+        "a": "nenhuma.",
+        "b": "apenas I.",
+        "c": "apenas I e III.",
+        "d": "apenas II.",
+        "e": "apenas II e III."
+      },
+      "resposta": "a",
+      "explicacao": "O conjunto forma duas séries homólogas, alcanos e álcoois, não três. Série isóloga varia pelo grau de insaturação e não pressupõe propriedades químicas próximas; série heteróloga varia a função química, não simplesmente o número de carbonos. As três afirmações são falsas."
+    },
+    {
+      "id": "ita-2026-q34",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Na substituição R₁R₂R₃C–X + Nu → R₁R₂R₃C–Nu + X⁻:\nI. Comparando dois possíveis haloalcanos para essa reação, o (CH₃)H₂C–I é mais suscetível a formar um carbocátion do tipo R₁R₂R₃C⁺ do que o (C₃H₇)₃C–I.\nII. Entre haloalcanos do tipo (CH₃)₃C–X, a tendência de se formar um carbocátion do tipo (CH₃)₃C⁺ em um solvente polar aumenta na ordem (CH₃)₃C–F > (CH₃)₃C–Cl > (CH₃)₃C–Br > (CH₃)₃C–I.\nIII. O carbocátion (C₃H₇)₃C⁺ atacado por nucleófilo produz enantiômero puro.\n\nEstá(ão) correta(s)",
+      "alternativas": {
+        "a": "nenhuma.",
+        "b": "apenas I e II.",
+        "c": "apenas I e III.",
+        "d": "apenas II e III.",
+        "e": "todas."
+      },
+      "resposta": "a",
+      "explicacao": "I inverte a estabilidade: o carbocátion terciário é mais favorecido que o primário. II também inverte a qualidade do grupo de saída, que cresce de F para I. III é falsa porque o carbocátion plano pode ser atacado por ambas as faces, produzindo mistura, não enantiômero puro. É uma reação de substituição estudada em química orgânica."
+    },
+    {
+      "id": "ita-2026-q35",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "O PET resulta da condensação entre ácido tereftálico (C₈H₆O₄) e etilenoglicol (C₂H₆O₂). Sua densidade é 1,38 g·cm⁻³ e a massa molar média do fio é 38.400 g·mol⁻¹. Com 332 g de ácido e excesso de glicol, rendimento 100%, a massa molar da unidade repetitiva, a massa teórica e o volume de PET produzido e o número médio de unidades repetitivas por cadeia são, respectivamente (dados: massas molares C = 12,01; H = 1,01; O = 16,00 g·mol⁻¹)",
+      "alternativas": {
+        "a": "192,17 g·mol⁻¹; 384,34 g; 278,51 cm³; 200.",
+        "b": "210,19 g·mol⁻¹; 400,00 g; 290,00 cm³; 182.",
+        "c": "192,17 g·mol⁻¹; 432,17 g; 313,17 cm³; 250.",
+        "d": "166,14 g·mol⁻¹; 384,34 g; 250,00 cm³; 231.",
+        "e": "192,17 g·mol⁻¹; 384,34 g; 300,00 cm³; 220."
+      },
+      "resposta": "a",
+      "explicacao": "A unidade repetitiva é C₁₀H₈O₄, com 192,17 g·mol⁻¹. Os 332 g de ácido são 2 mol e formam 2 mol de unidades, ou 384,34 g de PET. O volume é 384,34/1,38 = 278,51 cm³ e 38.400/192,17 ≈ 200 unidades por cadeia. A cadeia do polímero contém grupos éster formados na condensação."
+    },
+    {
+      "id": "ita-2026-q30",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Uma solução a 100 °C contém o equilíbrio A(aq) ⇌ B(aq), com 1,0 mol inicial de A e K = 1,0, em 1000 g de água. Recebe 540 cal por segundo; o volume de A e B é desprezível em relação ao da solução, o equilíbrio é atingido muito rapidamente, A e B são não voláteis e toda a energia é utilizada para ebulição do solvente. Dados K_e = 0,52 °C·kg·mol⁻¹ e ΔH_eb(H₂O)=540 cal·g⁻¹. O tempo para a temperatura aumentar 1,04 °C é",
+      "alternativas": {
+        "a": "400 s.",
+        "b": "500 s.",
+        "c": "600 s.",
+        "d": "700 s.",
+        "e": "800 s."
+      },
+      "resposta": "b",
+      "explicacao": "A elevação de 1,04 °C exige molalidade total 2 mol·kg⁻¹. Como A ⇌ B conserva o total de 1 mol de soluto, a massa de água deve cair a 0,5 kg. Evaporam 500 g, exigindo 500·540 cal; a 540 cal/s, o tempo é 500 s. A ebulioscopia é uma propriedade coligativa do solvente e relaciona a solução à sua pressão de vapor."
+    },
+    {
+      "id": "ita-2026-q31",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Na reação elementar A → 3B em água, A e B são não voláteis. Inicialmente, 1 mol de A está em 90 g de água. Após 20 h, a pressão de vapor da solução é 16 mmHg; a temperatura é de 25 °C durante a reação, e a pressão de vapor da água pura a 25 °C é 24 mmHg. A pressão de vapor da solução após 30 h é (dados: massas molares H = 1,01 g·mol⁻¹ e O = 16,00 g·mol⁻¹)",
+      "alternativas": {
+        "a": "11,54 mmHg.",
+        "b": "12,07 mmHg.",
+        "c": "13,20 mmHg.",
+        "d": "14,05 mmHg.",
+        "e": "15,48 mmHg."
+      },
+      "resposta": "e",
+      "explicacao": "Pela lei de Raoult em 20 h, x_água = 16/24 = 2/3. Há 5 mol de água, então o total de solutos é 2,5 mol. Se a extensão é ξ, 1−ξ+3ξ = 1+2ξ = 2,5, logo ξ=0,75 e, para primeira ordem, restam 0,25 mol: duas meias-vidas em 20 h. Em 30 h restam 0,125 mol, os solutos totalizam 2,75 mol e P = 24·5/7,75 = 15,48 mmHg."
+    },
+    {
+      "id": "ita-2026-q25",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Sem catalisador, uma reação tem k = 2,0×10⁻³ s⁻¹ a 310 K e E_a = 85 kJ·mol⁻¹. Com catalisador, k aumenta 10 vezes, sem alteração do fator pré-exponencial nem da ordem. A concentração inicial é 0,200 mol·L⁻¹. A energia de ativação e o tempo para a concentração cair a 0,050 mol·L⁻¹, na presença do catalisador, são, respectivamente (dados: R = 8,31 J·K⁻¹·mol⁻¹; ln X = 2,3 log X; ln 2 = 0,693)",
+      "alternativas": {
+        "a": "79 kJ·mol⁻¹; 69 s.",
+        "b": "66 kJ·mol⁻¹; 69 s.",
+        "c": "72 kJ·mol⁻¹; 75 s.",
+        "d": "66 kJ·mol⁻¹; 75 s.",
+        "e": "79 kJ·mol⁻¹; 75 s."
+      },
+      "resposta": "a",
+      "explicacao": "Pela razão de Arrhenius, ln 10 = (85−E_a')/(RT), resultando E_a' ≈ 79 kJ·mol⁻¹. Como k' = 0,020 s⁻¹ e a unidade s⁻¹ indica primeira ordem, t = ln(0,200/0,050)/0,020 = ln4/0,020 ≈ 69 s. O catalisador muda o caminho da cinética química, sem alterar a termoquímica nem a entalpia global da reação."
+    },
+    {
+      "id": "ita-2026-q27",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Duas barras X e Y, de 200 g cada, atingem equilíbrio a 30 °C em dois experimentos isobáricos, realizados num mesmo recipiente isolado de 500 g com c = 0,1 cal·g⁻¹·°C⁻¹, que contém 350 g de água (c = 1,0 cal·g⁻¹·°C⁻¹); água e recipiente estão inicialmente a 25 °C. No experimento 1, X e Y começam a 230 °C. No experimento 2, X começa a 260 °C e Y a 185 °C. Os calores específicos de X e Y são",
+      "alternativas": {
+        "a": "0,01 e 0,04.",
+        "b": "0,02 e 0,03.",
+        "c": "0,025 e 0,025.",
+        "d": "0,03 e 0,02.",
+        "e": "0,04 e 0,01."
+      },
+      "resposta": "d",
+      "explicacao": "Água e recipiente absorvem (350+50)·5 = 2000 cal. O primeiro ensaio fornece c_X+c_Y = 0,05. O segundo fornece 200·230c_X + 200·155c_Y = 2000. Resolvendo o sistema, c_X = 0,03 e c_Y = 0,02 cal·g⁻¹·°C⁻¹. O balanço termoquímico iguala o calor cedido pelas barras ao calor absorvido pelo conjunto."
     }
   ]
 }

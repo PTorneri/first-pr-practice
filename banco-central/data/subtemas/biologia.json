@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "biologia",
- "total": 559,
+ "total": 564,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -3322,6 +3322,35 @@
    "frenteDestino": "biologia",
    "pontos": 9,
    "margem": 9
+  },
+  "unicamp-biologia-01": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 12,
+   "margem": 12
+  },
+  "unicamp-biologia-02": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "unicamp-biologia-03": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "unicamp-biologia-04": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "unicamp-biologia-05": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "revisado": true
   }
  }
 }

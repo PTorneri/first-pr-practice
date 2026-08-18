@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "historia",
- "total": 571,
+ "total": 590,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -3397,6 +3397,117 @@
   },
   "fuvest-historia-51": {
    "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "historia-2200216": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "historia-2200218": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "historia-2200219": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "historia-2200220": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "historia-2200221": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "historia-2200222": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "historia-2200223": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "historia-2200224": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "historia-2200225": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "historia-2200226": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "historia-2200227": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "historia-2200230": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "unicamp-historia-01": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "unicamp-historia-02": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "unicamp-historia-03": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "unicamp-historia-04": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "unicamp-historia-05": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "unicamp-historia-06": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "unicamp-historia-07": {
+   "subtema": "historia-geral-contemporanea",
    "frenteDestino": "historia",
    "revisado": true
   }

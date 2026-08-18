@@ -5313,6 +5313,541 @@
       },
       "resposta": "b",
       "explicacao": "O texto projeta o futuro em duas frases: \"total eclipses will recur for the next half-billion years\" e elas são \"one thing about the foreseeable future that, despite the dramatic technological and planetary changes ahead, will remain consistent with our past\". Elo com o passado coletivo — alternativa B. A alternativa A prevê raridade maior por causa do clima, e a recorrência é orbital; C atribui a previsão a inteligências artificiais, que no texto apenas talvez governem os descendentes; D fala em atenção da comunidade científica; e E restringe a observação aos polos, quando o texto diz que a maioria é visível dos polos ou do meio do oceano, não todas."
+    },
+    {
+      "id": "ingles-2200316",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fgv",
+      "texto_apoio": "Electric vehicles are an important part of countries’ efforts to address climate change. In the U.S., for example, gas-powered vehicles are the biggest single source of greenhouse gases, producing more than a quarter of the country’s total emissions. “A rapid shift from fossil-fueled combustion engines to electric vehicles is an essential step toward mitigating climate change,” says Coral Davenport, nytimes reporter on environmental issues. “You can’t solve climate change without getting rid of them.” The U.S. is moving to strengthen pollution standards as well.\n\nThe country’s push is also an attempt to keep American industry competitive. Europe and China are using regulations and subsidies for automakers to bolster electric vehicles. Europe has proposed banning sales of gas-powered cars by 2035. Chinese automakers are expanding, with government help, into new markets around the world.\n(www.nytimes.com, 06.08.2021. Adapted.)",
+      "enunciado": "In the fragment from the first paragraph “You can’t solve climate change without getting rid of «them».”, the highlighted term refers to",
+      "alternativas": {
+        "a": "gas-powered vehicles.",
+        "b": "greenhouse gases.",
+        "c": "fossil-fueled combustion engines.",
+        "d": "pollution standards.",
+        "e": "the country’s total emissions."
+      },
+      "resposta": "c",
+      "explicacao": "The sentence is Coral Davenport’s second line, right after “A rapid shift from fossil-fueled combustion engines to electric vehicles is an essential step toward mitigating climate change”. The pronoun “them” refers to what has to be gotten rid of to solve climate change — the thing being replaced: fossil-fueled combustion engines. “Gas-powered vehicles” is the tempting near-miss from two sentences earlier, but the pronoun picks up the plural noun inside the same quotation; greenhouse gases, pollution standards and total emissions are not what one “gets rid of” in that clause."
+    },
+    {
+      "id": "ingles-2200317",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fgv",
+      "texto_apoio": "Electric vehicles are an important part of countries’ efforts to address climate change. In the U.S., for example, gas-powered vehicles are the biggest single source of greenhouse gases, producing more than a quarter of the country’s total emissions. “A rapid shift from fossil-fueled combustion engines to electric vehicles is an essential step toward mitigating climate change,” says Coral Davenport, nytimes reporter on environmental issues. “You can’t solve climate change without getting rid of them.” The U.S. is moving to strengthen pollution standards as well.\n\nThe country’s push is also an attempt to keep American industry competitive. Europe and China are using regulations and subsidies for automakers to bolster electric vehicles. Europe has proposed banning sales of gas-powered cars by 2035. Chinese automakers are expanding, with government help, into new markets around the world.\n(www.nytimes.com, 06.08.2021. Adapted.)",
+      "enunciado": "In the fragment from the second paragraph “Europe and China are using regulations and subsidies for automakers to «bolster» electric vehicles”, the highlighted term can be replaced, without affecting the sentence’s meaning, by",
+      "alternativas": {
+        "a": "stimulate.",
+        "b": "produce.",
+        "c": "design.",
+        "d": "launch.",
+        "e": "prioritise."
+      },
+      "resposta": "a",
+      "explicacao": "The word “bolster” means to support, strengthen, boost — governments use regulations and subsidies to give electric vehicles a push. “Stimulate” is the synonym that keeps that meaning. Regulations and subsidies do not produce, design or launch cars, and “prioritise” says something else: to rank first, not to strengthen."
+    },
+    {
+      "id": "ingles-2200318",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "One of the most exciting things about today's business environment is the ever-increasing range of collaborative opportunities that technology is bringing to the table. This has only been accelerated by the covid pandemic, which has necessitated a complete rethink of the concept of how we conduct meetings, how we contribute to projects or products and how we interact with our subordinates, peers and managers. ‘Work’ can now potentially be conducted from anywhere and at any time, meaning increased flexibility for employees, and in many cases increased output due to the lack of 'down time' commuting or having to take time off for domestic commitments that can now be managed simultaneously with office duties. (www.newsweek.com, 06.08.2021. Adapted.)",
+      "enunciado": "The paragraph mentions the following feature of today’s business settings:",
+      "alternativas": {
+        "a": "more open and flexible interpersonal relations.",
+        "b": "cutting edge uses of technology.",
+        "c": "increased down time for handling off-work activities.",
+        "d": "the adequate balance between home and office commitments.",
+        "e": "a redefinition of collaborative paradigms."
+      },
+      "resposta": "e",
+      "explicacao": "The main idea of the paragraph is that the pandemic “has necessitated a complete rethink of the concept of how we conduct meetings, how we contribute to projects or products and how we interact” — that is a redefinition of collaborative paradigms, the “collaborative opportunities” the first sentence opens with. Technology is the vehicle, not described as “cutting edge”; relations are not called more open; down time is said to be LACKING, not increased; and domestic duties being managed “simultaneously with office duties” is not presented as an adequate balance."
+    },
+    {
+      "id": "ingles-2200319",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "Many feel as if the covid-19 pandemic is stealing their present and jeopardising their future. But this unprecedented global public health emergency is also precipitating the destruction of our past, one piece at a time. Indeed, the pandemic has exacerbated the theft and trafficking of antiquities and historical manuscripts, eroding our collective memory and ability to share it with future generations. Although the theft of antiquities has been a problem since antiquity itself, its pace has increased during the pandemic, particularly in the Middle East and North Africa — areas rich in heritage sites.\n(Hamad Bin Abdulaziz Al-Kuwari. www.aljazeera.com, 30.07.2021. Adapted.)",
+      "enunciado": "According to the writer,",
+      "alternativas": {
+        "a": "covid-19 is robbing people of their expectations about the present and the future.",
+        "b": "both the pandemic and the trafficking of relics are to be seen as global emergencies.",
+        "c": "the pandemic has facilitated anti-ethical and even illegal attitudes, individual as well as collective ones.",
+        "d": "the stealing of antiquities should not surprise us since it is a practice as old as civilization.",
+        "e": "the theft of historical objects and documents has helped compromise humanity’s collective memory."
+      },
+      "resposta": "e",
+      "explicacao": "The passage states that the pandemic “has exacerbated the theft and trafficking of antiquities and historical manuscripts, eroding our collective memory and ability to share it with future generations” — the theft of objects and documents has helped compromise collective memory. The other options twist a phrase each: it is the pandemic that jeopardises the future, not covid stealing “expectations”; only the pandemic is called a global emergency; the text speaks of theft, not of “individual attitudes”; and the age of the practice is a concession (“although…”), not a reason not to be surprised."
+    },
+    {
+      "id": "ingles-2200320",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fgv",
+      "texto_apoio": "Many feel as if the covid-19 pandemic is stealing their present and jeopardising their future. But this unprecedented global public health emergency is also precipitating the destruction of our past, one piece at a time. Indeed, the pandemic has exacerbated the theft and trafficking of antiquities and historical manuscripts, eroding our collective memory and ability to share it with future generations. Although the theft of antiquities has been a problem since antiquity itself, its pace has increased during the pandemic, particularly in the Middle East and North Africa — areas rich in heritage sites.\n(Hamad Bin Abdulaziz Al-Kuwari. www.aljazeera.com, 30.07.2021. Adapted.)",
+      "enunciado": "In the fragment “this «unprecedented» global public health emergency”, the highlighted word can be replaced, with no change in meaning, by",
+      "alternativas": {
+        "a": "undesired.",
+        "b": "unparalleled.",
+        "c": "unanticipated.",
+        "d": "unmanageable.",
+        "e": "unequivocal."
+      },
+      "resposta": "b",
+      "explicacao": "The word “unprecedented” means never seen before, without precedent — its synonym here is “unparalleled”. “Unanticipated” (not foreseen) is close but says something about expectation, not about there being no earlier case; “undesired”, “unmanageable” and “unequivocal” change the meaning entirely."
+    },
+    {
+      "id": "ingles-2200321",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fgv",
+      "texto_apoio": "China is taking hog biosecurity to new levels — 13 stories in fact.\n\nThat’s the height of a building in southern China where more than 10,000 pigs are kept in a condominium-style complex, complete with restricted access, security cameras, in-house veterinary services and carefully prepared meals.\n\nThe seemingly luxurious conditions represent a state-of-the-art approach to biosecurity in which pigs — the main source of meat in China — are shielded from viruses, including the devastating African swine fever that wiped out half the nation’s hogs in the two years before the coronavirus pandemic emerged.\n\nThe rise of large hog farms also reflects shifting diets in China. Whereas Beijing focused on fighting hunger and eliminating poverty in past decades, rapid economic development and expanding incomes mean China’s 1.4 billion people are eating more meat, eggs and other animal proteins. That’s driving more-intensive animal production.\n(www.bloomberg.com, 02.08.2021. Adapted.)",
+      "enunciado": "The text",
+      "alternativas": {
+        "a": "describes vertical pig farms built to guarantee better biosecurity.",
+        "b": "questions the luxury of buildings aimed at hosting animals rather than humans.",
+        "c": "enumerates actions by the Chinese government to shield animals from a variety of deadly diseases.",
+        "d": "details the biotechnology methods employed in animal raising in China.",
+        "e": "advertises measures by the Chinese government to provide the population with more animal proteins."
+      },
+      "resposta": "a",
+      "explicacao": "The text is mainly about a new kind of pig farm: it opens with “China is taking hog biosecurity to new levels — 13 stories in fact” and describes a 13-storey building where pigs are “shielded from viruses”: vertical pig farms built for biosecurity. It does not question the luxury (the “seemingly luxurious conditions” are explained, not criticised), lists no government actions, gives no biotechnology methods and advertises nothing — the last paragraph explains the demand side (more meat in Chinese diets), which is context, not the subject."
+    },
+    {
+      "id": "ingles-2200322",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "China is taking hog biosecurity to new levels — 13 stories in fact.\n\nThat’s the height of a building in southern China where more than 10,000 pigs are kept in a condominium-style complex, complete with restricted access, security cameras, in-house veterinary services and carefully prepared meals.\n\nThe seemingly luxurious conditions represent a state-of-the-art approach to biosecurity in which pigs — the main source of meat in China — are shielded from viruses, including the devastating African swine fever that wiped out half the nation’s hogs in the two years before the coronavirus pandemic emerged.\n\nThe rise of large hog farms also reflects shifting diets in China. Whereas Beijing focused on fighting hunger and eliminating poverty in past decades, rapid economic development and expanding incomes mean China’s 1.4 billion people are eating more meat, eggs and other animal proteins. That’s driving more-intensive animal production.\n(www.bloomberg.com, 02.08.2021. Adapted.)",
+      "enunciado": "In the last sentence of the text “«That’s» driving more-intensive animal production.”, the highlighted term refers to:",
+      "alternativas": {
+        "a": "Beijing’s huge hog farms.",
+        "b": "China’s population of 1.4 billion people.",
+        "c": "Beijing’s fight against hunger and poverty.",
+        "d": "Chinese people’s new dieting behavior.",
+        "e": "China’s need to feed their huge population."
+      },
+      "resposta": "d",
+      "explicacao": "The previous sentence says China’s 1.4 billion people “are eating more meat, eggs and other animal proteins”; the pronoun “that” refers to the new eating pattern, which is what drives more-intensive production. So the referent is the Chinese people’s new dieting behavior. The population size, the fight against hunger and the hog farms are all in the paragraph, but the demonstrative points to the immediately preceding statement, and the farms are the RESULT of the driving, not its cause."
+    },
+    {
+      "id": "ingles-2200323",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "China is taking hog biosecurity to new levels — 13 stories in fact.\n\nThat’s the height of a building in southern China where more than 10,000 pigs are kept in a condominium-style complex, complete with restricted access, security cameras, in-house veterinary services and carefully prepared meals.\n\nThe seemingly luxurious conditions represent a state-of-the-art approach to biosecurity in which pigs — the main source of meat in China — are shielded from viruses, including the devastating African swine fever that wiped out half the nation’s hogs in the two years before the coronavirus pandemic emerged.\n\nThe rise of large hog farms also reflects shifting diets in China. Whereas Beijing focused on fighting hunger and eliminating poverty in past decades, rapid economic development and expanding incomes mean China’s 1.4 billion people are eating more meat, eggs and other animal proteins. That’s driving more-intensive animal production.\n(www.bloomberg.com, 02.08.2021. Adapted.)",
+      "enunciado": "In the fragment from the fourth paragraph “Whereas Beijing focused on fighting hunger and eliminating poverty in past decades”, the term “whereas” can be replaced, with no change in meaning, by",
+      "alternativas": {
+        "a": "since.",
+        "b": "because.",
+        "c": "while.",
+        "d": "although.",
+        "e": "despite."
+      },
+      "resposta": "c",
+      "explicacao": "“Whereas Beijing focused on fighting hunger in past decades, rapid economic development … mean China’s 1.4 billion people are eating more meat”: the connector “whereas” sets two situations side by side in contrast — then versus now. “While” carries the same contrastive value. “Since” and “because” would turn the past focus into a cause; “although” expresses concession, and “despite” is a preposition, which cannot introduce a clause with a subject and a verb."
+    },
+    {
+      "id": "ingles-2200324",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "Notwithstanding the current turbulent socio-economic conditions in the country, Vice President Yemi Osinbajo has insisted that generating economic growth, developing human capital, and building Nigeria’s infrastructural backbone is doable. To achieve this, Osinbajo said all tiers of government and critical partners ought to be focused, open-minded and collaborative in meeting shared aspirations to provide better and decent jobs for Nigerians, especially the youths.\n(Terhemba Daka. www.guardian.ng, 06.08.2021. Adapted.)",
+      "enunciado": "The word which introduces the paragraph can be replaced, with no change in meaning, by",
+      "alternativas": {
+        "a": "in spite of.",
+        "b": "on account of.",
+        "c": "as a result of.",
+        "d": "in addition to.",
+        "e": "as an alternative to."
+      },
+      "resposta": "a",
+      "explicacao": "“Notwithstanding the current turbulent socio-economic conditions … Osinbajo has insisted that generating economic growth … is doable”: the vice-president says the goals are achievable DESPITE the conditions. The word “notwithstanding” means “despite”, so “in spite of” is the synonym that keeps that concessive value. “On account of” and “as a result of” would make the turbulence the reason for the optimism; “in addition to” and “as an alternative to” do not fit the logic of the sentence."
+    },
+    {
+      "id": "ingles-2200325",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "Notwithstanding the current turbulent socio-economic conditions in the country, Vice President Yemi Osinbajo has insisted that generating economic growth, developing human capital, and building Nigeria’s infrastructural backbone is doable. To achieve this, Osinbajo said all tiers of government and critical partners ought to be focused, open-minded and collaborative in meeting shared aspirations to provide better and decent jobs for Nigerians, especially the youths.\n(Terhemba Daka. www.guardian.ng, 06.08.2021. Adapted.)",
+      "enunciado": "In the fragment “all tiers of government and critical partners «ought to» be focused, open-minded and collaborative”, the highlighted terms carry the idea of",
+      "alternativas": {
+        "a": "obligation.",
+        "b": "preference.",
+        "c": "necessity.",
+        "d": "capacity.",
+        "e": "possibility."
+      },
+      "resposta": "c",
+      "explicacao": "The modal verb “ought to” expresses what is right or needed — “should”: to reach the goals, government and partners need to be focused and collaborative. That is necessity. It is weaker than the obligation of “must”, expresses no preference (“would rather”), no capacity (“can”) and no possibility (“may”)."
+    },
+    {
+      "id": "ingles-2200326",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "Online, Generation Z (ages 9-24) has been criticising numerous aspects of mainstream Millennial (ages 25-40) style, namely their affections for side-parted hair and skinny jeans. In the process they have unleashed a tidal wave of bold, self-conscious and downright spiteful reactions from Millennials. The trending dispute is so impassioned, not due to a lifelong allegiance to the particular jeans or hairstyle in question, but because the accusation of being outdated has forced Millennials to face an uncomfortable truth: there's been a transfer of generational power. (Cassidy George. www.bbc.com, 22.02.2021. Adapted.)",
+      "enunciado": "According to the text, Generation Z’s criticism of mainstream Millenials",
+      "alternativas": {
+        "a": "reveals the lack of affection of youngsters towards older people.",
+        "b": "has sparked an excessively aggressive dialogue between the two groups.",
+        "c": "has been seen as unjustifiable judgement of one group towards the other.",
+        "d": "did not come out as heated a dispute as one would have expected.",
+        "e": "reflects the growth of the social influence of the former."
+      },
+      "resposta": "e",
+      "explicacao": "The text states, in its last sentence, why the dispute is so impassioned: “the accusation of being outdated has forced Millennials to face an uncomfortable truth: there’s been a transfer of generational power”. Gen Z’s criticism thus reflects the growth of the social influence of the former — Generation Z. The reactions are “bold, self-conscious and downright spiteful”, so the dispute is heated, not milder than expected; the text does not speak of lack of affection, calls no judgement unjustifiable, and “excessively aggressive dialogue” overstates a description of reactions."
+    },
+    {
+      "id": "ingles-2200328",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "Apart from the impact on the environment, increasing use of air conditioning (AC) could have social and political effects. A new paper by researchers from the University of California, Berkeley and the University of Mannheim set out to understand the relationships between climate, income and residential air conditioning. Their model suggested that wider use of AC will save lives that would otherwise be taken by heartstroke or the exacerbation of other health conditions — 550,000 a year by 2050 in India alone — but it will disproportionately benefit those with higher incomes. Poorer people without AC are more likely to be less productive or to die than those who can afford it. Heat hinders learning and lowers test scores, causing poorer children to fall behind. And the use of AC itself contributes to global warming, making life even hotter for everyone.\n(www.economist.com, 10.08.2021. Adapted.)",
+      "enunciado": "According to the text,",
+      "alternativas": {
+        "a": "air-conditioning use should be limited to places with exceedingly high temperatures.",
+        "b": "wider use of AC has saved lives, so its use should be fostered in special circumstances and countries.",
+        "c": "poor productivity of adults at work and of children at school result, to a great extent, from long- -term heat exposure.",
+        "d": "air-conditioning use can contradictorily add to the problem it is trying to mitigate.",
+        "e": "environmental and social-political burdens of AC must be seen as equally worrisome."
+      },
+      "resposta": "d",
+      "explicacao": "The final sentence is the point: “the use of AC itself contributes to global warming, making life even hotter for everyone” — air-conditioning adds to the very problem it tries to relieve, a contradiction. The text does not recommend limiting AC to hot places, does not say AC “has saved” lives (the model projects it will), attributes lower productivity to heat in general rather than “long-term exposure”, and never ranks environmental and social-political burdens as equally worrisome."
+    },
+    {
+      "id": "ingles-2200329",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fgv",
+      "texto_apoio": "Apart from the impact on the environment, increasing use of air conditioning (AC) could have social and political effects. A new paper by researchers from the University of California, Berkeley and the University of Mannheim set out to understand the relationships between climate, income and residential air conditioning. Their model suggested that wider use of AC will save lives that would otherwise be taken by heartstroke or the exacerbation of other health conditions — 550,000 a year by 2050 in India alone — but it will disproportionately benefit those with higher incomes. Poorer people without AC are more likely to be less productive or to die than those who can afford it. Heat hinders learning and lowers test scores, causing poorer children to fall behind. And the use of AC itself contributes to global warming, making life even hotter for everyone.\n(www.economist.com, 10.08.2021. Adapted.)",
+      "enunciado": "The expression “Apart from”, on the first line of the text, introduces the idea of",
+      "alternativas": {
+        "a": "contrast.",
+        "b": "addition.",
+        "c": "alternative.",
+        "d": "cause.",
+        "e": "condition."
+      },
+      "resposta": "b",
+      "explicacao": "“Apart from the impact on the environment, increasing use of air conditioning could have social and political effects”: besides the environmental impact — already known — there are further effects. The preposition “apart from” works here as a connector meaning “in addition to”: addition. It is not contrast (the two impacts are added, not opposed), not alternative, cause or condition."
+    },
+    {
+      "id": "ingles-2200330",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "texto_apoio": "ABSTRACT. This study aimed to investigate the point of intersection of teachers’ and learners’ perceptions regarding language learning strategies. Using an original questionnaire developed in a classroom situation, the study examined reported frequency of strategy use by international students and teacher perceptions regarding the importance of strategy use. There was a high level of accord (71 per cent) between strategies which students reported using highly frequently and those which teachers reported regarding as highly important, an encouraging finding somewhat at variance with the results of some previous studies. Implications of these results for the teaching/learning situation are discussed. (Carol Griffiths. www.academic.oup.com. Adapted.)",
+      "enunciado": "The description on the final lines of the text “an encouraging finding somewhat at variance with the results of some previous studies” means that",
+      "alternativas": {
+        "a": "the findings were completely different from what the researchers had expected.",
+        "b": "the main research finding confirmed antecipations by the researcher.",
+        "c": "the study reached results which, to some extent, differed from those in former research.",
+        "d": "arriving at findings which confirmed results from prior studies was encouraging.",
+        "e": "finding variances was a somewhat simple but encouraging result of the research process."
+      },
+      "resposta": "c",
+      "explicacao": "The expression “somewhat at variance with” means partly different from: the 71 per cent agreement between students’ reported strategies and teachers’ perceptions differed, to some extent, from what previous studies had found — and that difference was described as encouraging. So the study reached results which, to some extent, differed from former research. “Completely different” overstates “somewhat”; the text says nothing about the researcher’s anticipations; and “confirmed results from prior studies” is the opposite of “at variance with”."
+    },
+    {
+      "id": "unicamp-ingles-01",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Manchete",
+        "arquivo": "assets/provas/unicamp-2026-q01.jpg",
+        "descricao": "Reprodução da manchete do Los Angeles Times com foto de Fernanda Torres segurando o Globo de Ouro: “‘I’m Still Here’ star Fernanda Torres pulls off Golden Globes’ biggest upset. The Brazilian performer won the female actor in a motion picture, drama category, besting bigger stars such as Angelina Jolie, Nicole Kidman and Pamela Anderson.”"
+      },
+      "texto_apoio": "Texto 1\n‘I’m Still Here’ star Fernanda Torres pulls off Golden Globes’ biggest upset\nThe Brazilian performer won the female actor in a motion picture, drama category, besting bigger stars such as Angelina Jolie, Nicole Kidman and Pamela Anderson.\n(Disponível em https://www.latimes.com/entertainment-arts/awards/story/2025-01-05/fernanda-torres-golden-globes-2025-im-still-here. Acesso em 22/05/2025.)\n\nTexto 2\nUPSET\n1. noun [C]\n− an outcome that goes against what was considered to be the most likely result.\n2. adjective\n− unhappy, worried, angry, or disappointed because something unpleasant has happened.\n(Adaptado de https://www.collinsdictionary.com/dictionary/english/upset. Acesso em 22/05/2025.)",
+      "enunciado": "Leia o texto 1 e as informações do texto 2.\n\nO texto 1 causou indignação nas redes sociais. Algumas pessoas comentaram: “Se eles estão upset, a gente tá happy!”. O mal-entendido se deve à polissemia, em inglês, da palavra \"upset\". É correto afirmar que, no texto 1, “upset” é usada com o sentido da",
+      "alternativas": {
+        "a": "primeira definição mostrada no texto 2 e, por isso, tem conotação sarcástica ao comparar as atrizes citadas",
+        "b": "segunda definição mostrada no texto 2 e, por isso, não assume conotação crítica",
+        "c": "primeira definição mostrada no texto 2 e, por isso, não desqualifica a vitória da atriz",
+        "d": "segunda definição mostrada no texto 2 e, por isso, estabelece uma hierarquia entre as atrizes citadas"
+      },
+      "explicacao": "Na manchete, “upset” é substantivo (“the biggest upset”): um resultado que contraria o favoritismo — a primeira definição do dicionário. A atriz brasileira venceu “bigger stars”, ou seja, a surpresa é elogiosa e não desqualifica a vitória; quem leu “upset” como adjetivo (“chateado”) criou o mal-entendido das redes. Não há sarcasmo na comparação: o texto apenas registra que as concorrentes eram mais famosas.",
+      "resposta": "c",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-ingles-02",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Fotogramas",
+        "arquivo": "assets/provas/unicamp-2026-q02.jpg",
+        "descricao": "Três fotogramas do filme “Ainda Estou Aqui”, rotulados Quadro A, Quadro B e Quadro C. Quadro A: close-up do rosto de Eunice (Fernanda Torres) olhando para fora do quadro. Quadro B: sala da casa com uma pessoa fechando as cortinas ao fundo, Eunice em primeiro plano e uma jovem à direita. Quadro C: o casal se beija no interior da casa, visto por trás dos ombros de um militar."
+      },
+      "texto_apoio": "30 minutes into the film, before any of these scenes, everything in the movie conveys a sense of normalcy. From this point onward, though, this frame revolves around subtraction: of light, as the drapes are shut, of sounds from the outside, of music. In this other one, we see the last intimacy moment between the couple, framed by the military officers, emphasizing a sense of suffocation in what was once a safe place: the family house. Then, we see the first of the only two close-ups in the entire film. We saved it for Eunice’s last glance at Rubens. From here on, we are with her. “I'm Still Here” becomes her film.",
+      "fonte_texto": "Imagens e texto adaptados de https://www.youtube.com/watch?v=mtXCWXkgCFg. Acesso em 01/05/2025.",
+      "enunciado": "Em um vídeo publicado no canal do Youtube do The New York Times, o diretor de “Ainda Estou Aqui” descreve cenas do filme. Apresenta-se, acima, a transcrição da fala do diretor. Observe os três quadros extraídos do filme.\n\nAssinale a alternativa que apresenta os quadros na ordem em que foram descritos no texto.",
+      "alternativas": {
+        "a": "Quadro A, Quadro C, Quadro B",
+        "b": "Quadro B, Quadro C, Quadro A",
+        "c": "Quadro C, Quadro B, Quadro A",
+        "d": "Quadro B, Quadro A, Quadro C"
+      },
+      "explicacao": "O diretor descreve primeiro a subtração de luz “as the drapes are shut” — a cena das cortinas sendo fechadas, Quadro B. Depois, “the last intimacy moment between the couple, framed by the military officers” — o beijo do casal visto por trás do militar, Quadro C. Por fim, o primeiro dos dois únicos close-ups do filme, “Eunice’s last glance at Rubens” — o rosto em primeiro plano, Quadro A. A ordem é B, C, A.",
+      "resposta": "b",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-ingles-03",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Tirinha",
+        "arquivo": "assets/provas/unicamp-2026-q03.jpg",
+        "descricao": "Tirinha em três quadros passada na Wall St. Um homem à esquerda reclama “NOT FAIR! NO ONE IS GIVING ME MONEY!” diante de um pedinte com a placa “HELP THE NEEDY”; outro responde “THAT’S BECAUSE YOU’VE GOT THE WRONG PARADIGM...”; no último quadro, uma barraca de “COIN TOSS GAME” lotada de moedas com a fala “...IN THIS PLACE MONEY IS FOR PLAYING GAMES.”"
+      },
+      "fonte_texto": "Adaptado de https://toonut.com. Acesso em 15/05/2025.",
+      "enunciado": "Leia a tirinha acima.\n\nA tirinha, em seu sentido geral, faz uma crítica à",
+      "alternativas": {
+        "a": "injustiça de um personagem receber menos moedas do que o outro, na Wall St.",
+        "b": "diferença de status financeiro entre as pessoas que transitam pela Wall St.",
+        "c": "atitude das pessoas que circulam na Wall St. para as quais lidar com dinheiro é um jogo",
+        "d": "postura das pessoas que circulam na Wall St. que ignoram problemas e necessidades sociais"
+      },
+      "explicacao": "O pedinte com a placa “HELP THE NEEDY” não recebe nada, enquanto a barraca do “COIN TOSS GAME” transborda de moedas: “in this place money is for playing games”. A crítica é ao público de Wall St., que gasta com jogo e ignora quem precisa — a necessidade social passa em branco. Não se trata de comparar dois pedintes nem de status financeiro entre transeuntes; e a alternativa sobre “lidar com dinheiro é um jogo” descreve o mecanismo da piada, não o alvo da crítica, que é a indiferença.",
+      "resposta": "c",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-ingles-04",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "texto_apoio": "U.S. Inflation Mild Ahead of Expected Jump From Tariffs\nEconomists and policymakers are bracing for inflation to reaccelerate as companies adapt to the trade war.",
+      "fonte_texto": "Adaptado de https://www.nytimes.com/2025/05/13/business/inflation-prices-tariffs.html. Acesso em 15/05/2025.",
+      "enunciado": "Segundo o texto,",
+      "alternativas": {
+        "a": "o governo dos EUA está se preparando para um salto na inflação diante da guerra comercial de tarifas",
+        "b": "a inflação nos EUA se mantém moderada, mas economistas e legisladores estão se preparando diante da expectativa de alta das tarifas",
+        "c": "a inflação nos EUA deve se manter moderada, pois as empresas estão se adaptando ao aumento das tarifas",
+        "d": "as empresas dos EUA estão se adaptando à aceleração da inflação diante da guerra de tarifas estabelecida pelo governo"
+      },
+      "explicacao": "A manchete diz que a inflação está “mild” (moderada) “ahead of expected jump from tariffs”, e o subtítulo completa: economistas e formuladores de política (“policymakers”) “are bracing for inflation to reaccelerate” conforme as empresas se adaptam à guerra comercial. Ou seja: hoje moderada, com expectativa de alta ligada às tarifas. Quem se prepara não é “o governo”, e a adaptação das empresas é à guerra tarifária, não causa de moderação nem reação a uma aceleração já ocorrida.",
+      "resposta": "b",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-ingles-05",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Obra de arte",
+        "arquivo": "assets/provas/unicamp-2026-q05.jpg",
+        "descricao": "Duas telas de Glenn Ligon (texto 2): frases em letras de fôrma pretas estampadas com estêncil sobre fundo branco, repetidas linha após linha — “I DO NOT ALWAYS FEEL COLORED” à esquerda e “I FEEL MOST COLORED WHEN I AM THROWN AGAINST A SHARP WHITE BACKGROUND” à direita — que vão se borrando e ficando ilegíveis conforme descem pela tela."
+      },
+      "texto_apoio": "Texto 1\n“I do not always feel colored (…). I feel most colored when I am thrown against a sharp white background.”\n(Adaptado de HURSTON, Z. N. How it feels to be colored me. 1928.)\n\nTexto 2\n[obra de Glenn Ligon reproduzida acima]\n(Disponível em https://whitney.org/artists/3425. Acesso em 29/04/2025.)\n\nTexto 3\nThe artist Glenn Ligon has stenciled the sentences over and over until the words dissolve into abstract patterns. He built on a text by Zora Neale Hurston, who describes leaving the protective black community of her childhood and suddenly confronting the issue of race. The smearing in the painting’s illegible words embody her confusion about this, something Ligon builds on: “Oil paint wants to spread out and smudge. After trying to make perfect letters, I realized that the smudging and disappearance of the letters was more interesting than trying to make perfect letters.”\n(Adaptado de https://whitney.org/media/720. Acesso em 29/04/2025.)",
+      "enunciado": "Apresenta-se uma citação (texto 1) que originou uma obra de arte (texto 2). Há também um parágrafo (texto 3) que descreve e explica essa obra.\n\nDe acordo com o texto 3, é correto afirmar que",
+      "alternativas": {
+        "a": "a ilegibilidade em parte das imagens é intencional, pois reforça a invisibilização da identidade negra em contextos brancos, como sugere a autora do texto 1",
+        "b": "os efeitos da tinta usada por Glenn Ligon aludem à confusão desse artista quanto à sua própria identidade racial, semelhante ao que relata a autora do texto 1",
+        "c": "a repetição de frases nas imagens é proposital, pois representa a recusa de algumas pessoas em se verem como negras, como sugere a autora do texto 1",
+        "d": "os borrões em parte das imagens são um efeito da técnica usada por Glenn Ligon e aludem às vivências raciais da autora do texto 1"
+      },
+      "explicacao": "O texto 3 diz que os borrões (“smearing”, “smudging”) nascem da técnica — a tinta a óleo “wants to spread out and smudge”, e Ligon percebeu que isso era mais interessante que letras perfeitas — e que as palavras ilegíveis “embody HER confusion”, isto é, a confusão de Zora Neale Hurston ao confrontar a questão racial fora da comunidade negra da infância. A confusão é da autora, não do artista; e o texto não fala em invisibilização nem em recusa de identidade.",
+      "resposta": "d",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-ingles-06",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "texto_apoio": "Incels: Masculinity in the Transition to Adulthood\n\nIncels are men who are members of an online community that experiences an unmet desire for sex and blame women for their struggle. Since 2019 there have been several mass murder attacks committed by Incels motivated by Incel ideology creating a threat of future violence. While the vast majority of Incels do not commit such attacks, researchers have begun to study Incels to prevent violence and uncover the true nature of this community. The study of Incels is incipient; therefore, more knowledge about interventions to address the struggles of involuntary celibacy is needed. This paper emphasizes the masculinity strain experienced by Incels who attempt to perform hegemonic masculinity as part of the transition to adulthood but fall short because of their lack of sexual activity. This work proposes the creation and implementation of Incel-specific, online therapeutic interventions and continued research directly with the Incel community to uncover the complexities of Incel experiences.",
+      "fonte_texto": "Adaptado de https://link.springer.com/article/10.1007/s12119-024-10201-7. Acesso em 16/05/2025.",
+      "enunciado": "Leia o resumo de um artigo científico.\n\nDe acordo com o resumo, é correto afirmar que",
+      "alternativas": {
+        "a": "“Incel” é uma comunidade majoritariamente constituída por homens que culpam mulheres por questionarem sua masculinidade",
+        "b": "as pesquisas sobre a comunidade “Incel” ainda são escassas, por isso há a necessidade de mais estudos que definam teoricamente a abstinência sexual",
+        "c": "homens “Incel”, muitas vezes, tentam exercer uma masculinidade dominante que resulta em expectativas frustradas devido à inatividade sexual",
+        "d": "a pesquisa propõe práticas terapêuticas que integrem homens “Incel” a outros grupos sociais para melhor compreender as complexidades da masculinidade"
+      },
+      "explicacao": "O resumo destaca a “masculinity strain” de incels que “attempt to perform hegemonic masculinity ... but fall short because of their lack of sexual activity” — tentam a masculinidade dominante e fracassam pela falta de atividade sexual. Eles culpam as mulheres pela própria frustração sexual, não por questionarem sua masculinidade; a lacuna apontada é de intervenções, não de definição teórica da abstinência; e as intervenções propostas são on-line e específicas para incels, não de integração a outros grupos.",
+      "resposta": "c",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-ingles-07",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "texto_apoio": "Dear Members of the Harvard Community,\n\nFor years, the federal government’s grants to Harvard have helped lead to groundbreaking innovations. Recently, the federal government has threatened its partnerships over accusations of antisemitism on our campuses. A list of demands was issued, warning that Harvard must comply if we intend to “maintain our financial relationship with the government.” Most of these demands are unprecedented and represent direct governmental regulation of the “intellectual conditions” at Harvard.\n\nThey include requirements to audit the viewpoints of our students and faculty, and to “reduce their power” for their ideological views. We will not accept that. The University will not surrender its independence or relinquish its constitutional rights. No government should dictate what universities can teach and which areas of inquiry they can pursue.\n\nWe do not take our moral duties lightly and we have taken many steps to address and fight antisemitism on campus. However, this will not be achieved by assertions of power, unmoored from the law, to dictate how we operate.\n\nSincerely,\nAlan M. Garber\n(President of Harvard University)",
+      "fonte_texto": "Adaptado de https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/. Acesso em 07/05/2025.",
+      "enunciado": "Leia a carta acima.\n\nAssinale a alternativa correta em relação ao posicionamento do presidente de Harvard em sua carta.",
+      "alternativas": {
+        "a": "As acusações de antissemitismo feitas à universidade são inconstitucionais, por isso Garber se recusa a aceitar as demandas propostas pelo governo",
+        "b": "As comparações entre as ideologias de professores e de alunos são sem precedentes, por isso Garber se nega a abrir mão da liberdade de expressão da comunidade",
+        "c": "As justificativas do governo para interromper o financiamento são falhas, por isso Garber se nega a tomar medidas para resolver os problemas apontados",
+        "d": "As demandas do governo são uma tentativa de controle da autonomia das universidades, por isso Garber se recusa a acatar as exigências impostas"
+      },
+      "explicacao": "Garber chama as demandas de “direct governmental regulation of the intellectual conditions at Harvard” e conclui: “No government should dictate what universities can teach” — a universidade “will not surrender its independence”. É a defesa da autonomia universitária contra o controle do governo. Ele não diz que as acusações são inconstitucionais (o que é constitucional são os direitos da universidade), não fala em comparar ideologias e afirma explicitamente que já tomou medidas contra o antissemitismo.",
+      "resposta": "d",
+      "origem": "medicina"
+    },
+    {
+      "id": "ita-2026-q38",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Texto-base (primeiro parágrafo):\nThe voluminous literature dealing with the idea of human progress is decidedly a mixed bag. While some of these writings are impressive and even inspiring, many of them are superficial, perhaps even ridiculous, in their reiteration (especially during the nineteenth century) of the comforting prospect that every day in every way we are growing better and better.\n(VAN DOREN, Charles. A History of Knowledge. Past, Present and Future. New York: The Random House Publishing Group, 1991, p. XV-XVI.)\n\nOs termos abaixo, retirados do primeiro parágrafo, exercem no texto as funções indicadas após a seta, EXCETO em",
+      "alternativas": {
+        "a": "dealing → função adjetiva.",
+        "b": "writings → função substantiva.",
+        "c": "during → função adjetiva.",
+        "d": "comforting → função adjetiva.",
+        "e": "growing → função verbal."
+      },
+      "resposta": "c",
+      "explicacao": "During é preposição no sintagma 'during the nineteenth century', não adjetivo. Dealing e comforting participam de grupos adjetivais, writings é substantivo e growing integra a locução verbal 'are growing'. In English grammar, during is a preposition; that is the grammatically correct classification of its grammatical structure."
+    },
+    {
+      "id": "ita-2026-q44",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Referring to the establishment of a national youth mental health crisis, U.S. Surgeon General Vivek Murthy stated: “I am concerned that social media is an important driver of that crisis, one that we must urgently address”. In this sentence, the modal verb MUST indicates",
+      "alternativas": {
+        "a": "a possibility that addressing the crisis may happen.",
+        "b": "a necessity to act regarding the crisis.",
+        "c": "an ability to address the matter at any time.",
+        "d": "a recommendation to act regarding the matter.",
+        "e": "a request for people to recognize the relevance of the matter."
+      },
+      "resposta": "b",
+      "explicacao": "Must expresses strong obligation or necessity. Here it marks the urgent need to address the crisis, not mere possibility, ability, recommendation or request. In English grammar, must is a modal verb of obligation."
+    },
+    {
+      "id": "ita-2026-q45",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Ao transpor “Seventy-two percent of high school teachers cite cellphones as a major distraction in the classroom” para a voz passiva, a construção correta é",
+      "alternativas": {
+        "a": "Seventy-two percent of high school teachers are cited cellphones as a major distraction in the classroom.",
+        "b": "Cellphones are cited as a major distraction in the classroom by seventy-two percent of high school teachers.",
+        "c": "Cellphones are cited as seventy-two percent of a major distraction by high school teachers.",
+        "d": "Seventy-two percent of high school teachers were cited cellphones as a major distraction in the classroom.",
+        "e": "Cellphones cites by seventy-two percent of high school teachers as a major distraction in the classroom."
+      },
+      "resposta": "b",
+      "explicacao": "O objeto cellphones torna-se sujeito, mantém-se o presente com are cited e o agente aparece após by. Isso produz exatamente a alternativa B."
+    },
+    {
+      "id": "ita-2026-q48",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Observe the following sentence: “The goal is to give society time to adapt to what the signatories describe as an ‘AI summer’, which they believe will ultimately benefit humanity, as long as the right guardrails are put in place.” Choose the alternative that can be considered the CORRECT past version of the sentence above.",
+      "alternativas": {
+        "a": "The goal was to give society time to adapt to what the signatories described as an ‘AI summer’, which they believe was ultimately benefit humanity, as long as the right guardrails were put in place.",
+        "b": "The goal was to give society time to adapt to what the signatories had described as an ‘AI summer’, which they believe would ultimately benefit humanity, as long as the right guardrails were put in place.",
+        "c": "The goal was to give society time to adapt to what the signatories described as an ‘AI summer’, which they believed would ultimately benefit humanity, as long as the right guardrails were put in place.",
+        "d": "The goal would be to give society time to adapt to what the signatories describe as an ‘AI summer’, which they believe had ultimately benefited humanity, as long as the right guardrails were put in place.",
+        "e": "The goal would be to give society time to adapt to what the signatories had described as an ‘AI summer’, which they believe would ultimately benefit humanity, as long as the right guardrails were put in place."
+      },
+      "resposta": "c",
+      "explicacao": "A transposição coerente leva is→was, describe→described, believe→believed, will→would e are put→were put. Somente a alternativa C aplica toda essa sequência sem criar forma verbal agramatical. The verb tense sequence follows reported speech and past-time agreement."
+    },
+    {
+      "id": "ita-2026-q39",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Na passagem “Here, it is possible to argue cogently that progress is in the nature of things.”, a palavra COGENTLY pode ser melhor traduzida por",
+      "alternativas": {
+        "a": "urgentemente.",
+        "b": "indiscutivelmente.",
+        "c": "persuasivamente.",
+        "d": "indubitavelmente.",
+        "e": "concomitantemente."
+      },
+      "resposta": "c",
+      "explicacao": "Cogently significa de modo claro, lógico e convincente; entre as opções, 'persuasivamente' preserva esse sentido."
+    },
+    {
+      "id": "ita-2026-q41",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Check the alternative that best rephrases the following sentence, without altering its meaning: “Speaking of all-time great books, it seems like just about every bestseller has been turned into a movie that either gives the book a bad rap or receives great reviews and overshadows the book.”",
+      "alternativas": {
+        "a": "Speaking of classic books, it appears that nearly every bestseller has been adapted into a movie that either tarnishes the book’s image or receives rave reviews and outshines the book.",
+        "b": "Speaking of iconic books, it seems that almost every bestseller has been turned into a movie that either improves the book’s reputation or gets stellar reviews and eclipses the book.",
+        "c": "Speaking of substandard books, it seems that nearly every bestseller has been made into a movie that either harms the book’s reputation or earns enthusiastic reviews and surpasses the book.",
+        "d": "Speaking of timeless books, it appears that virtually every bestseller has been transformed into a movie that either damages the book’s image or gets annoying reviews and brightens the book.",
+        "e": "Speaking of legendary books, it seems that just about every bestseller has been converted into a film that either spoils the book’s reputation or gets glowing reviews and praises the book."
+      },
+      "resposta": "a",
+      "explicacao": "A alternativa A conserva todas as equivalências: all-time great/classic, just about/nearly, turned into/adapted, bad rap/tarnishes the image, great/rave reviews e overshadows/outshines. As demais alteram ao menos uma relação de sentido. This is the closest in meaning because every key expression is preserved."
+    },
+    {
+      "id": "ita-2026-q43",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Na passagem “Fellow teachers nationwide face the same challenge, which explains why more states and districts are moving to limit or outright ban cellphones in the classroom”, a palavra OUTRIGHT pode ser substituída, sem prejuízo de sentido, por",
+      "alternativas": {
+        "a": "partial.",
+        "b": "legal.",
+        "c": "thorough.",
+        "d": "confined.",
+        "e": "illicit."
+      },
+      "resposta": "c",
+      "explicacao": "Outright qualifica uma proibição completa, total. Thorough é a única opção com esse valor de abrangência; partial e confined o contradizem, e legal/illicit tratam de legalidade."
     }
   ]
 }

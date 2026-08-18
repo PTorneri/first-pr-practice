@@ -72,7 +72,9 @@ const SUBTEMAS = {
       // "lançamento" ou "ao acaso", cobertos pelas regras acima.
       [/\bdado\b|lan[çc]amento de .{0,12}dados|moeda|baralho|urna|bolas?\b|fichas?\b/i, 2],
       [/casos favor[áa]veis|espa[çc]o amostral|independentes/i, 3],
-      [/senha|placa|c[óo]digo de acesso|formad[oa]s? por \d+ (letras|algarismos)/i, 4],
+      // `\bsenha`: sem a borda, "senha" casava dentro de "desenhadas" e mandava
+      // uma questão de geometria da Unicamp para probabilidade.
+      [/\bsenha|placa|c[óo]digo de acesso|formad[oa]s? por \d+ (letras|algarismos)/i, 4],
       [/preval[êe]ncia|sensibilidade|especificidade|valor preditivo|falso positivo/i, 5],
       [/conjunto[s]? .*(ambos|nenhum|apenas)|diagrama de venn|inclus[ãa]o e exclus[ãa]o|assistem a ambos|leram (o|os) livro/i, 3],
     ] },
@@ -218,7 +220,8 @@ const SUBTEMAS = {
       [/mistura .*solu[çc]|misturar .*volumes/i, 3],
     ] },
     { id: "quimica-equilibrio-acido-base", nome: "Equilíbrio, Ácidos e Bases", regras: [
-      [/equil[íi]brio (qu[íi]mico|i[ôo]nico)|constante de equil|\bKc\b|\bKp\b|le chatelier|deslocamento do equil/i, 5],
+      // `K_?c`: o ITA escreve a constante como K_c, e "\bKc\b" não a via.
+      [/equil[íi]brio (qu[íi]mico|i[ôo]nico)|constante de equil|\bK_?c\b|\bK_?p\b|le chatelier|deslocamento do equil/i, 5],
       // "base" precisa de contexto: sozinho casava "com base nesses dados", que
       // abre metade dos enunciados do banco.
       [/[áa]cido|\bbases? (forte|fraca|conjugada|de bronsted|de arrhenius)|\b(uma|a) base\b|car[áa]ter b[áa]sico|\bpH\b|\bpOH\b|neutraliza[çc][ãa]o|hidr[óo]lise|tamp[ãa]o/i, 5],
@@ -2073,6 +2076,68 @@ const REVISADAS = {
   // questao caiu em atomistica pelo vocabulario de temperatura e pressao.
   // Estequiometria e onde as leis dos gases ja moram no banco.
   "fgv-quimica-12": "quimica-estequiometria",
+
+  // UNICAMP 2026, 1ª fase (caderno Q/X) -- 18 pinos em 48 (38%), a taxa
+  // esperada de uma prova que mistura leitura com conteudo. Dois tipos:
+  //
+  // (a) ZERO ponto em todos os subtemas -- questao de leitura/habilidade,
+  // sem marca lexical, que na classificacao completa cairia no `padrao` da
+  // frente (Q2, Q3 ingles; Q24 filo/socio; Q32 historia; Q54, Q55, Q57
+  // interpretacao/gramatica; Q66 quimica).
+  "unicamp-ingles-02": "ingles-detail",
+  "unicamp-ingles-03": "ingles-inference",
+  "unicamp-filosofia-sociologia-03": "sociologia-cultura-identidade",
+  "unicamp-historia-05": "historia-geral-contemporanea",
+  "unicamp-interpretacao-texto-01": "interpretacao-inferencia",
+  "unicamp-interpretacao-texto-02": "interpretacao-inferencia",
+  "unicamp-gramatica-01": "gramatica-sintaxe-periodo",
+  "unicamp-quimica-01": "quimica-atomistica-ligacoes",
+  //
+  // (b) a regra rival vence por palavra do TEXTO DA BANCA, que nao se
+  // reescreve: "most likely" no dicionario (Q1 -> inference, empate 5x5),
+  // "therefore"/"However" (Q6, Q7 -> grammar-structure), Q27 (-> conhecimento-
+  // logica), "ex-colonias" (Q34 -> colonia-imperio), "introducao de palavras"
+  // (Q56 -> estrutura-coesao), "humor" (Q58 -> recursos-linguagem, empate 5x5),
+  // "enredo" (Q64 -> teoria-analise), "desenhadas" (Q47 -> probabilidade, pelo
+  // `senha` sem `\b` -- a regra foi corrigida junto, o pino fica por garantia).
+  "unicamp-ingles-01": "ingles-vocabulary",
+  "unicamp-ingles-06": "ingles-detail",
+  "unicamp-ingles-07": "ingles-main-idea",
+  "unicamp-filosofia-sociologia-06": "filosofia-etica-moral",
+  "unicamp-historia-07": "historia-geral-contemporanea",
+  "unicamp-interpretacao-texto-03": "interpretacao-inferencia",
+  "unicamp-interpretacao-texto-04": "interpretacao-genero-discurso",
+  "unicamp-literatura-05": "literatura-realismo-naturalismo",
+  "unicamp-matematica-02": "matematica-geometria",
+  // Q72, litio do espodumenio: comparacao de processo (energia e consumo de
+  // carbonato). "precipitar o Li2CO3" na explicacao puxava solucoes (+4) e o
+  // alvo ficava em zero -- o pino que faltava na anotacao do extrator.
+  "unicamp-quimica-05": "quimica-estequiometria",
+  //
+  // (c) resíduo e empates. Q70 (processo Solvay) nao pontua em regra nenhuma
+  // e cairia no padrao da frente; Q19, Q31, Q60 empatam em zero de margem com
+  // o rival e so a ordem da tabela as segurava no alvo. Q41, Q62 e Q63 vencem
+  // por 1 ponto -- pinadas por recomendacao do extrator, que leu o caderno.
+  "unicamp-quimica-04": "quimica-estequiometria",
+  "unicamp-geografia-04": "geografia-geopolitica",
+  "unicamp-historia-04": "historia-brasil-republica",
+  "unicamp-literatura-01": "literatura-modernismo",
+  "unicamp-biologia-05": "biologia-evolucao",
+  "unicamp-literatura-03": "literatura-contemporanea",
+  "unicamp-literatura-04": "literatura-contemporanea",
+
+  // FGV/EESP 2022.1, 1ª fase (cadernos 001-004): 1 pino em 78. A corrente do
+  // Golfo e o clima da Europa atlantica empatava com cartografia por
+  // "longitude"/"altimetria" nos distratores -- texto da banca, nao se mexe.
+  "geografia-220029": "geografia-fisica-clima",
+
+  // ITA 2023 e 2026: 2 pinos em 58. A q56 de 2023 e equilibrio quimico puro
+  // (K_c = 16, concentracao no equilibrio) -- o lote a apontava para
+  // estequiometria, que empatava com solucoes; o subtema certo e o de
+  // equilibrio, e a regra passou a ler "K_c" junto. A q19 de 2026 (Carnot,
+  // ar-condicionado) empatava termologia com eletromagnetismo pelo kWh.
+  "ita-2023-q56": "quimica-equilibrio-acido-base",
+  "ita-2026-q19": "fisica-termologia",
 
 };
 

@@ -9430,6 +9430,788 @@
       },
       "resposta": "a",
       "explicacao": "O preço equilíbrio é a razão entre custo e produção por hectare: 4.300/99 ≈ R$ 43,43 por saca — é o valor em que a venda apenas cobre o custo. Para lucrar 40% sobre ele, o preço de venda precisa ser 43,43 × 1,4 ≈ R$ 60,81, alternativa A. As demais correspondem a margens diferentes da pedida: aplicar 40% sobre outro valor, ou somar o lucro depois de arredondar o preço equilíbrio, produz os R$ 63,20, R$ 65,45, R$ 67,31 e R$ 68,21 — todos acima do mínimo que a questão procura."
+    },
+    {
+      "id": "matematica-220011",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Julia e Lucas estão em frente ao seu quarto de hotel, que é o quarto número 1 em um longo corredor cujos números dos quartos seguem a ordem dos números inteiros positivos. Julia começou a correr pelo corredor seguida de Lucas, de maneira que a cada 5 quartos pelos quais ela passava, Lucas passava por 3 quartos. Quando Julia chegou ao último quarto do corredor, imediatamente deu meia volta e voltou pelo corredor com a mesma velocidade. Em dado momento Lucas, que também sempre manteve a mesma velocidade, encontrou-se com Julia em frente ao quarto de número 196. O número total de quartos desse corredor, sabendo que é um número terminado em 1 ou 6, é",
+      "alternativas": {
+        "a": "216.",
+        "b": "261.",
+        "c": "281.",
+        "d": "286.",
+        "e": "291."
+      },
+      "resposta": "b",
+      "explicacao": "Seja N o número de quartos. Julia foi do quarto 1 ao N e voltou até o 196: percorreu (N − 1) + (N − 196) = 2N − 197 quartos. Lucas foi do 1 ao 196: 195 quartos. As velocidades estão na razão 5:3, e o tempo é o mesmo, então (2N − 197)/195 = 5/3 → 6N − 591 = 975 → N = 261, que termina em 1, como o enunciado exige. 216, 281, 286 e 291 não satisfazem a proporção: com 281, por exemplo, Julia teria percorrido 365 quartos contra 195 de Lucas, razão 1,87, e não 5/3."
+    },
+    {
+      "id": "matematica-220012",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fgv",
+      "enunciado": "Considere um número complexo z = a + bi e seu conjugado z̄. Ao desenharmos, no plano complexo, todos os afixos dos complexos z, tais que z + z̄ = 2π², obteremos",
+      "alternativas": {
+        "a": "uma reta vertical paralela ao eixo imaginário.",
+        "b": "uma reta horizontal paralela ao eixo real.",
+        "c": "um quadrado, em que um de seus vértices é (π, – π).",
+        "d": "uma circunferência de raio π e todos os pontos do seu interior.",
+        "e": "apenas os pontos de uma circunferência de raio 2π."
+      },
+      "resposta": "a",
+      "explicacao": "O conjugado de z troca o sinal da parte imaginária, então a soma de um complexo com seu conjugado elimina a unidade imaginária: (a + bi) + (a − bi) = 2a. A condição vira 2a = 2π², ou seja, a = π², sem restrição sobre b. No plano, parte real fixa e parte imaginária livre é uma reta vertical, paralela ao eixo imaginário. Não há módulo na condição, então não aparece circunferência nem disco; e reta horizontal seria b fixo, o que exigiria z − z̄."
+    },
+    {
+      "id": "matematica-220014",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Considere o polinômio P(x) = x³ – 10x² + 14x + d, em que d é uma constante real. Se a soma de duas das raízes desse polinômio é igual a 8, o valor da constante d é",
+      "alternativas": {
+        "a": "– 4.",
+        "b": "–2.",
+        "c": "2.",
+        "d": "4.",
+        "e": "6."
+      },
+      "resposta": "d",
+      "explicacao": "Pelas relações de Girard, a soma das três raízes é 10 (o oposto do coeficiente de x²). Se duas somam 8, a terceira é 2, e 2 é raiz: P(2) = 8 − 40 + 28 + d = 0 → d = 4. Testar os outros valores confirma: com d = −4, por exemplo, P(2) = −8, e 2 não seria raiz — nenhuma dupla de raízes somaria 8."
+    },
+    {
+      "id": "matematica-220015",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "enunciado": "Um garoto brinca com um conjunto de 7 blocos que podem ser inseridos em 3 hastes distintos. Os blocos e as hastes possuem, dois a dois, cores distintas. Na brincadeira o garoto pode colocar os blocos em uma ou mais hastes e a ordem dos blocos nas hastes e a cor da haste em que cada bloco foi colocado diferencia cada montagem feita. O número de montagens distintas que esse garoto poderá fazer usando os 7 blocos é",
+      "alternativas": {
+        "a": "30 240.",
+        "b": "105 840.",
+        "c": "181 440.",
+        "d": "211 680.",
+        "e": "236 880."
+      },
+      "resposta": "c",
+      "explicacao": "Coloque os blocos um a um. O primeiro escolhe uma das 3 hastes (3 modos). O segundo pode ir para qualquer haste, e na haste onde já há um bloco pode ficar em cima ou embaixo dele: são 4 posições. O terceiro tem 5, e assim por diante — cada bloco já colocado abre uma posição a mais. É uma contagem de \"de quantos modos\": 3·4·5·6·7·8·9 = 181 440, o mesmo que 9!/2! — uma permutação de 9 objetos com 2 repetidos. Os 30 240 (= 10·9·8·7·6) e os demais valores vêm de contagens que ignoram a ordem dentro da haste ou a possibilidade de haste vazia."
+    },
+    {
+      "id": "matematica-220016",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Duas filas, uma de meninos e uma de meninas, são formadas para a entrada em um brinquedo. Entram nesse brinquedo 10 crianças por vez e um sorteio decide de qual fila entrará a criança, com 50% de chances para a fila de meninos e 50% de chances para a fila de meninas. Estando o brinquedo vazio, Ana, Joana e Mariana, que eram as primeiras da fila das meninas, foram as três primeiras sorteadas para entrar. Após o brinquedo atingir sua capacidade máxima, a probabilidade de estar com mais meninos do que meninas é",
+      "alternativas": {
+        "a": "1/7",
+        "b": "2/7",
+        "c": "2/21",
+        "d": "1/8",
+        "e": "1/16"
+      },
+      "resposta": "e",
+      "explicacao": "Três meninas já entraram; faltam 7 vagas, cada uma decidida por um sorteio equiprovável. Para haver mais meninos do que meninas entre as 10, são necessários pelo menos 6 meninos nas 7 vagas restantes: 6 ou 7 meninos. Casos favoráveis: C(7,6) + C(7,7) = 7 + 1 = 8, em 2⁷ = 128 sequências possíveis. Probabilidade 8/128 = 1/16. Quem exige \"5 meninos ou mais\" ou esquece as três meninas já dentro chega às outras frações."
+    },
+    {
+      "id": "matematica-220017",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "enunciado": "Em um trecho retilíneo de uma rua há 14 vagas, lado a lado, demarcadas para o estacionamento de carros. Os carros entram e saem aleatoriamente dessas vagas e em um dado momento havia 9 carros estacionados. A probabilidade, nesse momento, de não haver vagas vazias lado a lado é de",
+      "alternativas": {
+        "a": "1/24",
+        "b": "5/24",
+        "c": "3/40",
+        "d": "9/125",
+        "e": "18/143"
+      },
+      "resposta": "e",
+      "explicacao": "Há 14 vagas e 5 vazias. Total de configurações: C(14,5) = 2002. Para nenhuma vaga vazia ficar ao lado de outra, escolhem-se 5 posições não adjacentes entre 14: coloque os 9 carros em fila, formando 10 \"espaços\" (antes, entre e depois deles), e escolha 5 desses espaços para as vagas vazias — C(10,5) = 252. Probabilidade: 252/2002 = 18/143. As outras frações não saem dessa contagem; 5/24 e 1/24, por exemplo, tratariam o problema com denominador 24, que não é número de configurações de 5 vagas em 14."
+    },
+    {
+      "id": "matematica-220018",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Considere uma matriz quadrada A de ordem n e um polinômio p(x) de grau m. Um polinômio matricial em A é a matriz p(A) de ordem n definida por:\np(A) = a₀·Iₙ + a₁·A + a₂·A² + … + aₘ·Aᵐ,\nem que Iₙ é a matriz identidade de ordem n e aᵢ, com 0 ≤ i ≤ m, o coeficiente do termo de grau i do polinômio. De maneira resumida p(A) é a matriz obtida ao substituir, no polinômio, x pela matriz A e a₀ pela matriz a₀·Iₙ. Dado o polinômio p(x) = 3x² – x + 2 e a matriz A = [[1, 0], [–1, 2]], o polinômio matricial em A é",
+      "alternativas": {
+        "a": "[[2, 0], [2, 4]]",
+        "b": "[[0, 0], [0, 0]]",
+        "c": "[[4, 0], [4, 12]]",
+        "d": "[[4, 0], [–8, 12]]",
+        "e": "[[0, 1], [2, –1]]"
+      },
+      "resposta": "d",
+      "explicacao": "Primeiro A² = A·A: linha 1 [1, 0]; linha 2 [−1·1 + 2·(−1), −1·0 + 2·2] = [−3, 4]. Então 3A² = [[3, 0], [−9, 12]], −A = [[−1, 0], [1, −2]] e 2I = [[2, 0], [0, 2]]. Somando entrada a entrada: [[3 − 1 + 2, 0], [−9 + 1 + 0, 12 − 2 + 2]] = [[4, 0], [−8, 12]]. A matriz [[4, 0], [4, 12]] erra o sinal da entrada (2,1) — é o resultado de tomar A² = [[1,0],[−1,4]] sem multiplicar de fato; a nula suporia que A anula p, o que não ocorre."
+    },
+    {
+      "id": "matematica-220019",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Considere o seguinte sistema linear em que α e β são números reais:\nx + y + αz = 0\nx – y + βz = 0\nβx + αy + z = 0\nAs soluções não triviais desse sistema serão aquelas tais que",
+      "alternativas": {
+        "a": "α + β = 0.",
+        "b": "α – β = 0.",
+        "c": "α² + β² = 2.",
+        "d": "α² – β² = 2.",
+        "e": "α – β = 2."
+      },
+      "resposta": "c",
+      "explicacao": "Um sistema homogêneo só tem solução além da trivial quando o determinante dos coeficientes é zero. Desenvolvendo pela primeira linha: 1·(−1·1 − β·α) − 1·(1·1 − β·β) + α·(1·α − (−1)·β) = −1 − αβ − 1 + β² + α² + αβ = α² + β² − 2. Anulando: α² + β² = 2. As demais condições (soma, diferença ou diferença de quadrados) não são o determinante — com α = β = 1, por exemplo, α − β = 0 mas o determinante vale 0 só porque 1 + 1 = 2, e com α = β = 2 a diferença continua nula e o sistema tem só a solução trivial."
+    },
+    {
+      "id": "matematica-2200110",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fgv",
+      "enunciado": "Sejam A = [aᵢⱼ], B = [bᵢⱼ] e C = [cᵢⱼ] matrizes quadradas de ordem 3, tais que para i = 1 ou i = 2 aᵢⱼ = bᵢⱼ = cᵢⱼ. Para essas matrizes, c₃ⱼ = a₃ⱼ + b₃ⱼ para quaisquer j.\nSabendo que det(A) = 9 e que det(B) = –5, o valor de 3 · det(2C⁻¹) · det(AB/3) é igual a",
+      "alternativas": {
+        "a": "–90.",
+        "b": "–50.",
+        "c": "–10.",
+        "d": "20.",
+        "e": "60."
+      },
+      "resposta": "c",
+      "explicacao": "A, B e C têm as duas primeiras linhas iguais e a terceira linha de C é a soma das terceiras linhas de A e B; como o determinante é linear em cada linha, det(C) = det(A) + det(B) = 4. Daí det(2C⁻¹) = 2³·(1/4) = 2 (o escalar sai elevado à ordem, e a inversa inverte o determinante). E det(AB/3) = (1/3)³·det(A)·det(B) = 9·(−5)/27 = −5/3. Produto: 3·2·(−5/3) = −10. Os erros típicos: multiplicar os determinantes de A e B para obter C (−45), ou tratar det(2C⁻¹) como 2/4 e det(AB/3) como −45/3, que levam a −90, −50 ou 60."
+    },
+    {
+      "id": "matematica-2200111",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Em um sistema cartesiano ortogonal, considere uma circunferência de centro C(1, 3) com uma corda PQ e os pontos A(1, –2) e B(5, 0) que dividem essa corda em três segmentos congruentes, na ordem P, A, B, Q. O raio dessa circunferência é",
+      "alternativas": {
+        "a": "√119",
+        "b": "√65",
+        "c": "√30",
+        "d": "√42",
+        "e": "√105"
+      },
+      "resposta": "b",
+      "explicacao": "Se A e B dividem PQ em três partes iguais, o vetor AB = (4, 2) é um terço da corda: P = A − (4, 2) = (−3, −4) e Q = B + (4, 2) = (9, 2). O raio é a distância do centro a qualquer extremidade: CP = √((1 + 3)² + (3 + 4)²) = √(16 + 49) = √65 — e CQ = √(64 + 1) = √65 confere. √30 e √42 aparecem quando se toma a distância do centro a A ou a B, que são pontos internos da corda, não da circunferência."
+    },
+    {
+      "id": "matematica-2200112",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "No sistema cartesiano, os pontos A(3, 1), B(7, 3) e D(x_D, y_D) são colineares, com D situado além de B na semirreta AB, e o triângulo BCD tem área 9, com C = (9, 7). O valor de x_D + y_D é igual a",
+      "alternativas": {
+        "a": "18.",
+        "b": "19.",
+        "c": "20.",
+        "d": "21.",
+        "e": "22."
+      },
+      "resposta": "b",
+      "explicacao": "A reta AB tem inclinação (3 − 1)/(7 − 3) = 1/2: x − 2y − 1 = 0. A distância de C(9, 7) a ela é |9 − 14 − 1|/√5 = 6/√5, que é a altura do triângulo BCD relativa ao lado BD. Área 9 = ½·BD·(6/√5) → BD = 3√5. Andando de B na direção (2, 1), cujo comprimento é √5, três vezes: D = (7 + 6, 3 + 3) = (13, 6), e x_D + y_D = 19. (O outro ponto a essa distância, (1, 0), estaria antes de A e daria soma 1, que não está entre as opções.)"
+    },
+    {
+      "id": "matematica-2200113",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Uma parábola tem equação y² = (–1)ⁿ · 14(x – 2), em que n é um número inteiro. O esboço do gráfico dessa parábola revela que sua concavidade está para a esquerda, ou seja, todos os pontos que representam esse gráfico estão à esquerda de uma reta x = v₀, para algum v₀ real. Nessas condições, o foco e a diretriz dessa parábola, e o número n são, respectivamente,",
+      "alternativas": {
+        "a": "(0; 2), x = 1,5 e ímpar.",
+        "b": "(–2; 0), x = 2 e par.",
+        "c": "(0; 3,5), x = –2 e par.",
+        "d": "(–1,5; 0), x = – 0,5 e ímpar.",
+        "e": "(–1,5; 0), x = 5,5 e ímpar."
+      },
+      "resposta": "e",
+      "explicacao": "y² = 4p(x − x_v) abre para a esquerda quando 4p < 0, então (−1)ⁿ = −1 e n é ímpar: y² = −14(x − 2). Vértice (2, 0), 4p = −14 → p = −3,5. Foco a p do vértice no eixo x: (2 − 3,5; 0) = (−1,5; 0); diretriz do outro lado: x = 2 + 3,5 = 5,5. Confere com a última alternativa. A opção com diretriz x = −0,5 coloca foco e diretriz do mesmo lado do vértice; as que dizem \"par\" fariam a parábola abrir para a direita."
+    },
+    {
+      "id": "matematica-2200114",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Uma função real f é tal que f(x – 1) = 3f(x) – f(2) para todo x real. Dado que f(3) = 12, o valor de f(0) + f(4) é igual a",
+      "alternativas": {
+        "a": "40.",
+        "b": "60.",
+        "c": "80.",
+        "d": "100.",
+        "e": "120."
+      },
+      "resposta": "d",
+      "explicacao": "Use a relação f(x − 1) = 3f(x) − f(2) com valores escolhidos. x = 3: f(2) = 3·12 − f(2) → f(2) = 18. x = 2: f(1) = 3·18 − 18 = 36. x = 1: f(0) = 3·36 − 18 = 90. x = 4: f(3) = 3f(4) − 18 → 12 = 3f(4) − 18 → f(4) = 10. Logo f(0) + f(4) = 100. Quem esquece de subtrair f(2) obtém f(0) = 108 e f(4) = 4, que não somam nenhuma das opções; 40 e 60 vêm de parar em f(1) ou em f(2)."
+    },
+    {
+      "id": "matematica-2200115",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Um novo produto será lançado e uma campanha de telemarketing será contratada por 30 dias com a meta de vender 100 unidades desse produto no primeiro dia e a cada dia seguinte vender 8 unidades a mais do que no dia anterior. Foi definido pela campanha que o preço unitário em reais desse produto no dia d, com 1 ≤ d ≤ 30, será calculado pela função p(d) = d·n(d)/400 + 50, em que n(d) é o número de produtos que se espera vender no dia d, de acordo com a meta. O total arrecadado pela campanha no dia em que o preço desse produto teve o menor valor foi",
+      "alternativas": {
+        "a": "R$ 5.000,00.",
+        "b": "R$ 5.025,00.",
+        "c": "R$ 5.075,00.",
+        "d": "R$ 5.125,00.",
+        "e": "R$ 5.150,00."
+      },
+      "resposta": "b",
+      "explicacao": "A meta é uma PA: n(d) = 100 + 8(d − 1) = 92 + 8d, crescente. O preço p(d) = d·n(d)/400 + 50 é produto de dois fatores crescentes e positivos mais uma constante, então cresce com d — o menor preço é no dia 1: p(1) = 100/400 + 50 = 50,25. Nesse dia vendem-se 100 unidades: 100 × 50,25 = R$ 5.025,00. R$ 5.000,00 esquece a parcela d·n(d)/400; os demais valores supõem que o preço mínimo ocorra em outro dia, o que a monotonicidade descarta."
+    },
+    {
+      "id": "matematica-2200116",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "A solução da equação logarítmica 1/log₉ x + 1/log₂₄ x = 3 é",
+      "alternativas": {
+        "a": "x = 3.",
+        "b": "x = 6.",
+        "c": "x = 12.",
+        "d": "x = 24.",
+        "e": "x = 72."
+      },
+      "resposta": "b",
+      "explicacao": "Pela mudança de base, 1/log₉ x = log_x 9 e 1/log₂₄ x = log_x 24. A equação vira log_x 9 + log_x 24 = log_x 216 = 3, ou seja, x³ = 216 → x = 6 (com x > 0 e x ≠ 1, condição de existência atendida). Testar x = 3, 12, 24 ou 72 não devolve 3: 12³ = 1728 ≠ 216, por exemplo. Note que 216 = 9·24 — quem multiplica errado os argumentos chega a outras potências."
+    },
+    {
+      "id": "matematica-2200117",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fgv",
+      "enunciado": "Fones de ouvido com cancelamento de ruído são aqueles que possuem microfones que captam o som ambiente e produzem uma onda sonora que “cancela” esse som, ou seja, o fone faz uma adição dessas ondas sonoras de maneira que a soma seja zero, dando a sensação de não haver sons externos ao fone. Considere que um desses fones detectou uma onda sonora de equação y = 4sen(2x). Uma onda que o fone poderá produzir para cancelar o ruído detectado é",
+      "alternativas": {
+        "a": "y = 4sen(2x + π).",
+        "b": "y = 0,25sen(2x + π).",
+        "c": "y = 2sen(x + π).",
+        "d": "y = 0,25sen(0,5x + 2π).",
+        "e": "y = 4sen(2x + 2π)."
+      },
+      "resposta": "a",
+      "explicacao": "Cancelar é somar zero: a onda produzida deve ser −4sen(2x), com a mesma amplitude e a mesma frequência, em oposição de fase. Como sen(θ + π) = −sen θ, temos 4sen(2x + π) = −4sen(2x). É a primeira alternativa. As com amplitude 0,25 ou 2 não anulam a amplitude 4; sen(x + π) e sen(0,5x + 2π) têm outra frequência; e 4sen(2x + 2π) é a própria onda original, que somada dobraria o ruído em vez de cancelá-lo."
+    },
+    {
+      "id": "matematica-2200118",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "No intervalo [0, 2π], a soma de todas as soluções de cos(π/4) · √(1 + cos 2x) = sen(π/3) é igual a",
+      "alternativas": {
+        "a": "–4π.",
+        "b": "–2π.",
+        "c": "0.",
+        "d": "2π.",
+        "e": "4π."
+      },
+      "resposta": "e",
+      "explicacao": "Como 1 + cos 2x = 2cos²x, √(1 + cos 2x) = √2·|cos x|. Com cos(π/4) = √2/2, o lado esquerdo vira |cos x|, e a equação é |cos x| = √3/2. Em [0, 2π] isso dá cos x = ±√3/2: x = π/6, 5π/6, 7π/6 e 11π/6. Soma: (1 + 5 + 7 + 11)π/6 = 24π/6 = 4π. Quem esquece o módulo (cos x = √3/2 apenas) soma π/6 + 11π/6 = 2π; as opções negativas não têm sentido, pois todas as soluções são não negativas."
+    },
+    {
+      "id": "matematica-2200124",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "O rombicosidodecaedro é um sólido formado por 62 faces, todas polígonos regulares. Cada vértice do rombicosidodecaedro é um vértice em comum de dois quadrados, um triângulo e um pentágono. O número de faces quadradas no rombicosidodecaedro é",
+      "alternativas": {
+        "a": "24.",
+        "b": "28.",
+        "c": "30.",
+        "d": "32.",
+        "e": "36."
+      },
+      "resposta": "c",
+      "explicacao": "Seja V o número de vértices. Cada vértice toca 1 triângulo, 2 quadrados e 1 pentágono; contando incidências vértice-face: 3T = V, 4Q = 2V e 5P = V, ou seja, T = V/3, Q = V/2, P = V/5. Como T + Q + P = 62: V(1/3 + 1/2 + 1/5) = 62 → V·31/30 = 62 → V = 60. Logo Q = 30 (com T = 20 e P = 12, que fecham 62). 24, 28, 32 e 36 não são compatíveis com uma contagem de vértices inteira e 62 faces."
+    },
+    {
+      "id": "matematica-2200127",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fgv",
+      "enunciado": "Em uma academia 40 praticantes de halterofilismo marcaram em uma planilha o maior peso que conseguiram levantar em um sábado e calcularam a média aritmética desses pesos, obtendo o valor de 55 kg. No domingo, alguns praticantes conseguiram levantar 10 kg a mais do que o maior peso que tinham conseguido no dia anterior e os demais só conseguiram igualar a marca do sábado, de maneira que no domingo a média aritmética dos maiores pesos levantados pelas 40 pessoas foi 57 kg. O número de praticantes que conseguiram superar a marca do sábado foi",
+      "alternativas": {
+        "a": "4.",
+        "b": "5.",
+        "c": "6.",
+        "d": "7.",
+        "e": "8."
+      },
+      "resposta": "e",
+      "explicacao": "A média subiu de 55 kg para 57 kg entre 40 pessoas, então a soma dos pesos cresceu 2 × 40 = 80 kg. Cada praticante que superou a marca contribuiu com exatamente 10 kg a mais, e os demais com zero: 10k = 80 → k = 8. Com 4, 5, 6 ou 7 praticantes, a soma cresceria 40, 50, 60 ou 70 kg, e a média ficaria abaixo de 57."
+    },
+    {
+      "id": "matematica-2200128",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Considere os seguintes comandos de uma linguagem de programação natural:\n• def atribui um valor a uma variável, por exemplo, def n = 5 atribui o valor 5 à variável n.\n• n++ aumenta em uma unidade o valor da variável n, por exemplo, se n = 0 e o comando n++ é executado, o valor de n passa a ser 1.\n• x = 3x + 1 altera o valor da variável x para o resultado da expressão 3x + 1, por exemplo, se x = 7 e o comando x = 3x + 1 é executado, o valor de x passa a ser 22, pois 3⋅7 + 1 = 22.\n• x = x/2 altera o valor da variável x para a sua metade, por exemplo, se x = 8 e o comando x = x/2 é executado, o valor de x passa a ser 4, pois a metade de 8 é 4.\nConsidere o seguinte programa escrito nessa linguagem natural:\ndef n = 0\ndef x = 52\nrepita os comandos entre chaves enquanto o valor da variável x for diferente de 1\n{\nn++\nse x for ímpar execute x = 3x + 1\nse x for par execute x = x/2\n}\nAo término da execução desse programa o valor da variável n será",
+      "alternativas": {
+        "a": "8.",
+        "b": "9.",
+        "c": "10.",
+        "d": "11.",
+        "e": "12."
+      },
+      "resposta": "b",
+      "explicacao": "O programa gera uma sequência definida por recorrência; simule contando as passagens pelo laço, cada etapa seguinte a partir do valor anterior. Repare que os dois \"se\" estão na mesma iteração: se x é ímpar, vira 3x + 1, que é par, e é dividido por 2 na mesma passagem. Partindo de x = 52: 52 → 26 (n=1) → 13 (n=2) → 13 é ímpar: 40, e 40 é par: 20 (n=3) → 10 (n=4) → 5 (n=5) → 5 ímpar: 16, par: 8 (n=6) → 4 (n=7) → 2 (n=8) → 1 (n=9). Ao chegar a 1, o laço para: n = 9. Quem trata os dois \"se\" como excludentes (uma operação por passagem) conta 11, que é o distrator; 8 e 10 são erros de um passo na simulação."
+    },
+    {
+      "id": "matematica-2200129",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Sejam x e y dois algarismos e considere todos os números da forma 34x981y, em que y é a unidade desse número e x é a dezena de milhar. Sabendo que 34x981y é divisível por 12, o total de números dessa forma é",
+      "alternativas": {
+        "a": "4.",
+        "b": "5.",
+        "c": "6.",
+        "d": "7.",
+        "e": "8."
+      },
+      "resposta": "d",
+      "explicacao": "Entre os números inteiros, ser divisível por 12 é ser divisível por 3 e por 4. Por 4: os dois últimos algarismos \"1y\" devem formar múltiplo de 4 → y = 2 (12) ou y = 6 (16). Por 3: a soma 3 + 4 + x + 9 + 8 + 1 + y = 25 + x + y deve ser múltiplo de 3. Com y = 2: 27 + x → x ∈ {0, 3, 6, 9}, quatro números. Com y = 6: 31 + x → x ∈ {2, 5, 8}, três números. Total: 7. Quem só testa y = 2 acha 4; quem aceita y = 0, 4 ou 8 (que dão 10, 14, 18, não múltiplos de 4) infla a conta."
+    },
+    {
+      "id": "unicamp-matematica-01",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Gráfico",
+        "arquivo": "assets/provas/unicamp-2026-q42.png",
+        "descricao": "Gráfico de linhas “Distribuição dos cardeais votantes, por região, em cada conclave desde 2005”, com os anos 2005, 2013 e 2025 no eixo horizontal e percentuais de 0 a 50% no vertical. Europa: cerca de 50% em 2005, 52% em 2013 e 39,3% em 2025. Ásia e Oceania: cerca de 10% em 2005 e 2013 e 20,0% em 2025. América Latina: cerca de 17% nos três anos, 17,0% em 2025. África: cerca de 10% em 2005 e 2013 e 13,3% em 2025. EUA e Canadá: cerca de 11% em 2005, 10% em 2013 e 10,4% em 2025."
+      },
+      "enunciado": "Uma regra estabelecida pelo papa Paulo VI, em 1970, define que somente cardeais com menos de 80 anos participam e votam no conclave. Em 2025, 135 pessoas cumpriram esse critério de idade. O vencedor só é definido após garantir o apoio de dois terços dos votantes. Os últimos 3 conclaves aconteceram em 2005, 2013 e 2025.\n\nConsiderando o gráfico, é correto afirmar que, desde 2005, em cada conclave,",
+      "fonte_texto": "Adaptado de https://www.nexojornal.com.br/grafico/2025/04/24/eleicao-papa-conclave-quem-faz-parte-cardeais/. Acesso em 30/05/2025.",
+      "alternativas": {
+        "a": "América Latina e África juntas corresponderam a mais que 40% da quantidade de cardeais votantes",
+        "b": "Ásia, Oceania e África juntas corresponderam a mais que 30% da quantidade de cardeais votantes",
+        "c": "Europa e África juntas corresponderam a mais que 50% da quantidade de cardeais votantes",
+        "d": "Ásia, Oceania, Estados Unidos e Canadá juntos corresponderam a 30% da quantidade de cardeais votantes"
+      },
+      "explicacao": "A afirmação precisa valer nos três conclaves. Europa e África: cerca de 50% + 10% em 2005, 52% + 10% em 2013 e 39,3% + 13,3% = 52,6% em 2025 — sempre acima de 50%. América Latina e África somam por volta de 27% a 30%, nunca 40%; Ásia, Oceania e África ficam perto de 20% em 2005 e 2013; e Ásia, Oceania, EUA e Canadá dão cerca de 21% em 2005 e 30,4% em 2025 — não são 30% em cada conclave.",
+      "resposta": "c",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-matematica-02",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Mapa",
+        "arquivo": "assets/provas/unicamp-2026-q47.jpg",
+        "descricao": "Mapa do litoral norte e nordeste do Brasil (do Amapá a Pernambuco), com o limite marítimo de 200 milhas em vigor até então, a nova fronteira brasileira e, hachurada, a nova área marítima conquistada pelo Brasil, no Oceano Atlântico, incluindo Fernando de Noronha, Atol das Rocas e o Arquipélago de São Pedro e São Paulo."
+      },
+      "enunciado": "Em 2025, a Comissão de Limites da Plataforma Continental (CLPC), da Organização das Nações Unidas (ONU), aprovou uma proposta do Brasil que pedia a ampliação da plataforma continental na costa do litoral norte, como indicado na figura. A decisão reconhece o direito do Brasil de explorar a Margem Equatorial, em uma área equivalente à área territorial da Alemanha.\n\nO cálculo de área de figuras planas irregulares envolve em geral noções complexas de matemática. No caso de áreas de figuras que estão impressas e/ou desenhadas em um papel, pode-se empregar um método prático, que considera a relação entre o peso do papel por unidade de área.\n\nPara calcular a área da região recentemente incorporada ao território brasileiro, um mapa contendo esta região, na escala 1:5.000.000 — isto é, 1 cm no papel equivale a 5.000.000 cm no local — foi impresso em um papel cuja relação peso/área é de 75 g/m². A seguir, a parte do mapa referente a esta região foi recortada e pesada, obtendo-se 1,0815 g.\n\nA partir desses dados, é correto afirmar que a área obtida foi:",
+      "fonte_texto": "Texto e mapas adaptados de https://g1.globo.com/economia/noticia/2025/03/27/brasil-area-maritima-decisao-onu.ghtml. Acesso em 16/06/2025.",
+      "alternativas": {
+        "a": "359.900 km²",
+        "b": "360.100 km²",
+        "c": "360.300 km²",
+        "d": "360.500 km²"
+      },
+      "explicacao": "Área do recorte de papel: 1,0815 g ÷ 75 g/m² = 0,01442 m² = 144,2 cm². Na escala 1:5.000.000, 1 cm no papel são 5.000.000 cm = 50 km no terreno, logo 1 cm² de papel equivale a 50 × 50 = 2.500 km². Área real: 144,2 × 2.500 = 360.500 km².",
+      "resposta": "d",
+      "origem": "medicina"
+    },
+    {
+      "id": "ita-2023-q37",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere A ∈ M₃(ℝ) tal que existe um único número real x que satisfaz a equação det(∛2·x²A) + det(xA³) = det A². Então, x + det A é",
+      "alternativas": {
+        "a": "−5.",
+        "b": "−4.",
+        "c": "−3.",
+        "d": "−2.",
+        "e": "−1."
+      },
+      "resposta": "c",
+      "explicacao": "Se d=det A, então det(∛2·x²A)=2x⁶d, det(xA³)=x³d³ e det A²=d². Com y=x³, resulta 2dy²+d³y−d²=0. Como há um único x real, a quadrática em y tem raiz dupla; seu discriminante d⁶+8d³ é zero. Como d≠0, d=−2, e a raiz dupla é y=−1, isto é, x=−1. Logo x+d=−3."
+    },
+    {
+      "id": "ita-2023-q41",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Sejam f e g funções reais definidas por f(x) = 3^{2x} e g(x) = 3ˣ − 2ˣ. Considere:\nI. g(x) ≥ 0 para todo x real.\nII. f(x) ≥ g(x) para todo x real.\nIII. f(x) + g(x) ≥ 0 para todo x real.\n\nÉ (são) sempre verdadeira(s)",
+      "alternativas": {
+        "a": "apenas I.",
+        "b": "apenas II.",
+        "c": "apenas III.",
+        "d": "todas.",
+        "e": "nenhuma."
+      },
+      "resposta": "b",
+      "explicacao": "I falha para x < 0, pois 3ˣ < 2ˣ. Para II, escreva t = 3ˣ > 0: f = t² e g = t−2ˣ; quando t≥1, t²≥t>g, e quando t<1, g<0<f. III falha, por exemplo, para x suficientemente negativo, quando 2ˣ domina 3ˣ+3^{2x}. Só II vale sempre."
+    },
+    {
+      "id": "ita-2023-q47",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere f(x) = cos x[cos(x/3)+2sen x] − sen x·sen(x/3) − 2, definida em I = ]−4π,4π[. Sobre f(x)=0, podemos afirmar que",
+      "alternativas": {
+        "a": "não admite soluções em I.",
+        "b": "admite uma única solução em I.",
+        "c": "admite exatamente duas soluções em I.",
+        "d": "admite exatamente três soluções em I.",
+        "e": "admite exatamente quatro soluções em I."
+      },
+      "resposta": "a",
+      "explicacao": "Usando cos x cos(x/3) − sen x sen(x/3) = cos(4x/3) e 2sen x cos x = sen 2x, a equação seria cos(4x/3)+sen 2x=2. Isso exigiria simultaneamente cos(4x/3)=1 e sen 2x=1, condições incompatíveis. Não há solução no intervalo."
+    },
+    {
+      "id": "ita-2023-q38",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Sejam z ∈ ℂ e f(z)=z²+i. Para n∈ℕ, defina f⁽¹⁾(z)=f(z) e f⁽ⁿ⁾(z)=f(f⁽ⁿ⁻¹⁾(z)). Então f⁽²⁰²³⁾(0) é",
+      "alternativas": {
+        "a": "1−i.",
+        "b": "i−1.",
+        "c": "−1−i.",
+        "d": "i.",
+        "e": "−i."
+      },
+      "resposta": "e",
+      "explicacao": "A órbita de 0 é 0 → i → −1+i → −i → −1+i → −i, entrando num ciclo de período 2. Como 2023 é ímpar e, a partir da terceira iteração, os índices ímpares dão −i, resulta f⁽²⁰²³⁾(0)=−i."
+    },
+    {
+      "id": "ita-2023-q43",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Dado z=5−5i, defina f(n)=|z^{2n+1}+z̄^{2n+1}|. A soma de f(n) para n de 1 até 20 é",
+      "alternativas": {
+        "a": "250(50²¹−1)/49.",
+        "b": "500√2(50²⁰−1)/49.",
+        "c": "1000(50²¹−1)/49.",
+        "d": "500(50²⁰−1)/49.",
+        "e": "nenhuma das alternativas anteriores."
+      },
+      "resposta": "d",
+      "explicacao": "Como z=5√2e^{−iπ/4}, a soma com o conjugado é duas vezes a parte real. Para expoente 2n+1, o módulo absoluto do cosseno alterna entre √2/2, dando f(n)=2·(5√2)^{2n+1}·√2/2 = 10·50ⁿ. A soma geométrica de n=1 a 20 é 500(50²⁰−1)/49."
+    },
+    {
+      "id": "ita-2023-q39",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere:\nI. Se P é convexo e tem n lados iguais, então é regular.\nII. Se os seis ângulos internos de um hexágono convexo, em ordem crescente, formam uma PA, a soma do menor e do maior é 240°.\nIII. Existe polígono convexo de 100 lados cujos ângulos internos, em ordem crescente, formam PA de razão 1°.\n\nÉ (são) sempre verdadeira(s)",
+      "alternativas": {
+        "a": "apenas I.",
+        "b": "apenas II.",
+        "c": "apenas III.",
+        "d": "apenas II e III.",
+        "e": "nenhuma."
+      },
+      "resposta": "b",
+      "explicacao": "I é falsa: equilátero não implica equiângulo. Em qualquer PA de seis termos, a soma é três vezes a soma dos extremos; como a soma interna do hexágono é 720°, os extremos somam 240°, validando II. Em III, a média teria de ser 176,4°, e com razão 1° o maior ângulo ultrapassaria 180°, contrariando a convexidade."
+    },
+    {
+      "id": "ita-2023-q42",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Seja ABC um triângulo retângulo tal que ∠BAC=30°. Tome D na hipotenusa AC e retas r e s por D, paralelas a AB e BC. Se E=r∩BC, F=s∩AB e BC=1, o menor valor possível de EF é",
+      "alternativas": {
+        "a": "√2/5.",
+        "b": "√2/2.",
+        "c": "√3/3.",
+        "d": "√3/2.",
+        "e": "√3."
+      },
+      "resposta": "d",
+      "explicacao": "Colocando A=(0,0), B=(√3,0) e C=(√3,1), parametriza-se D na hipotenusa. As projeções paralelas dão EF² como uma quadrática no parâmetro; seu vértice ocorre no ponto médio da hipotenusa e fornece EF²=3/4. Logo o mínimo é √3/2."
+    },
+    {
+      "id": "ita-2023-q44",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere a hipérbole H: x² − y²/4 = 1. Seja T o triângulo de vértices P,F₁,F₂, em que F₁ e F₂ são os focos e P∈H. Sabendo que o perímetro de T é 5√5, o produto das medidas dos lados de T é",
+      "alternativas": {
+        "a": "41√5/2.",
+        "b": "41/4.",
+        "c": "41√5/4.",
+        "d": "41/8.",
+        "e": "41√5/8."
+      },
+      "resposta": "a",
+      "explicacao": "Na hipérbole, a=1, b=2 e c=√5, então F₁F₂=2√5. Se u=PF₁ e v=PF₂, u+v=3√5 pelo perímetro e |u−v|=2a=2. Logo uv=[(u+v)²−(u−v)²]/4=(45−4)/4=41/4. Multiplicando pela base 2√5, obtém-se 41√5/2."
+    },
+    {
+      "id": "ita-2023-q46",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "A hipotenusa de um triângulo retângulo mede 10 cm. O volume do sólido gerado pela rotação do triângulo em torno de um eixo que contém a hipotenusa é 30π cm³. O perímetro do triângulo, em cm, é",
+      "alternativas": {
+        "a": "10+4√7.",
+        "b": "10+5√7.",
+        "c": "10+2√10.",
+        "d": "10+3√10.",
+        "e": "10+4√10."
+      },
+      "resposta": "e",
+      "explicacao": "A rotação forma dois cones com base comum. Se h é a altura à hipotenusa, o volume total é (πh²/3)·10, logo h=3. Para catetos a,b, ab=10h=30 e a²+b²=100; então (a+b)²=160 e a+b=4√10. O perímetro é 10+4√10."
+    },
+    {
+      "id": "ita-2023-q40",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "A média harmônica de positivos a₁,…,aₙ é H=n/(1/a₁+…+1/aₙ). Sabendo que p(x)=30x³−113x²+108x−30 possui três raízes reais positivas, a média harmônica das raízes é",
+      "alternativas": {
+        "a": "2/3.",
+        "b": "5/18.",
+        "c": "5/6.",
+        "d": "1.",
+        "e": "3."
+      },
+      "resposta": "c",
+      "explicacao": "Se r₁,r₂,r₃ são as raízes, 1/r₁+1/r₂+1/r₃=(r₁r₂+r₁r₃+r₂r₃)/(r₁r₂r₃). Por Viète, isso vale (108/30)/(30/30)=18/5. Portanto H=3/(18/5)=5/6."
+    },
+    {
+      "id": "ita-2023-q48",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Na expansão de [1+x²−x³+x⁴]¹⁰, a soma de todos os coeficientes das potências múltiplas de 3 é",
+      "alternativas": {
+        "a": "114.",
+        "b": "228.",
+        "c": "342.",
+        "d": "456.",
+        "e": "570."
+      },
+      "resposta": "c",
+      "explicacao": "O filtro das raízes cúbicas da unidade dá S=[P(1)+P(ω)+P(ω²)]/3 para P(x)=(1+x²−x³+x⁴)¹⁰. P(1)=2¹⁰=1024 e, usando ω³=1 e 1+ω+ω²=0, P(ω)=P(ω²)=1. Assim S=(1024+1+1)/3=342."
+    },
+    {
+      "id": "ita-2023-q45",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Um conjunto de moedas é lançado sucessivas vezes. Em cada lançamento, todas as moedas que resultam em coroa são retiradas; as demais permanecem. O jogo termina quando todas forem retiradas. A probabilidade de durar mais de três rodadas, começando com quatro moedas, é",
+      "alternativas": {
+        "a": "1341/4096.",
+        "b": "1695/4096.",
+        "c": "2049/4096.",
+        "d": "2401/4096.",
+        "e": "2755/4096."
+      },
+      "resposta": "b",
+      "explicacao": "Para uma moeda, a chance de ainda não ter saído coroa após três lançamentos é 1/8. O jogo dura mais de três rodadas se ao menos uma das quatro sobreviver: 1−(7/8)⁴ = (4096−2401)/4096 = 1695/4096."
+    },
+    {
+      "id": "ita-2026-q07",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere as matrizes A = [[√3/2, −1/2],[1/2, √3/2]] e B = [[√2/2],[√2/2]]. A matriz A³¹ × B é igual a",
+      "alternativas": {
+        "a": "[−(√2/4)(√3−1), −(√2/4)(1+√3)]ᵀ.",
+        "b": "[−(√2/4)(1−√3), −(√2/4)(1+√3)]ᵀ.",
+        "c": "[(1−√6)/(2√2), (1+√6)/(2√2)]ᵀ.",
+        "d": "[(√6−1)/(2√2), (1+√6)/(2√2)]ᵀ.",
+        "e": "nenhuma das alternativas anteriores."
+      },
+      "resposta": "a",
+      "explicacao": "A é a matriz de rotação de 30°. Como 31·30° = 930° equivale a 210°, A³¹ gira B, que aponta a 45°, para 255°. As componentes cos 255° e sen 255° se simplificam exatamente para o vetor da alternativa A."
+    },
+    {
+      "id": "ita-2026-q10",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Sejam x, y ∈ ]0, π/2[, satisfazendo o sistema tan(y)tan(y/2) = cos(2x)sec(y) e sen(y)/cos(x) + cos(x)/sen(y) = 2. O produto de todos os valores de x e y que resolvem esse sistema é",
+      "alternativas": {
+        "a": "π²/24.",
+        "b": "π⁴/324.",
+        "c": "π²/50.",
+        "d": "π²/16.",
+        "e": "π²/18."
+      },
+      "resposta": "e",
+      "explicacao": "Na segunda equação, a + 1/a = 2 com a = sen(y)/cos(x) implica a = 1, portanto sen y = cos x e y = π/2 − x. Substituindo na primeira e simplificando, obtém-se x = π/3 e y = π/6. O produto é π²/18."
+    },
+    {
+      "id": "ita-2026-q05",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Uma circunferência é dividida em seis partes iguais pelos pontos A, B, C, D, E, F, designados nessa ordem. Os pontos A, C, E são vértices de um triângulo equilátero, os pontos B, D, F são vértices de um segundo triângulo equilátero. A sobreposição desses dois triângulos define uma estrela de seis pontas denominada hexagrama. Se a área desse hexagrama é 25√3 cm², então a área do quadrado inscrito na circunferência mede",
+      "alternativas": {
+        "a": "10 cm².",
+        "b": "25 cm².",
+        "c": "40 cm².",
+        "d": "50 cm².",
+        "e": "75 cm²."
+      },
+      "resposta": "d",
+      "explicacao": "Se R é o raio, cada triângulo equilátero inscrito tem área 3√3R²/4 e a interseção central, um hexágono regular de lado R/√3, tem área √3R²/2. A união dos dois triângulos mede, portanto, √3R². Igualando a 25√3, vem R²=25; o quadrado inscrito tem área 2R²=50 cm²."
+    },
+    {
+      "id": "ita-2026-q09",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere a reta r: 3x + 4y = −15 e a parábola P: y = x² + x + 6 com vértice V. Seja t a reta tangente a P, que tem coeficiente angular negativo e forma um ângulo de 45° com r. Sendo A o ponto de tangência de t a P e B o ponto de interseção de r e t, a área do triângulo ABV é",
+      "alternativas": {
+        "a": "13/500.",
+        "b": "25/4.",
+        "c": "105/8.",
+        "d": "147/8.",
+        "e": "126/5."
+      },
+      "resposta": "d",
+      "explicacao": "A reta r tem inclinação −3/4. A tangente negativa que forma 45° com ela tem inclinação −7; como y' = 2x + 1, o ponto de tangência é A = (−4,18) e t: y = −7x − 10. A interseção com r é B = (−1,−3), enquanto V = (−1/2,23/4). O determinante das coordenadas fornece área 147/8."
+    },
+    {
+      "id": "ita-2026-q04",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Os vértices de um polígono são todos os números complexos não nulos que satisfazem a equação iz² = 2z̄. A área desse polígono é",
+      "alternativas": {
+        "a": "√3.",
+        "b": "2√3.",
+        "c": "3√3.",
+        "d": "4√3.",
+        "e": "5√3."
+      },
+      "resposta": "c",
+      "explicacao": "Escrevendo z = re^{iθ}, a equação dá r = 2 e 3θ + π/2 = 2kπ. As três soluções são vértices de um triângulo equilátero de raio circunscrito 2; seu lado é 2√3 e sua área é 3√3. Na linguagem de números complexos, essas raízes complexas são descritas pela forma polar e pelo argumento do número complexo."
+    },
+    {
+      "id": "ita-2026-q12",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere m ∈ ℝ positivo. A sequência rₖ é uma progressão geométrica crescente de termos positivos de razão q e termo inicial r₁ = q. As circunferências Cₖ: (x−rₖ)² + (y−mrₖ)² = rₖ² são duas a duas tangentes externamente, nessa ordem. A expressão de q em função de m é",
+      "alternativas": {
+        "a": "(√(m²+1)+1)/m.",
+        "b": "((√(m²+1)+1)/m)².",
+        "c": "(√(m²+1)−1)/m.",
+        "d": "((√(m²+1)−1)/m)².",
+        "e": "(m²+1)/m."
+      },
+      "resposta": "b",
+      "explicacao": "A distância entre centros consecutivos é (q−1)rₖ√(m²+1), e a tangência externa exige que ela seja (q+1)rₖ. Resolvendo, q = (s+1)/(s−1), s = √(m²+1); racionalizando, q = ((s+1)/m)². A razão da progressão geométrica também determina o termo geral da sequência."
+    },
+    {
+      "id": "ita-2026-q08",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Seja p(x) = x³ + bx² + cx + d um polinômio com coeficientes reais. Se todas as raízes de p(x) são reais e, para todo x ∈ ℝ, p(2+x) = −p(2−x), então o menor valor possível para p(0) é",
+      "alternativas": {
+        "a": "−10.",
+        "b": "−8.",
+        "c": "−6.",
+        "d": "−4.",
+        "e": "−2."
+      },
+      "resposta": "b",
+      "explicacao": "A simetria torna p ímpar em torno de 2, então p(x) = (x−2)[(x−2)²−a²], com a real. Assim p(0) = 2a²−8, cujo mínimo ocorre em a = 0 e vale −8. Trata-se de um polinômio de grau 3 com raiz tripla no caso mínimo."
+    },
+    {
+      "id": "ita-2026-q11",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Seja A = {1,2,3,4,5,6,7,8}. A quantidade de bijeções F: A → A que satisfazem F(1) < F(5) < F(3) e F(7) < F(2) é",
+      "alternativas": {
+        "a": "3360.",
+        "b": "4200.",
+        "c": "5040.",
+        "d": "5880.",
+        "e": "6720."
+      },
+      "resposta": "a",
+      "explicacao": "Entre as 8! bijeções, as três imagens F(1), F(5), F(3) aparecem em cada uma das 3! ordens com igual frequência, e F(7), F(2) aparecem nas duas ordens com igual frequência. As restrições são independentes, logo 8!/(3!·2!) = 3360."
     }
   ]
 }

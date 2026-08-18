@@ -8494,6 +8494,366 @@
       },
       "resposta": "c",
       "explicacao": "I é falsa: o ímã sobe e desce, o fluxo através da espira cresce e decresce alternadamente, e pela lei de Lenz a corrente inverte o sentido a cada meio ciclo. II também: como não há atrito nem resistência do ar, a única perda é a energia levada pela corrente induzida, de modo que as oscilações vão diminuindo até cessarem — o brilho não se estabiliza, apaga. III é verdadeira: a energia armazenada na mola é kx²/2, e dobrar x quadruplica essa energia; como ela acaba toda dissipada na lâmpada, a energia irradiada também quadruplica. Só III, alternativa C."
+    },
+    {
+      "id": "fisica-2200416",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fgv",
+      "enunciado": "Uma pedra foi arremessada verticalmente para cima, a partir do solo, e permaneceu no ar por 4 s até regressar ao solo. Desprezando a resistência do ar e adotando g = 10 m/s², a altura máxima atingida por essa pedra foi",
+      "alternativas": {
+        "a": "5 m.",
+        "b": "10 m.",
+        "c": "15 m.",
+        "d": "20 m.",
+        "e": "25 m."
+      },
+      "resposta": "d",
+      "explicacao": "Sem resistência do ar, subida e descida são simétricas: dos 4 s no ar, 2 s são de subida e 2 s de descida. Na descida, a pedra parte do repouso no ponto mais alto e cai em queda livre por 2 s: h = ½·g·t² = ½·10·2² = 20 m. Os 5 m correspondem a 1 s de queda, os 10 m ao erro de esquecer o ½, e 15 m e 25 m não saem de nenhuma conta com esses dados."
+    },
+    {
+      "id": "fisica-2200417",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Uma caixa A de massa mA = 40 kg está apoiada sobre uma mesa plana e horizontal e, sobre ela, está apoiada uma outra caixa B de massa mB = 20 kg, de modo que as superfícies em contato dessas caixas sejam paralelas à mesa. Uma pessoa empurra a caixa B exercendo sobre ela uma força horizontal e constante. Sabe-se que entre as superfícies das caixas A e B existe um coeficiente de atrito estático de valor 0,4 e que o atrito entre as superfícies da caixa A e da mesa pode ser desprezado. Adotando g = 10 m/s², a maior intensidade da força que pode ser aplicada sobre a caixa B para que ela não se mova em relação à caixa A é",
+      "alternativas": {
+        "a": "80 N.",
+        "b": "100 N.",
+        "c": "120 N.",
+        "d": "160 N.",
+        "e": "200 N."
+      },
+      "resposta": "c",
+      "explicacao": "Se B não desliza sobre A, as duas caixas aceleram juntas: a = F/(40 + 20) = F/60. Quem acelera a caixa A é só o atrito que B exerce nela: f = mA·a = 40·F/60 = 2F/3. O atrito estático tem limite μ·N = 0,4·(20·10) = 80 N. Então 2F/3 ≤ 80 → F ≤ 120 N. Os 80 N são o próprio limite do atrito, e não a força máxima; 100 N, 160 N e 200 N supõem que toda a força ou metade dela vá para o atrito, o que ignora que B também acelera."
+    },
+    {
+      "id": "fisica-2200419",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Exoplaneta é um planeta situado fora do Sistema Solar, ou seja, que orbita uma estrela que não seja o Sol. Hoje, já são conhecidos milhares de exoplanetas de diferentes tamanhos e composições químicas, desde pequenos maciços e rochosos, até gigantes compostos predominantemente de gás. Considere um hipotético exoplaneta esférico cujo raio corresponda a 60% do raio da Terra. Para que a intensidade do campo gravitacional criado por esse exoplaneta em sua superfície fosse igual à intensidade do campo gravitacional criado pela Terra em sua superfície, ele deveria ter uma massa, comparada à massa da Terra,",
+      "alternativas": {
+        "a": "64% menor.",
+        "b": "36% maior.",
+        "c": "60% menor.",
+        "d": "36% menor.",
+        "e": "64% maior."
+      },
+      "resposta": "a",
+      "explicacao": "Na superfície de um planeta esférico, g = G·M/R². Para o campo ser o mesmo da Terra com raio de 60% do terrestre: M/(0,6R)² = M_T/R² → M = 0,36·M_T. Massa de 36% da massa da Terra é 64% menor. \"36% menor\" confunde a fração restante com a fração perdida; \"60% menor\" trata a massa como proporcional ao raio; e as opções \"maior\" invertem o sentido — com raio menor, precisa-se de MENOS massa para o mesmo campo."
+    },
+    {
+      "id": "fisica-2200420",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Um brinquedo é constituído por dois carrinhos, A e B, e uma mola ideal. Inicialmente, o brinquedo está em repouso, apoiado sobre uma mesa plana e horizontal, com a mola comprimida e travada, armazenando 120 J de energia potencial. Sabe-se que a massa do carrinho B é o dobro da massa do carrinho A. Quando a mola é destravada, os carrinhos são empurrados por ela. Desprezando os atritos, depois de perderem contato com a mola, os carrinhos A e B terão, respectivamente, energias cinéticas iguais a",
+      "alternativas": {
+        "a": "40 J e 80 J.",
+        "b": "60 J e 60 J.",
+        "c": "80 J e 40 J.",
+        "d": "90 J e 30 J.",
+        "e": "100 J e 20 J."
+      },
+      "resposta": "c",
+      "explicacao": "O sistema parte do repouso e não sofre força externa horizontal, então a quantidade de movimento total continua nula: os carrinhos saem com quantidades de movimento de mesmo módulo, p_A = p_B = p. Como E_c = p²/(2m), quem tem menos massa fica com mais energia: E_A/E_B = m_B/m_A = 2. Os 120 J da mola se repartem então em 80 J para A e 40 J para B. \"40 J e 80 J\" dá a energia maior ao carrinho mais pesado, invertendo a relação; \"60 J e 60 J\" ignora a diferença de massa; 90/30 e 100/20 usam razões 3 e 5, que não vêm de massa dupla."
+    },
+    {
+      "id": "fisica-2200423",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Determinada quantidade de gás ideal, armazenada em um recipiente sob pressão de 4 atm, foi transferida para outro recipiente com volume maior. Porém, durante o processo de transferência, 20% da massa total desse gás escapou para a atmosfera e se perdeu, enquanto a massa restante foi armazenada no novo recipiente, onde permaneceu sob pressão de 2 atm. Considerando que as paredes dos dois recipientes sejam isolantes e sabendo que a temperatura da porção do gás restante permaneceu igual à temperatura da porção total inicial, o volume do novo recipiente, em relação ao volume do recipiente inicial, é maior em",
+      "alternativas": {
+        "a": "20%.",
+        "b": "30%.",
+        "c": "40%.",
+        "d": "50%.",
+        "e": "60%."
+      },
+      "resposta": "e",
+      "explicacao": "Equação de estado antes e depois, à mesma temperatura: P₁V₁ = nRT e P₂V₂ = 0,8·nRT, porque 20% do gás se perdeu. Dividindo: P₂V₂/(P₁V₁) = 0,8 → 2·V₂ = 0,8·4·V₁ → V₂ = 1,6·V₁. O novo recipiente é 60% maior. Quem esquece a perda de massa acha V₂ = 2V₁ (100% maior, que nem está entre as opções); 20% é só a fração perdida; 40% e 50% saem de contas com a razão de pressões sem o fator 0,8, ou vice-versa."
+    },
+    {
+      "id": "fisica-2200426",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "O diretor de prova de uma corrida de F1 está parado ao lado da pista de um autódromo, quando um carro se aproxima dele, em alta velocidade, para receber a bandeirada de chegada. Devido ao efeito Doppler, quanto ao som do motor do carro percebido pelo diretor de prova e pelo piloto do carro, nessa aproximação, pode-se afirmar que",
+      "alternativas": {
+        "a": "o diretor de prova e o piloto percebem sons de mesma frequência, mas de diferentes comprimentos de onda.",
+        "b": "o som percebido pelo diretor de prova se propaga mais rápido pelo ar do que o percebido pelo piloto.",
+        "c": "o diretor de prova e o piloto percebem sons de mesmo comprimento de onda, mas de diferentes frequências.",
+        "d": "o diretor de prova percebe um som cuja altura é maior do que a do som percebido pelo piloto.",
+        "e": "o som percebido pelo piloto é mais agudo do que o percebido pelo diretor de prova."
+      },
+      "resposta": "d",
+      "explicacao": "O piloto viaja junto com a fonte, então ouve o motor na frequência real. O diretor de prova, parado, vê a fonte se aproximar: as frentes de onda chegam comprimidas e ele percebe frequência maior — som mais agudo, isto é, de altura maior. É a alternativa correta. As outras erram por: dizer que as frequências são iguais (o efeito Doppler é justamente a diferença de frequência); dizer que a velocidade de propagação muda (ela depende só do ar, não do observador); e trocar quem ouve o som mais agudo — é o diretor, não o piloto."
+    },
+    {
+      "id": "fisica-2200430",
+      "banca": "fgv",
+      "sessao": "fgv-eesp-2022.1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fgv",
+      "enunciado": "Quando uma superfície metálica é exposta à radiação eletromagnética com frequência suficientemente alta, ocorre a emissão de elétrons, fenômeno conhecido como efeito fotoelétrico. A energia mínima necessária para remover um elétron dessa superfície metálica é chamada função trabalho (Φ) do metal. Considere que um veículo espacial esteja em órbita ao redor da Terra e que, devido ao efeito fotoelétrico causado pela luz solar, tenha acumulado cargas elétricas em sua superfície. Sabendo que o casco desse veículo é revestido por Níquel, cuja função trabalho é Φ(Ni) = 8 × 10⁻¹⁹ J, e adotando o valor h = 6,6 × 10⁻³⁴ J·s para a constante de Planck, a menor frequência do espectro solar capaz de fazer com que o casco desse veículo espacial emita fotoelétrons é, aproximadamente,",
+      "alternativas": {
+        "a": "2,4 × 10¹⁴ Hz.",
+        "b": "4,2 × 10¹⁴ Hz.",
+        "c": "1,2 × 10¹⁵ Hz.",
+        "d": "3,6 × 10¹⁵ Hz.",
+        "e": "5,2 × 10¹⁶ Hz."
+      },
+      "resposta": "c",
+      "explicacao": "A frequência de corte é a que dá ao fóton exatamente a função trabalho: h·f = Φ → f = Φ/h = 8 × 10⁻¹⁹ / 6,6 × 10⁻³⁴ ≈ 1,2 × 10¹⁵ Hz. Abaixo disso o fóton não tem energia para arrancar o elétron, por mais intensa que seja a luz. Os valores em 10¹⁴ Hz ficam abaixo do corte (não emitem); 3,6 × 10¹⁵ e 5,2 × 10¹⁶ emitem, mas não são a MENOR frequência pedida."
+    },
+    {
+      "id": "ita-2023-q09",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Uma membrana neuronal tem duas camadas de lipídeos separando meios condutores por fina camada isolante, e proteínas transmembrana atuam como poros, canais iônicos não seletivos. O sistema entre interior e exterior pode ser representado por",
+      "alternativas": {
+        "a": "resistores e fontes de corrente em série.",
+        "b": "fontes de corrente e capacitores em paralelo.",
+        "c": "fontes de corrente e capacitores em série.",
+        "d": "resistores e capacitores em série.",
+        "e": "resistores e capacitores em paralelo."
+      },
+      "resposta": "e",
+      "explicacao": "A bicamada isolante entre meios condutores armazena cargas como um capacitor. Os canais iônicos fornecem caminhos de condução modelados por resistores. Ambos ligam os mesmos meios intra e extracelular, portanto ficam em paralelo."
+    },
+    {
+      "id": "ita-2023-q10",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Uma partícula de massa m e carga de módulo q move-se no vácuo com v⃗ = v senθ ĵ − v cosθ k̂, em B⃗ = B î e g⃗ = −g k̂. θ é escolhido para conservar a energia cinética. A energia cinética é",
+      "alternativas": {
+        "a": "m³g²/(q²B²).",
+        "b": "(2/3)m³g²/(q²B²).",
+        "c": "2m³g²/(q²B²).",
+        "d": "(1/4)m³g²/(q²B²).",
+        "e": "(1/2)m³g²/(q²B²)."
+      },
+      "resposta": "e",
+      "explicacao": "Para a potência total ser nula durante o movimento, a força elétrica magnética deve compensar a gravidade na dinâmica compatível com a direção inicial. A condição de equilíbrio das forças transversais resulta qBv=mg. Assim K=mv²/2=m(mg/qB)²/2=m³g²/(2q²B²). A força de Lorentz decorre do campo magnético agindo sobre a carga elétrica."
+    },
+    {
+      "id": "ita-2023-q05",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere um recipiente tubular fino, em forma de U e com área transversal constante, que contém dois líquidos imiscíveis A e B. As hastes verticais deste recipiente distam L = 20 cm uma da outra. O líquido A, mais denso, ocupa o trecho horizontal inferior do tubo e sobe pelas duas hastes; o líquido B fica sobre A em apenas uma das hastes, e a linha de separação dos líquidos é a interface horizontal entre B e A nessa haste. Na outra haste há somente A. Quando o recipiente está em repouso, o líquido A atinge, nessa outra haste, uma altura de 80 cm em relação à linha de separação dos líquidos. Quando o recipiente é colocado em movimento retilíneo uniformemente variado, com aceleração horizontal na direção que une as duas hastes (no sentido da haste que contém somente A), a altura de A com relação à linha de separação dos líquidos passa a ser H = 76 cm. Considerando-se que o sistema parta do repouso e adotando g = 10 m/s², a distância percorrida pelo recipiente após um intervalo de 3,0 s é",
+      "alternativas": {
+        "a": "2,4 m.",
+        "b": "4,6 m.",
+        "c": "9,0 m.",
+        "d": "1,3×10 m.",
+        "e": "1,8×10 m."
+      },
+      "resposta": "c",
+      "explicacao": "A inclinação da superfície equipotencial no referencial acelerado dá a/g=(80−76)/20=0,20, portanto a=2,0 m/s². Partindo do repouso, s=at²/2=2·3²/2=9,0 m."
+    },
+    {
+      "id": "ita-2023-q12",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Um múon é criado a 100 km de altitude e desce verticalmente a 0,9999c. Seu tempo de vida em repouso é 2,2 μs. A mínima altitude que atinge aproximadamente é",
+      "alternativas": {
+        "a": "0 km.",
+        "b": "0,66 km.",
+        "c": "46 km.",
+        "d": "53 km.",
+        "e": "99 km."
+      },
+      "resposta": "d",
+      "explicacao": "O fator relativístico é γ=1/√(1−0,9999²)≈70,7. No referencial terrestre, a vida média é γ·2,2 μs≈155 μs; nesse tempo percorre aproximadamente 0,9999c·155 μs≈46,6 km. Partindo de 100 km, chega a cerca de 53 km. A dilatação do tempo é calculada pelo fator de Lorentz na relatividade especial."
+    },
+    {
+      "id": "ita-2023-q07",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Numa 'ola', fileiras sucessivas erguem e abaixam os braços; cada participante inicia quando o vizinho encerra. A distância entre cadeiras é D e o tempo do braço é τ.\nI. Se 30.000 pessoas geram 90 dB, 60.000 geram aproximadamente 93 dB.\nII. A onda da coreografia é longitudinal.\nIII. Sua velocidade é diretamente proporcional a τ e inversamente a D.\n\nEstá(ão) correta(s)",
+      "alternativas": {
+        "a": "apenas I e II.",
+        "b": "apenas I.",
+        "c": "apenas II.",
+        "d": "apenas III.",
+        "e": "as três estão incorretas."
+      },
+      "resposta": "b",
+      "explicacao": "Dobrar fontes sonoras independentes dobra a intensidade e acrescenta 10log10(2)≈3 dB, validando I. O deslocamento dos braços é transversal à propagação da ola, tornando II falsa. A velocidade é D/τ, portanto cresce com D e diminui com τ, ao contrário de III."
+    },
+    {
+      "id": "ita-2023-q03",
+      "banca": "ita",
+      "sessao": "ita-2023",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Considere um recipiente, sobre uma plataforma, sujeito à pressão atmosférica P_atm. Esse recipiente contém um volume inicial V_i de um gás ideal monoatômico em equilíbrio e é fechado por um êmbolo de seção transversal de área A e massa m (o gás fica abaixo do êmbolo, e sobre a face externa dele atua P_atm). Para monitorar o movimento do sistema, a plataforma foi suspensa por um dinamômetro. Por causa da ação de uma força externa vertical, o êmbolo atinge uma nova posição de equilíbrio; nessa posição, a leitura do dinamômetro indica que o sistema acelera para cima com 1/10 de g. Considerando que o gás sofre uma transformação adiabática reversível (isentrópica), o módulo Δx de quanto o êmbolo se desloca, com relação ao fundo do recipiente, é",
+      "alternativas": {
+        "a": "(3V_i/2A)[11mg/(50P_atmA+55mg)].",
+        "b": "(V_i/A){1−[(AP_atm+mg)/(AP_atm+1,1mg)]^{5/3}}.",
+        "c": "(3V_i/A)[11mg/(50P_atmA+55mg)].",
+        "d": "(V_i/A)[0,1mg/(AP_atm+1,1mg)].",
+        "e": "(V_i/A){1−[(AP_atm+mg)/(AP_atm+1,1mg)]^{3/5}}."
+      },
+      "resposta": "e",
+      "explicacao": "As pressões inicial e final são P_i=P_atm+mg/A e P_f=P_atm+1,1mg/A. Para gás monoatômico em processo isentrópico, PV^{5/3} é constante, logo V_f/V_i=(P_i/P_f)^{3/5}. Como Δx=(V_i−V_f)/A, resulta a expressão da alternativa E. É um processo térmico de gás ideal entre estados de temperaturas diferentes, equivalente a uma transformação adiabática reversível."
+    },
+    {
+      "id": "ita-2026-q13",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Em um microscópio eletrônico de varredura (MEV), um feixe de elétrons apresenta área transversal A, densidade de carga ρ e velocidade dos elétrons v. Sabendo que a corrente I do feixe é determinada pelo fluxo de carga através da seção reta e que C é uma constante adimensional, assinale a alternativa que representa a relação correta entre I, A, ρ e v.",
+      "alternativas": {
+        "a": "I = CρA²v.",
+        "b": "I = CρAv.",
+        "c": "I = CρAv².",
+        "d": "I = Cρv/A.",
+        "e": "I = CρA/v."
+      },
+      "resposta": "b",
+      "explicacao": "A carga que atravessa a seção em um intervalo Δt ocupa o volume AvΔt, logo ΔQ = CρAvΔt. Portanto I = ΔQ/Δt = CρAv; a mesma conclusão segue da análise dimensional. Fisicamente, é uma corrente elétrica transportada por carga elétrica em movimento."
+    },
+    {
+      "id": "ita-2026-q15",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Um objeto de massa m = 1,00 kg é lançado verticalmente para cima a partir do solo com velocidade inicial v₀ = 30,0 m/s. A força de resistência do ar tem módulo constante f_d = 2,00 N durante toda a trajetória. Ao retornar ao nível do solo, ele colide com uma plataforma de massa desprezível, presa a uma mola ideal vertical de constante elástica k = 800 N/m. Após o impacto, o sistema plataforma-massa desliza sobre apoios verticais, sofrendo uma força dissipativa total constante igual a 410 N. Assinale a alternativa que corresponde, respectivamente, à altura máxima e à energia total dissipada até a mola atingir sua máxima compressão. Adote g = 10 m/s².",
+      "alternativas": {
+        "a": "45,0 m; 180 J.",
+        "b": "45,0 m; 376 J.",
+        "c": "37,5 m; 150 J.",
+        "d": "37,5 m; 355 J.",
+        "e": "37,5 m; 765 J."
+      },
+      "resposta": "d",
+      "explicacao": "Na subida, 450 = (mg+f_d)H = 12H, então H = 37,5 m. A energia ao voltar ao solo é 450−2f_dH = 300 J. Na compressão máxima, 300 + 10x = 400x² + 410x, cuja raiz positiva é x = 0,5 m. A dissipação total é 2f_dH + 410x = 150 + 205 = 355 J. O balanço usa conservação da energia mecânica e acompanha a energia cinética transformada em energia potencial elástica e dissipação."
+    },
+    {
+      "id": "ita-2026-q18",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Um vaso comunicante contém um volume V₀ = 2,00 L de água e possui duas colunas verticais, de áreas de seção A₁ = 100 cm² e A₂ = 400 cm², ligadas pela base por um tubo de conexão horizontal de comprimento L₀ = 10,0 cm e área de seção transversal A_c = 100 cm² (o tubo permanece cheio de água, com volume A_c·L₀, e as alturas h₁ e h₂ da água em cada coluna são medidas a partir do fundo). Sobre cada uma das colunas verticais colocam-se duas massas distintas, apoiadas diretamente sobre a água como êmbolos: m₁ = 200 g sobre a coluna de área A₁ e m₂ = 100 g sobre a coluna de área A₂. Admita que o sistema atinge o equilíbrio estático, que a água é incompressível e despreze o atrito. Dado o exposto, assinale a alternativa que corresponde à altura h₁ da coluna de água sob a massa m₁.",
+      "alternativas": {
+        "a": "6,00 cm.",
+        "b": "2,35 cm.",
+        "c": "1,75 cm.",
+        "d": "0,75 cm.",
+        "e": "0,60 cm."
+      },
+      "resposta": "e",
+      "explicacao": "A igualdade de pressão no fundo dá ρg(h₂−h₁) = m₁g/A₁ − m₂g/A₂, com ρ = 1 g/cm³ a densidade da água, logo h₂−h₁ = 1,75 cm. O volume é A₁h₁ + A₂h₂ + A_cL₀ = 2000 cm³. Substituindo h₂ = h₁+1,75, obtém-se 500h₁ + 1700 = 2000 e h₁ = 0,60 cm."
+    },
+    {
+      "id": "ita-2026-q14",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Uma pequena esfera é abandonada do repouso a partir de uma altura H, em relação ao solo, e cai verticalmente em queda livre. No mesmo instante, um canhão, situado a uma distância horizontal D da trajetória da esfera e a uma altura h relativamente ao solo, dispara um projétil com velocidade v, formando um ângulo θ em relação à horizontal. O projétil atinge a esfera exatamente no instante em que ela toca o solo. Desprezando a resistência do ar, a magnitude da velocidade de lançamento v é",
+      "alternativas": {
+        "a": "√{g[(H−h)²+D²]/(2H)}.",
+        "b": "√{g[(H−h)²+D²]/H}.",
+        "c": "√{g[(H−h)²−D²]/(2H)}.",
+        "d": "√{g[(H−h)²−D²]/H}.",
+        "e": "√{2g[(H−h)²+D²]/H}."
+      },
+      "resposta": "a",
+      "explicacao": "A queda dura t = √(2H/g). Para o encontro, as componentes iniciais do projétil devem ser D/t e (H−h)/t, pois ambos sofrem a mesma aceleração vertical. Assim v² = [D²+(H−h)²]/t² = g[D²+(H−h)²]/(2H)."
+    },
+    {
+      "id": "ita-2026-q20",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Uma fina camada de óleo flutua sobre a água. Os índices de refração do óleo e da água são 3/2 e 4/3. A luz solar incide com ângulo de 45° e o reflexo apresenta forte contribuição em torno de 520 nm. O valor mais próximo da menor espessura da camada de óleo que permite esse efeito é",
+      "alternativas": {
+        "a": "40 nm.",
+        "b": "90 nm.",
+        "c": "100 nm.",
+        "d": "160 nm.",
+        "e": "200 nm."
+      },
+      "resposta": "c",
+      "explicacao": "Na reflexão ar–óleo há inversão de fase e na reflexão óleo–água não. Para interferência construtiva, 2nd cos r = λ/2 no primeiro máximo. Pela lei de Snell, sen r = sin45°/(3/2), dando cos r ≈ 0,88. Assim d ≈ 520/(4·1,5·0,88) nm ≈ 99 nm, isto é, 100 nm."
+    },
+    {
+      "id": "ita-2026-q23",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Um equipamento de ultrassom, em repouso e posicionado próximo a uma artéria, emite uma onda sonora de frequência f e velocidade v que se propaga em sentido oposto ao fluxo de sangue da artéria, é refletida por ele e, posteriormente, captada pelo próprio equipamento, que mede a diferença Δf entre a frequência registrada e a frequência de emissão. A artéria e o coração estão na mesma altura, v_c é a velocidade do sangue no coração, ρ é sua densidade e a velocidade do sangue na artéria é muito menor que v. A variação da pressão sanguínea entre a artéria e o coração é",
+      "alternativas": {
+        "a": "(ρ/2)[v_c²−(2vΔf/f)²].",
+        "b": "ρ[v_c²−(vΔf/(2f))²].",
+        "c": "(ρ/2)[v_c²−(vΔf/(2f))²].",
+        "d": "ρ[2v_c²−(vΔf/f)²].",
+        "e": "(ρ/2)[2v_c²−(vΔf/(2f))²]."
+      },
+      "resposta": "c",
+      "explicacao": "No eco Doppler há duas mudanças de frequência; para u ≪ v, Δf ≈ 2fu/v, logo u = vΔf/(2f). Bernoulli, na mesma altura, dá ΔP = ρ(v_c²−u²)/2, que coincide com a alternativa C."
+    },
+    {
+      "id": "ita-2026-q19",
+      "banca": "ita",
+      "sessao": "ita-2026",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Em um escritório, trabalham 10 funcionários de segunda a sexta, oito horas por dia. O ar-condicionado mantém o local a 17 °C, com ambiente externo a 37 °C. Considere máxima eficiência e que ele age apenas para retirar os 100 W gerados por cada funcionário. Com tarifa de R$ 0,91 por kWh, o custo aproximado durante 4 semanas é",
+      "alternativas": {
+        "a": "R$ 8,00.",
+        "b": "R$ 10,00.",
+        "c": "R$ 14,00.",
+        "d": "R$ 80,00.",
+        "e": "R$ 170,00."
+      },
+      "resposta": "b",
+      "explicacao": "Para uma máquina de Carnot, o coeficiente de desempenho é COP = T_f/(T_q−T_f) = 290/20 = 14,5. A carga térmica é 1 kW, então a potência elétrica é 1/14,5 kW. Em 160 h, o consumo é cerca de 11,0 kWh e o custo é aproximadamente R$ 10,00."
     }
   ]
 }

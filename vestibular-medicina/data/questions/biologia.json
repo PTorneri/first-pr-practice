@@ -9067,6 +9067,116 @@
       },
       "resposta": "a",
       "explicacao": "A encefalização é a diferença anatômica mais marcada entre o Homo sapiens e os demais hominoideos: nossa caixa craniana abriga cerca de 1 350 cm³, contra 400 a 500 cm³ de gorilas e chimpanzés. Alternativa A. A alternativa B inverte a proporção dos membros, pois é nos demais hominoideos que os braços são mais longos que as pernas, adaptação à braquiação; C generaliza massa e ossos maiores, o que vale para o gorila mas não para o gibão; D encurta os dedos dos pés deles, quando são longos e preênseis; e E os dá mandíbulas menores, sendo o prognatismo e a mandíbula robusta justamente o que os distingue de nós."
+    },
+    {
+      "id": "unicamp-biologia-01",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Gráfico",
+        "arquivo": "assets/provas/unicamp-2026-q35.png",
+        "descricao": "Gráfico de caixas da profundidade da glândula intestinal (µm) em camundongos colonizados com microbiota de três populações humanas — EUA, FIJI e GUAT —, comparando controle (caixa branca) e infectado (caixa hachurada). Nos controles as três populações ficam em torno de 145 µm. Nos infectados, EUA sobe para cerca de 230 µm e FIJI para cerca de 230 µm, enquanto GUAT permanece em torno de 150 µm, praticamente igual ao controle."
+      },
+      "enunciado": "A bactéria Citrobacter rodentium é um patógeno que causa aumento da profundidade das glândulas intestinais em camundongos devido à inflamação do cólon. Em um experimento, camundongos livres de germes tiveram seus intestinos colonizados pela microbiota de três populações humanas geograficamente distintas: Estados Unidos (EUA), Ilhas Fiji (FIJI) ou Guatemala (GUAT). Com a colonização bem-sucedida, dois grupos foram estudados: controle (apenas microbiota) e infectado (microbiota e C. rodentium). Após 14 dias, a profundidade das glândulas intestinais desses animais foi avaliada, conforme a figura.\n\nConsiderando as informações apresentadas, é correto afirmar que as diferenças geográficas na composição da microbiota intestinal podem",
+      "fonte_texto": "Adaptado de PORRAS, A. e colaboradores. Cell Reports, Cambridge, v. 36, p. 109457, jul. 2021.",
+      "alternativas": {
+        "a": "impactar a sensibilidade às infecções entéricas, sendo as populações dos EUA e de FIJI as mais suscetíveis",
+        "b": "auxiliar a digestão no trato gastrointestinal, sendo a população da GUAT a mais beneficiada",
+        "c": "impactar a sensibilidade às infecções entéricas, sendo a população da GUAT a mais suscetível",
+        "d": "auxiliar a digestão no trato gastrointestinal, sendo as populações dos EUA e de FIJI as mais beneficiadas"
+      },
+      "explicacao": "A profundidade da glândula é o marcador de inflamação causada pela infecção. Nos animais com microbiota dos EUA e de Fiji, a infecção elevou a medida de ~145 para ~230 µm; nos de microbiota da Guatemala, o infectado ficou igual ao controle (~150 µm). Logo, a microbiota da Guatemala protegeu, e as dos EUA e de Fiji deixaram os animais mais suscetíveis à infecção entérica. O experimento não mede digestão — apenas resposta à infecção.",
+      "resposta": "a",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-biologia-02",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/provas/unicamp-2026-q38.png",
+        "descricao": "Ciclo de vida de um fungo haplobionte haplonte. À esquerda, um indivíduo haploide (n) ligado a outro indivíduo haploide (n) por duas setas pretas em circuito: a seta superior é o evento II e a inferior, o evento I. Do segundo indivíduo (n) saem duas células com flagelo, marcadas n, que se fundem (seta laranja, evento III) formando uma célula 2n; dessa célula 2n uma seta pontilhada amarela (evento IV) volta ao indivíduo haploide."
+      },
+      "enunciado": "Fungos e metazoários evoluíram de um ancestral comum similar aos protistas, entretanto, os dois reinos divergiram ao longo do tempo. Os fungos crescem em cima ou dentro do seu alimento e a digestão ocorre no meio externo. Além disso, a maioria dos representantes dos fungos é composta por organismos com ciclo de vida haplobionte. A figura representa um ciclo de vida típico de um fungo haplobionte haplonte.\n\nAssinale a alternativa que identifica corretamente os eventos I, II, III e IV.",
+      "fonte_texto": "Adaptado de AMSES, K. R. e colaboradores. PNAS, Washington, v.119, p. e2116841119, ago. 2022.",
+      "alternativas": {
+        "a": "I: mitose; II: meiose; III: plasmogamia; IV: meiose",
+        "b": "I: meiose; II: meiose; III: cariogamia; IV: mitose",
+        "c": "I: mitose; II: mitose; III: plasmogamia; IV: meiose",
+        "d": "I: meiose; II: mitose; III: cariogamia; IV: mitose"
+      },
+      "explicacao": "No ciclo haplonte o organismo adulto é haploide (n) e a única fase 2n é o zigoto. As setas I e II ligam indivíduos n a indivíduos n — divisões que mantêm a ploidia, isto é, mitoses (reprodução assexuada e produção de gametas). Em III, dois gametas n se fundem para gerar a célula 2n: é a plasmogamia (fusão de citoplasmas, seguida da cariogamia que forma o zigoto). Em IV, o zigoto 2n volta a n, o que só a meiose faz — a meiose zigótica típica dos fungos.",
+      "resposta": "c",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-biologia-03",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Gráfico",
+        "arquivo": "assets/provas/unicamp-2026-q39.png",
+        "descricao": "Dois gráficos de densidade de populações (0 a 25) em função do tempo, cenários I e II, cada um com três curvas: linha contínua, linha tracejada e linha pontilhada. No cenário I, a contínua cai de 15 para cerca de 10 e se estabiliza; a tracejada cai de 10 até zero; a pontilhada, que começa perto de 2, sobe até cerca de 6,5 e se estabiliza. No cenário II, a contínua sobe de 15 para cerca de 20; a tracejada sobe de 10 para cerca de 14; a pontilhada, que começa perto de 2, oscila e cai a zero."
+      },
+      "enunciado": "Nas invasões biológicas, os predadores exóticos são a maior causa de extinção de espécies e perda de biodiversidade. Isso acontece porque o predador exótico pode tanto consumir a presa nativa quanto competir com o predador nativo. O sucesso da invasão biológica ocorre quando existe a extinção de uma ou ambas as espécies nativas, ou quando existe a redução da população nativa na presença do predador exótico. Na figura, considere os cenários I e II da chegada de um predador exótico em um sistema nativo de presa-predador em equilíbrio.\n\nA partir dessas informações, assinale a alternativa correta.",
+      "fonte_texto": "Adaptado de V. RIVERA-ESTAY e colaboradores. Scientific Reports, Londres, v.14, p. 4416, fev. 2024.",
+      "alternativas": {
+        "a": "O cenário I representa insucesso da invasão biológica. O predador exótico é extinto, causando a redução populacional da presa nativa e o aumento populacional do predador nativo",
+        "b": "O cenário I representa sucesso da invasão biológica. O predador exótico se instala, causando a redução populacional da presa nativa e a extinção do predador nativo",
+        "c": "O cenário II representa sucesso da invasão biológica. O predador exótico se instala, causando a redução populacional do predador nativo e a extinção da presa nativa",
+        "d": "O cenário II representa insucesso da invasão biológica. O predador exótico é extinto, causando a redução populacional da presa nativa e o aumento populacional do predador nativo"
+      },
+      "explicacao": "A curva que começa perto de zero é a do recém-chegado, o predador exótico. No cenário I ela cresce e se estabiliza (o invasor se instala), enquanto a presa nativa cai de 15 para 10 e o predador nativo vai a zero — invasão bem-sucedida, com extinção do predador nativo. No cenário II o invasor é extinto e as duas populações nativas crescem, portanto não há redução da presa, o que derruba a última opção; e ninguém é extinto entre os nativos, o que derruba a terceira.",
+      "resposta": "b",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-biologia-04",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Placa",
+        "arquivo": "assets/provas/unicamp-2026-q40.jpg",
+        "descricao": "Placa de aviso com o título “CUIDADO, INSETOS PERIGOSOS!” e quatro triângulos de alerta vermelhos com desenhos de um mosquito (MOSQUITOS), um carrapato (CARRAPATOS), um escorpião (ESCORPIÕES) e uma abelha (ABELHAS)."
+      },
+      "enunciado": "Considere a placa de aviso encontrada em uma reserva ecológica: “CUIDADO, INSETOS PERIGOSOS!”, ilustrada com mosquitos, carrapatos, escorpiões e abelhas.\n\nA informação da placa está",
+      "fonte_texto": "Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.",
+      "alternativas": {
+        "a": "correta, já que os carrapatos e escorpiões são classificados como quilópodes e os mosquitos e as abelhas como diplópodes",
+        "b": "errada, pois apenas dois animais são artrópodes, sendo eles os mosquitos e as abelhas, que são classificados como insetos",
+        "c": "correta, já que os mosquitos e as abelhas são classificados como artrópodes e os carrapatos e escorpiões como aracnídeos",
+        "d": "errada, pois mesmo que todos os animais sejam classificados como artrópodes, os carrapatos e os escorpiões são aracnídeos"
+      },
+      "explicacao": "Os quatro são artrópodes, mas só mosquitos e abelhas são insetos (três pares de patas, corpo em cabeça, tórax e abdome). Carrapatos e escorpiões têm quatro pares de patas e cefalotórax: são aracnídeos. Logo, a placa erra ao chamar todos de insetos. Quilópodes (lacraias) e diplópodes (piolhos-de-cobra) são outras classes, que não incluem nenhum dos quatro; e dizer que só dois são artrópodes também está errado, porque aracnídeos são artrópodes.",
+      "resposta": "d",
+      "origem": "medicina"
+    },
+    {
+      "id": "unicamp-biologia-05",
+      "banca": "unicamp",
+      "sessao": "unicamp-2026-fase1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Ilustração",
+        "arquivo": "assets/provas/unicamp-2026-q41.jpg",
+        "descricao": "Quatro crânios de hominídeos em perfil, da esquerda para a direita: Australopithecus (crânio pequeno, face projetada), Homo erectus (crânio maior, arcada supraorbital saliente), Homo neanderthalensis (crânio volumoso e alongado, nariz grande) e Homo sapiens (crânio arredondado, testa vertical, queixo)."
+      },
+      "enunciado": "A figura apresenta o crânio de alguns hominídeos que fazem parte da história evolutiva humana.\n\nConsiderando essas informações e os seus conhecimentos em biologia, assinale a alternativa correta.",
+      "fonte_texto": "Adaptado de https://pt.dreamstime.com. Acesso em 31/03/2025.",
+      "alternativas": {
+        "a": "O Australopithecus possuía cérebro pequeno e crânio com a maxila projetada para frente da face. Apresentava bipedismo e utilizava o fogo, o que favoreceu a evolução da espécie",
+        "b": "O Homo erectus possuía cérebro de tamanho médio, fala rudimentar e várias características atuais, como testa plana e proeminente. Foi o primeiro a apresentar bipedismo e usar ferramentas, o que permitiu sua coexistência com outros hominídeos",
+        "c": "O Homo neanderthalensis possuía nariz e narinas voltadas para baixo, além de cérebro bem desenvolvido e capacidade de comunicação. Utilizava o fogo e ferramentas, o que permitiu sua coexistência com outros hominídeos",
+        "d": "O Homo sapiens possui, como característica mais marcante, o cérebro bem desenvolvido e a capacidade da fala. Foi o primeiro a usar o fogo e ferramentas, favorecendo a evolução da espécie"
+      },
+      "explicacao": "Os neandertais tinham cérebro tão grande quanto o nosso (ou maior), nariz amplo, dominavam o fogo, produziam ferramentas e conviveram (e cruzaram) com o Homo sapiens na Eurásia. Os erros das outras: Australopithecus era bípede, mas não usava fogo; o bipedismo é anterior ao Homo erectus (já estava nos australopitecos) e a testa dele era fugidia, não plana e proeminente; e o Homo sapiens não foi o primeiro a usar fogo nem ferramentas — Homo erectus já fazia ambos.",
+      "resposta": "c",
+      "origem": "medicina"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "matematica",
- "total": 1075,
+ "total": 1118,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -1746,7 +1746,7 @@
    "subtema": "matematica-geometria",
    "frenteDestino": "matematica",
    "pontos": 7,
-   "margem": 3
+   "margem": 7
   },
   "dir-matematica-rlm-300": {
    "subtema": "matematica-geometria",
@@ -6391,6 +6391,263 @@
    "frenteDestino": "matematica",
    "pontos": 9,
    "margem": 9
+  },
+  "matematica-220011": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 5
+  },
+  "matematica-220012": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 18,
+   "margem": 4
+  },
+  "matematica-220014": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 5
+  },
+  "matematica-220015": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "matematica-220016": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 7
+  },
+  "matematica-220017": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "matematica-220018": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 5
+  },
+  "matematica-220019": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "matematica-2200110": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "matematica-2200111": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "matematica-2200112": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "matematica-2200113": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "matematica-2200114": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 3
+  },
+  "matematica-2200115": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 3
+  },
+  "matematica-2200116": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "matematica-2200117": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "matematica-2200118": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "matematica-2200124": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "matematica-2200127": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "matematica-2200128": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 2
+  },
+  "matematica-2200129": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "unicamp-matematica-01": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "unicamp-matematica-02": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "ita-2023-q37": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 4
+  },
+  "ita-2023-q41": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "ita-2023-q47": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "ita-2023-q38": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 1,
+   "margem": 1
+  },
+  "ita-2023-q43": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "ita-2023-q39": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "ita-2023-q42": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "ita-2023-q44": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 15,
+   "margem": 12
+  },
+  "ita-2023-q46": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 18,
+   "margem": 15
+  },
+  "ita-2023-q40": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 1
+  },
+  "ita-2023-q48": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "ita-2023-q45": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "ita-2026-q07": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "ita-2026-q10": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "ita-2026-q05": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 14
+  },
+  "ita-2026-q09": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 16,
+   "margem": 11
+  },
+  "ita-2026-q04": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 3
+  },
+  "ita-2026-q12": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 1
+  },
+  "ita-2026-q08": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 7
+  },
+  "ita-2026-q11": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
   }
  }
 }

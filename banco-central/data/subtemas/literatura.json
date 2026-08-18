@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "literatura",
- "total": 460,
+ "total": 466,
  "residuo": [
   "dir-literatura-53",
   "dir-literatura-55",
@@ -2717,6 +2717,38 @@
    "frenteDestino": "literatura",
    "pontos": 5,
    "margem": 0
+  },
+  "unicamp-literatura-01": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "unicamp-literatura-02": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 4,
+   "margem": 4
+  },
+  "unicamp-literatura-03": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "unicamp-literatura-04": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "unicamp-literatura-05": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "unicamp-literatura-06": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 9
   }
  }
 }

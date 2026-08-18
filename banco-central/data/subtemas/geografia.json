@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "geografia",
- "total": 610,
+ "total": 625,
  "residuo": [
   "dir-geografia-24",
   "dir-geografia-28",
@@ -3633,6 +3633,94 @@
    "frenteDestino": "geografia",
    "pontos": 15,
    "margem": 10
+  },
+  "geografia-220021": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "geografia-220022": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "geografia-220023": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 2
+  },
+  "geografia-220024": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "geografia-220026": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 11
+  },
+  "geografia-220028": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "geografia-220029": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "geografia-2200210": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "geografia-2200213": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "geografia-2200214": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "geografia-2200215": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "unicamp-geografia-01": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "unicamp-geografia-02": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "unicamp-geografia-03": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "unicamp-geografia-04": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "revisado": true
   }
  }
 }

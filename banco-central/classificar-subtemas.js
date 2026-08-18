@@ -2139,6 +2139,36 @@ const REVISADAS = {
   "ita-2023-q56": "quimica-equilibrio-acido-base",
   "ita-2026-q19": "fisica-termologia",
 
+  // ENEM 2022 (D1 azul + D2 amarelo): 9 pinos em 153. Todos os casos em que a
+  // regra divergiu do extrator, que leu o caderno -- 6 por empate/margem 0-1
+  // no texto verbatim da banca, 3 sem pontuacao (caiam no padrao da frente).
+  // Tamborete de baiana como patrimonio museologico: identidade e cultura
+  // material, nao teoria do conhecimento (empate a 0).
+  "enem-filosofia-sociologia-46": "sociologia-cultura-identidade",
+  // Cancao "Do Brasil": o campo que alimenta a cidade -- espaco agrario,
+  // nao urbano ("cidade" e "moradia" vinham dos distratores).
+  "enem-geografia-28": "geografia-agraria-economica",
+  // Tarifa Externa Comum do Mercosul: bloco economico e uniao aduaneira, que
+  // e geopolitica; "tarifa"/"exportacao" puxavam para agraria-economica.
+  "enem-geografia-31": "geografia-geopolitica",
+  // Ferrovia Madeira-Mamore e o Hospital da Candelaria (1907-1912): Primeira
+  // Republica, nao colonia/imperio ("Coroa" nao aparece; empate a 0).
+  "enem-historia-24": "historia-brasil-republica",
+  // Primeiro de Maio de 1890 e a classe operaria europeia: contemporanea
+  // (seculo XIX industrial); "Revolucao Francesa" citada de passagem puxava moderna.
+  "enem-historia-29": "historia-geral-contemporanea",
+  // Acude Itans, Caico (RN), obra contra a seca do sertao nos anos 1930:
+  // Brasil Republica. Sem palavra-chave, caia no padrao da frente.
+  "enem-historia-30": "historia-brasil-republica",
+  // Incas, astecas e maias antes da conquista: mesmo precedente de
+  // enem-historia-07 -- civilizacoes pre-colombianas ficam em antiga-medieval;
+  // "espanhois"/"colonial" mandavam para o Brasil colonia.
+  "enem-historia-34": "historia-geral-antiga-medieval",
+  // "O autor destaca..." e "o texto aborda... com o objetivo de": ideia
+  // central/proposito, nao detalhe. Sem pontuacao, caiam no padrao (detail).
+  "enem-ingles-08": "ingles-main-idea",
+  "enem-ingles-09": "ingles-main-idea",
+
 };
 
 // ------------------------------------------------------------------- classificação

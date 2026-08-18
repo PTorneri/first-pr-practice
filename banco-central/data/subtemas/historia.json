@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "historia",
- "total": 590,
+ "total": 601,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -3508,6 +3508,68 @@
   },
   "unicamp-historia-07": {
    "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "enem-historia-24": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "enem-historia-25": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-historia-26": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-historia-27": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-historia-28": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-historia-29": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "enem-historia-30": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "enem-historia-31": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "enem-historia-32": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-historia-33": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-historia-34": {
+   "subtema": "historia-geral-antiga-medieval",
    "frenteDestino": "historia",
    "revisado": true
   }

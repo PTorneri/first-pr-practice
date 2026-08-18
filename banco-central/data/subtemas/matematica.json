@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "matematica",
- "total": 1118,
+ "total": 1152,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -6648,6 +6648,210 @@
    "frenteDestino": "matematica",
    "pontos": 3,
    "margem": 3
+  },
+  "enem-matematica-62": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 11
+  },
+  "enem-matematica-63": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "enem-matematica-64": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "enem-matematica-65": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 4
+  },
+  "enem-matematica-66": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-matematica-67": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "enem-matematica-68": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "enem-matematica-69": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 2,
+   "margem": 2
+  },
+  "enem-matematica-70": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-matematica-71": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 1
+  },
+  "enem-matematica-72": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "enem-matematica-73": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 6
+  },
+  "enem-matematica-74": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-matematica-75": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 1
+  },
+  "enem-matematica-76": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "enem-matematica-77": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "enem-matematica-78": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "enem-matematica-79": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "enem-matematica-80": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 1
+  },
+  "enem-matematica-81": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "enem-matematica-82": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 5
+  },
+  "enem-matematica-83": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 2,
+   "margem": 2
+  },
+  "enem-matematica-84": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "enem-matematica-85": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 11
+  },
+  "enem-matematica-86": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "enem-matematica-87": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-matematica-88": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "enem-matematica-89": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "enem-matematica-90": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 3
+  },
+  "enem-matematica-91": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "enem-matematica-92": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 5
+  },
+  "enem-matematica-93": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 2
+  },
+  "enem-matematica-94": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "enem-matematica-95": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
   }
  }
 }

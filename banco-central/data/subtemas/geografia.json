@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "geografia",
- "total": 625,
+ "total": 637,
  "residuo": [
   "dir-geografia-24",
   "dir-geografia-28",
@@ -3721,6 +3721,76 @@
    "subtema": "geografia-geopolitica",
    "frenteDestino": "geografia",
    "revisado": true
+  },
+  "enem-geografia-25": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "enem-geografia-26": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "enem-geografia-27": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-geografia-28": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "enem-geografia-29": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "enem-geografia-30": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "enem-geografia-31": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "enem-geografia-32": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "enem-geografia-33": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "enem-geografia-34": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-geografia-35": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "enem-geografia-36": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 15
   }
  }
 }

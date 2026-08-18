@@ -5845,6 +5845,366 @@
       "explicacao": "Cícero une os dois textos: a justiça tem por fundamento não prejudicar ninguém e servir à utilidade comum (texto 1), e sua base é a lei natural, “a reta razão ao obrigar e proibir”, escrita ou não (texto 2). A alternativa correta junta as duas peças. Reduzir a justiça à obediência às leis escritas é justamente a tese que ele refuta; dizer que a injustiça ocorre quando a utilidade “deixa de ser a medida” inverte o argumento (é medir tudo pela utilidade que destrói a justiça); e o vantajoso para si é o que corrói a lei, não o que a cumpre.",
       "resposta": "b",
       "origem": "medicina"
+    },
+    {
+      "id": "enem-filosofia-sociologia-34",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Sempre que a relevância do discurso entra em jogo, a questão torna-se política por definição, pois é o discurso que faz do homem um ser político. E tudo que os homens fazem, sabem ou experimentam só tem sentido na medida em que pode ser discutido. Haverá, talvez, verdades que ficam além da linguagem e que podem ser de grande relevância para o homem no singular, isto é, para o homem que, seja o que for, não é um ser político. Mas homens no plural, isto é, os homens que vivem e se movem e agem neste mundo, só podem experimentar o significado das coisas por poderem falar e ser inteligíveis entre si e consigo mesmos.",
+      "fonte_texto": "ARENDT, H. A condição humana. Rio de Janeiro: Forense Universitária, 2004.",
+      "enunciado": "No trecho, a filósofa Hannah Arendt mostra a importância da linguagem no processo de",
+      "alternativas": {
+        "a": "entendimento da cultura.",
+        "b": "aumento da criatividade.",
+        "c": "percepção da individualidade.",
+        "d": "melhoria da técnica.",
+        "e": "construção da sociabilidade."
+      },
+      "resposta": "e",
+      "explicacao": "Para Arendt, o discurso é o que faz do homem um ser político, e o sentido das coisas só existe entre \"homens no plural\", que falam e se tornam inteligíveis uns aos outros. A linguagem, portanto, é a condição da vida em comum — da sociabilidade. A percepção da individualidade (c) é o oposto do que o texto valoriza: as verdades do \"homem no singular\", fora da linguagem, são justamente as que não são políticas. Cultura, criatividade e técnica (a, b, d) não são o foco do trecho."
+    },
+    {
+      "id": "enem-filosofia-sociologia-35",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "texto_apoio": "Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos no regime da chibata?",
+      "fonte_texto": "JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.",
+      "enunciado": "O texto, que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o(a):",
+      "alternativas": {
+        "a": "Racismo estrutural.",
+        "b": "Desemprego latente.",
+        "c": "Concentração de renda.",
+        "d": "Exclusão informacional.",
+        "e": "Precariedade da educação."
+      },
+      "resposta": "a",
+      "explicacao": "Carolina Maria de Jesus descreve um agente do Estado branco espancando e amarrando um homem negro a uma árvore, e associa a cena ao \"regime da chibata\" — a escravidão que, oficialmente extinta, sobrevive nas práticas e instituições. Violência racial reproduzida por quem representa o poder público é a marca do racismo estrutural. Os demais itens nomeiam problemas sociais reais, mas nenhum deles é o que a cena narrada expõe: não há menção a renda, emprego, escola ou acesso à informação."
+    },
+    {
+      "id": "enem-filosofia-sociologia-36",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "texto_apoio": "TEXTO I\n[Charge: entre casas de uma favela, um menino no telhado ergue o celular; balões:] \"TÁ ESTUDANDO, JÚNIOR?\" — \"CALMA, TÔ TENTANDO ACHAR UM SINAL DE WI-FI!\"\nCAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).\n\nTEXTO II\nÉ como se os problemas fossem criados pela pandemia quando, em verdade, isso só demonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá, empurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam que parcela significativa dos estudantes não têm acesso à internet em suas casas, não têm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a todas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular?",
+      "fonte_texto": "ASSIS, A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).",
+      "enunciado": "A crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade contemporânea:",
+      "alternativas": {
+        "a": "Exclusão social.",
+        "b": "Expansão digital.",
+        "c": "Manifestação cultural.",
+        "d": "Organização espacial.",
+        "e": "Valorização intelectual."
+      },
+      "resposta": "a",
+      "explicacao": "A charge mostra um estudante que precisa caçar sinal de wi-fi para \"estudar\", e o texto explica que a pandemia só expôs o que já existia: parcela significativa dos alunos sem internet, sem computador, com pacotes de dados insuficientes. Quem não tem os meios de acesso fica de fora da escola remota — é exclusão social, com sua face digital. \"Expansão digital\" (b) inverte o sentido da crítica, que é justamente a falta de acesso; cultura, espaço e valorização intelectual (c, d, e) não são o ponto."
+    },
+    {
+      "id": "enem-filosofia-sociologia-37",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "O leproso é visto dentro de uma prática da rejeição, do exílio-cerca; deixa-se que se perca lá dentro como numa massa que não tem muita importância diferenciar; os pestilentos são considerados num policiamento tático meticuloso onde as diferenciações individuais são os efeitos limitantes de um poder que se multiplica, se articula e se subdivide. O grande fechamento por um lado; o bom treinamento por outro. A lepra e sua divisão; a peste e seus recortes. Uma é marcada; a outra, analisada e repartida. O exílio do leproso e a prisão da peste não trazem consigo o mesmo sonho político.",
+      "fonte_texto": "FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987.",
+      "enunciado": "Os modelos autoritários descritos no texto apontam para um sistema de controle que se baseia no(a):",
+      "alternativas": {
+        "a": "Formação de sociedade disciplinar.",
+        "b": "Flexibilização do regramento social.",
+        "c": "Banimento da autoridade repressora.",
+        "d": "Condenação da degradação humana.",
+        "e": "Hierarquização da burocracia estatal."
+      },
+      "resposta": "a",
+      "explicacao": "Foucault contrapõe dois modelos: a exclusão do leproso (o \"grande fechamento\") e o esquadrinhamento da cidade pestilenta, com \"policiamento tático meticuloso\", vigilância e \"bom treinamento\" de cada indivíduo. É desse segundo modelo, do poder que \"se multiplica, se articula e se subdivide\", que nasce a sociedade disciplinar analisada em Vigiar e punir. Flexibilizar regras ou banir a repressão (b, c) contradiz o texto, que descreve controle intensificado; degradação humana e burocracia (d, e) não são o objeto da análise."
+    },
+    {
+      "id": "enem-filosofia-sociologia-38",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "TEXTO I\nEm março de 1889, quando apareceram as primeiras romarias atraídas pelos milagres da beata Maria de Araújo, Juazeiro inseriu-se no rol da fundação do espaço religioso. Construía-se mais um centro, como Aparecida do Norte, Canindé ou Lourdes.\nRAMOS, F. R. L. O meio do mundo: território sagrado em Juazeiro do Padre Cícero. Fortaleza: Imprensa Universitária, 2014.\n\nTEXTO II\nNão sabemos ao certo quantas pessoas estavam presentes na capela no momento em que a hóstia sangrou na boca de Maria de Araújo. O Padre Cícero nos conta que o fato surpreendeu não só aos presentes, mas a própria beata parecia atordoada com o ocorrido. O fenômeno continuou acontecendo todas as quartas e sextas na Capela de Nossa Senhora das Dores a partir daquele dia. Os paninhos manchados do sangue que escorria da hóstia e da boca da beata, a princípio, ficaram sob a guarda do Padre Cícero, mas logo foram expostos à visitação pública e, além disso, o sangramento foi proclamado como milagre sem o conhecimento e sem a autorização do bispo diocesano.",
+      "fonte_texto": "NOBRE, E. Incêndios da alma. Rio de Janeiro: Multifoco, 2016 (adaptado).",
+      "enunciado": "As práticas religiosas mencionadas nos textos estão associadas, respectivamente, à:",
+      "alternativas": {
+        "a": "Delimitação de paisagens urbanas e abandono de componentes espiritualistas.",
+        "b": "Demarcação de patrimônios afetivos e apropriação de elementos judaizantes.",
+        "c": "Expansão de fronteiras regionais e subjetivação do cristianismo medieval.",
+        "d": "Circunscrição de bens simbólicos e admissão de cerimônias ecumênicas.",
+        "e": "Criação de lugares místicos e experiências do catolicismo popular."
+      },
+      "resposta": "e",
+      "explicacao": "O Texto I trata da \"fundação do espaço religioso\": as romarias transformam Juazeiro em um centro sagrado, ao lado de Aparecida, Canindé e Lourdes — criação de um lugar místico. O Texto II descreve o milagre da hóstia, os paninhos expostos à visitação e a proclamação do milagre \"sem a autorização do bispo\" — uma devoção que nasce do povo e à margem da hierarquia, isto é, catolicismo popular, expressão da cultura religiosa do sertão. Os demais pares trazem termos sem lastro nos textos: não há abandono da espiritualidade, elementos judaizantes, cristianismo medieval nem ecumenismo."
+    },
+    {
+      "id": "enem-filosofia-sociologia-39",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Um experimento denominado FunFit foi desenvolvido com o objetivo de fazer com que os membros de uma comunidade local se tornassem mais ativos fisicamente. Todos os participantes do estudo foram vinculados a dois outros membros da comunidade que receberiam pequenos incentivos em dinheiro para serem estimulados a aumentar a sua atividade física, que era medida por acelerômetros nos celulares fornecidos pelo estado. Assim, se a pessoa andasse mais do que o habitual, seus conhecidos receberiam o dinheiro. Os resultados foram assombrosos: o esquema mostrou-se de quatro a oito vezes mais eficaz do que o método de oferecer incentivos individuais.",
+      "fonte_texto": "MOROZOV, E. Big Tech: a ascensão dos dados e a morte da política. São Paulo: Ubu, 2018 (adaptado).",
+      "enunciado": "Contrariando a visão prevalente sobre o impacto tecnológico nas relações humanas, o texto revela que os celulares podem desempenhar uma função",
+      "alternativas": {
+        "a": "recreativa, promovendo o lazer em redes integradas.",
+        "b": "social, estimulando a reciprocidade por meios digitais.",
+        "c": "laboral, convertendo o desenvolvedor em usuário final.",
+        "d": "comercial, direcionando a escolha por produtos industrializados.",
+        "e": "cognitiva, favorecendo a aprendizagem pelas ferramentas virtuais."
+      },
+      "resposta": "b",
+      "explicacao": "No FunFit, quem se exercita não ganha nada para si — o prêmio vai para dois conhecidos, e é esse laço que faz o esquema render de quatro a oito vezes mais que o incentivo individual. O celular, medindo os passos, vira o meio de uma troca entre pessoas: reciprocidade, função social. A visão \"prevalente\" que o texto contraria é a de que a tecnologia isola. Não se trata de lazer, trabalho, consumo nem aprendizagem (a, c, d, e), que não aparecem no experimento."
+    },
+    {
+      "id": "enem-filosofia-sociologia-40",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "texto_apoio": "A dublagem é o novo campo a ser explorado pela inteligência artificial, e há empresas dedicadas a fazer com que as vozes originais de atores sejam transpostas para outros idiomas. A novidade reforça a tendência da automação de postos de trabalho nas mais diversas áreas. Tem potencial para facilitar a vida de estúdios e produtoras e, ao mesmo tempo, tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso.",
+      "fonte_texto": "GAGLIONI, C. Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.",
+      "enunciado": "A consequência da mudança tecnológica apresentada no texto é a",
+      "alternativas": {
+        "a": "proteção da economia nacional.",
+        "b": "valorização da cultura tradicional.",
+        "c": "diminuição da formação acadêmica.",
+        "d": "estagnação da manifestação artística.",
+        "e": "ampliação do desemprego estrutural."
+      },
+      "resposta": "e",
+      "explicacao": "O texto é explícito: a inteligência artificial na dublagem \"reforça a tendência da automação de postos de trabalho\" e torna \"mais escassas as oportunidades\" para dubladores. Postos que desaparecem por mudança técnica — a automação é uma face da reestruturação produtiva —, e não por crise passageira, configuram desemprego estrutural. Nada no texto fala de proteção econômica, cultura tradicional ou formação acadêmica (a, b, c), e a arte não \"estagna\" (d) — o que muda é quem faz o trabalho."
+    },
+    {
+      "id": "enem-filosofia-sociologia-41",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "[Ilustração: uma espiral que repete, volta após volta, a sequência TENSÃO → AGRESSÃO → LUA DE MEL; a cada ciclo a espiral se estreita, até chegar, no alto, a MORTE, marcada por uma cruz. Legenda das fases:]\nLUA DE MEL — carinho, paixão, presentes, promessas, reconciliação, liberdade\nTENSÃO — insulto, humilhação, intimidação, gritos, ameaça, controle, isolamento, medo, conflitos, descumprimento de promessa\nAGRESSÃO — empurrão, beliscão, puxão de cabelo, sufocamento, arremesso de objetos, tapa, chute, espancamento",
+      "fonte_texto": "Disponível em: https://ndmais.com.br. Acesso em: 8 out. 2021.",
+      "enunciado": "O ápice da ilustração se traduz por uma conduta social caracterizada pela",
+      "alternativas": {
+        "a": "cultura do cancelamento.",
+        "b": "prática do feminicídio.",
+        "c": "postura negacionista.",
+        "d": "ação involuntária.",
+        "e": "defesa da honra."
+      },
+      "resposta": "b",
+      "explicacao": "A ilustração é o ciclo da violência doméstica contra a mulher: tensão (controle, isolamento, ameaças), agressão física e \"lua de mel\" (presentes, promessas de mudança), repetidos até que a espiral termine em morte. O desfecho desse ciclo é o feminicídio. \"Defesa da honra\" (e) é a velha justificativa usada por agressores, não a conduta que o ápice representa; a morte no fim de um ciclo repetido não é involuntária (d); cancelamento e negacionismo (a, c) não têm relação com a cena."
+    },
+    {
+      "id": "enem-filosofia-sociologia-42",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "texto_apoio": "Após sete anos da ocupação de um terreno abandonado em Santo André, no ABC paulista, os condomínios Novo Pinheirinho e Santos Dias foram inaugurados, com a presença de representantes dos governos federal, estadual e municipal. A ocupação começou em 2012 e, desde então, o movimento vinha reivindicando o direito de usufruir do espaço para a construção de casas. A Carta Magna, em seu art. 6º, garante a todos os brasileiros o direito à moradia.",
+      "fonte_texto": "PUTTI, A. Disponível em: www.cartacapital.com.br. Acesso em: 13 nov. 2021 (adaptado).",
+      "enunciado": "O texto apresenta uma estratégia usada pelo movimento social para",
+      "alternativas": {
+        "a": "fragilizar o poder público.",
+        "b": "fomentar a economia solidária.",
+        "c": "controlar a propriedade estatal.",
+        "d": "garantir o preceito constitucional.",
+        "e": "incentivar a especulação imobiliária."
+      },
+      "resposta": "d",
+      "explicacao": "A ocupação de um terreno abandonado foi o instrumento de pressão pelo qual o movimento cobrou o que o art. 6º da Constituição já promete — o direito à moradia —, e a inauguração dos condomínios com os três níveis de governo mostra o Estado reconhecendo a reivindicação. Não se trata de enfraquecer ou controlar o poder público (a, c): o movimento o aciona; especulação imobiliária (e) é justamente o que a ocupação de terreno ocioso combate; economia solidária (b) não aparece no texto."
+    },
+    {
+      "id": "enem-filosofia-sociologia-43",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "texto_apoio": "TEXTO I\nInterseccionalidade: intercruzamento de desigualdades que gera padrões complexos de discriminação.\n\nTEXTO II\nProporção de pessoas abaixo da linha de pobreza, por arranjo domiciliar no Brasil — 2017\nMulher sem cônjuge e com filho(s) até 14 anos: 56,9%\n— Mulher preta ou parda sem cônjuge e com filho(s) até 14 anos: 64,4%\n— Mulher branca sem cônjuge e com filho(s) até 14 anos: 41,5%\nCasal com filho(s): 30,4%\nOutros: 21,0%\nUnipessoal: 11,6%\nCasal sem filho: 10,0%",
+      "fonte_texto": "Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.",
+      "enunciado": "Considerando o conceito apresentado no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:",
+      "alternativas": {
+        "a": "Raça e gênero.",
+        "b": "Etnia e habitação.",
+        "c": "Idade e nupcialidade.",
+        "d": "Profissão e sexualidade.",
+        "e": "Escolaridade e fecundidade."
+      },
+      "resposta": "a",
+      "explicacao": "Os dados cruzam duas variáveis: ser mulher chefiando o domicílio sozinha (56,9% abaixo da linha de pobreza, contra 30,4% dos casais com filhos) e a cor dessa mulher (64,4% entre pretas e pardas, 41,5% entre brancas). Gênero e raça se sobrepõem e agravam a desigualdade — é exatamente o intercruzamento que o Texto I chama de interseccionalidade. Idade, profissão, sexualidade, escolaridade e fecundidade (c, d, e) não constam do gráfico; \"habitação\" (b) confunde arranjo domiciliar com moradia."
+    },
+    {
+      "id": "enem-filosofia-sociologia-44",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "texto_apoio": "O princípio básico do Estado de direito é o da eliminação do arbítrio no exercício dos poderes públicos, com a consequente garantia de direitos dos indivíduos perante esses poderes. Estado de direito significa que nenhum indivíduo, presidente ou cidadão comum está acima da lei. Os governos democráticos exercem a autoridade por meio da lei e estão eles próprios sujeitos aos constrangimentos impostos pela lei.",
+      "fonte_texto": "CANOTILHO, J. J. G. Estado de direito. Lisboa: Gradiva, 1999 (adaptado).",
+      "enunciado": "Nas sociedades contemporâneas, consiste em violação do princípio básico enunciado no texto:",
+      "alternativas": {
+        "a": "Supressão de eleições de representantes políticos.",
+        "b": "Intervenção em áreas de vulnerabilidade pela Igreja.",
+        "c": "Disseminação de projetos sociais em universidades.",
+        "d": "Ampliação dos processos de concentração de renda.",
+        "e": "Regulamentação das relações de trabalho pelo Legislativo."
+      },
+      "resposta": "a",
+      "explicacao": "O princípio é a eliminação do arbítrio: o poder se exerce pela lei e dentro dela. Suprimir eleições — o mecanismo da democracia representativa — é o governante colocar-se acima da lei que organiza a escolha dos representantes — arbítrio puro, ruptura do Estado de direito. Regulamentar o trabalho pelo Legislativo (e) é o contrário: poder exercido \"por meio da lei\". Ação da Igreja, projetos sociais e concentração de renda (b, c, d) podem ser discutíveis, mas não configuram exercício arbitrário do poder público."
+    },
+    {
+      "id": "enem-filosofia-sociologia-45",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "texto_apoio": "O povo Kambeba é o povo das águas. Os mais velhos costumam contar que o povo nasceu de uma gota-d'água que caiu do céu em uma grande chuva. Nessa gota estavam duas gotículas: o homem e a mulher. \"Por essa narrativa e cosmologia indígena de que nós somos o povo das águas é que o rio nos tem fundamental importância\", diz Márcia Wayna Kambeba, mestre em Geografia e escritora. Todos os dias, ela ia com o pai observar o rio. Ia em silêncio e, antes que tomasse para si a palavra, era interrompida. \"Ouça o rio\", o pai dizia. Depois de cerca de duas horas a ouvir as águas do Solimões, ela mergulhava. \"Confie no rio e aprenda com ele\". \"Fui entender mais tarde, com meus estudos e vivências, que meu pai estava me apresentando à sabedoria milenar do rio\".",
+      "fonte_texto": "Rios amazônicos influenciam no agro e em reservatórios do Sudeste. Disponível em: www.uol.com.br. Acesso em: 14 out. 2021.",
+      "enunciado": "Pelo descrito no texto, o povo Kambeba tem o rio como um(a)",
+      "alternativas": {
+        "a": "objeto tombado e museográfico.",
+        "b": "herança religiosa e sacralizada.",
+        "c": "cenário bucólico e paisagístico.",
+        "d": "riqueza individual e efêmera.",
+        "e": "patrimônio cultural e afetivo."
+      },
+      "resposta": "e",
+      "explicacao": "O rio aparece como origem do povo na cosmologia, como mestre (\"aprenda com ele\") e como vínculo transmitido de pai para filha em visitas diárias — um bem coletivo, cultural e carregado de afeto. Não é peça de museu (a) nem mera paisagem contemplada de fora (c); é vivo e cotidiano. \"Riqueza individual e efêmera\" (d) contradiz a \"sabedoria milenar\" partilhada pelo povo. A opção (b) tenta, mas o texto fala de cosmologia e sabedoria, sem culto ou sacralização — o rio é herança de cultura e de vivência, não de rito."
+    },
+    {
+      "id": "enem-filosofia-sociologia-46",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Hoje sou um ser inanimado, mas já tive vida pulsante em seivas vegetais, fui um ser vivo; é bem verdade que do reino vegetal, mas isso não me tirou a percepção de vida vivida como tamborete. Guardo apreço pelos meus criadores, as mãos que me fizeram, me venderam, e pelas mulheres que me usaram para suas vendas e de tantas outras maneiras. Essas pessoas, sim, tiveram suas subjetividades, singularidades e pluralidades, que estão incorporadas a mim. É preciso considerar que a nossa história, de móveis de museus, está para além da mera vinculação aos estilos e à patrimonialização que recebemos como bem material vinculado ao patrimônio imaterial. A nossa história está ligada aos dons individuais das pessoas e suas práticas sociais. Alguns indivíduos consagravam-se por terem determinados requisitos, tais como o conhecimento de modelos clássicos ou destreza nos desenhos.",
+      "fonte_texto": "FREITAS, J. M.; OLIVEIRA, L. R. Memórias de um tamborete de baiana: as muitas vozes em um objeto de museu. Revista Brasileira de Pesquisa (Auto)Biográfica, n. 14, maio-ago. 2020 (adaptado).",
+      "enunciado": "Ao descrever-se como patrimônio museológico, o objeto abordado no texto associa a sua história às",
+      "alternativas": {
+        "a": "habilidades artísticas e culturais dos sujeitos.",
+        "b": "vocações religiosas e pedagógicas dos mestres.",
+        "c": "naturezas antropológica e etnográfica dos expositores.",
+        "d": "preservações arquitetônica e visual dos conservatórios.",
+        "e": "competências econômica e financeira dos comerciantes."
+      },
+      "resposta": "a",
+      "explicacao": "O tamborete diz que sua história \"está ligada aos dons individuais das pessoas e suas práticas sociais\" — as mãos que o fizeram, com \"conhecimento de modelos clássicos ou destreza nos desenhos\", e as baianas que o usaram. São habilidades artísticas e práticas culturais dos sujeitos, não o estilo ou a etiqueta de museu. Não se fala de religião ou pedagogia (b), de expositores (c), de arquitetura (d); e a venda é citada de passagem, sem que a história do objeto seja reduzida à competência comercial (e)."
+    },
+    {
+      "id": "enem-filosofia-sociologia-47",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Advento da Polis, nascimento da filosofia: entre as duas ordens de fenômenos, os vínculos são demasiado estreitos para que o pensamento racional não apareça, em suas origens, solidário das estruturas sociais e mentais próprias da cidade grega. Assim recolocada na história, a filosofia despoja-se desse caráter de revelação absoluta que às vezes lhe foi atribuído, saudando, na jovem ciência dos jônios, a razão intemporal que veio encarnar-se no Tempo. A escola de Mileto não viu nascer a Razão; ela construiu uma Razão, uma primeira forma de racionalidade. Essa razão grega não é a razão experimental da ciência contemporânea.",
+      "fonte_texto": "VERNANT, J. P. Origens do pensamento grego. Rio de Janeiro: Difel, 2002.",
+      "enunciado": "Os vínculos entre os fenômenos indicados no trecho foram fortalecidos pelo surgimento de uma categoria de pensadores, a saber:",
+      "alternativas": {
+        "a": "Os epicuristas, envolvidos com o ideal de vida feliz.",
+        "b": "Os estoicos, dedicados à superação dos infortúnios.",
+        "c": "Os sofistas, comprometidos com o ensino da retórica.",
+        "d": "Os peripatéticos, empenhados na dinâmica do ensino.",
+        "e": "Os poetas rapsodos, responsáveis pela narrativa do mito."
+      },
+      "resposta": "c",
+      "explicacao": "Vernant liga o nascimento da filosofia à pólis, cuja vida se decide pela palavra na ágora. Os pensadores que estreitaram esse laço entre razão e cidade foram os sofistas: mestres da retórica, ensinavam o cidadão a argumentar na assembleia e nos tribunais — a razão posta a serviço da política. Epicuristas, estoicos e peripatéticos (a, b, d) são posteriores, do período helenístico ou da escola de Aristóteles, e voltados à conduta individual ou à ciência, não à vida da pólis; os rapsodos (e) pertencem ao mito, que a filosofia justamente supera."
+    },
+    {
+      "id": "enem-filosofia-sociologia-48",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "TEXTO I\nUma filosofia da percepção que queira reaprender a ver o mundo restituirá à pintura e às artes em geral seu lugar verdadeiro.\nMERLEAU-PONTY, M. Conversas: 1948. São Paulo: Martins Fontes, 2004.\n\nTEXTO II\nOs grandes autores de cinema nos pareceram confrontáveis não apenas com pintores, arquitetos, músicos, mas também com pensadores. Eles pensam com imagens, em vez de conceitos.",
+      "fonte_texto": "DELEUZE, G. Cinema 1: a imagem-movimento. São Paulo: Brasiliense, 1983 (adaptado).",
+      "enunciado": "De que modo os textos sustentam a existência de um saber ancorado na sensibilidade?",
+      "alternativas": {
+        "a": "Admitindo o belo como fenômeno transcendental.",
+        "b": "Reafirmando a vivência estética como juízo de gosto.",
+        "c": "Considerando o olhar como experiência de conhecimento.",
+        "d": "Apontando as formas de expressão como auxiliares da razão.",
+        "e": "Estabelecendo a inteligência como implicação das representações."
+      },
+      "resposta": "c",
+      "explicacao": "Merleau-Ponty quer \"reaprender a ver o mundo\" pela percepção e devolver às artes seu lugar; Deleuze diz que os cineastas \"pensam com imagens\". Nos dois, ver não é acessório do pensar — é uma forma de conhecer. Por isso o olhar é tomado como experiência de conhecimento. A alternativa (d) rebaixa a arte a auxiliar da razão, o contrário do que os textos afirmam; (a) e (b) falam do belo e do gosto, temas da estética clássica, e não do conhecimento; (e) inverte a relação, subordinando a imagem à inteligência."
+    },
+    {
+      "id": "enem-filosofia-sociologia-49",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Empédocles estabelece quatro elementos corporais — fogo, ar, água e terra —, que são eternos e que mudam aumentando e diminuindo mediante mistura e separação; mas os princípios propriamente ditos, pelos quais aqueles são movidos, são o Amor e o Ódio. Pois é preciso que os elementos permaneçam alternadamente em movimento, sendo ora misturados pelo Amor, ora separados pelo Ódio.",
+      "fonte_texto": "SIMPLÍCIO. Física, 25, 21. In: Os pré-socráticos. São Paulo: Nova Cultural, 1996.",
+      "enunciado": "O texto propõe uma reflexão sobre o entendimento de Empédocles acerca da arché, uma preocupação típica do pensamento pré-socrático, porque",
+      "alternativas": {
+        "a": "exalta a investigação filosófica.",
+        "b": "transcende ao mundo sensível.",
+        "c": "evoca a discussão cosmogônica.",
+        "d": "fundamenta as paixões humanas.",
+        "e": "corresponde à explicação mitológica."
+      },
+      "resposta": "c",
+      "explicacao": "Arché é o princípio de onde tudo vem e pelo qual tudo se explica; perguntar por ela é a pergunta metafísica pela origem e pela ordem do cosmo — discussão cosmogônica, marca dos pré-socráticos. Empédocles responde com quatro elementos eternos movidos por Amor e Ódio. Esses princípios não são paixões humanas (d), mas forças cósmicas; a explicação é racional, não mítica (e); e fica no plano físico dos elementos, sem transcender o sensível (b). \"Exaltar a investigação\" (a) é vago demais para o que o texto propõe."
+    },
+    {
+      "id": "enem-filosofia-sociologia-50",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça.",
+      "fonte_texto": "SÊNECA, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990.",
+      "enunciado": "O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a",
+      "alternativas": {
+        "a": "valorização de disputas dialógicas.",
+        "b": "rejeição das convenções sociais.",
+        "c": "inspiração de natureza religiosa.",
+        "d": "exaltação do sofrimento.",
+        "e": "moderação das paixões."
+      },
+      "resposta": "e",
+      "explicacao": "Sêneca é estoico: a filosofia ensina a manter o ânimo sereno \"qualquer que seja o estado do corpo\", inclusive diante da morte. Não se trata de exaltar o sofrimento (d), mas de não se deixar abalar por ele — domínio das paixões, apatheia, a virtude estoica por excelência. Basso não rejeita convenções (b), tese cínica, nem busca consolo religioso (c); e o texto trata de uma atitude interior, não de debate ou disputa (a)."
+    },
+    {
+      "id": "enem-filosofia-sociologia-51",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "texto_apoio": "Em Vitória (ES), no bairro Goiabeiras, encontramos as paneleiras, mulheres que são conhecidas pelos saberes/fazeres das tradicionais panelas de barro, ícones da culinária capixaba. A tradição passada de mãe para filha é de origem indígena e sofreu influência de outras etnias, como a afro e a luso. Dessa mistura, acredita-se que a fabricação das panelas de barro já tenha 400 anos. A fabricação das panelas de barro se dá em várias etapas, desde a obtenção de matéria-prima à confecção das panelas. As matérias-primas tradicionalmente utilizadas são provenientes do meio natural, como: argila, retirada do barreiro no Vale do Mulembá; madeira, atualmente proveniente das sobras da construção civil; e tinta, extraída da casca do manguezal, o popular mangue-vermelho.",
+      "fonte_texto": "TRISTÃO, M. A educação ambiental e o pós-colonialismo. Revista de Educação, n. 53, ago. 2014.",
+      "enunciado": "Uma característica de práticas tradicionais como a exemplificada no texto é a vinculação entre os recursos do mundo natural e a",
+      "alternativas": {
+        "a": "manutenção dos modos de vida.",
+        "b": "conservação dos plantios da roça.",
+        "c": "atualização do modelo de gestão.",
+        "d": "participação na sociedade de consumo.",
+        "e": "especialização nas etapas de produção."
+      },
+      "resposta": "a",
+      "explicacao": "Argila do barreiro, madeira, tinta da casca do mangue: os recursos naturais sustentam um saber-fazer de 400 anos, passado de mãe para filha — ou seja, mantêm um modo de vida. Não há roça (b) no texto; \"modelo de gestão\" e \"sociedade de consumo\" (c, d) falam a língua da empresa e do mercado, estranha à prática tradicional; e as \"várias etapas\" da fabricação (e) são feitas pelas mesmas paneleiras, sem a especialização que o distrator sugere."
     }
   ]
 }

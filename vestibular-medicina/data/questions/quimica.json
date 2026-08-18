@@ -9014,6 +9014,212 @@
       },
       "resposta": "d",
       "explicacao": "Água e recipiente absorvem (350+50)·5 = 2000 cal. O primeiro ensaio fornece c_X+c_Y = 0,05. O segundo fornece 200·230c_X + 200·155c_Y = 2000. Resolvendo o sistema, c_X = 0,03 e c_Y = 0,02 cal·g⁻¹·°C⁻¹. O balanço termoquímico iguala o calor cedido pelas barras ao calor absorvido pelo conjunto."
+    },
+    {
+      "id": "enem-quimica-22",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "enunciado": "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados:\n• carboxila: —COOH, cujo pKa é igual a 1,8;\n• amino: —NH2, que pode ser convertido em amínio (—NH3+, cujo pKa é igual a 7,9);\n• tiol: —SH, cujo pKa é igual a 10,5.\nSabe-se que pKa = −log Ka.\n\nPenicilamina: HS—C(CH3)2—CH(NH2)—COOH\n\nQual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
+      "alternativas": {
+        "a": "⁻S—C(CH3)2—CH(NH2)—COO⁻",
+        "b": "⁻S—C(CH3)2—CH(NH2)—COOH",
+        "c": "HS—C(CH3)2—CH(NH3⁺)—COO⁻",
+        "d": "⁻S—C(CH3)2—CH(NH3⁺)—COOH",
+        "e": "HS—C(CH3)2—CH(NH3⁺)—COOH"
+      },
+      "resposta": "c",
+      "explicacao": "A regra é comparar o pH do meio com o pKa de cada grupo: quando pH > pKa, predomina a forma desprotonada (base conjugada); quando pH < pKa, predomina a forma protonada. Na urina (pH 5–7): a carboxila (pKa 1,8) está desprotonada, —COO⁻; o amínio (pKa 7,9) está protonado, —NH3⁺; o tiol (pKa 10,5) continua protonado, —SH. A espécie predominante é o zwitterion HS—C(CH3)2—CH(NH3⁺)—COO⁻. As alternativas a, b e d desprotonam o tiol, o que só ocorreria em pH acima de 10,5; b e e mantêm a carboxila protonada, o que exigiria pH abaixo de 1,8; a e b deixam o grupo amino neutro, forma minoritária em pH abaixo de 7,9."
+    },
+    {
+      "id": "enem-quimica-23",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "enunciado": "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e potável, ela deve passar por um processo de purificação numa estação de tratamento de água. Nesse processo, as principais etapas são, nesta ordem: coagulação, decantação, filtração, desinfecção e fluoretação.\n\nQual é a etapa de retirada de grande parte desses sólidos?",
+      "alternativas": {
+        "a": "Coagulação.",
+        "b": "Decantação.",
+        "c": "Filtração.",
+        "d": "Desinfecção.",
+        "e": "Fluoretação."
+      },
+      "resposta": "b",
+      "explicacao": "Os sólidos suspensos não estão dissolvidos — não são soluto, são partículas em suspensão. Na coagulação (com sulfato de alumínio, por exemplo) elas se aglomeram em flocos, mas ainda ficam na água; é na decantação que esses flocos, mais densos, sedimentam no fundo do tanque e a maior parte dos sólidos é retirada. A filtração remove só o que restou em suspensão fina (c); desinfecção (cloro) e fluoretação (adição de flúor) não separam sólidos — atuam sobre microrganismos e sobre a saúde bucal (d e e). A coagulação prepara a remoção, mas não a executa (a)."
+    },
+    {
+      "id": "enem-quimica-24",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "fonte_texto": "SOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).",
+      "enunciado": "De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela. Associações similares ocorriam no passado da história da química orgânica, quando os compostos ditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais.\n\nBenzaldeído (no óleo de amêndoas): C6H5—CHO\nSalicilato de metila (no óleo de gaultéria): C6H4(OH)—COOCH3 (grupos OH e éster em posição orto)\nAnetol (no óleo de anis): CH3O—C6H4—CH=CH—CH3 (para)\nVanilina (no óleo de baunilha): C6H3(OH)(OCH3)—CHO\nEugenol (no óleo de cravos): C6H3(OH)(OCH3)—CH2—CH=CH2\nCinamaldeído (no óleo de canela): C6H5—CH=CH—CHO\n\nA característica estrutural dessa família de compostos é a presença de",
+      "alternativas": {
+        "a": "ramificações.",
+        "b": "insaturações.",
+        "c": "anel benzênico.",
+        "d": "átomos de oxigênio.",
+        "e": "carbonos assimétricos."
+      },
+      "resposta": "c",
+      "explicacao": "O que define um composto aromático em química orgânica é o anel benzênico (o sistema de seis carbonos com elétrons π deslocalizados — a “estrutura eletrônica” a que o texto se refere). Todas as seis substâncias têm um anel benzeno com substituintes. Insaturações e átomos de oxigênio também aparecem em todas (b e d), mas não são exclusivas nem definidoras da família — cetonas e álcoois alifáticos têm oxigênio e não são aromáticos, e um alceno tem insaturação e não é aromático. Ramificações não são a marca dessas moléculas (a) e nenhuma delas tem carbono assimétrico (e)."
+    },
+    {
+      "id": "enem-quimica-25",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "fonte_texto": "Disponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).",
+      "enunciado": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos. Foram analisadas cinco amostras de diferentes tipos de cana-de-açúcar e cada uma recebeu um código de identificação. No quadro são apresentados os dados de concentração de sacarose e de microrganismos presentes nessas amostras.\n\nAmostra RB72: concentração inicial de sacarose 13,0 g L-1; concentração de microrganismos 0,7 mg L-1\nAmostra RB84: sacarose 18,0 g L-1; microrganismos 0,8 mg L-1\nAmostra RB92: sacarose 16,0 g L-1; microrganismos 0,6 mg L-1\nAmostra SP79: sacarose 14,0 g L-1; microrganismos 0,5 mg L-1\nAmostra SP80: sacarose 17,0 g L-1; microrganismos 0,9 mg L-1\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg L−1 de microrganismos presentes na cana-de-açúcar.\n\nQual tipo de cana-de-açúcar deve ser escolhido?",
+      "alternativas": {
+        "a": "RB72",
+        "b": "RB84",
+        "c": "RB92",
+        "d": "SP79",
+        "e": "SP80"
+      },
+      "resposta": "c",
+      "explicacao": "A perda de sacarose dissolvida no caldo em 10 h é proporcional à concentração de microrganismos: 50% por 1,0 mg/L, ou seja, cada 0,1 mg/L custa 5% da sacarose. RB72: 13,0 × (1 − 0,35) = 8,45; RB84: 18,0 × 0,60 = 10,8; RB92: 16,0 × 0,70 = 11,2; SP79: 14,0 × 0,75 = 10,5; SP80: 17,0 × 0,55 = 9,35 g/L. O maior teor restante é o da RB92. Escolher a maior sacarose inicial (RB84, b) ignora a deterioração; escolher a menor carga microbiana (SP79, d) ignora que ela partiu de pouca sacarose. Só a combinação dos dois dados decide."
+    },
+    {
+      "id": "enem-quimica-26",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "enunciado": "O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L−1, consumindo um volume igual a 8,0 mL dessa base. A reação para esse processo de titulação é representada pela equação química:\n\nHOOC—CH(OH)—CH(OH)—COOH (ácido tartárico, massa molar: 150 g mol-1) + 2 NaOH → NaOOC—CH(OH)—CH(OH)—COONa + 2 H2O\n\nA concentração de ácido tartárico no vinho analisado é mais próxima de:",
+      "alternativas": {
+        "a": "1,8 g L−1",
+        "b": "2,4 g L−1",
+        "c": "3,6 g L−1",
+        "d": "4,8 g L−1",
+        "e": "9,6 g L−1"
+      },
+      "resposta": "b",
+      "explicacao": "Base gasta: n(NaOH) = 0,10 mol/L × 0,0080 L = 8,0 × 10⁻⁴ mol. O ácido é diprótico (2 NaOH por ácido), então n(ácido) = 4,0 × 10⁻⁴ mol, ou 4,0 × 10⁻⁴ × 150 = 0,060 g em 25,0 mL. Em 1 L: 0,060/0,025 = 2,4 g/L. Quem esquece a proporção 1:2 acha 4,8 g/L (d); quem além disso erra a alíquota chega a 9,6 (e); 1,8 e 3,6 vêm de trocar 25 mL por outro volume."
+    },
+    {
+      "id": "enem-quimica-27",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "enunciado": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO3) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\nO gás obtido no experimento é o:",
+      "alternativas": {
+        "a": "H2",
+        "b": "O2",
+        "c": "CO2",
+        "d": "CO",
+        "e": "Cl2"
+      },
+      "resposta": "c",
+      "explicacao": "Carbonato com ácido forte (o HCl sofre ionização total em água) é a reação clássica de efervescência: CaCO3 + 2 HCl → CaCl2 + H2O + CO2. O ácido carbônico que se formaria é instável e se decompõe em água e gás carbônico. Hidrogênio (a) seria liberado por um metal reagindo com o ácido, não por um carbonato; oxigênio, monóxido de carbono e cloro (b, d, e) não têm como surgir dessa reação — o cloro fica no sal, CaCl2."
+    },
+    {
+      "id": "enem-quimica-28",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Durante o ano de 2020, impulsionado pela necessidade de respostas rápidas e eficientes para desinfectar ambientes de possíveis contaminações com o SARS-CoV-2, causador da covid-19, diversas alternativas foram buscadas para os procedimentos de descontaminação de materiais e ambientes. Entre elas, o uso de ozônio em meio aquoso como agente sanitizante para pulverização em humanos e equipamentos de proteção em câmaras ou túneis, higienização de automóveis e de ambientes fechados e descontaminação de trajes. No entanto, pouca atenção foi dada à toxicidade do ozônio, à formação de subprodutos, ao nível de concentração segura e às precauções necessárias.",
+      "fonte_texto": "LIMA, M. J. A.; FELIX, E. P.; CARDOSO, A. A. Aplicações e implicações do ozônio na indústria, ambiente e saúde. Química Nova, n. 9, 2021 (adaptado).",
+      "enunciado": "O grande risco envolvido no emprego indiscriminado dessa substância deve-se à sua ação química como",
+      "alternativas": {
+        "a": "catalisador.",
+        "b": "oxidante.",
+        "c": "redutor.",
+        "d": "ácido.",
+        "e": "base."
+      },
+      "resposta": "b",
+      "explicacao": "O ozônio (O3) é um dos agentes oxidantes mais fortes que existem — seu potencial de redução é altíssimo, e os elétrons recebidos vêm de qualquer matéria orgânica por perto — é por isso que ele desinfeta, destruindo membranas e proteínas de microrganismos, e é por isso mesmo que é tóxico para pessoas: ataca do mesmo modo as mucosas e o tecido pulmonar. O texto reforça a pista ao falar em “formação de subprodutos”, típica de oxidação. O ozônio não age como catalisador (é consumido na reação, a), não é redutor (c) e não tem caráter ácido ou básico em água (d e e)."
+    },
+    {
+      "id": "enem-quimica-29",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "O urânio é empregado como fonte de energia em reatores nucleares. Para tanto, o seu mineral deve ser refinado, convertido a hexafluoreto de urânio e posteriormente enriquecido, para aumentar de 0,7% a 3% a abundância de um isótopo específico — o urânio-235. Uma das formas de enriquecimento utiliza a pequena diferença de massa entre os hexafluoretos de urânio-235 e de urânio-238 para separá-los por efusão, precedida pela vaporização. Esses vapores devem efundir repetidamente milhares de vezes através de barreiras porosas formadas por telas com grande número de pequenos orifícios. No entanto, devido à complexidade e à grande quantidade de energia envolvida, cientistas e engenheiros continuam a pesquisar procedimentos alternativos de enriquecimento.",
+      "fonte_texto": "ATKINS, P.; JONES, L. Princípios de química: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2006 (adaptado).",
+      "enunciado": "Considerando a diferença de massa mencionada entre os dois isótopos, que tipo de procedimento alternativo ao da efusão pode ser empregado para tal finalidade?",
+      "alternativas": {
+        "a": "Peneiração.",
+        "b": "Centrifugação.",
+        "c": "Extração por solvente.",
+        "d": "Destilação fracionada.",
+        "e": "Separação magnética."
+      },
+      "resposta": "b",
+      "explicacao": "Os dois hexafluoretos são a mesma substância química: os átomos de urânio-235 e urânio-238 têm o mesmo número atômico e diferem apenas no número de massa. A única propriedade explorável é essa diferença de massa, e o processo que separa por massa é a centrifugação: nas ultracentrífugas o UF6 mais pesado é lançado para a periferia e o mais leve concentra-se no centro — é o método usado hoje. Peneiração separa por tamanho de partícula sólida (a); extração e destilação dependem de diferenças de afinidade química ou de ponto de ebulição, praticamente inexistentes entre isótopos (c e d); e o UF6 não é magnético (e)."
+    },
+    {
+      "id": "enem-quimica-30",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "fonte_texto": "Disponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).",
+      "enunciado": "Os riscos apresentados pelos produtos dependem de suas propriedades e da reatividade quando em contato com outras substâncias. Para prevenir os riscos devido à natureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e de uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados na estocagem, manipulação e descarte. O quadro elenca algumas dessas incompatibilidades, que podem levar à ocorrência de acidentes.\n\nSubstância: ácidos minerais fortes concentrados — Incompatibilidade: bases fortes; cianetos; hipoclorito de sódio — Riscos associados: reação enérgica, explosão, produção de oxidante forte e produto tóxico\nSubstância: ácido nítrico concentrado — Incompatibilidade: matéria orgânica — Riscos associados: reação enérgica, explosão e produto tóxico\n\nConsidere que houve o descarte indevido de dois conjuntos de substâncias:\n(1) ácido clorídrico concentrado com cianeto de potássio;\n(2) ácido nítrico concentrado com sacarose.\n\nO descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
+      "alternativas": {
+        "a": "liberação de gás tóxico e reação oxidativa forte.",
+        "b": "reação oxidativa forte e liberação de gás tóxico.",
+        "c": "formação de sais tóxicos e reação oxidativa forte.",
+        "d": "liberação de gás tóxico e liberação de gás oxidante.",
+        "e": "formação de sais tóxicos e liberação de gás oxidante."
+      },
+      "resposta": "a",
+      "explicacao": "(1) HCl concentrado com KCN: o ácido forte desloca o ácido fraco do seu sal — KCN + HCl → KCl + HCN — e o cianeto de hidrogênio, ácido fraco de baixa ionização, é um gás extremamente tóxico (o “produto tóxico” do quadro). (2) HNO3 concentrado com sacarose: o ácido nítrico é um oxidante fortíssimo e a sacarose é matéria orgânica; a reação é uma oxidação violenta, com desprendimento de calor e de óxidos de nitrogênio (a “reação enérgica” do quadro). A alternativa b inverte os dois; c e e falam em sal tóxico, mas o KCl formado é inofensivo — o perigo é o gás HCN; d chama de “gás oxidante” o que é uma reação de oxidação da matéria orgânica."
+    },
+    {
+      "id": "enem-quimica-31",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "fonte_texto": "CLEMENTE, G. A. B. F. et al. O uso de materiais híbridos ou nanocompósitos como revestimentos anticorrosivos do aço. Química Nova, n. 9, 2021 (adaptado).",
+      "enunciado": "A nanotecnologia é responsável pelo aprimoramento de diversos materiais, incluindo os que são impactados com a presença de poluentes e da umidade na atmosfera, causadores de corrosão. O processo de corrosão é espontâneo e provoca a deterioração de metais como o ferro, que, em presença de oxigênio e água, sofre oxidação, conforme ilustra a equação química:\n\n4 Fe (s) + 2 H2O (l) + 3 O2 (g) → 2 Fe2O3·H2O (s)\n\nUma forma de garantir a durabilidade da estrutura metálica e a sua resistência à umidade consiste na deposição de filmes finos nanocerâmicos à base de zircônia (ZrO2) e alumina (Al2O3) sobre a superfície do objeto que se deseja proteger.\n\nEssa nanotecnologia aplicada na proteção contra a corrosão se baseia no(a)",
+      "alternativas": {
+        "a": "proteção catódica, que utiliza um metal fortemente redutor.",
+        "b": "uso de metais de sacrifício, que se oxidam no lugar do ferro.",
+        "c": "passivação do ferro, que fica revestido pelo seu próprio óxido.",
+        "d": "efeito de barreira, que impede o contato com o agente oxidante.",
+        "e": "galvanização, que usa outros metais de menor potencial de redução."
+      },
+      "resposta": "d",
+      "explicacao": "Zircônia e alumina são óxidos cerâmicos, isolantes e quimicamente inertes — não são metais e não trocam elétrons com o ferro. O filme depositado sobre a peça só faz uma coisa: isola fisicamente o ferro do oxigênio e da água, os agentes oxidantes da equação. É proteção por barreira, como uma pintura. Proteção catódica, metal de sacrifício e galvanização (a, b, e) exigem um metal mais redutor que o ferro (zinco, magnésio) que se oxide em seu lugar — não é o caso de óxidos cerâmicos; passivação (c) seria o próprio óxido do ferro protegendo, e aqui o revestimento é de outros óxidos."
+    },
+    {
+      "id": "enem-quimica-32",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "enunciado": "O elemento iodo (I) tem função biológica e é acumulado na tireoide. Nos acidentes nucleares de Chernobyl e Fukushima, ocorreu a liberação para a atmosfera do radioisótopo 131I, responsável por enfermidades nas pessoas que foram expostas a ele. O decaimento de uma massa de 12 microgramas do isótopo 131I foi monitorado por 14 dias, conforme o quadro.\n\nTempo (dia): 0 — massa residual de 131I (µg): 12,0\nTempo 2 dias — 10,1 µg\nTempo 4 dias — 8,5 µg\nTempo 5 dias — 7,8 µg\nTempo 6 dias — 7,2 µg\nTempo 8 dias — 6,0 µg\nTempo 14 dias — 3,6 µg\n\nApós o período de 40 dias, a massa residual desse isótopo é mais próxima de",
+      "alternativas": {
+        "a": "2,4 µg.",
+        "b": "1,5 µg.",
+        "c": "0,8 µg.",
+        "d": "0,4 µg.",
+        "e": "0,2 µg."
+      },
+      "resposta": "d",
+      "explicacao": "O quadro mostra a meia-vida do 131I: de 12,0 µg em t = 0 para 6,0 µg em 8 dias, a massa caiu à metade — meia-vida de 8 dias. Em 40 dias passam-se 5 meias-vidas, e a massa residual é 12,0/2⁵ = 12,0/32 = 0,375 ≈ 0,4 µg. Quem supõe decaimento linear (cerca de 0,6 µg por dia nos primeiros dias) acha que tudo some antes de 40 dias ou chega perto de 0,2 (e); quem conta 4 meias-vidas acha 0,75 ≈ 0,8 (c); 2,4 e 1,5 correspondem a 2 e 3 meias-vidas."
     }
   ]
 }

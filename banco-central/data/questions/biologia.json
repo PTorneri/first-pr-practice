@@ -9517,6 +9517,305 @@
    "explicacao": "Os neandertais tinham cérebro tão grande quanto o nosso (ou maior), nariz amplo, dominavam o fogo, produziam ferramentas e conviveram (e cruzaram) com o Homo sapiens na Eurásia. Os erros das outras: Australopithecus era bípede, mas não usava fogo; o bipedismo é anterior ao Homo erectus (já estava nos australopitecos) e a testa dele era fugidia, não plana e proeminente; e o Homo sapiens não foi o primeiro a usar fogo nem ferramentas — Homo erectus já fazia ambos.",
    "resposta": "c",
    "origem": "medicina"
+  },
+  {
+   "id": "enem-biologia-30",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "enunciado": "Diversas substâncias são empregadas com a intenção de incrementar o desempenho esportivo de atletas de alto nível. O chamado doping sanguíneo, por exemplo, pela utilização da eritropoietina, é proibido pelas principais federações de esportes no mundo. A eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é regular o processo de eritropoiese. Seu uso administrado intravenosamente em quantidades superiores àquelas presentes naturalmente no organismo permite que o indivíduo aumente a sua capacidade de realização de exercícios físicos.\n\nEsse tipo de doping está diretamente relacionado ao aumento da",
+   "alternativas": {
+    "a": "frequência cardíaca.",
+    "b": "capacidade pulmonar.",
+    "c": "massa muscular do indivíduo.",
+    "d": "atividade anaeróbica da musculatura.",
+    "e": "taxa de transporte de oxigênio pelo sangue."
+   },
+   "resposta": "e",
+   "explicacao": "Eritropoiese é a produção de hemácias na medula óssea; a eritropoietina, hormônio secretado por rins e fígado, estimula esse processo. Mais hemácias significa mais hemoglobina circulando e, portanto, maior taxa de transporte de oxigênio pelo sangue até os músculos — é isso que sustenta o esforço aeróbico prolongado. Frequência cardíaca e capacidade pulmonar não são alteradas pelo hormônio (a e b); massa muscular é efeito de anabolizantes, não de eritropoietina (c); e o ganho é justamente na via aeróbica, não na anaeróbica (d)."
+  },
+  {
+   "id": "enem-biologia-31",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O protozoário Trypanosoma cruzi, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar uma vacina contra a doença usando uma variação do protozoário incapaz de desencadear a patologia (não patogênico). Para isso, realizaram uma modificação genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário.",
+   "fonte_texto": "Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado).",
+   "enunciado": "Qual o mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor?",
+   "alternativas": {
+    "a": "Autoimunidade.",
+    "b": "Hipersensibilidade.",
+    "c": "Ativação da resposta inata.",
+    "d": "Apresentação de antígeno específico.",
+    "e": "Desencadeamento de processo anti-inflamatório."
+   },
+   "resposta": "d",
+   "explicacao": "O truque do experimento é fazer o T. cruzi modificado exibir a molécula tumoral: quando o sistema imune monta a resposta contra o protozoário, a molécula do tumor é apresentada às células de defesa do sistema imunológico como antígeno específico, e a resposta adaptativa gerada (anticorpos e linfócitos) passa a reconhecer e destruir também as células tumorais que a carregam. Não é autoimunidade nem hipersensibilidade (a e b), que são respostas patológicas contra o próprio ou exageradas; a resposta inata (c) não tem a especificidade que o texto descreve; e o processo é pró-inflamatório de ataque, não anti-inflamatório (e)."
+  },
+  {
+   "id": "enem-biologia-32",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os ursos, por não apresentarem uma hibernação verdadeira, acordam por causa da presença de termogenina, uma proteína mitocondrial que impede a chegada dos prótons até a ATP sintetase, gerando calor. Esse calor é importante para aquecer o organismo, permitindo seu despertar.",
+   "fonte_texto": "SADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).",
+   "enunciado": "Em qual etapa do metabolismo energético celular a termogenina interfere?",
+   "alternativas": {
+    "a": "Glicólise.",
+    "b": "Fermentação lática.",
+    "c": "Ciclo do ácido cítrico.",
+    "d": "Oxidação do piruvato.",
+    "e": "Fosforilação oxidativa."
+   },
+   "resposta": "e",
+   "explicacao": "A ATP sintetase da membrana interna da mitocôndria produz ATP usando o fluxo de prótons acumulados pela cadeia respiratória — essa é a fosforilação oxidativa. A termogenina (proteína desacopladora) abre um caminho alternativo para os prótons, que voltam à matriz sem passar pela ATP sintetase; a energia do gradiente vira calor em vez de ATP. Glicólise e fermentação ocorrem no citosol, sem prótons mitocondriais (a e b); ciclo do ácido cítrico e oxidação do piruvato acontecem na matriz e produzem NADH/FADH2, mas não dependem do gradiente de prótons (c e d)."
+  },
+  {
+   "id": "enem-biologia-33",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "fonte_texto": "Disponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado).",
+   "enunciado": "O esquema representa o ciclo do nitrogênio:\n\n[Esquema do ciclo do nitrogênio: bactérias fixadoras de N2 no solo e nos nódulos de raízes de leguminosas → amônia e amônio (NH3 e NH4+); decompositores (fungos e bactérias aeróbicas e anaeróbicas) fazem a amonificação → amônia e amônio; nitrificação por bactérias nitrificantes: amônia/amônio → nitritos (NO2−) → nitratos (NO3−); assimilação dos nitratos pelas plantas; bactérias desnitrificantes devolvem N2 à atmosfera.]\n\nA chuva ácida interfere no ciclo do nitrogênio, principalmente, por proporcionar uma diminuição do pH do solo e da atmosfera, alterando a concentração dos compostos presentes nesse ciclo.\n\nEm um solo de menor pH, será favorecida a formação de:",
+   "alternativas": {
+    "a": "N2",
+    "b": "NH3",
+    "c": "NH4+",
+    "d": "NO2−",
+    "e": "NO3−"
+   },
+   "resposta": "c",
+   "explicacao": "Menor pH significa mais íons H+ disponíveis no solo. A amônia é uma base fraca e, em meio ácido, captura um próton: NH3 + H+ → NH4+. Logo o composto favorecido é o íon amônio. A alternativa b é o inverso (a amônia livre predomina em meio básico); nitrito e nitrato são ânions de ácidos que, em meio ácido, tendem a se protonar e não a se formar (d e e); e o N2 atmosférico depende da desnitrificação, não do pH em si (a)."
+  },
+  {
+   "id": "enem-biologia-34",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "enunciado": "No processo de captação da luz pelo olho para a formação de imagens estão envolvidas duas estruturas celulares: os cones e os bastonetes. Os cones são sensíveis à energia dos fótons, e os bastonetes, à quantidade de fótons incidentes. A energia dos fótons que compõem os raios luminosos está associada à sua frequência, e a intensidade, ao número de fótons incidentes.\n\nUm animal que tem bastonetes mais sensíveis irá",
+   "alternativas": {
+    "a": "apresentar daltonismo.",
+    "b": "perceber cores fora do espectro do visível.",
+    "c": "enxergar bem em ambientes mal iluminados.",
+    "d": "necessitar de mais luminosidade para enxergar.",
+    "e": "fazer uma pequena distinção de cores em ambientes iluminados."
+   },
+   "resposta": "c",
+   "explicacao": "O texto amarra cada célula a uma grandeza: cones ↔ energia (frequência, isto é, cor); bastonetes ↔ quantidade de fótons (intensidade). Bastonetes mais sensíveis respondem a poucos fótons e já disparam sinal para os neurônios da retina e para o sistema nervoso central, ou seja, o animal enxerga bem com pouca luz. Daltonismo e distinção de cores dizem respeito aos cones, não aos bastonetes (a, b e e); e precisar de mais luz é exatamente o contrário de ter bastonetes mais sensíveis (d)."
+  },
+  {
+   "id": "enem-biologia-35",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os resultados de um ensaio clínico randomizado na Indonésia apontaram uma redução de 77% dos casos de dengue nas áreas que receberam o mosquito Aedes aegypti infectado com a bactéria Wolbachia. Trata-se da mesma técnica utilizada no Brasil pelo Método Wolbachia, iniciativa conduzida pela Fundação Oswaldo Cruz — Fiocruz. Essa bactéria induz a redução da carga viral no mosquito e, consequentemente, o número de casos de dengue na área, sendo repassada por meio do cruzamento entre os insetos. Como essa bactéria é um organismo intracelular e o vírus também precisa entrar nas células para se reproduzir, ambos necessitarão de recursos comuns.",
+   "fonte_texto": "COSTA, G. Agência Fiocruz de Notícias. Estudo confirma eficácia do Método Wolbachia para dengue. Disponível em: https://portal.fiocruz.br. Acesso em: 3 jun. 2022 (adaptado).",
+   "enunciado": "Essa tecnologia utilizada no combate à dengue consiste na",
+   "alternativas": {
+    "a": "predação do vírus pela bactéria.",
+    "b": "esterilização de mosquitos infectados.",
+    "c": "alteração no genótipo do mosquito pela bactéria.",
+    "d": "competição do vírus e da bactéria no hospedeiro.",
+    "e": "inserção de material genético do vírus na bactéria."
+   },
+   "resposta": "d",
+   "explicacao": "A última frase do texto entrega o mecanismo: Wolbachia e o vírus da dengue são ambos intracelulares e “necessitarão de recursos comuns” dentro das células do mosquito — isso é uma relação ecológica de competição interespecífica: os dois ocupam o mesmo nicho ecológico dentro das populações de mosquitos, e a bactéria — um endossimbionte que vive em simbiose com o inseto —, mais bem instalada, reduz a carga viral e corta a transmissão da dengue no ecossistema urbano. Não há predação de vírus por bactéria (a); os mosquitos continuam férteis, tanto que a bactéria se transmite pelo cruzamento (b); o genoma do mosquito não é alterado — a bactéria vive no citoplasma (c); e não há transferência de material genético do vírus para a bactéria (e)."
+  },
+  {
+   "id": "enem-biologia-36",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécies exóticas pode ser considerada um fator maximizador desse processo. A jaqueira (Artocarpus heterophyllus), por exemplo, é uma árvore originária da Índia e de regiões do Sudeste Asiático que foi introduzida ainda na era colonial e se aclimatou muito bem em praticamente todo o território nacional.\n\nCasos como o dessa árvore podem provocar a redução da biodiversidade, pois elas",
+   "alternativas": {
+    "a": "ocupam áreas de vegetação nativa e substituem parcialmente a flora original.",
+    "b": "estimulam a competição por seus frutos entre animais típicos da região e eliminam as espécies perdedoras.",
+    "c": "alteram os nichos e aumentam o número de possibilidades de relações entre os seres vivos daquele ambiente.",
+    "d": "apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.",
+    "e": "diminuem a relação de competição entre os polinizadores e facilitam a ação de dispersores de sementes de espécies nativas."
+   },
+   "resposta": "a",
+   "explicacao": "Uma espécie exótica invasora que “se aclimatou muito bem” compete com as plantas nativas por espaço, luz e nutrientes; ao ocupar áreas de vegetação nativa, ela substitui parte da flora original — e é isso que reduz a biodiversidade. A alternativa b inventa uma competição entre animais pelos frutos que não é o mecanismo de perda de espécies vegetais; c descreve aumento de relações, o oposto de perda de diversidade; d é impossível de sustentar (nenhuma população se mantém acima da capacidade de suporte); e a alternativa e descreve efeitos benéficos às nativas, não a redução da biodiversidade."
+  },
+  {
+   "id": "enem-biologia-37",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Entre as diversas técnicas para diagnóstico da covid-19, destaca-se o teste genético. Considerando as diferentes variantes e cargas virais, um exemplo é a PCR, reação efetuada por uma enzima do tipo polimerase. Essa técnica permite identificar, com confiabilidade, o material genético do SARS-CoV-2, um vírus de RNA. Para comprovação da infecção por esse coronavírus, são coletadas amostras de secreções do indivíduo. Uma etapa que antecede a reação de PCR precisa ser realizada para permitir a amplificação do material genético do vírus.\n\nEssa etapa deve ser realizada para",
+   "alternativas": {
+    "a": "concentrar o RNA viral para otimizar a técnica.",
+    "b": "identificar nas amostras anticorpos anti-SARS-CoV-2.",
+    "c": "proliferar o vírus em culturas, aumentando a carga viral.",
+    "d": "purificar ácidos nucleicos virais, facilitando a ação da enzima.",
+    "e": "obter moléculas de cDNA viral por meio da transcrição reversa."
+   },
+   "resposta": "e",
+   "explicacao": "A PCR usa uma DNA polimerase, que só copia molde de DNA. Como o SARS-CoV-2 é um vírus de RNA, antes de amplificar é preciso converter o RNA em DNA complementar (cDNA) pela transcriptase reversa — daí o nome RT-PCR, técnica de biotecnologia usada no diagnóstico. Concentrar ou purificar o RNA (a e d) não resolve o problema de fundo, que é a natureza química do molde; anticorpos são detectados por testes sorológicos, não pela PCR (b); e cultivar o vírus não faz parte do diagnóstico molecular (c)."
+  },
+  {
+   "id": "enem-biologia-38",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1, a partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado.",
+   "fonte_texto": "JULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite criar fármaco que modula a coagulação sanguínea. Disponível em: https://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).",
+   "enunciado": "Esse novo medicamento apresenta potencial aplicação para",
+   "alternativas": {
+    "a": "impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral.",
+    "b": "tratar consequências da anemia profunda, em razão da perda de grande volume de sangue.",
+    "c": "evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos.",
+    "d": "reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.",
+    "e": "regular a oscilação da pressão arterial, característica dos quadros de hipertensão."
+   },
+   "resposta": "a",
+   "explicacao": "O texto diz que a proteína do veneno da cascavel causa hemorragia e que a molécula derivada dela é “capaz de modular a coagulação sanguínea”. Um fármaco que modula (reduz) a coagulação no sistema circulatório é um anticoagulante — útil para impedir a formação de trombos, como nos casos de AVC isquêmico. Anemia por perda de sangue (b) pediria o oposto; urticária, linfonodos e pressão arterial (c, d, e) não têm relação com coagulação."
+  },
+  {
+   "id": "enem-biologia-39",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "enunciado": "Na figura está representado o mosaicismo em função da inativação aleatória de um dos cromossomos X, que ocorre em todas as mulheres sem alterações patológicas.\n\n[Esquema: gameta masculino (22+X) e gameta feminino (22+X) formam o zigoto (44+XX); na blástula (44+XX) já há células com o cromossomo X paterno inativado e células com o cromossomo X materno inativado; amostras de células corporais de diferentes regiões da mulher adulta mostram, em cada tecido, mistura dos dois tipos de célula.]\n\nEntre mulheres heterozigotas para doenças determinadas por genes recessivos ligados ao sexo, essa inativação tem como consequência a ocorrência de",
+   "alternativas": {
+    "a": "pleiotropia.",
+    "b": "mutação gênica.",
+    "c": "interação gênica.",
+    "d": "penetrância incompleta.",
+    "e": "expressividade variável."
+   },
+   "resposta": "e",
+   "explicacao": "Na mulher heterozigota, cada célula inativa ao acaso um dos X: em parte dos tecidos fica ativo o X com o alelo normal, em parte o X com o alelo recessivo da doença. O resultado é que a portadora manifesta a característica em grau variável — mais ou menos intensa conforme a proporção de células com o alelo mutado ativo — o que é a definição de expressividade variável. Pleiotropia é um gene com vários efeitos (a); não há mutação nova (b) nem interação entre genes diferentes (c); penetrância incompleta seria a heterozigota simplesmente manifestar ou não a doença, e não uma gradação de intensidade (d)."
+  },
+  {
+   "id": "enem-biologia-40",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para o tratamento da distrofia hereditária da retina. O procedimento é recomendado para crianças acima de 12 meses e adultos com perda de visão causada pela mutação do gene humano RPE65. O produto, elaborado por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.",
+   "fonte_texto": "ANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado).",
+   "enunciado": "O sucesso dessa terapia advém do fato de que o produto favorecerá a",
+   "alternativas": {
+    "a": "correção do código genético para a tradução da proteína.",
+    "b": "alteração do RNA ribossômico ligado à síntese da proteína.",
+    "c": "produção de mutações benéficas para a correção do problema.",
+    "d": "liberação imediata da proteína normal na região ocular humana.",
+    "e": "expressão do gene responsável pela produção da enzima normal."
+   },
+   "resposta": "e",
+   "explicacao": "O vírus funciona como vetor: leva uma cópia normal do gene RPE65 para dentro das células da retina, e essas células passam a transcrever e traduzir esse gene, produzindo a proteína (enzima) normal que faltava na doença de herança genética — ou seja, a terapia restaura a expressão do gene. Não se corrige o “código genético” (a tabela códon → aminoácido é universal e não está errada, a); o RNA ribossômico não é alterado (b); não se induzem mutações (c); e o produto entrega um gene, não a proteína pronta (d)."
+  },
+  {
+   "id": "enem-biologia-41",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doenças tropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade a elas associado.\n\nUma medida profilática comum a essas duas doenças é o(a)",
+   "alternativas": {
+    "a": "incineração do lixo orgânico.",
+    "b": "construção de rede de esgoto.",
+    "c": "uso de vermífugo pela população.",
+    "d": "controle das populações dos vetores.",
+    "e": "consumo de carnes vermelhas bem cozidas."
+   },
+   "resposta": "d",
+   "explicacao": "As duas doenças são transmitidas por insetos: a filariose (elefantíase) pelo verme Wuchereria bancrofti inoculado pelo mosquito Culex, e a leishmaniose pelo protozoário Leishmania inoculado pelo mosquito-palha (Lutzomyia). O que elas têm em comum, portanto, é a via de transmissão por vetor, e a profilaxia compartilhada é o controle das populações desses insetos. Rede de esgoto e lixo (a e b) atacam doenças de veiculação hídrica ou fecal; vermífugo só faria sentido para a filariose, e como tratamento (c); carne malcozida transmite tênias e toxoplasmose, não essas duas (e)."
+  },
+  {
+   "id": "enem-biologia-42",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "As células da epiderme da folha da Tradescantia pallida purpurea, uma herbácea popularmente conhecida como trapoeraba-roxa, contém um vacúolo onde se encontra um pigmento que dá a coloração arroxeada a esse tecido. Em um experimento, um corte da epiderme de uma folha da trapoeraba-roxa foi imerso em ambiente hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico.\n\nDurante a observação desse corte, foi possível identificar o(a)",
+   "alternativas": {
+    "a": "acúmulo do solvente com fragmentação da organela.",
+    "b": "rompimento da membrana celular com liberação do citosol.",
+    "c": "aumento do vacúolo com diluição do pigmento no seu interior.",
+    "d": "quebra da parede celular com extravasamento do pigmento.",
+    "e": "murchamento da célula com expulsão do pigmento do vacúolo."
+   },
+   "resposta": "c",
+   "explicacao": "Em meio hipotônico a água entra na célula por osmose e vai para o vacúolo, que incha (a célula fica túrgida); como o pigmento continua na mesma quantidade num volume maior, ele fica diluído e a cor roxa clareia. A célula vegetal não estoura porque a parede celular resiste à pressão de turgor — por isso não há rompimento de membrana nem quebra de parede (b e d), e o vacúolo não se fragmenta (a). Murchar (plasmólise, e) é o que aconteceria em meio hipertônico, o contrário do experimento."
+  },
+  {
+   "id": "enem-biologia-43",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Desde a proposição da teoria de seleção natural por Darwin, os seres vivos nunca mais foram olhados da mesma forma. No que diz respeito à reprodução de anfíbios anuros, os cientistas já descreveram diferentes padrões reprodutivos, como os exemplificados a seguir:\n\nEspécie 1 – As fêmeas produzem cerca de 5 000 gametas, que são fecundados na água, em lagoas temporárias de estação chuvosa. Todo o desenvolvimento embrionário, do ovo à metamorfose, ocorre, nesse ambiente, independente dos pais.\n\nEspécie 2 – As fêmeas produzem aproximadamente 200 gametas, que são depositados em poças próximas a corpos-d’água. Os embriões são vigiados pelos machos durante boa parte do seu desenvolvimento.\n\nEspécie 3 – As fêmeas produzem por volta de 20 gametas, que são fecundados sobre a superfície das folhas de plantas cujos galhos estão dispostos acima da superfície de corpos-d’água e aí se desenvolvem até a eclosão.\n\nEspécie 4 – As fêmeas produzem poucos gametas que, quando fecundados, são “abocanhados” pelos machos. Os embriões se desenvolvem no interior do saco vocal do macho até a metamorfose, quando saem através da boca do pai.\n\nOs padrões descritos evidenciam que",
+   "alternativas": {
+    "a": "as fêmeas influenciam o comportamento dos machos.",
+    "b": "o cuidado parental é necessário para o desenvolvimento.",
+    "c": "o grau de evolução determina o comportamento reprodutivo.",
+    "d": "o sucesso reprodutivo pode ser garantido por estratégias diferentes.",
+    "e": "o ambiente induz modificação na produção do número de gametas femininos."
+   },
+   "resposta": "d",
+   "explicacao": "Os quatro exemplos vão de muitos ovos sem cuidado nenhum (espécie 1) a pouquíssimos ovos com cuidado parental intenso (espécie 4), e todas as espécies existem e se reproduzem — a lição darwiniana é que estratégias diferentes (quantidade × proteção) podem levar ao mesmo sucesso reprodutivo — cada padrão é uma adaptação selecionada no seu ambiente. A alternativa b é desmentida pela espécie 1, que se desenvolve “independente dos pais”; c fala em “grau de evolução”, ideia de escala progressiva que a seleção natural não sustenta; e é lamarckista — o ambiente seleciona, não induz a mudança; a não tem apoio nos textos."
+  },
+  {
+   "id": "enem-biologia-44",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido de hidrogênio (H2O2), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.\n\nEnsaio 1: temperatura 10 °C; decomposição de H2O2 8,0 (× 10⁻¹² mol/min)\nEnsaio 2: 15 °C; 10,5\nEnsaio 3: 20 °C; 9,5\nEnsaio 4: 25 °C; 5,0\nEnsaio 5: 30 °C; 3,6\nEnsaio 6: 35 °C; 3,1\n\nOs diferentes resultados dos ensaios justificam-se pelo(a)",
+   "alternativas": {
+    "a": "variação do pH do meio.",
+    "b": "aumento da energia de ativação.",
+    "c": "consumo da enzima durante o ensaio.",
+    "d": "diminuição da concentração do substrato.",
+    "e": "modificação da estrutura tridimensional da enzima."
+   },
+   "resposta": "e",
+   "explicacao": "A atividade sobe de 10 a 15 °C (temperatura ótima) e depois cai continuamente até 35 °C. Só a temperatura variou entre os ensaios; o pH foi o mesmo (a). Uma enzima é uma proteína, e o aumento de temperatura altera sua estrutura tridimensional (desnaturação), deformando o sítio ativo — por isso a decomposição de H2O2 despenca acima do ótimo. Enzimas não são consumidas na reação (c); a concentração de substrato era igual em todos os ensaios independentes (d); e a enzima existe justamente para baixar a energia de ativação — a temperatura não a aumenta (b)."
+  },
+  {
+   "id": "enem-biologia-45",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Antimicrobianos são substâncias naturais ou sintéticas que têm capacidade de matar ou inibir o crescimento de microrganismos. A tabela apresenta uma lista de antimicrobianos hipotéticos, bem como suas ações e efeitos sobre o metabolismo microbiano.\n\nAntimicrobiano 1 — Ação: une-se aos ribossomos — Efeito: impede a síntese proteica\nAntimicrobiano 2 — Ação: une-se aos microtúbulos — Efeito: impede a segregação das cromátides\nAntimicrobiano 3 — Ação: une-se aos fosfolipídeos da membrana plasmática — Efeito: reduz a permeabilidade da membrana plasmática\nAntimicrobiano 4 — Ação: interfere na síntese de timina — Efeito: inibe a síntese de DNA\nAntimicrobiano 5 — Ação: interfere na síntese de uracila — Efeito: impede a síntese de RNA\n\nQual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo?",
+   "alternativas": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+   },
+   "resposta": "b",
+   "explicacao": "O alvo tem de existir no fungo (eucarionte) e faltar na bactéria (procarionte). Ribossomos, membrana plasmática de fosfolipídeos, DNA e RNA existem nos dois — antimicrobianos 1, 3, 4 e 5 atingiriam também a microbiota. Microtúbulos e fuso mitótico com segregação de cromátides são estruturas exclusivas de células eucarióticas: o antimicrobiano 2 bloqueia a divisão do fungo e não tem alvo na bactéria, que se divide sem fuso."
   }
  ],
  "textos": [

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "filosofia-sociologia",
- "total": 473,
+ "total": 491,
  "residuo": [
   "dir-filosofia-sociologia-81",
   "dir-filosofia-sociologia-97",
@@ -2806,6 +2806,113 @@
    "subtema": "filosofia-etica-moral",
    "frenteDestino": "filosofia-sociologia",
    "revisado": true
+  },
+  "enem-filosofia-sociologia-34": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-filosofia-sociologia-35": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-36": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-37": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-filosofia-sociologia-38": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-39": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "enem-filosofia-sociologia-40": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-filosofia-sociologia-41": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-42": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-43": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-44": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-45": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-filosofia-sociologia-46": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "revisado": true
+  },
+  "enem-filosofia-sociologia-47": {
+   "subtema": "filosofia-conhecimento-logica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-48": {
+   "subtema": "filosofia-conhecimento-logica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "enem-filosofia-sociologia-49": {
+   "subtema": "filosofia-conhecimento-logica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "enem-filosofia-sociologia-50": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-filosofia-sociologia-51": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

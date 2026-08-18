@@ -10141,6 +10141,226 @@
    "explicacao": "O mapa mostra o jus soli concentrado nas Américas e o jus sanguinis na Europa. Os países americanos, formados por imigração em massa no século XIX, adotaram o direito de solo para incorporar os filhos dos imigrantes como nacionais — a imigração moldou suas definições de cidadania. Na Europa, ao contrário, predomina o sangue: filhos de estrangeiros não adquirem a nacionalidade automaticamente. As opções sobre regimes populistas e sobre jus sanguinis colonial não têm apoio no texto nem no mapa.",
    "resposta": "b",
    "origem": "medicina"
+  },
+  {
+   "id": "enem-historia-24",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Na construção da ferrovia Madeira-Mamoré, o que dizer dos doentes, eternos moribundos a vagar entre delírios febris, doses de quinino e corredores da morte? O Hospital da Candelária era santuário e túmulo, monumento ao progresso científico e preâmbulo da escuridão. Foi ali, com suas instalações moderníssimas, que médicos e sanitaristas dirigiram seu combate aos males tropicais. As maiores vítimas, contudo, permaneceriam na sombra à margem do palco, cobaias sem consolo, credores sem nome de uma sociedade que não lhes concedera tempo algum para ser decifrada.",
+   "fonte_texto": "FOOT HARDMAN, F. Trem fantasma: modernidade na selva. São Paulo: Cia. das Letras, 1988 (adaptado).",
+   "enunciado": "No texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na",
+   "alternativas": {
+    "a": "discrepância entre engenharia ambiental e equilíbrio da fauna.",
+    "b": "incoerência entre maquinaria estrangeira e controle da floresta.",
+    "c": "incompatibilidade entre investimento estatal e proteção aos nativos.",
+    "d": "competição entre farmacologia internacional e produtos da fitoterapia.",
+    "e": "contradição entre desenvolvimento nacional e respeito aos trabalhadores."
+   },
+   "resposta": "e",
+   "explicacao": "A ferrovia Madeira-Mamoré, construída entre 1907 e 1912, na República Velha, é apresentada como \"monumento ao progresso científico\" erguido sobre \"eternos moribundos\": os trabalhadores, dizimados por malária e outras doenças, foram \"cobaias sem consolo\", \"credores sem nome\". A crítica está nessa contradição entre a modernização do país e o desprezo pela vida de quem a construiu. As alternativas (a) e (b) falam de fauna e floresta, ausentes do texto; (c) fala de nativos, quando as vítimas são os operários; (d) inventa uma disputa entre remédios que o texto não menciona."
+  },
+  {
+   "id": "enem-historia-25",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O número cada vez maior de mulheres letradas e interessadas pela literatura e pelas novelas, muitas divulgadas em capítulos, seções, classificadas comumente como folhetim, alçou a um gênero de ficção corrente já em 1840, fazendo parte do florescimento da literatura nacional brasileira, instigando a formação e a ampliação de um público leitor feminino, ávido por novidades, pelo apelo dos folhetins e \"narrativas modernas\" que encenavam \"os dramas e os conflitos de uma mulher em processo de transformação patriarcal e provinciana que, progressivamente, começava a se abrir para modernizar seus costumes\". No Segundo Reinado, as mulheres foram se tornando público determinante na construção da literatura e da imprensa nacional. E não apenas público, porquanto crescerá o número de escritoras que colaboram para isso e emergirá uma imprensa feminina, editada, escrita e dirigida por e para mulheres.",
+   "fonte_texto": "ABRANTES, A. Do álbum de família à vitrine impressa: trajetos de retratos (PB, 1920), Revista Temas em Educação, n. 24, 2015 (adaptado).",
+   "enunciado": "O registro das atividades descritas associa a inserção da figura feminina nos espaços de leitura e escrita do Segundo Reinado ao(à)",
+   "alternativas": {
+    "a": "surgimento de novas práticas culturais.",
+    "b": "contestação de antigos hábitos masculinos.",
+    "c": "valorização de recentes publicações juvenis.",
+    "d": "circulação de variados manuais pedagógicos.",
+    "e": "aparecimento de diversas editoras comerciais."
+   },
+   "resposta": "a",
+   "explicacao": "O texto descreve o folhetim, a leitura de novelas em capítulos, a formação de um público leitor feminino e uma imprensa feita \"por e para mulheres\" — práticas culturais novas que se consolidam no Segundo Reinado e nas quais a mulher entra como leitora e como autora. Não há confronto com hábitos masculinos (b), e nada é dito sobre publicações juvenis, manuais pedagógicos ou editoras (c, d, e): esses distratores trocam o fenômeno cultural por detalhes editoriais que o texto não traz."
+  },
+  {
+   "id": "enem-historia-26",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas.",
+   "fonte_texto": "POPINIGIS, F. \"Todas as liberdades são irmãs\": os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016 (adaptado).",
+   "enunciado": "A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de",
+   "alternativas": {
+    "a": "manutenção das regras patronais.",
+    "b": "desprendimento das ideias liberais.",
+    "c": "fortalecimento dos contratos laborais.",
+    "d": "consolidação das estruturas sindicais.",
+    "e": "contestação dos princípios monárquicos."
+   },
+   "resposta": "e",
+   "explicacao": "Na década de 1880 os caixeiros \"ganharam as ruas\" ao lado de republicanos e abolicionistas — os dois movimentos que corroíam os pilares do Império (a monarquia e a escravidão). Sua atuação insere-se, portanto, na contestação da ordem monárquica que desembocaria em 1888-1889. Não se trata de manter regras patronais (a), e falar em sindicatos consolidados (d) é anacronismo: o texto diz que eram das \"primeiras\" categorias a se organizar, em associações, e não menciona contratos de trabalho (c)."
+  },
+  {
+   "id": "enem-historia-27",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Ainda que a fome ocorrida na Itália em 536 tenha origem nos eventos climáticos, suas implicações são tanto políticas quanto econômicas. Nos primeiros séculos da Idade Média, o auxílio aos famintos se inscreve no domínio da gestão pública, mesmo quando a ação de seus agentes é apresentada sob o ângulo da piedade e da caridade individuais, como é o caso da Gália merovíngia. Assim, o fato de que as respostas à fome são mostradas, na Gália, como o fruto de iniciativas pessoais fundadas no imperativo da caridade deriva da natureza das fontes do século VI.",
+   "fonte_texto": "SILVA, M. C. Os agentes públicos e a fome nos primeiros séculos da Idade Média. Varia Historia, n. 60, set.-dez. 2016 (adaptado).",
+   "enunciado": "Na conjuntura histórica destacada no texto, o dever de agir em face da situação de crise apresentada pertencia à jurisdição",
+   "alternativas": {
+    "a": "da nobreza, proveniente da obrigação de proteção ao campesinato livre.",
+    "b": "da realeza, decorrente do conceito de governo subjacente à monarquia cristã.",
+    "c": "dos mosteiros, resultante do caráter fraternal afirmado nas regras monásticas.",
+    "d": "dos bispados, consequente da participação dos clérigos nos assuntos comunitários.",
+    "e": "das corporações, procedente do padrão assistencialista previsto nas normas estatutárias."
+   },
+   "resposta": "b",
+   "explicacao": "O texto afirma que, na alta Idade Média, o socorro aos famintos \"se inscreve no domínio da gestão pública\" — mesmo quando as fontes o narram como caridade pessoal. Na Gália merovíngia, quem detinha essa gestão pública era o rei: na monarquia cristã, governar incluía o dever de proteger e alimentar o povo. Mosteiros e bispados (c, d) praticavam caridade, mas o texto distingue justamente a caridade individual da obrigação pública; nobreza feudal e corporações (a, e) pertencem a séculos posteriores."
+  },
+  {
+   "id": "enem-historia-28",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nA primeira grande lei educacional do Brasil, de 1827, determinava que, nas \"escolas de primeiras letras\" do Império, meninos e meninas estudassem separados e tivessem currículos diferentes. No Senado, o Visconde de Cayru foi um dos defensores de que o currículo de matemática das garotas fosse o mais enxuto possível. Nas palavras dele, o \"belo sexo\" não tinha capacidade intelectual para ir muito longe: — Sobre as contas, são bastantes [para as meninas] as quatro espécies, que não estão fora do seu alcance e lhes podem ser de constante uso na vida.\n\nTEXTO II\nNo Senado, o único a defender publicamente que as meninas tivessem, em matemática, um currículo idêntico ao dos meninos foi o Marquês de Santo Amaro (RJ). Ele argumentou: — Não me parece conforme, às luzes do tempo em que vivemos, deixarmos de facilitar às brasileiras a aquisição desses conhecimentos [mais aprofundados de matemática]. A oposição que se manifesta não pode nascer senão do arraigado e péssimo costume em que estavam os antigos, os quais nem queriam que suas filhas aprendessem a ler.",
+   "fonte_texto": "WESTIN, R. Senado Notícias. Disponível em: www12.senado.leg.br. Acesso em: 20 out. 2021 (adaptado).",
+   "enunciado": "Os discursos expressam pontos de vista divergentes respectivamente pela oposição entre",
+   "alternativas": {
+    "a": "liberdade de gênero e controle social.",
+    "b": "equidade de escolha e imposição cultural.",
+    "c": "dominação de corpos e igualdade humana.",
+    "d": "geração de oportunidade e restrição profissional.",
+    "e": "exclusão de competências e participação política."
+   },
+   "resposta": "c",
+   "explicacao": "No Primeiro Reinado, sob a Carta de 1824, Cayru nega às meninas a capacidade intelectual e limita o que podem aprender — decide sobre o que os corpos femininos podem ou não fazer, o que é dominação. Santo Amaro responde que a restrição vem de \"péssimo costume\" e defende currículo idêntico: igualdade humana. A ordem \"respectivamente\" confirma (c). Em (a), (b) e (d) a ordem está invertida — o primeiro discurso restringe, o segundo abre; em (e), \"participação política\" não é o que Santo Amaro reivindica, e sim o acesso ao conhecimento."
+  },
+  {
+   "id": "enem-historia-29",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A história do Primeiro de Maio de 1890 — na França e na Europa, o primeiro de todos os Primeiros de Maio — é, sob vários aspectos, exemplar. Resultante de um ato político deliberado, essa manifestação ilustra o lado voluntário da construção de uma classe — a classe operária — à qual os socialistas tentam dar uma unidade política e cultural através daquela pedagogia da festa cujo princípio, eficácia e limites há muito tempo tinham sido experimentados pela Revolução Francesa.",
+   "fonte_texto": "PERROT, M. Os excluídos da história: operários, mulheres e prisioneiros. Rio de Janeiro: Paz e Terra, 1988.",
+   "enunciado": "Com base no texto, a fixação dessa data comemorativa tinha por objetivo",
+   "alternativas": {
+    "a": "valorizar um sentimento burguês.",
+    "b": "afirmar uma identidade coletiva.",
+    "c": "edificar uma memória nacional.",
+    "d": "criar uma comunidade cívica.",
+    "e": "definir uma tradição popular."
+   },
+   "resposta": "b",
+   "explicacao": "Perrot diz que o Primeiro de Maio foi um \"ato político deliberado\" para \"construir uma classe\" e dar-lhe \"unidade política e cultural\": a festa serve para que os operários se reconheçam como um só grupo, o movimento operário como sujeito — uma identidade coletiva. \"Sentimento burguês\" (a) é o oposto da classe em questão; \"memória nacional\" e \"comunidade cívica\" (c, d) falam da nação e da cidadania em geral, quando o texto fala de classe; \"tradição popular\" (e) apaga o caráter político e classista que a autora sublinha."
+  },
+  {
+   "id": "enem-historia-30",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Lá embaixo está o Açude Itans, com seu formigueiro a cavar a terra. É mesmo impressionante o esforço daquele formigar de homens ao sol, lavados em suor, que não param, em longas filas pacientes acompanhando centenas de burricos que sobem e descem, numa ciranda comovente e silenciosa, cada burrico com duas caixas de terra no lombo. É o labor organizado para a salvação da terra e do homem. Depois do semideserto que tanto nos acabrunhou o espírito por falta de chuvas, o esforço destes milhares de sertanejos, todos vestidos de brim mescla e calçando alpercatas, no combate consciente à esterilidade da natureza, com as famílias alojadas em pequeninas casas de taipa e telha — embrião de futura cidade — impressionava-nos profundamente.",
+   "fonte_texto": "VALLE, F. M. História do Açude Itans, município de Caicó (RN). Brasília, 1994 (adaptado).",
+   "enunciado": "Na construção do empreendimento descrito, destaca-se a presença de",
+   "alternativas": {
+    "a": "engenheiros na execução de canais fluviais.",
+    "b": "coronéis na ampliação de antigas fazendas.",
+    "c": "operários na distribuição dos recursos hídricos.",
+    "d": "trabalhadores na formação de novos espaços.",
+    "e": "negociantes na organização de redes comerciais."
+   },
+   "resposta": "d",
+   "explicacao": "O que o texto destaca é o \"formigar de homens ao sol\", os \"milhares de sertanejos\" que cavam o açude e cujas famílias, alojadas em casas de taipa, formam o \"embrião de futura cidade\": trabalhadores criando, com o próprio esforço, um novo espaço no sertão. Engenheiros, coronéis e negociantes (a, b, e) não aparecem na cena; \"distribuição dos recursos hídricos\" (c) descreve o uso posterior do açude, não a construção que o texto retrata."
+  },
+  {
+   "id": "enem-historia-31",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Para os Impérios Coloniais, o problema das doenças que atingiam os escravos era algo com que cotidianamente deparavam os senhores. Em vista disso, uma série de obras dedicadas à administração de escravos foi publicada com vista a implementar uma moderna gestão da mão de obra escravista em convergência com o Iluminismo. Nesse contexto, o saber médico adquiria um papel extremamente relevante. Este era encarado como um instrumento fundamental ao desenvolvimento colonial, dada a percepção do impacto que as doenças tropicais causavam na população branca e nos povos escravizados.",
+   "fonte_texto": "ABREU, J. L. N. A Colônia enferma e a saúde dos povos: a medicina das \"luzes\" e as informações sobre as enfermidades da América portuguesa. História, Ciências, Saúde – Manguinhos, n. 3, jul.-set. 2007 (adaptado).",
+   "enunciado": "De acordo com o texto, a importância da medicina se justifica no âmbito dos objetivos",
+   "alternativas": {
+    "a": "econômicos das elites.",
+    "b": "naturalistas dos viajantes.",
+    "c": "abolicionistas dos letrados.",
+    "d": "tradicionalistas dos nativos.",
+    "e": "emancipadores das metrópoles."
+   },
+   "resposta": "a",
+   "explicacao": "A medicina interessava porque as doenças atingiam a \"mão de obra escravista\", e as obras publicadas visavam a uma \"moderna gestão\" dessa mão de obra: cuidar da saúde do escravizado era preservar o capital e o \"desenvolvimento colonial\". O objetivo é econômico e pertence aos senhores — às elites. Nada indica abolicionismo (c); ao contrário, o saber médico serve à continuidade da escravidão. Viajantes naturalistas, nativos e emancipação (b, d, e) não são o eixo do texto."
+  },
+  {
+   "id": "enem-historia-32",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Decreto-Lei n. 1 949, de 27/12/1937\nArt. 1º Fica criado o Departamento de Imprensa e Propaganda (DIP), diretamente subordinado ao presidente da República.\nArt. 2º O DIP tem por fim:\n[...]\nh) coordenar e incentivar as relações da imprensa com os poderes públicos no sentido de maior aproximação da mesma com os fatos que se ligam aos interesses nacionais;\n[...]\nn) autorizar mensalmente a devolução dos depósitos efetuados pelas empresas jornalísticas para a importação de papel para imprensa, uma vez demonstrada, a seu juízo, a eficiência e a utilidade pública dos jornais ou periódicos por elas administrados ou dirigidos.",
+   "fonte_texto": "BRASIL apud CARONE, E. A Terceira República (1937-1945). São Paulo: Difel, 1982 (adaptado).",
+   "enunciado": "Com base nos trechos do decreto, as finalidades do órgão criado permitiram ao governo promover o(a)",
+   "alternativas": {
+    "a": "diversificação da opinião pública.",
+    "b": "mercantilização da cultura popular.",
+    "c": "controle das organizações sindicais.",
+    "d": "cerceamento da liberdade de expressão.",
+    "e": "privatização dos meios de comunicação."
+   },
+   "resposta": "d",
+   "explicacao": "O DIP, criado semanas após o golpe do Estado Novo, subordinava a imprensa ao presidente: o item h manda \"aproximar\" os jornais dos \"interesses nacionais\" (isto é, do governo) e o item n condiciona a devolução dos depósitos para importar papel à \"utilidade pública\" do jornal, julgada pelo próprio DIP — quem criticasse o regime ficava sem papel. É censura e cerceamento da liberdade de expressão. O efeito é o oposto de diversificar a opinião pública (a); sindicatos, cultura popular e privatização (c, b, e) não são objeto dos artigos transcritos."
+  },
+  {
+   "id": "enem-historia-33",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nManda o Santo Ofício da Inquisição que ninguém, seja qual for seu estado, idade ou condição, pare com carroça, caleça ou montaria nem atrapalhe com mesas ou cadeiras o centro das ruas, que vão da Inquisição a São Domingos, nem atravesse a procissão em ponto algum da ida ou da volta, amanhã, 19 do corrente, em que se celebrará auto de fé. E também que nem nesse dia nem nos dos açoites ouse alguém atirar nos réus maçãs, pedras, laranjas nem outra coisa qualquer.\nPALMA, R. Anais da Inquisição de Lima. São Paulo: Edusp; Giordano, 1992 (adaptado).\n\nTEXTO II\nComo acontece em todos os ritos, o sentido do auto da fé é conferido pela sequência dos atos que o compõem. Os lugares, as posturas, os gestos, as palavras são fixados previamente em toda a sua complexidade. Por isso, o auto da fé apresenta momentos fortes — durante a preparação, a encenação, o ato e a recepção — que convém seguir em seus pormenores.",
+   "fonte_texto": "BETHENCOURT, F. História das Inquisições: Portugal, Espanha e Itália – séculos XV-XIX. São Paulo: Cia. das Letras, 2000.",
+   "enunciado": "O rito mencionado nos textos demonstra a capacidade da Igreja em",
+   "alternativas": {
+    "a": "abrandar cerimônias de punição.",
+    "b": "favorecer anseios de violência.",
+    "c": "criticar políticas de disciplina.",
+    "d": "produzir padrões de conduta.",
+    "e": "ordenar cultos de heresia."
+   },
+   "resposta": "d",
+   "explicacao": "O edital do Texto I regula minuciosamente o comportamento de todos — onde não parar, por onde não atravessar, o que não atirar nos réus —, e o Texto II mostra que no auto de fé \"lugares, posturas, gestos, palavras são fixados previamente\". O rito é um instrumento pelo qual a Igreja da Contrarreforma disciplina a conduta pública. Proibir que a multidão apedreje os réus não é abrandar a punição (a) nem incentivar violência (b): é controlar o ritual; a Igreja não critica a disciplina (c), ela a impõe; e o auto de fé condena a heresia, não a cultua (e)."
+  },
+  {
+   "id": "enem-historia-34",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Quando os espanhóis chegaram à América, estava em seu apogeu o império teocrático dos Incas, que estendia seu poder sobre o que hoje chamamos Peru, Bolívia e Equador, abarcava parte da Colômbia e do Chile e alcançava até o norte argentino e a selva brasileira; a confederação dos Astecas tinha conquistado um alto nível de eficiência no vale do México, e no Yucatán, na América Central, a esplêndida civilização dos Maias persistia nos povos herdeiros, organizados para o trabalho e para a guerra. Os Maias tinham sido grandes astrônomos, mediram o tempo e o espaço com assombrosa precisão, e tinham descoberto o valor do número zero antes de qualquer povo da história. No museu de Lima, podem ser vistos centenas de crânios que receberam placas de ouro e prata por parte dos cirurgiões Incas.",
+   "fonte_texto": "GALEANO, E. As veias abertas da América Latina. Porto Alegre: L&PM, 2012.",
+   "enunciado": "As sociedades mencionadas deixaram como legado uma diversidade de",
+   "alternativas": {
+    "a": "bens religiosos inspirados na matriz cristã.",
+    "b": "materiais bélicos pilhados em batalhas coloniais.",
+    "c": "heranças culturais constituídas em saberes próprios.",
+    "d": "costumes laborais moldados em estilos estrangeiros.",
+    "e": "práticas medicinais alicerçadas no conhecimento científico."
+   },
+   "resposta": "c",
+   "explicacao": "Galeano lista o que incas, astecas e maias produziram por conta própria antes da chegada dos europeus: astronomia, medição do tempo, o zero, cirurgias cranianas. São saberes próprios, desenvolvidos sem influência externa — o oposto de \"matriz cristã\" (a) e de \"estilos estrangeiros\" (d), que remetem ao colonizador. Materiais pilhados (b) seriam legado da conquista, não das sociedades; e a alternativa (e) reduz tudo à medicina e a chama de \"científica\" no sentido moderno, o que o texto não afirma."
   }
  ]
 }

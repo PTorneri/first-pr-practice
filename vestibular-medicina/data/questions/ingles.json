@@ -5848,6 +5848,106 @@
       },
       "resposta": "c",
       "explicacao": "Outright qualifica uma proibição completa, total. Thorough é a única opção com esse valor de abrangência; partial e confined o contradizem, e legal/illicit tratam de legalidade."
+    },
+    {
+      "id": "enem-ingles-08",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "As my official bio reads, I was made in Cuba, assembled in Spain, and imported to the United States — meaning my mother, seven months pregnant, and the rest of my family arrived as exiles from Cuba to Madrid, where I was born. Less than two months later, we emigrated once more and settled in New York City, then eventually in Miami, where I was raised and educated. Although technically we lived in the United States, the Cuban community was culturally insular in Miami during the 1970s, bonded together by the trauma of exile. What’s more, it seemed that practically everyone was Cuban: my teachers, my classmates, the mechanic, the bus driver. I didn’t grow up feeling different or treated as a minority. The few kids who got picked on in my grade school were the ones with freckles and funny last names like Dawson and O’Neil.",
+      "fonte_texto": "BLANCO, R. Disponível em: http://edition.cnn.com. Acesso em: 9 dez. 2017 (adaptado).",
+      "enunciado": "Ao relatar suas vivências, o autor destaca o(a)",
+      "alternativas": {
+        "a": "qualidade da educação formal em Miami.",
+        "b": "prestígio da cultura cubana nos Estados Unidos.",
+        "c": "oportunidade de qualificação profissional em Miami.",
+        "d": "cenário da integração de cubanos nos Estados Unidos.",
+        "e": "fortalecimento do elo familiar em comunidades estadunidenses."
+      },
+      "resposta": "d",
+      "explicacao": "O relato converge para a Miami dos anos 1970, onde a comunidade cubana era “culturally insular”, unida pelo trauma do exílio, e onde “practically everyone was Cuban” — professores, colegas, mecânico, motorista. Por isso o autor não cresceu se sentindo diferente nem tratado como minoria: é o retrato de como os cubanos se integraram (entre si e no país) nos Estados Unidos. Nada no texto avalia a qualidade da escola (a) nem fala de qualificação profissional (c); “prestígio” (b) exagera o que é apenas presença numérica; e a família aparece só como ponto de partida do exílio, não como tema (e)."
+    },
+    {
+      "id": "enem-ingles-09",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Two hundred years ago, Jane Austen lived in a world where single men boasted vast estates; single ladies were expected to speak several languages, sing and play the piano. In both cases, it was, of course, advantageous if you looked good too. So, how much has — or hasn’t — changed? Dating apps opaquely outline the demands of today’s relationship market; users ruminate long and hard over their choice of pictures and what they write in their biographies to hook in potential lovers, and that’s just your own profile. What do you look for in a future partner’s profile — potential signifiers of a popular personality, a good job, a nice car? These apps are a poignant reminder of the often classist attitudes we still adopt, as well as the financial and aesthetic expectations we demand from potential partners.",
+      "fonte_texto": "GALER, S. Disponível em: www.bbc.com. Acesso em: 8 dez. 2017 (adaptado).",
+      "enunciado": "O texto aborda relações interpessoais com o objetivo de",
+      "alternativas": {
+        "a": "problematizar o papel de gênero em casamentos modernos.",
+        "b": "apontar a relevância da educação formal na escolha de parceiros.",
+        "c": "comparar a expectativa de parceiros amorosos em épocas distintas.",
+        "d": "discutir o uso de aplicativos para proporcionar encontros românticos.",
+        "e": "valorizar a importância da aparência física na seleção de pretendentes."
+      },
+      "resposta": "c",
+      "explicacao": "A estrutura é a de um paralelo: o mundo de Jane Austen, duzentos anos atrás (propriedades, línguas, piano, boa aparência), e a pergunta-eixo “how much has — or hasn’t — changed?”, respondida com o que se busca hoje nos perfis (personalidade popular, bom emprego, carro bonito). O ponto é que as expectativas classistas, financeiras e estéticas persistem entre as épocas. Os aplicativos são o exemplo atual, não o objeto da discussão (d); a aparência é citada como uma exigência entre outras, não valorizada (e); e não há discussão de papéis de gênero (a) nem de educação formal (b)."
+    },
+    {
+      "id": "enem-ingles-10",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "[Tirinha em quatro quadros. Em cada um, um homem de cartola conversa com uma mulher, num castelo repleto de estantes de livros.]\n1 — Homem: “NOW THAT YOU ARE MY BRIDE, YOU WILL NEVER LEAVE THIS CASTLE!”\nMulher: “WOW! YOUR LIBRARY IS AMAZING!”\n2 — Homem: “BEYOND THE CASTLE IS A HIGH WALL WITH NO GATE, AND BEYOND THAT IS A DEEP, DARK FOREST WITH NO PATH.”\nMulher: “I SUPPOSE IT’S MY LIBRARY TOO, NOW WE’RE MARRIED.”\n3 — Homem: “THE FOREST IS CRAWLING WITH RAVENOUS WOLVES, MALIGNANT BIRDS AND THE SPIRITS OF LONG-DEAD TRAVELLERS.”\nMulher: “SO MANY BOOKS! I CAN’T BELIEVE MY LUCK!”\n4 — Homem: “WHEN THE SUN SETS, I TRANSFORM INTO A WILD BEAST AND SOAR INTO THE NIGHT, SEIZED BY A TERRIBLE BLOODLUST!”\nMulher: “OK. I’LL STAY HERE AND READ. SEE YOU IN THE MORNING.”",
+      "fonte_texto": "GAULD, T. Disponível em: www.tomgauld.com. Acesso em: 25 out. 2021.",
+      "enunciado": "Nessa tirinha, o comportamento da mulher expressa",
+      "alternativas": {
+        "a": "revolta com a falta de sorte.",
+        "b": "gosto pela prática da leitura.",
+        "c": "receio pelo futuro do casamento.",
+        "d": "entusiasmo com os livros de terror.",
+        "e": "rejeição ao novo tipo de residência."
+      },
+      "resposta": "b",
+      "explicacao": "O humor nasce do descompasso: enquanto o marido acumula ameaças góticas (muro sem portão, floresta com lobos, transformação em fera sanguinária), a mulher só reage aos livros — “your library is amazing”, “so many books! I can’t believe my luck!”, “I’ll stay here and read”. Infere-se, portanto, que o que ela expressa é o gosto pela leitura, que a deixa indiferente ao resto. Ela se diz sortuda, não revoltada (a); não demonstra medo do casamento (c) nem rejeição ao castelo, que aceita de bom grado (e); e nada indica que os livros sejam de terror — o terror está nas falas do marido, não nas estantes (d)."
+    },
+    {
+      "id": "enem-ingles-11",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "A Teen’s View of Social Media\nInstagram is made up of all photos and videos. There is the home page that showcases the posts from people you follow, an explore tab which offers posts from accounts all over the world, and your own page, with a notification tab to show who likes and comments on your posts.\nIt has some downsides though. It is known to make many people feel insecure or down about themselves because the platform showcases the highlights of everyone’s lives, while rarely showing the negatives. This can make one feel like their life is not going as well as others, contributing to the growing rates of anxiety or depression in many teens today. There is an underlying desire for acceptance through the number of likes or followers one has.",
+      "fonte_texto": "Disponível em: https://cyberbullying.org. Acesso em: 29 out. 2021.",
+      "enunciado": "O termo “downsides” introduz a ideia de que o Instagram é responsável por",
+      "alternativas": {
+        "a": "oferecer recursos de fotografia.",
+        "b": "divulgar problemas dos usuários.",
+        "c": "estimular aceitação dos seguidores.",
+        "d": "provocar ansiedade nos adolescentes.",
+        "e": "aproximar pessoas ao redor do mundo."
+      },
+      "resposta": "d",
+      "explicacao": "“Downsides” são desvantagens, e o parágrafo que a palavra abre lista exatamente o lado ruim: a plataforma faz muita gente se sentir insegura, mostra só os pontos altos da vida alheia e, com isso, contribui para “the growing rates of anxiety or depression in many teens”. Recursos de foto (a) e alcance mundial (e) estão no primeiro parágrafo, o dos aspectos neutros ou positivos. O texto diz que a rede esconde os negativos, e não que os divulga (b); e a busca de aceitação por curtidas é apresentada como sintoma do problema, não como estímulo saudável (c)."
+    },
+    {
+      "id": "enem-ingles-12",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "I tend the mobile now\nlike an injured bird\nWe text, text, text\nour significant words.\nI re-read your first,\nyour second, your third,\nLook for your small xx,\nfeeling absurd.\nThe codes we send\narrive with a broken chord.\nI try to picture your hands,\ntheir image is blurred.\nNothing my thumbs press\nwill ever be heard.",
+      "fonte_texto": "DUFFY, C. Disponível em: www.independent.co.uk. Acesso em: 27 out. 2021.",
+      "enunciado": "Nesse poema, o eu lírico evidencia um sentimento de",
+      "alternativas": {
+        "a": "contentamento com a interação virtual.",
+        "b": "zelo com o envio de mensagens.",
+        "c": "preocupação com a composição de textos.",
+        "d": "mágoa com o comportamento de alguém.",
+        "e": "insatisfação com uma forma de comunicação."
+      },
+      "resposta": "e",
+      "explicacao": "As imagens são todas de falta: o celular tratado “like an injured bird”, o eu lírico “feeling absurd” ao procurar os beijinhos (“xx”), os códigos que chegam “with a broken chord”, as mãos do outro que ele tenta imaginar e vê borradas, e o fecho — “nothing my thumbs press will ever be heard”. Depreende-se que a insatisfação é com a própria comunicação por mensagens de texto, que não substitui a voz e o toque. Não há contentamento (a); o cuidado ao reler as mensagens (b) é sintoma, não o sentimento central; e a mágoa não é com o outro (d), que não é acusado de nada — é com o meio."
     }
   ]
 }

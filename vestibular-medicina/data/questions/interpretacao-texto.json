@@ -5328,6 +5328,466 @@
       "explicacao": "O texto 2 toma posição em nome de um coletivo (“Nós acreditamos...”), expõe princípios (arte feita à mão, autenticidade, ética) e conclama a não usar imagens no estilo Ghibli geradas por IA — a forma do manifesto, contrário à imitação automatizada que desvaloriza a autenticidade artística do estúdio. Não é repúdio por “simplificar o conteúdo”, não pede boicote às IAs em geral nem fala em confundir pessoas, e não é resenha (não avalia uma obra específica).",
       "resposta": "c",
       "origem": "medicina"
+    },
+    {
+      "id": "enem-interpretacao-texto-46",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Urgência emocional\nSe tudo é para ontem, se a vida engata uma primeira e sai em disparada, se não há mais tempo para paradas estratégicas, caímos fatalmente no vício de querer que os amores sejam igualmente resolvidos num átimo de segundo. Temos pressa para ouvir “eu te amo”. Não vemos a hora de que fiquem estabelecidas as regras de convívio: somos namorados, ficantes, casados, amantes? Urgência emocional. Uma cilada. Associamos diversas palavras ao AMOR: paixão, romance, sexo, adrenalina, palpitação. Esquecemos, no entanto, da palavra que viabiliza esse sentimento: “paciência”. Amor sem paciência não vinga. Amor não pode ser mastigado e engolido com emergência, com fome desesperada. É uma refeição que pode durar uma vida.",
+      "fonte_texto": "MEDEIROS, M. Disponível em: http://porumavidasimples.blogspot.com.br. Acesso em: 20 ago. 2017 (adaptado).",
+      "enunciado": "Nesse texto de opinião, as marcas linguísticas revelam uma situação distensa e de pouca formalidade, o que se evidencia pelo(a)",
+      "alternativas": {
+        "a": "impessoalização ao longo do texto, como em: “se não há mais tempo”.",
+        "b": "construção de uma atmosfera de urgência, em palavras como: “pressa”.",
+        "c": "repetição de uma determinada estrutura sintática, como em: “Se tudo é para ontem”.",
+        "d": "ênfase no emprego da hipérbole, como em: “uma refeição que pode durar uma vida”.",
+        "e": "emprego de metáforas, como em: “a vida engata uma primeira e sai em disparada”."
+      },
+      "resposta": "e",
+      "explicacao": "A informalidade do texto está nas imagens do dia a dia com que a autora fala do amor: a vida que “engata uma primeira e sai em disparada”, o amor que “não pode ser mastigado e engolido”, a “refeição que pode durar uma vida”. São metáforas coloquiais, próprias de uma conversa e não de um registro formal. A repetição de “se” (c) e a atmosfera de urgência (b) constroem o argumento, não o tom informal; a impessoalização (a) puxaria para o formal, o contrário do que se pede; e a “refeição que dura uma vida” é metáfora, não hipérbole (d)."
+    },
+    {
+      "id": "enem-interpretacao-texto-47",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "TEXTO I\n[Cartaz de campanha, com a foto de um cão e um gato:] “EI... ME LEVE PARA SUA CASA!!! 14ª FEIRA DE ADOÇÃO DE CÃES E GATOS. ADOTE UM ANIMAL DE RUA. DOCUMENTOS OBRIGATÓRIOS PARA ADOÇÃO: CARTEIRA DE IDENTIDADE | CPF | COMPROVANTE DE RESIDÊNCIA. E muito amor!!”\nDisponível em: https://amigodobicho.wordpress.com. Acesso em: 10 dez. 2017.\n\nTEXTO II\nNas ruas, na cidade e no parque\nNinguém nunca prendeu o Delegado. O vaivém de rua em rua e sua longa vida são relembrados e recontados. Exemplo de sobrevivência, liderança, inteligência canina, desde pequenininho seu focinho negro e seus olhos delineados desenharam um mapa mental olfativo-visual de Lavras. Corria de quem precisava correr e se aproximava de quem não lhe faria mal, distinguia este daquele. Assim, tornou-se um cão comunitário. Nunca se soube por que escolheu a rua, talvez lhe tenham feito mal dentro de quatro paredes. Idoso, teve câncer e desapareceu. O querido foi procurado pela cidade inteira por duas protetoras, mas nunca encontrado.",
+      "fonte_texto": "COSTA, A. R. N. Viver o amor aos cães: Parque Francisco de Assis. Carmo do Cachoeira: Irdin, 2014 (adaptado).",
+      "enunciado": "Os dois textos abordam a temática de animais de rua, porém, em relação ao Texto I, o Texto II",
+      "alternativas": {
+        "a": "problematiza a necessidade de adoção de animais sem lar.",
+        "b": "valida a troca afetiva entre os pets adotados e seus donos.",
+        "c": "reforça a importância da campanha de adoção de animais.",
+        "d": "exalta a natureza amigável de cães e de gatos.",
+        "e": "promove a campanha de adoção de animais."
+      },
+      "resposta": "a",
+      "explicacao": "O cartaz parte de uma premissa: animal de rua precisa de casa. O Texto II conta a história de um cão que “escolheu a rua”, virou “cão comunitário”, é lembrado como exemplo de sobrevivência e liderança e é procurado pela cidade inteira — ou seja, um animal de rua que teve vida plena sem ser adotado (e talvez tenha sofrido “dentro de quatro paredes”). Isso se contrapõe ao Texto I e põe em questão a necessidade da adoção que ele defende. As alternativas (c) e (e) fariam do Texto II um aliado da campanha, o oposto do que ele faz; (b) fala de pets adotados, que não existem no relato; e (d) confunde o tema com um elogio genérico à índole dos animais."
+    },
+    {
+      "id": "enem-interpretacao-texto-48",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "É ruivo? Tem olhos azuis? É homem ou mulher? Usa chapéu? Quem jogou Cara a Cara na infância sabe de cor o roteiro de perguntas para adivinhar quem é o personagem misterioso do seu oponente.\nAgora, o jogo está prestes a ganhar uma nova versão. A designer polonesa Zuzia Kozerska-Girard está desenvolvendo uma variação do Guess Who? (nome do Cara a Cara em inglês), em que as personalidades do tabuleiro são, na verdade, mulheres notáveis da história e da atualidade, como a artista Frida Kahlo, a ativista Malala Yousafzai, a astronauta Valentina Tereshkova e a aviadora Amelia Earhart. O Who’s She? (“Quem é ela?”, em português) traz, no total, 28 mulheres que representam diversas profissões, nacionalidades e idades.\nA ideia é que, em vez de perguntar sobre a aparência das personagens, as questões sejam direcionadas aos feitos delas: ganhou algum Nobel, fez alguma descoberta? Para cada personagem há um cartão com fatos divertidos e interessantes sobre sua vida. Uma campanha entrou no ar com o objetivo de arrecadar dinheiro para desenvolver o Who’s She?. A meta inicial era reunir 17 mil dólares. Oito dias antes de a campanha acabar, o projeto já angariou quase 350 mil dólares.\nA chegada do jogo à casa do comprador varia de acordo com a quantia doada — quanto mais você doou, mais rápido vai poder jogar.",
+      "fonte_texto": "Disponível em: www.super.abril.com.br. Acesso em: 4 dez. 2018 (adaptado).",
+      "enunciado": "Ao divulgar a adaptação do jogo para questões relativas a ações e habilidades de mulheres notáveis, o texto busca",
+      "alternativas": {
+        "a": "contribuir para a formação cidadã dos jogadores.",
+        "b": "refutar modelos estereotipados de beleza e elegância.",
+        "c": "estimular a competitividade entre potenciais compradores.",
+        "d": "exemplificar estratégias de arrecadação financeira pela internet.",
+        "e": "desenvolver conhecimentos lúdicos específicos dos tempos atuais."
+      },
+      "resposta": "a",
+      "explicacao": "O que a reportagem destaca é a troca de foco do jogo: em vez da aparência (“É ruivo? Usa chapéu?”), as perguntas passam a ser sobre os feitos de mulheres notáveis — Nobel, descobertas — com um cartão de fatos sobre cada vida. O propósito do texto, ao divulgar isso, é apostar no valor formativo do jogo, que ensina história e representatividade enquanto diverte: formação cidadã. O texto não discute padrões de beleza (b), apenas deixa de perguntar por aparência; a campanha de arrecadação e o prazo de entrega são detalhes de bastidor, não o propósito (c, d); e “conhecimentos lúdicos dos tempos atuais” (e) descreve mal um jogo sobre figuras históricas."
+    },
+    {
+      "id": "enem-interpretacao-texto-49",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "[Peça publicitária do Detran-ES. À esquerda, a foto de uma pessoa cobrindo o rosto com as mãos; nos antebraços, tatuada, a palavra:] Arrependimento\n[À direita, o texto:] Causar um acidente é algo que você leva pro resto da vida. Não beba se for dirigir.\nDETRAN | ES",
+      "fonte_texto": "Disponível em: www.portaldapropaganda.com.br. Acesso em: 29 out. 2013 (adaptado).",
+      "enunciado": "Para convencer o público-alvo sobre a necessidade de um trânsito mais seguro, essa peça publicitária apela para o(a)",
+      "alternativas": {
+        "a": "sentimento de culpa provocado no condutor causador de acidentes.",
+        "b": "dano psicológico causado nas vítimas da violência nas estradas.",
+        "c": "importância do monitoramento do trânsito pelas autoridades competentes.",
+        "d": "necessidade de punição a motoristas alcoolizados envolvidos em acidentes.",
+        "e": "sofrimento decorrente da perda de entes queridos em acidentes automobilísticos."
+      },
+      "resposta": "a",
+      "explicacao": "O destinatário é quem dirige — “não beba se for dirigir” — e a razão apresentada é o que “causar um acidente” faz com quem o causa: um arrependimento que se “leva pro resto da vida”, como uma tatuagem na pele. O apelo, portanto, é à culpa do condutor. As alternativas (b) e (e) deslocam o foco para as vítimas e suas famílias, que a peça nem menciona; (c) e (d) falam de fiscalização e punição, quando o texto não cita autoridade nem lei — a sanção que ele evoca é interna, moral."
+    },
+    {
+      "id": "enem-interpretacao-texto-50",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Ciente de que, no campo da criação, as inovações tecnológicas abrem amplo leque de possibilidades — ao permitir, e mesmo estimular, que o artista explore a fundo, em seu processo criativo, questões como a aleatoriedade, o acaso, a não linearidade e a hipermídia —, Leo Cunha comenta que, no que tange ao campo da divulgação, as alternativas são ainda mais evidentes: “Afinal, é imensa a capacidade de reprodução, multiplicação e compartilhamento das obras artísticas/culturais. Ao mesmo tempo, ganham dimensão os dilemas envolvidos com a questão da autoria, dos direitos autorais, da reprodução e intervenção não autorizadas, entre outras questões”. Já segundo a professora Yacy-Ara Froner, o uso de ferramentas tecnológicas não pode ser visto como um fim em si mesmo. Isso porque computadores, samplers, programas de imersão, internet e intranet, vídeo, televisão, rádio, GPD etc. são apenas suportes com os quais os artistas exercem sua imaginação.",
+      "fonte_texto": "SILVA JR., M. G. Movidas pela dúvida. Minas faz Ciências, n. 52, dez.-fev. 2013 (adaptado).",
+      "enunciado": "Segundo os autores citados no texto, a expansão de possibilidades no campo das manifestações artísticas promovida pela internet pode pôr em risco o(a)",
+      "alternativas": {
+        "a": "sucesso dos artistas.",
+        "b": "valorização dos suportes.",
+        "c": "proteção da produção estética.",
+        "d": "modo de distribuição de obras.",
+        "e": "compartilhamento das obras artísticas."
+      },
+      "resposta": "c",
+      "explicacao": "O risco está nomeado na fala de Leo Cunha: junto com a capacidade de reprodução e compartilhamento “ganham dimensão os dilemas envolvidos com a questão da autoria, dos direitos autorais, da reprodução e intervenção não autorizadas” — isto é, a proteção da obra e de sua autoria. Compartilhamento e distribuição (d, e) são justamente as possibilidades ampliadas, não o que está em risco; o sucesso dos artistas (a) não é discutido; e a segunda voz, Yacy-Ara Froner, relativiza os suportes (são “apenas suportes”), o que não é o mesmo que apontar risco à sua valorização (b)."
+    },
+    {
+      "id": "enem-interpretacao-texto-51",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Ora, sempre que surge uma nova técnica, ela quer demonstrar que revogará as regras e coerções que presidiram o nascimento de todas as outras invenções do passado. Ela se pretende orgulhosa e única. Como se a nova técnica carreasse com ela, automaticamente, para seus novos usuários, uma propensão natural a fazer economia de qualquer aprendizagem. Como se ela se preparasse para varrer tudo que a precedeu, ao mesmo tempo transformando em analfabetos todos os que ousassem repeli-la.\nFui testemunha dessa mudança ao longo de toda a minha vida. Ao passo que, na realidade, é o contrário que acontece. Cada nova técnica exige uma longa iniciação numa nova linguagem, ainda mais longa na medida em que nosso espírito é formatado pela utilização das linguagens que precederam o nascimento da recém-chegada.",
+      "fonte_texto": "ECO, U.; CARRIÈRE, J.-C. Não contem com o fim do livro. Rio de Janeiro: Record, 2010 (adaptado).",
+      "enunciado": "O texto revela que, quando a sociedade promove o desenvolvimento de uma nova técnica, o que mais impacta seus usuários é a",
+      "alternativas": {
+        "a": "dificuldade na apropriação da nova linguagem.",
+        "b": "valorização da utilização da nova tecnologia.",
+        "c": "recorrência das mudanças tecnológicas.",
+        "d": "suplantação imediata dos conhecimentos prévios.",
+        "e": "rapidez no aprendizado do manuseio das novas invenções."
+      },
+      "resposta": "a",
+      "explicacao": "A ideia central do texto opõe a promessa da técnica nova (dispensar qualquer aprendizagem, varrer o que veio antes) à realidade: “cada nova técnica exige uma longa iniciação numa nova linguagem”, tanto mais longa quanto mais o espírito já foi formatado pelas linguagens anteriores. O impacto real sobre o usuário é essa dificuldade de apropriação. As alternativas (d) e (e) repetem a promessa que o autor desmente (“é o contrário que acontece”); (b) fala de valorização, que não é o assunto; e (c), a recorrência das mudanças, é o pano de fundo (“fui testemunha dessa mudança ao longo de toda a minha vida”), não o que mais impacta."
+    },
+    {
+      "id": "enem-interpretacao-texto-52",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Papos\n— Me disseram...\n— Disseram-me.\n— Hein?\n— O correto é “disseram-me”. Não “me disseram”.\n— Eu falo como quero. E te digo mais... Ou é “digo-te”?\n— O quê?\n— Digo-te que você...\n— O “te” e o “você” não combinam.\n— Lhe digo?\n— Também não. O que você ia me dizer?\n— Que você está sendo grosseiro, pedante e chato. [...]\n— Dispenso as suas correções. Vê se esquece-me. Falo como bem entender. Mais uma correção e eu...\n— O quê?\n— O mato.\n— Que mato?\n— Mato-o. Mato-lhe. Mato você. Matar-lhe-ei-te. Ouviu bem? Pois esqueça-o e para-te. Pronome no lugar certo é elitismo!\n— Se você prefere falar errado...\n— Falo como todo mundo fala. O importante é me entenderem. Ou entenderem-me?",
+      "fonte_texto": "VERISSIMO, L. F. Comédias para se ler na escola. Rio de Janeiro: Objetiva, 2001 (adaptado).",
+      "enunciado": "Nesse texto, o uso da norma-padrão defendido por um dos personagens torna-se inadequado em razão do(a)",
+      "alternativas": {
+        "a": "falta de compreensão causada pelo choque entre gerações.",
+        "b": "contexto de comunicação em que a conversa se dá.",
+        "c": "grau de polidez distinto entre os interlocutores.",
+        "d": "diferença de escolaridade entre os falantes.",
+        "e": "nível social dos participantes da situação."
+      },
+      "resposta": "b",
+      "explicacao": "O título já situa: “Papos”, uma conversa informal entre conhecidos. Nesse contexto, exigir a colocação pronominal da norma-padrão (“disseram-me”, “digo-te”) é inadequado — não porque a norma seja errada, mas porque o registro pedido pela situação é o coloquial (“falo como todo mundo fala. O importante é me entenderem”). O texto não dá pistas de idade (a), escolaridade (d) nem classe (e) dos falantes; e o corretor é chamado de grosseiro justamente por causa das correções, então a polidez (c) é consequência do problema, não sua razão."
+    },
+    {
+      "id": "enem-interpretacao-texto-53",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "São vários os fatores, internos e externos, que influenciam os hábitos das pessoas no acesso à internet, assim como nas práticas culturais realizadas na rede. A utilização das tecnologias de informação e comunicação está diretamente relacionada aos aspectos como: conhecimento de seu uso, acesso à linguagem letrada, nível de instrução, escolaridade, letramento digital etc. Os que detêm tais recursos (os mais escolarizados) são os que mais acessam a rede e também os que possuem maior índice de acumulatividade das práticas. A análise dos dados nos possibilita dizer que a falta de acesso à rede repete as mesmas adversidades e exclusões já verificadas na sociedade brasileira no que se refere a analfabetos, menos escolarizados, negros, população indígena e desempregados. Isso significa dizer que a internet, se não produz diretamente a exclusão, certamente a reproduz, tendo em vista que os que mais a acessam são justamente os mais jovens, escolarizados, remunerados, trabalhadores qualificados, homens e brancos.",
+      "fonte_texto": "SILVA, F. A. B.; ZIVIANE, P.; GHEZZI, D. R. As tecnologias digitais e seus usos. Brasília; Rio de Janeiro: Ipea, 2019 (adaptado).",
+      "enunciado": "Ao analisarem a correlação entre os hábitos e o perfil socioeconômico dos usuários da internet no Brasil, os pesquisadores",
+      "alternativas": {
+        "a": "apontam o desenvolvimento econômico como solução para ampliar o uso da rede.",
+        "b": "questionam a crença de que o acesso à informação é igualitário e democrático.",
+        "c": "afirmam que o uso comercial da rede é a causa da exclusão de minorias.",
+        "d": "refutam o vínculo entre níveis de escolaridade e dificuldade de acesso.",
+        "e": "condicionam a expansão da rede à elaboração de políticas inclusivas."
+      },
+      "resposta": "b",
+      "explicacao": "A conclusão dos pesquisadores é que a internet “se não produz diretamente a exclusão, certamente a reproduz”: quem mais acessa é quem já tem escolaridade, renda e emprego qualificado — jovens, homens, brancos. Isso desmonta a ideia de que a rede é um espaço de acesso igual e democrático à informação. A alternativa (d) inverte o texto, que afirma o vínculo entre escolaridade e acesso; (c) introduz um “uso comercial” de que o texto não fala; e (a) e (e) propõem soluções (desenvolvimento econômico, políticas inclusivas) que o trecho não formula — ele diagnostica, não prescreve."
+    },
+    {
+      "id": "enem-interpretacao-texto-54",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "TEXTO I\nA língua não é uma nomenclatura, que se apõe a uma realidade pré-categorizada, ela é que classifica a realidade. No léxico, percebe-se, de maneira mais imediata, o fato de que a língua condensa as experiências de um dado povo.\nFIORIN, J. L. Língua, modernidade e tradição. Diversitas, n. 2, mar.-set. 2014.\n\nTEXTO II\nAs expressões coloquiais ainda estão impregnadas de discriminação contra os negros. Basta recordar algumas delas, como passar um “dia negro”, ter um “lado negro”, ser a “ovelha negra” da família ou praticar “magia negra”.",
+      "fonte_texto": "Disponível em: https://brasil.elpais.com. Acesso em: 22 maio 2018.",
+      "enunciado": "O Texto II exemplifica o que se afirma no Texto I, na medida em que defende a ideia de que as escolhas lexicais são resultantes de um",
+      "alternativas": {
+        "a": "expediente próprio do sistema linguístico que nos apresenta diferentes possibilidades para traduzir estados de coisas.",
+        "b": "ato inventivo de nomear novas realidades que surgem diante de uma comunidade de falantes de uma língua.",
+        "c": "mecanismo de apropriação de formas linguísticas que estão no acervo da formação do idioma nacional.",
+        "d": "processo de incorporação de preconceitos que são recorrentes na história de uma sociedade.",
+        "e": "recurso de expressão marcado pela objetividade que se requer na comunicação diária."
+      },
+      "resposta": "d",
+      "explicacao": "Fiorin diz que o léxico “condensa as experiências de um dado povo”; o Texto II mostra isso com expressões em que “negro” significa ruim (“dia negro”, “ovelha negra”, “magia negra”) — o vocabulário incorporou e ainda carrega a discriminação racial recorrente na história brasileira. É a exemplificação da tese: a experiência (aqui, o preconceito) moldando a escolha lexical. As alternativas (a) e (e) tratam a língua como sistema neutro ou objetivo, o contrário do que os dois textos afirmam; (b) fala em nomear realidades novas, quando as expressões são antigas; e (c) reduz o fenômeno a um empréstimo de formas do acervo do idioma, sem o conteúdo social que é o ponto."
+    },
+    {
+      "id": "enem-interpretacao-texto-55",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "[Post publicado na página do Senado Federal: imagem de um outdoor iluminado por refletores, com o texto:]\nQUANTO CUSTOU?\nProposta obriga órgão público a divulgar gasto com anúncio na própria peça publicitária.\nQual sua opinião?",
+      "fonte_texto": "Disponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
+      "enunciado": "Considerando-se a função social dos posts, essa imagem evidencia a apropriação de outro gênero com o objetivo de",
+      "alternativas": {
+        "a": "promover o uso adequado de campanhas publicitárias do governo.",
+        "b": "divulgar o projeto sobre transparência da administração pública.",
+        "c": "responsabilizar o cidadão pelo controle dos gastos públicos.",
+        "d": "delegar a gestão de projetos de lei ao contribuinte.",
+        "e": "assegurar a fiscalização dos gastos públicos."
+      },
+      "resposta": "b",
+      "explicacao": "O post do Senado toma emprestada a forma de outro gênero textual, o outdoor — o suporte típico do anúncio pago — para falar de uma proposta que obriga o órgão público a informar quanto custou cada anúncio: a peça imita o gênero de que trata. A função do post, como os da página, é dar publicidade ao projeto e convidar à opinião (“Qual sua opinião?”), isto é, divulgar a proposta de transparência. Um post não “assegura” fiscalização (e) nem “promove” o uso adequado de campanhas (a); e perguntar a opinião do cidadão não é transferir a ele o controle dos gastos (c) nem a gestão dos projetos de lei (d)."
+    },
+    {
+      "id": "enem-interpretacao-texto-56",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Ela era linda. Gostava de dançar, fazia teatro em São Paulo e sonhava ser atriz em Hollywood. Tinha 13 anos quando ganhou uma câmera de vídeo — e uma irmã. As duas se tornaram suas companheiras de experimentações. Adolescente, Elena vivia a criar filminhos e se empenhava em dirigir a pequena Petra nas cenas que inventava. Era exigente com a irmã. E acreditava no potencial da menina para satisfazer seus arroubos de diretora precoce. Por cinco anos, integrou algumas das melhores companhias paulistanas de teatro e participou de preleções para filmes e trabalhos na TV. Nunca foi chamada. No início de 1990, Elena tinha 20 anos quando se mudou para Nova York para cursar artes cênicas e batalhar uma chance no mercado americano. Deslocada, ansiosa, frustrada após alguns testes de elenco malsucedidos, decepcionada com a ausência de reconhecimento e vitimada por uma depressão que se agravava com a falta de perspectivas, Elena pôs fim à vida no segundo semestre. Petra tinha 7 anos. Vinte anos depois, é ela, a irmã caçula, que volta a Nova York para percorrer os últimos passos da irmã, vasculhar seus arquivos e transformar suas memórias em imagem e poesia.\nElena é um filme sobre a irmã que parte e sobre a irmã que fica. É um filme sobre a busca, a perda, a saudade, mas também sobre o encontro, o legado, a memória. Um filme sobre a Elena de Petra e sobre a Petra de Elena, sobre o que ficou de uma na outra e, essencialmente, um filme sobre a delicadeza.",
+      "fonte_texto": "VANUCHI, C. Época, 19 out. 2012 (adaptado).",
+      "enunciado": "O texto é exemplar de um gênero discursivo que cumpre a função social de",
+      "alternativas": {
+        "a": "narrar, por meio de imagem e poesia, cenas da vida das irmãs Petra e Elena.",
+        "b": "descrever, por meio das memórias de Petra, a separação de duas irmãs.",
+        "c": "sintetizar, por meio das principais cenas do filme, a história de Elena.",
+        "d": "lançar, por meio da história de vida do autor, um filme autobiográfico.",
+        "e": "avaliar, por meio de análise crítica, o filme em referência."
+      },
+      "resposta": "e",
+      "explicacao": "Publicado numa revista e assinado por uma jornalista, o texto resume o enredo e depois emite juízo sobre o filme — “um filme sobre a busca, a perda, a saudade… essencialmente, um filme sobre a delicadeza”. É uma resenha, cuja função é avaliar criticamente a obra para o leitor. Quem narra “por meio de imagem e poesia” é o filme, não o texto (a); a autora não é a diretora, então não é lançamento autobiográfico (d); e (b) e (c) confundem o resumo do enredo, que é parte da resenha, com o gênero inteiro."
+    },
+    {
+      "id": "enem-interpretacao-texto-57",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Pisoteamento, arrastão, empurra-empurra, agressões, vandalismo e até furto a um torcedor que estava caído no asfalto após ser atropelado nas imediações do estádio do Maracanã. As cenas de selvageria tiveram como estopim a invasão de milhares de torcedores sem ingresso, que furaram o bloqueio policial e transformaram o estádio em terra de ninguém. Um reflexo não só do quadro de insegurança que assola o Rio de Janeiro, mas também de como a violência social se embrenha pelo esporte mais popular do país. Em 2017, foram registrados 104 episódios de violência no futebol brasileiro, que resultaram em 11 mortes de torcedores. Desde 1995, quando 101 torcedores ficaram feridos e um morreu durante uma batalha campal no estádio do Pacaembu, autoridades têm focado as ações de enfrentamento à violência no futebol em grupos uniformizados, alguns proibidos de frequentar estádios. Porém, a postura meramente repressiva contra torcidas organizadas é ineficaz em uma sociedade que registra mais de 61 000 homicídios por ano. “É impossível dissociar a escalada de violência no futebol do panorama de desordem pública, social, econômica e política vivida pelo país”, de acordo com um doutor em sociologia do esporte.",
+      "fonte_texto": "Disponível em: https://brasil.elpais.com. Acesso em: 22 jun. 2019 (adaptado).",
+      "enunciado": "Nesse texto, a violência no futebol está caracterizada como um(a)",
+      "alternativas": {
+        "a": "problema social localizado numa região do país.",
+        "b": "desafio para as torcidas organizadas dos clubes.",
+        "c": "reflexo da precariedade da organização social no país.",
+        "d": "inadequação de espaço nos estádios para receber o público.",
+        "e": "consequência da insatisfação dos clubes com a organização dos jogos."
+      },
+      "resposta": "c",
+      "explicacao": "A tese está no arremate: “é impossível dissociar a escalada de violência no futebol do panorama de desordem pública, social, econômica e política vivida pelo país”, reforçada pela cifra dos 61 mil homicídios anuais. A violência nos estádios é apresentada como reflexo da precariedade social brasileira. Não é problema regional (a) — o Rio é o exemplo, e o texto fala do “futebol brasileiro” e do país inteiro; as torcidas organizadas aparecem como alvo insuficiente da repressão, não como quem enfrenta o desafio (b); e nem estrutura dos estádios (d) nem insatisfação de clubes (e) são mencionadas."
+    },
+    {
+      "id": "enem-interpretacao-texto-58",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Seis em cada dez pessoas com 15 anos ou mais não praticam esporte ou atividade física. São mais de 100 milhões de sedentários. Esses são dados do estudo Práticas de esporte e atividade física, da Pnad 2015, realizado pelo IBGE. A falta de tempo e de interesse são os principais motivos apontados para o sedentarismo. Paralelamente, 73,3% das pessoas de 15 anos ou mais afirmaram que o poder público deveria investir em esporte ou atividades físicas. Observou-se uma relação direta entre escolaridade e renda na realização de esportes ou atividades físicas. Enquanto 17,3% das pessoas que não tinham instrução realizavam diversas práticas corporais, esse percentual chegava a 56,7% das pessoas com superior completo. Entre as pessoas que têm práticas de esporte e atividade física regulares, o percentual de praticantes ia de 31,1%, na classe sem rendimento, a 65,2%, na classe de cinco salários mínimos ou mais. A falta de tempo foi mais declarada pela população adulta, com destaque entre as pessoas de 25 a 39 anos. Entre os adolescentes de 15 a 17 anos, o principal motivo foi não gostarem ou não quererem. Já o principal motivo para praticar esporte, declarado por 11,2 milhões de pessoas, foi relaxar ou se divertir, seguido de melhorar a qualidade de vida ou o bem-estar. A falta de instalação esportiva acessível ou nas proximidades foi um motivo pouco citado, demonstrando que a não prática estaria menos associada à infraestrutura disponível.",
+      "fonte_texto": "Disponível em: www.esporte.gov.br. Acesso em: 9 ago. 2017 (adaptado).",
+      "enunciado": "Com base na pesquisa e em uma visão ampliada de saúde, para a prática regular de exercícios ter influência significativa na saúde dos brasileiros, é necessário o desenvolvimento de estratégias que",
+      "alternativas": {
+        "a": "promovam a melhoria da aptidão física da população, dedicando-se mais tempo aos esportes.",
+        "b": "combatam o sedentarismo presente em parcela significativa da população no território nacional.",
+        "c": "facilitem a adoção da prática de exercícios, com ações relacionadas à educação e à distribuição de renda.",
+        "d": "auxiliem na construção de mais instalações esportivas e espaços adequados para a prática de atividades físicas e esportes.",
+        "e": "estimulem o incentivo fiscal para a iniciativa privada destinar verbas aos programas nacionais de promoção da saúde pelo esporte."
+      },
+      "resposta": "c",
+      "explicacao": "O argumento central da pesquisa é a “relação direta entre escolaridade e renda” e a prática de exercícios: 17,3% entre quem não tem instrução contra 56,7% entre quem tem superior; 31,1% na classe sem rendimento contra 65,2% acima de cinco salários. Numa visão ampliada de saúde — que olha os determinantes sociais —, a estratégia eficaz age sobre educação e renda. Construir instalações (d) contraria o texto, que diz que a falta de infraestrutura foi pouco citada; (a) e (b) apenas repetem o objetivo (mais atividade, menos sedentarismo) sem dizer como; e o incentivo fiscal (e) não tem apoio em nenhum dado apresentado."
+    },
+    {
+      "id": "enem-interpretacao-texto-59",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "TEXTO I\nProjeto Mural Eletrônico desenvolvido no INT, semelhante a um totem, promete tornar o acesso à informação disponível para todos\nA inclusão de pessoas com deficiência se constituiu um dos principais desafios e preocupações para a sociedade ao longo das últimas décadas. E o uso da tecnologia tem se revelado um aliado fundamental em muitas iniciativas voltadas para essa área. Exemplo disso é uma das recentes criações do Instituto Nacional de Tecnologia (INT) — unidade de pesquisa do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). Ali, com o objetivo de que as diferenças entre pessoas não sejam sinônimo de obstáculos no acesso à informação ou na comunicação, engenheiros e tecnólogos vêm trabalhando no desenvolvimento do projeto Mural Eletrônico.\nO Mural Eletrônico nasceu da necessidade de promover a inclusão nas escolas. Com interface multimídia e interativa, todos têm a possibilidade de acessar o Mural Eletrônico. Por meio do equipamento, podem ser disponibilizados vídeos com Libras, leitura sonora de textos, que também estarão acessíveis em uma plataforma de braille dinâmico, ao lado do teclado.\nKIFFER, D. Inclusão ampla e irrestrita. Rio Pesquisa, n. 36, set. 2016 (adaptado).\n\nTEXTO II\nProjeto Surdonews, desenvolvido na UFRJ, garante acesso de surdos à informação e contribui para sua “inclusão científica”\nPara não permitir que a falta de informação seja um fator para o isolamento e a inacessibilidade da comunidade surda, a jornalista e pesquisadora Roberta Savedra Schiaffino criou o projeto “Surdonews: montando os quebra-cabeças das notícias para o surdo”. Trata-se de uma página no Facebook, com notícias constantemente atualizadas e apresentadas por surdos em Libras, e veiculadas por meio de vídeos.\nA ideia de criar o projeto surgiu quando Roberta, ela própria surda profunda, ainda cursava o mestrado. Para isso, ela procurou traçar um diagnóstico do conhecimento informal entre as pessoas com surdez. Ela entrevistou cinquenta alunos surdos do ensino fundamental e viu que eles tinham muita dificuldade de ler, além de não captar a notícia falada. “Isso é muito grave, pois 90% do saber de um indivíduo vem do conhecimento informal, adquirido em feiras científicas, conversas, cinema, teatro, incluindo a mídia, por todas as suas possibilidades disseminadoras”, explica a pesquisadora. “Prezamos pelo conteúdo científico em nossas pautas. Contudo, independentemente disso, nosso principal trabalho é, além de informar e atualizar, fazer com que os textos não sejam empobrecidos no processo de ‘tradução’ e, sim, acessíveis”.",
+      "fonte_texto": "KIFFER, D. Comunicação sem barreiras. Rio Pesquisa, n. 37, dez. 2016 (adaptado).",
+      "enunciado": "Considerando-se o tema tecnologias e acessibilidade, os textos I e II aproximam-se porque apresentam projetos que",
+      "alternativas": {
+        "a": "garantem a igualdade entre as pessoas.",
+        "b": "foram criados por uma pesquisadora surda.",
+        "c": "tiveram origem em um curso de pós-graduação.",
+        "d": "estão circunscritos ao espaço institucional da escola.",
+        "e": "têm como objetivo a disseminação do conhecimento."
+      },
+      "resposta": "e",
+      "explicacao": "O Mural Eletrônico quer “tornar o acesso à informação disponível para todos”; o Surdonews nasce “para não permitir que a falta de informação” isole a comunidade surda e preza pelo conteúdo científico. A ideia central comum — o tema central que os aproxima — é o objetivo de disseminar conhecimento de forma acessível. As demais alternativas valem, quando muito, para um só dos textos: só o Surdonews foi criado por uma pesquisadora surda durante o mestrado (b, c); só o Mural nasceu da inclusão nas escolas, e mesmo assim não fica “circunscrito” a elas (d); e “garantir a igualdade” (a) é uma promessa que nenhum dos dois faz — falam de acesso à informação, não de igualdade plena."
+    },
+    {
+      "id": "enem-interpretacao-texto-60",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "O complexo de falar difícil\nO que importa realmente é que o(a) detentor(a) do notável saber jurídico saiba quando e como deve fazer uso desse português versão 2.0, até porque não tem necessidade de alguém entrar numa padaria de manhã com aquela cara de sono falando o seguinte: “Por obséquio, Vossa Senhoria teria a hipotética possibilidade de estabelecer com minha pessoa uma relação de compra e venda, mediante as imposições dos códigos Civil e do Consumidor, para que seja possível a obtenção de 10 pãezinhos em temperatura estável para que a relação pecuniária no valor de R$ 5,00 seja plenamente legítima e capaz de saciar minha fome matinal?”.\nO problema é que temos uma cultura de valorizar quem demonstra ser inteligente ao invés de valorizar quem é. Pela nossa lógica, todo mundo que fala difícil tende a ser mais inteligente do que quem valoriza o simples, e 99,9% das pessoas que estivessem na padaria iriam ficar boquiabertas se alguém fizesse uso das palavras que eu disse acima em plenas 7 da manhã em vez de dizer: “Bom dia! O senhor poderia me vender cinco reais de pão francês?”.\nAgora entramos na parte interessante: o que realmente é falar difícil? Simplesmente fazer uso de palavras que a maioria não faz ideia do que seja é um ato de falar difícil? Eu penso que não, mas é assim que muita gente age. Falar difícil é fazer uso do simples, mas com coerência e coesão, deixar tudo amarradinho gramaticalmente falando. Falar difícil pode fazer alguém parecer inteligente, mas não por muito tempo. É claro que em alguns momentos não temos como fugir do português rebuscado, do juridiquês propriamente dito, como no caso de documentos jurídicos, entre outros.",
+      "fonte_texto": "ARAÚJO, H. Disponível em: www.diariojurista.com. Acesso em: 20 nov. 2021 (adaptado).",
+      "enunciado": "Nesse artigo de opinião, ao fazer uso de uma fala rebuscada no exemplo da compra do pão, o autor evidencia a importância de(a)",
+      "alternativas": {
+        "a": "se ter um notável saber jurídico.",
+        "b": "valorização da inteligência do falante.",
+        "c": "falar difícil para demonstrar inteligência.",
+        "d": "coesão e da coerência em documentos jurídicos.",
+        "e": "adequação da linguagem à situação de comunicação."
+      },
+      "resposta": "e",
+      "explicacao": "O exemplo da padaria é construído para soar absurdo: o juridiquês das 7 da manhã, diante do balcão, contra o simples “Bom dia! O senhor poderia me vender cinco reais de pão francês?”. O ponto de vista do autor, defendido desde a primeira frase, é que o argumento decisivo é saber “quando e como” usar cada registro — o rebuscado cabe em documentos jurídicos, não na padaria. É a adequação da linguagem à situação. Falar difícil para parecer inteligente é o comportamento criticado (c); a coesão e a coerência são valorizadas em qualquer fala simples, não só nos documentos (d); e o saber jurídico (a) e a valorização da inteligência (b) são temas de passagem, não o que o exemplo evidencia."
+    },
+    {
+      "id": "enem-interpretacao-texto-61",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "A conquista da medalha de prata por Rayssa Leal, no skate street nos Jogos Olímpicos, é exemplo da representatividade feminina no esporte, avalia a âncora do jornal da rede de televisão da CNN. A apresentadora, que também anda de skate, celebrou a vitória da brasileira, que entrou para a história como a atleta mais nova a subir num pódio defendendo o Brasil. “Essa representatividade do esporte nos Jogos faz pensarmos que não temos que ficar nos encaixando em nenhum lugar. Posso gostar de passar notícia e, mesmo assim, gostar de skate, subir montanha, mergulhar, andar de bike, fazer yoga. Temos que parar de ficar enquadrando as pessoas dentro de regras. A gente vive num padrão no qual a menina ganha boneca, mas por que também não fazer um esporte de aventura? Por que o homem pode se machucar, cair de joelhos, e a menina tem que estar sempre lindinha dentro de um padrão? Acabamos limitando os talentos das pessoas”, afirmou a jornalista, sobre a prática do skate por mulheres.",
+      "fonte_texto": "Disponível em: www.cnnbrasil.com.br. Acesso em: 31 out. 2021 (adaptado).",
+      "enunciado": "O discurso da jornalista traz questionamentos sobre a relação da conquista da skatista com a",
+      "alternativas": {
+        "a": "conciliação do jornalismo com a prática do skate.",
+        "b": "inserção das mulheres na modalidade skate street.",
+        "c": "desconstrução da noção do skate como modalidade masculina.",
+        "d": "vanguarda de ser a atleta mais jovem a subir no pódio olímpico.",
+        "e": "conquista de medalha nos Jogos Olímpicos de Tóquio."
+      },
+      "resposta": "c",
+      "explicacao": "As perguntas da jornalista são todas sobre o padrão de gênero: “a menina ganha boneca, mas por que também não fazer um esporte de aventura?”, “por que o homem pode se machucar… e a menina tem que estar sempre lindinha?”. Depreende-se que a medalha de Rayssa serve para questionar a ideia implícita de que esporte radical — o skate — é coisa de homem. A conciliação com o jornalismo (a) é um exemplo pessoal, não o questionamento; a idade recorde (d) e a medalha (e) são o fato relatado, não o que se problematiza; e “inserção das mulheres na modalidade” (b) descreve o resultado, sem a crítica ao estereótipo que é o núcleo da fala."
+    },
+    {
+      "id": "enem-interpretacao-texto-62",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Assentamento\nZanza daqui\nZanza pra acolá\nFim de feira, periferia afora\nA cidade não mora mais em mim\nFrancisco, Serafim\nVamos embora\n\nVer o capim\nVer o baobá\nVamos ver a campina quando flora\nA piracema, rios contravim\nBinho, Bel, Bia, Quim\nVamos embora\n\nQuando eu morrer\nCansado de guerra\nMorro de bem\nCom a minha terra:\nCana, caqui\nInhame, abóbora\nOnde só vento se semeava outrora\nAmplidão, nação, sertão sem fim\nÓ Manuel, Miguilim\nVamos embora",
+      "fonte_texto": "BUARQUE, C. As cidades. Rio de Janeiro: RCA, 1998 (fragmento).",
+      "enunciado": "Nesse texto, predomina a função poética da linguagem. Entretanto, a função emotiva pode ser identificada no verso:",
+      "alternativas": {
+        "a": "“Zanza pra acolá”.",
+        "b": "“Fim de feira, periferia afora”.",
+        "c": "“A cidade não mora mais em mim”.",
+        "d": "“Onde só vento se semeava outrora”.",
+        "e": "“Ó Manuel, Miguilim”."
+      },
+      "resposta": "c",
+      "explicacao": "A função emotiva centra a linguagem em quem fala, que expressa o próprio estado interior em primeira pessoa — o recurso expressivo aqui é a marca de subjetividade. É o que ocorre em “A cidade não mora mais em mim”: o “mim” e o sentimento de desenraizamento são do sujeito que fala. Os versos (a), (b) e (d) descrevem ações e paisagens (função referencial ou poética); e “Ó Manuel, Miguilim” (e) é um vocativo, chamado dirigido a alguém — função apelativa/conativa, não emotiva."
+    },
+    {
+      "id": "enem-interpretacao-texto-63",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "As línguas silenciadas do Brasil\nPara aprender a língua de seu povo, o professor Txaywa Pataxó, de 29 anos, precisou estudar os fatores que, por diversas vezes, quase provocaram a extinção da língua patxôhã. Mergulhou na história do Brasil e descobriu fatos violentos que dispersaram os pataxós, forçados a abandonar a própria língua para escapar da perseguição. “Os pataxós se espalharam, principalmente, depois do Fogo de 1951. Queimaram tudo e expulsaram a gente das nossas terras. Isso constrange o nosso povo até hoje”, conta Txaywa, estudante da Universidade Federal de Minas Gerais e professor na aldeia Barra Velha, região de Porto Seguro (BA). Mais de quatro décadas depois, membros da etnia retornaram ao antigo local e iniciaram um movimento de recuperação da língua patxôhã. Os filhos de Sameary Pataxó já são fluentes — e ela, que se mudou quando já era adulta para a aldeia, tenta aprender um pouco com eles. “É a nossa identidade. Você diz quem você é por meio da sua língua”, afirma a professora de ensino fundamental sobre a importância de restaurar a língua dos pataxós. O patxôhã está entre as línguas indígenas faladas no Brasil: o IBGE estimou 274 línguas no último censo. A publicação Povos indígenas no Brasil 2011/2016, do Instituto Socioambiental, calcula 160. Antes da chegada dos portugueses, elas totalizavam mais de mil.",
+      "fonte_texto": "Disponível em: https://brasil.elpais.com. Acesso em: 11 jun. 2019 (adaptado).",
+      "enunciado": "O movimento de recuperação da língua patxôhã assume um caráter identitário peculiar na medida em que",
+      "alternativas": {
+        "a": "denuncia o processo de perseguição histórica sofrida pelos povos indígenas.",
+        "b": "conjuga o ato de resistência étnica à preservação da memória cultural.",
+        "c": "associa a preservação linguística ao campo da pesquisa acadêmica.",
+        "d": "estimula o retorno de povos indígenas a suas terras de origem.",
+        "e": "aumenta o número de línguas indígenas faladas no Brasil."
+      },
+      "resposta": "b",
+      "explicacao": "Infere-se do relato que recuperar o patxôhã, depois de o povo ter sido forçado a abandoná-lo para escapar da perseguição, é ao mesmo tempo um ato de resistência étnica (contra o silenciamento) e de preservação da memória — “é a nossa identidade. Você diz quem você é por meio da sua língua”. A denúncia da perseguição (a) é o pano de fundo histórico, não o caráter do movimento; a pesquisa acadêmica (c) é o caminho de um professor, não a marca do movimento; o retorno às terras (d) veio antes e possibilitou a recuperação, não é seu efeito; e o texto não afirma que a língua aumentou o total de línguas faladas (e) — as contagens citadas são estimativas independentes."
+    },
+    {
+      "id": "enem-interpretacao-texto-64",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "MANUAL DE ORIENTAÇÃO\nO primeiro guia prático da Sociedade Brasileira de Pediatria para ajudar pais e pediatras no desafio de educar nativos digitais\nTRABALHO DE BASE\nAté 2 anos: A criança não deve ser exposta passivamente às telas — TV, tablet, celular etc. —, principalmente durante as refeições e até 2 horas antes de dormir.\nDe 2 a 5 anos: O tempo de exposição às telas deve ser limitado a 1 hora por dia. Crianças dessa faixa etária devem ser mais protegidas da violência virtual, pois não sabem separar fantasia de realidade.\nAté 10 anos: Devem ter acesso controlado a computadores e dispositivos móveis. Crianças de até 10 anos não devem usar TV ou computador no próprio quarto.",
+      "fonte_texto": "Disponível em: https://tab.uol.com.br. Acesso em: 25 ago. 2017 (adaptado).",
+      "enunciado": "O texto sobre os chamados nativos digitais traz informações com a função de",
+      "alternativas": {
+        "a": "propor ações específicas para cada etapa da infância.",
+        "b": "estabelecer regras que devem ser seguidas à risca.",
+        "c": "explicar os efeitos do acesso precoce à internet.",
+        "d": "determinar a incorporação de rituais à educação dos filhos.",
+        "e": "educar com base em um conjunto de estratégias formativas."
+      },
+      "resposta": "a",
+      "explicacao": "O texto é um guia — gênero textual injuntivo, que orienta ações — organizado por faixa etária — até 2 anos, de 2 a 5, até 10 — e para cada uma indica o que fazer com as telas: nada de exposição passiva, limite de 1 hora, acesso controlado e sem aparelho no quarto. Sua função é orientar com ações específicas por etapa da infância. É um “guia prático” de orientação, não um código de regras rígidas (b) nem uma determinação de rituais (d); não explica efeitos (c) — apenas menciona de passagem que crianças pequenas não separam fantasia de realidade; e (e) é vago demais para descrever um texto que se organiza justamente pela idade."
+    },
+    {
+      "id": "enem-interpretacao-texto-65",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Criado há cerca de 20 anos na Califórnia, o mountainboard é um esporte de aventura que utiliza uma espécie de skate off-road para realizar manobras similares às das modalidades de snowboard, surf e do próprio skate. A atividade chegou ao Brasil em 1997 e hoje possui centenas de praticantes, um circuito nacional respeitável e mais de uma dezena de pistas espalhadas pelo país. Segundo consta na história oficial, o mountainboard foi criado por praticantes de snowboard que sentiam falta de praticar o esporte nos períodos sem neve. Para isso, eles desenvolveram um equipamento bem simples: uma prancha semelhante ao modelo utilizado na neve (menor e um pouco menos flexível), com dois eixos bem resistentes, alças para encaixar os pés e quatro pneus com câmaras de ar para regular a velocidade que pode ser alcançada em diferentes condições. Com essa configuração, o esporte se mostrou possível em diversos tipos de terreno: grama, terra, pedras, asfalto e areia. Além desses pisos, também é possível procurar pelas próprias trilhas para treinar as manobras.",
+      "fonte_texto": "Disponível em: www.webventure.com.br. Acesso em: 19 jun. 2019.",
+      "enunciado": "A história da prática do mountainboard representa uma das principais marcas das atividades de aventura, caracterizada pela",
+      "alternativas": {
+        "a": "competitividade entre seus praticantes.",
+        "b": "atividade com padrões técnicos definidos.",
+        "c": "modalidade com regras predeterminadas.",
+        "d": "criatividade para adaptações a novos espaços.",
+        "e": "necessidade de espaços definidos para a sua realização."
+      },
+      "resposta": "d",
+      "explicacao": "O mountainboard nasce de uma adaptação: praticantes de snowboard sem neve inventam uma prancha com pneus e levam o esporte para grama, terra, pedra, asfalto, areia e trilhas. Infere-se daí que a criatividade para ocupar novos espaços é a marca das atividades de aventura que a história ilustra. As alternativas (b), (c) e (e) — padrões técnicos, regras predeterminadas, espaço definido — descrevem o esporte institucionalizado, o oposto do que o texto mostra (qualquer terreno serve, e o equipamento é “bem simples”); e a competitividade (a) aparece só como consequência (há um circuito), não como característica de origem."
+    },
+    {
+      "id": "enem-interpretacao-texto-66",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Ser cronista\nSei que não sou, mas tenho meditado ligeiramente no assunto.\nCrônica é um relato? É uma conversa? É um resumo de um estado de espírito? Não sei, pois antes de começar a escrever para o Jornal do Brasil, eu só tinha escrito romances e contos.\nE também sem perceber, à medida que escrevia para aqui, ia me tornando pessoal demais, correndo o risco de em breve publicar minha vida passada e presente, o que não pretendo. Outra coisa notei: basta eu saber que estou escrevendo para o jornal, isto é, para algo aberto facilmente por todo o mundo, e não para um livro, que só é aberto por quem realmente quer, para que, sem mesmo sentir, o modo de escrever se transforme. Não é que me desagrade mudar, pelo contrário. Mas queria que fossem mudanças mais profundas e interiores que não viessem a se refletir no escrever. Mas mudar só porque isso é uma coluna ou uma crônica? Ser mais leve só porque o leitor assim o quer? Divertir? Fazer passar uns minutos de leitura? E outra coisa: nos meus livros quero profundamente a comunicação profunda comigo e com o leitor. Aqui no jornal apenas falo com o leitor e agrada-me que ele fique agradado. Vou dizer a verdade: não estou contente.",
+      "fonte_texto": "LISPECTOR, C. In: A descoberta do mundo. Rio de Janeiro: Rocco, 1999.",
+      "enunciado": "No texto, ao refletir sobre a atividade de cronista, a autora questiona características do gênero crônica, como",
+      "alternativas": {
+        "a": "relação distanciada entre os interlocutores.",
+        "b": "articulação de vários núcleos narrativos.",
+        "c": "brevidade no tratamento da temática.",
+        "d": "descrição minuciosa dos personagens.",
+        "e": "público leitor exclusivo."
+      },
+      "resposta": "c",
+      "explicacao": "As perguntas incomodadas de Clarice apontam para a leveza e a rapidez que o jornal pede: “Ser mais leve só porque o leitor assim o quer? Divertir? Fazer passar uns minutos de leitura?” — em contraste com a “comunicação profunda” que ela busca nos livros. O que ela questiona é a brevidade e a superficialidade no trato do tema. A relação com o leitor da crônica é justamente mais próxima e pessoal (“ia me tornando pessoal demais”), não distanciada (a); o público do jornal é amplo, “aberto facilmente por todo o mundo”, e não exclusivo (e); e vários núcleos narrativos (b) e descrição minuciosa (d) são traços de romance, não da crônica que ela discute."
+    },
+    {
+      "id": "enem-interpretacao-texto-67",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "enem",
+      "texto_apoio": "Projeto na Câmara de BH quer a vacinação gratuita de cães contra a leishmaniose\nA doença é grave e vem causando preocupação na região metropolitana da capital mineira\nEla é uma doença grave, transmitida pela picada do mosquito-palha, e afeta tanto os seres humanos quanto os cachorros: a leishmaniose. Por ser um problema de saúde pública, a doença pode ganhar uma ação preventiva importante, caso um projeto de lei seja aprovado na Câmara Municipal de Belo Horizonte (CMBH). Diante do alto número de casos da doença na Grande BH, a Comissão de Saúde e Saneamento da CMBH aprovou a proposta de realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose, tema do PL 404/17, apreciado pelo colegiado em reunião ordinária, no dia 6 de dezembro.",
+      "fonte_texto": "Disponível em: https://revistaencontro.com.br. Acesso em: 11 dez. 2017.",
+      "enunciado": "Essa notícia, além de cumprir sua função informativa, assume o papel de",
+      "alternativas": {
+        "a": "fiscalizar as ações de saúde e saneamento da cidade.",
+        "b": "defender os serviços gratuitos de atendimento à população.",
+        "c": "conscientizar a população sobre grave problema de saúde pública.",
+        "d": "propor campanhas para a ampliação de acesso aos serviços públicos.",
+        "e": "responsabilizar os agentes públicos pela demora na tomada de decisões."
+      },
+      "resposta": "c",
+      "explicacao": "Antes de noticiar o projeto de lei, o texto explica o que é a leishmaniose, como se transmite (picada do mosquito-palha), que atinge humanos e cães e que é “um problema de saúde pública” com “alto número de casos” na Grande BH — informações que servem para alertar o leitor sobre a gravidade da doença. Esse é o papel adicional: conscientizar. A notícia não fiscaliza (a) nem cobra agentes públicos (e); quem propõe a campanha é a Comissão da Câmara, não o texto (d); e ela relata a proposta de vacinação gratuita sem assumir a defesa dos serviços gratuitos em geral (b)."
+    },
+    {
+      "id": "enem-interpretacao-texto-68",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "“Vida perfeita” em redes sociais pode afetar a saúde mental\nNas várias redes sociais que povoam a internet, os chamados digital influencers estão sempre felizes e pregam a felicidade como um estilo de vida. Essas pessoas espalham conteúdo para milhares de seguidores, ditando tendência e mostrando um estilo de vida sonhado por muitos, como o corpo esbelto, viagens incríveis, casas deslumbrantes, carros novos e alegria em tempo integral, algo bem improvável de ocorrer o tempo todo, aponta Carla Furtado, mestre em psicologia e fundadora do Instituto Feliciência.\nA problemática pode surgir com a busca incessante por essa felicidade, que gera efeitos colaterais em quem consome diariamente a “vida perfeita” de outros. Daí vem o conceito de positividade tóxica: a expressão tem sido usada para abordar uma espécie de pressão pela adoção de um discurso positivo, aliada a uma vida editada para as redes sociais. Para manter a saúde mental e evitar ser atingido pela positividade tóxica, o uso racional das redes sociais é o mais indicado, aconselha a médica psiquiatra Renata Nayara Figueiredo, presidente da Associação Psiquiátrica de Brasília (APBr).",
+      "fonte_texto": "Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 21 nov. 2021 (adaptado).",
+      "enunciado": "Associada ao ideário de uma “vida perfeita”, a positividade tóxica mencionada no texto é um fenômeno social recente, que se constitui com base em",
+      "alternativas": {
+        "a": "representações estereotipadas e superficiais de felicidade.",
+        "b": "ressignificações contemporâneas do conceito de alegria.",
+        "c": "estilos de vida inacessíveis para a sociedade brasileira.",
+        "d": "atitudes contraditórias de influenciadores digitais.",
+        "e": "padrões idealizados e nocivos de beleza física."
+      },
+      "resposta": "a",
+      "explicacao": "O texto define positividade tóxica como a pressão por um discurso sempre positivo “aliada a uma vida editada para as redes sociais” — corpo esbelto, viagens, casas, carros, “alegria em tempo integral, algo bem improvável de ocorrer o tempo todo”. A base do fenômeno é essa representação estereotipada e superficial da felicidade. Beleza física (e) é só um item da lista; os influenciadores não são acusados de contradição (d), mas de exibir uma vida editada; o texto não fala em inacessibilidade para a sociedade brasileira (c) nem em ressignificar o conceito de alegria (b) — fala de uma imagem falsa dele."
     }
   ]
 }

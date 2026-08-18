@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "literatura",
- "total": 466,
+ "total": 477,
  "residuo": [
   "dir-literatura-53",
   "dir-literatura-55",
@@ -2749,6 +2749,72 @@
    "frenteDestino": "literatura",
    "pontos": 9,
    "margem": 9
+  },
+  "enem-literatura-21": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 4,
+   "margem": 4
+  },
+  "enem-literatura-22": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "enem-literatura-23": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-literatura-24": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-literatura-25": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-literatura-26": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-literatura-27": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-literatura-28": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-literatura-29": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-literatura-30": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-literatura-31": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

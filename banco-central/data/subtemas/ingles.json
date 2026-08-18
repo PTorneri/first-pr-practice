@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "ingles",
- "total": 586,
+ "total": 591,
  "residuo": [
   "med-ingles-44",
   "med-ingles-46",
@@ -3378,6 +3378,34 @@
    "frenteDestino": "ingles",
    "pontos": 4,
    "margem": 4
+  },
+  "enem-ingles-08": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "enem-ingles-09": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "enem-ingles-10": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-ingles-11": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 3
+  },
+  "enem-ingles-12": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
   }
  }
 }

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "quimica",
- "total": 590,
+ "total": 601,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -3497,6 +3497,72 @@
    "frenteDestino": "quimica",
    "pontos": 5,
    "margem": 5
+  },
+  "enem-quimica-22": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-quimica-23": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-quimica-24": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 18,
+   "margem": 8
+  },
+  "enem-quimica-25": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-quimica-26": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "enem-quimica-27": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-quimica-28": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "enem-quimica-29": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "enem-quimica-30": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-quimica-31": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "enem-quimica-32": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 9
   }
  }
 }

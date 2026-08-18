@@ -7015,6 +7015,26 @@
    "explicacao": "A série “lute a luta como você acha que deve ... QUE vão dizer que você não sabe ... QUE vão dizer que você não tem força ...” encadeia orações nas quais o “que” introduz explicações — o porquê de lutar do próprio jeito é que os “supostos donos da luta” vão dizer isso e aquilo para tirar de você a dimensão pessoal da luta. É o valor explicativo, listando as justificativas alheias que tentam suprimir a luta individual em favor da deles. Não há comparação de igualdade, nem condição, nem causa que leve à desistência — o texto convoca a não desistir.",
    "resposta": "a",
    "origem": "medicina"
+  },
+  {
+   "id": "enem-gramatica-02",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Morte lenta ao luso infame que inventou a calçada portuguesa. Maldito D. Manuel I e sua corja de tenentes Eusébios. Quadrados de pedregulho irregular socados à mão. À mão! É claro que ia soltar, ninguém reparou que ia soltar? Branco, preto, branco, preto, as ondas do mar de Copacabana. De que me servem as ondas do mar de Copacabana? Me deem chão liso, sem protuberâncias calcárias. Mosaico estúpido. Mania de mosaico. Joga concreto em cima e aplaina. Buraco, cratera, pedra solta, bueiro-bomba. Depois dos setenta, a vida se transforma numa interminável corrida de obstáculos. A queda é a maior ameaça para o idoso. “Idoso”, palavra odienta. Pior, só “terceira idade”. A queda separa a velhice da senilidade extrema. O tombo destrói a cadeia que liga a cabeça aos pés. Adeus, corpo. Em casa, vou de corrimão em corrimão, tateio móveis e paredes, e tomo banho sentado. Da poltrona para a janela, da janela para a cama, da cama para a poltrona, da poltrona para a janela. Olha aí, outra vez, a pedrinha traiçoeira atrás de me pegar. Um dia eu caio, hoje não.",
+   "fonte_texto": "TORRES, F. Fim. São Paulo: Cia. das Letras, 2013.",
+   "enunciado": "O recurso que caracteriza a organização estrutural desse texto é o(a)",
+   "alternativas": {
+    "a": "justaposição de sequências verbais e nominais.",
+    "b": "mudança de eventos resultante do jogo temporal.",
+    "c": "uso de adjetivos qualificativos na descrição do cenário.",
+    "d": "encadeamento semântico pelo uso de substantivos sinônimos.",
+    "e": "inter-relação entre orações por elementos linguísticos lógicos."
+   },
+   "resposta": "a",
+   "explicacao": "O texto avança por blocos curtos colocados lado a lado, sem elementos de ligação: frases nominais (“Mosaico estúpido. Mania de mosaico.”, “Buraco, cratera, pedra solta, bueiro-bomba.”, “Adeus, corpo.”) alternadas com frases verbais (“Joga concreto em cima e aplaina.”, “Um dia eu caio, hoje não.”). Quando há período composto, é por coordenação assindética — orações coordenadas apenas justapostas, sem conjunção coordenativa entre elas. Essa justaposição, que imita o fluxo de pensamento do velho irritado, é o princípio de organização. Não há articulação lógica explícita entre orações (e) — é o oposto, a ausência dela; o tempo não muda de eventos (b); os adjetivos existem, mas não descrevem cenário nem estruturam o texto (c); e as sequências de substantivos enfileiram itens diferentes, não palavras de mesmo sentido (d)."
   }
  ]
 }

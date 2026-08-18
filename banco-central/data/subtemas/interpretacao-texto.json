@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "interpretacao-texto",
- "total": 554,
+ "total": 577,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -41,7 +41,10 @@
   "med-interpretacao-texto-133",
   "med-interpretacao-texto-135",
   "med-interpretacao-texto-140",
-  "med-interpretacao-texto-149"
+  "med-interpretacao-texto-149",
+  "enem-interpretacao-texto-50",
+  "enem-interpretacao-texto-57",
+  "enem-interpretacao-texto-68"
  ],
  "mapa": {
   "dir-interpretacao-texto-01": {
@@ -3172,6 +3175,141 @@
    "frenteDestino": "interpretacao-texto",
    "pontos": 5,
    "margem": 3
+  },
+  "enem-interpretacao-texto-46": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 13,
+   "margem": 8
+  },
+  "enem-interpretacao-texto-47": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 7,
+   "margem": 2
+  },
+  "enem-interpretacao-texto-48": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-interpretacao-texto-49": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-50": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "enem-interpretacao-texto-51": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 2
+  },
+  "enem-interpretacao-texto-52": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-53": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 2
+  },
+  "enem-interpretacao-texto-54": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "enem-interpretacao-texto-55": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-56": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-57": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "enem-interpretacao-texto-58": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 2
+  },
+  "enem-interpretacao-texto-59": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-interpretacao-texto-60": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-61": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-interpretacao-texto-62": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-63": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-64": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "enem-interpretacao-texto-65": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-66": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 14,
+   "margem": 14
+  },
+  "enem-interpretacao-texto-67": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-68": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
   }
  }
 }

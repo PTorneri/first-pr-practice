@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "biologia",
- "total": 564,
+ "total": 580,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -3351,6 +3351,102 @@
    "subtema": "biologia-evolucao",
    "frenteDestino": "biologia",
    "revisado": true
+  },
+  "enem-biologia-30": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 18,
+   "margem": 18
+  },
+  "enem-biologia-31": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "enem-biologia-32": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 17,
+   "margem": 17
+  },
+  "enem-biologia-33": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 10
+  },
+  "enem-biologia-34": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "enem-biologia-35": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 5
+  },
+  "enem-biologia-36": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "enem-biologia-37": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 7,
+   "margem": 3
+  },
+  "enem-biologia-38": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "enem-biologia-39": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 12,
+   "margem": 7
+  },
+  "enem-biologia-40": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 11,
+   "margem": 4
+  },
+  "enem-biologia-41": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "enem-biologia-42": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "enem-biologia-43": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 1
+  },
+  "enem-biologia-44": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 2,
+   "margem": 2
+  },
+  "enem-biologia-45": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 10
   }
  }
 }

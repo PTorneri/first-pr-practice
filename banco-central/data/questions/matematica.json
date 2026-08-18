@@ -18486,6 +18486,656 @@
    },
    "resposta": "a",
    "explicacao": "Entre as 8! bijeções, as três imagens F(1), F(5), F(3) aparecem em cada uma das 3! ordens com igual frequência, e F(7), F(2) aparecem nas duas ordens com igual frequência. As restrições são independentes, logo 8!/(3!·2!) = 3360."
+  },
+  {
+   "id": "enem-matematica-62",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e R$ 12 000,00.\nA diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores.",
+   "enunciado": "Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,",
+   "alternativas": {
+    "a": "14,4.",
+    "b": "20,7.",
+    "c": "22,0.",
+    "d": "30,0.",
+    "e": "37,5."
+   },
+   "resposta": "d",
+   "explicacao": "São 100 professores; média de no máximo R$ 12 240,00 significa folha total de no máximo 100 × 12 240 = R$ 1 224 000,00. Os 60 mestres, com 25% de aumento, passam a receber 60 × 10 000 = R$ 600 000,00. Sobram 1 224 000 − 600 000 = R$ 624 000,00 para os 40 doutores, ou seja, R$ 15 600,00 cada um. De 12 000 para 15 600 o reajuste é de 3 600/12 000 = 30%. O erro mais comum é esquecer que o teto é sobre a MÉDIA de todos e não sobre o salário do doutor: quem trata 12 240 como o novo salário do doutor acha 2%, e quem esquece o reajuste dos mestres estoura a folga e chega a valores bem maiores."
+  },
+  {
+   "id": "enem-matematica-63",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos.",
+   "enunciado": "A quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é",
+   "alternativas": {
+    "a": "0,125.",
+    "b": "0,200.",
+    "c": "4,800.",
+    "d": "6,000.",
+    "e": "12,000."
+   },
+   "resposta": "b",
+   "explicacao": "É uma regra de três disfarçada pela unidade. Em 60 dias há 60 × 24 × 60 = 86 400 minutos; a cada 48 minutos um acionamento dá 86 400/48 = 1 800 acionamentos. Os 360 mL divididos por 1 800 rendem 0,2 mL por acionamento. A armadilha está na conversão: quem conta 60 × 24 = 1 440 e divide por 48 (tratando 48 como se fossem horas) obtém 30 acionamentos e chega aos 12 mL da última alternativa."
+  },
+  {
+   "id": "enem-matematica-64",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol.\nSuponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias.",
+   "enunciado": "No planeta Z, seu ano corresponderia a quantos de seus dias?",
+   "alternativas": {
+    "a": "2,5",
+    "b": "10,0",
+    "c": "730,0",
+    "d": "13 322,5",
+    "e": "53 290,0"
+   },
+   "resposta": "a",
+   "explicacao": "Um ano de Z é metade do ano terrestre: 365/2 = 182,5 dias terrestres. Como um dia de Z dura 73 dias terrestres, o ano de Z tem tantos dias de Z quanto a razão 182,5/73 = 2,5. É preciso medir as duas grandezas na mesma unidade (dias terrestres) e depois dividir: 13 322,5 é o produto 182,5 × 73 (quem multiplica em vez de dividir) e 730 é 2 × 365 (quem inverte a proporção entre os anos)."
+  },
+  {
+   "id": "enem-matematica-65",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal.\nUma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a pagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado.",
+   "enunciado": "O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi",
+   "alternativas": {
+    "a": "R$ 2,00 menor.",
+    "b": "R$ 100,00 menor.",
+    "c": "R$ 200,00 menor.",
+    "d": "R$ 42,00 maior.",
+    "e": "R$ 80,00 maior."
+   },
+   "resposta": "a",
+   "explicacao": "O preço normal é 1 000 × 1,10 = R$ 1 100,00; com 2% de desconto sobre ele, a loja cobra 1 100 × 0,98 = R$ 1 078,00. A cliente calculou 1 000 × 1,08 = R$ 1 080,00. A loja apresentou, portanto, R$ 2,00 a menos. O ponto da questão é que aumentar 10% e depois descontar 2% não é o mesmo que aumentar 8%: os percentuais sucessivos incidem sobre bases diferentes, e a diferença é justamente 2% de 10% de 1 000 = R$ 2,00."
+  },
+  {
+   "id": "enem-matematica-66",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma loja comercializa cinco modelos de caixas-d'água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e área da base é Ab, como segue:\n• modelo II: o dobro da profundidade e a metade da área da base do modelo I;\n• modelo III: o dobro da profundidade e a metade do raio da base do modelo I;\n• modelo IV: a metade da profundidade e o dobro da área da base do modelo I;\n• modelo V: a metade da profundidade e o dobro do raio da base do modelo I.\nUma pessoa pretende comprar nessa loja o modelo de caixa-d'água que ofereça a maior capacidade volumétrica.",
+   "enunciado": "O modelo escolhido deve ser o",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "e",
+   "explicacao": "O volume do cilindro é V = Ab × P. Modelo II: (Ab/2) × 2P = V. Modelo IV: 2Ab × (P/2) = V. Nos modelos III e V a mudança é no RAIO, e a área da base varia com o quadrado do raio: metade do raio dá área Ab/4, logo o modelo III tem (Ab/4) × 2P = V/2; o dobro do raio dá área 4Ab, logo o modelo V tem 4Ab × (P/2) = 2V, o maior de todos. A pegadinha é ler \"dobro do raio\" como \"dobro da área\" — aí II, IV e V empatariam com I."
+  },
+  {
+   "id": "enem-matematica-67",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses valores, para um mesmo imóvel, no mercado imobiliário dessa cidade.\n[Gráfico 1 — Valor mensal do aluguel (R$), por ano:]\n2005: 630; 2007: 960; 2009: 1 350; 2011: 1 800; 2013: 3 240.\n[Gráfico 2 — Valor de mercado do imóvel (milhar de R$), por ano:]\n2005: 90; 2007: 120; 2009: 270; 2011: 450; 2013: 540.\nA rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel.",
+   "enunciado": "Com base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?",
+   "alternativas": {
+    "a": "2005",
+    "b": "2007",
+    "c": "2009",
+    "d": "2011",
+    "e": "2013"
+   },
+   "resposta": "b",
+   "explicacao": "Basta dividir aluguel por valor de mercado (em reais) ano a ano: 2005: 630/90 000 = 0,7%; 2007: 960/120 000 = 0,8%; 2009: 1 350/270 000 = 0,5%; 2011: 1 800/450 000 = 0,4%; 2013: 3 240/540 000 = 0,6%. A maior razão é a de 2007. Quem olha só o aluguel mais alto marca 2013, mas rentabilidade é razão, e em 2013 o valor do imóvel subiu ainda mais que o aluguel."
+  },
+  {
+   "id": "enem-matematica-68",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos.",
+   "enunciado": "O número escrito pelo estudante foi",
+   "alternativas": {
+    "a": "135 000,00.",
+    "b": "1 350 000,00.",
+    "c": "13 500 000,00.",
+    "d": "135 000 000,00.",
+    "e": "1 350 000 000,00."
+   },
+   "resposta": "e",
+   "explicacao": "Um bilhão é 1 000 000 000 (nove zeros); 1,35 bilhão é 1,35 × 10⁹ = 1 350 000 000,00. Escrever números inteiros dessa ordem de grandeza é só contar casas: as alternativas menores correspondem a confundir bilhão com milhão (1 350 000,00) ou a deslocar a vírgula um número errado de casas."
+  },
+  {
+   "id": "enem-matematica-69",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social.\nCinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro.\nOperário; Preço por hora (real); Preço do transporte (real); Tempo até conclusão (hora)\nI; 120; 0,00; 8\nII; 180; 0,00; 6\nIII; 170; 20,00; 6\nIV; 110; 10,00; 9\nV; 110; 0,00; 10",
+   "enunciado": "Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "a",
+   "explicacao": "O custo total é preço por hora × tempo + transporte: I: 120 × 8 = 960; II: 180 × 6 = 1 080; III: 170 × 6 + 20 = 1 040; IV: 110 × 9 + 10 = 1 000; V: 110 × 10 = 1 100. O menor é o operário I, R$ 960,00. Quem escolhe pelo menor preço por hora (IV ou V) ou pelo menor tempo (II ou III) erra: é o produto, somado ao transporte, que decide."
+  },
+  {
+   "id": "enem-matematica-70",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda.",
+   "enunciado": "Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+   "alternativas": {
+    "a": "2",
+    "b": "3",
+    "c": "6",
+    "d": "12",
+    "e": "24"
+   },
+   "resposta": "e",
+   "explicacao": "Dobrar o diâmetro multiplica o volume da esfera por 2³ = 8: cada docinho de 4 cm gasta a massa de 8 docinhos de 2 cm. Os 150 docinhos grandes equivalem a 150 × 8 = 1 200 docinhos pequenos, e cada porção rende 50, logo 1 200/50 = 24 porções. Quem trata o volume como proporcional ao diâmetro chega a 6 (150 × 2/50) e quem usa o quadrado, como se fosse área, chega a 12."
+  },
+  {
+   "id": "enem-matematica-71",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma empresa produz e vende um tipo de chocolate, maciço, em formato de cone circular reto com as medidas do diâmetro da base e da altura iguais a 8 cm e 10 cm, respectivamente.\nDevido a um aumento de preço dos ingredientes utilizados na produção desse chocolate, a empresa decide produzir esse mesmo tipo de chocolate com um volume 19% menor, no mesmo formato de cone circular reto com altura de 10 cm.",
+   "enunciado": "Para isso, a empresa produzirá esses novos chocolates com medida do raio da base, em centímetro, igual a",
+   "alternativas": {
+    "a": "1,52.",
+    "b": "3,24.",
+    "c": "3,60.",
+    "d": "6,48.",
+    "e": "7,20."
+   },
+   "resposta": "c",
+   "explicacao": "Com a altura fixa, o volume do cone (πr²h/3) é proporcional ao quadrado do raio. O raio original é 4 cm; o novo volume é 81% do antigo, logo r² = 0,81 × 16 = 12,96 e r = 3,6 cm. Aplicar os 19% diretamente no raio dá 0,81 × 4 = 3,24 (alternativa B), e aplicar no diâmetro dá 6,48 — os dois erros vêm de esquecer que a redução no volume se traduz na raiz quadrada da redução no raio."
+  },
+  {
+   "id": "enem-matematica-72",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja, foram criadas 28 900 vagas de emprego, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged), divulgados pelo Ministério do Trabalho e Emprego (MTE). Segundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75%, quando comparado com o mesmo período de 2012.",
+   "fonte_texto": "Disponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).",
+   "enunciado": "De acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi",
+   "alternativas": {
+    "a": "16 514.",
+    "b": "86 700.",
+    "c": "115 600.",
+    "d": "441 343.",
+    "e": "448 568."
+   },
+   "resposta": "c",
+   "explicacao": "Se houve queda de 75%, as 28 900 vagas de 2013 são 25% do valor de 2012: x = 28 900/0,25 = 115 600. O erro típico é multiplicar por 3 em vez de por 4 (86 700), como se \"queda de 75%\" fosse \"três vezes menos\"; 441 343 e 448 568 são 25% dos desligamentos e das admissões, números que não entram na conta."
+  },
+  {
+   "id": "enem-matematica-73",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:\n• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;\n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;\n• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.",
+   "enunciado": "De quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
+   "alternativas": {
+    "a": "9 × 6!/(6 − 2)!",
+    "b": "9 × 6!/[(6 − 2)! × 2!]",
+    "c": "9 × 4!/[(4 − 2)! × 2!]",
+    "d": "9 × 2!/[(2 − 2)! × 2!]",
+    "e": "9 × {8!/[(8 − 2)! × 2!] − 1}"
+   },
+   "resposta": "b",
+   "explicacao": "Em cada andar, os apartamentos que têm pelo menos um quarto com sol da manhã são os de final 1, 2, 3, 4, 5 e 6 — seis apartamentos. Escolher 2 deles, sem ordem, é uma combinação: C(6,2) = 6!/[(6 − 2)! × 2!] = 15. Como a escolha pode ser feita em qualquer um dos 9 andares, o total é 9 × C(6,2) = 135. A alternativa A conta arranjos (a ordem dos dois apartamentos não importa, então sobra o 2! no denominador); a C considera só os quatro apartamentos de \"apenas um quarto\", esquecendo os de final 1 e 2, em que ambos os quartos recebem sol da manhã; a E parte dos 8 apartamentos e desconta 1, o que não corresponde a excluir os pares proibidos."
+  },
+  {
+   "id": "enem-matematica-74",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão.\nConsidere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 1/2.",
+   "enunciado": "Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?",
+   "alternativas": {
+    "a": "35/64",
+    "b": "40/64",
+    "c": "42/64",
+    "d": "44/64",
+    "e": "52/64"
+   },
+   "resposta": "c",
+   "explicacao": "Depois da primeira partida, o vencedor (chame-o de A) precisa de mais 3 vitórias, e o adversário B precisa de 4. Como no máximo 6 partidas restam, A é campeão exatamente quando vence pelo menos 3 de 6 partidas hipotéticas (se a série termina antes, o resultado das partidas restantes não muda quem chegou primeiro a 4). Com probabilidade 1/2 por partida, isso dá [C(6,3) + C(6,4) + C(6,5) + C(6,6)]/2⁶ = (20 + 15 + 6 + 1)/64 = 42/64. O erro comum é montar a soma só com as séries que terminam em 4, 5, 6 ou 7 jogos e errar as contagens de cada caso; 35/64 e 40/64 saem de esquecer um dos termos dessa soma."
+  },
+  {
+   "id": "enem-matematica-75",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo.\nA empresa que comercializa esse jogo decidiu criar um pacote especial que será vendido a R$ 100,00 e que se diferenciará do pacote básico por apresentar maiores quantidades de gemas e moedas de ouro. Para estimular as vendas desse novo pacote, a empresa decidiu inserir nele 6 000 gemas a mais, em relação ao que o cliente teria caso optasse por comprar, com a mesma quantia, dois pacotes básicos.",
+   "enunciado": "A quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é",
+   "alternativas": {
+    "a": "50 000.",
+    "b": "100 000.",
+    "c": "200 000.",
+    "d": "300 000.",
+    "e": "400 000."
+   },
+   "resposta": "e",
+   "explicacao": "Dois pacotes básicos dariam 4 000 gemas; o especial terá 4 000 + 6 000 = 10 000 gemas. A proporção do básico é 2 000 gemas para 100 000 moedas, isto é, 50 moedas por gema, então o especial precisa conter 10 000 × 50 = 500 000 moedas. O pacote especial é o básico com itens a mais (ele \"se diferencia do básico por apresentar maiores quantidades\"), e o básico já traz 100 000 moedas: a empresa deve INSERIR 500 000 − 100 000 = 400 000 moedas. Quem responde pelo total (500 000) não encontra opção; 300 000 é a diferença em relação a DOIS básicos (200 000), leitura tentadora porque as gemas foram comparadas com dois pacotes — mas o que se insere é no pacote especial, que parte de um básico."
+  },
+  {
+   "id": "enem-matematica-76",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo 3 voltas em torno do circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida, dando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta em torno do menor, percorrendo mais 1 100 m.\nNo segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de voltas em torno deles e de modo que o número de voltas seja o maior possível.",
+   "enunciado": "A soma do número de voltas em torno dos dois circuitos, no segundo dia, será",
+   "alternativas": {
+    "a": "10.",
+    "b": "13.",
+    "c": "14.",
+    "d": "15.",
+    "e": "16."
+   },
+   "resposta": "e",
+   "explicacao": "Do sistema de equações 3G + 2m = 1 800 e 2G + m = 1 100 vem m = 1 100 − 2G, logo 3G + 2 200 − 4G = 1 800 e G = 400 m, m = 300 m. No segundo dia, 400a + 300b = 5 000, ou seja, a equação 4a + 3b = 50 com a e b inteiros não negativos: b precisa ser par, e as soluções são (a, b) = (11, 2), (8, 6), (5, 10) e (2, 14). Para maximizar a + b, faz-se o máximo de voltas no circuito menor: 2 + 14 = 16. As alternativas 13, 14 e 15 são as somas das outras soluções — todas válidas, mas não a maior."
+  },
+  {
+   "id": "enem-matematica-77",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado para a página de vendas do produto. Esse anúncio foi divulgado em duas redes sociais, A e B, e foram obtidos os seguintes resultados:\n• rede social A: o anúncio foi visualizado por 3 000 pessoas; 10% delas clicaram sobre o anúncio e foram redirecionadas para o site; 3% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 100,00;\n• rede social B: o anúncio foi visualizado por 1 000 pessoas; 30% delas clicaram sobre o anúncio e foram redirecionadas para o site; 2% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 200,00.\nPor experiência, o pessoal da equipe de marketing considera que a quantidade de novas pessoas que verão o anúncio é diretamente proporcional ao investimento realizado, e que a quantidade de pessoas que comprarão o produto também se manterá proporcional à quantidade de pessoas que clicarão sobre o anúncio.\nO responsável pelo produto decidiu, então, investir mais R$ 300,00 em cada uma das duas redes sociais para a divulgação desse anúncio e obteve, de fato, o aumento proporcional esperado na quantidade de clientes que compraram esse produto. Para classificar o aumento obtido na quantidade (Q) de compradores desse produto, em consequência dessa segunda divulgação, em relação aos resultados observados na primeira divulgação, o responsável pelo produto adotou o seguinte critério:\n• Q ≤ 60%: não satisfatório;\n• 60% < Q ≤ 100%: regular;\n• 100% < Q ≤ 150%: bom;\n• 150% < Q ≤ 190%: muito bom;\n• 190% < Q ≤ 200%: excelente.",
+   "enunciado": "O aumento na quantidade de compradores, em consequência dessa segunda divulgação, em relação ao que foi registrado com a primeira divulgação, foi classificado como",
+   "alternativas": {
+    "a": "não satisfatório.",
+    "b": "regular.",
+    "c": "bom.",
+    "d": "muito bom.",
+    "e": "excelente."
+   },
+   "resposta": "c",
+   "explicacao": "Primeira divulgação: A teve 3 000 × 10% = 300 cliques e 3% deles = 9 compradores; B teve 1 000 × 30% = 300 cliques e 2% = 6 compradores; total 15. Na segunda, R$ 300,00 em A é o triplo dos R$ 100,00 iniciais, então 9 000 visualizações → 900 cliques → 27 compradores; em B, R$ 300,00 é 1,5 vez os R$ 200,00, então 1 500 visualizações → 450 cliques → 9 compradores; total 36. O aumento é (36 − 15)/15 = 140%, faixa \"bom\". O erro mais frequente é somar R$ 300,00 aos investimentos anteriores (400 e 500) e escalar por isso, ou tomar 36/15 = 240% como o aumento, o que estouraria a escala."
+  },
+  {
+   "id": "enem-matematica-78",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis.",
+   "enunciado": "Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é",
+   "alternativas": {
+    "a": "8.",
+    "b": "9.",
+    "c": "11.",
+    "d": "18.",
+    "e": "24."
+   },
+   "resposta": "b",
+   "explicacao": "Cada opcional pode estar presente ou ausente, o que dá 2³ = 8 combinações de opcionais (incluindo \"nenhum\"). Sem a cor, há 7 × 2 × 8 = 112 configurações. Com c cores, 112c > 1 000 exige c > 8,9, logo no mínimo 9 cores (112 × 8 = 896 não passa de 1 000). Os distratores nascem de contar mal os opcionais: 4 escolhas (\"um, dois, três ou nenhum\") dá 56 configurações e leva a 18 cores; 3 opcionais dá 42 e leva a 24; 7 subconjuntos não vazios dá 98 e leva a 11."
+  },
+  {
+   "id": "enem-matematica-79",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Cada número que identifica uma agência bancária tem quatro dígitos: N1, N2, N3, N4 mais um dígito verificador N5.\nTodos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N5, primeiramente multiplica-se ordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 N1 + 4 N2 + 3 N3 + 2 N4. Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N5 é a diferença 11 − R.\nConsidere o número de uma agência bancária cujos quatro primeiros dígitos são 0100.",
+   "enunciado": "Qual é o dígito verificador N5 dessa agência bancária?",
+   "alternativas": {
+    "a": "0",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "e": "9"
+   },
+   "resposta": "c",
+   "explicacao": "Não há equação a resolver — é só substituição: as quatro variáveis valem N1 = 0, N2 = 1, N3 = 0 e N4 = 0, então S = 5 × 0 + 4 × 1 + 3 × 0 + 2 × 0 = 4. O resto de 4 dividido por 11 é o próprio 4, e N5 = 11 − 4 = 7. Quem multiplica o 1 pelo peso errado (5, 3 ou 2) chega a 6, 8 ou 9 — os distratores são exatamente esses deslizes de ordem."
+  },
+  {
+   "id": "enem-matematica-80",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador novo. Observando a planta da nova cozinha, desenhada na escala de 1 : 50, notaram que o espaço destinado ao refrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem que os fabricantes de refrigeradores indicam que, para um bom funcionamento e fácil manejo na limpeza, esses eletrodomésticos devem ser colocados em espaços que permitam uma distância de, pelo menos, 10 cm de outros móveis ou paredes, tanto na parte superior quanto nas laterais. O casal comprou um refrigerador que caberia no local a ele destinado na nova cozinha, seguindo as instruções do fabricante.",
+   "enunciado": "Esse refrigerador tem altura e largura máximas, em metro, respectivamente, iguais a",
+   "alternativas": {
+    "a": "1,80 e 0,60.",
+    "b": "1,80 e 0,70.",
+    "c": "1,90 e 0,80.",
+    "d": "2,00 e 0,90.",
+    "e": "2,00 e 1,00."
+   },
+   "resposta": "a",
+   "explicacao": "Na escala 1 : 50, o espaço real mede 3,8 × 50 = 190 cm de altura e 1,6 × 50 = 80 cm de largura. Na altura desconta-se 10 cm só na parte superior: 180 cm = 1,80 m. Na largura há duas laterais, então descontam-se 20 cm: 60 cm = 0,60 m. A alternativa B (0,70) desconta uma lateral só; a C (1,90 e 0,80) esquece as folgas."
+  },
+  {
+   "id": "enem-matematica-81",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio.\nPelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana.",
+   "enunciado": "O número mínimo de dias necessários para a realização desse torneio é",
+   "alternativas": {
+    "a": "22.",
+    "b": "25.",
+    "c": "28.",
+    "d": "48.",
+    "e": "64."
+   },
+   "resposta": "b",
+   "explicacao": "Com 3 dias de descanso, uma equipe joga no máximo a cada 4 dias (domingo → quinta). Na fase de grupos cada equipe faz 3 partidas (uma por rodada, com todos os grupos jogando no mesmo dia); depois vêm oitavas, quartas, semifinais e final — 7 rodadas ao todo. Os dias de rodada formam uma progressão aritmética de razão 4: 1, 5, 9, 13, 17, 21 e 25. O torneio termina no dia 25. Quem conta 3 dias entre jogos (em vez de 4) chega a 22, e quem soma partidas em vez de rodadas vai parar em 48 ou 64."
+  },
+  {
+   "id": "enem-matematica-82",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Em um jogo de bingo, as cartelas contêm 16 quadrículas dispostas em linhas e colunas. Cada quadrícula tem impresso um número, dentre os inteiros de 1 a 50, sem repetição de número. Na primeira rodada, um número é sorteado, aleatoriamente, dentre os 50 possíveis. Em todas as rodadas, o número sorteado é descartado e não participa dos sorteios das rodadas seguintes. Caso o jogador tenha em sua cartela o número sorteado, ele o assinala na cartela. Ganha o jogador que primeiro conseguir preencher quatro quadrículas que formam uma linha, uma coluna ou uma diagonal, conforme os tipos de situações ilustradas na Figura 1.\n[Figura 1: três cartelas 4 × 4 exemplificando o preenchimento em linha (as quatro quadrículas de uma mesma linha), o preenchimento em coluna (as quatro de uma mesma coluna) e o preenchimento em diagonal (as quatro de uma diagonal).]\nO jogo inicia e, nas quatro primeiras rodadas, foram sorteados os seguintes números: 03, 27, 07 e 48. Ao final da quarta rodada, somente Pedro possuía uma cartela que continha esses quatro números sorteados, sendo que todos os demais jogadores conseguiram assinalar, no máximo, um desses números em suas cartelas. Observe na Figura 2 o cartão de Pedro após as quatro primeiras rodadas.\n[Figura 2 — cartela de Pedro, 4 linhas × 4 colunas; os números já assinalados estão entre parênteses:]\n1ª linha: (03) (48) 12 (27)\n2ª linha: 49 11 22 05\n3ª linha: 29 50 19 45\n4ª linha: 33 23 38 (07)",
+   "enunciado": "A probabilidade de Pedro ganhar o jogo em uma das duas próximas rodadas é",
+   "alternativas": {
+    "a": "1/46 + 1/45",
+    "b": "1/46 + 2/(46 × 45)",
+    "c": "1/46 + 8/(46 × 45)",
+    "d": "1/46 + 43/(46 × 45)",
+    "e": "1/46 + 49/(46 × 45)"
+   },
+   "resposta": "e",
+   "explicacao": "Restam 46 números. Pedro completa a 1ª linha se sair o 12; completa a 4ª coluna (27, 05, 45, 07) se saírem 05 e 45; e completa a diagonal (03, 11, 19, 07) se saírem 11 e 19. Nenhum outro jogador ameaça, pois cada um tem no máximo um número marcado. Na 5ª rodada, ganha só com o 12: 1/46. Se não ganhou na 5ª (probabilidade 45/46), ganha na 6ª de três modos: sai o 12 agora — (45/46) × (1/45) = 45/(46 × 45); ou saíram 05 e 45 nas duas rodadas, em qualquer ordem — 2/(46 × 45); ou saíram 11 e 19 — 2/(46 × 45). Total: 1/46 + (45 + 2 + 2)/(46 × 45) = 1/46 + 49/(46 × 45). A alternativa D (43) e a A esquecem os pares que completam coluna e diagonal; a B conta só um desses pares."
+  },
+  {
+   "id": "enem-matematica-83",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a viver a partir de seu nascimento, considerando dados da população. No Brasil, esse número vem aumentando consideravelmente, como mostra o gráfico.\n[Gráfico — Esperança de vida ao nascer, por ano:]\n2008: 72,78; 2009: 73,09; 2010: 73,4; 2011: 73,67; 2012: 73,95; 2013: 74,23.\nPode-se observar que a esperança de vida ao nascer em 2012 foi exatamente a média das registradas nos anos de 2011 e 2013. Suponha que esse fato também ocorreu com a esperança de vida ao nascer em 2013, em relação às esperanças de vida de 2012 e de 2014.",
+   "fonte_texto": "Disponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).",
+   "enunciado": "Caso a suposição feita tenha sido confirmada, a esperança de vida ao nascer no Brasil no ano de 2014 terá sido, em ano, igual a",
+   "alternativas": {
+    "a": "74,23.",
+    "b": "74,51.",
+    "c": "75,07.",
+    "d": "75,23.",
+    "e": "78,49."
+   },
+   "resposta": "b",
+   "explicacao": "Se 2013 é a média de 2012 e 2014, então 74,23 = (73,95 + x)/2, logo x = 2 × 74,23 − 73,95 = 74,51. Em outras palavras, o passo de 2012 para 2013 (0,28) se repete de 2013 para 2014. A alternativa A repete o valor de 2013; 75,23 soma um ano inteiro; 78,49 é o dobro do último valor sem subtrair o anterior."
+  },
+  {
+   "id": "enem-matematica-84",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Nos cinco jogos finais da última temporada, com uma média de 18 pontos por jogo, um jogador foi eleito o melhor do campeonato de basquete. Na atual temporada, cinco jogadores têm a chance de igualar ou melhorar essa média. No quadro estão registradas as pontuações desses cinco jogadores nos quatro primeiros jogos das finais deste ano.\nJogadores; Jogo 1; Jogo 2; Jogo 3; Jogo 4\nI; 12; 25; 20; 20\nII; 12; 12; 27; 20\nIII; 14; 14; 17; 26\nIV; 15; 18; 21; 21\nV; 22; 15; 23; 15\nO quinto e último jogo será realizado para decidir a equipe campeã e qual o melhor jogador da temporada.",
+   "enunciado": "O jogador que precisa fazer a menor quantidade de pontos no quinto jogo, para igualar a média de pontos do melhor jogador da temporada passada, é o",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "a",
+   "explicacao": "Média aritmética 18 em cinco jogos exige 90 pontos no total. Somando os quatro primeiros jogos: I: 77 (faltam 13); II: 71 (faltam 19); III: 71 (faltam 19); IV: 75 (faltam 15); V: 75 (faltam 15). O jogador I é quem precisa de menos pontos. O erro é comparar as médias parciais de outro jeito ou escolher quem tem o maior jogo isolado (II, com 27)."
+  },
+  {
+   "id": "enem-matematica-85",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um casal planeja construir em sua chácara uma piscina com o formato de um paralelepípedo reto retângulo com capacidade para 90 000 L de água. O casal contratou uma empresa de construções que apresentou cinco projetos com diferentes combinações nas dimensões internas de profundidade, largura e comprimento. A piscina a ser construída terá revestimento interno em suas paredes e fundo com uma mesma cerâmica, e o casal irá escolher o projeto que exija a menor área de revestimento.\nAs dimensões internas de profundidade, largura e comprimento, respectivamente, para cada um dos projetos, são:\n• projeto I: 1,8 m, 2,0 m e 25,0 m;\n• projeto II: 2,0 m, 5,0 m e 9,0 m;\n• projeto III: 1,0 m, 6,0 m e 15,0 m;\n• projeto IV: 1,5 m, 15,0 m e 4,0 m;\n• projeto V: 2,5 m, 3,0 m e 12,0 m.",
+   "enunciado": "O projeto que o casal deverá escolher será o",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "b",
+   "explicacao": "Todos os projetos têm 90 m³ (90 000 L); o que muda é a área a revestir: fundo (largura × comprimento) mais as quatro paredes, 2 × profundidade × (largura + comprimento). I: 50 + 2 × 1,8 × 27 = 147,2 m²; II: 45 + 2 × 2 × 14 = 101 m²; III: 90 + 2 × 1 × 21 = 132 m²; IV: 60 + 2 × 1,5 × 19 = 117 m²; V: 36 + 2 × 2,5 × 15 = 111 m². A menor área é a do projeto II. Quem esquece o fundo ou conta só o piso (o que favoreceria o V, com 36 m²) erra a escolha."
+  },
+  {
+   "id": "enem-matematica-86",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Uma instituição de ensino superior ofereceu vagas em um processo seletivo de acesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados no quadro.\nCurso; Número de vagas oferecidas; Número de candidatos por vaga\nAdministração; 30; 6\nCiências Contábeis; 40; 6\nEngenharia Elétrica; 50; 7\nHistória; 30; 8\nLetras; 25; 4\nPedagogia; 25; 5",
+   "enunciado": "Qual foi o número total de candidatos inscritos nesse processo seletivo?",
+   "alternativas": {
+    "a": "200",
+    "b": "400",
+    "c": "1 200",
+    "d": "1 235",
+    "e": "7 200"
+   },
+   "resposta": "d",
+   "explicacao": "Candidatos por vaga é uma razão; o número de candidatos de cada curso é vagas × candidatos por vaga: 30 × 6 = 180; 40 × 6 = 240; 50 × 7 = 350; 30 × 8 = 240; 25 × 4 = 100; 25 × 5 = 125. Somando: 1 235. A alternativa A é só o total de vagas (200); a C multiplica as 200 vagas por 6 sem ponderar curso a curso; a E multiplica 200 pela soma dos candidatos por vaga (36)."
+  },
+  {
+   "id": "enem-matematica-87",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.",
+   "enunciado": "Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+   "alternativas": {
+    "a": "800",
+    "b": "1 200",
+    "c": "2 400",
+    "d": "4 800",
+    "e": "6 400"
+   },
+   "resposta": "d",
+   "explicacao": "Volume do cilindro: π × 4² × 50 = 800π cm³. Cada esfera tem raio 0,5 cm e volume (4/3)π × 0,5³ = (4/3)π × 0,125 = π/6 cm³. Número de esferas: 800π ÷ (π/6) = 4 800. O erro clássico é usar o diâmetro 1 cm como raio, o que dá volume (4/3)π por esfera e leva a 600 (não listado) — ou trocar a fração e chegar a 1 200 ou 2 400."
+  },
+  {
+   "id": "enem-matematica-88",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação.\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após terminar seus exercícios físicos.",
+   "enunciado": "Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou",
+   "alternativas": {
+    "a": "30 minutos ou menos.",
+    "b": "mais de 35 e menos de 45 minutos.",
+    "c": "mais de 45 e menos de 55 minutos.",
+    "d": "mais de 60 e menos de 70 minutos.",
+    "e": "70 minutos ou mais."
+   },
+   "resposta": "c",
+   "explicacao": "Se 1,7 L é 40% a mais que a massa perdida m, então 1,4m = 1,7 e m ≈ 1,214 kg. A uma perda de 1,5 kg por hora, o tempo é 1,214/1,5 ≈ 0,81 h ≈ 48,6 minutos — entre 45 e 55. Quem esquece os 40% divide 1,7 por 1,5 e acha 68 minutos (alternativa D); quem desconta 40% de 1,7 em vez de dividir por 1,4 acha 1,02 kg e cerca de 41 minutos (alternativa B)."
+  },
+  {
+   "id": "enem-matematica-89",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:\n• Distância mínima (Dmín) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (L) da tela.\n• Distância máxima (Dmáx) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.\nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de poltronas em duas fileiras consecutivas.\nUma sala de cinema, cuja largura da tela mede 12 m, está montada em conformidade com as normas da ABNT e tem suas dimensões especificadas na figura.\n[Figura: a tela, de largura L, fica na frente da sala; a primeira fileira está a Dmín = 0,6L da tela e a última fileira instalada a Dmáx = 2L; atrás dela, a \"área de instalação de novas poltronas\" vai até Daceitável = 2,9L. As fileiras são espaçadas de 1 m entre encostos consecutivos.]\nPretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas, ampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas.",
+   "fonte_texto": "Disponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.",
+   "enunciado": "Quantas fileiras de poltronas a sala comportará após essa ampliação?",
+   "alternativas": {
+    "a": "26",
+    "b": "27",
+    "c": "28",
+    "d": "29",
+    "e": "35"
+   },
+   "resposta": "c",
+   "explicacao": "Com L = 12 m, a primeira fileira fica a 0,6 × 12 = 7,2 m da tela e o limite aceitável para a última é 2,9 × 12 = 34,8 m. As posições dos encostos formam uma progressão aritmética com passo de 1 m: 7,2; 8,2; 9,2; … Impor 7,2 + n ≤ 34,8 dá n ≤ 27,6, ou seja, cabem 27 espaçamentos além da primeira fileira — 28 fileiras. Quem conta só os intervalos marca 27; quem arredonda 34,8 marca 35; e o valor Dmáx = 24 m (o antigo fundo) não entra na conta final, só diz onde estavam as fileiras antes."
+  },
+  {
+   "id": "enem-matematica-90",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A luminosidade L de uma estrela está relacionada com o raio R e com a temperatura T dessa estrela segundo a Lei de Stefan-Boltzmann: L = c · R² · T⁴, em que c é uma constante igual para todas as estrelas.\nConsidere duas estrelas E e F, sendo que a estrela E tem metade do raio da estrela F e o dobro da temperatura de F.\nIndique por LE e LF suas respectivas luminosidades.",
+   "fonte_texto": "Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).",
+   "enunciado": "A relação entre as luminosidades dessas duas estrelas é dada por",
+   "alternativas": {
+    "a": "LE = LF/2",
+    "b": "LE = LF/4",
+    "c": "LE = LF",
+    "d": "LE = 4LF",
+    "e": "LE = 8LF"
+   },
+   "resposta": "d",
+   "explicacao": "Substituindo na equação da lei: LE = c · (R/2)² · (2T)⁴ = c · (R²/4) · 16T⁴ = 4 · c · R² · T⁴ = 4LF. A metade do raio divide por 4 (expoente 2), mas o dobro da temperatura multiplica por 16 (expoente 4); o efeito líquido da substituição é ×4. Quem trata os dois expoentes como iguais chega a LE = LF (alternativa C); quem só olha o raio marca LF/4."
+  },
+  {
+   "id": "enem-matematica-91",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma das informações que pode auxiliar no dimensionamento do número de pediatras que devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa a mediana da quantidade de crianças por família existente na região sob sua responsabilidade. O quadro mostra a distribuição das frequências do número de crianças por família na região de responsabilidade de uma UBS.\nNúmero de crianças por família; Frequência\n0; 100\n1; 400\n2; 200\n3; 150\n4; 100\n5; 50",
+   "enunciado": "O número que representa a mediana da quantidade de crianças por família nessa região é",
+   "alternativas": {
+    "a": "1,0.",
+    "b": "1,5.",
+    "c": "1,9.",
+    "d": "2,1.",
+    "e": "2,5."
+   },
+   "resposta": "b",
+   "explicacao": "São 1 000 famílias; a mediana é a média entre o 500º e o 501º valores na ordem crescente. As frequências acumuladas são 100 (0 crianças), 500 (até 1 criança), 700 (até 2 crianças): o 500º valor é 1 e o 501º é 2, logo a mediana é (1 + 2)/2 = 1,5. A alternativa C, 1,9, é a MÉDIA (1 900/1 000); a A é a moda; a E é a mediana dos valores 0 a 5 sem pesar pelas frequências."
+  },
+  {
+   "id": "enem-matematica-92",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola y = −x²/6 − 7x/3 + 12, em que y representa a altura da bola em relação ao eixo x (das abscissas) que está localizado a 1,5 m do piso da quadra. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.\nA equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas em um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:\n• ginásio I: 17 m;\n• ginásio II: 18 m;\n• ginásio III: 19 m;\n• ginásio IV: 21 m;\n• ginásio V: 40 m.",
+   "enunciado": "O saque desse atleta foi invalidado",
+   "alternativas": {
+    "a": "apenas no ginásio I.",
+    "b": "apenas nos ginásios I e II.",
+    "c": "apenas nos ginásios I, II e III.",
+    "d": "apenas nos ginásios I, II, III e IV.",
+    "e": "em todos os ginásios."
+   },
+   "resposta": "d",
+   "explicacao": "A altura máxima é o y do vértice da função quadrática: x_v = −b/(2a) = −(−7/3)/(2 × (−1/6)) = −7, e y_v = −49/6 + 49/3 + 12 = 49/6 + 12 ≈ 20,17. Como o eixo x está a 1,5 m do piso, a bola sobe a 20,17 + 1,5 ≈ 21,67 m acima do piso. Tetos a 17, 18, 19 e 21 m são atingidos; só o ginásio V (40 m) escapa. A armadilha é esquecer o 1,5 m: com 20,17 m o teto de 21 m não seria tocado e a resposta viraria C."
+  },
+  {
+   "id": "enem-matematica-93",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por p(t) = −t² + 10t + 24, sendo t um número natural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), com diferentes períodos de intensificação das propagandas:\n• I: 1 ≤ t ≤ 2;\n• II: 3 ≤ t ≤ 4;\n• III: 5 ≤ t ≤ 6;\n• IV: 7 ≤ t ≤ 9;\n• V: 10 ≤ t ≤ 12.\nA sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o mês em que, segundo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.",
+   "enunciado": "A proposta escolhida foi a",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "c",
+   "explicacao": "p(t) é uma parábola com concavidade para baixo, e o máximo ocorre no vértice t = −10/(2 × (−1)) = 5, com p(5) = 49 infectados. O mês 5 está no período da proposta III (5 ≤ t ≤ 6). Quem confunde o valor máximo (49) com o mês, ou calcula as raízes (t = 12 e t = −2) em vez do vértice, escorrega para IV ou V."
+  },
+  {
+   "id": "enem-matematica-94",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino T1, treino T2, treino T3, treino T4 e treino T5. A sequência dos treinamentos deve seguir esta ordem:\nDia: 1º; 2º; 3º; 4º; 5º; 6º; 7º; 8º; 9º; 10º; 11º; 12º; 13º\nTreino: T1; R; R; T2; R; R; T3; R; T4; R; R; T5; R\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino T1 e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições.",
+   "enunciado": "A sequência de treinamentos que o atleta realizará na 24ª semana de treinos é",
+   "alternativas": {
+    "a": "T3 R T4 R R T5 R.",
+    "b": "R T3 R T4 R R T5.",
+    "c": "R T4 R R T5 R T1.",
+    "d": "R R T5 R T1 R R.",
+    "e": "R T5 R T1 R R T2."
+   },
+   "resposta": "b",
+   "explicacao": "O ciclo tem 13 dias. A 24ª semana vai do dia 162 ao dia 168 (23 × 7 = 161 dias já passados). Como 161 = 12 × 13 + 5, o dia 162 é o 6º dia de um ciclo, isto é, R; seguem-se o 7º (T3), 8º (R), 9º (T4), 10º (R), 11º (R) e 12º (T5). A semana fica R T3 R T4 R R T5. Conferindo pelo fim: 168 = 12 × 13 + 12, logo o último dia da semana é o 12º do ciclo, T5 — o que já elimina C, D e E. A alternativa A é a mesma janela deslocada um dia para a frente (dias 163 a 169), erro de quem começa a contar a semana no dia 163."
+  },
+  {
+   "id": "enem-matematica-95",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado mês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, nos dez primeiros dias do mês e entre o dia dez e o dia vinte desse mês, nos seus dois únicos setores (infantil e adulto). Suponha que a variação no volume de vendas, para o período registrado, tenha se dado de forma linear, como mostrado no gráfico, e que essa tendência se mantenha a mesma para os próximos dez dias.\n[Gráfico — volume de vendas (real) por período, um segmento por setor, com os pontos marcados nos dias 10 e 20 e o eixo dos dias indo até 30:]\nAdulto: dia 10 → 18 000; dia 20 → 15 000.\nInfantil: dia 10 → 8 000; dia 20 → 7 000.",
+   "enunciado": "Ao final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta fixada para o mês seja alcançada?",
+   "alternativas": {
+    "a": "5 000",
+    "b": "7 000",
+    "c": "11 000",
+    "d": "18 000",
+    "e": "29 000"
+   },
+   "resposta": "c",
+   "explicacao": "Cada setor segue uma função afim: se a variação é linear, a queda do terceiro período repete a do segundo — adulto 18 000 → 15 000 → 12 000; infantil 8 000 → 7 000 → 6 000. O total do mês é (18 000 + 15 000 + 12 000) + (8 000 + 7 000 + 6 000) = 66 000, e faltam 77 000 − 66 000 = 11 000 reais. A alternativa E (29 000) é o que falta ao final do dia 20, esquecendo os dez últimos dias; a D é a projeção do terceiro período (12 000 + 6 000) sem confrontar com a meta."
   }
  ],
  "textos": [

@@ -8854,6 +8854,193 @@
       },
       "resposta": "b",
       "explicacao": "Para uma máquina de Carnot, o coeficiente de desempenho é COP = T_f/(T_q−T_f) = 290/20 = 14,5. A carga térmica é 1 kW, então a potência elétrica é 1/14,5 kW. Em 160 h, o consumo é cerca de 11,0 kWh e o custo é aproximadamente R$ 10,00."
+    },
+    {
+      "id": "enem-fisica-24",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "enunciado": "Em um autódromo, os carros podem derrapar em uma curva e bater na parede de proteção. Para diminuir o impacto de uma batida, pode-se colocar na parede uma barreira de pneus, isso faz com que a colisão seja mais demorada e o carro retorne com velocidade reduzida. Outra opção é colocar uma barreira de blocos de um material que se deforma, tornando-a tão demorada quanto a colisão com os pneus, mas que não permite a volta do carro após a colisão.\n\nComparando as duas situações, como ficam a força média exercida sobre o carro e a energia mecânica dissipada?",
+      "alternativas": {
+        "a": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de blocos.",
+        "b": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de pneus.",
+        "c": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é a mesma nas duas situações.",
+        "d": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de pneus.",
+        "e": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de blocos."
+      },
+      "resposta": "a",
+      "explicacao": "Pelo teorema do impulso, a força média é F = Δp/Δt. Os dois intervalos de tempo são iguais, mas a variação de quantidade de movimento é maior quando o carro volta (nos pneus a velocidade inverte o sentido: |Δp| = m(v + v'), maior que mv do carro que para nos blocos). Logo a força média é maior na barreira de pneus. Já a energia mecânica dissipada é toda a energia cinética inicial no caso dos blocos (o carro para) e só parte dela nos pneus (o carro sai com alguma velocidade) — a dissipação é maior nos blocos. As alternativas b, c e e invertem uma das duas comparações; d erra a energia."
+    },
+    {
+      "id": "enem-fisica-25",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Em 2002, um mecânico da cidade mineira de Uberaba (MG) teve uma ideia para economizar o consumo de energia elétrica e iluminar a própria casa num dia de sol. Para isso, ele utilizou garrafas plásticas PET com água e cloro. Cada garrafa foi fixada ao telhado de sua casa em um buraco com diâmetro igual ao da garrafa, muito maior que o comprimento de onda da luz. Nos últimos dois anos, sua ideia já alcançou diversas partes do mundo e deve atingir a marca de 1 milhão de casas utilizando a “luz engarrafada”.",
+      "fonte_texto": "ZOBEL, G. Brasileiro inventor de “luz engarrafada” tem ideia espalhada pelo mundo. Disponível em: www.bbc.com. Acesso em: 23 jun. 2022 (adaptado).",
+      "enunciado": "Que fenômeno óptico explica o funcionamento da “luz engarrafada”?",
+      "alternativas": {
+        "a": "Difração.",
+        "b": "Absorção.",
+        "c": "Polarização.",
+        "d": "Reflexão.",
+        "e": "Refração."
+      },
+      "resposta": "e",
+      "explicacao": "A garrafa cheia de água atravessa o telhado: a luz do sol entra pela parte de fora, muda de meio (ar → água → ar) e, ao refratar-se na superfície curva da garrafa, é desviada e espalhada para dentro do cômodo, como uma lâmpada difusa. O texto descarta a difração de propósito ao dizer que o buraco tem diâmetro muito maior que o comprimento de onda da luz (a); absorção e polarização retirariam luz em vez de espalhá-la (b e c); e a reflexão sozinha não levaria a luz do lado de fora para dentro do ambiente através da garrafa (d)."
+    },
+    {
+      "id": "enem-fisica-26",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "enunciado": "A fim de classificar as melhores rotas em um aplicativo de trânsito, um pesquisador propõe um modelo com base em circuitos elétricos. Nesse modelo, a corrente representa o número de carros que passam por um ponto da pista no intervalo de 1 s. A diferença de potencial (d.d.p.) corresponde à quantidade de energia por carro necessária para o deslocamento de 1 m. De forma análoga à lei de Ohm, cada via é classificada pela sua resistência, sendo a de maior resistência a mais congestionada. O aplicativo mostra as rotas em ordem crescente, ou seja, da rota de menor para a de maior resistência.\n\nComo teste para o sistema, são utilizadas três possíveis vias para uma viagem de A até B, com os valores de d.d.p. e corrente conforme a tabela.\n\nRota 1: d.d.p. 510 J/(carro·m); corrente 4 carro/s\nRota 2: d.d.p. 608 J/(carro·m); corrente 4 carro/s\nRota 3: d.d.p. 575 J/(carro·m); corrente 3 carro/s\n\nNesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
+      "alternativas": {
+        "a": "1, 2, 3.",
+        "b": "1, 3, 2.",
+        "c": "2, 1, 3.",
+        "d": "3, 1, 2.",
+        "e": "3, 2, 1."
+      },
+      "resposta": "a",
+      "explicacao": "Pela analogia com a lei de Ohm, R = U/i. Rota 1: 510/4 = 127,5; rota 2: 608/4 = 152; rota 3: 575/3 ≈ 191,7. Em ordem crescente de resistência: 1, 2, 3. Quem ordena só pela d.d.p. (menor energia por carro) cai em 1, 3, 2 (b); quem ordena só pela corrente, achando que mais carros por segundo é melhor, embaralha as demais. A resistência combina os dois dados, e é ela que o enunciado manda usar."
+    },
+    {
+      "id": "enem-fisica-27",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "enunciado": "Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2.\n\nO resultado que eles obtiveram foi de",
+      "alternativas": {
+        "a": "1,50 m.",
+        "b": "2,25 m.",
+        "c": "4,00 m.",
+        "d": "4,50 m.",
+        "e": "5,00 m."
+      },
+      "resposta": "b",
+      "explicacao": "No lançamento horizontal a 1 m de altura, o tempo de queda vem de h = gt²/2: 1 = 5t², t² = 0,2 s². O alcance horizontal dá a velocidade de saída: v = 3/t, logo v² = 9/0,2 = 45 m²/s². Com a mangueira na vertical, a água sobe até que v² = 2gH: H = 45/20 = 2,25 m. Quem toma v = 3 m/s (esquecendo o tempo) chega a 0,45 m; quem usa H = v²/g chega a 4,50 m (d); 1,50 m e 5,00 m saem de trocas de fator 2 no meio da conta."
+    },
+    {
+      "id": "enem-fisica-28",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "enunciado": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n\nVazão 3 L/min — ΔT (°C): morno 10; quente 20; superquente 30\nVazão 6 L/min — ΔT (°C): morno 5; quente 10; superquente 15\n\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 J/(g °C) e densidade de 1 000 g/L.\n\nO disjuntor adequado para a proteção dessa ducha é especificado por:",
+      "alternativas": {
+        "a": "60 A",
+        "b": "30 A",
+        "c": "20 A",
+        "d": "10 A",
+        "e": "5 A"
+      },
+      "resposta": "b",
+      "explicacao": "A potência elétrica dissipada por efeito Joule no resistor do chuveiro é a taxa de calor entregue à água: P = (m/t)·c·ΔT. No nível superquente, 3 L/min = 3 000 g/60 s = 50 g/s, com ΔT = 30 °C: P = 50 × 4,2 × 30 = 6 300 W (a linha de 6 L/min dá o mesmo: 100 g/s × 4,2 × 15). Corrente máxima: I = P/U = 6 300/220 ≈ 28,6 A. O múltiplo de 5 A imediatamente superior é 30 A. Quem usa o nível morno (2 100 W, 9,5 A) escolhe 10 A (d); quem soma as potências dos três níveis, ou esquece de dividir por 60 s, dispara para 60 A (a)."
+    },
+    {
+      "id": "enem-fisica-29",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Um Buraco Negro é um corpo celeste que possui uma grande quantidade de matéria concentrada em uma pequena região do espaço, de modo que sua força gravitacional é tão grande que qualquer partícula fica aprisionada em sua superfície, inclusive a luz. O raio dessa região caracteriza uma superfície-limite, chamada de horizonte de eventos, da qual nada consegue escapar. Considere que o Sol foi instantaneamente substituído por um Buraco Negro com a mesma massa solar, de modo que o seu horizonte de eventos seja de aproximadamente 3,0 km.",
+      "fonte_texto": "SCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to Einstein’s Theory. Disponível em: arxiv.org. Acesso em: 26 maio 2022 (adaptado).",
+      "enunciado": "Após a substituição descrita, o que aconteceria aos planetas do Sistema Solar?",
+      "alternativas": {
+        "a": "Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro.",
+        "b": "Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais.",
+        "c": "Eles se moveriam em direção ao centro do Buraco Negro.",
+        "d": "Eles passariam a precessionar mais rapidamente.",
+        "e": "Eles manteriam suas órbitas inalteradas."
+      },
+      "resposta": "e",
+      "explicacao": "A força gravitacional que o Sol exerce sobre um planeta depende da massa do Sol e da distância ao seu centro — não do tamanho do Sol. Um buraco negro com a mesma massa, no mesmo lugar, produz nas distâncias planetárias exatamente o mesmo campo gravitacional, e a força resultante sobre cada planeta não muda; o horizonte de eventos de 3 km só importa para quem chegasse a poucos quilômetros dele. Portanto as órbitas ficam inalteradas. Espirais, queda ao centro ou oscilações (a, b, c) exigiriam mudança na força; a precessão relativística (d) também depende da massa e da distância, que não mudaram."
+    },
+    {
+      "id": "enem-fisica-30",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Em 2017, foi inaugurado, no estado da Bahia, o Parque Solar Lapa, composto por duas usinas (Bom Jesus da Lapa e Lapa) e capaz de gerar cerca de 300 GWh de energia por ano. Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a irradiância solar média é de 1 500 W/m² e que a eficiência dos painéis é de 20%.",
+      "fonte_texto": "Parque Solar Lapa entra em operação. Disponível em: www.canalbioenergia.com.br. Acesso em: 9 jun. 2022 (adaptado).",
+      "enunciado": "Nessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
+      "alternativas": {
+        "a": "1 000 000 m2",
+        "b": "500 000 m2",
+        "c": "250 000 m2",
+        "d": "100 000 m2",
+        "e": "20 000 m2"
+      },
+      "resposta": "b",
+      "explicacao": "A potência instalada é o que os painéis entregam: 150 MW = 1,5 × 10⁸ watts. Cada metro quadrado recebe 1 500 watts de irradiância e, com rendimento de 20%, entrega 300 W/m². Área = 1,5 × 10⁸ / 300 = 5 × 10⁵ m² = 500 000 m². Quem esquece o rendimento acha 100 000 m² (d); quem usa a potência de uma usina só (75 MW) chega a 250 000 m² (c); os 300 GWh anuais são distração — a conta é com potência, não com energia."
+    },
+    {
+      "id": "enem-fisica-31",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "enunciado": "Um pai faz um balanço utilizando dois segmentos paralelos e iguais da mesma corda para fixar uma tábua a uma barra horizontal. Por segurança, opta por um tipo de corda cuja tensão de ruptura seja 25% superior à tensão máxima calculada nas seguintes condições:\n• O ângulo máximo atingido pelo balanço em relação à vertical é igual a 90°;\n• Os filhos utilizarão o balanço até que tenham uma massa de 24 kg.\nAlém disso, ele aproxima o movimento do balanço para o movimento circular uniforme, considera que a aceleração da gravidade é igual a 10 m/s² e despreza forças dissipativas.\n\nQual é a tensão de ruptura da corda escolhida?",
+      "alternativas": {
+        "a": "120 N",
+        "b": "300 N",
+        "c": "360 N",
+        "d": "450 N",
+        "e": "900 N"
+      },
+      "resposta": "d",
+      "explicacao": "A tração é máxima no ponto mais baixo. Partindo do repouso a 90°, a conservação de energia dá mgL = mv²/2, logo v² = 2gL. Embaixo, T − mg = mv²/L = 2mg, então T_total = 3mg = 3 × 24 × 10 = 720 N. Como são duas cordas, cada uma suporta 360 N (c é a tensão máxima, não a de ruptura). Com a margem de 25%: 360 × 1,25 = 450 N. Quem esquece a componente centrípeta acha 240 N por corda e 300 N com a margem (b); quem não divide pelas duas cordas chega a 900 N (e); 120 N é o peso dividido por dois, sem movimento."
+    },
+    {
+      "id": "enem-fisica-32",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "fonte_texto": "ROMERO, M. A. B. et al. Mudanças climáticas e ilhas de calor urbanas. Brasília: UnB; ETB, 2019 (adaptado).",
+      "enunciado": "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados:\n\nÁgua: densidade 1 000 kg/m³; calor específico 4,2 J/(g °C)\nConcreto: densidade 2 500 kg/m³; calor específico 0,8 J/(g °C)\n\nA razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
+      "alternativas": {
+        "a": "1,0.",
+        "b": "2,1.",
+        "c": "2,5.",
+        "d": "5,3.",
+        "e": "13,1."
+      },
+      "resposta": "b",
+      "explicacao": "Mesma radiação absorvida (mesmo Q) e mesmo volume V: Q = m·c·ΔT = ρ·V·c·ΔT, logo ΔT = Q/(ρ·V·c). A razão concreto/água é ΔT_c/ΔT_a = (ρ_a·c_a)/(ρ_c·c_c) = (1 000 × 4,2)/(2 500 × 0,8) = 4 200/2 000 = 2,1. Quem compara só os calores específicos acha 4,2/0,8 = 5,25 (d); quem compara só as densidades acha 2,5 (c); 13,1 é o produto dos dois erros; 1,0 seria ignorar as diferenças. Como o concreto tem menor capacidade térmica por volume, ele esquenta mais — daí a maior amplitude térmica urbana."
+    },
+    {
+      "id": "enem-fisica-33",
+      "banca": "enem",
+      "sessao": "enem-2022-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "enunciado": "Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição.\n\nCom esse equívoco, qual é a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna?",
+      "alternativas": {
+        "a": "0,25 A",
+        "b": "0,33 A",
+        "c": "0,75 A",
+        "d": "1,00 A",
+        "e": "1,33 A"
+      },
+      "resposta": "a",
+      "explicacao": "Resistência da lâmpada: R = U²/P = 4,5²/4,5 = 4,5 Ω. Com uma pilha invertida, as f.e.m. em série somam 1,5 + 1,5 − 1,5 = 1,5 V, mas as três resistências internas continuam no circuito: 3 × 0,5 = 1,5 Ω. Corrente: I = 1,5/(4,5 + 1,5) = 0,25 A. Quem esquece as resistências internas acha 0,33 A (b); com as pilhas corretas a corrente seria 4,5/6 = 0,75 A (c); 1,00 A é a corrente nominal da lâmpada sem considerar as pilhas (d)."
     }
   ]
 }

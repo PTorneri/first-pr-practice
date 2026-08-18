@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-18",
  "frente": "gramatica",
- "total": 430,
+ "total": 431,
  "residuo": [
   "dir-gramatica-01",
   "dir-gramatica-21",
@@ -2575,6 +2575,12 @@
    "subtema": "gramatica-sintaxe-periodo",
    "frenteDestino": "gramatica",
    "revisado": true
+  },
+  "enem-gramatica-02": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
   }
  }
 }

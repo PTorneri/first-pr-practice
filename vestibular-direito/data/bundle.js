@@ -1695,6 +1695,132 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Quincas Borba sustenta que a peste é um benefício por duas razões: elimina os fracos e dá lugar à descoberta da droga curativa. Enfraquecer o argumento é remover uma dessas pernas, e a alternativa C remove a segunda — se não é preciso esperar a peste para pesquisar o remédio, a epidemia deixa de ser condição do avanço. A alternativa A reforça a primeira premissa; B faz um comentário sobre a percepção alheia, sem tocar no argumento; D reafirma a seleção natural que ele invoca; e E repete que a observação científica se serve das pestes, que é exatamente o que Quincas Borba afirma."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "enem-interpretacao-texto-47",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\n[Cartaz de campanha, com a foto de um cão e um gato:] “EI... ME LEVE PARA SUA CASA!!! 14ª FEIRA DE ADOÇÃO DE CÃES E GATOS. ADOTE UM ANIMAL DE RUA. DOCUMENTOS OBRIGATÓRIOS PARA ADOÇÃO: CARTEIRA DE IDENTIDADE | CPF | COMPROVANTE DE RESIDÊNCIA. E muito amor!!”\nDisponível em: https://amigodobicho.wordpress.com. Acesso em: 10 dez. 2017.\n\nTEXTO II\nNas ruas, na cidade e no parque\nNinguém nunca prendeu o Delegado. O vaivém de rua em rua e sua longa vida são relembrados e recontados. Exemplo de sobrevivência, liderança, inteligência canina, desde pequenininho seu focinho negro e seus olhos delineados desenharam um mapa mental olfativo-visual de Lavras. Corria de quem precisava correr e se aproximava de quem não lhe faria mal, distinguia este daquele. Assim, tornou-se um cão comunitário. Nunca se soube por que escolheu a rua, talvez lhe tenham feito mal dentro de quatro paredes. Idoso, teve câncer e desapareceu. O querido foi procurado pela cidade inteira por duas protetoras, mas nunca encontrado.",
+   "fonte_texto": "COSTA, A. R. N. Viver o amor aos cães: Parque Francisco de Assis. Carmo do Cachoeira: Irdin, 2014 (adaptado).",
+   "enunciado": "Os dois textos abordam a temática de animais de rua, porém, em relação ao Texto I, o Texto II",
+   "alternativas": {
+    "a": "problematiza a necessidade de adoção de animais sem lar.",
+    "b": "valida a troca afetiva entre os pets adotados e seus donos.",
+    "c": "reforça a importância da campanha de adoção de animais.",
+    "d": "exalta a natureza amigável de cães e de gatos.",
+    "e": "promove a campanha de adoção de animais."
+   },
+   "resposta": "a",
+   "explicacao": "O cartaz parte de uma premissa: animal de rua precisa de casa. O Texto II conta a história de um cão que “escolheu a rua”, virou “cão comunitário”, é lembrado como exemplo de sobrevivência e liderança e é procurado pela cidade inteira — ou seja, um animal de rua que teve vida plena sem ser adotado (e talvez tenha sofrido “dentro de quatro paredes”). Isso se contrapõe ao Texto I e põe em questão a necessidade da adoção que ele defende. As alternativas (c) e (e) fariam do Texto II um aliado da campanha, o oposto do que ele faz; (b) fala de pets adotados, que não existem no relato; e (d) confunde o tema com um elogio genérico à índole dos animais."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "enem-interpretacao-texto-48",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "É ruivo? Tem olhos azuis? É homem ou mulher? Usa chapéu? Quem jogou Cara a Cara na infância sabe de cor o roteiro de perguntas para adivinhar quem é o personagem misterioso do seu oponente.\nAgora, o jogo está prestes a ganhar uma nova versão. A designer polonesa Zuzia Kozerska-Girard está desenvolvendo uma variação do Guess Who? (nome do Cara a Cara em inglês), em que as personalidades do tabuleiro são, na verdade, mulheres notáveis da história e da atualidade, como a artista Frida Kahlo, a ativista Malala Yousafzai, a astronauta Valentina Tereshkova e a aviadora Amelia Earhart. O Who’s She? (“Quem é ela?”, em português) traz, no total, 28 mulheres que representam diversas profissões, nacionalidades e idades.\nA ideia é que, em vez de perguntar sobre a aparência das personagens, as questões sejam direcionadas aos feitos delas: ganhou algum Nobel, fez alguma descoberta? Para cada personagem há um cartão com fatos divertidos e interessantes sobre sua vida. Uma campanha entrou no ar com o objetivo de arrecadar dinheiro para desenvolver o Who’s She?. A meta inicial era reunir 17 mil dólares. Oito dias antes de a campanha acabar, o projeto já angariou quase 350 mil dólares.\nA chegada do jogo à casa do comprador varia de acordo com a quantia doada — quanto mais você doou, mais rápido vai poder jogar.",
+   "fonte_texto": "Disponível em: www.super.abril.com.br. Acesso em: 4 dez. 2018 (adaptado).",
+   "enunciado": "Ao divulgar a adaptação do jogo para questões relativas a ações e habilidades de mulheres notáveis, o texto busca",
+   "alternativas": {
+    "a": "contribuir para a formação cidadã dos jogadores.",
+    "b": "refutar modelos estereotipados de beleza e elegância.",
+    "c": "estimular a competitividade entre potenciais compradores.",
+    "d": "exemplificar estratégias de arrecadação financeira pela internet.",
+    "e": "desenvolver conhecimentos lúdicos específicos dos tempos atuais."
+   },
+   "resposta": "a",
+   "explicacao": "O que a reportagem destaca é a troca de foco do jogo: em vez da aparência (“É ruivo? Usa chapéu?”), as perguntas passam a ser sobre os feitos de mulheres notáveis — Nobel, descobertas — com um cartão de fatos sobre cada vida. O propósito do texto, ao divulgar isso, é apostar no valor formativo do jogo, que ensina história e representatividade enquanto diverte: formação cidadã. O texto não discute padrões de beleza (b), apenas deixa de perguntar por aparência; a campanha de arrecadação e o prazo de entrega são detalhes de bastidor, não o propósito (c, d); e “conhecimentos lúdicos dos tempos atuais” (e) descreve mal um jogo sobre figuras históricas."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "enem-interpretacao-texto-53",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "São vários os fatores, internos e externos, que influenciam os hábitos das pessoas no acesso à internet, assim como nas práticas culturais realizadas na rede. A utilização das tecnologias de informação e comunicação está diretamente relacionada aos aspectos como: conhecimento de seu uso, acesso à linguagem letrada, nível de instrução, escolaridade, letramento digital etc. Os que detêm tais recursos (os mais escolarizados) são os que mais acessam a rede e também os que possuem maior índice de acumulatividade das práticas. A análise dos dados nos possibilita dizer que a falta de acesso à rede repete as mesmas adversidades e exclusões já verificadas na sociedade brasileira no que se refere a analfabetos, menos escolarizados, negros, população indígena e desempregados. Isso significa dizer que a internet, se não produz diretamente a exclusão, certamente a reproduz, tendo em vista que os que mais a acessam são justamente os mais jovens, escolarizados, remunerados, trabalhadores qualificados, homens e brancos.",
+   "fonte_texto": "SILVA, F. A. B.; ZIVIANE, P.; GHEZZI, D. R. As tecnologias digitais e seus usos. Brasília; Rio de Janeiro: Ipea, 2019 (adaptado).",
+   "enunciado": "Ao analisarem a correlação entre os hábitos e o perfil socioeconômico dos usuários da internet no Brasil, os pesquisadores",
+   "alternativas": {
+    "a": "apontam o desenvolvimento econômico como solução para ampliar o uso da rede.",
+    "b": "questionam a crença de que o acesso à informação é igualitário e democrático.",
+    "c": "afirmam que o uso comercial da rede é a causa da exclusão de minorias.",
+    "d": "refutam o vínculo entre níveis de escolaridade e dificuldade de acesso.",
+    "e": "condicionam a expansão da rede à elaboração de políticas inclusivas."
+   },
+   "resposta": "b",
+   "explicacao": "A conclusão dos pesquisadores é que a internet “se não produz diretamente a exclusão, certamente a reproduz”: quem mais acessa é quem já tem escolaridade, renda e emprego qualificado — jovens, homens, brancos. Isso desmonta a ideia de que a rede é um espaço de acesso igual e democrático à informação. A alternativa (d) inverte o texto, que afirma o vínculo entre escolaridade e acesso; (c) introduz um “uso comercial” de que o texto não fala; e (a) e (e) propõem soluções (desenvolvimento econômico, políticas inclusivas) que o trecho não formula — ele diagnostica, não prescreve."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "enem-interpretacao-texto-54",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nA língua não é uma nomenclatura, que se apõe a uma realidade pré-categorizada, ela é que classifica a realidade. No léxico, percebe-se, de maneira mais imediata, o fato de que a língua condensa as experiências de um dado povo.\nFIORIN, J. L. Língua, modernidade e tradição. Diversitas, n. 2, mar.-set. 2014.\n\nTEXTO II\nAs expressões coloquiais ainda estão impregnadas de discriminação contra os negros. Basta recordar algumas delas, como passar um “dia negro”, ter um “lado negro”, ser a “ovelha negra” da família ou praticar “magia negra”.",
+   "fonte_texto": "Disponível em: https://brasil.elpais.com. Acesso em: 22 maio 2018.",
+   "enunciado": "O Texto II exemplifica o que se afirma no Texto I, na medida em que defende a ideia de que as escolhas lexicais são resultantes de um",
+   "alternativas": {
+    "a": "expediente próprio do sistema linguístico que nos apresenta diferentes possibilidades para traduzir estados de coisas.",
+    "b": "ato inventivo de nomear novas realidades que surgem diante de uma comunidade de falantes de uma língua.",
+    "c": "mecanismo de apropriação de formas linguísticas que estão no acervo da formação do idioma nacional.",
+    "d": "processo de incorporação de preconceitos que são recorrentes na história de uma sociedade.",
+    "e": "recurso de expressão marcado pela objetividade que se requer na comunicação diária."
+   },
+   "resposta": "d",
+   "explicacao": "Fiorin diz que o léxico “condensa as experiências de um dado povo”; o Texto II mostra isso com expressões em que “negro” significa ruim (“dia negro”, “ovelha negra”, “magia negra”) — o vocabulário incorporou e ainda carrega a discriminação racial recorrente na história brasileira. É a exemplificação da tese: a experiência (aqui, o preconceito) moldando a escolha lexical. As alternativas (a) e (e) tratam a língua como sistema neutro ou objetivo, o contrário do que os dois textos afirmam; (b) fala em nomear realidades novas, quando as expressões são antigas; e (c) reduz o fenômeno a um empréstimo de formas do acervo do idioma, sem o conteúdo social que é o ponto."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "enem-interpretacao-texto-58",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Seis em cada dez pessoas com 15 anos ou mais não praticam esporte ou atividade física. São mais de 100 milhões de sedentários. Esses são dados do estudo Práticas de esporte e atividade física, da Pnad 2015, realizado pelo IBGE. A falta de tempo e de interesse são os principais motivos apontados para o sedentarismo. Paralelamente, 73,3% das pessoas de 15 anos ou mais afirmaram que o poder público deveria investir em esporte ou atividades físicas. Observou-se uma relação direta entre escolaridade e renda na realização de esportes ou atividades físicas. Enquanto 17,3% das pessoas que não tinham instrução realizavam diversas práticas corporais, esse percentual chegava a 56,7% das pessoas com superior completo. Entre as pessoas que têm práticas de esporte e atividade física regulares, o percentual de praticantes ia de 31,1%, na classe sem rendimento, a 65,2%, na classe de cinco salários mínimos ou mais. A falta de tempo foi mais declarada pela população adulta, com destaque entre as pessoas de 25 a 39 anos. Entre os adolescentes de 15 a 17 anos, o principal motivo foi não gostarem ou não quererem. Já o principal motivo para praticar esporte, declarado por 11,2 milhões de pessoas, foi relaxar ou se divertir, seguido de melhorar a qualidade de vida ou o bem-estar. A falta de instalação esportiva acessível ou nas proximidades foi um motivo pouco citado, demonstrando que a não prática estaria menos associada à infraestrutura disponível.",
+   "fonte_texto": "Disponível em: www.esporte.gov.br. Acesso em: 9 ago. 2017 (adaptado).",
+   "enunciado": "Com base na pesquisa e em uma visão ampliada de saúde, para a prática regular de exercícios ter influência significativa na saúde dos brasileiros, é necessário o desenvolvimento de estratégias que",
+   "alternativas": {
+    "a": "promovam a melhoria da aptidão física da população, dedicando-se mais tempo aos esportes.",
+    "b": "combatam o sedentarismo presente em parcela significativa da população no território nacional.",
+    "c": "facilitem a adoção da prática de exercícios, com ações relacionadas à educação e à distribuição de renda.",
+    "d": "auxiliem na construção de mais instalações esportivas e espaços adequados para a prática de atividades físicas e esportes.",
+    "e": "estimulem o incentivo fiscal para a iniciativa privada destinar verbas aos programas nacionais de promoção da saúde pelo esporte."
+   },
+   "resposta": "c",
+   "explicacao": "O argumento central da pesquisa é a “relação direta entre escolaridade e renda” e a prática de exercícios: 17,3% entre quem não tem instrução contra 56,7% entre quem tem superior; 31,1% na classe sem rendimento contra 65,2% acima de cinco salários. Numa visão ampliada de saúde — que olha os determinantes sociais —, a estratégia eficaz age sobre educação e renda. Construir instalações (d) contraria o texto, que diz que a falta de infraestrutura foi pouco citada; (a) e (b) apenas repetem o objetivo (mais atividade, menos sedentarismo) sem dizer como; e o incentivo fiscal (e) não tem apoio em nenhum dado apresentado."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "enem-interpretacao-texto-60",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O complexo de falar difícil\nO que importa realmente é que o(a) detentor(a) do notável saber jurídico saiba quando e como deve fazer uso desse português versão 2.0, até porque não tem necessidade de alguém entrar numa padaria de manhã com aquela cara de sono falando o seguinte: “Por obséquio, Vossa Senhoria teria a hipotética possibilidade de estabelecer com minha pessoa uma relação de compra e venda, mediante as imposições dos códigos Civil e do Consumidor, para que seja possível a obtenção de 10 pãezinhos em temperatura estável para que a relação pecuniária no valor de R$ 5,00 seja plenamente legítima e capaz de saciar minha fome matinal?”.\nO problema é que temos uma cultura de valorizar quem demonstra ser inteligente ao invés de valorizar quem é. Pela nossa lógica, todo mundo que fala difícil tende a ser mais inteligente do que quem valoriza o simples, e 99,9% das pessoas que estivessem na padaria iriam ficar boquiabertas se alguém fizesse uso das palavras que eu disse acima em plenas 7 da manhã em vez de dizer: “Bom dia! O senhor poderia me vender cinco reais de pão francês?”.\nAgora entramos na parte interessante: o que realmente é falar difícil? Simplesmente fazer uso de palavras que a maioria não faz ideia do que seja é um ato de falar difícil? Eu penso que não, mas é assim que muita gente age. Falar difícil é fazer uso do simples, mas com coerência e coesão, deixar tudo amarradinho gramaticalmente falando. Falar difícil pode fazer alguém parecer inteligente, mas não por muito tempo. É claro que em alguns momentos não temos como fugir do português rebuscado, do juridiquês propriamente dito, como no caso de documentos jurídicos, entre outros.",
+   "fonte_texto": "ARAÚJO, H. Disponível em: www.diariojurista.com. Acesso em: 20 nov. 2021 (adaptado).",
+   "enunciado": "Nesse artigo de opinião, ao fazer uso de uma fala rebuscada no exemplo da compra do pão, o autor evidencia a importância de(a)",
+   "alternativas": {
+    "a": "se ter um notável saber jurídico.",
+    "b": "valorização da inteligência do falante.",
+    "c": "falar difícil para demonstrar inteligência.",
+    "d": "coesão e da coerência em documentos jurídicos.",
+    "e": "adequação da linguagem à situação de comunicação."
+   },
+   "resposta": "e",
+   "explicacao": "O exemplo da padaria é construído para soar absurdo: o juridiquês das 7 da manhã, diante do balcão, contra o simples “Bom dia! O senhor poderia me vender cinco reais de pão francês?”. O ponto de vista do autor, defendido desde a primeira frase, é que o argumento decisivo é saber “quando e como” usar cada registro — o rebuscado cabe em documentos jurídicos, não na padaria. É a adequação da linguagem à situação. Falar difícil para parecer inteligente é o comportamento criticado (c); a coesão e a coerência são valorizadas em qualquer fala simples, não só nos documentos (d); e o saber jurídico (a) e a valorização da inteligência (b) são temas de passagem, não o que o exemplo evidencia."
   }
  ],
  "interpretacao-inferencia": [
@@ -3072,6 +3198,69 @@ window.QUESTION_BANKS = {
    "explicacao": "O Pretuguês, na leitura de Lélia Gonzalez apresentada no texto, é a africanização do português brasileiro pela fala e pela ancestralidade das pessoas escravizadas. Moraes escreve que “com i e x, o nóix demarca um sotaque, um registro local, um lugar, o Pretuguês” e fala em “assumindo nossas ancestralidades”: nóix é a marca linguística de um grupo cujos ancestrais fizeram essa africanização. Nóix não é vocábulo africano como “dengo” ou “axé”, o texto não fala em segregar, e o sotaque não é qualquer sotaque urbano, mas o de um lugar e de uma ancestralidade específicos.",
    "resposta": "c",
    "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "enem-interpretacao-texto-61",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A conquista da medalha de prata por Rayssa Leal, no skate street nos Jogos Olímpicos, é exemplo da representatividade feminina no esporte, avalia a âncora do jornal da rede de televisão da CNN. A apresentadora, que também anda de skate, celebrou a vitória da brasileira, que entrou para a história como a atleta mais nova a subir num pódio defendendo o Brasil. “Essa representatividade do esporte nos Jogos faz pensarmos que não temos que ficar nos encaixando em nenhum lugar. Posso gostar de passar notícia e, mesmo assim, gostar de skate, subir montanha, mergulhar, andar de bike, fazer yoga. Temos que parar de ficar enquadrando as pessoas dentro de regras. A gente vive num padrão no qual a menina ganha boneca, mas por que também não fazer um esporte de aventura? Por que o homem pode se machucar, cair de joelhos, e a menina tem que estar sempre lindinha dentro de um padrão? Acabamos limitando os talentos das pessoas”, afirmou a jornalista, sobre a prática do skate por mulheres.",
+   "fonte_texto": "Disponível em: www.cnnbrasil.com.br. Acesso em: 31 out. 2021 (adaptado).",
+   "enunciado": "O discurso da jornalista traz questionamentos sobre a relação da conquista da skatista com a",
+   "alternativas": {
+    "a": "conciliação do jornalismo com a prática do skate.",
+    "b": "inserção das mulheres na modalidade skate street.",
+    "c": "desconstrução da noção do skate como modalidade masculina.",
+    "d": "vanguarda de ser a atleta mais jovem a subir no pódio olímpico.",
+    "e": "conquista de medalha nos Jogos Olímpicos de Tóquio."
+   },
+   "resposta": "c",
+   "explicacao": "As perguntas da jornalista são todas sobre o padrão de gênero: “a menina ganha boneca, mas por que também não fazer um esporte de aventura?”, “por que o homem pode se machucar… e a menina tem que estar sempre lindinha?”. Depreende-se que a medalha de Rayssa serve para questionar a ideia implícita de que esporte radical — o skate — é coisa de homem. A conciliação com o jornalismo (a) é um exemplo pessoal, não o questionamento; a idade recorde (d) e a medalha (e) são o fato relatado, não o que se problematiza; e “inserção das mulheres na modalidade” (b) descreve o resultado, sem a crítica ao estereótipo que é o núcleo da fala."
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "enem-interpretacao-texto-63",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As línguas silenciadas do Brasil\nPara aprender a língua de seu povo, o professor Txaywa Pataxó, de 29 anos, precisou estudar os fatores que, por diversas vezes, quase provocaram a extinção da língua patxôhã. Mergulhou na história do Brasil e descobriu fatos violentos que dispersaram os pataxós, forçados a abandonar a própria língua para escapar da perseguição. “Os pataxós se espalharam, principalmente, depois do Fogo de 1951. Queimaram tudo e expulsaram a gente das nossas terras. Isso constrange o nosso povo até hoje”, conta Txaywa, estudante da Universidade Federal de Minas Gerais e professor na aldeia Barra Velha, região de Porto Seguro (BA). Mais de quatro décadas depois, membros da etnia retornaram ao antigo local e iniciaram um movimento de recuperação da língua patxôhã. Os filhos de Sameary Pataxó já são fluentes — e ela, que se mudou quando já era adulta para a aldeia, tenta aprender um pouco com eles. “É a nossa identidade. Você diz quem você é por meio da sua língua”, afirma a professora de ensino fundamental sobre a importância de restaurar a língua dos pataxós. O patxôhã está entre as línguas indígenas faladas no Brasil: o IBGE estimou 274 línguas no último censo. A publicação Povos indígenas no Brasil 2011/2016, do Instituto Socioambiental, calcula 160. Antes da chegada dos portugueses, elas totalizavam mais de mil.",
+   "fonte_texto": "Disponível em: https://brasil.elpais.com. Acesso em: 11 jun. 2019 (adaptado).",
+   "enunciado": "O movimento de recuperação da língua patxôhã assume um caráter identitário peculiar na medida em que",
+   "alternativas": {
+    "a": "denuncia o processo de perseguição histórica sofrida pelos povos indígenas.",
+    "b": "conjuga o ato de resistência étnica à preservação da memória cultural.",
+    "c": "associa a preservação linguística ao campo da pesquisa acadêmica.",
+    "d": "estimula o retorno de povos indígenas a suas terras de origem.",
+    "e": "aumenta o número de línguas indígenas faladas no Brasil."
+   },
+   "resposta": "b",
+   "explicacao": "Infere-se do relato que recuperar o patxôhã, depois de o povo ter sido forçado a abandoná-lo para escapar da perseguição, é ao mesmo tempo um ato de resistência étnica (contra o silenciamento) e de preservação da memória — “é a nossa identidade. Você diz quem você é por meio da sua língua”. A denúncia da perseguição (a) é o pano de fundo histórico, não o caráter do movimento; a pesquisa acadêmica (c) é o caminho de um professor, não a marca do movimento; o retorno às terras (d) veio antes e possibilitou a recuperação, não é seu efeito; e o texto não afirma que a língua aumentou o total de línguas faladas (e) — as contagens citadas são estimativas independentes."
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "enem-interpretacao-texto-65",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Criado há cerca de 20 anos na Califórnia, o mountainboard é um esporte de aventura que utiliza uma espécie de skate off-road para realizar manobras similares às das modalidades de snowboard, surf e do próprio skate. A atividade chegou ao Brasil em 1997 e hoje possui centenas de praticantes, um circuito nacional respeitável e mais de uma dezena de pistas espalhadas pelo país. Segundo consta na história oficial, o mountainboard foi criado por praticantes de snowboard que sentiam falta de praticar o esporte nos períodos sem neve. Para isso, eles desenvolveram um equipamento bem simples: uma prancha semelhante ao modelo utilizado na neve (menor e um pouco menos flexível), com dois eixos bem resistentes, alças para encaixar os pés e quatro pneus com câmaras de ar para regular a velocidade que pode ser alcançada em diferentes condições. Com essa configuração, o esporte se mostrou possível em diversos tipos de terreno: grama, terra, pedras, asfalto e areia. Além desses pisos, também é possível procurar pelas próprias trilhas para treinar as manobras.",
+   "fonte_texto": "Disponível em: www.webventure.com.br. Acesso em: 19 jun. 2019.",
+   "enunciado": "A história da prática do mountainboard representa uma das principais marcas das atividades de aventura, caracterizada pela",
+   "alternativas": {
+    "a": "competitividade entre seus praticantes.",
+    "b": "atividade com padrões técnicos definidos.",
+    "c": "modalidade com regras predeterminadas.",
+    "d": "criatividade para adaptações a novos espaços.",
+    "e": "necessidade de espaços definidos para a sua realização."
+   },
+   "resposta": "d",
+   "explicacao": "O mountainboard nasce de uma adaptação: praticantes de snowboard sem neve inventam uma prancha com pneus e levam o esporte para grama, terra, pedra, asfalto, areia e trilhas. Infere-se daí que a criatividade para ocupar novos espaços é a marca das atividades de aventura que a história ilustra. As alternativas (b), (c) e (e) — padrões técnicos, regras predeterminadas, espaço definido — descrevem o esporte institucionalizado, o oposto do que o texto mostra (qualquer terreno serve, e o equipamento é “bem simples”); e a competitividade (a) aparece só como consequência (há um circuito), não como característica de origem."
   }
  ],
  "interpretacao-genero-discurso": [
@@ -4539,6 +4728,153 @@ window.QUESTION_BANKS = {
    "explicacao": "O texto 2 toma posição em nome de um coletivo (“Nós acreditamos...”), expõe princípios (arte feita à mão, autenticidade, ética) e conclama a não usar imagens no estilo Ghibli geradas por IA — a forma do manifesto, contrário à imitação automatizada que desvaloriza a autenticidade artística do estúdio. Não é repúdio por “simplificar o conteúdo”, não pede boicote às IAs em geral nem fala em confundir pessoas, e não é resenha (não avalia uma obra específica).",
    "resposta": "c",
    "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "enem-interpretacao-texto-49",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "[Peça publicitária do Detran-ES. À esquerda, a foto de uma pessoa cobrindo o rosto com as mãos; nos antebraços, tatuada, a palavra:] Arrependimento\n[À direita, o texto:] Causar um acidente é algo que você leva pro resto da vida. Não beba se for dirigir.\nDETRAN | ES",
+   "fonte_texto": "Disponível em: www.portaldapropaganda.com.br. Acesso em: 29 out. 2013 (adaptado).",
+   "enunciado": "Para convencer o público-alvo sobre a necessidade de um trânsito mais seguro, essa peça publicitária apela para o(a)",
+   "alternativas": {
+    "a": "sentimento de culpa provocado no condutor causador de acidentes.",
+    "b": "dano psicológico causado nas vítimas da violência nas estradas.",
+    "c": "importância do monitoramento do trânsito pelas autoridades competentes.",
+    "d": "necessidade de punição a motoristas alcoolizados envolvidos em acidentes.",
+    "e": "sofrimento decorrente da perda de entes queridos em acidentes automobilísticos."
+   },
+   "resposta": "a",
+   "explicacao": "O destinatário é quem dirige — “não beba se for dirigir” — e a razão apresentada é o que “causar um acidente” faz com quem o causa: um arrependimento que se “leva pro resto da vida”, como uma tatuagem na pele. O apelo, portanto, é à culpa do condutor. As alternativas (b) e (e) deslocam o foco para as vítimas e suas famílias, que a peça nem menciona; (c) e (d) falam de fiscalização e punição, quando o texto não cita autoridade nem lei — a sanção que ele evoca é interna, moral."
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "enem-interpretacao-texto-52",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Papos\n— Me disseram...\n— Disseram-me.\n— Hein?\n— O correto é “disseram-me”. Não “me disseram”.\n— Eu falo como quero. E te digo mais... Ou é “digo-te”?\n— O quê?\n— Digo-te que você...\n— O “te” e o “você” não combinam.\n— Lhe digo?\n— Também não. O que você ia me dizer?\n— Que você está sendo grosseiro, pedante e chato. [...]\n— Dispenso as suas correções. Vê se esquece-me. Falo como bem entender. Mais uma correção e eu...\n— O quê?\n— O mato.\n— Que mato?\n— Mato-o. Mato-lhe. Mato você. Matar-lhe-ei-te. Ouviu bem? Pois esqueça-o e para-te. Pronome no lugar certo é elitismo!\n— Se você prefere falar errado...\n— Falo como todo mundo fala. O importante é me entenderem. Ou entenderem-me?",
+   "fonte_texto": "VERISSIMO, L. F. Comédias para se ler na escola. Rio de Janeiro: Objetiva, 2001 (adaptado).",
+   "enunciado": "Nesse texto, o uso da norma-padrão defendido por um dos personagens torna-se inadequado em razão do(a)",
+   "alternativas": {
+    "a": "falta de compreensão causada pelo choque entre gerações.",
+    "b": "contexto de comunicação em que a conversa se dá.",
+    "c": "grau de polidez distinto entre os interlocutores.",
+    "d": "diferença de escolaridade entre os falantes.",
+    "e": "nível social dos participantes da situação."
+   },
+   "resposta": "b",
+   "explicacao": "O título já situa: “Papos”, uma conversa informal entre conhecidos. Nesse contexto, exigir a colocação pronominal da norma-padrão (“disseram-me”, “digo-te”) é inadequado — não porque a norma seja errada, mas porque o registro pedido pela situação é o coloquial (“falo como todo mundo fala. O importante é me entenderem”). O texto não dá pistas de idade (a), escolaridade (d) nem classe (e) dos falantes; e o corretor é chamado de grosseiro justamente por causa das correções, então a polidez (c) é consequência do problema, não sua razão."
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "enem-interpretacao-texto-55",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "[Post publicado na página do Senado Federal: imagem de um outdoor iluminado por refletores, com o texto:]\nQUANTO CUSTOU?\nProposta obriga órgão público a divulgar gasto com anúncio na própria peça publicitária.\nQual sua opinião?",
+   "fonte_texto": "Disponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
+   "enunciado": "Considerando-se a função social dos posts, essa imagem evidencia a apropriação de outro gênero com o objetivo de",
+   "alternativas": {
+    "a": "promover o uso adequado de campanhas publicitárias do governo.",
+    "b": "divulgar o projeto sobre transparência da administração pública.",
+    "c": "responsabilizar o cidadão pelo controle dos gastos públicos.",
+    "d": "delegar a gestão de projetos de lei ao contribuinte.",
+    "e": "assegurar a fiscalização dos gastos públicos."
+   },
+   "resposta": "b",
+   "explicacao": "O post do Senado toma emprestada a forma de outro gênero textual, o outdoor — o suporte típico do anúncio pago — para falar de uma proposta que obriga o órgão público a informar quanto custou cada anúncio: a peça imita o gênero de que trata. A função do post, como os da página, é dar publicidade ao projeto e convidar à opinião (“Qual sua opinião?”), isto é, divulgar a proposta de transparência. Um post não “assegura” fiscalização (e) nem “promove” o uso adequado de campanhas (a); e perguntar a opinião do cidadão não é transferir a ele o controle dos gastos (c) nem a gestão dos projetos de lei (d)."
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "enem-interpretacao-texto-56",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Ela era linda. Gostava de dançar, fazia teatro em São Paulo e sonhava ser atriz em Hollywood. Tinha 13 anos quando ganhou uma câmera de vídeo — e uma irmã. As duas se tornaram suas companheiras de experimentações. Adolescente, Elena vivia a criar filminhos e se empenhava em dirigir a pequena Petra nas cenas que inventava. Era exigente com a irmã. E acreditava no potencial da menina para satisfazer seus arroubos de diretora precoce. Por cinco anos, integrou algumas das melhores companhias paulistanas de teatro e participou de preleções para filmes e trabalhos na TV. Nunca foi chamada. No início de 1990, Elena tinha 20 anos quando se mudou para Nova York para cursar artes cênicas e batalhar uma chance no mercado americano. Deslocada, ansiosa, frustrada após alguns testes de elenco malsucedidos, decepcionada com a ausência de reconhecimento e vitimada por uma depressão que se agravava com a falta de perspectivas, Elena pôs fim à vida no segundo semestre. Petra tinha 7 anos. Vinte anos depois, é ela, a irmã caçula, que volta a Nova York para percorrer os últimos passos da irmã, vasculhar seus arquivos e transformar suas memórias em imagem e poesia.\nElena é um filme sobre a irmã que parte e sobre a irmã que fica. É um filme sobre a busca, a perda, a saudade, mas também sobre o encontro, o legado, a memória. Um filme sobre a Elena de Petra e sobre a Petra de Elena, sobre o que ficou de uma na outra e, essencialmente, um filme sobre a delicadeza.",
+   "fonte_texto": "VANUCHI, C. Época, 19 out. 2012 (adaptado).",
+   "enunciado": "O texto é exemplar de um gênero discursivo que cumpre a função social de",
+   "alternativas": {
+    "a": "narrar, por meio de imagem e poesia, cenas da vida das irmãs Petra e Elena.",
+    "b": "descrever, por meio das memórias de Petra, a separação de duas irmãs.",
+    "c": "sintetizar, por meio das principais cenas do filme, a história de Elena.",
+    "d": "lançar, por meio da história de vida do autor, um filme autobiográfico.",
+    "e": "avaliar, por meio de análise crítica, o filme em referência."
+   },
+   "resposta": "e",
+   "explicacao": "Publicado numa revista e assinado por uma jornalista, o texto resume o enredo e depois emite juízo sobre o filme — “um filme sobre a busca, a perda, a saudade… essencialmente, um filme sobre a delicadeza”. É uma resenha, cuja função é avaliar criticamente a obra para o leitor. Quem narra “por meio de imagem e poesia” é o filme, não o texto (a); a autora não é a diretora, então não é lançamento autobiográfico (d); e (b) e (c) confundem o resumo do enredo, que é parte da resenha, com o gênero inteiro."
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "enem-interpretacao-texto-64",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "MANUAL DE ORIENTAÇÃO\nO primeiro guia prático da Sociedade Brasileira de Pediatria para ajudar pais e pediatras no desafio de educar nativos digitais\nTRABALHO DE BASE\nAté 2 anos: A criança não deve ser exposta passivamente às telas — TV, tablet, celular etc. —, principalmente durante as refeições e até 2 horas antes de dormir.\nDe 2 a 5 anos: O tempo de exposição às telas deve ser limitado a 1 hora por dia. Crianças dessa faixa etária devem ser mais protegidas da violência virtual, pois não sabem separar fantasia de realidade.\nAté 10 anos: Devem ter acesso controlado a computadores e dispositivos móveis. Crianças de até 10 anos não devem usar TV ou computador no próprio quarto.",
+   "fonte_texto": "Disponível em: https://tab.uol.com.br. Acesso em: 25 ago. 2017 (adaptado).",
+   "enunciado": "O texto sobre os chamados nativos digitais traz informações com a função de",
+   "alternativas": {
+    "a": "propor ações específicas para cada etapa da infância.",
+    "b": "estabelecer regras que devem ser seguidas à risca.",
+    "c": "explicar os efeitos do acesso precoce à internet.",
+    "d": "determinar a incorporação de rituais à educação dos filhos.",
+    "e": "educar com base em um conjunto de estratégias formativas."
+   },
+   "resposta": "a",
+   "explicacao": "O texto é um guia — gênero textual injuntivo, que orienta ações — organizado por faixa etária — até 2 anos, de 2 a 5, até 10 — e para cada uma indica o que fazer com as telas: nada de exposição passiva, limite de 1 hora, acesso controlado e sem aparelho no quarto. Sua função é orientar com ações específicas por etapa da infância. É um “guia prático” de orientação, não um código de regras rígidas (b) nem uma determinação de rituais (d); não explica efeitos (c) — apenas menciona de passagem que crianças pequenas não separam fantasia de realidade; e (e) é vago demais para descrever um texto que se organiza justamente pela idade."
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "enem-interpretacao-texto-66",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Ser cronista\nSei que não sou, mas tenho meditado ligeiramente no assunto.\nCrônica é um relato? É uma conversa? É um resumo de um estado de espírito? Não sei, pois antes de começar a escrever para o Jornal do Brasil, eu só tinha escrito romances e contos.\nE também sem perceber, à medida que escrevia para aqui, ia me tornando pessoal demais, correndo o risco de em breve publicar minha vida passada e presente, o que não pretendo. Outra coisa notei: basta eu saber que estou escrevendo para o jornal, isto é, para algo aberto facilmente por todo o mundo, e não para um livro, que só é aberto por quem realmente quer, para que, sem mesmo sentir, o modo de escrever se transforme. Não é que me desagrade mudar, pelo contrário. Mas queria que fossem mudanças mais profundas e interiores que não viessem a se refletir no escrever. Mas mudar só porque isso é uma coluna ou uma crônica? Ser mais leve só porque o leitor assim o quer? Divertir? Fazer passar uns minutos de leitura? E outra coisa: nos meus livros quero profundamente a comunicação profunda comigo e com o leitor. Aqui no jornal apenas falo com o leitor e agrada-me que ele fique agradado. Vou dizer a verdade: não estou contente.",
+   "fonte_texto": "LISPECTOR, C. In: A descoberta do mundo. Rio de Janeiro: Rocco, 1999.",
+   "enunciado": "No texto, ao refletir sobre a atividade de cronista, a autora questiona características do gênero crônica, como",
+   "alternativas": {
+    "a": "relação distanciada entre os interlocutores.",
+    "b": "articulação de vários núcleos narrativos.",
+    "c": "brevidade no tratamento da temática.",
+    "d": "descrição minuciosa dos personagens.",
+    "e": "público leitor exclusivo."
+   },
+   "resposta": "c",
+   "explicacao": "As perguntas incomodadas de Clarice apontam para a leveza e a rapidez que o jornal pede: “Ser mais leve só porque o leitor assim o quer? Divertir? Fazer passar uns minutos de leitura?” — em contraste com a “comunicação profunda” que ela busca nos livros. O que ela questiona é a brevidade e a superficialidade no trato do tema. A relação com o leitor da crônica é justamente mais próxima e pessoal (“ia me tornando pessoal demais”), não distanciada (a); o público do jornal é amplo, “aberto facilmente por todo o mundo”, e não exclusivo (e); e vários núcleos narrativos (b) e descrição minuciosa (d) são traços de romance, não da crônica que ela discute."
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "enem-interpretacao-texto-67",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Projeto na Câmara de BH quer a vacinação gratuita de cães contra a leishmaniose\nA doença é grave e vem causando preocupação na região metropolitana da capital mineira\nEla é uma doença grave, transmitida pela picada do mosquito-palha, e afeta tanto os seres humanos quanto os cachorros: a leishmaniose. Por ser um problema de saúde pública, a doença pode ganhar uma ação preventiva importante, caso um projeto de lei seja aprovado na Câmara Municipal de Belo Horizonte (CMBH). Diante do alto número de casos da doença na Grande BH, a Comissão de Saúde e Saneamento da CMBH aprovou a proposta de realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose, tema do PL 404/17, apreciado pelo colegiado em reunião ordinária, no dia 6 de dezembro.",
+   "fonte_texto": "Disponível em: https://revistaencontro.com.br. Acesso em: 11 dez. 2017.",
+   "enunciado": "Essa notícia, além de cumprir sua função informativa, assume o papel de",
+   "alternativas": {
+    "a": "fiscalizar as ações de saúde e saneamento da cidade.",
+    "b": "defender os serviços gratuitos de atendimento à população.",
+    "c": "conscientizar a população sobre grave problema de saúde pública.",
+    "d": "propor campanhas para a ampliação de acesso aos serviços públicos.",
+    "e": "responsabilizar os agentes públicos pela demora na tomada de decisões."
+   },
+   "resposta": "c",
+   "explicacao": "Antes de noticiar o projeto de lei, o texto explica o que é a leishmaniose, como se transmite (picada do mosquito-palha), que atinge humanos e cães e que é “um problema de saúde pública” com “alto número de casos” na Grande BH — informações que servem para alertar o leitor sobre a gravidade da doença. Esse é o papel adicional: conscientizar. A notícia não fiscaliza (a) nem cobra agentes públicos (e); quem propõe a campanha é a Comissão da Câmara, não o texto (d); e ela relata a proposta de vacinação gratuita sem assumir a defesa dos serviços gratuitos em geral (b)."
   }
  ],
  "interpretacao-recursos-linguagem": [
@@ -6039,6 +6375,48 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "\"Cria corvos e te arrancam os olhos\" é provérbio em linguagem figurada — a metáfora do pássaro criado que ataca o criador — sobre quem retribui com dano o cuidado recebido: cria-se o pássaro e ele se volta contra quem o criou. Considerada em si, portanto, a moral fala de ingratidão. Intolerância, intemperança, indiferença e impaciência não descrevem a inversão entre benefício recebido e mal devolvido que a imagem do corvo carrega."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "enem-interpretacao-texto-46",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Urgência emocional\nSe tudo é para ontem, se a vida engata uma primeira e sai em disparada, se não há mais tempo para paradas estratégicas, caímos fatalmente no vício de querer que os amores sejam igualmente resolvidos num átimo de segundo. Temos pressa para ouvir “eu te amo”. Não vemos a hora de que fiquem estabelecidas as regras de convívio: somos namorados, ficantes, casados, amantes? Urgência emocional. Uma cilada. Associamos diversas palavras ao AMOR: paixão, romance, sexo, adrenalina, palpitação. Esquecemos, no entanto, da palavra que viabiliza esse sentimento: “paciência”. Amor sem paciência não vinga. Amor não pode ser mastigado e engolido com emergência, com fome desesperada. É uma refeição que pode durar uma vida.",
+   "fonte_texto": "MEDEIROS, M. Disponível em: http://porumavidasimples.blogspot.com.br. Acesso em: 20 ago. 2017 (adaptado).",
+   "enunciado": "Nesse texto de opinião, as marcas linguísticas revelam uma situação distensa e de pouca formalidade, o que se evidencia pelo(a)",
+   "alternativas": {
+    "a": "impessoalização ao longo do texto, como em: “se não há mais tempo”.",
+    "b": "construção de uma atmosfera de urgência, em palavras como: “pressa”.",
+    "c": "repetição de uma determinada estrutura sintática, como em: “Se tudo é para ontem”.",
+    "d": "ênfase no emprego da hipérbole, como em: “uma refeição que pode durar uma vida”.",
+    "e": "emprego de metáforas, como em: “a vida engata uma primeira e sai em disparada”."
+   },
+   "resposta": "e",
+   "explicacao": "A informalidade do texto está nas imagens do dia a dia com que a autora fala do amor: a vida que “engata uma primeira e sai em disparada”, o amor que “não pode ser mastigado e engolido”, a “refeição que pode durar uma vida”. São metáforas coloquiais, próprias de uma conversa e não de um registro formal. A repetição de “se” (c) e a atmosfera de urgência (b) constroem o argumento, não o tom informal; a impessoalização (a) puxaria para o formal, o contrário do que se pede; e a “refeição que dura uma vida” é metáfora, não hipérbole (d)."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "enem-interpretacao-texto-62",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Assentamento\nZanza daqui\nZanza pra acolá\nFim de feira, periferia afora\nA cidade não mora mais em mim\nFrancisco, Serafim\nVamos embora\n\nVer o capim\nVer o baobá\nVamos ver a campina quando flora\nA piracema, rios contravim\nBinho, Bel, Bia, Quim\nVamos embora\n\nQuando eu morrer\nCansado de guerra\nMorro de bem\nCom a minha terra:\nCana, caqui\nInhame, abóbora\nOnde só vento se semeava outrora\nAmplidão, nação, sertão sem fim\nÓ Manuel, Miguilim\nVamos embora",
+   "fonte_texto": "BUARQUE, C. As cidades. Rio de Janeiro: RCA, 1998 (fragmento).",
+   "enunciado": "Nesse texto, predomina a função poética da linguagem. Entretanto, a função emotiva pode ser identificada no verso:",
+   "alternativas": {
+    "a": "“Zanza pra acolá”.",
+    "b": "“Fim de feira, periferia afora”.",
+    "c": "“A cidade não mora mais em mim”.",
+    "d": "“Onde só vento se semeava outrora”.",
+    "e": "“Ó Manuel, Miguilim”."
+   },
+   "resposta": "c",
+   "explicacao": "A função emotiva centra a linguagem em quem fala, que expressa o próprio estado interior em primeira pessoa — o recurso expressivo aqui é a marca de subjetividade. É o que ocorre em “A cidade não mora mais em mim”: o “mim” e o sentimento de desenraizamento são do sujeito que fala. Os versos (a), (b) e (d) descrevem ações e paisagens (função referencial ou poética); e “Ó Manuel, Miguilim” (e) é um vocativo, chamado dirigido a alguém — função apelativa/conativa, não emotiva."
   }
  ],
  "interpretacao-estrutura-coesao": [
@@ -9972,6 +10350,111 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Montaigne diz que os atos de um mesmo homem \"se contradizem\" a ponto de não parecerem do mesmo indivíduo, que somos \"peças e pedaços\" e que a diferença entre nós e nós mesmos é tão grande quanto entre nós e outrem. É a inconstância, a mudança de conduta e de ânimo: a volubilidade humana — o tema central do trecho. Conformismo seria aceitação passiva; transitoriedade fala do tempo e da morte; egoísmo e insensibilidade dizem respeito à relação com o outro — nada disso é o assunto do trecho."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-50",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Ciente de que, no campo da criação, as inovações tecnológicas abrem amplo leque de possibilidades — ao permitir, e mesmo estimular, que o artista explore a fundo, em seu processo criativo, questões como a aleatoriedade, o acaso, a não linearidade e a hipermídia —, Leo Cunha comenta que, no que tange ao campo da divulgação, as alternativas são ainda mais evidentes: “Afinal, é imensa a capacidade de reprodução, multiplicação e compartilhamento das obras artísticas/culturais. Ao mesmo tempo, ganham dimensão os dilemas envolvidos com a questão da autoria, dos direitos autorais, da reprodução e intervenção não autorizadas, entre outras questões”. Já segundo a professora Yacy-Ara Froner, o uso de ferramentas tecnológicas não pode ser visto como um fim em si mesmo. Isso porque computadores, samplers, programas de imersão, internet e intranet, vídeo, televisão, rádio, GPD etc. são apenas suportes com os quais os artistas exercem sua imaginação.",
+   "fonte_texto": "SILVA JR., M. G. Movidas pela dúvida. Minas faz Ciências, n. 52, dez.-fev. 2013 (adaptado).",
+   "enunciado": "Segundo os autores citados no texto, a expansão de possibilidades no campo das manifestações artísticas promovida pela internet pode pôr em risco o(a)",
+   "alternativas": {
+    "a": "sucesso dos artistas.",
+    "b": "valorização dos suportes.",
+    "c": "proteção da produção estética.",
+    "d": "modo de distribuição de obras.",
+    "e": "compartilhamento das obras artísticas."
+   },
+   "resposta": "c",
+   "explicacao": "O risco está nomeado na fala de Leo Cunha: junto com a capacidade de reprodução e compartilhamento “ganham dimensão os dilemas envolvidos com a questão da autoria, dos direitos autorais, da reprodução e intervenção não autorizadas” — isto é, a proteção da obra e de sua autoria. Compartilhamento e distribuição (d, e) são justamente as possibilidades ampliadas, não o que está em risco; o sucesso dos artistas (a) não é discutido; e a segunda voz, Yacy-Ara Froner, relativiza os suportes (são “apenas suportes”), o que não é o mesmo que apontar risco à sua valorização (b)."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-51",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Ora, sempre que surge uma nova técnica, ela quer demonstrar que revogará as regras e coerções que presidiram o nascimento de todas as outras invenções do passado. Ela se pretende orgulhosa e única. Como se a nova técnica carreasse com ela, automaticamente, para seus novos usuários, uma propensão natural a fazer economia de qualquer aprendizagem. Como se ela se preparasse para varrer tudo que a precedeu, ao mesmo tempo transformando em analfabetos todos os que ousassem repeli-la.\nFui testemunha dessa mudança ao longo de toda a minha vida. Ao passo que, na realidade, é o contrário que acontece. Cada nova técnica exige uma longa iniciação numa nova linguagem, ainda mais longa na medida em que nosso espírito é formatado pela utilização das linguagens que precederam o nascimento da recém-chegada.",
+   "fonte_texto": "ECO, U.; CARRIÈRE, J.-C. Não contem com o fim do livro. Rio de Janeiro: Record, 2010 (adaptado).",
+   "enunciado": "O texto revela que, quando a sociedade promove o desenvolvimento de uma nova técnica, o que mais impacta seus usuários é a",
+   "alternativas": {
+    "a": "dificuldade na apropriação da nova linguagem.",
+    "b": "valorização da utilização da nova tecnologia.",
+    "c": "recorrência das mudanças tecnológicas.",
+    "d": "suplantação imediata dos conhecimentos prévios.",
+    "e": "rapidez no aprendizado do manuseio das novas invenções."
+   },
+   "resposta": "a",
+   "explicacao": "A ideia central do texto opõe a promessa da técnica nova (dispensar qualquer aprendizagem, varrer o que veio antes) à realidade: “cada nova técnica exige uma longa iniciação numa nova linguagem”, tanto mais longa quanto mais o espírito já foi formatado pelas linguagens anteriores. O impacto real sobre o usuário é essa dificuldade de apropriação. As alternativas (d) e (e) repetem a promessa que o autor desmente (“é o contrário que acontece”); (b) fala de valorização, que não é o assunto; e (c), a recorrência das mudanças, é o pano de fundo (“fui testemunha dessa mudança ao longo de toda a minha vida”), não o que mais impacta."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-57",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Pisoteamento, arrastão, empurra-empurra, agressões, vandalismo e até furto a um torcedor que estava caído no asfalto após ser atropelado nas imediações do estádio do Maracanã. As cenas de selvageria tiveram como estopim a invasão de milhares de torcedores sem ingresso, que furaram o bloqueio policial e transformaram o estádio em terra de ninguém. Um reflexo não só do quadro de insegurança que assola o Rio de Janeiro, mas também de como a violência social se embrenha pelo esporte mais popular do país. Em 2017, foram registrados 104 episódios de violência no futebol brasileiro, que resultaram em 11 mortes de torcedores. Desde 1995, quando 101 torcedores ficaram feridos e um morreu durante uma batalha campal no estádio do Pacaembu, autoridades têm focado as ações de enfrentamento à violência no futebol em grupos uniformizados, alguns proibidos de frequentar estádios. Porém, a postura meramente repressiva contra torcidas organizadas é ineficaz em uma sociedade que registra mais de 61 000 homicídios por ano. “É impossível dissociar a escalada de violência no futebol do panorama de desordem pública, social, econômica e política vivida pelo país”, de acordo com um doutor em sociologia do esporte.",
+   "fonte_texto": "Disponível em: https://brasil.elpais.com. Acesso em: 22 jun. 2019 (adaptado).",
+   "enunciado": "Nesse texto, a violência no futebol está caracterizada como um(a)",
+   "alternativas": {
+    "a": "problema social localizado numa região do país.",
+    "b": "desafio para as torcidas organizadas dos clubes.",
+    "c": "reflexo da precariedade da organização social no país.",
+    "d": "inadequação de espaço nos estádios para receber o público.",
+    "e": "consequência da insatisfação dos clubes com a organização dos jogos."
+   },
+   "resposta": "c",
+   "explicacao": "A tese está no arremate: “é impossível dissociar a escalada de violência no futebol do panorama de desordem pública, social, econômica e política vivida pelo país”, reforçada pela cifra dos 61 mil homicídios anuais. A violência nos estádios é apresentada como reflexo da precariedade social brasileira. Não é problema regional (a) — o Rio é o exemplo, e o texto fala do “futebol brasileiro” e do país inteiro; as torcidas organizadas aparecem como alvo insuficiente da repressão, não como quem enfrenta o desafio (b); e nem estrutura dos estádios (d) nem insatisfação de clubes (e) são mencionadas."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-59",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nProjeto Mural Eletrônico desenvolvido no INT, semelhante a um totem, promete tornar o acesso à informação disponível para todos\nA inclusão de pessoas com deficiência se constituiu um dos principais desafios e preocupações para a sociedade ao longo das últimas décadas. E o uso da tecnologia tem se revelado um aliado fundamental em muitas iniciativas voltadas para essa área. Exemplo disso é uma das recentes criações do Instituto Nacional de Tecnologia (INT) — unidade de pesquisa do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). Ali, com o objetivo de que as diferenças entre pessoas não sejam sinônimo de obstáculos no acesso à informação ou na comunicação, engenheiros e tecnólogos vêm trabalhando no desenvolvimento do projeto Mural Eletrônico.\nO Mural Eletrônico nasceu da necessidade de promover a inclusão nas escolas. Com interface multimídia e interativa, todos têm a possibilidade de acessar o Mural Eletrônico. Por meio do equipamento, podem ser disponibilizados vídeos com Libras, leitura sonora de textos, que também estarão acessíveis em uma plataforma de braille dinâmico, ao lado do teclado.\nKIFFER, D. Inclusão ampla e irrestrita. Rio Pesquisa, n. 36, set. 2016 (adaptado).\n\nTEXTO II\nProjeto Surdonews, desenvolvido na UFRJ, garante acesso de surdos à informação e contribui para sua “inclusão científica”\nPara não permitir que a falta de informação seja um fator para o isolamento e a inacessibilidade da comunidade surda, a jornalista e pesquisadora Roberta Savedra Schiaffino criou o projeto “Surdonews: montando os quebra-cabeças das notícias para o surdo”. Trata-se de uma página no Facebook, com notícias constantemente atualizadas e apresentadas por surdos em Libras, e veiculadas por meio de vídeos.\nA ideia de criar o projeto surgiu quando Roberta, ela própria surda profunda, ainda cursava o mestrado. Para isso, ela procurou traçar um diagnóstico do conhecimento informal entre as pessoas com surdez. Ela entrevistou cinquenta alunos surdos do ensino fundamental e viu que eles tinham muita dificuldade de ler, além de não captar a notícia falada. “Isso é muito grave, pois 90% do saber de um indivíduo vem do conhecimento informal, adquirido em feiras científicas, conversas, cinema, teatro, incluindo a mídia, por todas as suas possibilidades disseminadoras”, explica a pesquisadora. “Prezamos pelo conteúdo científico em nossas pautas. Contudo, independentemente disso, nosso principal trabalho é, além de informar e atualizar, fazer com que os textos não sejam empobrecidos no processo de ‘tradução’ e, sim, acessíveis”.",
+   "fonte_texto": "KIFFER, D. Comunicação sem barreiras. Rio Pesquisa, n. 37, dez. 2016 (adaptado).",
+   "enunciado": "Considerando-se o tema tecnologias e acessibilidade, os textos I e II aproximam-se porque apresentam projetos que",
+   "alternativas": {
+    "a": "garantem a igualdade entre as pessoas.",
+    "b": "foram criados por uma pesquisadora surda.",
+    "c": "tiveram origem em um curso de pós-graduação.",
+    "d": "estão circunscritos ao espaço institucional da escola.",
+    "e": "têm como objetivo a disseminação do conhecimento."
+   },
+   "resposta": "e",
+   "explicacao": "O Mural Eletrônico quer “tornar o acesso à informação disponível para todos”; o Surdonews nasce “para não permitir que a falta de informação” isole a comunidade surda e preza pelo conteúdo científico. A ideia central comum — o tema central que os aproxima — é o objetivo de disseminar conhecimento de forma acessível. As demais alternativas valem, quando muito, para um só dos textos: só o Surdonews foi criado por uma pesquisadora surda durante o mestrado (b, c); só o Mural nasceu da inclusão nas escolas, e mesmo assim não fica “circunscrito” a elas (d); e “garantir a igualdade” (a) é uma promessa que nenhum dos dois faz — falam de acesso à informação, não de igualdade plena."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-68",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "“Vida perfeita” em redes sociais pode afetar a saúde mental\nNas várias redes sociais que povoam a internet, os chamados digital influencers estão sempre felizes e pregam a felicidade como um estilo de vida. Essas pessoas espalham conteúdo para milhares de seguidores, ditando tendência e mostrando um estilo de vida sonhado por muitos, como o corpo esbelto, viagens incríveis, casas deslumbrantes, carros novos e alegria em tempo integral, algo bem improvável de ocorrer o tempo todo, aponta Carla Furtado, mestre em psicologia e fundadora do Instituto Feliciência.\nA problemática pode surgir com a busca incessante por essa felicidade, que gera efeitos colaterais em quem consome diariamente a “vida perfeita” de outros. Daí vem o conceito de positividade tóxica: a expressão tem sido usada para abordar uma espécie de pressão pela adoção de um discurso positivo, aliada a uma vida editada para as redes sociais. Para manter a saúde mental e evitar ser atingido pela positividade tóxica, o uso racional das redes sociais é o mais indicado, aconselha a médica psiquiatra Renata Nayara Figueiredo, presidente da Associação Psiquiátrica de Brasília (APBr).",
+   "fonte_texto": "Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 21 nov. 2021 (adaptado).",
+   "enunciado": "Associada ao ideário de uma “vida perfeita”, a positividade tóxica mencionada no texto é um fenômeno social recente, que se constitui com base em",
+   "alternativas": {
+    "a": "representações estereotipadas e superficiais de felicidade.",
+    "b": "ressignificações contemporâneas do conceito de alegria.",
+    "c": "estilos de vida inacessíveis para a sociedade brasileira.",
+    "d": "atitudes contraditórias de influenciadores digitais.",
+    "e": "padrões idealizados e nocivos de beleza física."
+   },
+   "resposta": "a",
+   "explicacao": "O texto define positividade tóxica como a pressão por um discurso sempre positivo “aliada a uma vida editada para as redes sociais” — corpo esbelto, viagens, casas, carros, “alegria em tempo integral, algo bem improvável de ocorrer o tempo todo”. A base do fenômeno é essa representação estereotipada e superficial da felicidade. Beleza física (e) é só um item da lista; os influenciadores não são acusados de contradição (d), mas de exibir uma vida editada; o texto não fala em inacessibilidade para a sociedade brasileira (c) nem em ressignificar o conceito de alegria (b) — fala de uma imagem falsa dele."
   }
  ],
  "gramatica-coesao-semantica": [
@@ -17427,6 +17910,27 @@ window.QUESTION_BANKS = {
    "explicacao": "A série “lute a luta como você acha que deve ... QUE vão dizer que você não sabe ... QUE vão dizer que você não tem força ...” encadeia orações nas quais o “que” introduz explicações — o porquê de lutar do próprio jeito é que os “supostos donos da luta” vão dizer isso e aquilo para tirar de você a dimensão pessoal da luta. É o valor explicativo, listando as justificativas alheias que tentam suprimir a luta individual em favor da deles. Não há comparação de igualdade, nem condição, nem causa que leve à desistência — o texto convoca a não desistir.",
    "resposta": "a",
    "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "enem-gramatica-02",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Morte lenta ao luso infame que inventou a calçada portuguesa. Maldito D. Manuel I e sua corja de tenentes Eusébios. Quadrados de pedregulho irregular socados à mão. À mão! É claro que ia soltar, ninguém reparou que ia soltar? Branco, preto, branco, preto, as ondas do mar de Copacabana. De que me servem as ondas do mar de Copacabana? Me deem chão liso, sem protuberâncias calcárias. Mosaico estúpido. Mania de mosaico. Joga concreto em cima e aplaina. Buraco, cratera, pedra solta, bueiro-bomba. Depois dos setenta, a vida se transforma numa interminável corrida de obstáculos. A queda é a maior ameaça para o idoso. “Idoso”, palavra odienta. Pior, só “terceira idade”. A queda separa a velhice da senilidade extrema. O tombo destrói a cadeia que liga a cabeça aos pés. Adeus, corpo. Em casa, vou de corrimão em corrimão, tateio móveis e paredes, e tomo banho sentado. Da poltrona para a janela, da janela para a cama, da cama para a poltrona, da poltrona para a janela. Olha aí, outra vez, a pedrinha traiçoeira atrás de me pegar. Um dia eu caio, hoje não.",
+   "fonte_texto": "TORRES, F. Fim. São Paulo: Cia. das Letras, 2013.",
+   "enunciado": "O recurso que caracteriza a organização estrutural desse texto é o(a)",
+   "alternativas": {
+    "a": "justaposição de sequências verbais e nominais.",
+    "b": "mudança de eventos resultante do jogo temporal.",
+    "c": "uso de adjetivos qualificativos na descrição do cenário.",
+    "d": "encadeamento semântico pelo uso de substantivos sinônimos.",
+    "e": "inter-relação entre orações por elementos linguísticos lógicos."
+   },
+   "resposta": "a",
+   "explicacao": "O texto avança por blocos curtos colocados lado a lado, sem elementos de ligação: frases nominais (“Mosaico estúpido. Mania de mosaico.”, “Buraco, cratera, pedra solta, bueiro-bomba.”, “Adeus, corpo.”) alternadas com frases verbais (“Joga concreto em cima e aplaina.”, “Um dia eu caio, hoje não.”). Quando há período composto, é por coordenação assindética — orações coordenadas apenas justapostas, sem conjunção coordenativa entre elas. Essa justaposição, que imita o fluxo de pensamento do velho irritado, é o princípio de organização. Não há articulação lógica explícita entre orações (e) — é o oposto, a ausência dela; o tempo não muda de eventos (b); os adjetivos existem, mas não descrevem cenário nem estruturam o texto (c); e as sequências de substantivos enfileiram itens diferentes, não palavras de mesmo sentido (d)."
   }
  ],
  "literatura-realismo-naturalismo": [
@@ -19147,6 +19651,111 @@ window.QUESTION_BANKS = {
    "explicacao": "Na novela de Machado, a cena do sineiro é o momento em que Félix, filho de D. Antônia, observa Lalau tratando com compaixão o velho escravizado — e a mãe, ao vê-los juntos, percebe o sentimento entre os dois, o que desencadeia sua reação contra o namoro da agregada com o filho. O trecho citado marca a solidão do sineiro, para quem a moça “era a sociedade humana”. Não se trata de solidariedade de classe de Lalau, nem de caridade de D. Antônia; e a frase sobre “toda a sociedade humana” descreve o olhar do sineiro, não a organização da casa.",
    "resposta": "c",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "enem-literatura-24",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Esaú e Jacó\nBárbara entrou, enquanto o pai pegou da viola e passou ao patamar de pedra, à porta da esquerda. Era uma criaturinha leve e breve, saia bordada, chinelinha no pé. Não se lhe podia negar um corpo airoso. Os cabelos, apanhados no alto da cabeça por um pedaço de fita enxovalhada, faziam-lhe um solidéu natural, cuja borla era suprida por um raminho de arruda. Já vai nisto um pouco de sacerdotisa. O mistério estava nos olhos. Estes eram opacos, não sempre nem tanto que não fossem também lúcidos e agudos, e neste último estado eram igualmente compridos; tão compridos e tão agudos que entravam pela gente abaixo, revolviam o coração e tornavam cá fora, prontos para nova entrada e outro revolvimento. Não te minto dizendo que as duas sentiram tal ou qual fascinação. Bárbara interrogou-as; Natividade disse ao que vinha e entregou-lhe os retratos dos filhos e os cabelos cortados, por lhe haverem dito que bastava.\n— Basta, confirmou Bárbara. Os meninos são seus filhos?\n— São.",
+   "fonte_texto": "ASSIS, M. Obra completa. Rio de Janeiro: Nova Aguilar, 1994.",
+   "enunciado": "No relato da visita de duas mulheres ricas a uma vidente no Morro do Castelo, a ironia — um dos traços mais representativos da narrativa machadiana — consiste no",
+   "alternativas": {
+    "a": "modo de vestir dos moradores do morro carioca.",
+    "b": "senso prático em relação às oportunidades de renda.",
+    "c": "mistério que cerca as clientes de práticas de vidência.",
+    "d": "misto de singeleza e astúcia dos gestos da personagem.",
+    "e": "interesse do narrador pelas figuras femininas ambíguas."
+   },
+   "resposta": "d",
+   "explicacao": "A ironia de Machado de Assis, realista que observa sem se comover, está no retrato da cabocla: a “criaturinha leve e breve”, de chinelinha e fita enxovalhada, com o raminho de arruda que já dá “um pouco de sacerdotisa”, e os olhos que “entravam pela gente abaixo, revolviam o coração” — a simplicidade da figura convive com a astúcia de quem sabe encenar o mistério e fascinar as clientes ricas. O narrador registra o efeito com um sorriso (“não te minto dizendo que as duas sentiram tal ou qual fascinação”). O modo de vestir (a) é só um dos ingredientes; o mistério cerca a vidente, não as clientes (c); e o interesse por mulheres ambíguas (e) descreve o narrador, não a ironia da cena; o senso prático de renda (b) não é tematizado."
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "enem-literatura-25",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A senhora manifestava-se por atos, por gestos, e sobretudo por um certo silêncio, que amargava, que esfolava. Porém desmoralizar escancaradamente o marido, não era com ela. [...]\nAs negras receberam ordem para meter no serviço a gente do tal compadre Silveira: as cunhadas, ao fuso; os cunhados, ao campo, tratar do gado com os vaqueiros; a mulher e as irmãs, que se ocupassem da ninhada. Margarida não tivera filhos, e como os desejasse com a força de suas vontades, tratava sempre bem aos pequenitos e às mães que os estavam criando. Não era isso uma sentimentalidade cristã, uma ternura, era o egoísta e cru instinto da maternidade, obrando por mera simpatia carnal. Quanto ao pai do lote (referia-se ao Antônio), esse que fosse ajudar ao vaqueiro das bestas.\nOrdens dadas, o Quinquim referendava. Cada um moralizava o outro, para moralizar-se.",
+   "fonte_texto": "PAIVA, M. O. Dona Guidinha do Poço. Rio de Janeiro: Tecnoprint, s/d.",
+   "enunciado": "No trecho do romance naturalista, a forma como o narrador julga comportamentos e emoções das personagens femininas revela influência do pensamento",
+   "alternativas": {
+    "a": "capitalista, marcado pela distribuição funcional do trabalho.",
+    "b": "liberal, buscando a igualdade entre pessoas escravizadas e livres.",
+    "c": "científico, considerando o ser humano como um fenômeno biológico.",
+    "d": "religioso, fundamentado na fé e na aceitação dos dogmas do cristianismo.",
+    "e": "afetivo, manifesto na determinação de acolher familiares e no respeito mútuo."
+   },
+   "resposta": "c",
+   "explicacao": "O narrador explica o carinho de Margarida pelas crianças recusando a leitura sentimental e religiosa — “não era isso uma sentimentalidade cristã, uma ternura” — e reduzindo-o a “o egoísta e cru instinto da maternidade, obrando por mera simpatia carnal”. É o determinismo biológico da prosa realista-naturalista: a emoção lida como instinto, o humano como fenômeno da natureza. A alternativa (d) é justamente o que o narrador nega; (e) toma pelo valor de face o acolhimento, que ele desmonta; e a distribuição das tarefas dos agregados (a) é ação da personagem, não o critério de julgamento do narrador; (b) não tem base no trecho."
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "enem-literatura-27",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Notas\nSoluços, lágrimas, casa armada, veludo preto nos portais, um homem que veio vestir o cadáver, outro que tomou a medida do caixão, caixão, essa, tocheiros, convites, convidados que entravam, lentamente, a passo surdo, e apertavam a mão à família, alguns tristes, todos sérios e calados, padre e sacristão, rezas, aspersões d’água benta, o fechar do caixão, a prego e martelo, seis pessoas que o tomam da essa, e o levantam, e o descem a custo pela escada, não obstante os gritos, soluços e novas lágrimas da família, e vão até o coche fúnebre, e o colocam em cima e traspassam e apertam as correias, o rodar do coche, o rodar dos carros, um a um... Isto que parece um simples inventário eram notas que eu havia tomado para um capítulo triste e vulgar que não escrevo.",
+   "fonte_texto": "ASSIS, M. Memórias póstumas de Brás Cubas. Disponível em: www.dominiopublico.gov.br. Acesso em: 25 jul. 2022.",
+   "enunciado": "O recurso linguístico que permite a Machado de Assis considerar um capítulo de Memórias póstumas de Brás Cubas como inventário é a",
+   "alternativas": {
+    "a": "enumeração de objetos e fatos.",
+    "b": "predominância de linguagem objetiva.",
+    "c": "ocorrência de período longo no trecho.",
+    "d": "combinação de verbos no presente e no pretérito.",
+    "e": "presença de léxico do campo semântico de funerais."
+   },
+   "resposta": "a",
+   "explicacao": "Inventário é lista, e o capítulo é uma lista: “soluços, lágrimas, casa armada, veludo preto nos portais, um homem que veio vestir o cadáver, outro que tomou a medida do caixão, caixão, essa, tocheiros, convites…” — objetos, pessoas e fatos enfileirados por vírgulas, sem hierarquia. É a enumeração que autoriza a comparação. O período longo (c) e a mistura de tempos verbais (d) são consequência da enumeração, não o recurso em si; a linguagem objetiva (b) não caracteriza um texto cheio de “soluços” e “lágrimas”; e o vocabulário fúnebre (e) explica o tema (“capítulo triste”), não a forma de inventário."
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "enem-literatura-28",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Firmo, o vaqueiro\nNo dia seguinte, à hora em que saía o gado, estava eu debruçado à varanda quando vi o cafuzo que preparava o animal viajeiro:\n— Raimundinho, como vai ele?...\nDe longe apontou a palhoça.\n— Sim.\nO braço caiu-lhe, olhou-me algum tempo comovido; depois, saltando para o animal, levou o polegar à boca fazendo estalar a unha nos dentes: “Às quatro horas da manhã... Atirei um verso e disse, para bulir com ele: Pega, velho! Não respondeu. Tio Firmo, mesmo velho e doente, não era homem para deixar um verso no chão... Fui ver, coitado!... estava morto”. E deu de esporas para que eu não lhe visse as lágrimas.",
+   "fonte_texto": "NETTO, C. In: MARCHEZAN, L. G. (Org.). O conto regionalista. São Paulo: Martins Fontes, 2009.",
+   "enunciado": "A passagem registra um momento em que a expressividade lírica é reforçada pela",
+   "alternativas": {
+    "a": "plasticidade da imagem do rebanho reunido.",
+    "b": "sugestão da firmeza do sertanejo ao arrear o cavalo.",
+    "c": "situação de pobreza encontrada nos sertões brasileiros.",
+    "d": "afetividade demonstrada ao noticiar a morte do cantador.",
+    "e": "preocupação do vaqueiro em demonstrar sua virilidade."
+   },
+   "resposta": "d",
+   "explicacao": "O lirismo da cena está no modo como Raimundinho dá a notícia: o braço que cai, o olhar comovido, o gesto de estalar a unha nos dentes, a lembrança de que tio Firmo “não era homem para deixar um verso no chão”, o “coitado!” e as lágrimas que ele esconde dando de esporas. É a afetividade ao noticiar a morte do velho cantador que carrega a passagem. O gado saindo (a) e o arrear do animal (b) são só o cenário; a pobreza (c) não é o foco; e esconder as lágrimas (e) não é afirmação de virilidade — é pudor que reforça, por contraste, a emoção."
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "enem-literatura-29",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O bebê de tarlatana rosa\n— [...] Na terça desliguei-me do grupo e caí no mar alto da depravação, só, com uma roupa leve por cima da pele e todos os maus instintos fustigados. De resto a cidade inteira estava assim. É o momento em que por trás das máscaras as meninas confessam paixões aos rapazes, é o instante em que as ligações mais secretas transparecem, em que a virgindade é dúbia, e todos nós a achamos inútil, a honra uma caceteação, o bom senso uma fadiga. Nesse momento tudo é possível, os maiores absurdos, os maiores crimes; nesse momento há um riso que galvaniza os sentidos e o beijo se desata naturalmente.\nEu estava trepidante, com uma ânsia de acanalhar-me, quase mórbida. Nada de raparigas do galarim perfumadas e por demais conhecidas, nada do contato familiar, mas o deboche anônimo, o deboche ritual de chegar, pegar, acabar, continuar. Era ignóbil. Felizmente muita gente sofre do mesmo mal no carnaval.",
+   "fonte_texto": "RIO, J. Dentro da noite. São Paulo: Antiqua, 2002.",
+   "enunciado": "No texto, o personagem vincula ao carnaval atitudes e reações coletivas diante das quais expressa",
+   "alternativas": {
+    "a": "consagração da alegria do povo.",
+    "b": "atração e asco perante atitudes libertinas.",
+    "c": "espanto com a quantidade de foliões nas ruas.",
+    "d": "intenção de confraternizar com desconhecidos.",
+    "e": "reconhecimento da festa como manifestação cultural."
+   },
+   "resposta": "b",
+   "explicacao": "O personagem se joga no “mar alto da depravação” com “ânsia de acanalhar-me”, quer o “deboche anônimo” — atração declarada — e no mesmo fôlego julga: “Era ignóbil”, “muita gente sofre do mesmo mal”. Atração e repulsa convivem no relato das atitudes libertinas do carnaval — o olhar decadentista típico do pré-modernismo de João do Rio. Não há celebração da alegria popular (a) nem leitura da festa como cultura (e); “confraternizar” (d) é eufemismo que apaga o tom de deboche e o asco; e o espanto não é com o número de foliões (c), mas com o que a máscara libera em todos, ele incluído."
   }
  ],
  "literatura-colonial-romantismo": [
@@ -20404,6 +21013,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Nísia Floresta faz da instrução o instrumento da emancipação: educar as mulheres é a condição para que alcancem igualdade de direitos, liberdade e autonomia, contra a subordinação e o silêncio que a sociedade patriarcal lhes impõe. Alternativa E. A alternativa A restringe o ganho ao espaço familiar, \"sem ambições externas\", quando é justamente a saída desse confinamento que ela defende; B limita a proposta às mulheres de classe alta e fala em superioridade sobre os homens, e ela pede igualdade; C e D deslocam o eixo para o abolicionismo e o projeto republicano, temas de outro momento e de outra obra."
+  },
+  {
+   "subtema": "literatura-colonial-romantismo",
+   "id": "enem-literatura-22",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A escrava\n— Admira-me —, disse uma senhora de sentimentos sinceramente abolicionistas —; faz-me até pasmar como se possa sentir, e expressar sentimentos escravocratas, no presente século, no século dezenove! A moral religiosa e a moral cívica aí se erguem, e falam bem alto esmagando a hidra que envenena a família no mais sagrado santuário seu, e desmoraliza, e avilta a nação inteira! Levantai os olhos ao Gólgota, ou percorrei-os em torno da sociedade, e dizei-me:\n— Para que se deu em sacrifício o Homem Deus, que ali exalou seu derradeiro alento? Ah! Então não é verdade que seu sangue era o resgate do homem! É então uma mentira abominável ter esse sangue comprado a liberdade!? E depois, olhai a sociedade... Não vedes o abutre que a corrói constantemente!… Não sentis a desmoralização que a enerva, o cancro que a destrói?\nPor qualquer modo que encaremos a escravidão, ela é, e será sempre um grande mal. Dela a decadência do comércio; porque o comércio e a lavoura caminham de mãos dadas, e o escravo não pode fazer florescer a lavoura; porque o seu trabalho é forçado.",
+   "fonte_texto": "REIS, M. F. Úrsula e outras obras. Brasília: Câmara dos Deputados, 2018.",
+   "enunciado": "Inscrito na estética romântica da literatura brasileira, o conto descortina aspectos da realidade nacional no século XIX ao",
+   "alternativas": {
+    "a": "revelar a imposição de crenças religiosas a pessoas escravizadas.",
+    "b": "apontar a hipocrisia do discurso conservador na defesa da escravidão.",
+    "c": "sugerir práticas de violência física e moral em nome do progresso material.",
+    "d": "relacionar o declínio da produção agrícola e comercial a questões raciais.",
+    "e": "ironizar o comportamento dos proprietários de terra na exploração do trabalho."
+   },
+   "resposta": "b",
+   "explicacao": "A personagem abolicionista se espanta com quem, “no século dezenove”, ainda defende a escravidão, e desmonta o discurso conservador pelos seus próprios valores: se a moral religiosa e a cívica “falam bem alto”, se o sangue de Cristo “comprou a liberdade” do homem, então sustentar a escravidão é hipocrisia — a “hidra” que corrói a família e a nação que dizem defender. A religião aparece como argumento contra a escravidão, não como imposição aos escravizados (a); o argumento econômico do fim (comércio e lavoura decaem com o trabalho forçado) é sobre a escravidão em si, não sobre raça (d); e não há violência descrita (c) nem ironia contra fazendeiros (e) — o tom é de indignação direta."
   }
  ],
  "literatura-modernismo": [
@@ -21801,6 +22431,27 @@ window.QUESTION_BANKS = {
    "explicacao": "O homem do poema “chateia-se na Terra”, vai à Lua, “coloniza, civiliza, humaniza” — e, entediado, repete o gesto em Marte: cada lugar humanizado vira “tão igual à Terra”, “lugar quadrado”. É a crítica de Krenak à humanidade que, movida pelo progresso, não sabe habitar o próprio lugar e o repete em série. O poema não culpa a ciência em si nem fala em governos ou em aniquilação de sociedades; e a Terra não é “superada” — é reproduzida, chata, em toda parte.",
    "resposta": "b",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "enem-literatura-26",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Era o êxodo da seca de 1898. Uma ressurreição de cemitérios antigos — esqueletos redivivos, com o aspecto terroso e o fedor das covas podres.\nOs fantasmas estropiados como que iam dançando, de tão trôpegos e trêmulos, num passo arrastado de quem leva as pernas, em vez de ser levado por elas.\nAndavam devagar, olhando para trás, como quem quer voltar. Não tinham pressa em chegar, porque não sabiam aonde iam. Expulsos de seu paraíso por espadas de fogo, iam, ao acaso, em descaminhos, no arrastão dos maus fados.\nFugiam do sol e o sol guiava-os nesse forçado nomadismo.\nAdelgaçados na magreira cômica, cresciam, como se o vento os levantasse. E os braços afinados desciam-lhes aos joelhos, de mãos abanando.\nVinham escoteiros. Menos os hidrópicos — de ascite consecutiva à alimentação tóxica — com os fardos das barrigas alarmantes.\nNão tinham sexo, nem idade, nem condição nenhuma. Eram os retirantes. Nada mais.",
+   "fonte_texto": "ALMEIDA, J. A. A bagaceira. Rio de Janeiro: J. Olympio, 1978.",
+   "enunciado": "Os recursos composicionais que inserem a obra no chamado “Romance de 30” da literatura brasileira manifestam-se aqui no(a)",
+   "alternativas": {
+    "a": "desenho cru da realidade dramática dos retirantes.",
+    "b": "indefinição dos espaços para efeito de generalização.",
+    "c": "análise psicológica da reação dos personagens à seca.",
+    "d": "engajamento político do narrador ante as desigualdades.",
+    "e": "contemplação lírica da paisagem transformada em alegoria."
+   },
+   "resposta": "a",
+   "explicacao": "O Romance de 30, segunda fase da prosa modernista, se define pelo regionalismo de denúncia social, e A bagaceira o inaugura: aqui os retirantes são “esqueletos redivivos” com “o fedor das covas podres”, barrigas de ascite, braços que descem aos joelhos — um retrato cru, quase clínico, da miséria da seca. É esse desenho direto da realidade dramática que marca a filiação. Não há análise psicológica (c) — os retirantes “não tinham sexo, nem idade, nem condição nenhuma”; o espaço é definido (a seca de 1898, o sertão) (b); o narrador descreve, sem discurso político explícito (d); e as imagens de morte e ruína não são contemplação lírica da paisagem (e), mas do sofrimento humano."
   }
  ],
  "literatura-teoria-analise": [
@@ -23755,6 +24406,69 @@ window.QUESTION_BANKS = {
    "explicacao": "A primeira estrofe é só luz e beleza; a segunda transfere a imagem à pessoa amada — “você também me lembra a alvorada quando chega iluminando meus caminhos tão sem vida” — e revela um eu-lírico desiludido, a quem “resta bem pouco, quase nada”, vagando “numa estrada perdida”. A alvorada e a amada iluminam, mas sobre um fundo de desesperança: não há harmonia plena, não se fala da pobreza dos moradores, e a estrada perdida é o presente do eu-lírico, não um futuro transformado.",
    "resposta": "c",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "enem-literatura-21",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "PALAVRA – As gramáticas classificam as palavras em substantivo, adjetivo, verbo, advérbio, conjunção, pronome, numeral, artigo e preposição. Os poetas classificam as palavras pela alma porque gostam de brincar com elas, e para brincar com elas é preciso ter intimidade primeiro. É a alma da palavra que define, explica, ofende ou elogia, se coloca entre o significante e o significado para dizer o que quer, dar sentimento às coisas, fazer sentido. A palavra nuvem chove. A palavra triste chora. A palavra sono dorme. A palavra tempo passa. A palavra fogo queima. A palavra faca corta. A palavra carro corre. A palavra “palavra” diz. O que quer. E nunca desdiz depois. As palavras têm corpo e alma, mas são diferentes das pessoas em vários pontos.\nAs palavras dizem o que querem, está dito, e pronto.",
+   "fonte_texto": "FALCÃO, A. Pequeno dicionário de palavras ao vento. São Paulo: Salamandra, 2013 (adaptado).",
+   "enunciado": "Esse texto, que simula um verbete para a palavra “palavra”, constitui-se como um poema porque",
+   "alternativas": {
+    "a": "tematiza o fazer poético, como em “Os poetas classificam as palavras pela alma”.",
+    "b": "utiliza o recurso expressivo da metáfora, como em “As palavras têm corpo e alma”.",
+    "c": "valoriza a gramática da língua, como em “substantivo, adjetivo, verbo, advérbio, conjunção”.",
+    "d": "estabelece comparações, como em “As palavras têm corpo e alma, mas são diferentes das pessoas”.",
+    "e": "apresenta informações pertinentes acerca do conceito de “palavra”, como em “As gramáticas classificam as palavras”."
+   },
+   "resposta": "b",
+   "explicacao": "O que tira o texto do registro do dicionário é a linguagem figurada: palavras que têm alma, “a palavra nuvem chove”, “a palavra faca corta”, “as palavras têm corpo e alma”. São metáforas, e é esse trabalho com a conotação que muda o gênero literário: faz do verbete um poema. Falar sobre poesia (a) não torna um texto poético — um ensaio também tematiza o fazer poético; a lista de classes gramaticais (c) e a definição objetiva (e) são justamente a parte de verbete que o texto imita; e o exemplo de (d) não é comparação, e sim a mesma metáfora do corpo e da alma."
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "enem-literatura-23",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Mas seu olhar verde, inconfundível, impressionante, iluminava com sua luz misteriosa as sombrias arcadas superciliares, que pareciam queimadas por ela, dizia logo a sua origem cruzada e decantada através das misérias e dos orgulhos de homens de aventura, contadores de histórias fantásticas, e de mulheres caladas e sofredoras, que acompanhavam os maridos e amantes através das matas intermináveis, expostas às febres, às feras, às cobras do sertão indecifrável, ameaçador e sem fim, que elas percorriam com a ambição única de um “pouso” onde pudessem viver, por alguns dias, a vida ilusória de família e de lar, sempre no encalço dos homens, enfebrados pela procura do ouro e do diamante.",
+   "fonte_texto": "PENNA, C. Fronteira. Rio de Janeiro: Tecnoprint, s/d.",
+   "enunciado": "Ao descrever os olhos de Maria Santa, o narrador estabelece correlações que refletem a",
+   "alternativas": {
+    "a": "caracterização da personagem como mestiça.",
+    "b": "construção do enredo de conquistas da família.",
+    "c": "relação conflituosa das mulheres e seus maridos.",
+    "d": "nostalgia do desejo de viver como os antepassados.",
+    "e": "marca de antigos sofrimentos no fluxo de consciência."
+   },
+   "resposta": "e",
+   "explicacao": "O olhar de Maria Santa não é descrito em si: ele dispara, num único período longo e associativo, uma cadeia de lembranças ancestrais — as “misérias e orgulhos” dos aventureiros, as “mulheres caladas e sofredoras” expostas a febres, feras e cobras, a vida ilusória de lar sempre adiada. É o fluxo de consciência do narrador, típico do romance intimista de Cornélio Penna, trazendo à tona a herança de antigos sofrimentos que os olhos carregam. A “origem cruzada” (a) é apenas o gatilho, não o conteúdo das correlações, que estão no sofrimento herdado; não há enredo de conquistas (b), conflito conjugal descrito (c) nem nostalgia — o passado evocado é de dor, não de desejo (d)."
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "enem-literatura-31",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Vanda vinha do interior de Minas Gerais e de dentro de um livro de Charles Dickens. Sem dinheiro para criá-la, sua mãe a dera, com seus sete anos, a uma conhecida. Ao recebê-la, a mulher perguntou o que a garotinha gostava de comer. Anotou tudo num papel. Mal a mãe virou as costas, no entanto, a fulana amassou a lista e, como uma vilã de folhetim, decretou: “A partir de hoje, você não vai mais nem sentir o cheiro dessas comidas!”.\nVanda trabalhou lá até os quinze anos, quando recebeu a carta de uma prima com uma nota de cem cruzeiros, saiu de casa com a roupa do corpo e fugiu num ônibus para São Paulo.\nTodas as vezes que eu e minha irmã a importunávamos com nossas demandas de criança mimada, ela nos contava histórias da infância de gata-borralheira, fazia-nos apertar seu nariz quebrado por uma das filhas da “patroa” com um rolo de amassar pão e nos expulsava da cozinha: “Sai pra lá, peste, e me deixa acabar essa janta”.",
+   "fonte_texto": "PRATA, A. Nu de botas. São Paulo: Cia. das Letras, 2013 (adaptado).",
+   "enunciado": "Pela ótica do narrador, a trajetória da empregada de sua casa assume um efeito expressivo decorrente da",
+   "alternativas": {
+    "a": "citação a referências literárias tradicionais.",
+    "b": "alusão à inocência das crianças da época.",
+    "c": "estratégia de questionar a bondade humana.",
+    "d": "descrição detalhada das pessoas do interior.",
+    "e": "representação anedótica de atos de violência."
+   },
+   "resposta": "e",
+   "explicacao": "A vida de Vanda é feita de violências — entregue aos sete anos, privada da comida de que gostava, nariz quebrado com um rolo de pão —, mas o narrador as conta em tom de anedota: a vilã “de folhetim” que amassa a lista, a infância “de gata-borralheira”, o nariz que as crianças apertavam como brincadeira, o “sai pra lá, peste”. É essa representação anedótica de atos violentos que produz o efeito expressivo. Dickens e o folhetim (a) são recursos da anedota, não seu efeito; não há descrição detalhada de gente do interior (d); e o texto não discute a bondade humana (c) nem a inocência das crianças (b) — os “mimados” são o narrador e a irmã, ouvintes das histórias."
   }
  ],
  "literatura-contemporanea": [
@@ -25661,6 +26375,27 @@ window.QUESTION_BANKS = {
    "explicacao": "O trecho é um único fluxo sem vírgulas nem pontos, encadeado por “e”, “daí”, “certo”: a fala corre sem pausa, o que acelera a narrativa e traduz a ansiedade da personagem, que devora as ameixas “sem conseguir parar”. As orações “foi então que vi”, “foi aí que eu reparei” organizam a sequência em vez de rompê-la, e a narrativa continua clara e ordenada — não há ambiguidade nem desorganização das ações.",
    "resposta": "b",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "enem-literatura-30",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "10 de maio\nFui na delegacia e falei com o tenente. Que homem amavel! Se eu soubesse que ele era tão amavel, eu teria ido na delegacia na primeira intimação. [...] O tenente interessou-se pela educação dos meus filhos. Disse-me que a favela é um ambiente propenso, que as pessoas tem mais possibilidade de delinquir do que tornar-se util a patria e ao país. Pensei: se ele sabe disto, porque não faz um relatorio e envia para os politicos? O senhor Janio Quadros, o Kubstchek e o Dr. Adhemar de Barros? Agora falar para mim, que sou uma pobre lixeira. Não posso resolver nem as minhas dificuldades.\n... O Brasil precisa ser dirigido por uma pessoa que já passou fome. A fome tambem é professora.\nQuem passa fome aprende a pensar no próximo, e nas crianças.",
+   "fonte_texto": "JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.",
+   "enunciado": "A partir da intimação recebida pelo filho de 9 anos, a autora faz uma reflexão em que transparece a",
+   "alternativas": {
+    "a": "lição de vida comunicada pelo tenente.",
+    "b": "predisposição materna para se emocionar.",
+    "c": "atividade política marcante da comunidade.",
+    "d": "resposta irônica ante o discurso da autoridade.",
+    "e": "necessidade de revelar seus anseios mais íntimos."
+   },
+   "resposta": "d",
+   "explicacao": "Ao sermão do tenente sobre a favela como “ambiente propenso” à delinquência, Carolina Maria de Jesus, em Quarto de despejo, responde por dentro com ironia: se ele sabe disso, “porque não faz um relatorio e envia para os politicos?” — Jânio, Kubitschek, Adhemar — “agora falar para mim, que sou uma pobre lixeira”. A reflexão vira o discurso da autoridade contra ela mesma e conclui que quem deveria governar é quem “já passou fome”. Não é lição aceita (a) — é devolvida; não há emoção materna em cena (b), nem atividade política da comunidade (c); e a autora expõe uma crítica social, não anseios íntimos (e)."
   }
  ],
  "ingles-inference": [
@@ -29049,6 +29784,48 @@ window.QUESTION_BANKS = {
    "explicacao": "O pedinte com a placa “HELP THE NEEDY” não recebe nada, enquanto a barraca do “COIN TOSS GAME” transborda de moedas: “in this place money is for playing games”. A crítica é ao público de Wall St., que gasta com jogo e ignora quem precisa — a necessidade social passa em branco. Não se trata de comparar dois pedintes nem de status financeiro entre transeuntes; e a alternativa sobre “lidar com dinheiro é um jogo” descreve o mecanismo da piada, não o alvo da crítica, que é a indiferença.",
    "resposta": "c",
    "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "enem-ingles-10",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "[Tirinha em quatro quadros. Em cada um, um homem de cartola conversa com uma mulher, num castelo repleto de estantes de livros.]\n1 — Homem: “NOW THAT YOU ARE MY BRIDE, YOU WILL NEVER LEAVE THIS CASTLE!”\nMulher: “WOW! YOUR LIBRARY IS AMAZING!”\n2 — Homem: “BEYOND THE CASTLE IS A HIGH WALL WITH NO GATE, AND BEYOND THAT IS A DEEP, DARK FOREST WITH NO PATH.”\nMulher: “I SUPPOSE IT’S MY LIBRARY TOO, NOW WE’RE MARRIED.”\n3 — Homem: “THE FOREST IS CRAWLING WITH RAVENOUS WOLVES, MALIGNANT BIRDS AND THE SPIRITS OF LONG-DEAD TRAVELLERS.”\nMulher: “SO MANY BOOKS! I CAN’T BELIEVE MY LUCK!”\n4 — Homem: “WHEN THE SUN SETS, I TRANSFORM INTO A WILD BEAST AND SOAR INTO THE NIGHT, SEIZED BY A TERRIBLE BLOODLUST!”\nMulher: “OK. I’LL STAY HERE AND READ. SEE YOU IN THE MORNING.”",
+   "fonte_texto": "GAULD, T. Disponível em: www.tomgauld.com. Acesso em: 25 out. 2021.",
+   "enunciado": "Nessa tirinha, o comportamento da mulher expressa",
+   "alternativas": {
+    "a": "revolta com a falta de sorte.",
+    "b": "gosto pela prática da leitura.",
+    "c": "receio pelo futuro do casamento.",
+    "d": "entusiasmo com os livros de terror.",
+    "e": "rejeição ao novo tipo de residência."
+   },
+   "resposta": "b",
+   "explicacao": "O humor nasce do descompasso: enquanto o marido acumula ameaças góticas (muro sem portão, floresta com lobos, transformação em fera sanguinária), a mulher só reage aos livros — “your library is amazing”, “so many books! I can’t believe my luck!”, “I’ll stay here and read”. Infere-se, portanto, que o que ela expressa é o gosto pela leitura, que a deixa indiferente ao resto. Ela se diz sortuda, não revoltada (a); não demonstra medo do casamento (c) nem rejeição ao castelo, que aceita de bom grado (e); e nada indica que os livros sejam de terror — o terror está nas falas do marido, não nas estantes (d)."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "enem-ingles-12",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "I tend the mobile now\nlike an injured bird\nWe text, text, text\nour significant words.\nI re-read your first,\nyour second, your third,\nLook for your small xx,\nfeeling absurd.\nThe codes we send\narrive with a broken chord.\nI try to picture your hands,\ntheir image is blurred.\nNothing my thumbs press\nwill ever be heard.",
+   "fonte_texto": "DUFFY, C. Disponível em: www.independent.co.uk. Acesso em: 27 out. 2021.",
+   "enunciado": "Nesse poema, o eu lírico evidencia um sentimento de",
+   "alternativas": {
+    "a": "contentamento com a interação virtual.",
+    "b": "zelo com o envio de mensagens.",
+    "c": "preocupação com a composição de textos.",
+    "d": "mágoa com o comportamento de alguém.",
+    "e": "insatisfação com uma forma de comunicação."
+   },
+   "resposta": "e",
+   "explicacao": "As imagens são todas de falta: o celular tratado “like an injured bird”, o eu lírico “feeling absurd” ao procurar os beijinhos (“xx”), os códigos que chegam “with a broken chord”, as mãos do outro que ele tenta imaginar e vê borradas, e o fecho — “nothing my thumbs press will ever be heard”. Depreende-se que a insatisfação é com a própria comunicação por mensagens de texto, que não substitui a voz e o toque. Não há contentamento (a); o cuidado ao reler as mensagens (b) é sintoma, não o sentimento central; e a mágoa não é com o outro (d), que não é acusado de nada — é com o meio."
   }
  ],
  "ingles-grammar-structure": [
@@ -31777,6 +32554,48 @@ window.QUESTION_BANKS = {
    "explicacao": "Garber chama as demandas de “direct governmental regulation of the intellectual conditions at Harvard” e conclui: “No government should dictate what universities can teach” — a universidade “will not surrender its independence”. É a defesa da autonomia universitária contra o controle do governo. Ele não diz que as acusações são inconstitucionais (o que é constitucional são os direitos da universidade), não fala em comparar ideologias e afirma explicitamente que já tomou medidas contra o antissemitismo.",
    "resposta": "d",
    "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "enem-ingles-08",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As my official bio reads, I was made in Cuba, assembled in Spain, and imported to the United States — meaning my mother, seven months pregnant, and the rest of my family arrived as exiles from Cuba to Madrid, where I was born. Less than two months later, we emigrated once more and settled in New York City, then eventually in Miami, where I was raised and educated. Although technically we lived in the United States, the Cuban community was culturally insular in Miami during the 1970s, bonded together by the trauma of exile. What’s more, it seemed that practically everyone was Cuban: my teachers, my classmates, the mechanic, the bus driver. I didn’t grow up feeling different or treated as a minority. The few kids who got picked on in my grade school were the ones with freckles and funny last names like Dawson and O’Neil.",
+   "fonte_texto": "BLANCO, R. Disponível em: http://edition.cnn.com. Acesso em: 9 dez. 2017 (adaptado).",
+   "enunciado": "Ao relatar suas vivências, o autor destaca o(a)",
+   "alternativas": {
+    "a": "qualidade da educação formal em Miami.",
+    "b": "prestígio da cultura cubana nos Estados Unidos.",
+    "c": "oportunidade de qualificação profissional em Miami.",
+    "d": "cenário da integração de cubanos nos Estados Unidos.",
+    "e": "fortalecimento do elo familiar em comunidades estadunidenses."
+   },
+   "resposta": "d",
+   "explicacao": "O relato converge para a Miami dos anos 1970, onde a comunidade cubana era “culturally insular”, unida pelo trauma do exílio, e onde “practically everyone was Cuban” — professores, colegas, mecânico, motorista. Por isso o autor não cresceu se sentindo diferente nem tratado como minoria: é o retrato de como os cubanos se integraram (entre si e no país) nos Estados Unidos. Nada no texto avalia a qualidade da escola (a) nem fala de qualificação profissional (c); “prestígio” (b) exagera o que é apenas presença numérica; e a família aparece só como ponto de partida do exílio, não como tema (e)."
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "enem-ingles-09",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Two hundred years ago, Jane Austen lived in a world where single men boasted vast estates; single ladies were expected to speak several languages, sing and play the piano. In both cases, it was, of course, advantageous if you looked good too. So, how much has — or hasn’t — changed? Dating apps opaquely outline the demands of today’s relationship market; users ruminate long and hard over their choice of pictures and what they write in their biographies to hook in potential lovers, and that’s just your own profile. What do you look for in a future partner’s profile — potential signifiers of a popular personality, a good job, a nice car? These apps are a poignant reminder of the often classist attitudes we still adopt, as well as the financial and aesthetic expectations we demand from potential partners.",
+   "fonte_texto": "GALER, S. Disponível em: www.bbc.com. Acesso em: 8 dez. 2017 (adaptado).",
+   "enunciado": "O texto aborda relações interpessoais com o objetivo de",
+   "alternativas": {
+    "a": "problematizar o papel de gênero em casamentos modernos.",
+    "b": "apontar a relevância da educação formal na escolha de parceiros.",
+    "c": "comparar a expectativa de parceiros amorosos em épocas distintas.",
+    "d": "discutir o uso de aplicativos para proporcionar encontros românticos.",
+    "e": "valorizar a importância da aparência física na seleção de pretendentes."
+   },
+   "resposta": "c",
+   "explicacao": "A estrutura é a de um paralelo: o mundo de Jane Austen, duzentos anos atrás (propriedades, línguas, piano, boa aparência), e a pergunta-eixo “how much has — or hasn’t — changed?”, respondida com o que se busca hoje nos perfis (personalidade popular, bom emprego, carro bonito). O ponto é que as expectativas classistas, financeiras e estéticas persistem entre as épocas. Os aplicativos são o exemplo atual, não o objeto da discussão (d); a aparência é citada como uma exigência entre outras, não valorizada (e); e não há discussão de papéis de gênero (a) nem de educação formal (b)."
   }
  ],
  "ingles-detail": [
@@ -36392,6 +37211,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Outright qualifica uma proibição completa, total. Thorough é a única opção com esse valor de abrangência; partial e confined o contradizem, e legal/illicit tratam de legalidade."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "enem-ingles-11",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A Teen’s View of Social Media\nInstagram is made up of all photos and videos. There is the home page that showcases the posts from people you follow, an explore tab which offers posts from accounts all over the world, and your own page, with a notification tab to show who likes and comments on your posts.\nIt has some downsides though. It is known to make many people feel insecure or down about themselves because the platform showcases the highlights of everyone’s lives, while rarely showing the negatives. This can make one feel like their life is not going as well as others, contributing to the growing rates of anxiety or depression in many teens today. There is an underlying desire for acceptance through the number of likes or followers one has.",
+   "fonte_texto": "Disponível em: https://cyberbullying.org. Acesso em: 29 out. 2021.",
+   "enunciado": "O termo “downsides” introduz a ideia de que o Instagram é responsável por",
+   "alternativas": {
+    "a": "oferecer recursos de fotografia.",
+    "b": "divulgar problemas dos usuários.",
+    "c": "estimular aceitação dos seguidores.",
+    "d": "provocar ansiedade nos adolescentes.",
+    "e": "aproximar pessoas ao redor do mundo."
+   },
+   "resposta": "d",
+   "explicacao": "“Downsides” são desvantagens, e o parágrafo que a palavra abre lista exatamente o lado ruim: a plataforma faz muita gente se sentir insegura, mostra só os pontos altos da vida alheia e, com isso, contribui para “the growing rates of anxiety or depression in many teens”. Recursos de foto (a) e alcance mundial (e) estão no primeiro parágrafo, o dos aspectos neutros ou positivos. O texto diz que a rede esconde os negativos, e não que os divulga (b); e a busca de aceitação por curtidas é apresentada como sintoma do problema, não como estímulo saudável (c)."
   }
  ],
  "matematica-geometria": [
@@ -40444,6 +41284,106 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A distância entre centros consecutivos é (q−1)rₖ√(m²+1), e a tangência externa exige que ela seja (q+1)rₖ. Resolvendo, q = (s+1)/(s−1), s = √(m²+1); racionalizando, q = ((s+1)/m)². A razão da progressão geométrica também determina o termo geral da sequência."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-66",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma loja comercializa cinco modelos de caixas-d'água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e área da base é Ab, como segue:\n• modelo II: o dobro da profundidade e a metade da área da base do modelo I;\n• modelo III: o dobro da profundidade e a metade do raio da base do modelo I;\n• modelo IV: a metade da profundidade e o dobro da área da base do modelo I;\n• modelo V: a metade da profundidade e o dobro do raio da base do modelo I.\nUma pessoa pretende comprar nessa loja o modelo de caixa-d'água que ofereça a maior capacidade volumétrica.",
+   "enunciado": "O modelo escolhido deve ser o",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "e",
+   "explicacao": "O volume do cilindro é V = Ab × P. Modelo II: (Ab/2) × 2P = V. Modelo IV: 2Ab × (P/2) = V. Nos modelos III e V a mudança é no RAIO, e a área da base varia com o quadrado do raio: metade do raio dá área Ab/4, logo o modelo III tem (Ab/4) × 2P = V/2; o dobro do raio dá área 4Ab, logo o modelo V tem 4Ab × (P/2) = 2V, o maior de todos. A pegadinha é ler \"dobro do raio\" como \"dobro da área\" — aí II, IV e V empatariam com I."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-70",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda.",
+   "enunciado": "Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+   "alternativas": {
+    "a": "2",
+    "b": "3",
+    "c": "6",
+    "d": "12",
+    "e": "24"
+   },
+   "resposta": "e",
+   "explicacao": "Dobrar o diâmetro multiplica o volume da esfera por 2³ = 8: cada docinho de 4 cm gasta a massa de 8 docinhos de 2 cm. Os 150 docinhos grandes equivalem a 150 × 8 = 1 200 docinhos pequenos, e cada porção rende 50, logo 1 200/50 = 24 porções. Quem trata o volume como proporcional ao diâmetro chega a 6 (150 × 2/50) e quem usa o quadrado, como se fosse área, chega a 12."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-71",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma empresa produz e vende um tipo de chocolate, maciço, em formato de cone circular reto com as medidas do diâmetro da base e da altura iguais a 8 cm e 10 cm, respectivamente.\nDevido a um aumento de preço dos ingredientes utilizados na produção desse chocolate, a empresa decide produzir esse mesmo tipo de chocolate com um volume 19% menor, no mesmo formato de cone circular reto com altura de 10 cm.",
+   "enunciado": "Para isso, a empresa produzirá esses novos chocolates com medida do raio da base, em centímetro, igual a",
+   "alternativas": {
+    "a": "1,52.",
+    "b": "3,24.",
+    "c": "3,60.",
+    "d": "6,48.",
+    "e": "7,20."
+   },
+   "resposta": "c",
+   "explicacao": "Com a altura fixa, o volume do cone (πr²h/3) é proporcional ao quadrado do raio. O raio original é 4 cm; o novo volume é 81% do antigo, logo r² = 0,81 × 16 = 12,96 e r = 3,6 cm. Aplicar os 19% diretamente no raio dá 0,81 × 4 = 3,24 (alternativa B), e aplicar no diâmetro dá 6,48 — os dois erros vêm de esquecer que a redução no volume se traduz na raiz quadrada da redução no raio."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-85",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um casal planeja construir em sua chácara uma piscina com o formato de um paralelepípedo reto retângulo com capacidade para 90 000 L de água. O casal contratou uma empresa de construções que apresentou cinco projetos com diferentes combinações nas dimensões internas de profundidade, largura e comprimento. A piscina a ser construída terá revestimento interno em suas paredes e fundo com uma mesma cerâmica, e o casal irá escolher o projeto que exija a menor área de revestimento.\nAs dimensões internas de profundidade, largura e comprimento, respectivamente, para cada um dos projetos, são:\n• projeto I: 1,8 m, 2,0 m e 25,0 m;\n• projeto II: 2,0 m, 5,0 m e 9,0 m;\n• projeto III: 1,0 m, 6,0 m e 15,0 m;\n• projeto IV: 1,5 m, 15,0 m e 4,0 m;\n• projeto V: 2,5 m, 3,0 m e 12,0 m.",
+   "enunciado": "O projeto que o casal deverá escolher será o",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "b",
+   "explicacao": "Todos os projetos têm 90 m³ (90 000 L); o que muda é a área a revestir: fundo (largura × comprimento) mais as quatro paredes, 2 × profundidade × (largura + comprimento). I: 50 + 2 × 1,8 × 27 = 147,2 m²; II: 45 + 2 × 2 × 14 = 101 m²; III: 90 + 2 × 1 × 21 = 132 m²; IV: 60 + 2 × 1,5 × 19 = 117 m²; V: 36 + 2 × 2,5 × 15 = 111 m². A menor área é a do projeto II. Quem esquece o fundo ou conta só o piso (o que favoreceria o V, com 36 m²) erra a escolha."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-87",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.",
+   "enunciado": "Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+   "alternativas": {
+    "a": "800",
+    "b": "1 200",
+    "c": "2 400",
+    "d": "4 800",
+    "e": "6 400"
+   },
+   "resposta": "d",
+   "explicacao": "Volume do cilindro: π × 4² × 50 = 800π cm³. Cada esfera tem raio 0,5 cm e volume (4/3)π × 0,5³ = (4/3)π × 0,125 = π/6 cm³. Número de esferas: 800π ÷ (π/6) = 4 800. O erro clássico é usar o diâmetro 1 cm como raio, o que dá volume (4/3)π por esfera e leva a 600 (não listado) — ou trocar a fração e chegar a 1 200 ou 2 400."
   }
  ],
  "matematica-financeira": [
@@ -44365,6 +45305,308 @@ window.QUESTION_BANKS = {
    "explicacao": "A afirmação precisa valer nos três conclaves. Europa e África: cerca de 50% + 10% em 2005, 52% + 10% em 2013 e 39,3% + 13,3% = 52,6% em 2025 — sempre acima de 50%. América Latina e África somam por volta de 27% a 30%, nunca 40%; Ásia, Oceania e África ficam perto de 20% em 2005 e 2013; e Ásia, Oceania, EUA e Canadá dão cerca de 21% em 2005 e 30,4% em 2025 — não são 30% em cada conclave.",
    "resposta": "c",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-62",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e R$ 12 000,00.\nA diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores.",
+   "enunciado": "Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,",
+   "alternativas": {
+    "a": "14,4.",
+    "b": "20,7.",
+    "c": "22,0.",
+    "d": "30,0.",
+    "e": "37,5."
+   },
+   "resposta": "d",
+   "explicacao": "São 100 professores; média de no máximo R$ 12 240,00 significa folha total de no máximo 100 × 12 240 = R$ 1 224 000,00. Os 60 mestres, com 25% de aumento, passam a receber 60 × 10 000 = R$ 600 000,00. Sobram 1 224 000 − 600 000 = R$ 624 000,00 para os 40 doutores, ou seja, R$ 15 600,00 cada um. De 12 000 para 15 600 o reajuste é de 3 600/12 000 = 30%. O erro mais comum é esquecer que o teto é sobre a MÉDIA de todos e não sobre o salário do doutor: quem trata 12 240 como o novo salário do doutor acha 2%, e quem esquece o reajuste dos mestres estoura a folga e chega a valores bem maiores."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-63",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos.",
+   "enunciado": "A quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é",
+   "alternativas": {
+    "a": "0,125.",
+    "b": "0,200.",
+    "c": "4,800.",
+    "d": "6,000.",
+    "e": "12,000."
+   },
+   "resposta": "b",
+   "explicacao": "É uma regra de três disfarçada pela unidade. Em 60 dias há 60 × 24 × 60 = 86 400 minutos; a cada 48 minutos um acionamento dá 86 400/48 = 1 800 acionamentos. Os 360 mL divididos por 1 800 rendem 0,2 mL por acionamento. A armadilha está na conversão: quem conta 60 × 24 = 1 440 e divide por 48 (tratando 48 como se fossem horas) obtém 30 acionamentos e chega aos 12 mL da última alternativa."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-64",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol.\nSuponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias.",
+   "enunciado": "No planeta Z, seu ano corresponderia a quantos de seus dias?",
+   "alternativas": {
+    "a": "2,5",
+    "b": "10,0",
+    "c": "730,0",
+    "d": "13 322,5",
+    "e": "53 290,0"
+   },
+   "resposta": "a",
+   "explicacao": "Um ano de Z é metade do ano terrestre: 365/2 = 182,5 dias terrestres. Como um dia de Z dura 73 dias terrestres, o ano de Z tem tantos dias de Z quanto a razão 182,5/73 = 2,5. É preciso medir as duas grandezas na mesma unidade (dias terrestres) e depois dividir: 13 322,5 é o produto 182,5 × 73 (quem multiplica em vez de dividir) e 730 é 2 × 365 (quem inverte a proporção entre os anos)."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-65",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal.\nUma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a pagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado.",
+   "enunciado": "O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi",
+   "alternativas": {
+    "a": "R$ 2,00 menor.",
+    "b": "R$ 100,00 menor.",
+    "c": "R$ 200,00 menor.",
+    "d": "R$ 42,00 maior.",
+    "e": "R$ 80,00 maior."
+   },
+   "resposta": "a",
+   "explicacao": "O preço normal é 1 000 × 1,10 = R$ 1 100,00; com 2% de desconto sobre ele, a loja cobra 1 100 × 0,98 = R$ 1 078,00. A cliente calculou 1 000 × 1,08 = R$ 1 080,00. A loja apresentou, portanto, R$ 2,00 a menos. O ponto da questão é que aumentar 10% e depois descontar 2% não é o mesmo que aumentar 8%: os percentuais sucessivos incidem sobre bases diferentes, e a diferença é justamente 2% de 10% de 1 000 = R$ 2,00."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-67",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses valores, para um mesmo imóvel, no mercado imobiliário dessa cidade.\n[Gráfico 1 — Valor mensal do aluguel (R$), por ano:]\n2005: 630; 2007: 960; 2009: 1 350; 2011: 1 800; 2013: 3 240.\n[Gráfico 2 — Valor de mercado do imóvel (milhar de R$), por ano:]\n2005: 90; 2007: 120; 2009: 270; 2011: 450; 2013: 540.\nA rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel.",
+   "enunciado": "Com base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?",
+   "alternativas": {
+    "a": "2005",
+    "b": "2007",
+    "c": "2009",
+    "d": "2011",
+    "e": "2013"
+   },
+   "resposta": "b",
+   "explicacao": "Basta dividir aluguel por valor de mercado (em reais) ano a ano: 2005: 630/90 000 = 0,7%; 2007: 960/120 000 = 0,8%; 2009: 1 350/270 000 = 0,5%; 2011: 1 800/450 000 = 0,4%; 2013: 3 240/540 000 = 0,6%. A maior razão é a de 2007. Quem olha só o aluguel mais alto marca 2013, mas rentabilidade é razão, e em 2013 o valor do imóvel subiu ainda mais que o aluguel."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-69",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social.\nCinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro.\nOperário; Preço por hora (real); Preço do transporte (real); Tempo até conclusão (hora)\nI; 120; 0,00; 8\nII; 180; 0,00; 6\nIII; 170; 20,00; 6\nIV; 110; 10,00; 9\nV; 110; 0,00; 10",
+   "enunciado": "Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "a",
+   "explicacao": "O custo total é preço por hora × tempo + transporte: I: 120 × 8 = 960; II: 180 × 6 = 1 080; III: 170 × 6 + 20 = 1 040; IV: 110 × 9 + 10 = 1 000; V: 110 × 10 = 1 100. O menor é o operário I, R$ 960,00. Quem escolhe pelo menor preço por hora (IV ou V) ou pelo menor tempo (II ou III) erra: é o produto, somado ao transporte, que decide."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-72",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja, foram criadas 28 900 vagas de emprego, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged), divulgados pelo Ministério do Trabalho e Emprego (MTE). Segundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75%, quando comparado com o mesmo período de 2012.",
+   "fonte_texto": "Disponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).",
+   "enunciado": "De acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi",
+   "alternativas": {
+    "a": "16 514.",
+    "b": "86 700.",
+    "c": "115 600.",
+    "d": "441 343.",
+    "e": "448 568."
+   },
+   "resposta": "c",
+   "explicacao": "Se houve queda de 75%, as 28 900 vagas de 2013 são 25% do valor de 2012: x = 28 900/0,25 = 115 600. O erro típico é multiplicar por 3 em vez de por 4 (86 700), como se \"queda de 75%\" fosse \"três vezes menos\"; 441 343 e 448 568 são 25% dos desligamentos e das admissões, números que não entram na conta."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-75",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo.\nA empresa que comercializa esse jogo decidiu criar um pacote especial que será vendido a R$ 100,00 e que se diferenciará do pacote básico por apresentar maiores quantidades de gemas e moedas de ouro. Para estimular as vendas desse novo pacote, a empresa decidiu inserir nele 6 000 gemas a mais, em relação ao que o cliente teria caso optasse por comprar, com a mesma quantia, dois pacotes básicos.",
+   "enunciado": "A quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é",
+   "alternativas": {
+    "a": "50 000.",
+    "b": "100 000.",
+    "c": "200 000.",
+    "d": "300 000.",
+    "e": "400 000."
+   },
+   "resposta": "e",
+   "explicacao": "Dois pacotes básicos dariam 4 000 gemas; o especial terá 4 000 + 6 000 = 10 000 gemas. A proporção do básico é 2 000 gemas para 100 000 moedas, isto é, 50 moedas por gema, então o especial precisa conter 10 000 × 50 = 500 000 moedas. O pacote especial é o básico com itens a mais (ele \"se diferencia do básico por apresentar maiores quantidades\"), e o básico já traz 100 000 moedas: a empresa deve INSERIR 500 000 − 100 000 = 400 000 moedas. Quem responde pelo total (500 000) não encontra opção; 300 000 é a diferença em relação a DOIS básicos (200 000), leitura tentadora porque as gemas foram comparadas com dois pacotes — mas o que se insere é no pacote especial, que parte de um básico."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-77",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado para a página de vendas do produto. Esse anúncio foi divulgado em duas redes sociais, A e B, e foram obtidos os seguintes resultados:\n• rede social A: o anúncio foi visualizado por 3 000 pessoas; 10% delas clicaram sobre o anúncio e foram redirecionadas para o site; 3% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 100,00;\n• rede social B: o anúncio foi visualizado por 1 000 pessoas; 30% delas clicaram sobre o anúncio e foram redirecionadas para o site; 2% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 200,00.\nPor experiência, o pessoal da equipe de marketing considera que a quantidade de novas pessoas que verão o anúncio é diretamente proporcional ao investimento realizado, e que a quantidade de pessoas que comprarão o produto também se manterá proporcional à quantidade de pessoas que clicarão sobre o anúncio.\nO responsável pelo produto decidiu, então, investir mais R$ 300,00 em cada uma das duas redes sociais para a divulgação desse anúncio e obteve, de fato, o aumento proporcional esperado na quantidade de clientes que compraram esse produto. Para classificar o aumento obtido na quantidade (Q) de compradores desse produto, em consequência dessa segunda divulgação, em relação aos resultados observados na primeira divulgação, o responsável pelo produto adotou o seguinte critério:\n• Q ≤ 60%: não satisfatório;\n• 60% < Q ≤ 100%: regular;\n• 100% < Q ≤ 150%: bom;\n• 150% < Q ≤ 190%: muito bom;\n• 190% < Q ≤ 200%: excelente.",
+   "enunciado": "O aumento na quantidade de compradores, em consequência dessa segunda divulgação, em relação ao que foi registrado com a primeira divulgação, foi classificado como",
+   "alternativas": {
+    "a": "não satisfatório.",
+    "b": "regular.",
+    "c": "bom.",
+    "d": "muito bom.",
+    "e": "excelente."
+   },
+   "resposta": "c",
+   "explicacao": "Primeira divulgação: A teve 3 000 × 10% = 300 cliques e 3% deles = 9 compradores; B teve 1 000 × 30% = 300 cliques e 2% = 6 compradores; total 15. Na segunda, R$ 300,00 em A é o triplo dos R$ 100,00 iniciais, então 9 000 visualizações → 900 cliques → 27 compradores; em B, R$ 300,00 é 1,5 vez os R$ 200,00, então 1 500 visualizações → 450 cliques → 9 compradores; total 36. O aumento é (36 − 15)/15 = 140%, faixa \"bom\". O erro mais frequente é somar R$ 300,00 aos investimentos anteriores (400 e 500) e escalar por isso, ou tomar 36/15 = 240% como o aumento, o que estouraria a escala."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-80",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador novo. Observando a planta da nova cozinha, desenhada na escala de 1 : 50, notaram que o espaço destinado ao refrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem que os fabricantes de refrigeradores indicam que, para um bom funcionamento e fácil manejo na limpeza, esses eletrodomésticos devem ser colocados em espaços que permitam uma distância de, pelo menos, 10 cm de outros móveis ou paredes, tanto na parte superior quanto nas laterais. O casal comprou um refrigerador que caberia no local a ele destinado na nova cozinha, seguindo as instruções do fabricante.",
+   "enunciado": "Esse refrigerador tem altura e largura máximas, em metro, respectivamente, iguais a",
+   "alternativas": {
+    "a": "1,80 e 0,60.",
+    "b": "1,80 e 0,70.",
+    "c": "1,90 e 0,80.",
+    "d": "2,00 e 0,90.",
+    "e": "2,00 e 1,00."
+   },
+   "resposta": "a",
+   "explicacao": "Na escala 1 : 50, o espaço real mede 3,8 × 50 = 190 cm de altura e 1,6 × 50 = 80 cm de largura. Na altura desconta-se 10 cm só na parte superior: 180 cm = 1,80 m. Na largura há duas laterais, então descontam-se 20 cm: 60 cm = 0,60 m. A alternativa B (0,70) desconta uma lateral só; a C (1,90 e 0,80) esquece as folgas."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-83",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a viver a partir de seu nascimento, considerando dados da população. No Brasil, esse número vem aumentando consideravelmente, como mostra o gráfico.\n[Gráfico — Esperança de vida ao nascer, por ano:]\n2008: 72,78; 2009: 73,09; 2010: 73,4; 2011: 73,67; 2012: 73,95; 2013: 74,23.\nPode-se observar que a esperança de vida ao nascer em 2012 foi exatamente a média das registradas nos anos de 2011 e 2013. Suponha que esse fato também ocorreu com a esperança de vida ao nascer em 2013, em relação às esperanças de vida de 2012 e de 2014.",
+   "fonte_texto": "Disponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).",
+   "enunciado": "Caso a suposição feita tenha sido confirmada, a esperança de vida ao nascer no Brasil no ano de 2014 terá sido, em ano, igual a",
+   "alternativas": {
+    "a": "74,23.",
+    "b": "74,51.",
+    "c": "75,07.",
+    "d": "75,23.",
+    "e": "78,49."
+   },
+   "resposta": "b",
+   "explicacao": "Se 2013 é a média de 2012 e 2014, então 74,23 = (73,95 + x)/2, logo x = 2 × 74,23 − 73,95 = 74,51. Em outras palavras, o passo de 2012 para 2013 (0,28) se repete de 2013 para 2014. A alternativa A repete o valor de 2013; 75,23 soma um ano inteiro; 78,49 é o dobro do último valor sem subtrair o anterior."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-84",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Nos cinco jogos finais da última temporada, com uma média de 18 pontos por jogo, um jogador foi eleito o melhor do campeonato de basquete. Na atual temporada, cinco jogadores têm a chance de igualar ou melhorar essa média. No quadro estão registradas as pontuações desses cinco jogadores nos quatro primeiros jogos das finais deste ano.\nJogadores; Jogo 1; Jogo 2; Jogo 3; Jogo 4\nI; 12; 25; 20; 20\nII; 12; 12; 27; 20\nIII; 14; 14; 17; 26\nIV; 15; 18; 21; 21\nV; 22; 15; 23; 15\nO quinto e último jogo será realizado para decidir a equipe campeã e qual o melhor jogador da temporada.",
+   "enunciado": "O jogador que precisa fazer a menor quantidade de pontos no quinto jogo, para igualar a média de pontos do melhor jogador da temporada passada, é o",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "a",
+   "explicacao": "Média aritmética 18 em cinco jogos exige 90 pontos no total. Somando os quatro primeiros jogos: I: 77 (faltam 13); II: 71 (faltam 19); III: 71 (faltam 19); IV: 75 (faltam 15); V: 75 (faltam 15). O jogador I é quem precisa de menos pontos. O erro é comparar as médias parciais de outro jeito ou escolher quem tem o maior jogo isolado (II, com 27)."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-86",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Uma instituição de ensino superior ofereceu vagas em um processo seletivo de acesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados no quadro.\nCurso; Número de vagas oferecidas; Número de candidatos por vaga\nAdministração; 30; 6\nCiências Contábeis; 40; 6\nEngenharia Elétrica; 50; 7\nHistória; 30; 8\nLetras; 25; 4\nPedagogia; 25; 5",
+   "enunciado": "Qual foi o número total de candidatos inscritos nesse processo seletivo?",
+   "alternativas": {
+    "a": "200",
+    "b": "400",
+    "c": "1 200",
+    "d": "1 235",
+    "e": "7 200"
+   },
+   "resposta": "d",
+   "explicacao": "Candidatos por vaga é uma razão; o número de candidatos de cada curso é vagas × candidatos por vaga: 30 × 6 = 180; 40 × 6 = 240; 50 × 7 = 350; 30 × 8 = 240; 25 × 4 = 100; 25 × 5 = 125. Somando: 1 235. A alternativa A é só o total de vagas (200); a C multiplica as 200 vagas por 6 sem ponderar curso a curso; a E multiplica 200 pela soma dos candidatos por vaga (36)."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-88",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação.\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após terminar seus exercícios físicos.",
+   "enunciado": "Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou",
+   "alternativas": {
+    "a": "30 minutos ou menos.",
+    "b": "mais de 35 e menos de 45 minutos.",
+    "c": "mais de 45 e menos de 55 minutos.",
+    "d": "mais de 60 e menos de 70 minutos.",
+    "e": "70 minutos ou mais."
+   },
+   "resposta": "c",
+   "explicacao": "Se 1,7 L é 40% a mais que a massa perdida m, então 1,4m = 1,7 e m ≈ 1,214 kg. A uma perda de 1,5 kg por hora, o tempo é 1,214/1,5 ≈ 0,81 h ≈ 48,6 minutos — entre 45 e 55. Quem esquece os 40% divide 1,7 por 1,5 e acha 68 minutos (alternativa D); quem desconta 40% de 1,7 em vez de dividir por 1,4 acha 1,02 kg e cerca de 41 minutos (alternativa B)."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-91",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma das informações que pode auxiliar no dimensionamento do número de pediatras que devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa a mediana da quantidade de crianças por família existente na região sob sua responsabilidade. O quadro mostra a distribuição das frequências do número de crianças por família na região de responsabilidade de uma UBS.\nNúmero de crianças por família; Frequência\n0; 100\n1; 400\n2; 200\n3; 150\n4; 100\n5; 50",
+   "enunciado": "O número que representa a mediana da quantidade de crianças por família nessa região é",
+   "alternativas": {
+    "a": "1,0.",
+    "b": "1,5.",
+    "c": "1,9.",
+    "d": "2,1.",
+    "e": "2,5."
+   },
+   "resposta": "b",
+   "explicacao": "São 1 000 famílias; a mediana é a média entre o 500º e o 501º valores na ordem crescente. As frequências acumuladas são 100 (0 crianças), 500 (até 1 criança), 700 (até 2 crianças): o 500º valor é 1 e o 501º é 2, logo a mediana é (1 + 2)/2 = 1,5. A alternativa C, 1,9, é a MÉDIA (1 900/1 000); a A é a moda; a E é a mediana dos valores 0 a 5 sem pesar pelas frequências."
   }
  ],
  "matematica-algebra": [
@@ -48560,6 +49802,147 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Na segunda equação, a + 1/a = 2 com a = sen(y)/cos(x) implica a = 1, portanto sen y = cos x e y = π/2 − x. Substituindo na primeira e simplificando, obtém-se x = π/3 e y = π/6. O produto é π²/18."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-68",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos.",
+   "enunciado": "O número escrito pelo estudante foi",
+   "alternativas": {
+    "a": "135 000,00.",
+    "b": "1 350 000,00.",
+    "c": "13 500 000,00.",
+    "d": "135 000 000,00.",
+    "e": "1 350 000 000,00."
+   },
+   "resposta": "e",
+   "explicacao": "Um bilhão é 1 000 000 000 (nove zeros); 1,35 bilhão é 1,35 × 10⁹ = 1 350 000 000,00. Escrever números inteiros dessa ordem de grandeza é só contar casas: as alternativas menores correspondem a confundir bilhão com milhão (1 350 000,00) ou a deslocar a vírgula um número errado de casas."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-76",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo 3 voltas em torno do circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida, dando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta em torno do menor, percorrendo mais 1 100 m.\nNo segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de voltas em torno deles e de modo que o número de voltas seja o maior possível.",
+   "enunciado": "A soma do número de voltas em torno dos dois circuitos, no segundo dia, será",
+   "alternativas": {
+    "a": "10.",
+    "b": "13.",
+    "c": "14.",
+    "d": "15.",
+    "e": "16."
+   },
+   "resposta": "e",
+   "explicacao": "Do sistema de equações 3G + 2m = 1 800 e 2G + m = 1 100 vem m = 1 100 − 2G, logo 3G + 2 200 − 4G = 1 800 e G = 400 m, m = 300 m. No segundo dia, 400a + 300b = 5 000, ou seja, a equação 4a + 3b = 50 com a e b inteiros não negativos: b precisa ser par, e as soluções são (a, b) = (11, 2), (8, 6), (5, 10) e (2, 14). Para maximizar a + b, faz-se o máximo de voltas no circuito menor: 2 + 14 = 16. As alternativas 13, 14 e 15 são as somas das outras soluções — todas válidas, mas não a maior."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-79",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Cada número que identifica uma agência bancária tem quatro dígitos: N1, N2, N3, N4 mais um dígito verificador N5.\nTodos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N5, primeiramente multiplica-se ordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 N1 + 4 N2 + 3 N3 + 2 N4. Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N5 é a diferença 11 − R.\nConsidere o número de uma agência bancária cujos quatro primeiros dígitos são 0100.",
+   "enunciado": "Qual é o dígito verificador N5 dessa agência bancária?",
+   "alternativas": {
+    "a": "0",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "e": "9"
+   },
+   "resposta": "c",
+   "explicacao": "Não há equação a resolver — é só substituição: as quatro variáveis valem N1 = 0, N2 = 1, N3 = 0 e N4 = 0, então S = 5 × 0 + 4 × 1 + 3 × 0 + 2 × 0 = 4. O resto de 4 dividido por 11 é o próprio 4, e N5 = 11 − 4 = 7. Quem multiplica o 1 pelo peso errado (5, 3 ou 2) chega a 6, 8 ou 9 — os distratores são exatamente esses deslizes de ordem."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-90",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A luminosidade L de uma estrela está relacionada com o raio R e com a temperatura T dessa estrela segundo a Lei de Stefan-Boltzmann: L = c · R² · T⁴, em que c é uma constante igual para todas as estrelas.\nConsidere duas estrelas E e F, sendo que a estrela E tem metade do raio da estrela F e o dobro da temperatura de F.\nIndique por LE e LF suas respectivas luminosidades.",
+   "fonte_texto": "Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).",
+   "enunciado": "A relação entre as luminosidades dessas duas estrelas é dada por",
+   "alternativas": {
+    "a": "LE = LF/2",
+    "b": "LE = LF/4",
+    "c": "LE = LF",
+    "d": "LE = 4LF",
+    "e": "LE = 8LF"
+   },
+   "resposta": "d",
+   "explicacao": "Substituindo na equação da lei: LE = c · (R/2)² · (2T)⁴ = c · (R²/4) · 16T⁴ = 4 · c · R² · T⁴ = 4LF. A metade do raio divide por 4 (expoente 2), mas o dobro da temperatura multiplica por 16 (expoente 4); o efeito líquido da substituição é ×4. Quem trata os dois expoentes como iguais chega a LE = LF (alternativa C); quem só olha o raio marca LF/4."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-92",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola y = −x²/6 − 7x/3 + 12, em que y representa a altura da bola em relação ao eixo x (das abscissas) que está localizado a 1,5 m do piso da quadra. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.\nA equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas em um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:\n• ginásio I: 17 m;\n• ginásio II: 18 m;\n• ginásio III: 19 m;\n• ginásio IV: 21 m;\n• ginásio V: 40 m.",
+   "enunciado": "O saque desse atleta foi invalidado",
+   "alternativas": {
+    "a": "apenas no ginásio I.",
+    "b": "apenas nos ginásios I e II.",
+    "c": "apenas nos ginásios I, II e III.",
+    "d": "apenas nos ginásios I, II, III e IV.",
+    "e": "em todos os ginásios."
+   },
+   "resposta": "d",
+   "explicacao": "A altura máxima é o y do vértice da função quadrática: x_v = −b/(2a) = −(−7/3)/(2 × (−1/6)) = −7, e y_v = −49/6 + 49/3 + 12 = 49/6 + 12 ≈ 20,17. Como o eixo x está a 1,5 m do piso, a bola sobe a 20,17 + 1,5 ≈ 21,67 m acima do piso. Tetos a 17, 18, 19 e 21 m são atingidos; só o ginásio V (40 m) escapa. A armadilha é esquecer o 1,5 m: com 20,17 m o teto de 21 m não seria tocado e a resposta viraria C."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-93",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por p(t) = −t² + 10t + 24, sendo t um número natural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), com diferentes períodos de intensificação das propagandas:\n• I: 1 ≤ t ≤ 2;\n• II: 3 ≤ t ≤ 4;\n• III: 5 ≤ t ≤ 6;\n• IV: 7 ≤ t ≤ 9;\n• V: 10 ≤ t ≤ 12.\nA sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o mês em que, segundo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.",
+   "enunciado": "A proposta escolhida foi a",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "c",
+   "explicacao": "p(t) é uma parábola com concavidade para baixo, e o máximo ocorre no vértice t = −10/(2 × (−1)) = 5, com p(5) = 49 infectados. O mês 5 está no período da proposta III (5 ≤ t ≤ 6). Quem confunde o valor máximo (49) com o mês, ou calcula as raízes (t = 12 e t = −2) em vez do vértice, escorrega para IV ou V."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-95",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado mês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, nos dez primeiros dias do mês e entre o dia dez e o dia vinte desse mês, nos seus dois únicos setores (infantil e adulto). Suponha que a variação no volume de vendas, para o período registrado, tenha se dado de forma linear, como mostrado no gráfico, e que essa tendência se mantenha a mesma para os próximos dez dias.\n[Gráfico — volume de vendas (real) por período, um segmento por setor, com os pontos marcados nos dias 10 e 20 e o eixo dos dias indo até 30:]\nAdulto: dia 10 → 18 000; dia 20 → 15 000.\nInfantil: dia 10 → 8 000; dia 20 → 7 000.",
+   "enunciado": "Ao final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta fixada para o mês seja alcançada?",
+   "alternativas": {
+    "a": "5 000",
+    "b": "7 000",
+    "c": "11 000",
+    "d": "18 000",
+    "e": "29 000"
+   },
+   "resposta": "c",
+   "explicacao": "Cada setor segue uma função afim: se a variação é linear, a queda do terceiro período repete a do segundo — adulto 18 000 → 15 000 → 12 000; infantil 8 000 → 7 000 → 6 000. O total do mês é (18 000 + 15 000 + 12 000) + (8 000 + 7 000 + 6 000) = 66 000, e faltam 77 000 − 66 000 = 11 000 reais. A alternativa E (29 000) é o que falta ao final do dia 20, esquecendo os dez últimos dias; a D é a projeção do terceiro período (12 000 + 6 000) sem confrontar com a meta."
   }
  ],
  "matematica-probabilidade": [
@@ -51087,6 +52470,86 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Entre as 8! bijeções, as três imagens F(1), F(5), F(3) aparecem em cada uma das 3! ordens com igual frequência, e F(7), F(2) aparecem nas duas ordens com igual frequência. As restrições são independentes, logo 8!/(3!·2!) = 3360."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "enem-matematica-73",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:\n• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;\n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;\n• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.",
+   "enunciado": "De quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
+   "alternativas": {
+    "a": "9 × 6!/(6 − 2)!",
+    "b": "9 × 6!/[(6 − 2)! × 2!]",
+    "c": "9 × 4!/[(4 − 2)! × 2!]",
+    "d": "9 × 2!/[(2 − 2)! × 2!]",
+    "e": "9 × {8!/[(8 − 2)! × 2!] − 1}"
+   },
+   "resposta": "b",
+   "explicacao": "Em cada andar, os apartamentos que têm pelo menos um quarto com sol da manhã são os de final 1, 2, 3, 4, 5 e 6 — seis apartamentos. Escolher 2 deles, sem ordem, é uma combinação: C(6,2) = 6!/[(6 − 2)! × 2!] = 15. Como a escolha pode ser feita em qualquer um dos 9 andares, o total é 9 × C(6,2) = 135. A alternativa A conta arranjos (a ordem dos dois apartamentos não importa, então sobra o 2! no denominador); a C considera só os quatro apartamentos de \"apenas um quarto\", esquecendo os de final 1 e 2, em que ambos os quartos recebem sol da manhã; a E parte dos 8 apartamentos e desconta 1, o que não corresponde a excluir os pares proibidos."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "enem-matematica-74",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão.\nConsidere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 1/2.",
+   "enunciado": "Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?",
+   "alternativas": {
+    "a": "35/64",
+    "b": "40/64",
+    "c": "42/64",
+    "d": "44/64",
+    "e": "52/64"
+   },
+   "resposta": "c",
+   "explicacao": "Depois da primeira partida, o vencedor (chame-o de A) precisa de mais 3 vitórias, e o adversário B precisa de 4. Como no máximo 6 partidas restam, A é campeão exatamente quando vence pelo menos 3 de 6 partidas hipotéticas (se a série termina antes, o resultado das partidas restantes não muda quem chegou primeiro a 4). Com probabilidade 1/2 por partida, isso dá [C(6,3) + C(6,4) + C(6,5) + C(6,6)]/2⁶ = (20 + 15 + 6 + 1)/64 = 42/64. O erro comum é montar a soma só com as séries que terminam em 4, 5, 6 ou 7 jogos e errar as contagens de cada caso; 35/64 e 40/64 saem de esquecer um dos termos dessa soma."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "enem-matematica-78",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis.",
+   "enunciado": "Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é",
+   "alternativas": {
+    "a": "8.",
+    "b": "9.",
+    "c": "11.",
+    "d": "18.",
+    "e": "24."
+   },
+   "resposta": "b",
+   "explicacao": "Cada opcional pode estar presente ou ausente, o que dá 2³ = 8 combinações de opcionais (incluindo \"nenhum\"). Sem a cor, há 7 × 2 × 8 = 112 configurações. Com c cores, 112c > 1 000 exige c > 8,9, logo no mínimo 9 cores (112 × 8 = 896 não passa de 1 000). Os distratores nascem de contar mal os opcionais: 4 escolhas (\"um, dois, três ou nenhum\") dá 56 configurações e leva a 18 cores; 3 opcionais dá 42 e leva a 24; 7 subconjuntos não vazios dá 98 e leva a 11."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "enem-matematica-82",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Em um jogo de bingo, as cartelas contêm 16 quadrículas dispostas em linhas e colunas. Cada quadrícula tem impresso um número, dentre os inteiros de 1 a 50, sem repetição de número. Na primeira rodada, um número é sorteado, aleatoriamente, dentre os 50 possíveis. Em todas as rodadas, o número sorteado é descartado e não participa dos sorteios das rodadas seguintes. Caso o jogador tenha em sua cartela o número sorteado, ele o assinala na cartela. Ganha o jogador que primeiro conseguir preencher quatro quadrículas que formam uma linha, uma coluna ou uma diagonal, conforme os tipos de situações ilustradas na Figura 1.\n[Figura 1: três cartelas 4 × 4 exemplificando o preenchimento em linha (as quatro quadrículas de uma mesma linha), o preenchimento em coluna (as quatro de uma mesma coluna) e o preenchimento em diagonal (as quatro de uma diagonal).]\nO jogo inicia e, nas quatro primeiras rodadas, foram sorteados os seguintes números: 03, 27, 07 e 48. Ao final da quarta rodada, somente Pedro possuía uma cartela que continha esses quatro números sorteados, sendo que todos os demais jogadores conseguiram assinalar, no máximo, um desses números em suas cartelas. Observe na Figura 2 o cartão de Pedro após as quatro primeiras rodadas.\n[Figura 2 — cartela de Pedro, 4 linhas × 4 colunas; os números já assinalados estão entre parênteses:]\n1ª linha: (03) (48) 12 (27)\n2ª linha: 49 11 22 05\n3ª linha: 29 50 19 45\n4ª linha: 33 23 38 (07)",
+   "enunciado": "A probabilidade de Pedro ganhar o jogo em uma das duas próximas rodadas é",
+   "alternativas": {
+    "a": "1/46 + 1/45",
+    "b": "1/46 + 2/(46 × 45)",
+    "c": "1/46 + 8/(46 × 45)",
+    "d": "1/46 + 43/(46 × 45)",
+    "e": "1/46 + 49/(46 × 45)"
+   },
+   "resposta": "e",
+   "explicacao": "Restam 46 números. Pedro completa a 1ª linha se sair o 12; completa a 4ª coluna (27, 05, 45, 07) se saírem 05 e 45; e completa a diagonal (03, 11, 19, 07) se saírem 11 e 19. Nenhum outro jogador ameaça, pois cada um tem no máximo um número marcado. Na 5ª rodada, ganha só com o 12: 1/46. Se não ganhou na 5ª (probabilidade 45/46), ganha na 6ª de três modos: sai o 12 agora — (45/46) × (1/45) = 45/(46 × 45); ou saíram 05 e 45 nas duas rodadas, em qualquer ordem — 2/(46 × 45); ou saíram 11 e 19 — 2/(46 × 45). Total: 1/46 + (45 + 2 + 2)/(46 × 45) = 1/46 + 49/(46 × 45). A alternativa D (43) e a A esquecem os pares que completam coluna e diagonal; a B conta só um desses pares."
   }
  ],
  "matematica-sequencias": [
@@ -52528,6 +53991,67 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O programa gera uma sequência definida por recorrência; simule contando as passagens pelo laço, cada etapa seguinte a partir do valor anterior. Repare que os dois \"se\" estão na mesma iteração: se x é ímpar, vira 3x + 1, que é par, e é dividido por 2 na mesma passagem. Partindo de x = 52: 52 → 26 (n=1) → 13 (n=2) → 13 é ímpar: 40, e 40 é par: 20 (n=3) → 10 (n=4) → 5 (n=5) → 5 ímpar: 16, par: 8 (n=6) → 4 (n=7) → 2 (n=8) → 1 (n=9). Ao chegar a 1, o laço para: n = 9. Quem trata os dois \"se\" como excludentes (uma operação por passagem) conta 11, que é o distrator; 8 e 10 são erros de um passo na simulação."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "enem-matematica-81",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio.\nPelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana.",
+   "enunciado": "O número mínimo de dias necessários para a realização desse torneio é",
+   "alternativas": {
+    "a": "22.",
+    "b": "25.",
+    "c": "28.",
+    "d": "48.",
+    "e": "64."
+   },
+   "resposta": "b",
+   "explicacao": "Com 3 dias de descanso, uma equipe joga no máximo a cada 4 dias (domingo → quinta). Na fase de grupos cada equipe faz 3 partidas (uma por rodada, com todos os grupos jogando no mesmo dia); depois vêm oitavas, quartas, semifinais e final — 7 rodadas ao todo. Os dias de rodada formam uma progressão aritmética de razão 4: 1, 5, 9, 13, 17, 21 e 25. O torneio termina no dia 25. Quem conta 3 dias entre jogos (em vez de 4) chega a 22, e quem soma partidas em vez de rodadas vai parar em 48 ou 64."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "enem-matematica-89",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:\n• Distância mínima (Dmín) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (L) da tela.\n• Distância máxima (Dmáx) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.\nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de poltronas em duas fileiras consecutivas.\nUma sala de cinema, cuja largura da tela mede 12 m, está montada em conformidade com as normas da ABNT e tem suas dimensões especificadas na figura.\n[Figura: a tela, de largura L, fica na frente da sala; a primeira fileira está a Dmín = 0,6L da tela e a última fileira instalada a Dmáx = 2L; atrás dela, a \"área de instalação de novas poltronas\" vai até Daceitável = 2,9L. As fileiras são espaçadas de 1 m entre encostos consecutivos.]\nPretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas, ampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas.",
+   "fonte_texto": "Disponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.",
+   "enunciado": "Quantas fileiras de poltronas a sala comportará após essa ampliação?",
+   "alternativas": {
+    "a": "26",
+    "b": "27",
+    "c": "28",
+    "d": "29",
+    "e": "35"
+   },
+   "resposta": "c",
+   "explicacao": "Com L = 12 m, a primeira fileira fica a 0,6 × 12 = 7,2 m da tela e o limite aceitável para a última é 2,9 × 12 = 34,8 m. As posições dos encostos formam uma progressão aritmética com passo de 1 m: 7,2; 8,2; 9,2; … Impor 7,2 + n ≤ 34,8 dá n ≤ 27,6, ou seja, cabem 27 espaçamentos além da primeira fileira — 28 fileiras. Quem conta só os intervalos marca 27; quem arredonda 34,8 marca 35; e o valor Dmáx = 24 m (o antigo fundo) não entra na conta final, só diz onde estavam as fileiras antes."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "enem-matematica-94",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino T1, treino T2, treino T3, treino T4 e treino T5. A sequência dos treinamentos deve seguir esta ordem:\nDia: 1º; 2º; 3º; 4º; 5º; 6º; 7º; 8º; 9º; 10º; 11º; 12º; 13º\nTreino: T1; R; R; T2; R; R; T3; R; T4; R; R; T5; R\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino T1 e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições.",
+   "enunciado": "A sequência de treinamentos que o atleta realizará na 24ª semana de treinos é",
+   "alternativas": {
+    "a": "T3 R T4 R R T5 R.",
+    "b": "R T3 R T4 R R T5.",
+    "c": "R T4 R R T5 R T1.",
+    "d": "R R T5 R T1 R R.",
+    "e": "R T5 R T1 R R T2."
+   },
+   "resposta": "b",
+   "explicacao": "O ciclo tem 13 dias. A 24ª semana vai do dia 162 ao dia 168 (23 × 7 = 161 dias já passados). Como 161 = 12 × 13 + 5, o dia 162 é o 6º dia de um ciclo, isto é, R; seguem-se o 7º (T3), 8º (R), 9º (T4), 10º (R), 11º (R) e 12º (T5). A semana fica R T3 R T4 R R T5. Conferindo pelo fim: 168 = 12 × 13 + 12, logo o último dia da semana é o 12º do ciclo, T5 — o que já elimina C, D e E. A alternativa A é a mesma janela deslocada um dia para a frente (dias 163 a 169), erro de quem começa a contar a semana no dia 163."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -58369,6 +59893,90 @@ window.QUESTION_BANKS = {
    "explicacao": "O excerto descreve uma rede: africanos levados de Luanda ao Prata (via Rio de Janeiro no contrabando), prata do Potosí voltando ao Rio, Bahia e Recife — e, dessa conexão comercial, a chegada de um culto peruano, Nossa Senhora de Copacabana, ao Rio em 1637. O nome da praia guarda essa ligação comercial e cultural entre a América portuguesa e a espanhola. A prata não era extraída em Buenos Aires (vinha do Peru), não há pedras preciosas no texto nem “porto de Copacabana”, e o texto não diz que escravizados desembarcavam ali.",
    "resposta": "c",
    "origem": "medicina"
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "enem-historia-25",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O número cada vez maior de mulheres letradas e interessadas pela literatura e pelas novelas, muitas divulgadas em capítulos, seções, classificadas comumente como folhetim, alçou a um gênero de ficção corrente já em 1840, fazendo parte do florescimento da literatura nacional brasileira, instigando a formação e a ampliação de um público leitor feminino, ávido por novidades, pelo apelo dos folhetins e \"narrativas modernas\" que encenavam \"os dramas e os conflitos de uma mulher em processo de transformação patriarcal e provinciana que, progressivamente, começava a se abrir para modernizar seus costumes\". No Segundo Reinado, as mulheres foram se tornando público determinante na construção da literatura e da imprensa nacional. E não apenas público, porquanto crescerá o número de escritoras que colaboram para isso e emergirá uma imprensa feminina, editada, escrita e dirigida por e para mulheres.",
+   "fonte_texto": "ABRANTES, A. Do álbum de família à vitrine impressa: trajetos de retratos (PB, 1920), Revista Temas em Educação, n. 24, 2015 (adaptado).",
+   "enunciado": "O registro das atividades descritas associa a inserção da figura feminina nos espaços de leitura e escrita do Segundo Reinado ao(à)",
+   "alternativas": {
+    "a": "surgimento de novas práticas culturais.",
+    "b": "contestação de antigos hábitos masculinos.",
+    "c": "valorização de recentes publicações juvenis.",
+    "d": "circulação de variados manuais pedagógicos.",
+    "e": "aparecimento de diversas editoras comerciais."
+   },
+   "resposta": "a",
+   "explicacao": "O texto descreve o folhetim, a leitura de novelas em capítulos, a formação de um público leitor feminino e uma imprensa feita \"por e para mulheres\" — práticas culturais novas que se consolidam no Segundo Reinado e nas quais a mulher entra como leitora e como autora. Não há confronto com hábitos masculinos (b), e nada é dito sobre publicações juvenis, manuais pedagógicos ou editoras (c, d, e): esses distratores trocam o fenômeno cultural por detalhes editoriais que o texto não traz."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "enem-historia-26",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas.",
+   "fonte_texto": "POPINIGIS, F. \"Todas as liberdades são irmãs\": os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016 (adaptado).",
+   "enunciado": "A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de",
+   "alternativas": {
+    "a": "manutenção das regras patronais.",
+    "b": "desprendimento das ideias liberais.",
+    "c": "fortalecimento dos contratos laborais.",
+    "d": "consolidação das estruturas sindicais.",
+    "e": "contestação dos princípios monárquicos."
+   },
+   "resposta": "e",
+   "explicacao": "Na década de 1880 os caixeiros \"ganharam as ruas\" ao lado de republicanos e abolicionistas — os dois movimentos que corroíam os pilares do Império (a monarquia e a escravidão). Sua atuação insere-se, portanto, na contestação da ordem monárquica que desembocaria em 1888-1889. Não se trata de manter regras patronais (a), e falar em sindicatos consolidados (d) é anacronismo: o texto diz que eram das \"primeiras\" categorias a se organizar, em associações, e não menciona contratos de trabalho (c)."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "enem-historia-28",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nA primeira grande lei educacional do Brasil, de 1827, determinava que, nas \"escolas de primeiras letras\" do Império, meninos e meninas estudassem separados e tivessem currículos diferentes. No Senado, o Visconde de Cayru foi um dos defensores de que o currículo de matemática das garotas fosse o mais enxuto possível. Nas palavras dele, o \"belo sexo\" não tinha capacidade intelectual para ir muito longe: — Sobre as contas, são bastantes [para as meninas] as quatro espécies, que não estão fora do seu alcance e lhes podem ser de constante uso na vida.\n\nTEXTO II\nNo Senado, o único a defender publicamente que as meninas tivessem, em matemática, um currículo idêntico ao dos meninos foi o Marquês de Santo Amaro (RJ). Ele argumentou: — Não me parece conforme, às luzes do tempo em que vivemos, deixarmos de facilitar às brasileiras a aquisição desses conhecimentos [mais aprofundados de matemática]. A oposição que se manifesta não pode nascer senão do arraigado e péssimo costume em que estavam os antigos, os quais nem queriam que suas filhas aprendessem a ler.",
+   "fonte_texto": "WESTIN, R. Senado Notícias. Disponível em: www12.senado.leg.br. Acesso em: 20 out. 2021 (adaptado).",
+   "enunciado": "Os discursos expressam pontos de vista divergentes respectivamente pela oposição entre",
+   "alternativas": {
+    "a": "liberdade de gênero e controle social.",
+    "b": "equidade de escolha e imposição cultural.",
+    "c": "dominação de corpos e igualdade humana.",
+    "d": "geração de oportunidade e restrição profissional.",
+    "e": "exclusão de competências e participação política."
+   },
+   "resposta": "c",
+   "explicacao": "No Primeiro Reinado, sob a Carta de 1824, Cayru nega às meninas a capacidade intelectual e limita o que podem aprender — decide sobre o que os corpos femininos podem ou não fazer, o que é dominação. Santo Amaro responde que a restrição vem de \"péssimo costume\" e defende currículo idêntico: igualdade humana. A ordem \"respectivamente\" confirma (c). Em (a), (b) e (d) a ordem está invertida — o primeiro discurso restringe, o segundo abre; em (e), \"participação política\" não é o que Santo Amaro reivindica, e sim o acesso ao conhecimento."
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "enem-historia-31",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Para os Impérios Coloniais, o problema das doenças que atingiam os escravos era algo com que cotidianamente deparavam os senhores. Em vista disso, uma série de obras dedicadas à administração de escravos foi publicada com vista a implementar uma moderna gestão da mão de obra escravista em convergência com o Iluminismo. Nesse contexto, o saber médico adquiria um papel extremamente relevante. Este era encarado como um instrumento fundamental ao desenvolvimento colonial, dada a percepção do impacto que as doenças tropicais causavam na população branca e nos povos escravizados.",
+   "fonte_texto": "ABREU, J. L. N. A Colônia enferma e a saúde dos povos: a medicina das \"luzes\" e as informações sobre as enfermidades da América portuguesa. História, Ciências, Saúde – Manguinhos, n. 3, jul.-set. 2007 (adaptado).",
+   "enunciado": "De acordo com o texto, a importância da medicina se justifica no âmbito dos objetivos",
+   "alternativas": {
+    "a": "econômicos das elites.",
+    "b": "naturalistas dos viajantes.",
+    "c": "abolicionistas dos letrados.",
+    "d": "tradicionalistas dos nativos.",
+    "e": "emancipadores das metrópoles."
+   },
+   "resposta": "a",
+   "explicacao": "A medicina interessava porque as doenças atingiam a \"mão de obra escravista\", e as obras publicadas visavam a uma \"moderna gestão\" dessa mão de obra: cuidar da saúde do escravizado era preservar o capital e o \"desenvolvimento colonial\". O objetivo é econômico e pertence aos senhores — às elites. Nada indica abolicionismo (c); ao contrário, o saber médico serve à continuidade da escravidão. Viajantes naturalistas, nativos e emancipação (b, d, e) não são o eixo do texto."
   }
  ],
  "historia-brasil-republica": [
@@ -60512,6 +62120,69 @@ window.QUESTION_BANKS = {
    "explicacao": "O desfile de 1971 em Nova York é o protesto de Zuzu Angel pelo filho Stuart Angel, militante desaparecido depois de preso pela ditadura naquele ano: os motivos infantis (o filho) misturados a quepes, canhões e soldados (o regime) são a denúncia costurada no vestido, levada a uma plateia internacional. Nada ali ameniza a imagem do país nem adere ao regime; e chamar de alienação o gesto de uma mãe denunciando o desaparecimento do filho é o oposto do que a coleção significou.",
    "resposta": "b",
    "origem": "medicina"
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "enem-historia-24",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Na construção da ferrovia Madeira-Mamoré, o que dizer dos doentes, eternos moribundos a vagar entre delírios febris, doses de quinino e corredores da morte? O Hospital da Candelária era santuário e túmulo, monumento ao progresso científico e preâmbulo da escuridão. Foi ali, com suas instalações moderníssimas, que médicos e sanitaristas dirigiram seu combate aos males tropicais. As maiores vítimas, contudo, permaneceriam na sombra à margem do palco, cobaias sem consolo, credores sem nome de uma sociedade que não lhes concedera tempo algum para ser decifrada.",
+   "fonte_texto": "FOOT HARDMAN, F. Trem fantasma: modernidade na selva. São Paulo: Cia. das Letras, 1988 (adaptado).",
+   "enunciado": "No texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na",
+   "alternativas": {
+    "a": "discrepância entre engenharia ambiental e equilíbrio da fauna.",
+    "b": "incoerência entre maquinaria estrangeira e controle da floresta.",
+    "c": "incompatibilidade entre investimento estatal e proteção aos nativos.",
+    "d": "competição entre farmacologia internacional e produtos da fitoterapia.",
+    "e": "contradição entre desenvolvimento nacional e respeito aos trabalhadores."
+   },
+   "resposta": "e",
+   "explicacao": "A ferrovia Madeira-Mamoré, construída entre 1907 e 1912, na República Velha, é apresentada como \"monumento ao progresso científico\" erguido sobre \"eternos moribundos\": os trabalhadores, dizimados por malária e outras doenças, foram \"cobaias sem consolo\", \"credores sem nome\". A crítica está nessa contradição entre a modernização do país e o desprezo pela vida de quem a construiu. As alternativas (a) e (b) falam de fauna e floresta, ausentes do texto; (c) fala de nativos, quando as vítimas são os operários; (d) inventa uma disputa entre remédios que o texto não menciona."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "enem-historia-30",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Lá embaixo está o Açude Itans, com seu formigueiro a cavar a terra. É mesmo impressionante o esforço daquele formigar de homens ao sol, lavados em suor, que não param, em longas filas pacientes acompanhando centenas de burricos que sobem e descem, numa ciranda comovente e silenciosa, cada burrico com duas caixas de terra no lombo. É o labor organizado para a salvação da terra e do homem. Depois do semideserto que tanto nos acabrunhou o espírito por falta de chuvas, o esforço destes milhares de sertanejos, todos vestidos de brim mescla e calçando alpercatas, no combate consciente à esterilidade da natureza, com as famílias alojadas em pequeninas casas de taipa e telha — embrião de futura cidade — impressionava-nos profundamente.",
+   "fonte_texto": "VALLE, F. M. História do Açude Itans, município de Caicó (RN). Brasília, 1994 (adaptado).",
+   "enunciado": "Na construção do empreendimento descrito, destaca-se a presença de",
+   "alternativas": {
+    "a": "engenheiros na execução de canais fluviais.",
+    "b": "coronéis na ampliação de antigas fazendas.",
+    "c": "operários na distribuição dos recursos hídricos.",
+    "d": "trabalhadores na formação de novos espaços.",
+    "e": "negociantes na organização de redes comerciais."
+   },
+   "resposta": "d",
+   "explicacao": "O que o texto destaca é o \"formigar de homens ao sol\", os \"milhares de sertanejos\" que cavam o açude e cujas famílias, alojadas em casas de taipa, formam o \"embrião de futura cidade\": trabalhadores criando, com o próprio esforço, um novo espaço no sertão. Engenheiros, coronéis e negociantes (a, b, e) não aparecem na cena; \"distribuição dos recursos hídricos\" (c) descreve o uso posterior do açude, não a construção que o texto retrata."
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "enem-historia-32",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Decreto-Lei n. 1 949, de 27/12/1937\nArt. 1º Fica criado o Departamento de Imprensa e Propaganda (DIP), diretamente subordinado ao presidente da República.\nArt. 2º O DIP tem por fim:\n[...]\nh) coordenar e incentivar as relações da imprensa com os poderes públicos no sentido de maior aproximação da mesma com os fatos que se ligam aos interesses nacionais;\n[...]\nn) autorizar mensalmente a devolução dos depósitos efetuados pelas empresas jornalísticas para a importação de papel para imprensa, uma vez demonstrada, a seu juízo, a eficiência e a utilidade pública dos jornais ou periódicos por elas administrados ou dirigidos.",
+   "fonte_texto": "BRASIL apud CARONE, E. A Terceira República (1937-1945). São Paulo: Difel, 1982 (adaptado).",
+   "enunciado": "Com base nos trechos do decreto, as finalidades do órgão criado permitiram ao governo promover o(a)",
+   "alternativas": {
+    "a": "diversificação da opinião pública.",
+    "b": "mercantilização da cultura popular.",
+    "c": "controle das organizações sindicais.",
+    "d": "cerceamento da liberdade de expressão.",
+    "e": "privatização dos meios de comunicação."
+   },
+   "resposta": "d",
+   "explicacao": "O DIP, criado semanas após o golpe do Estado Novo, subordinava a imprensa ao presidente: o item h manda \"aproximar\" os jornais dos \"interesses nacionais\" (isto é, do governo) e o item n condiciona a devolução dos depósitos para importar papel à \"utilidade pública\" do jornal, julgada pelo próprio DIP — quem criticasse o regime ficava sem papel. É censura e cerceamento da liberdade de expressão. O efeito é o oposto de diversificar a opinião pública (a); sindicatos, cultura popular e privatização (c, b, e) não são objeto dos artigos transcritos."
   }
  ],
  "historia-geral-contemporanea": [
@@ -63737,6 +65408,27 @@ window.QUESTION_BANKS = {
    "explicacao": "O mapa mostra o jus soli concentrado nas Américas e o jus sanguinis na Europa. Os países americanos, formados por imigração em massa no século XIX, adotaram o direito de solo para incorporar os filhos dos imigrantes como nacionais — a imigração moldou suas definições de cidadania. Na Europa, ao contrário, predomina o sangue: filhos de estrangeiros não adquirem a nacionalidade automaticamente. As opções sobre regimes populistas e sobre jus sanguinis colonial não têm apoio no texto nem no mapa.",
    "resposta": "b",
    "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "enem-historia-29",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A história do Primeiro de Maio de 1890 — na França e na Europa, o primeiro de todos os Primeiros de Maio — é, sob vários aspectos, exemplar. Resultante de um ato político deliberado, essa manifestação ilustra o lado voluntário da construção de uma classe — a classe operária — à qual os socialistas tentam dar uma unidade política e cultural através daquela pedagogia da festa cujo princípio, eficácia e limites há muito tempo tinham sido experimentados pela Revolução Francesa.",
+   "fonte_texto": "PERROT, M. Os excluídos da história: operários, mulheres e prisioneiros. Rio de Janeiro: Paz e Terra, 1988.",
+   "enunciado": "Com base no texto, a fixação dessa data comemorativa tinha por objetivo",
+   "alternativas": {
+    "a": "valorizar um sentimento burguês.",
+    "b": "afirmar uma identidade coletiva.",
+    "c": "edificar uma memória nacional.",
+    "d": "criar uma comunidade cívica.",
+    "e": "definir uma tradição popular."
+   },
+   "resposta": "b",
+   "explicacao": "Perrot diz que o Primeiro de Maio foi um \"ato político deliberado\" para \"construir uma classe\" e dar-lhe \"unidade política e cultural\": a festa serve para que os operários se reconheçam como um só grupo, o movimento operário como sujeito — uma identidade coletiva. \"Sentimento burguês\" (a) é o oposto da classe em questão; \"memória nacional\" e \"comunidade cívica\" (c, d) falam da nação e da cidadania em geral, quando o texto fala de classe; \"tradição popular\" (e) apaga o caráter político e classista que a autora sublinha."
   }
  ],
  "historia-geral-moderna": [
@@ -65276,6 +66968,27 @@ window.QUESTION_BANKS = {
    "explicacao": "Moreno exalta Rousseau e o pacto social como única origem da obediência — posição iluminista e liberal, contrária ao direito divino dos reis —, mas anuncia que “suprime o capítulo e as passagens” sobre religião, por julgá-las “delírio”. Ou seja, edita a obra segundo suas convicções políticas e religiosas. Rousseau não defende Igreja nem absolutismo; Moreno não prega obediência ao rei; e seu gesto é de adesão ao iluminismo, não de resistência a ele.",
    "resposta": "b",
    "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "enem-historia-33",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nManda o Santo Ofício da Inquisição que ninguém, seja qual for seu estado, idade ou condição, pare com carroça, caleça ou montaria nem atrapalhe com mesas ou cadeiras o centro das ruas, que vão da Inquisição a São Domingos, nem atravesse a procissão em ponto algum da ida ou da volta, amanhã, 19 do corrente, em que se celebrará auto de fé. E também que nem nesse dia nem nos dos açoites ouse alguém atirar nos réus maçãs, pedras, laranjas nem outra coisa qualquer.\nPALMA, R. Anais da Inquisição de Lima. São Paulo: Edusp; Giordano, 1992 (adaptado).\n\nTEXTO II\nComo acontece em todos os ritos, o sentido do auto da fé é conferido pela sequência dos atos que o compõem. Os lugares, as posturas, os gestos, as palavras são fixados previamente em toda a sua complexidade. Por isso, o auto da fé apresenta momentos fortes — durante a preparação, a encenação, o ato e a recepção — que convém seguir em seus pormenores.",
+   "fonte_texto": "BETHENCOURT, F. História das Inquisições: Portugal, Espanha e Itália – séculos XV-XIX. São Paulo: Cia. das Letras, 2000.",
+   "enunciado": "O rito mencionado nos textos demonstra a capacidade da Igreja em",
+   "alternativas": {
+    "a": "abrandar cerimônias de punição.",
+    "b": "favorecer anseios de violência.",
+    "c": "criticar políticas de disciplina.",
+    "d": "produzir padrões de conduta.",
+    "e": "ordenar cultos de heresia."
+   },
+   "resposta": "d",
+   "explicacao": "O edital do Texto I regula minuciosamente o comportamento de todos — onde não parar, por onde não atravessar, o que não atirar nos réus —, e o Texto II mostra que no auto de fé \"lugares, posturas, gestos, palavras são fixados previamente\". O rito é um instrumento pelo qual a Igreja da Contrarreforma disciplina a conduta pública. Proibir que a multidão apedreje os réus não é abrandar a punição (a) nem incentivar violência (b): é controlar o ritual; a Igreja não critica a disciplina (c), ela a impõe; e o auto de fé condena a heresia, não a cultua (e)."
   }
  ],
  "historia-geral-antiga-medieval": [
@@ -66749,6 +68462,48 @@ window.QUESTION_BANKS = {
    "explicacao": "A palestra, o treino atlético e a inscrição “Kléomelos é belo” pertencem ao universo dos jovens bem-nascidos de Atenas, preparados para a cidadania plena — o ideal de beleza (kalós) marca a distinção de classe. O texto diz que o jovem é imberbe, ou seja, ainda não é o cidadão maduro nem representa o ápice da masculinidade adulta; e o esporte era prática da elite, não trabalho manual das camadas subalternas.",
    "resposta": "b",
    "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "enem-historia-27",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Ainda que a fome ocorrida na Itália em 536 tenha origem nos eventos climáticos, suas implicações são tanto políticas quanto econômicas. Nos primeiros séculos da Idade Média, o auxílio aos famintos se inscreve no domínio da gestão pública, mesmo quando a ação de seus agentes é apresentada sob o ângulo da piedade e da caridade individuais, como é o caso da Gália merovíngia. Assim, o fato de que as respostas à fome são mostradas, na Gália, como o fruto de iniciativas pessoais fundadas no imperativo da caridade deriva da natureza das fontes do século VI.",
+   "fonte_texto": "SILVA, M. C. Os agentes públicos e a fome nos primeiros séculos da Idade Média. Varia Historia, n. 60, set.-dez. 2016 (adaptado).",
+   "enunciado": "Na conjuntura histórica destacada no texto, o dever de agir em face da situação de crise apresentada pertencia à jurisdição",
+   "alternativas": {
+    "a": "da nobreza, proveniente da obrigação de proteção ao campesinato livre.",
+    "b": "da realeza, decorrente do conceito de governo subjacente à monarquia cristã.",
+    "c": "dos mosteiros, resultante do caráter fraternal afirmado nas regras monásticas.",
+    "d": "dos bispados, consequente da participação dos clérigos nos assuntos comunitários.",
+    "e": "das corporações, procedente do padrão assistencialista previsto nas normas estatutárias."
+   },
+   "resposta": "b",
+   "explicacao": "O texto afirma que, na alta Idade Média, o socorro aos famintos \"se inscreve no domínio da gestão pública\" — mesmo quando as fontes o narram como caridade pessoal. Na Gália merovíngia, quem detinha essa gestão pública era o rei: na monarquia cristã, governar incluía o dever de proteger e alimentar o povo. Mosteiros e bispados (c, d) praticavam caridade, mas o texto distingue justamente a caridade individual da obrigação pública; nobreza feudal e corporações (a, e) pertencem a séculos posteriores."
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "enem-historia-34",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Quando os espanhóis chegaram à América, estava em seu apogeu o império teocrático dos Incas, que estendia seu poder sobre o que hoje chamamos Peru, Bolívia e Equador, abarcava parte da Colômbia e do Chile e alcançava até o norte argentino e a selva brasileira; a confederação dos Astecas tinha conquistado um alto nível de eficiência no vale do México, e no Yucatán, na América Central, a esplêndida civilização dos Maias persistia nos povos herdeiros, organizados para o trabalho e para a guerra. Os Maias tinham sido grandes astrônomos, mediram o tempo e o espaço com assombrosa precisão, e tinham descoberto o valor do número zero antes de qualquer povo da história. No museu de Lima, podem ser vistos centenas de crânios que receberam placas de ouro e prata por parte dos cirurgiões Incas.",
+   "fonte_texto": "GALEANO, E. As veias abertas da América Latina. Porto Alegre: L&PM, 2012.",
+   "enunciado": "As sociedades mencionadas deixaram como legado uma diversidade de",
+   "alternativas": {
+    "a": "bens religiosos inspirados na matriz cristã.",
+    "b": "materiais bélicos pilhados em batalhas coloniais.",
+    "c": "heranças culturais constituídas em saberes próprios.",
+    "d": "costumes laborais moldados em estilos estrangeiros.",
+    "e": "práticas medicinais alicerçadas no conhecimento científico."
+   },
+   "resposta": "c",
+   "explicacao": "Galeano lista o que incas, astecas e maias produziram por conta própria antes da chegada dos europeus: astronomia, medição do tempo, o zero, cirurgias cranianas. São saberes próprios, desenvolvidos sem influência externa — o oposto de \"matriz cristã\" (a) e de \"estilos estrangeiros\" (d), que remetem ao colonizador. Materiais pilhados (b) seriam legado da conquista, não das sociedades; e a alternativa (e) reduz tudo à medicina e a chama de \"científica\" no sentido moderno, o que o texto não afirma."
   }
  ],
  "geografia-populacao-urbana": [
@@ -69015,6 +70770,48 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A razão de dependência cai quando a parcela de crianças encolhe em relação à população ativa — e isso é o que a queda da fecundidade produz depois de 1970: menos nascimentos por mulher, menos dependentes jovens, e uma geração numerosa chegando à idade de trabalhar. É o bônus demográfico. Menos êxodo rural não altera a estrutura etária; desemprego estrutural não entra na conta da razão de dependência, que é por idade; aumento da mortalidade e redução do número de idosos contrariam a transição demográfica brasileira, que envelhece a população."
+  },
+  {
+   "subtema": "geografia-populacao-urbana",
+   "id": "enem-geografia-34",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Brasileiros levam mais tempo de casa para o trabalho\nPesquisa do IBGE aponta que a situação é mais grave no Sudeste: 13% das pessoas levam mais de uma hora para chegar ao trabalho. Nas regiões metropolitanas de São Paulo e do Rio, o IBGE registrou os maiores percentuais de trabalhadores que levam mais de uma hora no trajeto até o emprego. Quem vê o Marcelo chegar ao trabalho nem imagina a maratona que ele enfrenta todos os dias antes das 5 h. \"Acordo 4 h 30, saio de casa 5 h, pego trem 5 h 20, chego na Central umas 6 h 50, pego ônibus e chego no trabalho mais ou menos 7 h 10\", conta. Segundo especialista, são os mais pobres os que moram mais longe do emprego.",
+   "fonte_texto": "Disponível em: www.portaldotransito.com.br. Acesso em: 23 nov. 2021 (adaptado).",
+   "enunciado": "A pesquisa desenvolvida retrata a seguinte dinâmica populacional:",
+   "alternativas": {
+    "a": "Fluxo de retorno.",
+    "b": "Migração interna.",
+    "c": "Mudança sazonal.",
+    "d": "Movimento pendular.",
+    "e": "Deslocamento forçado."
+   },
+   "resposta": "d",
+   "explicacao": "Marcelo sai de casa às 5 h e chega ao trabalho às 7 h 10, todos os dias, para voltar à noite: é o vaivém diário entre a periferia onde mora e o centro onde trabalha, típico das regiões metropolitanas — o movimento pendular. Não há mudança de residência, o que descarta migração, fluxo de retorno e deslocamento forçado (a, b, e); \"sazonal\" (c) supõe ciclos de meses ou estações, não de horas."
+  },
+  {
+   "subtema": "geografia-populacao-urbana",
+   "id": "enem-geografia-36",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Macrocefalia urbana pode ser entendida como a massiva concentração das atividades econômicas em algumas metrópoles que propicia o desencadeamento de processos descompassados: redirecionamento e convergência de fluxos migratórios, déficit no número de empregos, ocupação desordenada de determinadas regiões da cidade e estigmatização de estratos sociais, que comprometem substancialmente a segurança pública urbana.",
+   "fonte_texto": "SANTOS, M. O espaço dividido: os dois circuitos da economia urbana dos países subdesenvolvidos. São Paulo: Edusp, 2004.",
+   "enunciado": "O processo de concentração espacial apresentado foi estimulado por qual fator geográfico?",
+   "alternativas": {
+    "a": "Limitação da área ocupada.",
+    "b": "Êxodo da população do campo.",
+    "c": "Ampliação do risco habitacional.",
+    "d": "Deficiência do transporte alternativo.",
+    "e": "Crescimento da taxa de fecundidade."
+   },
+   "resposta": "b",
+   "explicacao": "A macrocefalia urbana é a concentração de gente e atividade em poucas metrópoles, alimentada pela \"convergência de fluxos migratórios\" — no Brasil, sobretudo o êxodo rural da segunda metade do século XX, que despejou nas grandes cidades uma população que o emprego formal não absorveu. Risco habitacional e ocupação desordenada (c) são consequências, não causa; área limitada e transporte deficiente (a, d) não geram concentração; a fecundidade (e) caía justamente no período de maior inchaço metropolitano."
   }
  ],
  "geografia-fisica-clima": [
@@ -70840,6 +72637,90 @@ window.QUESTION_BANKS = {
    "explicacao": "A faixa III–II é a passagem do deserto quente (III) para o tropical estacional (II): junto ao deserto a vegetação é rala, de pequeno porte e xerófita (o Sahel), e vai ganhando savana conforme se aproxima da zona II — a savanização gradativa. As outras invertem a lógica: a floresta ombrófila é da zona I (não do limite com II), a zona III é de deserto (não de savana) e o contato com II não é de floresta densa, e a zona V é de floresta temperada, não de gramíneas e arbustos.",
    "resposta": "d",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "enem-geografia-25",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Espera, resignado, o dia 13 daquele mês porque, em tal data, usança avoenga lhe faculta sondar o futuro, interrogando a providência. É a experiência tradicional de Santa Luzia. No dia 12 ao anoitecer expõe ao relento, em linha, seis pedrinhas de sal, que representam, em ordem sucessiva da esquerda para a direita, os seis meses vindouros, de janeiro a junho. Ao alvorecer de 13 observa-as: se estão intactas, pressagiam a seca; se a primeira apenas se deliu, transmudada em aljôfar límpido, é certa a chuva em janeiro; se a segunda, em fevereiro; se a maioria ou todas, é inevitável o inverno benfazejo. Esta experiência é belíssima.",
+   "fonte_texto": "CUNHA, E. Os sertões. São Paulo: Editora Três, 1984.",
+   "enunciado": "No experimento descrito, a relação com a paisagem e com a religiosidade permite que o sertanejo seja",
+   "alternativas": {
+    "a": "afeito à devoção ao aceitar destinos sacralizados.",
+    "b": "acostumado à pobreza ao admitir acasos naturais.",
+    "c": "habituado ao solo ao conhecer terrenos cultiváveis.",
+    "d": "íntimo à Caatinga ao interpretar condições ambientais.",
+    "e": "próximo à vegetação ao identificar espécies arbustivas."
+   },
+   "resposta": "d",
+   "explicacao": "A \"experiência de Santa Luzia\" é uma leitura da umidade do ar: o sal exposto ao relento se dissolve se a atmosfera está úmida, sinal de que a chuva vem, e fica intacto se o ar está seco. Ao vestir esse saber de rito religioso, o sertanejo está, na prática, interpretando as condições ambientais do semiárido em que vive — daí a intimidade com a Caatinga. Não se trata de aceitar passivamente um destino sagrado (a), porque o experimento serve justamente para prever e se preparar; tampouco de reconhecer solos ou espécies vegetais (c, e), que não aparecem no relato."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "enem-geografia-26",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "[Infográfico: quatro cenários de ocupação do solo e o destino da água da chuva em cada um]\nCobertura natural do solo — evapotranspiração: 40%; escoamento superficial: 10%; infiltração subsuperficial: 25%; percolação profunda: 25%.\n10% - 20% de superfície impermeável — evapotranspiração: 38%; escoamento superficial: 20%; infiltração subsuperficial: 21%; percolação profunda: 21%.\n35% - 50% de superfície impermeável — evapotranspiração: 35%; escoamento superficial: 30%; infiltração subsuperficial: 20%; percolação profunda: 15%.\n75% - 100% de superfície impermeável — evapotranspiração: 30%; escoamento superficial: 55%; infiltração subsuperficial: 10%; percolação profunda: 5%.",
+   "fonte_texto": "PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021 (adaptado).",
+   "enunciado": "A intensificação da ocupação urbana demonstrada afeta de forma imediata o(a)",
+   "alternativas": {
+    "a": "nível altimétrico.",
+    "b": "ciclo hidrológico.",
+    "c": "padrão climático.",
+    "d": "tectônica de placas.",
+    "e": "estrutura das rochas."
+   },
+   "resposta": "b",
+   "explicacao": "Os quatro cenários mostram a mesma água da chuva sendo redistribuída conforme a impermeabilização cresce: o escoamento superficial sobe de 10% para 55%, enquanto infiltração e percolação profunda despencam (de 25% cada para 10% e 5%) e a evapotranspiração diminui. O que muda de imediato é o caminho da água — evaporação, infiltração, escoamento —, isto é, o ciclo hidrológico local. Alterações de clima (c) são efeito indireto e de longo prazo; altimetria, tectônica e estrutura das rochas (a, d, e) não são tocadas pela pavimentação."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "enem-geografia-29",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Solos salinos ou alomórficos apresentam como característica comum uma concentração muito alta de sais solúveis e/ou de sódio trocável. Eles ocorrem nos locais mais baixos do relevo, em regiões áridas e semiáridas e próximas do mar. Em regiões semiáridas, por exemplo, o polígono das secas do Nordeste brasileiro, os locais menos elevados recebem água que se escoa dos declives adjacentes, durante as chuvas que caem em alguns meses do ano. Essa água traz soluções de sais minerais e evapora-se rapidamente antes de infiltrar-se totalmente, havendo então, cada vez que esse processo é repetido, um pequeno acúmulo de sais no horizonte superficial que, com o passar dos anos, provoca a salinização do solo. Nas últimas décadas, a expansão das atividades agrícolas na região tem ampliado esse processo.",
+   "fonte_texto": "LEPSCH, I. F. Solos: formação e conservação. São Paulo: Melhoramentos, 1993 (adaptado).",
+   "enunciado": "As atividades agrícolas, desenvolvidas na região mencionada, intensificam o problema ambiental exposto ao",
+   "alternativas": {
+    "a": "realizar florestamentos de pinus, desrespeitando a prática do pousio.",
+    "b": "utilizar sistemas de irrigação, desprezando uma drenagem adequada.",
+    "c": "instalar açudes nos grotões, retardando a velocidade da vazão fluvial.",
+    "d": "desmatar áreas de preservação permanente, causando assoreamento.",
+    "e": "aplicar fertilizantes de origem orgânica, modificando a química da terra."
+   },
+   "resposta": "b",
+   "explicacao": "O mecanismo descrito é água carregada de sais que evapora antes de infiltrar, deixando o sal na superfície. A agricultura no semiárido repete esse ciclo artificialmente quando irriga sem drenagem: a água de irrigação traz sais, o sol forte a evapora e, sem drenagem que os lave para baixo, eles se acumulam no horizonte superficial. Pinus e pousio (a) não têm relação com salinização; açudes e desmatamento (c, d) alteram vazão e assoreamento, não o teor de sais; fertilizantes orgânicos (e) não são a causa apontada."
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "enem-geografia-32",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As forças tectônicas dentro da litosfera, controladas pelo calor interno das profundezas, geram terremotos, erupções e soerguimento de montanhas. As forças meteorológicas dentro da atmosfera e da hidrosfera, controladas pelo calor do Sol, produzem tempestades, inundações, geleiras e outros agentes de erosão.",
+   "fonte_texto": "PRESS, F. et al. Para entender a Terra. Porto Alegre: Bookman, 2006 (adaptado).",
+   "enunciado": "A interação dinâmica entre as forças naturais citadas favorece a ocupação do espaço geográfico, na medida em que provoca a formação de",
+   "alternativas": {
+    "a": "solos vulcânicos.",
+    "b": "dorsais oceânicas.",
+    "c": "relevos escarpados.",
+    "d": "superfícies lateríticas.",
+    "e": "dobramentos modernos."
+   },
+   "resposta": "a",
+   "explicacao": "A pergunta pede o produto da interação entre as duas forças — a interna (erupções) e a externa (intemperismo, erosão) — que favoreça a ocupação humana. O material vulcânico expelido pelo agente interno, decomposto pelo agente externo, origina solos férteis, e é essa fertilidade que atrai povoamento em encostas de vulcões. Dorsais e dobramentos (b, e) são obra só do agente interno; escarpas (c) dificultam a ocupação; superfícies lateríticas (d) são pobres e resultam só do agente externo."
   }
  ],
  "geografia-agraria-economica": [
@@ -73045,6 +74926,69 @@ window.QUESTION_BANKS = {
    "explicacao": "O Indo deságua no Oceano Índico — a bacia é exorreica, o que elimina as opções que falam em drenagem para o interior do continente. No mapa, os afluentes nascem a montante, na Índia e na Caxemira, e correm para o Paquistão, a jusante: quem está a montante (Índia) tem o poder de controlar a vazão, e é o Paquistão, agrícola e dependente dessa água, que fica vulnerável — daí a ameaça de tratar o bloqueio como “ato de guerra”. A opção que inverte as posições (Paquistão a montante) contradiz o mapa.",
    "resposta": "d",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "enem-geografia-27",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma nova economia surgiu em escala global no último quartel do século XX. Chamo-a de informacional, global e em rede para identificar suas características fundamentais e diferenciadas e enfatizar sua interligação. É informacional porque depende basicamente de sua capacidade de gerar, processar e aplicar de forma eficiente a informação baseada em conhecimentos. É global porque seus componentes estão organizados em escala global, diretamente ou mediante uma rede de conexões entre agentes econômicos. É rede porque é feita em uma rede global de interação entre redes empresariais.",
+   "fonte_texto": "CASTELLS, M. A sociedade em rede — a era da informação: economia, sociedade e cultura. São Paulo: Paz e Terra, 1999 (adaptado).",
+   "enunciado": "Qual mudança estrutural é resultado da forma de organização econômica descrita no texto?",
+   "alternativas": {
+    "a": "Fabricação em série.",
+    "b": "Ampliação de estoques.",
+    "c": "Fragilização dos cartéis.",
+    "d": "Padronização de mercadorias.",
+    "e": "Desterritorialização da produção."
+   },
+   "resposta": "e",
+   "explicacao": "Uma economia organizada \"em escala global\", por redes de conexão entre empresas, deixa de depender de um lugar fixo: as etapas produtivas se espalham por vários países conforme custos e informação — é a desterritorialização da produção típica da economia globalizada. Fabricação em série, grandes estoques e padronização (a, b, d) são marcas do fordismo, o modelo anterior de produção industrial em massa, que a economia informacional flexibiliza. Cartéis (c) não são tema do texto."
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "enem-geografia-28",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Olhar o Brasil e não ver o sertão\nÉ como negar o queijo com a faca na mão\nEsse gigante em movimento\nMovido a tijolo e cimento\nPrecisa de arroz com feijão\nQue tenha comida na mesa\nQue agradeça sempre a grandeza\nDe cada pedaço de pão\nAgradeça a Clemente\nQue leva a semente\nEm seu embornal\nZezé e o penoso balé\nDe pisar no cacau\nMaria que amanhece o dia\nLá no milharal",
+   "fonte_texto": "VANDER LEE. Do Brasil. In: Pensei que fosse o céu: ao vivo. Rio de Janeiro: Indie Records, 2006 (fragmento).",
+   "enunciado": "A letra da canção valoriza uma dimensão do espaço rural brasileiro em sua relação com a cidade ao ressaltar sua função de",
+   "alternativas": {
+    "a": "fornecer a mão de obra qualificada.",
+    "b": "incorporar a inovação tecnológica.",
+    "c": "preservar a diversidade biológica.",
+    "d": "promover a produção alimentar.",
+    "e": "garantir a moradia básica."
+   },
+   "resposta": "d",
+   "explicacao": "O \"gigante movido a tijolo e cimento\" — a cidade — \"precisa de arroz com feijão\", e a canção agradece a Clemente que semeia, a Zezé que pisa o cacau, a Maria do milharal: o sertão é celebrado como quem põe comida na mesa urbana — a agricultura do interior alimentando a cidade. A função destacada é a produção de alimentos. Não se fala de qualificação de trabalhadores, tecnologia, biodiversidade nem moradia (a, b, c, e)."
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "enem-geografia-30",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Em 2003, teve início o Programa de Aquisição de Alimentos e, com ele, várias mudanças na perspectiva dos mercados institucionais. Trata-se do primeiro programa de compras públicas com uma orientação exclusiva para a agricultura familiar, articulando-a explicitamente com a segurança alimentar e nutricional. O Programa é destinado à aquisição de produtos agropecuários produzidos por agricultores enquadrados no Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), incluídas aqui as categorias: assentados da reforma agrária, trabalhadores rurais sem terra, acampados, quilombolas, agroextrativistas, famílias atingidas por barragens e comunidades indígenas.",
+   "fonte_texto": "GRISA, C.; ISOPO, S. P. Dez anos de PAA: As contribuições e os desafios para o desenvolvimento rural. In: GRISA, C.; SCHNEIDER, S. (Org.). Políticas públicas de desenvolvimento rural no Brasil. Porto Alegre: UFRGS, 2015.",
+   "enunciado": "A ação governamental descrita constitui-se uma importante conquista para os pequenos produtores em virtude da:",
+   "alternativas": {
+    "a": "Inovação tecnológica.",
+    "b": "Reestruturação fundiária.",
+    "c": "Comercialização garantida.",
+    "d": "Eliminação no custo do frete.",
+    "e": "Negociação na bolsa de valores."
+   },
+   "resposta": "c",
+   "explicacao": "O PAA é um programa de \"compras públicas\": o Estado compra o que a agricultura familiar produz. Para o pequeno produtor, cuja dificuldade histórica é escoar a produção, isso significa mercado assegurado — comercialização garantida. O programa não distribui terra (b), não fornece tecnologia (a), não trata de frete (d) e nada tem a ver com bolsa de valores (e), ambiente das grandes commodities, não da agricultura familiar."
   }
  ],
  "geografia-geopolitica": [
@@ -74593,6 +76537,69 @@ window.QUESTION_BANKS = {
    "explicacao": "O Irã é xiita e lidera o “eixo da resistência” com grupos xiitas ou aliados: o Hezbollah no Líbano e os Houthis no Iêmen são seus aliados. Seus adversários na região são sunitas — a minoria sunita do Iraque, que disputa poder com o governo xiita apoiado por Teerã, e o Estado Islâmico, grupo sunita radical que o Irã combateu na Síria. Qualquer opção que ponha Hezbollah ou Houthis como disputa, ou o Estado Islâmico como aliado, inverte essas relações.",
    "resposta": "a",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "enem-geografia-31",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Brasil e Argentina chegaram a um acordo para a redução em 10% da Tarifa Externa Comum (TEC) do Mercosul. O consenso foi alcançado durante negociação entre o ministro das Relações Exteriores do Brasil e o seu equivalente argentino, no Palácio do Itamaraty, em Brasília, no início do mês de outubro de 2021. A redução da TEC é um antigo desejo do Brasil, que pretende abrir mais sua economia e, com isso, ajudar a controlar a inflação. Já a Argentina temia que a medida pudesse afetar sua produção industrial. O acordo vai abranger uma ampla gama de produtos e ainda será apresentado ao Paraguai e Uruguai, para que seja formalizado.",
+   "fonte_texto": "Brasil e Argentina fecham acordo para corte de 10% na tarifa do Mercosul. Disponível em: https://oglobo.globo.com. Acesso em: 8 out. 2021 (adaptado).",
+   "enunciado": "A necessidade de negociação diplomática para viabilizar o acordo tarifário mencionado é explicada pela seguinte característica do Mercosul:",
+   "alternativas": {
+    "a": "Limitação da circulação financeira.",
+    "b": "Padronização da política monetária.",
+    "c": "Funcionamento da união aduaneira.",
+    "d": "Dependência da exportação agrícola.",
+    "e": "Equivalência da legislação trabalhista."
+   },
+   "resposta": "c",
+   "explicacao": "A Tarifa Externa Comum é o que define uma união aduaneira: os membros cobram a mesma tarifa de quem está fora do bloco. Por isso o Brasil não pode reduzi-la sozinho — precisa negociar com a Argentina e ainda submeter o acordo a Paraguai e Uruguai. Política monetária comum (b) seria estágio de união monetária, que o Mercosul não tem; circulação financeira, exportação agrícola e legislação trabalhista (a, d, e) não explicam por que uma tarifa exige consenso."
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "enem-geografia-33",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Colegas, na mente e no coração do povo, a Crimeia sempre foi uma porção inseparável da Rússia. Essa firme convicção se baseia na verdade e na justiça e foi passada de geração em geração, ao longo do tempo, sob quaisquer circunstâncias, apesar de todas as drásticas mudanças que nosso país atravessou durante todo o século XX.",
+   "fonte_texto": "Disponível em: http://g1.globo.com. Acesso em: 28 jul. 2014.",
+   "enunciado": "Considerando a dinâmica geopolítica subjacente ao texto, a justificativa utilizada por Vladimir Putin, em 2014, para anexação dessa península apela para o argumento de que",
+   "alternativas": {
+    "a": "as populações com idioma comum devem estar submetidas à mesma autoridade estatal.",
+    "b": "o imperialismo soviético havia se acomodado às pretensões das potências vizinhas.",
+    "c": "os organismos transnacionais são incapazes de solucionar disputas territoriais.",
+    "d": "a integração regional supõe a livre circulação de pessoas e mercadorias.",
+    "e": "a expulsão das forças navais ocidentais garantiria a soberania nacional."
+   },
+   "resposta": "a",
+   "explicacao": "Putin apela ao vínculo \"na mente e no coração do povo\", passado \"de geração em geração\": a Crimeia seria russa por identidade cultural — e a maioria de sua população é russófona. É o argumento nacionalista de que quem partilha língua e cultura deve pertencer ao mesmo Estado. O discurso não fala em organismos internacionais, integração econômica ou forças navais (c, d, e), e não descreve a URSS como acomodada a vizinhos (b) — ao contrário, evoca a continuidade russa apesar das mudanças do século XX."
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "enem-geografia-35",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Nascidas no Líbano, as duas irmãs não puderam ser registradas no país, porque lá é exigido que os nascidos sejam filhos de pais e mães libaneses. Seus pais, de nacionalidade síria, também não puderam registrá-las no país de origem. Na Síria, crianças só são registradas por pais oficialmente casados, o que não era o caso deles.",
+   "fonte_texto": "Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 7 nov. 2021.",
+   "enunciado": "Em situações como a apresentada no texto, as pessoas ao nascerem já se encontram na condição sociopolítica de",
+   "alternativas": {
+    "a": "exiladas.",
+    "b": "apátridas.",
+    "c": "foragidas.",
+    "d": "refugiadas.",
+    "e": "clandestinas."
+   },
+   "resposta": "b",
+   "explicacao": "As irmãs não puderam ser registradas nem no Líbano, onde nasceram, nem na Síria, país dos pais: nenhum Estado as reconhece como nacionais — e a nacionalidade é o vínculo entre a pessoa e a soberania de um Estado. Pessoa sem nacionalidade é apátrida. Exílio, refúgio e fuga (a, d, c) supõem alguém que tem um país e dele saiu ou foge; \"clandestina\" (e) descreve entrada irregular em território alheio, o que não é o caso de quem nasceu no lugar."
   }
  ],
  "geografia-ambiente-sustentabilidade": [
@@ -78922,6 +80929,69 @@ window.QUESTION_BANKS = {
    "explicacao": "Para Luxemburgo, socialismo e democracia são “duas faces da mesma moeda” (texto 1): só as massas esclarecidas e autônomas, exercendo o poder nos conselhos, realizam o socialismo democrático (texto 2). É o que diz a alternativa correta. Restringir imprensa e eleições é exatamente o que ela denuncia como caminho para a burocracia; a democracia como etapa posterior à tomada do poder é a estratégia que ela rejeita; e ela não iguala a democracia dos conselhos à democracia representativa.",
    "resposta": "d",
    "origem": "medicina"
+  },
+  {
+   "subtema": "filosofia-politica",
+   "id": "enem-filosofia-sociologia-34",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Sempre que a relevância do discurso entra em jogo, a questão torna-se política por definição, pois é o discurso que faz do homem um ser político. E tudo que os homens fazem, sabem ou experimentam só tem sentido na medida em que pode ser discutido. Haverá, talvez, verdades que ficam além da linguagem e que podem ser de grande relevância para o homem no singular, isto é, para o homem que, seja o que for, não é um ser político. Mas homens no plural, isto é, os homens que vivem e se movem e agem neste mundo, só podem experimentar o significado das coisas por poderem falar e ser inteligíveis entre si e consigo mesmos.",
+   "fonte_texto": "ARENDT, H. A condição humana. Rio de Janeiro: Forense Universitária, 2004.",
+   "enunciado": "No trecho, a filósofa Hannah Arendt mostra a importância da linguagem no processo de",
+   "alternativas": {
+    "a": "entendimento da cultura.",
+    "b": "aumento da criatividade.",
+    "c": "percepção da individualidade.",
+    "d": "melhoria da técnica.",
+    "e": "construção da sociabilidade."
+   },
+   "resposta": "e",
+   "explicacao": "Para Arendt, o discurso é o que faz do homem um ser político, e o sentido das coisas só existe entre \"homens no plural\", que falam e se tornam inteligíveis uns aos outros. A linguagem, portanto, é a condição da vida em comum — da sociabilidade. A percepção da individualidade (c) é o oposto do que o texto valoriza: as verdades do \"homem no singular\", fora da linguagem, são justamente as que não são políticas. Cultura, criatividade e técnica (a, b, d) não são o foco do trecho."
+  },
+  {
+   "subtema": "filosofia-politica",
+   "id": "enem-filosofia-sociologia-37",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O leproso é visto dentro de uma prática da rejeição, do exílio-cerca; deixa-se que se perca lá dentro como numa massa que não tem muita importância diferenciar; os pestilentos são considerados num policiamento tático meticuloso onde as diferenciações individuais são os efeitos limitantes de um poder que se multiplica, se articula e se subdivide. O grande fechamento por um lado; o bom treinamento por outro. A lepra e sua divisão; a peste e seus recortes. Uma é marcada; a outra, analisada e repartida. O exílio do leproso e a prisão da peste não trazem consigo o mesmo sonho político.",
+   "fonte_texto": "FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987.",
+   "enunciado": "Os modelos autoritários descritos no texto apontam para um sistema de controle que se baseia no(a):",
+   "alternativas": {
+    "a": "Formação de sociedade disciplinar.",
+    "b": "Flexibilização do regramento social.",
+    "c": "Banimento da autoridade repressora.",
+    "d": "Condenação da degradação humana.",
+    "e": "Hierarquização da burocracia estatal."
+   },
+   "resposta": "a",
+   "explicacao": "Foucault contrapõe dois modelos: a exclusão do leproso (o \"grande fechamento\") e o esquadrinhamento da cidade pestilenta, com \"policiamento tático meticuloso\", vigilância e \"bom treinamento\" de cada indivíduo. É desse segundo modelo, do poder que \"se multiplica, se articula e se subdivide\", que nasce a sociedade disciplinar analisada em Vigiar e punir. Flexibilizar regras ou banir a repressão (b, c) contradiz o texto, que descreve controle intensificado; degradação humana e burocracia (d, e) não são o objeto da análise."
+  },
+  {
+   "subtema": "filosofia-politica",
+   "id": "enem-filosofia-sociologia-44",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "O princípio básico do Estado de direito é o da eliminação do arbítrio no exercício dos poderes públicos, com a consequente garantia de direitos dos indivíduos perante esses poderes. Estado de direito significa que nenhum indivíduo, presidente ou cidadão comum está acima da lei. Os governos democráticos exercem a autoridade por meio da lei e estão eles próprios sujeitos aos constrangimentos impostos pela lei.",
+   "fonte_texto": "CANOTILHO, J. J. G. Estado de direito. Lisboa: Gradiva, 1999 (adaptado).",
+   "enunciado": "Nas sociedades contemporâneas, consiste em violação do princípio básico enunciado no texto:",
+   "alternativas": {
+    "a": "Supressão de eleições de representantes políticos.",
+    "b": "Intervenção em áreas de vulnerabilidade pela Igreja.",
+    "c": "Disseminação de projetos sociais em universidades.",
+    "d": "Ampliação dos processos de concentração de renda.",
+    "e": "Regulamentação das relações de trabalho pelo Legislativo."
+   },
+   "resposta": "a",
+   "explicacao": "O princípio é a eliminação do arbítrio: o poder se exerce pela lei e dentro dela. Suprimir eleições — o mecanismo da democracia representativa — é o governante colocar-se acima da lei que organiza a escolha dos representantes — arbítrio puro, ruptura do Estado de direito. Regulamentar o trabalho pelo Legislativo (e) é o contrário: poder exercido \"por meio da lei\". Ação da Igreja, projetos sociais e concentração de renda (b, c, d) podem ser discutíveis, mas não configuram exercício arbitrário do poder público."
   }
  ],
  "filosofia-etica-moral": [
@@ -80254,6 +82324,27 @@ window.QUESTION_BANKS = {
    "explicacao": "Cícero une os dois textos: a justiça tem por fundamento não prejudicar ninguém e servir à utilidade comum (texto 1), e sua base é a lei natural, “a reta razão ao obrigar e proibir”, escrita ou não (texto 2). A alternativa correta junta as duas peças. Reduzir a justiça à obediência às leis escritas é justamente a tese que ele refuta; dizer que a injustiça ocorre quando a utilidade “deixa de ser a medida” inverte o argumento (é medir tudo pela utilidade que destrói a justiça); e o vantajoso para si é o que corrói a lei, não o que a cumpre.",
    "resposta": "b",
    "origem": "medicina"
+  },
+  {
+   "subtema": "filosofia-etica-moral",
+   "id": "enem-filosofia-sociologia-50",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça.",
+   "fonte_texto": "SÊNECA, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990.",
+   "enunciado": "O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a",
+   "alternativas": {
+    "a": "valorização de disputas dialógicas.",
+    "b": "rejeição das convenções sociais.",
+    "c": "inspiração de natureza religiosa.",
+    "d": "exaltação do sofrimento.",
+    "e": "moderação das paixões."
+   },
+   "resposta": "e",
+   "explicacao": "Sêneca é estoico: a filosofia ensina a manter o ânimo sereno \"qualquer que seja o estado do corpo\", inclusive diante da morte. Não se trata de exaltar o sofrimento (d), mas de não se deixar abalar por ele — domínio das paixões, apatheia, a virtude estoica por excelência. Basso não rejeita convenções (b), tese cínica, nem busca consolo religioso (c); e o texto trata de uma atitude interior, não de debate ou disputa (a)."
   }
  ],
  "sociologia-trabalho-classes": [
@@ -81527,6 +83618,48 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Just-in-time nasce na produção enxuta para designar o insumo que chega na hora exata em que é preciso. Aplicado ao trabalhador, descreve quem fica disponível sem jornada garantida e é acionado conforme a demanda, remunerado por peça — que é o elemento central que o texto atribui à uberização. Escala fixa (A) é o oposto; filantrópico (B) e sob proteção legal (D) contrariam a eliminação de direitos descrita; e híbrido (C) diz respeito ao local de trabalho, não ao vínculo."
+  },
+  {
+   "subtema": "sociologia-trabalho-classes",
+   "id": "enem-filosofia-sociologia-40",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "A dublagem é o novo campo a ser explorado pela inteligência artificial, e há empresas dedicadas a fazer com que as vozes originais de atores sejam transpostas para outros idiomas. A novidade reforça a tendência da automação de postos de trabalho nas mais diversas áreas. Tem potencial para facilitar a vida de estúdios e produtoras e, ao mesmo tempo, tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso.",
+   "fonte_texto": "GAGLIONI, C. Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.",
+   "enunciado": "A consequência da mudança tecnológica apresentada no texto é a",
+   "alternativas": {
+    "a": "proteção da economia nacional.",
+    "b": "valorização da cultura tradicional.",
+    "c": "diminuição da formação acadêmica.",
+    "d": "estagnação da manifestação artística.",
+    "e": "ampliação do desemprego estrutural."
+   },
+   "resposta": "e",
+   "explicacao": "O texto é explícito: a inteligência artificial na dublagem \"reforça a tendência da automação de postos de trabalho\" e torna \"mais escassas as oportunidades\" para dubladores. Postos que desaparecem por mudança técnica — a automação é uma face da reestruturação produtiva —, e não por crise passageira, configuram desemprego estrutural. Nada no texto fala de proteção econômica, cultura tradicional ou formação acadêmica (a, b, c), e a arte não \"estagna\" (d) — o que muda é quem faz o trabalho."
+  },
+  {
+   "subtema": "sociologia-trabalho-classes",
+   "id": "enem-filosofia-sociologia-43",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nInterseccionalidade: intercruzamento de desigualdades que gera padrões complexos de discriminação.\n\nTEXTO II\nProporção de pessoas abaixo da linha de pobreza, por arranjo domiciliar no Brasil — 2017\nMulher sem cônjuge e com filho(s) até 14 anos: 56,9%\n— Mulher preta ou parda sem cônjuge e com filho(s) até 14 anos: 64,4%\n— Mulher branca sem cônjuge e com filho(s) até 14 anos: 41,5%\nCasal com filho(s): 30,4%\nOutros: 21,0%\nUnipessoal: 11,6%\nCasal sem filho: 10,0%",
+   "fonte_texto": "Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.",
+   "enunciado": "Considerando o conceito apresentado no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:",
+   "alternativas": {
+    "a": "Raça e gênero.",
+    "b": "Etnia e habitação.",
+    "c": "Idade e nupcialidade.",
+    "d": "Profissão e sexualidade.",
+    "e": "Escolaridade e fecundidade."
+   },
+   "resposta": "a",
+   "explicacao": "Os dados cruzam duas variáveis: ser mulher chefiando o domicílio sozinha (56,9% abaixo da linha de pobreza, contra 30,4% dos casais com filhos) e a cor dessa mulher (64,4% entre pretas e pardas, 41,5% entre brancas). Gênero e raça se sobrepõem e agravam a desigualdade — é exatamente o intercruzamento que o Texto I chama de interseccionalidade. Idade, profissão, sexualidade, escolaridade e fecundidade (c, d, e) não constam do gráfico; \"habitação\" (b) confunde arranjo domiciliar com moradia."
   }
  ],
  "sociologia-cultura-identidade": [
@@ -83621,6 +85754,153 @@ window.QUESTION_BANKS = {
    "explicacao": "Preciado parte da OMS para afirmar que a taxonomia binária das instituições é “arbitrária e inatural”, legitima a “violência heteropatriarcal e colonial” e precisa de revisão — uma nova epistemologia que amplie “radicalmente o horizonte democrático” para reconhecer todo corpo vivo como sujeito político. É o que a alternativa correta resume. A primeira opção afirma o contrário do texto (diferença sexual natural e fixa); a segunda propõe “reconciliar” as pessoas com a natureza, quando o autor questiona justamente a ideia de natureza binária; a última introduz o “mérito”, ausente do texto.",
    "resposta": "c",
    "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-35",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos no regime da chibata?",
+   "fonte_texto": "JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.",
+   "enunciado": "O texto, que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o(a):",
+   "alternativas": {
+    "a": "Racismo estrutural.",
+    "b": "Desemprego latente.",
+    "c": "Concentração de renda.",
+    "d": "Exclusão informacional.",
+    "e": "Precariedade da educação."
+   },
+   "resposta": "a",
+   "explicacao": "Carolina Maria de Jesus descreve um agente do Estado branco espancando e amarrando um homem negro a uma árvore, e associa a cena ao \"regime da chibata\" — a escravidão que, oficialmente extinta, sobrevive nas práticas e instituições. Violência racial reproduzida por quem representa o poder público é a marca do racismo estrutural. Os demais itens nomeiam problemas sociais reais, mas nenhum deles é o que a cena narrada expõe: não há menção a renda, emprego, escola ou acesso à informação."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-36",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\n[Charge: entre casas de uma favela, um menino no telhado ergue o celular; balões:] \"TÁ ESTUDANDO, JÚNIOR?\" — \"CALMA, TÔ TENTANDO ACHAR UM SINAL DE WI-FI!\"\nCAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).\n\nTEXTO II\nÉ como se os problemas fossem criados pela pandemia quando, em verdade, isso só demonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá, empurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam que parcela significativa dos estudantes não têm acesso à internet em suas casas, não têm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a todas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular?",
+   "fonte_texto": "ASSIS, A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).",
+   "enunciado": "A crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade contemporânea:",
+   "alternativas": {
+    "a": "Exclusão social.",
+    "b": "Expansão digital.",
+    "c": "Manifestação cultural.",
+    "d": "Organização espacial.",
+    "e": "Valorização intelectual."
+   },
+   "resposta": "a",
+   "explicacao": "A charge mostra um estudante que precisa caçar sinal de wi-fi para \"estudar\", e o texto explica que a pandemia só expôs o que já existia: parcela significativa dos alunos sem internet, sem computador, com pacotes de dados insuficientes. Quem não tem os meios de acesso fica de fora da escola remota — é exclusão social, com sua face digital. \"Expansão digital\" (b) inverte o sentido da crítica, que é justamente a falta de acesso; cultura, espaço e valorização intelectual (c, d, e) não são o ponto."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-38",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nEm março de 1889, quando apareceram as primeiras romarias atraídas pelos milagres da beata Maria de Araújo, Juazeiro inseriu-se no rol da fundação do espaço religioso. Construía-se mais um centro, como Aparecida do Norte, Canindé ou Lourdes.\nRAMOS, F. R. L. O meio do mundo: território sagrado em Juazeiro do Padre Cícero. Fortaleza: Imprensa Universitária, 2014.\n\nTEXTO II\nNão sabemos ao certo quantas pessoas estavam presentes na capela no momento em que a hóstia sangrou na boca de Maria de Araújo. O Padre Cícero nos conta que o fato surpreendeu não só aos presentes, mas a própria beata parecia atordoada com o ocorrido. O fenômeno continuou acontecendo todas as quartas e sextas na Capela de Nossa Senhora das Dores a partir daquele dia. Os paninhos manchados do sangue que escorria da hóstia e da boca da beata, a princípio, ficaram sob a guarda do Padre Cícero, mas logo foram expostos à visitação pública e, além disso, o sangramento foi proclamado como milagre sem o conhecimento e sem a autorização do bispo diocesano.",
+   "fonte_texto": "NOBRE, E. Incêndios da alma. Rio de Janeiro: Multifoco, 2016 (adaptado).",
+   "enunciado": "As práticas religiosas mencionadas nos textos estão associadas, respectivamente, à:",
+   "alternativas": {
+    "a": "Delimitação de paisagens urbanas e abandono de componentes espiritualistas.",
+    "b": "Demarcação de patrimônios afetivos e apropriação de elementos judaizantes.",
+    "c": "Expansão de fronteiras regionais e subjetivação do cristianismo medieval.",
+    "d": "Circunscrição de bens simbólicos e admissão de cerimônias ecumênicas.",
+    "e": "Criação de lugares místicos e experiências do catolicismo popular."
+   },
+   "resposta": "e",
+   "explicacao": "O Texto I trata da \"fundação do espaço religioso\": as romarias transformam Juazeiro em um centro sagrado, ao lado de Aparecida, Canindé e Lourdes — criação de um lugar místico. O Texto II descreve o milagre da hóstia, os paninhos expostos à visitação e a proclamação do milagre \"sem a autorização do bispo\" — uma devoção que nasce do povo e à margem da hierarquia, isto é, catolicismo popular, expressão da cultura religiosa do sertão. Os demais pares trazem termos sem lastro nos textos: não há abandono da espiritualidade, elementos judaizantes, cristianismo medieval nem ecumenismo."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-41",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "[Ilustração: uma espiral que repete, volta após volta, a sequência TENSÃO → AGRESSÃO → LUA DE MEL; a cada ciclo a espiral se estreita, até chegar, no alto, a MORTE, marcada por uma cruz. Legenda das fases:]\nLUA DE MEL — carinho, paixão, presentes, promessas, reconciliação, liberdade\nTENSÃO — insulto, humilhação, intimidação, gritos, ameaça, controle, isolamento, medo, conflitos, descumprimento de promessa\nAGRESSÃO — empurrão, beliscão, puxão de cabelo, sufocamento, arremesso de objetos, tapa, chute, espancamento",
+   "fonte_texto": "Disponível em: https://ndmais.com.br. Acesso em: 8 out. 2021.",
+   "enunciado": "O ápice da ilustração se traduz por uma conduta social caracterizada pela",
+   "alternativas": {
+    "a": "cultura do cancelamento.",
+    "b": "prática do feminicídio.",
+    "c": "postura negacionista.",
+    "d": "ação involuntária.",
+    "e": "defesa da honra."
+   },
+   "resposta": "b",
+   "explicacao": "A ilustração é o ciclo da violência doméstica contra a mulher: tensão (controle, isolamento, ameaças), agressão física e \"lua de mel\" (presentes, promessas de mudança), repetidos até que a espiral termine em morte. O desfecho desse ciclo é o feminicídio. \"Defesa da honra\" (e) é a velha justificativa usada por agressores, não a conduta que o ápice representa; a morte no fim de um ciclo repetido não é involuntária (d); cancelamento e negacionismo (a, c) não têm relação com a cena."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-45",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "O povo Kambeba é o povo das águas. Os mais velhos costumam contar que o povo nasceu de uma gota-d'água que caiu do céu em uma grande chuva. Nessa gota estavam duas gotículas: o homem e a mulher. \"Por essa narrativa e cosmologia indígena de que nós somos o povo das águas é que o rio nos tem fundamental importância\", diz Márcia Wayna Kambeba, mestre em Geografia e escritora. Todos os dias, ela ia com o pai observar o rio. Ia em silêncio e, antes que tomasse para si a palavra, era interrompida. \"Ouça o rio\", o pai dizia. Depois de cerca de duas horas a ouvir as águas do Solimões, ela mergulhava. \"Confie no rio e aprenda com ele\". \"Fui entender mais tarde, com meus estudos e vivências, que meu pai estava me apresentando à sabedoria milenar do rio\".",
+   "fonte_texto": "Rios amazônicos influenciam no agro e em reservatórios do Sudeste. Disponível em: www.uol.com.br. Acesso em: 14 out. 2021.",
+   "enunciado": "Pelo descrito no texto, o povo Kambeba tem o rio como um(a)",
+   "alternativas": {
+    "a": "objeto tombado e museográfico.",
+    "b": "herança religiosa e sacralizada.",
+    "c": "cenário bucólico e paisagístico.",
+    "d": "riqueza individual e efêmera.",
+    "e": "patrimônio cultural e afetivo."
+   },
+   "resposta": "e",
+   "explicacao": "O rio aparece como origem do povo na cosmologia, como mestre (\"aprenda com ele\") e como vínculo transmitido de pai para filha em visitas diárias — um bem coletivo, cultural e carregado de afeto. Não é peça de museu (a) nem mera paisagem contemplada de fora (c); é vivo e cotidiano. \"Riqueza individual e efêmera\" (d) contradiz a \"sabedoria milenar\" partilhada pelo povo. A opção (b) tenta, mas o texto fala de cosmologia e sabedoria, sem culto ou sacralização — o rio é herança de cultura e de vivência, não de rito."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-46",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Hoje sou um ser inanimado, mas já tive vida pulsante em seivas vegetais, fui um ser vivo; é bem verdade que do reino vegetal, mas isso não me tirou a percepção de vida vivida como tamborete. Guardo apreço pelos meus criadores, as mãos que me fizeram, me venderam, e pelas mulheres que me usaram para suas vendas e de tantas outras maneiras. Essas pessoas, sim, tiveram suas subjetividades, singularidades e pluralidades, que estão incorporadas a mim. É preciso considerar que a nossa história, de móveis de museus, está para além da mera vinculação aos estilos e à patrimonialização que recebemos como bem material vinculado ao patrimônio imaterial. A nossa história está ligada aos dons individuais das pessoas e suas práticas sociais. Alguns indivíduos consagravam-se por terem determinados requisitos, tais como o conhecimento de modelos clássicos ou destreza nos desenhos.",
+   "fonte_texto": "FREITAS, J. M.; OLIVEIRA, L. R. Memórias de um tamborete de baiana: as muitas vozes em um objeto de museu. Revista Brasileira de Pesquisa (Auto)Biográfica, n. 14, maio-ago. 2020 (adaptado).",
+   "enunciado": "Ao descrever-se como patrimônio museológico, o objeto abordado no texto associa a sua história às",
+   "alternativas": {
+    "a": "habilidades artísticas e culturais dos sujeitos.",
+    "b": "vocações religiosas e pedagógicas dos mestres.",
+    "c": "naturezas antropológica e etnográfica dos expositores.",
+    "d": "preservações arquitetônica e visual dos conservatórios.",
+    "e": "competências econômica e financeira dos comerciantes."
+   },
+   "resposta": "a",
+   "explicacao": "O tamborete diz que sua história \"está ligada aos dons individuais das pessoas e suas práticas sociais\" — as mãos que o fizeram, com \"conhecimento de modelos clássicos ou destreza nos desenhos\", e as baianas que o usaram. São habilidades artísticas e práticas culturais dos sujeitos, não o estilo ou a etiqueta de museu. Não se fala de religião ou pedagogia (b), de expositores (c), de arquitetura (d); e a venda é citada de passagem, sem que a história do objeto seja reduzida à competência comercial (e)."
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "enem-filosofia-sociologia-51",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Em Vitória (ES), no bairro Goiabeiras, encontramos as paneleiras, mulheres que são conhecidas pelos saberes/fazeres das tradicionais panelas de barro, ícones da culinária capixaba. A tradição passada de mãe para filha é de origem indígena e sofreu influência de outras etnias, como a afro e a luso. Dessa mistura, acredita-se que a fabricação das panelas de barro já tenha 400 anos. A fabricação das panelas de barro se dá em várias etapas, desde a obtenção de matéria-prima à confecção das panelas. As matérias-primas tradicionalmente utilizadas são provenientes do meio natural, como: argila, retirada do barreiro no Vale do Mulembá; madeira, atualmente proveniente das sobras da construção civil; e tinta, extraída da casca do manguezal, o popular mangue-vermelho.",
+   "fonte_texto": "TRISTÃO, M. A educação ambiental e o pós-colonialismo. Revista de Educação, n. 53, ago. 2014.",
+   "enunciado": "Uma característica de práticas tradicionais como a exemplificada no texto é a vinculação entre os recursos do mundo natural e a",
+   "alternativas": {
+    "a": "manutenção dos modos de vida.",
+    "b": "conservação dos plantios da roça.",
+    "c": "atualização do modelo de gestão.",
+    "d": "participação na sociedade de consumo.",
+    "e": "especialização nas etapas de produção."
+   },
+   "resposta": "a",
+   "explicacao": "Argila do barreiro, madeira, tinta da casca do mangue: os recursos naturais sustentam um saber-fazer de 400 anos, passado de mãe para filha — ou seja, mantêm um modo de vida. Não há roça (b) no texto; \"modelo de gestão\" e \"sociedade de consumo\" (c, d) falam a língua da empresa e do mercado, estranha à prática tradicional; e as \"várias etapas\" da fabricação (e) são feitas pelas mesmas paneleiras, sem a especialização que o distrator sugere."
   }
  ],
  "filosofia-conhecimento-logica": [
@@ -84651,6 +86931,69 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Kant define o cético como quem trata os conhecimentos para torná-los incertos, e o dogmático como quem confia cegamente na razão para ampliar-se a priori só por conceitos. A alternativa B traz uma de cada: duvidar da existência do mundo exterior é a tese cética por excelência, e derivar a existência de Deus do conceito de ser perfeito é o argumento ontológico, o exemplo canônico de dogmatismo. Nas demais falta um dos dois lados: em C e E as duas frases são empíricas ou probabilísticas; em A a primeira é uma tese metafísica e a segunda, um dado histórico; e em D a primeira defende a observação, que é o contrário do a priori."
+  },
+  {
+   "subtema": "filosofia-conhecimento-logica",
+   "id": "enem-filosofia-sociologia-47",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Advento da Polis, nascimento da filosofia: entre as duas ordens de fenômenos, os vínculos são demasiado estreitos para que o pensamento racional não apareça, em suas origens, solidário das estruturas sociais e mentais próprias da cidade grega. Assim recolocada na história, a filosofia despoja-se desse caráter de revelação absoluta que às vezes lhe foi atribuído, saudando, na jovem ciência dos jônios, a razão intemporal que veio encarnar-se no Tempo. A escola de Mileto não viu nascer a Razão; ela construiu uma Razão, uma primeira forma de racionalidade. Essa razão grega não é a razão experimental da ciência contemporânea.",
+   "fonte_texto": "VERNANT, J. P. Origens do pensamento grego. Rio de Janeiro: Difel, 2002.",
+   "enunciado": "Os vínculos entre os fenômenos indicados no trecho foram fortalecidos pelo surgimento de uma categoria de pensadores, a saber:",
+   "alternativas": {
+    "a": "Os epicuristas, envolvidos com o ideal de vida feliz.",
+    "b": "Os estoicos, dedicados à superação dos infortúnios.",
+    "c": "Os sofistas, comprometidos com o ensino da retórica.",
+    "d": "Os peripatéticos, empenhados na dinâmica do ensino.",
+    "e": "Os poetas rapsodos, responsáveis pela narrativa do mito."
+   },
+   "resposta": "c",
+   "explicacao": "Vernant liga o nascimento da filosofia à pólis, cuja vida se decide pela palavra na ágora. Os pensadores que estreitaram esse laço entre razão e cidade foram os sofistas: mestres da retórica, ensinavam o cidadão a argumentar na assembleia e nos tribunais — a razão posta a serviço da política. Epicuristas, estoicos e peripatéticos (a, b, d) são posteriores, do período helenístico ou da escola de Aristóteles, e voltados à conduta individual ou à ciência, não à vida da pólis; os rapsodos (e) pertencem ao mito, que a filosofia justamente supera."
+  },
+  {
+   "subtema": "filosofia-conhecimento-logica",
+   "id": "enem-filosofia-sociologia-48",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nUma filosofia da percepção que queira reaprender a ver o mundo restituirá à pintura e às artes em geral seu lugar verdadeiro.\nMERLEAU-PONTY, M. Conversas: 1948. São Paulo: Martins Fontes, 2004.\n\nTEXTO II\nOs grandes autores de cinema nos pareceram confrontáveis não apenas com pintores, arquitetos, músicos, mas também com pensadores. Eles pensam com imagens, em vez de conceitos.",
+   "fonte_texto": "DELEUZE, G. Cinema 1: a imagem-movimento. São Paulo: Brasiliense, 1983 (adaptado).",
+   "enunciado": "De que modo os textos sustentam a existência de um saber ancorado na sensibilidade?",
+   "alternativas": {
+    "a": "Admitindo o belo como fenômeno transcendental.",
+    "b": "Reafirmando a vivência estética como juízo de gosto.",
+    "c": "Considerando o olhar como experiência de conhecimento.",
+    "d": "Apontando as formas de expressão como auxiliares da razão.",
+    "e": "Estabelecendo a inteligência como implicação das representações."
+   },
+   "resposta": "c",
+   "explicacao": "Merleau-Ponty quer \"reaprender a ver o mundo\" pela percepção e devolver às artes seu lugar; Deleuze diz que os cineastas \"pensam com imagens\". Nos dois, ver não é acessório do pensar — é uma forma de conhecer. Por isso o olhar é tomado como experiência de conhecimento. A alternativa (d) rebaixa a arte a auxiliar da razão, o contrário do que os textos afirmam; (a) e (b) falam do belo e do gosto, temas da estética clássica, e não do conhecimento; (e) inverte a relação, subordinando a imagem à inteligência."
+  },
+  {
+   "subtema": "filosofia-conhecimento-logica",
+   "id": "enem-filosofia-sociologia-49",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Empédocles estabelece quatro elementos corporais — fogo, ar, água e terra —, que são eternos e que mudam aumentando e diminuindo mediante mistura e separação; mas os princípios propriamente ditos, pelos quais aqueles são movidos, são o Amor e o Ódio. Pois é preciso que os elementos permaneçam alternadamente em movimento, sendo ora misturados pelo Amor, ora separados pelo Ódio.",
+   "fonte_texto": "SIMPLÍCIO. Física, 25, 21. In: Os pré-socráticos. São Paulo: Nova Cultural, 1996.",
+   "enunciado": "O texto propõe uma reflexão sobre o entendimento de Empédocles acerca da arché, uma preocupação típica do pensamento pré-socrático, porque",
+   "alternativas": {
+    "a": "exalta a investigação filosófica.",
+    "b": "transcende ao mundo sensível.",
+    "c": "evoca a discussão cosmogônica.",
+    "d": "fundamenta as paixões humanas.",
+    "e": "corresponde à explicação mitológica."
+   },
+   "resposta": "c",
+   "explicacao": "Arché é o princípio de onde tudo vem e pelo qual tudo se explica; perguntar por ela é a pergunta metafísica pela origem e pela ordem do cosmo — discussão cosmogônica, marca dos pré-socráticos. Empédocles responde com quatro elementos eternos movidos por Amor e Ódio. Esses princípios não são paixões humanas (d), mas forças cósmicas; a explicação é racional, não mítica (e); e fica no plano físico dos elementos, sem transcender o sensível (b). \"Exaltar a investigação\" (a) é vago demais para o que o texto propõe."
   }
  ],
  "sociologia-instituicoes-movimentos": [
@@ -85991,6 +88334,48 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A teoria da modernização prometia uma sequência: industrializar e urbanizar levaria a mais participação política, controle democrático e direitos. O que os anos 1960 a 1980 mostraram foi outra coisa — Coreia do Sul, Brasil, Chile e Taiwan cresceram rápido sob ditaduras, com direitos políticos e sociais restringidos, e por caminhos distintos entre si. Alternativa B. A alternativa A afirma convergência em torno de democracias populares socialistas; C nega a urbanização e põe o crescimento no setor primário; D inverte tudo, fazendo a ampliação de direitos travar o crescimento; e E atribui o enfraquecimento político dos trabalhadores à pulverização de interesses, hipótese que o texto não levanta."
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "enem-filosofia-sociologia-39",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um experimento denominado FunFit foi desenvolvido com o objetivo de fazer com que os membros de uma comunidade local se tornassem mais ativos fisicamente. Todos os participantes do estudo foram vinculados a dois outros membros da comunidade que receberiam pequenos incentivos em dinheiro para serem estimulados a aumentar a sua atividade física, que era medida por acelerômetros nos celulares fornecidos pelo estado. Assim, se a pessoa andasse mais do que o habitual, seus conhecidos receberiam o dinheiro. Os resultados foram assombrosos: o esquema mostrou-se de quatro a oito vezes mais eficaz do que o método de oferecer incentivos individuais.",
+   "fonte_texto": "MOROZOV, E. Big Tech: a ascensão dos dados e a morte da política. São Paulo: Ubu, 2018 (adaptado).",
+   "enunciado": "Contrariando a visão prevalente sobre o impacto tecnológico nas relações humanas, o texto revela que os celulares podem desempenhar uma função",
+   "alternativas": {
+    "a": "recreativa, promovendo o lazer em redes integradas.",
+    "b": "social, estimulando a reciprocidade por meios digitais.",
+    "c": "laboral, convertendo o desenvolvedor em usuário final.",
+    "d": "comercial, direcionando a escolha por produtos industrializados.",
+    "e": "cognitiva, favorecendo a aprendizagem pelas ferramentas virtuais."
+   },
+   "resposta": "b",
+   "explicacao": "No FunFit, quem se exercita não ganha nada para si — o prêmio vai para dois conhecidos, e é esse laço que faz o esquema render de quatro a oito vezes mais que o incentivo individual. O celular, medindo os passos, vira o meio de uma troca entre pessoas: reciprocidade, função social. A visão \"prevalente\" que o texto contraria é a de que a tecnologia isola. Não se trata de lazer, trabalho, consumo nem aprendizagem (a, c, d, e), que não aparecem no experimento."
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "enem-filosofia-sociologia-42",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Após sete anos da ocupação de um terreno abandonado em Santo André, no ABC paulista, os condomínios Novo Pinheirinho e Santos Dias foram inaugurados, com a presença de representantes dos governos federal, estadual e municipal. A ocupação começou em 2012 e, desde então, o movimento vinha reivindicando o direito de usufruir do espaço para a construção de casas. A Carta Magna, em seu art. 6º, garante a todos os brasileiros o direito à moradia.",
+   "fonte_texto": "PUTTI, A. Disponível em: www.cartacapital.com.br. Acesso em: 13 nov. 2021 (adaptado).",
+   "enunciado": "O texto apresenta uma estratégia usada pelo movimento social para",
+   "alternativas": {
+    "a": "fragilizar o poder público.",
+    "b": "fomentar a economia solidária.",
+    "c": "controlar a propriedade estatal.",
+    "d": "garantir o preceito constitucional.",
+    "e": "incentivar a especulação imobiliária."
+   },
+   "resposta": "d",
+   "explicacao": "A ocupação de um terreno abandonado foi o instrumento de pressão pelo qual o movimento cobrou o que o art. 6º da Constituição já promete — o direito à moradia —, e a inauguração dos condomínios com os três níveis de governo mostra o Estado reconhecendo a reivindicação. Não se trata de enfraquecer ou controlar o poder público (a, c): o movimento o aciona; especulação imobiliária (e) é justamente o que a ocupação de terreno ocioso combate; economia solidária (b) não aparece no texto."
   }
  ],
  "artes-classica-moderna": [
@@ -91953,6 +94338,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O texto diz que o gesto do break carrega sentidos que mudam \"a cada tempo-espaço\" e que a corporalidade tem conteúdo de denúncia e de anúncio. Entrar nos Jogos Olímpicos é um novo tempo-espaço: amplia visibilidade e reconhecimento e abre contornos sociais inéditos, sem encerrar o processo — alternativa B. A alternativa A afirma que a dança perdeu as características de denúncia ao se esportivizar, e o texto trata os sentidos como abertos; C diz que passou a ser praticada por um grupo seleto e impedida no contexto urbano; D fala em cristalizar os saberes dos pioneiros, contrário à ideia de novos sentidos; e E declara a entrada um equívoco, juízo que o texto não sustenta."
+  },
+  {
+   "subtema": "artes-musica-cena",
+   "id": "enem-artes-cultura-13",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O Recife fervilhava no começo da década de 1990, e os artistas trabalhavam para resgatar o prestígio da cultura pernambucana. Era preciso se inspirar, literalmente, nas raízes sobre as quais a cidade se construiu. Foi aí que, em 1992, com a publicação de um manifesto escrito pelo músico e jornalista Fred Zero Quatro, da banda Mundo Livre S/A, nasceu o manguebeat. O nome vem de “mangue”, vegetação típica da região, e “beat”, para representar as batidas e as influências musicais que o movimento abraçaria a partir dali. Era a hora e a vez de os caranguejos — aos quais os músicos recifenses gostavam de se comparar — mostrarem as caras: o maracatu e suas alfaias se misturaram com as batidas do hip-hop, as guitarras do rock, elementos eletrônicos e o sotaque recifense de Chico Science. A busca pelo novo rendeu uma perspectiva diferente do Brasil ao olhar para o Recife. A cidade deixou de ser o lugar apenas do frevo e do carnaval, transformando-se na ebulição musical que continua a acontecer mesmo após os 25 anos do lançamento do primeiro disco da Nação Zumbi, Da lama ao caos.",
+   "fonte_texto": "FORCIONI, G. et al. O mangue está de volta. Revista Esquinas, n. 87, set. 2019 (adaptado).",
+   "enunciado": "Chico Science foi fundamental para a renovação da música pernambucana, fato que se deu pela",
+   "alternativas": {
+    "a": "utilização de aparelhos musicais eletrônicos em lugar dos instrumentos tradicionais.",
+    "b": "ocupação de espaços da natureza local para a produção de eventos musicais memoráveis.",
+    "c": "substituição de antigas práticas musicais, como o frevo, por melodias e harmonias inovadoras.",
+    "d": "recuperação de composições tradicionais folclóricas e sua apresentação em grandes festivais.",
+    "e": "integração de referenciais culturais de diferentes origens, criando uma nova combinação estética."
+   },
+   "resposta": "e",
+   "explicacao": "A renovação do manguebeat é uma mistura: “o maracatu e suas alfaias se misturaram com as batidas do hip-hop, as guitarras do rock, elementos eletrônicos e o sotaque recifense de Chico Science”. Tradição local e referências globais somadas numa estética nova — integração, não troca. Por isso (a) e (c) erram ao falar em substituição (o eletrônico entra ao lado das alfaias, e o frevo não é abolido: a cidade “deixou de ser o lugar apenas do frevo”); (d) reduz o movimento a folclore recuperado, sem o hip-hop e o rock; e (b) toma o mangue, que é metáfora do nome, por espaço físico de eventos."
   }
  ],
  "artes-contemporanea": [
@@ -113585,6 +115991,84 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-citologia",
+   "id": "enem-biologia-32",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os ursos, por não apresentarem uma hibernação verdadeira, acordam por causa da presença de termogenina, uma proteína mitocondrial que impede a chegada dos prótons até a ATP sintetase, gerando calor. Esse calor é importante para aquecer o organismo, permitindo seu despertar.",
+   "fonte_texto": "SADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).",
+   "enunciado": "Em qual etapa do metabolismo energético celular a termogenina interfere?",
+   "alternativas": {
+    "a": "Glicólise.",
+    "b": "Fermentação lática.",
+    "c": "Ciclo do ácido cítrico.",
+    "d": "Oxidação do piruvato.",
+    "e": "Fosforilação oxidativa."
+   },
+   "resposta": "e",
+   "explicacao": "A ATP sintetase da membrana interna da mitocôndria produz ATP usando o fluxo de prótons acumulados pela cadeia respiratória — essa é a fosforilação oxidativa. A termogenina (proteína desacopladora) abre um caminho alternativo para os prótons, que voltam à matriz sem passar pela ATP sintetase; a energia do gradiente vira calor em vez de ATP. Glicólise e fermentação ocorrem no citosol, sem prótons mitocondriais (a e b); ciclo do ácido cítrico e oxidação do piruvato acontecem na matriz e produzem NADH/FADH2, mas não dependem do gradiente de prótons (c e d)."
+  },
+  {
+   "subtema": "biologia-citologia",
+   "id": "enem-biologia-42",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "As células da epiderme da folha da Tradescantia pallida purpurea, uma herbácea popularmente conhecida como trapoeraba-roxa, contém um vacúolo onde se encontra um pigmento que dá a coloração arroxeada a esse tecido. Em um experimento, um corte da epiderme de uma folha da trapoeraba-roxa foi imerso em ambiente hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico.\n\nDurante a observação desse corte, foi possível identificar o(a)",
+   "alternativas": {
+    "a": "acúmulo do solvente com fragmentação da organela.",
+    "b": "rompimento da membrana celular com liberação do citosol.",
+    "c": "aumento do vacúolo com diluição do pigmento no seu interior.",
+    "d": "quebra da parede celular com extravasamento do pigmento.",
+    "e": "murchamento da célula com expulsão do pigmento do vacúolo."
+   },
+   "resposta": "c",
+   "explicacao": "Em meio hipotônico a água entra na célula por osmose e vai para o vacúolo, que incha (a célula fica túrgida); como o pigmento continua na mesma quantidade num volume maior, ele fica diluído e a cor roxa clareia. A célula vegetal não estoura porque a parede celular resiste à pressão de turgor — por isso não há rompimento de membrana nem quebra de parede (b e d), e o vacúolo não se fragmenta (a). Murchar (plasmólise, e) é o que aconteceria em meio hipertônico, o contrário do experimento."
+  },
+  {
+   "subtema": "biologia-citologia",
+   "id": "enem-biologia-44",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido de hidrogênio (H2O2), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.\n\nEnsaio 1: temperatura 10 °C; decomposição de H2O2 8,0 (× 10⁻¹² mol/min)\nEnsaio 2: 15 °C; 10,5\nEnsaio 3: 20 °C; 9,5\nEnsaio 4: 25 °C; 5,0\nEnsaio 5: 30 °C; 3,6\nEnsaio 6: 35 °C; 3,1\n\nOs diferentes resultados dos ensaios justificam-se pelo(a)",
+   "alternativas": {
+    "a": "variação do pH do meio.",
+    "b": "aumento da energia de ativação.",
+    "c": "consumo da enzima durante o ensaio.",
+    "d": "diminuição da concentração do substrato.",
+    "e": "modificação da estrutura tridimensional da enzima."
+   },
+   "resposta": "e",
+   "explicacao": "A atividade sobe de 10 a 15 °C (temperatura ótima) e depois cai continuamente até 35 °C. Só a temperatura variou entre os ensaios; o pH foi o mesmo (a). Uma enzima é uma proteína, e o aumento de temperatura altera sua estrutura tridimensional (desnaturação), deformando o sítio ativo — por isso a decomposição de H2O2 despenca acima do ótimo. Enzimas não são consumidas na reação (c); a concentração de substrato era igual em todos os ensaios independentes (d); e a enzima existe justamente para baixar a energia de ativação — a temperatura não a aumenta (b)."
+  },
+  {
+   "subtema": "biologia-citologia",
+   "id": "enem-biologia-45",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Antimicrobianos são substâncias naturais ou sintéticas que têm capacidade de matar ou inibir o crescimento de microrganismos. A tabela apresenta uma lista de antimicrobianos hipotéticos, bem como suas ações e efeitos sobre o metabolismo microbiano.\n\nAntimicrobiano 1 — Ação: une-se aos ribossomos — Efeito: impede a síntese proteica\nAntimicrobiano 2 — Ação: une-se aos microtúbulos — Efeito: impede a segregação das cromátides\nAntimicrobiano 3 — Ação: une-se aos fosfolipídeos da membrana plasmática — Efeito: reduz a permeabilidade da membrana plasmática\nAntimicrobiano 4 — Ação: interfere na síntese de timina — Efeito: inibe a síntese de DNA\nAntimicrobiano 5 — Ação: interfere na síntese de uracila — Efeito: impede a síntese de RNA\n\nQual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo?",
+   "alternativas": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+   },
+   "resposta": "b",
+   "explicacao": "O alvo tem de existir no fungo (eucarionte) e faltar na bactéria (procarionte). Ribossomos, membrana plasmática de fosfolipídeos, DNA e RNA existem nos dois — antimicrobianos 1, 3, 4 e 5 atingiriam também a microbiota. Microtúbulos e fuso mitótico com segregação de cromátides são estruturas exclusivas de células eucarióticas: o antimicrobiano 2 bloqueia a divisão do fungo e não tem alvo na bactéria, que se divide sem fuso."
+  },
+  {
+   "subtema": "biologia-citologia",
    "id": "dir-ciencias-natureza-04",
    "texto_apoio": "As chuvas ácidas resultam da emissão de determinados poluentes atmosféricos provenientes de processos industriais e da queima de combustíveis.",
    "enunciado": "As chuvas ácidas são causadas, principalmente, pela reação da água presente na atmosfera com",
@@ -115809,6 +118293,65 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-genetica",
+   "id": "enem-biologia-37",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Entre as diversas técnicas para diagnóstico da covid-19, destaca-se o teste genético. Considerando as diferentes variantes e cargas virais, um exemplo é a PCR, reação efetuada por uma enzima do tipo polimerase. Essa técnica permite identificar, com confiabilidade, o material genético do SARS-CoV-2, um vírus de RNA. Para comprovação da infecção por esse coronavírus, são coletadas amostras de secreções do indivíduo. Uma etapa que antecede a reação de PCR precisa ser realizada para permitir a amplificação do material genético do vírus.\n\nEssa etapa deve ser realizada para",
+   "alternativas": {
+    "a": "concentrar o RNA viral para otimizar a técnica.",
+    "b": "identificar nas amostras anticorpos anti-SARS-CoV-2.",
+    "c": "proliferar o vírus em culturas, aumentando a carga viral.",
+    "d": "purificar ácidos nucleicos virais, facilitando a ação da enzima.",
+    "e": "obter moléculas de cDNA viral por meio da transcrição reversa."
+   },
+   "resposta": "e",
+   "explicacao": "A PCR usa uma DNA polimerase, que só copia molde de DNA. Como o SARS-CoV-2 é um vírus de RNA, antes de amplificar é preciso converter o RNA em DNA complementar (cDNA) pela transcriptase reversa — daí o nome RT-PCR, técnica de biotecnologia usada no diagnóstico. Concentrar ou purificar o RNA (a e d) não resolve o problema de fundo, que é a natureza química do molde; anticorpos são detectados por testes sorológicos, não pela PCR (b); e cultivar o vírus não faz parte do diagnóstico molecular (c)."
+  },
+  {
+   "subtema": "biologia-genetica",
+   "id": "enem-biologia-39",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "enunciado": "Na figura está representado o mosaicismo em função da inativação aleatória de um dos cromossomos X, que ocorre em todas as mulheres sem alterações patológicas.\n\n[Esquema: gameta masculino (22+X) e gameta feminino (22+X) formam o zigoto (44+XX); na blástula (44+XX) já há células com o cromossomo X paterno inativado e células com o cromossomo X materno inativado; amostras de células corporais de diferentes regiões da mulher adulta mostram, em cada tecido, mistura dos dois tipos de célula.]\n\nEntre mulheres heterozigotas para doenças determinadas por genes recessivos ligados ao sexo, essa inativação tem como consequência a ocorrência de",
+   "alternativas": {
+    "a": "pleiotropia.",
+    "b": "mutação gênica.",
+    "c": "interação gênica.",
+    "d": "penetrância incompleta.",
+    "e": "expressividade variável."
+   },
+   "resposta": "e",
+   "explicacao": "Na mulher heterozigota, cada célula inativa ao acaso um dos X: em parte dos tecidos fica ativo o X com o alelo normal, em parte o X com o alelo recessivo da doença. O resultado é que a portadora manifesta a característica em grau variável — mais ou menos intensa conforme a proporção de células com o alelo mutado ativo — o que é a definição de expressividade variável. Pleiotropia é um gene com vários efeitos (a); não há mutação nova (b) nem interação entre genes diferentes (c); penetrância incompleta seria a heterozigota simplesmente manifestar ou não a doença, e não uma gradação de intensidade (d)."
+  },
+  {
+   "subtema": "biologia-genetica",
+   "id": "enem-biologia-40",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para o tratamento da distrofia hereditária da retina. O procedimento é recomendado para crianças acima de 12 meses e adultos com perda de visão causada pela mutação do gene humano RPE65. O produto, elaborado por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.",
+   "fonte_texto": "ANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado).",
+   "enunciado": "O sucesso dessa terapia advém do fato de que o produto favorecerá a",
+   "alternativas": {
+    "a": "correção do código genético para a tradução da proteína.",
+    "b": "alteração do RNA ribossômico ligado à síntese da proteína.",
+    "c": "produção de mutações benéficas para a correção do problema.",
+    "d": "liberação imediata da proteína normal na região ocular humana.",
+    "e": "expressão do gene responsável pela produção da enzima normal."
+   },
+   "resposta": "e",
+   "explicacao": "O vírus funciona como vetor: leva uma cópia normal do gene RPE65 para dentro das células da retina, e essas células passam a transcrever e traduzir esse gene, produzindo a proteína (enzima) normal que faltava na doença de herança genética — ou seja, a terapia restaura a expressão do gene. Não se corrige o “código genético” (a tabela códon → aminoácido é universal e não está errada, a); o RNA ribossômico não é alterado (b); não se induzem mutações (c); e o produto entrega um gene, não a proteína pronta (d)."
+  },
+  {
+   "subtema": "biologia-genetica",
    "id": "dir-ciencias-natureza-23",
    "texto_apoio": "Os organismos geneticamente modificados (transgênicos) são obtidos por meio de técnicas de engenharia genética que alteram o material genético de um organismo.",
    "enunciado": "Uma planta transgênica resistente a determinada praga é obtida, tipicamente, por meio da",
@@ -117283,6 +119826,25 @@ window.QUESTION_BANKS = {
    "explicacao": "Os quatro são artrópodes, mas só mosquitos e abelhas são insetos (três pares de patas, corpo em cabeça, tórax e abdome). Carrapatos e escorpiões têm quatro pares de patas e cefalotórax: são aracnídeos. Logo, a placa erra ao chamar todos de insetos. Quilópodes (lacraias) e diplópodes (piolhos-de-cobra) são outras classes, que não incluem nenhum dos quatro; e dizer que só dois são artrópodes também está errado, porque aracnídeos são artrópodes.",
    "resposta": "d",
    "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "enem-biologia-41",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doenças tropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade a elas associado.\n\nUma medida profilática comum a essas duas doenças é o(a)",
+   "alternativas": {
+    "a": "incineração do lixo orgânico.",
+    "b": "construção de rede de esgoto.",
+    "c": "uso de vermífugo pela população.",
+    "d": "controle das populações dos vetores.",
+    "e": "consumo de carnes vermelhas bem cozidas."
+   },
+   "resposta": "d",
+   "explicacao": "As duas doenças são transmitidas por insetos: a filariose (elefantíase) pelo verme Wuchereria bancrofti inoculado pelo mosquito Culex, e a leishmaniose pelo protozoário Leishmania inoculado pelo mosquito-palha (Lutzomyia). O que elas têm em comum, portanto, é a via de transmissão por vetor, e a profilaxia compartilhada é o controle das populações desses insetos. Rede de esgoto e lixo (a e b) atacam doenças de veiculação hídrica ou fecal; vermífugo só faria sentido para a filariose, e como tratamento (c); carne malcozida transmite tênias e toxoplasmose, não essas duas (e)."
   },
   {
    "subtema": "biologia-diversidade",
@@ -119505,6 +122067,86 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-fisiologia",
+   "id": "enem-biologia-30",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "enunciado": "Diversas substâncias são empregadas com a intenção de incrementar o desempenho esportivo de atletas de alto nível. O chamado doping sanguíneo, por exemplo, pela utilização da eritropoietina, é proibido pelas principais federações de esportes no mundo. A eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é regular o processo de eritropoiese. Seu uso administrado intravenosamente em quantidades superiores àquelas presentes naturalmente no organismo permite que o indivíduo aumente a sua capacidade de realização de exercícios físicos.\n\nEsse tipo de doping está diretamente relacionado ao aumento da",
+   "alternativas": {
+    "a": "frequência cardíaca.",
+    "b": "capacidade pulmonar.",
+    "c": "massa muscular do indivíduo.",
+    "d": "atividade anaeróbica da musculatura.",
+    "e": "taxa de transporte de oxigênio pelo sangue."
+   },
+   "resposta": "e",
+   "explicacao": "Eritropoiese é a produção de hemácias na medula óssea; a eritropoietina, hormônio secretado por rins e fígado, estimula esse processo. Mais hemácias significa mais hemoglobina circulando e, portanto, maior taxa de transporte de oxigênio pelo sangue até os músculos — é isso que sustenta o esforço aeróbico prolongado. Frequência cardíaca e capacidade pulmonar não são alteradas pelo hormônio (a e b); massa muscular é efeito de anabolizantes, não de eritropoietina (c); e o ganho é justamente na via aeróbica, não na anaeróbica (d)."
+  },
+  {
+   "subtema": "biologia-fisiologia",
+   "id": "enem-biologia-31",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O protozoário Trypanosoma cruzi, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar uma vacina contra a doença usando uma variação do protozoário incapaz de desencadear a patologia (não patogênico). Para isso, realizaram uma modificação genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário.",
+   "fonte_texto": "Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado).",
+   "enunciado": "Qual o mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor?",
+   "alternativas": {
+    "a": "Autoimunidade.",
+    "b": "Hipersensibilidade.",
+    "c": "Ativação da resposta inata.",
+    "d": "Apresentação de antígeno específico.",
+    "e": "Desencadeamento de processo anti-inflamatório."
+   },
+   "resposta": "d",
+   "explicacao": "O truque do experimento é fazer o T. cruzi modificado exibir a molécula tumoral: quando o sistema imune monta a resposta contra o protozoário, a molécula do tumor é apresentada às células de defesa do sistema imunológico como antígeno específico, e a resposta adaptativa gerada (anticorpos e linfócitos) passa a reconhecer e destruir também as células tumorais que a carregam. Não é autoimunidade nem hipersensibilidade (a e b), que são respostas patológicas contra o próprio ou exageradas; a resposta inata (c) não tem a especificidade que o texto descreve; e o processo é pró-inflamatório de ataque, não anti-inflamatório (e)."
+  },
+  {
+   "subtema": "biologia-fisiologia",
+   "id": "enem-biologia-34",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "enunciado": "No processo de captação da luz pelo olho para a formação de imagens estão envolvidas duas estruturas celulares: os cones e os bastonetes. Os cones são sensíveis à energia dos fótons, e os bastonetes, à quantidade de fótons incidentes. A energia dos fótons que compõem os raios luminosos está associada à sua frequência, e a intensidade, ao número de fótons incidentes.\n\nUm animal que tem bastonetes mais sensíveis irá",
+   "alternativas": {
+    "a": "apresentar daltonismo.",
+    "b": "perceber cores fora do espectro do visível.",
+    "c": "enxergar bem em ambientes mal iluminados.",
+    "d": "necessitar de mais luminosidade para enxergar.",
+    "e": "fazer uma pequena distinção de cores em ambientes iluminados."
+   },
+   "resposta": "c",
+   "explicacao": "O texto amarra cada célula a uma grandeza: cones ↔ energia (frequência, isto é, cor); bastonetes ↔ quantidade de fótons (intensidade). Bastonetes mais sensíveis respondem a poucos fótons e já disparam sinal para os neurônios da retina e para o sistema nervoso central, ou seja, o animal enxerga bem com pouca luz. Daltonismo e distinção de cores dizem respeito aos cones, não aos bastonetes (a, b e e); e precisar de mais luz é exatamente o contrário de ter bastonetes mais sensíveis (d)."
+  },
+  {
+   "subtema": "biologia-fisiologia",
+   "id": "enem-biologia-38",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1, a partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado.",
+   "fonte_texto": "JULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite criar fármaco que modula a coagulação sanguínea. Disponível em: https://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).",
+   "enunciado": "Esse novo medicamento apresenta potencial aplicação para",
+   "alternativas": {
+    "a": "impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral.",
+    "b": "tratar consequências da anemia profunda, em razão da perda de grande volume de sangue.",
+    "c": "evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos.",
+    "d": "reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.",
+    "e": "regular a oscilação da pressão arterial, característica dos quadros de hipertensão."
+   },
+   "resposta": "a",
+   "explicacao": "O texto diz que a proteína do veneno da cascavel causa hemorragia e que a molécula derivada dela é “capaz de modular a coagulação sanguínea”. Um fármaco que modula (reduz) a coagulação no sistema circulatório é um anticoagulante — útil para impedir a formação de trombos, como nos casos de AVC isquêmico. Anemia por perda de sangue (b) pediria o oposto; urticária, linfonodos e pressão arterial (c, d, e) não têm relação com coagulação."
+  },
+  {
+   "subtema": "biologia-fisiologia",
    "id": "dir-ciencias-natureza-02",
    "texto_apoio": "A eutrofização é um processo ecológico frequentemente associado à poluição de rios e lagos por esgoto doméstico e fertilizantes agrícolas.",
    "enunciado": "A eutrofização de um corpo d'água ocorre quando",
@@ -121568,6 +124210,66 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-ecologia",
+   "id": "enem-biologia-33",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "fonte_texto": "Disponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado).",
+   "enunciado": "O esquema representa o ciclo do nitrogênio:\n\n[Esquema do ciclo do nitrogênio: bactérias fixadoras de N2 no solo e nos nódulos de raízes de leguminosas → amônia e amônio (NH3 e NH4+); decompositores (fungos e bactérias aeróbicas e anaeróbicas) fazem a amonificação → amônia e amônio; nitrificação por bactérias nitrificantes: amônia/amônio → nitritos (NO2−) → nitratos (NO3−); assimilação dos nitratos pelas plantas; bactérias desnitrificantes devolvem N2 à atmosfera.]\n\nA chuva ácida interfere no ciclo do nitrogênio, principalmente, por proporcionar uma diminuição do pH do solo e da atmosfera, alterando a concentração dos compostos presentes nesse ciclo.\n\nEm um solo de menor pH, será favorecida a formação de:",
+   "alternativas": {
+    "a": "N2",
+    "b": "NH3",
+    "c": "NH4+",
+    "d": "NO2−",
+    "e": "NO3−"
+   },
+   "resposta": "c",
+   "explicacao": "Menor pH significa mais íons H+ disponíveis no solo. A amônia é uma base fraca e, em meio ácido, captura um próton: NH3 + H+ → NH4+. Logo o composto favorecido é o íon amônio. A alternativa b é o inverso (a amônia livre predomina em meio básico); nitrito e nitrato são ânions de ácidos que, em meio ácido, tendem a se protonar e não a se formar (d e e); e o N2 atmosférico depende da desnitrificação, não do pH em si (a)."
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "enem-biologia-35",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os resultados de um ensaio clínico randomizado na Indonésia apontaram uma redução de 77% dos casos de dengue nas áreas que receberam o mosquito Aedes aegypti infectado com a bactéria Wolbachia. Trata-se da mesma técnica utilizada no Brasil pelo Método Wolbachia, iniciativa conduzida pela Fundação Oswaldo Cruz — Fiocruz. Essa bactéria induz a redução da carga viral no mosquito e, consequentemente, o número de casos de dengue na área, sendo repassada por meio do cruzamento entre os insetos. Como essa bactéria é um organismo intracelular e o vírus também precisa entrar nas células para se reproduzir, ambos necessitarão de recursos comuns.",
+   "fonte_texto": "COSTA, G. Agência Fiocruz de Notícias. Estudo confirma eficácia do Método Wolbachia para dengue. Disponível em: https://portal.fiocruz.br. Acesso em: 3 jun. 2022 (adaptado).",
+   "enunciado": "Essa tecnologia utilizada no combate à dengue consiste na",
+   "alternativas": {
+    "a": "predação do vírus pela bactéria.",
+    "b": "esterilização de mosquitos infectados.",
+    "c": "alteração no genótipo do mosquito pela bactéria.",
+    "d": "competição do vírus e da bactéria no hospedeiro.",
+    "e": "inserção de material genético do vírus na bactéria."
+   },
+   "resposta": "d",
+   "explicacao": "A última frase do texto entrega o mecanismo: Wolbachia e o vírus da dengue são ambos intracelulares e “necessitarão de recursos comuns” dentro das células do mosquito — isso é uma relação ecológica de competição interespecífica: os dois ocupam o mesmo nicho ecológico dentro das populações de mosquitos, e a bactéria — um endossimbionte que vive em simbiose com o inseto —, mais bem instalada, reduz a carga viral e corta a transmissão da dengue no ecossistema urbano. Não há predação de vírus por bactéria (a); os mosquitos continuam férteis, tanto que a bactéria se transmite pelo cruzamento (b); o genoma do mosquito não é alterado — a bactéria vive no citoplasma (c); e não há transferência de material genético do vírus para a bactéria (e)."
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "enem-biologia-36",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécies exóticas pode ser considerada um fator maximizador desse processo. A jaqueira (Artocarpus heterophyllus), por exemplo, é uma árvore originária da Índia e de regiões do Sudeste Asiático que foi introduzida ainda na era colonial e se aclimatou muito bem em praticamente todo o território nacional.\n\nCasos como o dessa árvore podem provocar a redução da biodiversidade, pois elas",
+   "alternativas": {
+    "a": "ocupam áreas de vegetação nativa e substituem parcialmente a flora original.",
+    "b": "estimulam a competição por seus frutos entre animais típicos da região e eliminam as espécies perdedoras.",
+    "c": "alteram os nichos e aumentam o número de possibilidades de relações entre os seres vivos daquele ambiente.",
+    "d": "apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.",
+    "e": "diminuem a relação de competição entre os polinizadores e facilitam a ação de dispersores de sementes de espécies nativas."
+   },
+   "resposta": "a",
+   "explicacao": "Uma espécie exótica invasora que “se aclimatou muito bem” compete com as plantas nativas por espaço, luz e nutrientes; ao ocupar áreas de vegetação nativa, ela substitui parte da flora original — e é isso que reduz a biodiversidade. A alternativa b inventa uma competição entre animais pelos frutos que não é o mecanismo de perda de espécies vegetais; c descreve aumento de relações, o oposto de perda de diversidade; d é impossível de sustentar (nenhuma população se mantém acima da capacidade de suporte); e a alternativa e descreve efeitos benéficos às nativas, não a redução da biodiversidade."
+  },
+  {
+   "subtema": "biologia-ecologia",
    "id": "dir-ciencias-natureza-01",
    "texto_apoio": "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
    "enunciado": "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
@@ -123313,6 +126015,25 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-evolucao",
+   "id": "enem-biologia-43",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Desde a proposição da teoria de seleção natural por Darwin, os seres vivos nunca mais foram olhados da mesma forma. No que diz respeito à reprodução de anfíbios anuros, os cientistas já descreveram diferentes padrões reprodutivos, como os exemplificados a seguir:\n\nEspécie 1 – As fêmeas produzem cerca de 5 000 gametas, que são fecundados na água, em lagoas temporárias de estação chuvosa. Todo o desenvolvimento embrionário, do ovo à metamorfose, ocorre, nesse ambiente, independente dos pais.\n\nEspécie 2 – As fêmeas produzem aproximadamente 200 gametas, que são depositados em poças próximas a corpos-d’água. Os embriões são vigiados pelos machos durante boa parte do seu desenvolvimento.\n\nEspécie 3 – As fêmeas produzem por volta de 20 gametas, que são fecundados sobre a superfície das folhas de plantas cujos galhos estão dispostos acima da superfície de corpos-d’água e aí se desenvolvem até a eclosão.\n\nEspécie 4 – As fêmeas produzem poucos gametas que, quando fecundados, são “abocanhados” pelos machos. Os embriões se desenvolvem no interior do saco vocal do macho até a metamorfose, quando saem através da boca do pai.\n\nOs padrões descritos evidenciam que",
+   "alternativas": {
+    "a": "as fêmeas influenciam o comportamento dos machos.",
+    "b": "o cuidado parental é necessário para o desenvolvimento.",
+    "c": "o grau de evolução determina o comportamento reprodutivo.",
+    "d": "o sucesso reprodutivo pode ser garantido por estratégias diferentes.",
+    "e": "o ambiente induz modificação na produção do número de gametas femininos."
+   },
+   "resposta": "d",
+   "explicacao": "Os quatro exemplos vão de muitos ovos sem cuidado nenhum (espécie 1) a pouquíssimos ovos com cuidado parental intenso (espécie 4), e todas as espécies existem e se reproduzem — a lição darwiniana é que estratégias diferentes (quantidade × proteção) podem levar ao mesmo sucesso reprodutivo — cada padrão é uma adaptação selecionada no seu ambiente. A alternativa b é desmentida pela espécie 1, que se desenvolve “independente dos pais”; c fala em “grau de evolução”, ideia de escala progressiva que a seleção natural não sustenta; e é lamarckista — o ambiente seleciona, não induz a mudança; a não tem apoio nos textos."
+  },
+  {
+   "subtema": "biologia-evolucao",
    "id": "dir-ciencias-natureza-06",
    "texto_apoio": "A resistência bacteriana a antibióticos é apontada pela Organização Mundial da Saúde como uma das principais ameaças à saúde pública global.",
    "enunciado": "O uso inadequado e excessivo de antibióticos, tanto em humanos quanto na produção animal, contribui para a resistência bacteriana porque",
@@ -124912,6 +127633,47 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O ferro funciona como ânodo. Em NaCl aerado, a redução de O₂ forma OH⁻; em CuSO₄, Cu²⁺ se deposita no cobre; em HCl, H⁺ se reduz a H₂ sobre o cobre; em HNO₃, o oxidante nitrato permite também a oxidação do cobre. Assim as quatro afirmações são corretas."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "enem-quimica-28",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Durante o ano de 2020, impulsionado pela necessidade de respostas rápidas e eficientes para desinfectar ambientes de possíveis contaminações com o SARS-CoV-2, causador da covid-19, diversas alternativas foram buscadas para os procedimentos de descontaminação de materiais e ambientes. Entre elas, o uso de ozônio em meio aquoso como agente sanitizante para pulverização em humanos e equipamentos de proteção em câmaras ou túneis, higienização de automóveis e de ambientes fechados e descontaminação de trajes. No entanto, pouca atenção foi dada à toxicidade do ozônio, à formação de subprodutos, ao nível de concentração segura e às precauções necessárias.",
+   "fonte_texto": "LIMA, M. J. A.; FELIX, E. P.; CARDOSO, A. A. Aplicações e implicações do ozônio na indústria, ambiente e saúde. Química Nova, n. 9, 2021 (adaptado).",
+   "enunciado": "O grande risco envolvido no emprego indiscriminado dessa substância deve-se à sua ação química como",
+   "alternativas": {
+    "a": "catalisador.",
+    "b": "oxidante.",
+    "c": "redutor.",
+    "d": "ácido.",
+    "e": "base."
+   },
+   "resposta": "b",
+   "explicacao": "O ozônio (O3) é um dos agentes oxidantes mais fortes que existem — seu potencial de redução é altíssimo, e os elétrons recebidos vêm de qualquer matéria orgânica por perto — é por isso que ele desinfeta, destruindo membranas e proteínas de microrganismos, e é por isso mesmo que é tóxico para pessoas: ataca do mesmo modo as mucosas e o tecido pulmonar. O texto reforça a pista ao falar em “formação de subprodutos”, típica de oxidação. O ozônio não age como catalisador (é consumido na reação, a), não é redutor (c) e não tem caráter ácido ou básico em água (d e e)."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "enem-quimica-31",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "fonte_texto": "CLEMENTE, G. A. B. F. et al. O uso de materiais híbridos ou nanocompósitos como revestimentos anticorrosivos do aço. Química Nova, n. 9, 2021 (adaptado).",
+   "enunciado": "A nanotecnologia é responsável pelo aprimoramento de diversos materiais, incluindo os que são impactados com a presença de poluentes e da umidade na atmosfera, causadores de corrosão. O processo de corrosão é espontâneo e provoca a deterioração de metais como o ferro, que, em presença de oxigênio e água, sofre oxidação, conforme ilustra a equação química:\n\n4 Fe (s) + 2 H2O (l) + 3 O2 (g) → 2 Fe2O3·H2O (s)\n\nUma forma de garantir a durabilidade da estrutura metálica e a sua resistência à umidade consiste na deposição de filmes finos nanocerâmicos à base de zircônia (ZrO2) e alumina (Al2O3) sobre a superfície do objeto que se deseja proteger.\n\nEssa nanotecnologia aplicada na proteção contra a corrosão se baseia no(a)",
+   "alternativas": {
+    "a": "proteção catódica, que utiliza um metal fortemente redutor.",
+    "b": "uso de metais de sacrifício, que se oxidam no lugar do ferro.",
+    "c": "passivação do ferro, que fica revestido pelo seu próprio óxido.",
+    "d": "efeito de barreira, que impede o contato com o agente oxidante.",
+    "e": "galvanização, que usa outros metais de menor potencial de redução."
+   },
+   "resposta": "d",
+   "explicacao": "Zircônia e alumina são óxidos cerâmicos, isolantes e quimicamente inertes — não são metais e não trocam elétrons com o ferro. O filme depositado sobre a peça só faz uma coisa: isola fisicamente o ferro do oxigênio e da água, os agentes oxidantes da equação. É proteção por barreira, como uma pintura. Proteção catódica, metal de sacrifício e galvanização (a, b, e) exigem um metal mais redutor que o ferro (zinco, magnésio) que se oxide em seu lugar — não é o caso de óxidos cerâmicos; passivação (c) seria o próprio óxido do ferro protegendo, e aqui o revestimento é de outros óxidos."
   }
  ],
  "quimica-atomistica-ligacoes": [
@@ -126740,6 +129502,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "I erra porque a identidade do elemento é dada pelo número de prótons; II erra porque raios catódicos forneceram e/m do elétron. III confere: a média ponderada é 63,55 u. IV erra nas fórmulas sugeridas pelas razões C/H. Portanto estão erradas I, II e IV."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "enem-quimica-29",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O urânio é empregado como fonte de energia em reatores nucleares. Para tanto, o seu mineral deve ser refinado, convertido a hexafluoreto de urânio e posteriormente enriquecido, para aumentar de 0,7% a 3% a abundância de um isótopo específico — o urânio-235. Uma das formas de enriquecimento utiliza a pequena diferença de massa entre os hexafluoretos de urânio-235 e de urânio-238 para separá-los por efusão, precedida pela vaporização. Esses vapores devem efundir repetidamente milhares de vezes através de barreiras porosas formadas por telas com grande número de pequenos orifícios. No entanto, devido à complexidade e à grande quantidade de energia envolvida, cientistas e engenheiros continuam a pesquisar procedimentos alternativos de enriquecimento.",
+   "fonte_texto": "ATKINS, P.; JONES, L. Princípios de química: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2006 (adaptado).",
+   "enunciado": "Considerando a diferença de massa mencionada entre os dois isótopos, que tipo de procedimento alternativo ao da efusão pode ser empregado para tal finalidade?",
+   "alternativas": {
+    "a": "Peneiração.",
+    "b": "Centrifugação.",
+    "c": "Extração por solvente.",
+    "d": "Destilação fracionada.",
+    "e": "Separação magnética."
+   },
+   "resposta": "b",
+   "explicacao": "Os dois hexafluoretos são a mesma substância química: os átomos de urânio-235 e urânio-238 têm o mesmo número atômico e diferem apenas no número de massa. A única propriedade explorável é essa diferença de massa, e o processo que separa por massa é a centrifugação: nas ultracentrífugas o UF6 mais pesado é lançado para a periferia e o mais leve concentra-se no centro — é o método usado hoje. Peneiração separa por tamanho de partícula sólida (a); extração e destilação dependem de diferenças de afinidade química ou de ponto de ebulição, praticamente inexistentes entre isótopos (c e d); e o UF6 não é magnético (e)."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "enem-quimica-32",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "O elemento iodo (I) tem função biológica e é acumulado na tireoide. Nos acidentes nucleares de Chernobyl e Fukushima, ocorreu a liberação para a atmosfera do radioisótopo 131I, responsável por enfermidades nas pessoas que foram expostas a ele. O decaimento de uma massa de 12 microgramas do isótopo 131I foi monitorado por 14 dias, conforme o quadro.\n\nTempo (dia): 0 — massa residual de 131I (µg): 12,0\nTempo 2 dias — 10,1 µg\nTempo 4 dias — 8,5 µg\nTempo 5 dias — 7,8 µg\nTempo 6 dias — 7,2 µg\nTempo 8 dias — 6,0 µg\nTempo 14 dias — 3,6 µg\n\nApós o período de 40 dias, a massa residual desse isótopo é mais próxima de",
+   "alternativas": {
+    "a": "2,4 µg.",
+    "b": "1,5 µg.",
+    "c": "0,8 µg.",
+    "d": "0,4 µg.",
+    "e": "0,2 µg."
+   },
+   "resposta": "d",
+   "explicacao": "O quadro mostra a meia-vida do 131I: de 12,0 µg em t = 0 para 6,0 µg em 8 dias, a massa caiu à metade — meia-vida de 8 dias. Em 40 dias passam-se 5 meias-vidas, e a massa residual é 12,0/2⁵ = 12,0/32 = 0,375 ≈ 0,4 µg. Quem supõe decaimento linear (cerca de 0,6 µg por dia nos primeiros dias) acha que tudo some antes de 40 dias ou chega perto de 0,2 (e); quem conta 4 meias-vidas acha 0,75 ≈ 0,8 (c); 2,4 e 1,5 correspondem a 2 e 3 meias-vidas."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -128306,6 +131108,64 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O quociente inicial é 0,8²/(0,4·0,4)=4<16, então a reação avança. Com extensão x, 16=(0,8+2x)²/(0,4−x)². Tomando a raiz positiva, (0,8+2x)/(0,4−x)=4, de onde x=0,133. Assim [XY]≈1,07≈1,1 mol/L."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "enem-quimica-22",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "enunciado": "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados:\n• carboxila: —COOH, cujo pKa é igual a 1,8;\n• amino: —NH2, que pode ser convertido em amínio (—NH3+, cujo pKa é igual a 7,9);\n• tiol: —SH, cujo pKa é igual a 10,5.\nSabe-se que pKa = −log Ka.\n\nPenicilamina: HS—C(CH3)2—CH(NH2)—COOH\n\nQual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
+   "alternativas": {
+    "a": "⁻S—C(CH3)2—CH(NH2)—COO⁻",
+    "b": "⁻S—C(CH3)2—CH(NH2)—COOH",
+    "c": "HS—C(CH3)2—CH(NH3⁺)—COO⁻",
+    "d": "⁻S—C(CH3)2—CH(NH3⁺)—COOH",
+    "e": "HS—C(CH3)2—CH(NH3⁺)—COOH"
+   },
+   "resposta": "c",
+   "explicacao": "A regra é comparar o pH do meio com o pKa de cada grupo: quando pH > pKa, predomina a forma desprotonada (base conjugada); quando pH < pKa, predomina a forma protonada. Na urina (pH 5–7): a carboxila (pKa 1,8) está desprotonada, —COO⁻; o amínio (pKa 7,9) está protonado, —NH3⁺; o tiol (pKa 10,5) continua protonado, —SH. A espécie predominante é o zwitterion HS—C(CH3)2—CH(NH3⁺)—COO⁻. As alternativas a, b e d desprotonam o tiol, o que só ocorreria em pH acima de 10,5; b e e mantêm a carboxila protonada, o que exigiria pH abaixo de 1,8; a e b deixam o grupo amino neutro, forma minoritária em pH abaixo de 7,9."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "enem-quimica-27",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "enunciado": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO3) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\nO gás obtido no experimento é o:",
+   "alternativas": {
+    "a": "H2",
+    "b": "O2",
+    "c": "CO2",
+    "d": "CO",
+    "e": "Cl2"
+   },
+   "resposta": "c",
+   "explicacao": "Carbonato com ácido forte (o HCl sofre ionização total em água) é a reação clássica de efervescência: CaCO3 + 2 HCl → CaCl2 + H2O + CO2. O ácido carbônico que se formaria é instável e se decompõe em água e gás carbônico. Hidrogênio (a) seria liberado por um metal reagindo com o ácido, não por um carbonato; oxigênio, monóxido de carbono e cloro (b, d, e) não têm como surgir dessa reação — o cloro fica no sal, CaCl2."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "enem-quimica-30",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "fonte_texto": "Disponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).",
+   "enunciado": "Os riscos apresentados pelos produtos dependem de suas propriedades e da reatividade quando em contato com outras substâncias. Para prevenir os riscos devido à natureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e de uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados na estocagem, manipulação e descarte. O quadro elenca algumas dessas incompatibilidades, que podem levar à ocorrência de acidentes.\n\nSubstância: ácidos minerais fortes concentrados — Incompatibilidade: bases fortes; cianetos; hipoclorito de sódio — Riscos associados: reação enérgica, explosão, produção de oxidante forte e produto tóxico\nSubstância: ácido nítrico concentrado — Incompatibilidade: matéria orgânica — Riscos associados: reação enérgica, explosão e produto tóxico\n\nConsidere que houve o descarte indevido de dois conjuntos de substâncias:\n(1) ácido clorídrico concentrado com cianeto de potássio;\n(2) ácido nítrico concentrado com sacarose.\n\nO descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
+   "alternativas": {
+    "a": "liberação de gás tóxico e reação oxidativa forte.",
+    "b": "reação oxidativa forte e liberação de gás tóxico.",
+    "c": "formação de sais tóxicos e reação oxidativa forte.",
+    "d": "liberação de gás tóxico e liberação de gás oxidante.",
+    "e": "formação de sais tóxicos e liberação de gás oxidante."
+   },
+   "resposta": "a",
+   "explicacao": "(1) HCl concentrado com KCN: o ácido forte desloca o ácido fraco do seu sal — KCN + HCl → KCl + HCN — e o cianeto de hidrogênio, ácido fraco de baixa ionização, é um gás extremamente tóxico (o “produto tóxico” do quadro). (2) HNO3 concentrado com sacarose: o ácido nítrico é um oxidante fortíssimo e a sacarose é matéria orgânica; a reação é uma oxidação violenta, com desprendimento de calor e de óxidos de nitrogênio (a “reação enérgica” do quadro). A alternativa b inverte os dois; c e e falam em sal tóxico, mas o KCl formado é inofensivo — o perigo é o gás HCN; d chama de “gás oxidante” o que é uma reação de oxidação da matéria orgânica."
   }
  ],
  "quimica-organica": [
@@ -129962,6 +132822,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A unidade repetitiva é C₁₀H₈O₄, com 192,17 g·mol⁻¹. Os 332 g de ácido são 2 mol e formam 2 mol de unidades, ou 384,34 g de PET. O volume é 384,34/1,38 = 278,51 cm³ e 38.400/192,17 ≈ 200 unidades por cadeia. A cadeia do polímero contém grupos éster formados na condensação."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "enem-quimica-24",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "fonte_texto": "SOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).",
+   "enunciado": "De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela. Associações similares ocorriam no passado da história da química orgânica, quando os compostos ditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais.\n\nBenzaldeído (no óleo de amêndoas): C6H5—CHO\nSalicilato de metila (no óleo de gaultéria): C6H4(OH)—COOCH3 (grupos OH e éster em posição orto)\nAnetol (no óleo de anis): CH3O—C6H4—CH=CH—CH3 (para)\nVanilina (no óleo de baunilha): C6H3(OH)(OCH3)—CHO\nEugenol (no óleo de cravos): C6H3(OH)(OCH3)—CH2—CH=CH2\nCinamaldeído (no óleo de canela): C6H5—CH=CH—CHO\n\nA característica estrutural dessa família de compostos é a presença de",
+   "alternativas": {
+    "a": "ramificações.",
+    "b": "insaturações.",
+    "c": "anel benzênico.",
+    "d": "átomos de oxigênio.",
+    "e": "carbonos assimétricos."
+   },
+   "resposta": "c",
+   "explicacao": "O que define um composto aromático em química orgânica é o anel benzênico (o sistema de seis carbonos com elétrons π deslocalizados — a “estrutura eletrônica” a que o texto se refere). Todas as seis substâncias têm um anel benzeno com substituintes. Insaturações e átomos de oxigênio também aparecem em todas (b e d), mas não são exclusivas nem definidoras da família — cetonas e álcoois alifáticos têm oxigênio e não são aromáticos, e um alceno tem insaturação e não é aromático. Ramificações não são a marca dessas moléculas (a) e nenhuma delas tem carbono assimétrico (e)."
   }
  ],
  "quimica-solucoes": [
@@ -131606,6 +134486,64 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Pela lei de Raoult em 20 h, x_água = 16/24 = 2/3. Há 5 mol de água, então o total de solutos é 2,5 mol. Se a extensão é ξ, 1−ξ+3ξ = 1+2ξ = 2,5, logo ξ=0,75 e, para primeira ordem, restam 0,25 mol: duas meias-vidas em 20 h. Em 30 h restam 0,125 mol, os solutos totalizam 2,75 mol e P = 24·5/7,75 = 15,48 mmHg."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "enem-quimica-23",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "enunciado": "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e potável, ela deve passar por um processo de purificação numa estação de tratamento de água. Nesse processo, as principais etapas são, nesta ordem: coagulação, decantação, filtração, desinfecção e fluoretação.\n\nQual é a etapa de retirada de grande parte desses sólidos?",
+   "alternativas": {
+    "a": "Coagulação.",
+    "b": "Decantação.",
+    "c": "Filtração.",
+    "d": "Desinfecção.",
+    "e": "Fluoretação."
+   },
+   "resposta": "b",
+   "explicacao": "Os sólidos suspensos não estão dissolvidos — não são soluto, são partículas em suspensão. Na coagulação (com sulfato de alumínio, por exemplo) elas se aglomeram em flocos, mas ainda ficam na água; é na decantação que esses flocos, mais densos, sedimentam no fundo do tanque e a maior parte dos sólidos é retirada. A filtração remove só o que restou em suspensão fina (c); desinfecção (cloro) e fluoretação (adição de flúor) não separam sólidos — atuam sobre microrganismos e sobre a saúde bucal (d e e). A coagulação prepara a remoção, mas não a executa (a)."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "enem-quimica-25",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "fonte_texto": "Disponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).",
+   "enunciado": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos. Foram analisadas cinco amostras de diferentes tipos de cana-de-açúcar e cada uma recebeu um código de identificação. No quadro são apresentados os dados de concentração de sacarose e de microrganismos presentes nessas amostras.\n\nAmostra RB72: concentração inicial de sacarose 13,0 g L-1; concentração de microrganismos 0,7 mg L-1\nAmostra RB84: sacarose 18,0 g L-1; microrganismos 0,8 mg L-1\nAmostra RB92: sacarose 16,0 g L-1; microrganismos 0,6 mg L-1\nAmostra SP79: sacarose 14,0 g L-1; microrganismos 0,5 mg L-1\nAmostra SP80: sacarose 17,0 g L-1; microrganismos 0,9 mg L-1\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg L−1 de microrganismos presentes na cana-de-açúcar.\n\nQual tipo de cana-de-açúcar deve ser escolhido?",
+   "alternativas": {
+    "a": "RB72",
+    "b": "RB84",
+    "c": "RB92",
+    "d": "SP79",
+    "e": "SP80"
+   },
+   "resposta": "c",
+   "explicacao": "A perda de sacarose dissolvida no caldo em 10 h é proporcional à concentração de microrganismos: 50% por 1,0 mg/L, ou seja, cada 0,1 mg/L custa 5% da sacarose. RB72: 13,0 × (1 − 0,35) = 8,45; RB84: 18,0 × 0,60 = 10,8; RB92: 16,0 × 0,70 = 11,2; SP79: 14,0 × 0,75 = 10,5; SP80: 17,0 × 0,55 = 9,35 g/L. O maior teor restante é o da RB92. Escolher a maior sacarose inicial (RB84, b) ignora a deterioração; escolher a menor carga microbiana (SP79, d) ignora que ela partiu de pouca sacarose. Só a combinação dos dois dados decide."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "enem-quimica-26",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L−1, consumindo um volume igual a 8,0 mL dessa base. A reação para esse processo de titulação é representada pela equação química:\n\nHOOC—CH(OH)—CH(OH)—COOH (ácido tartárico, massa molar: 150 g mol-1) + 2 NaOH → NaOOC—CH(OH)—CH(OH)—COONa + 2 H2O\n\nA concentração de ácido tartárico no vinho analisado é mais próxima de:",
+   "alternativas": {
+    "a": "1,8 g L−1",
+    "b": "2,4 g L−1",
+    "c": "3,6 g L−1",
+    "d": "4,8 g L−1",
+    "e": "9,6 g L−1"
+   },
+   "resposta": "b",
+   "explicacao": "Base gasta: n(NaOH) = 0,10 mol/L × 0,0080 L = 8,0 × 10⁻⁴ mol. O ácido é diprótico (2 NaOH por ácido), então n(ácido) = 4,0 × 10⁻⁴ mol, ou 4,0 × 10⁻⁴ × 150 = 0,060 g em 25,0 mL. Em 1 L: 0,060/0,025 = 2,4 g/L. Quem esquece a proporção 1:2 acha 4,8 g/L (d); quem além disso erra a alíquota chega a 9,6 (e); 1,8 e 3,6 vêm de trocar 25 mL por outro volume."
   }
  ],
  "quimica-estequiometria": [
@@ -137111,6 +140049,65 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A queda dura t = √(2H/g). Para o encontro, as componentes iniciais do projétil devem ser D/t e (H−h)/t, pois ambos sofrem a mesma aceleração vertical. Assim v² = [D²+(H−h)²]/t² = g[D²+(H−h)²]/(2H)."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "enem-fisica-27",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m s-2.\n\nO resultado que eles obtiveram foi de",
+   "alternativas": {
+    "a": "1,50 m.",
+    "b": "2,25 m.",
+    "c": "4,00 m.",
+    "d": "4,50 m.",
+    "e": "5,00 m."
+   },
+   "resposta": "b",
+   "explicacao": "No lançamento horizontal a 1 m de altura, o tempo de queda vem de h = gt²/2: 1 = 5t², t² = 0,2 s². O alcance horizontal dá a velocidade de saída: v = 3/t, logo v² = 9/0,2 = 45 m²/s². Com a mangueira na vertical, a água sobe até que v² = 2gH: H = 45/20 = 2,25 m. Quem toma v = 3 m/s (esquecendo o tempo) chega a 0,45 m; quem usa H = v²/g chega a 4,50 m (d); 1,50 m e 5,00 m saem de trocas de fator 2 no meio da conta."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "enem-fisica-29",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um Buraco Negro é um corpo celeste que possui uma grande quantidade de matéria concentrada em uma pequena região do espaço, de modo que sua força gravitacional é tão grande que qualquer partícula fica aprisionada em sua superfície, inclusive a luz. O raio dessa região caracteriza uma superfície-limite, chamada de horizonte de eventos, da qual nada consegue escapar. Considere que o Sol foi instantaneamente substituído por um Buraco Negro com a mesma massa solar, de modo que o seu horizonte de eventos seja de aproximadamente 3,0 km.",
+   "fonte_texto": "SCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to Einstein’s Theory. Disponível em: arxiv.org. Acesso em: 26 maio 2022 (adaptado).",
+   "enunciado": "Após a substituição descrita, o que aconteceria aos planetas do Sistema Solar?",
+   "alternativas": {
+    "a": "Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro.",
+    "b": "Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais.",
+    "c": "Eles se moveriam em direção ao centro do Buraco Negro.",
+    "d": "Eles passariam a precessionar mais rapidamente.",
+    "e": "Eles manteriam suas órbitas inalteradas."
+   },
+   "resposta": "e",
+   "explicacao": "A força gravitacional que o Sol exerce sobre um planeta depende da massa do Sol e da distância ao seu centro — não do tamanho do Sol. Um buraco negro com a mesma massa, no mesmo lugar, produz nas distâncias planetárias exatamente o mesmo campo gravitacional, e a força resultante sobre cada planeta não muda; o horizonte de eventos de 3 km só importa para quem chegasse a poucos quilômetros dele. Portanto as órbitas ficam inalteradas. Espirais, queda ao centro ou oscilações (a, b, c) exigiriam mudança na força; a precessão relativística (d) também depende da massa e da distância, que não mudaram."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "enem-fisica-31",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "enunciado": "Um pai faz um balanço utilizando dois segmentos paralelos e iguais da mesma corda para fixar uma tábua a uma barra horizontal. Por segurança, opta por um tipo de corda cuja tensão de ruptura seja 25% superior à tensão máxima calculada nas seguintes condições:\n• O ângulo máximo atingido pelo balanço em relação à vertical é igual a 90°;\n• Os filhos utilizarão o balanço até que tenham uma massa de 24 kg.\nAlém disso, ele aproxima o movimento do balanço para o movimento circular uniforme, considera que a aceleração da gravidade é igual a 10 m/s² e despreza forças dissipativas.\n\nQual é a tensão de ruptura da corda escolhida?",
+   "alternativas": {
+    "a": "120 N",
+    "b": "300 N",
+    "c": "360 N",
+    "d": "450 N",
+    "e": "900 N"
+   },
+   "resposta": "d",
+   "explicacao": "A tração é máxima no ponto mais baixo. Partindo do repouso a 90°, a conservação de energia dá mgL = mv²/2, logo v² = 2gL. Embaixo, T − mg = mv²/L = 2mg, então T_total = 3mg = 3 × 24 × 10 = 720 N. Como são duas cordas, cada uma suporta 360 N (c é a tensão máxima, não a de ruptura). Com a margem de 25%: 360 × 1,25 = 450 N. Quem esquece a componente centrípeta acha 240 N por corda e 300 N com a margem (b); quem não divide pelas duas cordas chega a 900 N (e); 120 N é o peso dividido por dois, sem movimento."
   }
  ],
  "fisica-termologia": [
@@ -138599,6 +141596,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Para uma máquina de Carnot, o coeficiente de desempenho é COP = T_f/(T_q−T_f) = 290/20 = 14,5. A carga térmica é 1 kW, então a potência elétrica é 1/14,5 kW. Em 160 h, o consumo é cerca de 11,0 kWh e o custo é aproximadamente R$ 10,00."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "enem-fisica-32",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "fonte_texto": "ROMERO, M. A. B. et al. Mudanças climáticas e ilhas de calor urbanas. Brasília: UnB; ETB, 2019 (adaptado).",
+   "enunciado": "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados:\n\nÁgua: densidade 1 000 kg/m³; calor específico 4,2 J/(g °C)\nConcreto: densidade 2 500 kg/m³; calor específico 0,8 J/(g °C)\n\nA razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
+   "alternativas": {
+    "a": "1,0.",
+    "b": "2,1.",
+    "c": "2,5.",
+    "d": "5,3.",
+    "e": "13,1."
+   },
+   "resposta": "b",
+   "explicacao": "Mesma radiação absorvida (mesmo Q) e mesmo volume V: Q = m·c·ΔT = ρ·V·c·ΔT, logo ΔT = Q/(ρ·V·c). A razão concreto/água é ΔT_c/ΔT_a = (ρ_a·c_a)/(ρ_c·c_c) = (1 000 × 4,2)/(2 500 × 0,8) = 4 200/2 000 = 2,1. Quem compara só os calores específicos acha 4,2/0,8 = 5,25 (d); quem compara só as densidades acha 2,5 (c); 13,1 é o produto dos dois erros; 1,0 seria ignorar as diferenças. Como o concreto tem menor capacidade térmica por volume, ele esquenta mais — daí a maior amplitude térmica urbana."
   }
  ],
  "fisica-ondas-optica": [
@@ -140387,6 +143404,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "No eco Doppler há duas mudanças de frequência; para u ≪ v, Δf ≈ 2fu/v, logo u = vΔf/(2f). Bernoulli, na mesma altura, dá ΔP = ρ(v_c²−u²)/2, que coincide com a alternativa C."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-25",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em 2002, um mecânico da cidade mineira de Uberaba (MG) teve uma ideia para economizar o consumo de energia elétrica e iluminar a própria casa num dia de sol. Para isso, ele utilizou garrafas plásticas PET com água e cloro. Cada garrafa foi fixada ao telhado de sua casa em um buraco com diâmetro igual ao da garrafa, muito maior que o comprimento de onda da luz. Nos últimos dois anos, sua ideia já alcançou diversas partes do mundo e deve atingir a marca de 1 milhão de casas utilizando a “luz engarrafada”.",
+   "fonte_texto": "ZOBEL, G. Brasileiro inventor de “luz engarrafada” tem ideia espalhada pelo mundo. Disponível em: www.bbc.com. Acesso em: 23 jun. 2022 (adaptado).",
+   "enunciado": "Que fenômeno óptico explica o funcionamento da “luz engarrafada”?",
+   "alternativas": {
+    "a": "Difração.",
+    "b": "Absorção.",
+    "c": "Polarização.",
+    "d": "Reflexão.",
+    "e": "Refração."
+   },
+   "resposta": "e",
+   "explicacao": "A garrafa cheia de água atravessa o telhado: a luz do sol entra pela parte de fora, muda de meio (ar → água → ar) e, ao refratar-se na superfície curva da garrafa, é desviada e espalhada para dentro do cômodo, como uma lâmpada difusa. O texto descarta a difração de propósito ao dizer que o buraco tem diâmetro muito maior que o comprimento de onda da luz (a); absorção e polarização retirariam luz em vez de espalhá-la (b e c); e a reflexão sozinha não levaria a luz do lado de fora para dentro do ambiente através da garrafa (d)."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -142011,6 +145049,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A carga que atravessa a seção em um intervalo Δt ocupa o volume AvΔt, logo ΔQ = CρAvΔt. Portanto I = ΔQ/Δt = CρAv; a mesma conclusão segue da análise dimensional. Fisicamente, é uma corrente elétrica transportada por carga elétrica em movimento."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "enem-fisica-26",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "A fim de classificar as melhores rotas em um aplicativo de trânsito, um pesquisador propõe um modelo com base em circuitos elétricos. Nesse modelo, a corrente representa o número de carros que passam por um ponto da pista no intervalo de 1 s. A diferença de potencial (d.d.p.) corresponde à quantidade de energia por carro necessária para o deslocamento de 1 m. De forma análoga à lei de Ohm, cada via é classificada pela sua resistência, sendo a de maior resistência a mais congestionada. O aplicativo mostra as rotas em ordem crescente, ou seja, da rota de menor para a de maior resistência.\n\nComo teste para o sistema, são utilizadas três possíveis vias para uma viagem de A até B, com os valores de d.d.p. e corrente conforme a tabela.\n\nRota 1: d.d.p. 510 J/(carro·m); corrente 4 carro/s\nRota 2: d.d.p. 608 J/(carro·m); corrente 4 carro/s\nRota 3: d.d.p. 575 J/(carro·m); corrente 3 carro/s\n\nNesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
+   "alternativas": {
+    "a": "1, 2, 3.",
+    "b": "1, 3, 2.",
+    "c": "2, 1, 3.",
+    "d": "3, 1, 2.",
+    "e": "3, 2, 1."
+   },
+   "resposta": "a",
+   "explicacao": "Pela analogia com a lei de Ohm, R = U/i. Rota 1: 510/4 = 127,5; rota 2: 608/4 = 152; rota 3: 575/3 ≈ 191,7. Em ordem crescente de resistência: 1, 2, 3. Quem ordena só pela d.d.p. (menor energia por carro) cai em 1, 3, 2 (b); quem ordena só pela corrente, achando que mais carros por segundo é melhor, embaralha as demais. A resistência combina os dois dados, e é ela que o enunciado manda usar."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "enem-fisica-28",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "enunciado": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n\nVazão 3 L/min — ΔT (°C): morno 10; quente 20; superquente 30\nVazão 6 L/min — ΔT (°C): morno 5; quente 10; superquente 15\n\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 J/(g °C) e densidade de 1 000 g/L.\n\nO disjuntor adequado para a proteção dessa ducha é especificado por:",
+   "alternativas": {
+    "a": "60 A",
+    "b": "30 A",
+    "c": "20 A",
+    "d": "10 A",
+    "e": "5 A"
+   },
+   "resposta": "b",
+   "explicacao": "A potência elétrica dissipada por efeito Joule no resistor do chuveiro é a taxa de calor entregue à água: P = (m/t)·c·ΔT. No nível superquente, 3 L/min = 3 000 g/60 s = 50 g/s, com ΔT = 30 °C: P = 50 × 4,2 × 30 = 6 300 W (a linha de 6 L/min dá o mesmo: 100 g/s × 4,2 × 15). Corrente máxima: I = P/U = 6 300/220 ≈ 28,6 A. O múltiplo de 5 A imediatamente superior é 30 A. Quem usa o nível morno (2 100 W, 9,5 A) escolhe 10 A (d); quem soma as potências dos três níveis, ou esquece de dividir por 60 s, dispara para 60 A (a)."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "enem-fisica-33",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição.\n\nCom esse equívoco, qual é a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna?",
+   "alternativas": {
+    "a": "0,25 A",
+    "b": "0,33 A",
+    "c": "0,75 A",
+    "d": "1,00 A",
+    "e": "1,33 A"
+   },
+   "resposta": "a",
+   "explicacao": "Resistência da lâmpada: R = U²/P = 4,5²/4,5 = 4,5 Ω. Com uma pilha invertida, as f.e.m. em série somam 1,5 + 1,5 − 1,5 = 1,5 V, mas as três resistências internas continuam no circuito: 3 × 0,5 = 1,5 Ω. Corrente: I = 1,5/(4,5 + 1,5) = 0,25 A. Quem esquece as resistências internas acha 0,33 A (b); com as pilhas corretas a corrente seria 4,5/6 = 0,75 A (c); 1,00 A é a corrente nominal da lâmpada sem considerar as pilhas (d)."
   }
  ],
  "fisica-hidrostatica": [
@@ -144552,6 +147647,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Na subida, 450 = (mg+f_d)H = 12H, então H = 37,5 m. A energia ao voltar ao solo é 450−2f_dH = 300 J. Na compressão máxima, 300 + 10x = 400x² + 410x, cuja raiz positiva é x = 0,5 m. A dissipação total é 2f_dH + 410x = 150 + 205 = 355 J. O balanço usa conservação da energia mecânica e acompanha a energia cinética transformada em energia potencial elástica e dissipação."
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "enem-fisica-24",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "enunciado": "Em um autódromo, os carros podem derrapar em uma curva e bater na parede de proteção. Para diminuir o impacto de uma batida, pode-se colocar na parede uma barreira de pneus, isso faz com que a colisão seja mais demorada e o carro retorne com velocidade reduzida. Outra opção é colocar uma barreira de blocos de um material que se deforma, tornando-a tão demorada quanto a colisão com os pneus, mas que não permite a volta do carro após a colisão.\n\nComparando as duas situações, como ficam a força média exercida sobre o carro e a energia mecânica dissipada?",
+   "alternativas": {
+    "a": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de blocos.",
+    "b": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de pneus.",
+    "c": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é a mesma nas duas situações.",
+    "d": "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de pneus.",
+    "e": "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de blocos."
+   },
+   "resposta": "a",
+   "explicacao": "Pelo teorema do impulso, a força média é F = Δp/Δt. Os dois intervalos de tempo são iguais, mas a variação de quantidade de movimento é maior quando o carro volta (nos pneus a velocidade inverte o sentido: |Δp| = m(v + v'), maior que mv do carro que para nos blocos). Logo a força média é maior na barreira de pneus. Já a energia mecânica dissipada é toda a energia cinética inicial no caso dos blocos (o carro para) e só parte dela nos pneus (o carro sai com alguma velocidade) — a dissipação é maior nos blocos. As alternativas b, c e e invertem uma das duas comparações; d erra a energia."
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "enem-fisica-30",
+   "banca": "enem",
+   "sessao": "enem-2022-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em 2017, foi inaugurado, no estado da Bahia, o Parque Solar Lapa, composto por duas usinas (Bom Jesus da Lapa e Lapa) e capaz de gerar cerca de 300 GWh de energia por ano. Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a irradiância solar média é de 1 500 W/m² e que a eficiência dos painéis é de 20%.",
+   "fonte_texto": "Parque Solar Lapa entra em operação. Disponível em: www.canalbioenergia.com.br. Acesso em: 9 jun. 2022 (adaptado).",
+   "enunciado": "Nessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
+   "alternativas": {
+    "a": "1 000 000 m2",
+    "b": "500 000 m2",
+    "c": "250 000 m2",
+    "d": "100 000 m2",
+    "e": "20 000 m2"
+   },
+   "resposta": "b",
+   "explicacao": "A potência instalada é o que os painéis entregam: 150 MW = 1,5 × 10⁸ watts. Cada metro quadrado recebe 1 500 watts de irradiância e, com rendimento de 20%, entrega 300 W/m². Área = 1,5 × 10⁸ / 300 = 5 × 10⁵ m² = 500 000 m². Quem esquece o rendimento acha 100 000 m² (d); quem usa a potência de uma usina só (75 MW) chega a 250 000 m² (c); os 300 GWh anuais são distração — a conta é com potência, não com energia."
   }
  ],
  "fisica-moderna": [

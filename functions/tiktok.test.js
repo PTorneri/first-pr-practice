@@ -98,3 +98,56 @@ test("montarCorpo omite properties quando não há valor", () => {
   });
   assert.equal(corpo.data[0].properties, undefined);
 });
+
+// ---------------------------------------------------------------- o envio
+//
+// O fetch entra por parâmetro só para estes testes não tocarem a rede. A
+// sonda descartável da Tarefa 2 provou contra a API real que o cabeçalho é
+// "Access-Token" (o Authorization: Bearer devolveu 40104, access_token vazio).
+
+const { enviar, ENDPOINT } = require("./tiktok");
+
+test("enviar faz POST no endpoint com o cabeçalho Access-Token", async () => {
+  let recebido = null;
+  const falso = async (url, opcoes) => {
+    recebido = { url, opcoes };
+    return { ok: true, status: 200, text: async () => '{"code":0,"message":"OK"}' };
+  };
+
+  const corpo = montarCorpo({
+    email: "a@b.com", transacao: "t1", valor: 49.99, moeda: "BRL", em: 1755561600000,
+  });
+  const r = await enviar(corpo, "token-secreto", falso);
+
+  assert.equal(recebido.url, ENDPOINT);
+  assert.equal(recebido.opcoes.method, "POST");
+  assert.equal(recebido.opcoes.headers["Access-Token"], "token-secreto");
+  assert.equal(recebido.opcoes.headers["Content-Type"], "application/json");
+  assert.deepEqual(JSON.parse(recebido.opcoes.body), corpo);
+  assert.equal(r.ok, true);
+  assert.equal(r.status, 200);
+});
+
+test("enviar devolve ok:false quando a API recusa, sem lançar", async () => {
+  const falso = async () => ({
+    ok: false, status: 401, text: async () => '{"code":40104,"message":"access_token is empty"}',
+  });
+  const r = await enviar({ data: [] }, "errado", falso);
+  assert.equal(r.ok, false);
+  assert.equal(r.status, 401);
+  assert.match(r.corpo, /access_token is empty/);
+});
+
+test("enviar devolve ok:false quando a rede cai, sem lançar", async () => {
+  const falso = async () => { throw new Error("ECONNRESET"); };
+  const r = await enviar({ data: [] }, "t", falso);
+  assert.equal(r.ok, false);
+  assert.equal(r.status, 0);
+  assert.match(r.corpo, /ECONNRESET/);
+});
+
+test("enviar nunca deixa o token vazar no retorno", async () => {
+  const falso = async () => ({ ok: true, status: 200, text: async () => "{}" });
+  const r = await enviar({ data: [] }, "token-secreto", falso);
+  assert.equal(JSON.stringify(r).includes("token-secreto"), false);
+});

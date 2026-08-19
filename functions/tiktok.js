@@ -61,4 +61,32 @@ function montarCorpo({ email, transacao, valor, moeda, em }) {
   return { event_source: "web", event_source_id: PIXEL, data: [evento] };
 }
 
-module.exports = { ENDPOINT, PIXEL, deveEnviar, hashEmail, montarCorpo };
+// O fetch entra por parâmetro só para o teste não tocar a rede. Em produção
+// vale o global do Node 22.
+//
+// O cabeçalho é "Access-Token", e isso foi PROVADO contra a API real por uma
+// sonda descartável antes de qualquer código depender disso: a variante
+// "Authorization: Bearer" devolveu 40104 — "The access_token is empty". A
+// documentação pública não fechava esse ponto.
+//
+// Esta função NUNCA lança. Quem a chama é um gatilho do Firestore, e uma
+// exceção ali viraria retentativa de uma escrita que já aconteceu. O TikTok
+// fora do ar não pode virar problema nosso: falhou, devolve ok:false e loga.
+async function enviar(corpo, token, fetchImpl) {
+  const buscar = fetchImpl || fetch;
+  try {
+    const resposta = await buscar(ENDPOINT, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Access-Token": token,
+      },
+      body: JSON.stringify(corpo),
+    });
+    return { ok: resposta.ok, status: resposta.status, corpo: await resposta.text() };
+  } catch (err) {
+    return { ok: false, status: 0, corpo: String(err && err.message) };
+  }
+}
+
+module.exports = { ENDPOINT, PIXEL, deveEnviar, hashEmail, montarCorpo, enviar };

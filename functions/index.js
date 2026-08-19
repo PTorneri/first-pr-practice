@@ -279,6 +279,21 @@ exports.caktoWebhook = onRequest(
     // Entre arriscar conceder duas vezes e arriscar engolir uma compra paga, a
     // escolha é a mesma que o resto deste sistema faz: o prejuízo de quem pagou
     // vem primeiro. Sem id, processa e avisa.
+
+    // ---------- O valor, que ninguém conferiu ainda ----------
+    //
+    // Ninguém sabe ainda se a Cakto manda amount em reais (49.99) ou em
+    // centavos (4999) — o webhook nunca usou este campo. Os dois preços do
+    // produto são R$ 49,99 e R$ 19,99, então qualquer valor a partir de 500 é
+    // quase certamente centavos, e a conversão do TikTok estaria 100x inflada.
+    // O aviso existe para isso aparecer na PRIMEIRA venda, e não num relatório
+    // de ROAS que ninguém desconfia.
+    if (typeof d.amount === "number" && d.amount >= 500) {
+      logger.warn("[cakto] amount alto demais para os nossos precos: provavelmente centavos", {
+        evento, amount: d.amount,
+      });
+    }
+
     const chaveEvento = transacao ? String(transacao) + ":" + evento : null;
     if (!chaveEvento) {
       logger.warn("[cakto] evento sem data.id: processando SEM deduplicacao", { evento, email });
@@ -358,8 +373,20 @@ exports.caktoWebhook = onRequest(
         // Só marca o que dá para reconhecer depois. Gravar marca sem id seria
         // criar a armadilha descrita acima.
         if (marcaRef) {
+          // `acao`, `valor` e `moeda` existem aqui só para a conversão do
+          // TikTok, que é lida deste documento por um gatilho (ver
+          // tiktok-conversao.js). Ficam NESTA escrita, e não numa segunda,
+          // porque a marca já é gravada uma única vez por evento dentro desta
+          // transação — é a idempotência que o gatilho herda de graça.
+          //
+          // `acao` é o campo que importa: purchase_approved chega tanto na
+          // compra única quanto na cobrança de assinatura, e só a acao separa
+          // primeira venda de renovação.
           tx.set(marcaRef, {
             evento, email, transacao: transacao, em: Date.now(),
+            acao: acao,
+            valor: typeof d.amount === "number" ? d.amount : null,
+            moeda: "BRL",
           });
         }
         return "aplicado";

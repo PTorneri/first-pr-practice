@@ -387,6 +387,16 @@ exports.caktoWebhook = onRequest(
             acao: acao,
             valor: typeof d.amount === "number" ? d.amount : null,
             moeda: "BRL",
+            // `dados` é o estado ANTES desta transação (toda leitura acontece
+            // antes de qualquer escrita, por exigência do Firestore), então
+            // liberadoEm aqui só existe se esta pessoa já tinha pago antes.
+            //
+            // É por este campo, e não pelo nome do evento, que a conversão do
+            // TikTok decide o que é venda nova. A primeira versão perguntava à
+            // Cakto ("o evento é subscription_created?") e a primeira venda
+            // real derrubou a suposição: ela chegou como purchase_approved.
+            // A pergunta certa é sobre o nosso banco, que é nosso.
+            primeiraCompra: !dados.liberadoEm,
           });
         }
         return "aplicado";

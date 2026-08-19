@@ -13,19 +13,34 @@ const ENDPOINT = "https://business-api.tiktok.com/open_api/v1.3/event/track/";
 // acesso, e esse mora no Secret Manager (TIKTOK_TOKEN).
 const PIXEL = "DA2VL8JC77U74CG8DEO0";
 
-// Só a PRIMEIRA cobrança é conversão de anúncio.
+// Só a PRIMEIRA compra de cada pessoa é conversão de anúncio.
 //
-// A tentação é olhar só o `evento`, e ela está errada: purchase_approved chega
-// tanto na compra única quanto em cobranças de assinatura. Quem separa os dois
-// é a `acao` que o webhook já calculou (ver index.js).
+// ---------- A versão anterior desta função estava errada ----------
+//
+// Ela decidia pelo NOME DO EVENTO da Cakto: mandava quando o evento fosse
+// subscription_created, porque um teste de 11/08/2026 mostrou a assinatura
+// nascendo com esse nome. A primeira venda real, em 19/08/2026, chegou como
+// purchase_approved + acao "assinatura-cobranca" e foi descartada em silêncio.
+//
+// O erro não foi o palpite; foi onde ele se apoiou. O comentário do topo do
+// index.js avisa, duas vezes, que a taxonomia de eventos da Cakto é mal
+// documentada e já mentiu antes. Amarrar a conversão a esses nomes era
+// construir sobre a única parte do sistema declaradamente instável.
+//
+// Agora a pergunta é feita ao NOSSO banco, não à Cakto: esta pessoa já pagou
+// alguma vez? O webhook já lê o documento da assinatura dentro da transação
+// para decidir o prazo, então ele sabe disso de graça, e grava a resposta em
+// `primeiraCompra`. Renovação tem liberadoEm anterior; primeira compra não tem.
 //
 // Mandar renovação atribuiria ao anúncio uma receita que ele não gerou, e o
 // erro cresceria todo mês, em silêncio, sempre para cima — o formato de engano
 // mais difícil de perceber, porque os números ficam bons.
 function deveEnviar(marca) {
-  if (!marca || !marca.acao) return false;
-  if (marca.acao === "liberar") return true;
-  return marca.acao === "assinatura-cobranca" && marca.evento === "subscription_created";
+  if (!marca) return false;
+  // Ausente (marcas gravadas antes desta correção) conta como false: melhor
+  // não mandar do que mandar uma renovação achando que é venda nova.
+  if (marca.primeiraCompra !== true) return false;
+  return marca.acao === "liberar" || marca.acao === "assinatura-cobranca";
 }
 
 // O TikTok casa a conversão pelo e-mail com hash. Normalizar antes é

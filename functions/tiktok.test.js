@@ -9,43 +9,64 @@ const test = require("node:test");
 const assert = require("node:assert");
 const { deveEnviar, hashEmail, montarCorpo } = require("./tiktok");
 
-test("compra única de 90 dias é conversão", () => {
-  assert.equal(deveEnviar({ evento: "purchase_approved", acao: "liberar" }), true);
+test("compra única de 90 dias, de quem nunca pagou, é conversão", () => {
+  assert.equal(
+    deveEnviar({ evento: "purchase_approved", acao: "liberar", primeiraCompra: true }),
+    true
+  );
 });
 
-test("primeira cobrança da assinatura é conversão", () => {
+test("primeira cobrança da assinatura é conversão, venha com o nome de evento que vier", () => {
+  // O ponto desta correção: em 11/08/2026 a Cakto mandou subscription_created;
+  // na primeira venda real, em 19/08/2026, mandou purchase_approved. Os dois
+  // são a mesma coisa, e a decisão não pode depender de qual nome veio.
   assert.equal(
-    deveEnviar({ evento: "subscription_created", acao: "assinatura-cobranca" }),
+    deveEnviar({ evento: "subscription_created", acao: "assinatura-cobranca", primeiraCompra: true }),
+    true
+  );
+  assert.equal(
+    deveEnviar({ evento: "purchase_approved", acao: "assinatura-cobranca", primeiraCompra: true }),
+    true
+  );
+  assert.equal(
+    deveEnviar({ evento: "um_evento_que_a_cakto_ainda_nao_inventou", acao: "assinatura-cobranca", primeiraCompra: true }),
     true
   );
 });
 
 test("renovação NÃO é conversão", () => {
+  // Quem já pagou antes tem liberadoEm no documento, e o webhook grava
+  // primeiraCompra: false.
   assert.equal(
-    deveEnviar({ evento: "subscription_renewed", acao: "assinatura-cobranca" }),
+    deveEnviar({ evento: "subscription_renewed", acao: "assinatura-cobranca", primeiraCompra: false }),
+    false
+  );
+  assert.equal(
+    deveEnviar({ evento: "purchase_approved", acao: "assinatura-cobranca", primeiraCompra: false }),
     false
   );
 });
 
-test("purchase_approved de assinatura NÃO é conversão", () => {
-  // O mesmo evento chega nos dois casos; só a acao distingue.
+test("recompra de quem já foi cliente NÃO é conversão nova", () => {
   assert.equal(
-    deveEnviar({ evento: "purchase_approved", acao: "assinatura-cobranca" }),
+    deveEnviar({ evento: "purchase_approved", acao: "liberar", primeiraCompra: false }),
     false
   );
 });
 
-test("cancelamento, reembolso e chargeback não enviam nada", () => {
-  assert.equal(deveEnviar({ evento: "refund", acao: "revogar" }), false);
-  assert.equal(deveEnviar({ evento: "chargeback", acao: "revogar" }), false);
+test("cancelamento, reembolso e chargeback não enviam nada, nem na primeira vez", () => {
+  assert.equal(deveEnviar({ evento: "refund", acao: "revogar", primeiraCompra: true }), false);
+  assert.equal(deveEnviar({ evento: "chargeback", acao: "revogar", primeiraCompra: true }), false);
   assert.equal(
-    deveEnviar({ evento: "subscription_canceled", acao: "assinatura-cancelada" }),
+    deveEnviar({ evento: "subscription_canceled", acao: "assinatura-cancelada", primeiraCompra: true }),
     false
   );
 });
 
-test("documento sem acao não envia", () => {
-  assert.equal(deveEnviar({ evento: "purchase_approved" }), false);
+test("marca sem primeiraCompra não envia", () => {
+  // Marcas gravadas antes desta correção caem aqui. Melhor não mandar do que
+  // mandar uma renovação achando que é venda nova.
+  assert.equal(deveEnviar({ evento: "purchase_approved", acao: "liberar" }), false);
   assert.equal(deveEnviar({}), false);
   assert.equal(deveEnviar(null), false);
 });

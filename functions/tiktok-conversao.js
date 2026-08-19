@@ -74,7 +74,17 @@ exports.tiktokConversao = onDocumentCreated(
       valor: marca.valor,
       moeda: marca.moeda,
       em: marca.em || Date.now(),
+      // Só existe em documentos sintéticos, escritos à mão para verificar a
+      // corrente inteira sem sujar os números reais. O caktoWebhook nunca
+      // grava este campo — ver o comentário em tiktok.js.
+      codigoDeTeste: marca.codigoDeTeste,
     });
+
+    if (marca.codigoDeTeste) {
+      logger.warn("[tiktok] MARCA DE TESTE: o evento vai para a caixa de testes", {
+        transacao: marca.transacao,
+      });
+    }
 
     const r = await enviar(corpo, TIKTOK_TOKEN.value());
 

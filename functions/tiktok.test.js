@@ -172,3 +172,21 @@ test("enviar nunca deixa o token vazar no retorno", async () => {
   const r = await enviar({ data: [] }, "token-secreto", falso);
   assert.equal(JSON.stringify(r).includes("token-secreto"), false);
 });
+
+test("montarCorpo só inclui test_event_code quando pedido", () => {
+  const normal = montarCorpo({
+    email: "a@b.com", transacao: "t", valor: 19.99, moeda: "BRL", em: 1755561600000,
+  });
+  assert.equal(normal.test_event_code, undefined,
+    "venda real NUNCA pode ir para a caixa de testes");
+
+  const teste = montarCorpo({
+    email: "a@b.com", transacao: "t", valor: 19.99, moeda: "BRL", em: 1755561600000,
+    codigoDeTeste: "TEST05257",
+  });
+  assert.equal(teste.test_event_code, "TEST05257");
+  // O resto do corpo tem que ser idêntico, senão o teste não prova nada sobre
+  // o caminho real.
+  const { test_event_code, ...semCodigo } = teste;
+  assert.deepEqual(semCodigo, normal);
+});

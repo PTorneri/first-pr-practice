@@ -54,7 +54,7 @@ function hashEmail(email) {
     .digest("hex");
 }
 
-function montarCorpo({ email, transacao, valor, moeda, em }) {
+function montarCorpo({ email, transacao, valor, moeda, em, codigoDeTeste }) {
   const evento = {
     event: "CompletePayment",
     // Epoch em SEGUNDOS. O Firestore e o resto deste projeto trabalham em
@@ -73,7 +73,22 @@ function montarCorpo({ email, transacao, valor, moeda, em }) {
     evento.properties = { value: Number(valor), currency: moeda || "BRL" };
   }
 
-  return { event_source: "web", event_source_id: PIXEL, data: [evento] };
+  const corpo = { event_source: "web", event_source_id: PIXEL, data: [evento] };
+
+  // Válvula de teste. Com test_event_code o TikTok manda o evento para a aba
+  // "Eventos de teste" e ele NÃO entra nos números reais de conversão.
+  //
+  // Existe porque a corrente inteira — gatilho, token em execução, rede do
+  // Cloud Functions, resposta da API — só pode ser verificada de ponta a ponta
+  // com um envio de verdade, e esperar uma venda real para descobrir que algo
+  // quebrou é caro: foi assim que a primeira venda se perdeu.
+  //
+  // O campo só chega aqui se o documento da marca o trouxer, e quem escreve
+  // marcas é o caktoWebhook, que nunca o escreve. Venda real não passa por
+  // este caminho.
+  if (codigoDeTeste) corpo.test_event_code = String(codigoDeTeste);
+
+  return corpo;
 }
 
 // O fetch entra por parâmetro só para o teste não tocar a rede. Em produção

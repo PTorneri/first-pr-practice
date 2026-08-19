@@ -403,3 +403,12 @@ exports.caktoWebhook = onRequest(
     }
   }
 );
+
+// ---------- A conversão do TikTok ----------
+//
+// Mora em arquivo próprio, porque não tem nada a ver com liberar acesso — mas
+// o Firebase só enxerga o que o index exporta. Ela é disparada pela criação de
+// webhooksProcessados/{chave}, o documento que a transação acima grava; ver o
+// comentário longo em tiktok-conversao.js para por que ela não é uma chamada
+// a mais aqui dentro.
+exports.tiktokConversao = require("./tiktok-conversao").tiktokConversao;

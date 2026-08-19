@@ -99,18 +99,36 @@ Fica **de fora** um evento de "clicou em assinar": ele mora dentro do app,
 obrigaria pixel e banner nas quatro trilhas, e não é o sinal que otimiza a
 campanha. A compra é.
 
-Fica de fora também a **renovação mensal**. O webhook distingue
-`subscription_created` (primeira cobrança) de `subscription_renewed`
-(renovação), e só o primeiro vira `CompletePayment`. Mandar renovação
-ensinaria o algoritmo a atribuir ao anúncio uma receita que ele não gerou, e
-inflaria o ROAS de forma crescente e falsa.
+Fica de fora também a **renovação mensal**: mandá-la atribuiria ao anúncio uma
+receita que ele não gerou, e o erro cresceria todo mês, sempre para cima. Como
+a primeira cobrança é separada da renovação está logo abaixo — e é o ponto onde
+esta spec errou.
 
-O mapeamento completo, a partir da `acao` que o webhook já calcula:
+**CORRIGIDO EM 19/08/2026, DEPOIS DA PRIMEIRA VENDA REAL.** A versão original
+desta seção dizia: `purchase_approved` sem assinatura → envia;
+`subscription_created` → envia; `subscription_renewed` → não envia.
 
-- `purchase_approved` sem assinatura (`acao === "liberar"`) → **envia**
-- `subscription_created` → **envia**
-- `subscription_renewed` → não envia
-- `subscription_canceled`, `refund`, `chargeback` → não envia
+Estava errada, e a primeira venda real caiu no buraco: chegou como
+`purchase_approved` + `acao "assinatura-cobranca"` e foi descartada em silêncio.
+O teste de 11/08 tinha mostrado `subscription_created`, e eu tomei aquilo como
+regra.
+
+O defeito não foi o palpite — foi onde ele se apoiou. O topo do `index.js`
+avisa, duas vezes, que a taxonomia de eventos da Cakto é mal documentada e já
+mentiu antes. Amarrar a conversão a esses nomes era construir sobre a única
+parte do sistema declaradamente instável.
+
+**A regra agora pergunta ao nosso banco, não à Cakto:**
+
+- `primeiraCompra !== true` → **não envia** (renovação, recompra, ou marca antiga)
+- `primeiraCompra === true` e `acao` é `liberar` ou `assinatura-cobranca` → **envia**
+- qualquer `acao` de cancelamento, reembolso ou chargeback → **não envia**
+
+`primeiraCompra` é gravado pelo webhook como `!dados.liberadoEm`, onde `dados` é
+o estado do documento da assinatura ANTES da transação — informação que ele já
+lia para calcular o prazo. Renovação tem `liberadoEm`; primeira compra não tem.
+Nenhum nome de evento participa da decisão, e há teste com um nome inventado
+para garantir que continue assim.
 
 ### 3b. Fase intermediária: o pixel da Cakto, e a troca obrigatória
 

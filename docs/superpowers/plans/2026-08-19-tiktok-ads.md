@@ -32,6 +32,10 @@ resolve com uma chamada real antes de qualquer código depender deles:
 
 A resposta da API diz qual está certo, e ela é barata de obter.
 
+**RESOLVIDA em 19/08/2026:** a primeira venda real trouxe `amount` como o
+número `19.99` — **reais**, não centavos. O aviso descrito abaixo nem chegou
+a disparar. O texto original fica registrado:
+
 Existe ainda uma terceira, que só uma venda real responde: **`data.amount` da
 Cakto vem em reais (`49.99`) ou em centavos (`4999`)?** O webhook nunca usou
 esse campo. A Tarefa 4 grava o valor cru e emite um aviso no log quando ele

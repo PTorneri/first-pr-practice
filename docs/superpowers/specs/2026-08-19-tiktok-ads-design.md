@@ -112,6 +112,28 @@ O mapeamento completo, a partir da `acao` que o webhook já calcula:
 - `subscription_renewed` → não envia
 - `subscription_canceled`, `refund`, `chargeback` → não envia
 
+### 3b. Fase intermediária: o pixel da Cakto, e a troca obrigatória
+
+A Cakto aceita um pixel de conversão por produto (*Produtos → produto →
+Configurações → Pixels de conversão → TikTok*). Ele é ligado **antes** desta
+implementação, nos dois produtos (90 dias e mensal), para que a campanha possa
+rodar sem esperar engenharia.
+
+**Ou a Cakto manda `CompletePayment`, ou a Events API manda. Nunca as duas.**
+O TikTok só funde eventos duplicados quando ambos carregam o mesmo `event_id`,
+e a Cakto não expõe esse campo. Os dois ligados contariam cada venda duas vezes
+— ROAS dobrado no painel e o algoritmo otimizando contra um número inventado.
+Não dá sintoma: os números apenas ficam bons demais.
+
+Portanto, **desligar o pixel da Cakto faz parte do deploy desta função**, no
+mesmo movimento. Não é uma limpeza para depois; é um passo do plano, e o plano
+de implementação deve tratá-lo como tal.
+
+A porcentagem de PIX/boleto gerado que a Cakto oferece mandar como conversão
+estimada fica **desligada**: ela reporta venda que ainda não aconteceu, e a um
+preço de R$ 19,99 a distância entre gerar o PIX e pagá-lo é exatamente onde a
+campanha se decide.
+
 ### 4. A compra sai por uma função separada
 
 Função nova, disparada por `onDocumentCreated("webhooksProcessados/{chave}")`.

@@ -152,6 +152,16 @@ function gerar(template, pagina) {
   // Duas coisas que o app precisa saber antes da primeira linha de trilhas.js:
   // qual trilha esta URL representa, e onde estão os arquivos do app para o
   // código que monta caminho em tempo de execução (as capas das obras).
+  //
+  // E, só na raiz, o marketing.js — o pixel do TikTok e o banner de
+  // consentimento. Ele entra DEPOIS do DESVIO_DA_RAIZ, e a ordem não é
+  // estética: o desvio manda embora quem já tem trilha salva, e um pixel antes
+  // dele contaria como visita de anúncio o aluno velho que só passou de raspão
+  // a caminho da própria página. O `defer` completa a garantia — o script só
+  // executa depois do parse, quando o location.replace() já aconteceu.
+  //
+  // Nas páginas de trilha ele não entra de jeito nenhum: o produto pago não
+  // tem rastreador, e é isso que permite à política de privacidade dizê-lo.
   const anuncio =
     "\n<!-- Injetado por build-paginas.js. VD_TRILHA_URL é a trilha desta URL:\n" +
     "     é ela que manda, acima do localStorage, porque abrir um link é uma\n" +
@@ -161,7 +171,8 @@ function gerar(template, pagina) {
     "window.VD_APP_BASE = " + JSON.stringify(ateApp) + ";\n" +
     "window.VD_TRILHA_URL = " + JSON.stringify(pagina.trilha) + ";\n" +
     (pagina.trilha ? "" : DESVIO_DA_RAIZ) +
-    "</script>\n";
+    "</script>\n" +
+    (pagina.trilha ? "" : '<script src="' + ateApp + 'marketing.js?v=58" defer></script>\n');
 
   html = html.replace("</head>", anuncio + "</head>");
 

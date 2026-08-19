@@ -12,8 +12,8 @@
      variável precisa existir antes de ser lida. Faltava aqui desde o redesenho
      (d4f51ca), que criou o tokens.css e atualizou só a página do app — esta
      página vinha sendo servida sem cor e sem a letra da marca. -->
-<link rel="stylesheet" href="tokens.css?v=53">
-<link rel="stylesheet" href="styles.css?v=53">
+<link rel="stylesheet" href="tokens.css?v=58">
+<link rel="stylesheet" href="styles.css?v=58">
 </head>
 <body>
 
@@ -24,7 +24,7 @@
   </header>
 
   <h1>Política de Privacidade</h1>
-  <p class="doc-data">Última atualização: 9 de agosto de 2026</p>
+  <p class="doc-data">Última atualização: 19 de agosto de 2026</p>
 
   <p class="doc-intro">Esta política explica quais dados o <strong>sagax</strong> trata, por
   quê, com quem eles são compartilhados e o que você pode exigir. Ela segue a Lei Geral de
@@ -66,10 +66,24 @@
   <p>Usamos o Firebase App Check com reCAPTCHA Enterprise para verificar que as chamadas vêm
   mesmo do nosso app. Para isso, o Google coleta sinais do seu navegador e dispositivo.</p>
 
+  <h3>Medição de anúncios</h3>
+  <p>Quando anunciamos a sagax, precisamos saber quantas pessoas chegam até nós por esses
+  anúncios. Para isso, <strong>apenas a página de entrada</strong> (sagaxedu.com.br) pode
+  carregar o pixel de medição do TikTok, e <strong>só depois de você aceitar</strong> — se
+  você recusar, nada é carregado. <strong>O app em si não tem rastreador nenhum:</strong> as
+  páginas de estudo (/direito/, /medicina/, /economia/ e /engenharia/) não carregam pixel em
+  hipótese alguma.</p>
+  <p>Se você comprar, informamos ao TikTok que houve uma compra, com o valor, e o seu e-mail
+  <strong>convertido em um código irreversível</strong> (hash SHA-256) — nunca o e-mail em
+  si. Esse código serve apenas para o TikTok reconhecer que a venda veio de um anúncio.</p>
+  <p>Você pode mudar de ideia quando quiser:</p>
+  <p><button type="button" id="revogar-ads" class="consent-ads__btn consent-ads__btn--recusar">Revogar
+  o consentimento de medição</button>
+  <span id="revogar-ads-ok" hidden>Pronto — não mediremos mais nada.</span></p>
+
   <h3>O que NÃO fazemos</h3>
-  <p>Não usamos ferramentas de análise de audiência nem de publicidade, não criamos perfil
-  para anúncios, não vendemos dados e não compartilhamos dados com terceiros para fins de
-  marketing.</p>
+  <p>Não criamos perfil de comportamento para anúncios, não vendemos dados e não
+  compartilhamos seus dados de estudo com terceiros para fins de marketing.</p>
 
   <h2>3. Por que tratamos, e com que base legal</h2>
   <ul>
@@ -110,6 +124,9 @@
     servidor web, registra dados de acesso, como endereço IP.</li>
     <li><strong>Plataforma de pagamento</strong> — processa a compra e emite o documento
     fiscal. Ela é controladora dos dados de pagamento e tem política própria.</li>
+    <li><strong>TikTok</strong> — <em>só se você aceitar a medição de anúncios</em>, e só o
+    que o item 2 descreve: a visita à página de entrada e, na compra, o valor e o seu e-mail
+    convertido em código irreversível. Nada do seu estudo é enviado.</li>
   </ul>
   <p>Não há outros compartilhamentos.</p>
 
@@ -155,9 +172,12 @@
   lei.</p>
 
   <h2>11. Armazenamento local e cookies</h2>
-  <p>Não usamos cookies de publicidade nem de análise. Usamos o armazenamento local do
+  <p>Usamos o armazenamento local do
   navegador para guardar seu progresso e manter você conectado, e o reCAPTCHA Enterprise do
-  Google pode gravar cookies próprios para distinguir pessoas de robôs.</p>
+  Google pode gravar cookies próprios para distinguir pessoas de robôs. Se você aceitar a
+  medição de anúncios na página de entrada, o pixel do TikTok também pode gravar cookies
+  próprios — só ali, e só depois do seu aceite. Guardamos a sua resposta ao aviso de
+  consentimento no próprio navegador, para não perguntar de novo a cada visita.</p>
 
   <h2>12. Mudanças nesta política</h2>
   <p>Se algo mudar de forma relevante — em especial o que enviamos ao provedor de IA —
@@ -169,5 +189,13 @@
   </footer>
 </div>
 
+<script>
+// Esta página não carrega o pixel, então revogar aqui é apagar a decisão: a
+// próxima visita à página de entrada volta a perguntar, e até lá nada carrega.
+document.getElementById("revogar-ads").addEventListener("click", function () {
+  try { localStorage.removeItem("v2_consent_ads"); } catch (e) {}
+  document.getElementById("revogar-ads-ok").hidden = false;
+});
+</script>
 </body>
 </html>

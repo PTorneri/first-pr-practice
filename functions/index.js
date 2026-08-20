@@ -397,6 +397,10 @@ exports.caktoWebhook = onRequest(
             // real derrubou a suposição: ela chegou como purchase_approved.
             // A pergunta certa é sobre o nosso banco, que é nosso.
             primeiraCompra: !dados.liberadoEm,
+            // Qual plano foi vendido. É o único campo do payload que separa os
+            // dois de forma estável (preço muda, id não), e vira content_id na
+            // conversão do TikTok — ver OFERTAS em tiktok.js.
+            oferta: (d.offer && d.offer.id) || null,
           });
         }
         return "aplicado";

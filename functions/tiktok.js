@@ -54,7 +54,25 @@ function hashEmail(email) {
     .digest("hex");
 }
 
-function montarCorpo({ email, transacao, valor, moeda, em, codigoDeTeste }) {
+// O `offer.id` da Cakto identifica QUAL plano foi vendido, e é a única coisa no
+// payload que separa os dois — os valores também separam, mas preço muda e id
+// não. As duas ofertas estão nas checkoutUrl de assinatura.js.
+//
+// Vira content_id para que o relatório do TikTok mostre "plano-90-dias" e
+// "plano-mensal" em vez de um número opaco. A distinção importa: R$ 49,99 à
+// vista e R$ 19,99/mês valem coisas muito diferentes, e sem isso as duas vendas
+// chegam como uma conversão indistinguível.
+const OFERTAS = {
+  gmrnc42: "plano-90-dias",
+  rddoaeh: "plano-mensal",
+};
+
+function idDoPlano(oferta) {
+  if (!oferta) return "sagax-assinatura";
+  return OFERTAS[oferta] || String(oferta);
+}
+
+function montarCorpo({ email, transacao, valor, moeda, em, oferta, codigoDeTeste }) {
   const evento = {
     event: "CompletePayment",
     // Epoch em SEGUNDOS. O Firestore e o resto deste projeto trabalham em
@@ -67,10 +85,20 @@ function montarCorpo({ email, transacao, valor, moeda, em, codigoDeTeste }) {
     user: { email: hashEmail(email) },
   };
 
+  // content_id e content_type vão SEMPRE. O TikTok reclama da ausência deles
+  // ("Missing 'content_id' parameter", exigência de Video Shopping Ads) e, mais
+  // útil que calar o aviso, é o que separa plano de 90 dias de mensal no
+  // relatório.
+  evento.properties = {
+    content_type: "product",
+    content_id: idDoPlano(oferta),
+  };
+
   // Sem valor o evento ainda vale como conversão; só não dá para otimizar por
   // receita. Mandar `value: null` seria pior que omitir.
   if (valor !== null && valor !== undefined && !Number.isNaN(Number(valor))) {
-    evento.properties = { value: Number(valor), currency: moeda || "BRL" };
+    evento.properties.value = Number(valor);
+    evento.properties.currency = moeda || "BRL";
   }
 
   const corpo = { event_source: "web", event_source_id: PIXEL, data: [evento] };

@@ -172,7 +172,7 @@ function gerar(template, pagina) {
     "window.VD_TRILHA_URL = " + JSON.stringify(pagina.trilha) + ";\n" +
     (pagina.trilha ? "" : DESVIO_DA_RAIZ) +
     "</script>\n" +
-    (pagina.trilha ? "" : '<script src="' + ateApp + 'marketing.js?v=58" defer></script>\n');
+    (pagina.trilha ? "" : '<script src="' + ateApp + 'marketing.js?v=59" defer></script>\n');
 
   html = html.replace("</head>", anuncio + "</head>");
 

@@ -19,11 +19,11 @@
 //        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
 //        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=58";
-import "./sync.js?v=58"; // define window.VD_SYNC
-import "./feedback.js?v=58"; // define window.VD_FEEDBACK
-import "./ia.js?v=58"; // define window.VD_IA (correção das dissertativas e redações)
-import "./assinatura.js?v=58"; // define window.VD_ASSINATURA (o portão)
+import { auth } from "./firebase-init.js?v=59";
+import "./sync.js?v=59"; // define window.VD_SYNC
+import "./feedback.js?v=59"; // define window.VD_FEEDBACK
+import "./ia.js?v=59"; // define window.VD_IA (correção das dissertativas e redações)
+import "./assinatura.js?v=59"; // define window.VD_ASSINATURA (o portão)
 import {
   GoogleAuthProvider,
   signInWithPopup,

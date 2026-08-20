@@ -70,12 +70,93 @@
     if (window.ttq && window.ttq.page) window.ttq.page();
   }
 
+  // ---------- Os eventos de funil ----------
+  //
+  // O TikTok exige ver "eventos obrigatórios do funil" na configuração do pixel
+  // e recusava liberar a campanha sem eles ("Status: Não está pronto para
+  // campanha"). Ele quer quatro: ver conteúdo, carrinho, início de checkout e
+  // compra.
+  //
+  // DUAS DESSAS QUATRO SÃO ANALOGIAS, e vale dizer isso em voz alta: a sagax
+  // não tem carrinho nem checkout próprio — o pagamento acontece na Cakto, em
+  // outro domínio. O que existe aqui é um clique em "Começar meu plano". Mapear
+  // isso em AddToCart e InitiateCheckout é prática comum e o TikTok trata esses
+  // eventos como sinal de otimização, não como contabilidade — mas não é
+  // literal, e quem ler este arquivo daqui a um ano merece saber.
+  //
+  // O que NÃO fizemos: colocar pixel nas páginas de trilha para marcar o clique
+  // real em "assinar". Os dois CTAs estão na própria landing, então o funil
+  // inteiro cabe aqui, e o produto pago continua sem rastreador.
+  //
+  // A compra (CompletePayment) não sai daqui: vem do servidor, pela Events API,
+  // porque o checkout é de outro domínio e o navegador nunca a veria.
+
+  // Um id só para o navegador: nesta altura a pessoa ainda não escolheu plano —
+  // os dois aparecem lado a lado na mesma seção. Quem distingue 90 dias de
+  // mensal é a conversão do servidor, que sabe qual oferta foi paga.
+  var CONTENT_ID = "sagax-assinatura";
+
+  var jaDisparado = {};
+
+  function rastrear(nome) {
+    if (jaDisparado[nome]) return;
+    // Sem consentimento o ttq nem existe, então isto é silencioso por
+    // construção — não há caminho em que um evento escape do aceite.
+    if (!window.ttq || !window.ttq.track) return;
+    jaDisparado[nome] = true;
+    window.ttq.track(nome, { content_type: "product", content_id: CONTENT_ID });
+  }
+
+  // Ver a seção de planos é a única das quatro que é literal: a pessoa está
+  // olhando o produto e o preço.
+  function observarPlanos() {
+    var alvo = document.getElementById("planos");
+    if (!alvo || !window.IntersectionObserver) return;
+    var obs = new IntersectionObserver(function (entradas) {
+      for (var i = 0; i < entradas.length; i++) {
+        if (entradas[i].isIntersecting) {
+          rastrear("ViewContent");
+          obs.disconnect();
+          return;
+        }
+      }
+      // 0.2, e não algo como 0.4: a seção tem ~960px de altura e o tráfego do
+      // TikTok é quase todo de celular. Numa tela de 400px, 40% da seção nunca
+      // cabe na janela e o evento jamais dispararia — justamente para o público
+      // que importa. 20% cabe em qualquer aparelho.
+    }, { threshold: 0.2 });
+    obs.observe(alvo);
+  }
+
+  // `data-cta-comecar`, e NÃO `data-ir-para-login`: os dois botões "Entrar"
+  // também levam o segundo atributo, e quem faz login não está começando compra
+  // nenhuma — é quase sempre aluno que já paga. Marcar isso como "iniciou
+  // checkout" ensinaria o TikTok a perseguir gente que já é cliente.
+  //
+  // O clique é, ao mesmo tempo, "escolhi o produto" e "comecei o processo": não
+  // há passo entre um e outro no nosso funil, então os dois eventos saem
+  // juntos. Inventar uma separação artificial só para parecer um e-commerce
+  // seria pior que assumir que o passo não existe.
+  function observarCtas() {
+    document.addEventListener("click", function (e) {
+      var alvo = e.target && e.target.closest && e.target.closest("[data-cta-comecar]");
+      if (!alvo) return;
+      rastrear("AddToCart");
+      rastrear("InitiateCheckout");
+    }, true);
+  }
+
+  function ligarFunil() {
+    observarPlanos();
+    observarCtas();
+  }
+
   function fecharBanner() {
     var el = document.getElementById("consent-ads");
     if (el && el.parentNode) el.parentNode.removeChild(el);
   }
 
-  function aceitar() { grava("sim"); fecharBanner(); carregarPixel(); }
+  function aceitar() { grava("sim"); fecharBanner(); carregarPixel(); ligarFunil(); }
 
   function recusar() { grava("nao"); fecharBanner(); }
 
@@ -130,7 +211,7 @@
     if (window.VD_TRILHA_URL) return;
 
     var decisao = lido();
-    if (decisao === "sim") { carregarPixel(); return; }
+    if (decisao === "sim") { carregarPixel(); ligarFunil(); return; }
     if (decisao === "nao") return;
     mostrarBanner();
   }

@@ -111,13 +111,41 @@ test("montarCorpo assume BRL quando a moeda não vem", () => {
   assert.equal(corpo.data[0].properties.currency, "BRL");
 });
 
-test("montarCorpo omite properties quando não há valor", () => {
+test("montarCorpo omite o valor, mas nunca o content_id", () => {
   // Sem valor o evento ainda conta como conversão; só não otimiza por receita.
-  // Mandar value:null seria pior que omitir.
+  // Mandar value:null seria pior que omitir. O content_id, porém, vai sempre.
   const corpo = montarCorpo({
     email: "a@b.com", transacao: "t", valor: null, moeda: null, em: 1755561600000,
   });
-  assert.equal(corpo.data[0].properties, undefined);
+  assert.equal(corpo.data[0].properties.value, undefined);
+  assert.equal(corpo.data[0].properties.currency, undefined);
+  assert.equal(corpo.data[0].properties.content_type, "product");
+  assert.equal(corpo.data[0].properties.content_id, "sagax-assinatura");
+});
+
+test("a oferta da Cakto vira um content_id legível", () => {
+  // As duas ofertas estão nas checkoutUrl de assinatura.js.
+  const noventa = montarCorpo({
+    email: "a@b.com", transacao: "t", valor: 49.99, moeda: "BRL",
+    em: 1755561600000, oferta: "gmrnc42",
+  });
+  assert.equal(noventa.data[0].properties.content_id, "plano-90-dias");
+
+  const mensal = montarCorpo({
+    email: "a@b.com", transacao: "t", valor: 19.99, moeda: "BRL",
+    em: 1755561600000, oferta: "rddoaeh",
+  });
+  assert.equal(mensal.data[0].properties.content_id, "plano-mensal");
+});
+
+test("oferta desconhecida não vira conversão sem content_id", () => {
+  // Se a Cakto criar uma terceira oferta, o id cru é melhor que campo vazio —
+  // o relatório fica feio, mas o evento continua completo.
+  const corpo = montarCorpo({
+    email: "a@b.com", transacao: "t", valor: 9.9, moeda: "BRL",
+    em: 1755561600000, oferta: "oferta-nova-xyz",
+  });
+  assert.equal(corpo.data[0].properties.content_id, "oferta-nova-xyz");
 });
 
 // ---------------------------------------------------------------- o envio

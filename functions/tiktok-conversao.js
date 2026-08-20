@@ -74,6 +74,7 @@ exports.tiktokConversao = onDocumentCreated(
       valor: marca.valor,
       moeda: marca.moeda,
       em: marca.em || Date.now(),
+      oferta: marca.oferta,
       // Só existe em documentos sintéticos, escritos à mão para verificar a
       // corrente inteira sem sujar os números reais. O caktoWebhook nunca
       // grava este campo — ver o comentário em tiktok.js.

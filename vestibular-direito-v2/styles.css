@@ -3159,3 +3159,46 @@ h4 { font-size: 1.0625rem; }
   font: inherit;
   font-weight: 600;
 }
+
+/* ---------- Rubrica de redação ---------- */
+/* Banda e citação primeiro; o número fica atrás do botão .rubrica-ver-nota. */
+.rubrica { margin: 10px 0 4px; }
+.rubrica-eixo {
+  border-left: 3px solid var(--border);
+  padding: 6px 0 6px 10px;
+  margin: 0 0 10px;
+}
+.rubrica-eixo-topo {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.rubrica-eixo-nome { font-weight: 700; }
+.rubrica-banda { font-weight: 600; color: var(--ink-soft); }
+.rubrica-antes { text-decoration: line-through; opacity: 0.65; }
+.rubrica-comentario { margin: 4px 0 0; }
+.rubrica-marcadores { margin: 6px 0 0; padding-left: 18px; color: var(--ink-soft); }
+.rubrica-marcadores li { margin: 2px 0; }
+.rubrica-alerta {
+  border-left: 3px solid var(--bad);
+  padding-left: 10px;
+  margin: 0 0 10px;
+  font-weight: 600;
+}
+.rubrica-nota { margin-top: 8px; }
+.rubrica-nota-linhas { list-style: none; margin: 0; padding: 0; }
+.rubrica-nota-linhas li {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 3px 0;
+  border-bottom: 1px solid var(--border);
+}
+.rubrica-trava { color: var(--warn); font-style: normal; font-size: 0.9em; width: 100%; }
+.rubrica-total { margin: 8px 0 0; font-size: 1.15em; }
+.rubrica-delta { margin: 2px 0 0; color: var(--ink-soft); }
+.rubrica-anulada { border-left: 3px solid var(--bad); padding-left: 10px; }
+.ia-alvo { font-weight: 600; }

@@ -2515,6 +2515,34 @@
     );
   }
 
+  // A correção de redação tem uma exigência a mais: a rubrica. As correções
+  // salvas antes dela não têm, e cair fora é o comportamento certo — meia
+  // correção na tela é pior do que nenhuma.
+  function correcaoRedacaoValida(correcao, pontos) {
+    return correcaoIAValida(correcao, pontos) && Boolean(correcao.rubrica);
+  }
+
+  // Guarda UM nível de tentativa anterior, e só quando a nova tem nota. Um
+  // nível, e não histórico, porque o teto de 40 correções já existe e o delta
+  // que ensina é o da última tentativa.
+  //
+  // Correção que saiu sem nota (eixo que o corretor não preencheu) não vira
+  // referência: ela substitui a corrente para o aluno ler os comentários, mas
+  // preserva o `anterior` que já estava lá. Sem isso, um tropeço do corretor
+  // apagaria o ponto de comparação da próxima tentativa.
+  function comAnterior(guardada, nova) {
+    const temNota = typeof nova.nota === "number";
+    if (!temNota) {
+      return guardada && guardada.anterior
+        ? Object.assign({}, nova, { anterior: guardada.anterior })
+        : nova;
+    }
+    if (!guardada || !guardada.rubrica || typeof guardada.nota !== "number") return nova;
+    return Object.assign({}, nova, {
+      anterior: { rubrica: guardada.rubrica, nota: guardada.nota, quando: guardada.quando },
+    });
+  }
+
   const FAIXA_ROTULO = {
     competitiva: "Competitiva",
     precisa_ajuste: "Precisa de ajuste",
@@ -2559,6 +2587,16 @@
     `;
   }
 
+  // Onde mais ponto absoluto foi perdido. Perder 1,5 em argumentação e 0,5 em
+  // linguagem manda estudar argumentação, mesmo que a linguagem pareça pior de
+  // ler — e essa triagem o aluno sozinho não faz.
+  function eixoMaisCaroRotulo(correcao) {
+    const chave = correcao.notaDetalhe && correcao.notaDetalhe.eixoMaisCaro;
+    if (!chave || !window.VD_RUBRICA) return "";
+    const eixo = window.VD_RUBRICA.eixo(chave);
+    return eixo ? ` <span class="ia-alvo">${escapeHtml(eixo.rotulo)} é onde mais ponto foi embora.</span>` : "";
+  }
+
   // O cabeçalho da correção: a faixa, o erro mais caro e o que fazer depois.
   function correcaoIAResumoHtml(correcao) {
     if (!correcao) return "";
@@ -2566,9 +2604,107 @@
       <div class="ia-resumo" data-faixa="${correcao.faixa}">
         <div class="ia-faixa">${FAIXA_ROTULO[correcao.faixa] || correcao.faixa}</div>
         ${correcao.erroMaisCaro ? `<p class="ia-erro"><strong>O que mais custa nota:</strong> ${escapeHtml(correcao.erroMaisCaro)}</p>` : ""}
-        ${correcao.oQueFazer ? `<p class="ia-fazer"><strong>Na próxima:</strong> ${escapeHtml(correcao.oQueFazer)}</p>` : ""}
+        ${correcao.oQueFazer ? `<p class="ia-fazer"><strong>Na próxima:</strong>${
+          eixoMaisCaroRotulo(correcao)
+        } ${escapeHtml(correcao.oQueFazer)}</p>` : ""}
         <p class="hint ia-aviso">Correção automática. Ela erra — quando discordar de um
         veredito, a grade oficial e o seu julgamento valem mais do que ela.</p>
+      </div>
+    `;
+  }
+
+  const NOTA_FMT = (n) => n.toFixed(1).replace(".", ",");
+
+  // Um eixo da rubrica: a banda, o que a segurou, e a citação que a sustenta.
+  // Sem número — o número mora atrás do botão, e o motivo está no comentário de
+  // `rubricaHtml`.
+  function eixoRubricaHtml(eixo, atual, anterior) {
+    if (!atual) return "";
+    const antes = anterior && anterior[eixo.chave];
+    const moveu = antes && antes.banda !== atual.banda;
+    const marcas = (atual.marcadores || [])
+      .map((m) => `<li>${escapeHtml(m.texto)}</li>`)
+      .join("");
+    return `
+      <div class="rubrica-eixo">
+        <div class="rubrica-eixo-topo">
+          <span class="rubrica-eixo-nome">${escapeHtml(eixo.rotulo)}</span>
+          <span class="rubrica-banda">${
+            moveu ? `<span class="rubrica-antes">${escapeHtml(antes.rotuloBanda)}</span> → ` : ""
+          }${escapeHtml(atual.rotuloBanda)}</span>
+        </div>
+        ${atual.comentario ? `<p class="rubrica-comentario">${escapeHtml(atual.comentario)}</p>` : ""}
+        ${marcas ? `<ul class="rubrica-marcadores">${marcas}</ul>` : ""}
+        ${atual.evidencia ? `<blockquote class="ia-evidencia">${escapeHtml(atual.evidencia)}</blockquote>` : ""}
+      </div>
+    `;
+  }
+
+  // O bloco da nota, escondido atrás de um clique DE PROPÓSITO.
+  //
+  // Existe um achado clássico sobre retorno de trabalho escrito (Butler, 1988):
+  // aluno que recebe nota junto com comentário lê a nota e não lê o comentário,
+  // e o desempenho seguinte fica igual ao de quem só recebeu nota. Só o
+  // comentário melhora. Mas nota nenhuma também não serve — o candidato precisa
+  // saber se está competitivo. Banda primeiro, número a um clique.
+  function rubricaNotaHtml(correcao) {
+    const d = correcao.notaDetalhe;
+    if (!d || !d.ok) {
+      return `<p class="hint">O corretor não preencheu a rubrica inteira, então não há nota
+      desta vez. Os comentários acima valem; peça a correção de novo para ter o número.</p>`;
+    }
+    if (d.anulada) {
+      return `<p class="rubrica-anulada"><strong>Redação anulada — 0,0.</strong>
+      Os demais critérios não são avaliados quando a proposta é anulada.</p>`;
+    }
+    const linhas = d.porEixo
+      .map(
+        (e) => `
+        <li>
+          <span>${escapeHtml(e.rotulo)}</span>
+          <strong>${NOTA_FMT(e.pontos)} de ${NOTA_FMT(e.maximo)}</strong>
+          ${e.limitado ? `<em class="rubrica-trava">limitado pela adequação à proposta</em>` : ""}
+        </li>`
+      )
+      .join("");
+    const descontos = d.descontos
+      .map((x) => `<li><span>${escapeHtml(x.rotulo)}</span><strong>−${NOTA_FMT(x.valor)}</strong></li>`)
+      .join("");
+    const anterior =
+      correcao.anterior && typeof correcao.anterior.nota === "number"
+        ? `<p class="rubrica-delta">Na tentativa anterior: <strong>${NOTA_FMT(correcao.anterior.nota)}</strong></p>`
+        : "";
+    return `
+      <ul class="rubrica-nota-linhas">${linhas}${descontos}</ul>
+      <p class="rubrica-total">Nota: <strong>${NOTA_FMT(d.nota)}</strong> de 10,0</p>
+      ${anterior}
+      <p class="hint">Esta rubrica é adaptada de uma grade de redação escolar, e a banca da sua
+      trilha pontua diferente. Um 7,0 aqui não é um 7,0 na prova — o que vale é a direção, não o número.</p>
+    `;
+  }
+
+  function rubricaHtml(correcao) {
+    if (!correcao || !correcao.rubrica) return "";
+    const eixos = (window.VD_RUBRICA && window.VD_RUBRICA.EIXOS) || [];
+    const anterior = correcao.anterior && correcao.anterior.rubrica;
+    const corpo = eixos
+      .map((e) => eixoRubricaHtml(e, correcao.rubrica[e.chave], anterior))
+      .join("");
+    const d = correcao.notaDetalhe;
+    // Fuga ao tema fecha em 5,0 nesta rubrica porque estrutura e linguagem ainda
+    // pontuam. A frase abaixo é o que falta no papel: na banca, isso zera.
+    const alerta =
+      d && d.ok && !d.anulada && correcao.rubrica.adequacao &&
+      (correcao.rubrica.adequacao.banda === "inadequado")
+        ? `<p class="rubrica-alerta">Fuga ao tema ou ao tipo de texto. Nesta rubrica isso custa
+           metade da nota; na sua banca, zera a prova inteira.</p>`
+        : "";
+    return `
+      <div class="rubrica">
+        ${alerta}
+        ${corpo}
+        <button class="btn-link rubrica-ver-nota" type="button">Ver a nota</button>
+        <div class="rubrica-nota" hidden>${rubricaNotaHtml(correcao)}</div>
       </div>
     `;
   }
@@ -2747,7 +2883,7 @@
       const keyFor = (i) => p.id + "::" + i;
       const marcados = p.pontosEsperados.filter((_, i) => checklist[keyFor(i)]).length;
       const guardada = getRedacaoIA()[p.id];
-      const correcaoIA = correcaoIAValida(guardada, p.pontosEsperados) ? guardada : null;
+      const correcaoIA = correcaoRedacaoValida(guardada, p.pontosEsperados) ? guardada : null;
       const vistosIA = iaCumpridos(correcaoIA);
       const pontosHtml = p.pontosEsperados.map((pt, i) =>
         pontoGradeHtml(pt, i, checklist[keyFor(i)], correcaoIA && correcaoIA.criterios[i])
@@ -2781,6 +2917,7 @@
           <p class="hint" style="margin:0 0 8px;">Releia o que você escreveu e marque os critérios que realmente
           cumpriu. Vale marcar antes de pedir a correção — a diferença entre as duas leituras é o que ensina.</p>
           ${correcaoIAResumoHtml(correcaoIA)}
+          ${rubricaHtml(correcaoIA)}
           <ul class="dissert-gabarito">${pontosHtml}</ul>
         </div>
         <div class="dissert-actions">
@@ -2835,6 +2972,15 @@
         toggle.textContent = gradeWrap.hidden ? "Ver grade de correção" : "Ocultar grade de correção";
       });
 
+      const verNota = card.querySelector(".rubrica-ver-nota");
+      if (verNota) {
+        const notaWrap = card.querySelector(".rubrica-nota");
+        verNota.addEventListener("click", () => {
+          notaWrap.hidden = !notaWrap.hidden;
+          verNota.textContent = notaWrap.hidden ? "Ver a nota" : "Ocultar a nota";
+        });
+      }
+
       const counterEl = card.querySelector(".dissert-gabarito-counter");
       card.querySelectorAll(".dissert-gabarito input[type=checkbox]").forEach((cb) => {
         cb.addEventListener("change", () => {
@@ -2855,7 +3001,8 @@
       ligarBotaoIA(
         card,
         () => window.VD_IA.corrigirRedacao({ proposta: p, texto: textarea.value, titulo: campoTitulo.value }),
-        (correcao) => salvarCorrecaoIA(LS_REDACAO_IA, getRedacaoIA, p.id, correcao),
+        (correcao) =>
+          salvarCorrecaoIA(LS_REDACAO_IA, getRedacaoIA, p.id, comAnterior(getRedacaoIA()[p.id], correcao)),
         renderRedacaoTab
       );
 

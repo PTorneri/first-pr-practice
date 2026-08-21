@@ -328,11 +328,64 @@
     },
   ];
 
-  // A faixa pedida (20 a 30 linhas manuscritas) equivale a mais ou menos 180 a
-  // 270 palavras, e é isso que o contador da tela mostra. A folga de ~10% aqui
-  // existe porque a conversão palavra->linha é aproximada: descontar de quem
-  // escreveu 179 seria punir o erro de conversão, não o do aluno.
-  var DESCONTOS = { PALAVRAS_MIN: 160, PALAVRAS_MAX: 290, VALOR: 0.5 };
+  // ---------- Os formatos de prova ----------
+  //
+  // Extensão e título NÃO são regra da rubrica: são regra do EDITAL, e mudam de
+  // banca para banca. Fixá-los aqui num número só foi o erro que este bloco
+  // desfaz. O que os estudos de anatomia das provas deste repositório dizem:
+  //
+  //   FGV (vestibular-direito/estudo-anatomia-provas-fgv-insper-2025-2026.md)
+  //     — 20 a 30 linhas; título "RECOMENDÁVEL", não exigido.
+  //   Insper (mesmo estudo, e o cabeçalho de data/redacoes.js)
+  //     — 10 a 30 linhas; a questão-tema TEM de ser copiada como título, então
+  //       título livre ou ausente é erro de formato.
+  //   Medicina (vestibular-medicina/estudo-anatomia-provas-medicina-sp-2025-2026.md)
+  //     — "o comando não pede título" em Unesp, Unifesp, Einstein e Santa Casa;
+  //       só PUC-SP e FUVEST o exigem. Cinco de oito bancas não pedem.
+  //
+  // Ou seja: descontar por falta de título FORA do formato Insper pune o aluno
+  // por não fazer o que a prova dele não pede — e a tela ainda afirmava que "a
+  // banca cobra título", que é falso na maioria delas. Por isso o padrão é
+  // `fgv`, onde o título não desconta.
+  //
+  // A conversão linha->palavra é ~9 palavras por linha manuscrita, e é a mesma
+  // que o contador da tela mostra (palavrasIdealMin/Max). A folga de ~10% até o
+  // ponto de desconto (palavrasMin/Max) existe porque essa conversão é
+  // aproximada: descontar de quem escreveu 179 seria punir o erro de conversão,
+  // não o do aluno.
+  var FORMATOS = {
+    fgv: {
+      chave: "fgv",
+      rotulo: "FGV",
+      linhasMin: 20,
+      linhasMax: 30,
+      palavrasIdealMin: 180,
+      palavrasIdealMax: 270,
+      palavrasMin: 160,
+      palavrasMax: 290,
+      tituloObrigatorio: false,
+    },
+    insper: {
+      chave: "insper",
+      rotulo: "Insper",
+      linhasMin: 10,
+      linhasMax: 30,
+      palavrasIdealMin: 90,
+      palavrasIdealMax: 270,
+      palavrasMin: 80,
+      palavrasMax: 290,
+      tituloObrigatorio: true,
+    },
+  };
+
+  // Formato desconhecido cai no da FGV, que é o comando padrão de toda proposta
+  // do app. Recusar seria pior: uma correção antiga, gravada antes deste campo
+  // existir, ficaria sem nota por um dado ausente que não é culpa de ninguém.
+  function formato(chave) {
+    return FORMATOS[chave] || FORMATOS.fgv;
+  }
+
+  var DESCONTOS = { VALOR: 0.5 };
 
   // Gramática NÃO entra aqui. Ela é o eixo Linguagem, e descontar de novo
   // puniria duas vezes — a rubrica de papel duplica porque a correção é manual,
@@ -438,20 +491,25 @@
       porEixo[1].limitado = true;
     }
 
+    var f = formato(entrada && entrada.formato);
     var descontos = [];
     var palavras = Number(entrada && entrada.palavras) || 0;
-    if (palavras < DESCONTOS.PALAVRAS_MIN || palavras > DESCONTOS.PALAVRAS_MAX) {
+    if (palavras < f.palavrasMin || palavras > f.palavrasMax) {
       descontos.push({
         chave: "extensao",
         rotulo:
-          palavras < DESCONTOS.PALAVRAS_MIN
-            ? "abaixo do mínimo de linhas"
-            : "acima do máximo de linhas",
+          (palavras < f.palavrasMin ? "abaixo das " + f.linhasMin : "acima das " + f.linhasMax) +
+          " linhas do formato " + f.rotulo,
         valor: DESCONTOS.VALOR,
       });
     }
-    if (!(entrada && entrada.temTitulo)) {
-      descontos.push({ chave: "titulo", rotulo: "sem título", valor: DESCONTOS.VALOR });
+    // Só desconta título onde o edital o exige. Ver o bloco FORMATOS.
+    if (f.tituloObrigatorio && !(entrada && entrada.temTitulo)) {
+      descontos.push({
+        chave: "titulo",
+        rotulo: "sem título (obrigatório no formato " + f.rotulo + ")",
+        valor: DESCONTOS.VALOR,
+      });
     }
 
     var bruta = porEixo.reduce(function (s, x) {
@@ -530,6 +588,8 @@
   window.VD_RUBRICA = {
     EIXOS: EIXOS,
     DESCONTOS: DESCONTOS,
+    FORMATOS: FORMATOS,
+    formato: formato,
     eixo: eixo,
     banda: banda,
     calcular: calcular,

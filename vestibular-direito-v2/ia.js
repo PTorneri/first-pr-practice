@@ -131,7 +131,14 @@ const SCHEMA_CORRECAO = Schema.object({
 // escrita aqui é o que garante que um dia ela diverge da tabela que faz a conta.
 //
 // Não há campo de nota nem de faixa: o modelo escolhe banda, o código soma.
-const RUBRICA = window.VD_RUBRICA;
+//
+// `|| null` e não leitura direta: se rubrica.js não carregar (um `<script>` que
+// some do template, um 404 de cache), tudo o que depende dela abaixo é montado
+// condicionalmente. O motivo é grande: auth.js importa ESTE módulo de forma
+// ESTÁTICA, então um erro na avaliação do topo daqui derruba junto o login, o
+// sync, o feedback e o portão de assinatura. A correção de redação pode faltar;
+// entrar na conta, não.
+const RUBRICA = window.VD_RUBRICA || null;
 
 function schemaDoEixo(eixo) {
   const bandas = eixo.bandas.map((b) => b.chave);
@@ -155,25 +162,27 @@ function schemaDoEixo(eixo) {
   });
 }
 
-const SCHEMA_CORRECAO_REDACAO = Schema.object({
-  properties: {
-    criterios: SCHEMA_CRITERIOS,
-    rubrica: Schema.object({
-      properties: RUBRICA.EIXOS.reduce((acc, e) => {
-        acc[e.chave] = schemaDoEixo(e);
-        return acc;
-      }, {}),
-    }),
-    erroMaisCaro: Schema.string({
-      description: "O único problema que mais custa nota neste texto. Uma frase.",
-    }),
-    oQueFazer: Schema.string({
-      description:
-        "O que fazer diferente na próxima tentativa, em duas ou três frases. " +
-        "Instrução de rota, nunca o texto pronto.",
-    }),
-  },
-});
+const SCHEMA_CORRECAO_REDACAO = RUBRICA
+  ? Schema.object({
+      properties: {
+        criterios: SCHEMA_CRITERIOS,
+        rubrica: Schema.object({
+          properties: RUBRICA.EIXOS.reduce((acc, e) => {
+            acc[e.chave] = schemaDoEixo(e);
+            return acc;
+          }, {}),
+        }),
+        erroMaisCaro: Schema.string({
+          description: "O único problema que mais custa nota neste texto. Uma frase.",
+        }),
+        oQueFazer: Schema.string({
+          description:
+            "O que fazer diferente na próxima tentativa, em duas ou três frases. " +
+            "Instrução de rota, nunca o texto pronto.",
+        }),
+      },
+    })
+  : null;
 
 // ---------- Como se corrige ----------
 //
@@ -237,7 +246,11 @@ Específico da questão discursiva:
 ${REGRAS_FAIXA}
 `.trim();
 
-const INSTRUCAO_REDACAO = `
+// Sem RUBRICA não há instrução de redação a montar (o bloco de bandas sai
+// dela). O corretor de redação fica indisponível; o de dissertativa, não.
+const INSTRUCAO_REDACAO = !RUBRICA
+  ? ""
+  : `
 Você é corretor da redação de um vestibular brasileiro concorrido.
 
 ${REGRAS_COMUNS}
@@ -253,7 +266,7 @@ Específico da redação — e leia isto com atenção, porque contraria o hábi
   disputa, não a tese. Copiar a coletânea não é argumentar.
 - A FGV corrige por três quesitos (tema e estrutura; articulação e argumentação;
   correção gramatical e vocabular), e fuga ao tema ou à estrutura dissertativa
-  compromete a prova inteira. Se for o caso, o erroMaisCaro é esse.
+  ZERA a prova. Se for o caso, o erroMaisCaro é esse.
 
 Além da grade de conteúdo, você preenche uma RUBRICA de quatro eixos. Nela:
 
@@ -267,7 +280,8 @@ Além da grade de conteúdo, você preenche uma RUBRICA de quatro eixos. Nela:
 - A banda mais baixa de argumentacao é "insatisfatorio". Não existe nada abaixo
   dela — quando o texto foge ao tema, quem zera a argumentação é o programa, pelo
   eixo adequacao. Não tente zerar você.
-- NÃO julgue extensão nem título. O programa já mediu os dois e já descontou.
+- NÃO julgue extensão nem título. O programa já mediu os dois e aplica o
+  desconto que o formato da prova prevê — que não é o mesmo em toda banca.
 - A banda de argumentacao tem que conversar com o que você julgou na grade de
   conteúdo. Se metade dos pontos esperados ficou em "nao_cumprido", a
   argumentação não é "consistente".
@@ -310,6 +324,10 @@ function criarModelo(systemInstruction, schema) {
     generationConfig: {
       responseMimeType: "application/json",
       responseSchema: schema || SCHEMA_CORRECAO,
+      // Corretor não é lugar para variação: a mesma resposta merece o mesmo
+      // veredito se a pessoa pedir de novo. É a mesma espinha da rubrica —
+      // nota que oscila entre execuções ensina o aluno a pedir correção até
+      // gostar do número, e aí a ferramenta virou caça-níquel.
       temperature: 0.2,
       // Folgado de propósito, e mais folgado ainda desde a rubrica: são quatro
       // eixos a mais para preencher, cada um com citação. Apertar aqui trunca o
@@ -321,7 +339,7 @@ function criarModelo(systemInstruction, schema) {
 }
 
 const modeloDissertativa = criarModelo(INSTRUCAO_DISSERTATIVA);
-const modeloRedacao = criarModelo(INSTRUCAO_REDACAO, SCHEMA_CORRECAO_REDACAO);
+const modeloRedacao = RUBRICA ? criarModelo(INSTRUCAO_REDACAO, SCHEMA_CORRECAO_REDACAO) : null;
 
 // ---------- Limite diário ----------
 //
@@ -458,25 +476,41 @@ function checarPreCondicoes(texto, minimoPalavras) {
 // critérios: o schema garante o FORMATO, não a sanidade.
 function normalizarEixo(eixo, recebido) {
   const bruto = recebido || {};
-  let b = RUBRICA.banda(eixo.chave, bruto.banda);
-  if (!b) return null; // eixo inválido derruba a NOTA, não a correção inteira
+  const escolhida = RUBRICA.banda(eixo.chave, bruto.banda);
+  if (!escolhida) return null; // eixo inválido derruba a NOTA, não a correção inteira
 
+  let b = escolhida;
   const evidencia = String(bruto.evidencia || "").slice(0, 200).trim();
 
   // Banda sem citação é opinião, então ela cai um degrau. Quem já está no
   // degrau mais baixo fica onde está — não há para onde cair.
+  //
+  // E o degrau de baixo NUNCA pode ser "anulado". Essa banda zera a redação
+  // inteira e acusa o aluno de ter usado modelo pronto da internet ou de
+  // displicência deliberada — o próprio descritor dela diz que "exige evidência
+  // forte". Chegar nela por FALTA de evidência é o contrário do que ela pede.
+  // Pior: a evidência vazia é provável justamente aí, porque REGRAS_COMUNS
+  // ensina que ausência no texto se anota sem citação, e "anulado"/"inadequado"
+  // descrevem ausências. Um corretor coerente com a instrução zeraria a prova
+  // sem querer.
   if (!evidencia) {
     const i = eixo.bandas.indexOf(b);
-    if (i > 0) b = eixo.bandas[i - 1];
+    if (i > 0 && eixo.bandas[i - 1].chave !== "anulado") b = eixo.bandas[i - 1];
   }
 
-  // Marcador que não pertence à banda escolhida é descartado, sem derrubar o
+  // Marcador que não pertence à banda ESCOLHIDA é descartado, sem derrubar o
   // eixo: o defeito pode ser real e a banda também.
-  const validos = b.marcadores.map((m) => m.chave);
+  //
+  // Validamos contra a banda escolhida, e não contra a rebaixada: os marcadores
+  // são a resposta a "por que esta banda, e não a de cima", e o modelo os
+  // escolheu olhando para a dele. Validá-los contra a banda rebaixada apagava
+  // TODOS eles — e o eixo terminava com nota pior, sem citação e sem marcador,
+  // ou seja: sumia o porquê exatamente quando a nota piorava.
+  const validos = escolhida.marcadores.map((m) => m.chave);
   const marcadores = (Array.isArray(bruto.marcadores) ? bruto.marcadores : [])
     .filter((chave, i, arr) => validos.indexOf(chave) >= 0 && arr.indexOf(chave) === i)
     .slice(0, 3)
-    .map((chave) => b.marcadores.find((m) => m.chave === chave));
+    .map((chave) => escolhida.marcadores.find((m) => m.chave === chave));
 
   return {
     banda: b.chave,
@@ -487,13 +521,21 @@ function normalizarEixo(eixo, recebido) {
   };
 }
 
+// Um eixo que não validou vira `null` DENTRO da rubrica, e não uma rubrica
+// `null` inteira. A diferença é a tela: com `rubrica: null`, app.js não
+// desenhava nada — nem os eixos que vieram bons, nem os critérios de conteúdo,
+// nem o recado de "faltou rubrica" — e a correção anterior, essa sim completa,
+// era sobrescrita pela inválida. O aluno gastava uma das dez correções do dia,
+// perdia a que já tinha e não via explicação nenhuma.
+//
+// Com os eixos parciais preservados, VD_RUBRICA.calcular continua recusando
+// (ok:false, nota:null), que é o certo — nota parcial seria nota inventada —,
+// e o recado sobre a rubrica incompleta finalmente tem por onde aparecer.
 function normalizarRubrica(bruta) {
   const dados = bruta || {};
   const saida = {};
   for (const eixo of RUBRICA.EIXOS) {
-    const normalizado = normalizarEixo(eixo, dados[eixo.chave]);
-    if (!normalizado) return null;
-    saida[eixo.chave] = normalizado;
+    saida[eixo.chave] = normalizarEixo(eixo, dados[eixo.chave]);
   }
   return saida;
 }
@@ -564,14 +606,12 @@ async function executar(modelo, prompt, totalCriterios, medidas) {
   // Redação: a nota sai da conta, e a faixa sai da nota. Nenhuma das duas passa
   // pelo modelo.
   const rubrica = normalizarRubrica(dados.rubrica);
-  const detalhe = rubrica
-    ? RUBRICA.calcular({
-        rubrica: rubrica,
-        palavras: medidas.palavras,
-        temTitulo: medidas.temTitulo,
-      })
-    : { ok: false, motivo: "o corretor não preencheu a rubrica", nota: null, anulada: false,
-        porEixo: [], descontos: [], faixa: null, eixoMaisCaro: null };
+  const detalhe = RUBRICA.calcular({
+    rubrica: rubrica,
+    palavras: medidas.palavras,
+    temTitulo: medidas.temTitulo,
+    formato: medidas.formato,
+  });
 
   return {
     criterios: criterios,
@@ -643,6 +683,18 @@ async function corrigirDissertativa(entrada) {
 }
 
 async function corrigirRedacao(entrada) {
+  // Só acontece se rubrica.js não carregou. Recusar aqui com recado é o que
+  // permite o resto do módulo (e o login inteiro, que depende dele) ficar em pé.
+  if (!RUBRICA || !modeloRedacao) {
+    return {
+      ok: false,
+      motivo: "sem-rubrica",
+      mensagem:
+        "A correção de redação não carregou direito neste aparelho (falta a rubrica). " +
+        "Recarregue a página; se continuar, seu texto segue salvo aqui.",
+    };
+  }
+
   const proposta = entrada.proposta || {};
   const texto = entrada.texto || "";
   const titulo = String(entrada.titulo || "").trim();
@@ -653,12 +705,18 @@ async function corrigirRedacao(entrada) {
 
   const exigencia = EXIGENCIA_POR_MODELO[proposta.modelo];
   const palavras = contarPalavras(texto);
+  // Quem manda no formato é a tela (o aluno escolhe FGV ou Insper no card), e
+  // não a proposta: as propostas com `comandoInsper` trazem OS DOIS comandos, e
+  // o exibido por padrão é o da FGV.
+  const f = RUBRICA.formato(entrada.formato);
 
   const prompt = [
     "Corrija a redação abaixo.",
     "",
     "TEMA: " + (proposta.tema || ""),
     "TÍTULO DADO PELO CANDIDATO: " + (titulo || "(nenhum)"),
+    "FORMATO DA PROVA: " + f.rotulo + " (" + f.linhasMin + " a " + f.linhasMax + " linhas, título " +
+      (f.tituloObrigatorio ? "obrigatório" : "recomendável") + ")",
     proposta.modelo ? "FORMATO DO TEMA: " + proposta.modelo : "",
     exigencia ? "O QUE ESTE FORMATO EXIGE: " + exigencia : "",
     "",
@@ -673,7 +731,8 @@ async function corrigirRedacao(entrada) {
     // está no tamanho.
     "EXTENSÃO: o candidato escreveu " +
       palavras +
-      " palavras. A faixa pedida (20 a 30 linhas) equivale a mais ou menos 180 a 270 palavras. " +
+      " palavras. A faixa pedida (" + f.linhasMin + " a " + f.linhasMax + " linhas) equivale a mais ou menos " +
+      f.palavrasIdealMin + " a " + f.palavrasIdealMax + " palavras. " +
       "Só comente a extensão se ela estiver claramente fora disso.",
     "",
     "GRADE DE CORREÇÃO — julgue um a um, pelo índice:",
@@ -689,6 +748,7 @@ async function corrigirRedacao(entrada) {
     const correcao = await executar(modeloRedacao, prompt, pontos.length, {
       palavras: palavras,
       temTitulo: Boolean(titulo),
+      formato: f.chave,
     });
     return { ok: true, correcao: correcao };
   } catch (err) {

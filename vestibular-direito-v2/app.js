@@ -40,7 +40,8 @@
   const LS_DISSERT_STATUS = NS + "vd_dissertStatus"; // { "<day>": "done" | "skipped" }
   const LS_DISSERT_ANSWERS = NS + "vd_dissertAnswers"; // { "<day>::<questionId>": "texto do usuário" }
   const LS_DISSERT_CHECKLIST = NS + "vd_dissertChecklist"; // { "<day>::<questionId>::<pointIndex>": true }, autoavaliação dos pontos esperados
-  const LS_REDACAO_ANSWERS = NS + "vd_redacaoAnswers"; // { "<redacaoId>": "texto do usuário" }, aba Redação (prova à parte, não é dissertativa)
+  const LS_REDACAO_ANSWERS = NS + "vd_redacaoAnswers"; // { "<redacaoId>": "texto do usuário" }, aba Redação (prova à parte, não é dissertativa) — STRING PURA, ver LS_REDACAO_TITULOS
+  const LS_REDACAO_TITULOS = NS + "vd_redacaoTitulos"; // { "<redacaoId>": "título" }, chave à parte de propósito — ver abaixo
   const LS_REDACAO_CHECKLIST = NS + "vd_redacaoChecklist"; // { "<redacaoId>::<pointIndex>": true }, autoavaliação pela grade oficial
   const LS_REDACAO_DONE = NS + "vd_redacaoDone"; // { "<redacaoId>": true }, propostas já treinadas
   const LS_DISSERT_IA = NS + "vd_dissertIA"; // { "<day>::<questionId>::<itemId>": {criterios,faixa,...} }, correção por IA
@@ -75,6 +76,23 @@
     // o parecer subiria pra nuvem e o texto corrigido não, então abrir no
     // celular mostraria uma correção detalhada de uma redação em branco.
     LS_REDACAO_ANSWERS, LS_REDACAO_CHECKLIST, LS_REDACAO_DONE,
+    // O título mora numa chave PRÓPRIA, e não dentro de vd_redacaoAnswers.
+    //
+    // Não é gosto: guardá-lo junto do texto transformaria o valor de
+    // vd_redacaoAnswers[id] de string em objeto, e o app JÁ PUBLICADO (que fica
+    // até 10 minutos em cache, e mais que isso em aba aberta) faz
+    // `escapeHtml(answers[p.id] || "")` sobre esse valor. Um objeto ali vira
+    // "[object Object]" dentro da caixa de redação — e basta o aluno digitar
+    // uma letra para essa string substituir o texto de verdade, que o sync.js
+    // então sobe como a versão mais recente. A redação de sessenta minutos
+    // vira lixo nos dois aparelhos, em silêncio.
+    //
+    // Uma chave NOVA não tem esse problema: o app antigo simplesmente ignora o
+    // que não conhece. Por isso vd_redacaoAnswers[id] é string pura, para
+    // sempre — quem "simplificar" isso de volta reintroduz a perda de texto.
+    // A estratégia de mesclagem padrão ("entrada") serve, e é por isso que esta
+    // chave não precisa de linha em MERGE_STRATEGY no sync.js.
+    LS_REDACAO_TITULOS,
     LS_DISSERT_IA, LS_REDACAO_IA,
   ];
 
@@ -2515,11 +2533,21 @@
     );
   }
 
-  // A correção de redação tem uma exigência a mais: a rubrica. As correções
-  // salvas antes dela não têm, e cair fora é o comportamento certo — meia
-  // correção na tela é pior do que nenhuma.
+  // A correção de redação NÃO exige rubrica.
+  //
+  // Exigi-la parecia rigor e era destruição: toda correção salva antes da
+  // rubrica existir — ou seja, todas as que os alunos já tinham no dia em que
+  // ela entrou no ar — sumiria da tela sem aviso, e refazê-la custa uma das dez
+  // do dia. O mesmo valia para uma correção nova em que o corretor tropeçou num
+  // eixo: nada aparecia, nem os comentários que vieram bons.
+  //
+  // O código já degrada sozinho: `rubricaHtml` devolve "" sem rubrica e
+  // `eixoMaisCaroRotulo` devolve "" sem notaDetalhe, então a correção antiga
+  // renderiza inteira, só sem o bloco de nota. A guarda que importa de verdade
+  // continua sendo o tamanho da grade, em `correcaoIAValida` — é ela que impede
+  // um veredito preciso de aparecer no critério errado.
   function correcaoRedacaoValida(correcao, pontos) {
-    return correcaoIAValida(correcao, pontos) && Boolean(correcao.rubrica);
+    return correcaoIAValida(correcao, pontos);
   }
 
   // Guarda UM nível de tentativa anterior, e só quando a nova tem nota. Um
@@ -2687,10 +2715,18 @@
     if (!correcao || !correcao.rubrica) return "";
     const eixos = (window.VD_RUBRICA && window.VD_RUBRICA.EIXOS) || [];
     const anterior = correcao.anterior && correcao.anterior.rubrica;
-    const corpo = eixos
+    const d = correcao.notaDetalhe;
+    // Redação anulada: a conta avalia SÓ a adequação à proposta, e os outros
+    // três eixos nem entram no resultado. Desenhá-los mesmo assim punha
+    // "Argumentação — Excelente" duas linhas acima de "Redação anulada — 0,0.
+    // Os demais critérios não são avaliados" — a tela se contradizendo sozinha.
+    const visiveis =
+      d && d.anulada
+        ? eixos.filter((e) => (d.porEixo || []).some((x) => x.chave === e.chave))
+        : eixos;
+    const corpo = visiveis
       .map((e) => eixoRubricaHtml(e, correcao.rubrica[e.chave], anterior))
       .join("");
-    const d = correcao.notaDetalhe;
     // Fuga ao tema fecha em 5,0 nesta rubrica porque estrutura e linguagem ainda
     // pontuam. A frase abaixo é o que falta no papel: na banca, isso zera.
     const alerta =
@@ -2789,23 +2825,50 @@
   ];
 
   function getRedacaoAnswers() { return loadJSON(LS_REDACAO_ANSWERS, {}); }
+  function getRedacaoTitulos() { return loadJSON(LS_REDACAO_TITULOS, {}); }
 
-  // A resposta de redação era só o texto. Com a rubrica ela passou a guardar o
-  // título junto, porque "ausência de título" desconta e adivinhar a primeira
-  // linha seria chute.
+  // A resposta de redação é o TEXTO, e só o texto: `vd_redacaoAnswers[id]` é
+  // string pura. O título vive em `vd_redacaoTitulos`, chave à parte — o porquê
+  // está em LS_REDACAO_TITULOS, lá em cima, e resumido é este: mudar o tipo do
+  // valor faz o app antigo (que fica em cache) escrever "[object Object]" por
+  // cima da redação do aluno.
   //
-  // A leitura aceita os dois formatos PARA SEMPRE, e não só durante uma
-  // migração: a estratégia de mesclagem desta chave em sync.js é a padrão
-  // ("entrada" — vence quem escreveu por último), então um aparelho com o app
-  // antigo em cache pode devolver a string à nuvem depois da migração.
+  // A leitura tolera TRÊS formatos, para sempre:
+  //   - string: o normal, e o que o app antigo grava;
+  //   - { titulo, texto }: o formato que existiu só em desenvolvimento e pode
+  //     estar no localStorage de quem rodou aquela versão — aproveitamos o
+  //     título de dentro dele em vez de descartá-lo;
+  //   - ausente: proposta ainda não aberta.
   function lerRedacao(answers, id) {
     const v = answers[id];
-    if (typeof v === "string") return { titulo: "", texto: v };
-    return { titulo: (v && v.titulo) || "", texto: (v && v.texto) || "" };
+    const titulos = getRedacaoTitulos();
+    if (typeof v === "string") return { titulo: titulos[id] || "", texto: v };
+    return {
+      titulo: titulos[id] || (v && v.titulo) || "",
+      texto: (v && v.texto) || "",
+    };
   }
 
   function getRedacaoChecklist() { return loadJSON(LS_REDACAO_CHECKLIST, {}); }
   function getRedacaoDone() { return loadJSON(LS_REDACAO_DONE, {}); }
+
+  // Extensão pedida e exigência de título saem de rubrica.js, que é quem faz a
+  // conta. Repetir os números aqui é o caminho conhecido para a tela prometer
+  // uma coisa e o desconto aplicar outra. O molde de reserva existe só para o
+  // caso de rubrica.js não ter carregado, e copia o da FGV — que é o comando
+  // padrão de toda proposta do app.
+  const FORMATO_RESERVA = {
+    chave: "fgv", rotulo: "FGV", linhasMin: 20, linhasMax: 30,
+    palavrasIdealMin: 180, palavrasIdealMax: 270, tituloObrigatorio: false,
+  };
+  function formatoRedacao(chave) {
+    return (window.VD_RUBRICA && window.VD_RUBRICA.formato(chave)) || FORMATO_RESERVA;
+  }
+  function rotuloFormato(f) {
+    return `${f.rotulo} (${f.linhasMin} a ${f.linhasMax} linhas, título ${
+      f.tituloObrigatorio ? "obrigatório" : "recomendável"
+    })`;
+  }
 
   function renderRedacaoTab() {
     const container = document.getElementById("redacao-content");
@@ -2889,24 +2952,36 @@
         pontoGradeHtml(pt, i, checklist[keyFor(i)], correcaoIA && correcaoIA.criterios[i])
       ).join("");
 
+      // Qual formato o aluno está escrevendo AGORA — e é ELE quem escolhe, não
+      // a proposta. As 40 propostas que trazem `comandoInsper` trazem OS DOIS
+      // comandos, e o exibido por padrão é o da FGV; deduzir "formato Insper"
+      // da presença do campo cobraria título de dois terços das propostas
+      // justamente de quem está seguindo o comando da FGV, onde ele é só
+      // recomendável. A escolha vale para esta sessão do card: fechar e reabrir
+      // volta ao padrão FGV, que é o comando em destaque.
+      const fFgv = formatoRedacao("fgv");
+      const fInsper = formatoRedacao("insper");
+      let formatoAtual = "fgv";
+
       card.innerHTML = `
         <div class="lesson-eyebrow">Proposta${p.modelo ? " · " + escapeHtml(p.modelo) : ""} · ~${p.tempoSugerido} min</div>
         <h3 style="margin:4px 0 10px;">${escapeHtml(p.tema)}${badge}</h3>
         <div class="q-support">${escapeHtml(p.texto_apoio)}</div>
         <div class="q-enunciado">${escapeHtml(p.comando)}</div>
         ${p.comandoInsper ? `
-        <button class="btn-link redacao-toggle-insper" type="button">Ver o mesmo tema no formato do Insper</button>
+        <button class="btn-link redacao-toggle-insper" type="button">Escrever no formato do ${escapeHtml(rotuloFormato(fInsper))}</button>
         <div class="redacao-insper-wrap" hidden>
           <div class="q-enunciado">${escapeHtml(p.comandoInsper)}</div>
           <p class="hint" style="margin:0 0 8px;">A prova do Insper traz dois temas e você escolhe um. A
-          questão-tema tem de ser copiada como título, o texto vai de 10 a 30 linhas (e não 20 a 30) e o
-          apoio é um contexto de dois parágrafos, não uma coletânea. Redação montada com modelo pronto de
-          internet é anulada pelo edital.</p>
+          questão-tema tem de ser copiada como título, o texto vai de ${fInsper.linhasMin} a ${fInsper.linhasMax}
+          linhas (e não ${fFgv.linhasMin} a ${fFgv.linhasMax}) e o apoio é um contexto de dois parágrafos, não uma
+          coletânea. Redação montada com modelo pronto de internet é anulada pelo edital. Com este formato
+          escolhido, a correção passa a cobrar o título e a medir a extensão por esta faixa.</p>
         </div>` : ""}
         <input class="redacao-titulo" type="text" maxlength="120"
           placeholder="Título da redação" value="${escapeHtml(resposta.titulo)}">
-        <p class="hint" style="margin:2px 0 8px;">A banca cobra título, e a falta dele desconta 0,5 na correção.</p>
-        <textarea class="dissert-textarea" rows="18" placeholder="Escreva sua redação aqui (20 a 30 linhas)...">${escapeHtml(resposta.texto)}</textarea>
+        <p class="hint redacao-titulo-hint" style="margin:2px 0 8px;"></p>
+        <textarea class="dissert-textarea" rows="18" placeholder="">${escapeHtml(resposta.texto)}</textarea>
         <div class="hint redacao-contador"></div>
         ${botaoIAHtml(Boolean(correcaoIA))}
         <button class="btn-link redacao-toggle-grade" type="button">${correcaoIA ? "Ocultar grade de correção" : "Ver grade de correção"}</button>
@@ -2930,21 +3005,47 @@
       const contador = card.querySelector(".redacao-contador");
       // Palavras, não linhas: o limite do edital é em linhas manuscritas, que
       // não têm equivalente exato aqui. ~9 palavras por linha é a referência
-      // usual, então 20-30 linhas ficam por volta de 180 a 270 palavras.
+      // usual — e os números vêm do formato escolhido, porque a FGV pede 20 a
+      // 30 linhas e o Insper 10 a 30. Um texto de 13 linhas é curto num e
+      // perfeitamente legal no outro.
       const atualizaContador = () => {
+        const f = formatoRedacao(formatoAtual);
         const palavras = textarea.value.trim() ? textarea.value.trim().split(/\s+/).length : 0;
         let situacao = "";
-        if (palavras > 0 && palavras < 180) situacao = " — ainda abaixo das 20 linhas";
-        else if (palavras > 270) situacao = " — provavelmente acima das 30 linhas";
-        else if (palavras >= 180) situacao = " — dentro da faixa esperada";
+        if (palavras > 0 && palavras < f.palavrasIdealMin) situacao = ` — ainda abaixo das ${f.linhasMin} linhas`;
+        else if (palavras > f.palavrasIdealMax) situacao = ` — provavelmente acima das ${f.linhasMax} linhas`;
+        else if (palavras >= f.palavrasIdealMin) situacao = " — dentro da faixa esperada";
         contador.textContent = `${palavras} palavras${situacao}`;
       };
-      atualizaContador();
       const campoTitulo = card.querySelector(".redacao-titulo");
+      const tituloHint = card.querySelector(".redacao-titulo-hint");
+
+      // O que a tela diz sobre título e extensão tem que ser o que a conta faz.
+      // A frase antiga ("a banca cobra título") era falsa na maioria das bancas
+      // destas trilhas: na FGV o título é RECOMENDÁVEL, e em Unesp, Unifesp,
+      // Einstein e Santa Casa o comando não o pede. Obrigatório mesmo só no
+      // formato Insper (a questão-tema é copiada como título) e em PUC-SP e
+      // FUVEST. Descontar em todas era punir o aluno por não fazer o que a
+      // prova dele não exige.
+      const aplicarFormato = () => {
+        const f = formatoRedacao(formatoAtual);
+        tituloHint.textContent = f.tituloObrigatorio
+          ? `No formato do ${f.rotulo} a questão-tema é copiada como título: sem ele, −0,5 na correção.`
+          : "Título é recomendável na FGV e obrigatório no formato Insper. Aqui ele não desconta.";
+        textarea.placeholder = `Escreva sua redação aqui (${f.linhasMin} a ${f.linhasMax} linhas)...`;
+        atualizaContador();
+      };
+      aplicarFormato();
+      // Duas chaves, duas escritas. O texto NUNCA deixa de ser string — ver o
+      // comentário em LS_REDACAO_TITULOS.
       const gravarResposta = () => {
         const atuais = getRedacaoAnswers();
-        atuais[p.id] = { titulo: campoTitulo.value.trim(), texto: textarea.value };
+        atuais[p.id] = textarea.value;
         saveJSON(LS_REDACAO_ANSWERS, atuais);
+        const titulos = getRedacaoTitulos();
+        const t = campoTitulo.value.trim();
+        if (t) titulos[p.id] = t; else delete titulos[p.id];
+        saveJSON(LS_REDACAO_TITULOS, titulos);
       };
       campoTitulo.addEventListener("input", gravarResposta);
       textarea.addEventListener("input", () => {
@@ -2952,16 +3053,20 @@
         atualizaContador();
       });
 
-      // Só existe nas propostas cujo tema é pergunta: as vinte questões-tema
-      // publicadas pelo Insper são todas perguntas, nenhuma nominal.
+      // Só existe nas propostas cujo tema é pergunta (as vinte questões-tema
+      // publicadas pelo Insper são todas perguntas). Abrir o painel não é só
+      // espiar o outro comando: é DECLARAR que a redação segue aquele formato,
+      // e é isso que a correção passa a cobrar.
       const toggleInsper = card.querySelector(".redacao-toggle-insper");
       if (toggleInsper) {
         const insperWrap = card.querySelector(".redacao-insper-wrap");
         toggleInsper.addEventListener("click", () => {
           insperWrap.hidden = !insperWrap.hidden;
+          formatoAtual = insperWrap.hidden ? "fgv" : "insper";
           toggleInsper.textContent = insperWrap.hidden
-            ? "Ver o mesmo tema no formato do Insper"
-            : "Ocultar o formato do Insper";
+            ? "Escrever no formato do " + rotuloFormato(fInsper)
+            : "Voltar ao formato da " + rotuloFormato(fFgv);
+          aplicarFormato();
         });
       }
 
@@ -3000,7 +3105,13 @@
 
       ligarBotaoIA(
         card,
-        () => window.VD_IA.corrigirRedacao({ proposta: p, texto: textarea.value, titulo: campoTitulo.value }),
+        () =>
+          window.VD_IA.corrigirRedacao({
+            proposta: p,
+            texto: textarea.value,
+            titulo: campoTitulo.value,
+            formato: formatoAtual,
+          }),
         (correcao) =>
           salvarCorrecaoIA(LS_REDACAO_IA, getRedacaoIA, p.id, comAnterior(getRedacaoIA()[p.id], correcao)),
         renderRedacaoTab

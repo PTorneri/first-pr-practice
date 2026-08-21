@@ -51,6 +51,14 @@ function r(adequacao, argumentacao, estrutura, linguagem) {
 
 const CHEIA = { rubrica: r("adequado", "excelente", "excelente", "excelente"), palavras: 220, temTitulo: true };
 
+// Atalho para os testes de desconto: rubrica cheia, e só o que interessa varia.
+function comMedidas(medidas) {
+  return Object.assign(
+    { rubrica: r("adequado", "excelente", "excelente", "excelente"), palavras: 220, temTitulo: true },
+    medidas
+  );
+}
+
 // ---------- A tabela ----------
 
 conferir(
@@ -151,21 +159,130 @@ conferir(
   ],
   [10, 10]
 );
+// ---------- Título: só desconta onde o edital exige ----------
+//
+// A regra anterior descontava 0,5 de TODA redação sem título, e a tela afirmava
+// que "a banca cobra título". É falso na maioria das bancas destas trilhas: os
+// estudos de anatomia deste repositório registram título como RECOMENDÁVEL na
+// FGV, e "o comando não pede título" em Unesp, Unifesp, Einstein e Santa Casa.
+// Obrigatório mesmo só no formato Insper, onde a questão-tema é copiada como
+// título. Estas conferências existem para que ninguém restaure o desconto
+// universal sem ver um teste vermelho.
+
 conferir(
-  "sem título perde 0,5",
-  R.calcular({ rubrica: r("adequado", "excelente", "excelente", "excelente"), palavras: 220, temTitulo: false }).nota,
+  "sem título NÃO desconta no formato padrão (FGV)",
+  R.calcular(comMedidas({ temTitulo: false })).nota,
+  10
+);
+conferir(
+  "sem título não desconta quando o formato vem explícito como fgv",
+  R.calcular(comMedidas({ temTitulo: false, formato: "fgv" })).nota,
+  10
+);
+conferir(
+  "formato desconhecido cai no da FGV, e também não desconta título",
+  R.calcular(comMedidas({ temTitulo: false, formato: "enem" })).nota,
+  10
+);
+conferir(
+  "sem título perde 0,5 no formato Insper",
+  R.calcular(comMedidas({ temTitulo: false, formato: "insper" })).nota,
   9.5
 );
 conferir(
-  "os dois descontos somam",
-  R.calcular({ rubrica: r("adequado", "excelente", "excelente", "excelente"), palavras: 100, temTitulo: false }).nota,
+  "com título, o formato Insper não desconta nada",
+  R.calcular(comMedidas({ temTitulo: true, formato: "insper" })).nota,
+  10
+);
+conferir(
+  "no formato FGV nenhum desconto de título aparece nomeado",
+  R.calcular(comMedidas({ temTitulo: false })).descontos.map((d) => d.chave),
+  []
+);
+conferir(
+  "os dois descontos somam, e só no formato que exige título",
+  R.calcular(comMedidas({ palavras: 40, temTitulo: false, formato: "insper" })).nota,
   9
 );
 conferir(
   "os descontos aplicados vêm nomeados",
-  R.calcular({ rubrica: r("adequado", "excelente", "excelente", "excelente"), palavras: 100, temTitulo: false })
+  R.calcular(comMedidas({ palavras: 40, temTitulo: false, formato: "insper" }))
     .descontos.map((d) => d.chave),
   ["extensao", "titulo"]
+);
+conferir(
+  "o desconto de título diz em qual formato ele é obrigatório",
+  R.calcular(comMedidas({ temTitulo: false, formato: "insper" }))
+    .descontos.find((d) => d.chave === "titulo")
+    .rotulo.indexOf("Insper") >= 0,
+  true
+);
+
+// ---------- Extensão: a faixa acompanha o formato ----------
+//
+// A FGV pede 20 a 30 linhas; o Insper, 10 a 30. Uma redação Insper de 13 linhas
+// (~117 palavras) é perfeitamente legal, e a faixa fixa da FGV lhe tirava 0,5.
+
+conferir(
+  "a tabela conhece os dois formatos",
+  Object.keys(R.FORMATOS).sort(),
+  ["fgv", "insper"]
+);
+conferir("o formato padrão é o da FGV", R.formato(undefined).chave, "fgv");
+conferir("formato desconhecido cai no da FGV", R.formato("puc").chave, "fgv");
+conferir(
+  "só o Insper exige título",
+  [R.FORMATOS.fgv.tituloObrigatorio, R.FORMATOS.insper.tituloObrigatorio],
+  [false, true]
+);
+conferir(
+  "a faixa do Insper começa mais baixa que a da FGV",
+  R.FORMATOS.insper.palavrasMin < R.FORMATOS.fgv.palavrasMin,
+  true
+);
+conferir(
+  "o teto é o mesmo nos dois formatos (30 linhas)",
+  [R.FORMATOS.fgv.linhasMax, R.FORMATOS.insper.linhasMax, R.FORMATOS.fgv.palavrasMax === R.FORMATOS.insper.palavrasMax],
+  [30, 30, true]
+);
+conferir(
+  "13 linhas (117 palavras) descontam na FGV",
+  R.calcular(comMedidas({ palavras: 117 })).nota,
+  9.5
+);
+conferir(
+  "as mesmas 13 linhas NÃO descontam no formato Insper",
+  R.calcular(comMedidas({ palavras: 117, formato: "insper" })).nota,
+  10
+);
+conferir(
+  "os limites da faixa do Insper não descontam",
+  [
+    R.calcular(comMedidas({ palavras: 80, formato: "insper" })).nota,
+    R.calcular(comMedidas({ palavras: 290, formato: "insper" })).nota,
+  ],
+  [10, 10]
+);
+conferir(
+  "uma palavra abaixo do mínimo do Insper já desconta",
+  R.calcular(comMedidas({ palavras: 79, formato: "insper" })).nota,
+  9.5
+);
+conferir(
+  "acima do teto desconta nos dois formatos",
+  [
+    R.calcular(comMedidas({ palavras: 291 })).nota,
+    R.calcular(comMedidas({ palavras: 291, formato: "insper" })).nota,
+  ],
+  [9.5, 9.5]
+);
+conferir(
+  "o desconto de extensão nomeia o formato que o mediu",
+  [
+    R.calcular(comMedidas({ palavras: 40 })).descontos[0].rotulo.indexOf("FGV") >= 0,
+    R.calcular(comMedidas({ palavras: 40, formato: "insper" })).descontos[0].rotulo.indexOf("Insper") >= 0,
+  ],
+  [true, true]
 );
 
 // A conferência anterior a esta ("descontos não levam a nota abaixo de zero"
@@ -189,10 +306,14 @@ R.EIXOS[0].bandas.forEach((a) =>
   R.EIXOS[1].bandas.forEach((b) =>
     R.EIXOS[2].bandas.forEach((c) =>
       R.EIXOS[3].bandas.forEach((d) => {
+        // O pior caso de desconto só existe no formato Insper, que é o único
+        // que cobra título: 0,5 de extensão mais 0,5 de título. Na FGV o
+        // abatimento máximo é 0,5, e a invariante ficaria frouxa.
         const r0 = R.calcular({
           rubrica: r(a.chave, b.chave, c.chave, d.chave),
-          palavras: 100,
+          palavras: 40,
           temTitulo: false,
+          formato: "insper",
         });
         if (!r0.ok || r0.anulada) return;
         const bruta = r0.porEixo.reduce((s, x) => s + x.pontos, 0);
@@ -272,6 +393,49 @@ const bandaInvalida = R.calcular({ rubrica: r("adequado", "otimo", "excelente", 
 conferir("banda fora do enum não produz nota", bandaInvalida.ok, false);
 conferir("banda fora do enum devolve nota nula", bandaInvalida.nota, null);
 
+// Rubrica PARCIAL: ia.js deixou de devolver `rubrica: null` quando um eixo não
+// valida, e passou a devolver o objeto com `null` naquele eixo. O motivo está
+// lá; o que interessa aqui é que a conta continua RECUSANDO — nota parcial
+// seria nota inventada — e é essa recusa que faz o recado "o corretor não
+// preencheu a rubrica inteira" aparecer na tela em vez de a correção sumir.
+const eixoNulo = R.calcular({
+  rubrica: {
+    adequacao: { banda: "adequado" },
+    argumentacao: null,
+    estrutura: { banda: "excelente" },
+    linguagem: { banda: "excelente" },
+  },
+  palavras: 220,
+  temTitulo: true,
+});
+conferir("eixo nulo não produz nota", eixoNulo.ok, false);
+conferir("eixo nulo devolve nota nula", eixoNulo.nota, null);
+conferir("eixo nulo diz qual eixo falhou", eixoNulo.motivo.indexOf("argumentacao") >= 0, true);
+
+// ---------- A trava que impede o rebaixamento de anular ----------
+//
+// ia.js rebaixa um eixo uma banda quando o corretor não cita trecho nenhum.
+// Isso foi desenhado para a escala de seis bandas da argumentação; em adequacao
+// o degrau de baixo é "anulado", que ZERA a redação inteira e acusa o candidato
+// de usar modelo pronto. A guarda em normalizarEixo depende destes dois fatos
+// da tabela — se alguém reordenar as bandas, é aqui que se descobre.
+conferir("'anulado' é a banda mais baixa de adequacao", R.EIXOS[0].bandas[0].chave, "anulado");
+conferir(
+  "logo acima de 'anulado' vem 'inadequado' — o degrau que o rebaixamento não pode descer",
+  R.EIXOS[0].bandas[1].chave,
+  "inadequado"
+);
+conferir(
+  "nenhum outro eixo tem banda 'anulado'",
+  R.EIXOS.slice(1).every((e) => e.bandas.every((b) => b.chave !== "anulado")),
+  true
+);
+conferir(
+  "o descritor de 'anulado' avisa que ela exige evidência forte",
+  R.EIXOS[0].bandas[0].descritor.indexOf("evidência forte") >= 0,
+  true
+);
+
 // ---------- Bloco do prompt ----------
 
 const bloco = R.blocoDoPrompt();
@@ -309,6 +473,54 @@ R.EIXOS.forEach((e) => {
   });
 });
 conferir("ia.js não repete marcador à mão", slugsSoltos, []);
+
+// O corretor e o aluno têm que receber o MESMO fato sobre fuga ao tema. A tela
+// (app.js) diz "na sua banca, zera a prova inteira"; a instrução do corretor
+// chegou a dizer só "compromete a prova inteira", que lê como "prejudica".
+conferir("ia.js diz ao corretor que fuga ao tema ZERA a prova", /ZERA a prova/.test(fonteIA), true);
+conferir(
+  "ia.js não voltou a amenizar a fuga ao tema",
+  fonteIA.indexOf("compromete a prova inteira") >= 0,
+  false
+);
+
+// ia.js é importado ESTATICAMENTE por auth.js: um erro na avaliação do topo
+// deste módulo derruba login, sync, feedback e portão de assinatura junto. Ler
+// a rubrica com `|| null` é o que mantém tudo isso em pé se rubrica.js faltar.
+conferir("ia.js tolera rubrica.js ausente", fonteIA.indexOf("window.VD_RUBRICA || null") >= 0, true);
+conferir(
+  "ia.js recusa a correção de redação sem rubrica, com motivo próprio",
+  fonteIA.indexOf('"sem-rubrica"') >= 0,
+  true
+);
+
+// ---------- Acoplamento com app.js ----------
+//
+// O título da redação NÃO pode voltar para dentro de vd_redacaoAnswers. O app
+// publicado faz escapeHtml(answers[id] || "") sobre esse valor: um objeto ali
+// vira "[object Object]" na caixa de redação, o aluno digita uma letra por cima
+// e o sync sobe isso como a versão mais recente — a redação some nos dois
+// aparelhos, em silêncio. Por isso o valor é string pura e o título mora em
+// vd_redacaoTitulos.
+
+const fonteApp = fs.readFileSync(path.join(__dirname, "app.js"), "utf8");
+
+conferir("app.js guarda o título em chave própria", fonteApp.indexOf("vd_redacaoTitulos") >= 0, true);
+conferir(
+  "app.js grava o texto da redação como string pura",
+  fonteApp.indexOf("atuais[p.id] = textarea.value;") >= 0,
+  true
+);
+conferir(
+  "app.js não voltou a gravar o objeto {titulo, texto} em vd_redacaoAnswers",
+  /atuais\[p\.id\]\s*=\s*\{/.test(fonteApp),
+  false
+);
+conferir(
+  "o título sobe pra nuvem junto com o texto",
+  fonteApp.indexOf("LS_REDACAO_TITULOS,") >= 0,
+  true
+);
 
 // ---------- Fim ----------
 

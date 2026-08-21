@@ -309,16 +309,20 @@ formato novo precisa passar por lá também.
 Não há test runner no repositório, e a maior parte disto só se verifica com olho.
 Mas a conta é função pura, e é justamente a parte que não pode errar. Então:
 
-- `vestibular-direito-v2/rubrica.js` — tabela banda para ponto, travas,
-  descontos, faixa derivada e o eixo mais caro. **Sem nenhuma dependência**,
-  importado pelo `ia.js` e pelo `app.js`.
+- `vestibular-direito-v2/rubrica.js` — tabela banda para ponto, descritores,
+  travas, descontos, faixa derivada, o eixo mais caro e o bloco de prompt.
+  **Sem nenhuma dependência.** É script clássico (`window.VD_RUBRICA`), não
+  módulo: `app.js` é carregado como script comum e não pode `import`. O `ia.js`,
+  que é módulo, lê o mesmo global — e monta os enums do schema a partir dele, de
+  modo que a lista de bandas não pode divergir entre a conta e o prompt.
 - `vestibular-direito-v2/verificar-rubrica.js` — rodável por `node`, cobrindo:
   as três travas de adequação (`anulado`, `inadequado`, `parcial`), os dois
   descontos, o piso em 0, o mapa banda para ponto de cada eixo, os cortes da
   faixa e o cálculo do eixo mais caro.
-- Exige `vestibular-direito-v2/package.json` com `{"type":"module"}` para o node
-  importar o módulo. Não afeta o Pages nem o app; nada mais naquela pasta lê
-  `package.json`.
+- O verificador carrega `rubrica.js` num contexto `vm` com um `window` falso,
+  o mesmo caminho que `auditar-busca.js` já usa para auditar o motor de busca
+  publicado. Nada de `package.json` novo, e o que se verifica é literalmente o
+  arquivo que o navegador carrega.
 
 Além disso, conferir contra os estudos de anatomia das provas antes de fechar —
 uma correção calibrada errado é pior do que nenhuma, e é a única parte que o

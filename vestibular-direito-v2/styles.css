@@ -3145,3 +3145,17 @@ h4 { font-size: 1.0625rem; }
   outline: 2px solid var(--blue-500);
   outline-offset: 2px;
 }
+
+/* Título da redação: mesma família visual do textarea logo abaixo.
+   --border-strong, e não --line (esse token não existe no projeto) — é o
+   mesmo traço que .dissert-textarea usa, então os dois campos combinam. */
+.redacao-titulo {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid var(--border-strong);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  font-weight: 600;
+}

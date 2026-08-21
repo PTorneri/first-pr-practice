@@ -2653,6 +2653,21 @@
   ];
 
   function getRedacaoAnswers() { return loadJSON(LS_REDACAO_ANSWERS, {}); }
+
+  // A resposta de redação era só o texto. Com a rubrica ela passou a guardar o
+  // título junto, porque "ausência de título" desconta e adivinhar a primeira
+  // linha seria chute.
+  //
+  // A leitura aceita os dois formatos PARA SEMPRE, e não só durante uma
+  // migração: a estratégia de mesclagem desta chave em sync.js é a padrão
+  // ("entrada" — vence quem escreveu por último), então um aparelho com o app
+  // antigo em cache pode devolver a string à nuvem depois da migração.
+  function lerRedacao(answers, id) {
+    const v = answers[id];
+    if (typeof v === "string") return { titulo: "", texto: v };
+    return { titulo: (v && v.titulo) || "", texto: (v && v.texto) || "" };
+  }
+
   function getRedacaoChecklist() { return loadJSON(LS_REDACAO_CHECKLIST, {}); }
   function getRedacaoDone() { return loadJSON(LS_REDACAO_DONE, {}); }
 
@@ -2727,6 +2742,7 @@
       }
 
       const answers = getRedacaoAnswers();
+      const resposta = lerRedacao(answers, p.id);
       const checklist = getRedacaoChecklist();
       const keyFor = (i) => p.id + "::" + i;
       const marcados = p.pontosEsperados.filter((_, i) => checklist[keyFor(i)]).length;
@@ -2751,7 +2767,10 @@
           apoio é um contexto de dois parágrafos, não uma coletânea. Redação montada com modelo pronto de
           internet é anulada pelo edital.</p>
         </div>` : ""}
-        <textarea class="dissert-textarea" rows="18" placeholder="Escreva sua redação aqui (20 a 30 linhas)...">${escapeHtml(answers[p.id] || "")}</textarea>
+        <input class="redacao-titulo" type="text" maxlength="120"
+          placeholder="Título da redação" value="${escapeHtml(resposta.titulo)}">
+        <p class="hint" style="margin:2px 0 8px;">A banca cobra título, e a falta dele desconta 0,5 na correção.</p>
+        <textarea class="dissert-textarea" rows="18" placeholder="Escreva sua redação aqui (20 a 30 linhas)...">${escapeHtml(resposta.texto)}</textarea>
         <div class="hint redacao-contador"></div>
         ${botaoIAHtml(Boolean(correcaoIA))}
         <button class="btn-link redacao-toggle-grade" type="button">${correcaoIA ? "Ocultar grade de correção" : "Ver grade de correção"}</button>
@@ -2784,10 +2803,15 @@
         contador.textContent = `${palavras} palavras${situacao}`;
       };
       atualizaContador();
-      textarea.addEventListener("input", () => {
+      const campoTitulo = card.querySelector(".redacao-titulo");
+      const gravarResposta = () => {
         const atuais = getRedacaoAnswers();
-        atuais[p.id] = textarea.value;
+        atuais[p.id] = { titulo: campoTitulo.value.trim(), texto: textarea.value };
         saveJSON(LS_REDACAO_ANSWERS, atuais);
+      };
+      campoTitulo.addEventListener("input", gravarResposta);
+      textarea.addEventListener("input", () => {
+        gravarResposta();
         atualizaContador();
       });
 
@@ -2830,7 +2854,7 @@
 
       ligarBotaoIA(
         card,
-        () => window.VD_IA.corrigirRedacao({ proposta: p, texto: textarea.value }),
+        () => window.VD_IA.corrigirRedacao({ proposta: p, texto: textarea.value, titulo: campoTitulo.value }),
         (correcao) => salvarCorrecaoIA(LS_REDACAO_IA, getRedacaoIA, p.id, correcao),
         renderRedacaoTab
       );

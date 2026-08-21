@@ -167,17 +167,49 @@ conferir(
     .descontos.map((d) => d.chave),
   ["extensao", "titulo"]
 );
-conferir(
-  "descontos não levam a nota abaixo de zero",
-  R.calcular({ rubrica: r("inadequado", "insatisfatorio", "inadequada", "inadequada"), palavras: 100, temTitulo: false }).nota,
-  0
+
+// A conferência anterior a esta ("descontos não levam a nota abaixo de zero"
+// contra uma única combinação) era tautológica: com a tabela atual, a menor
+// soma bruta possível entre eixos não anulados é 1,0 (adequação "inadequado",
+// que já zera a argumentação pela trava) e o desconto máximo possível é 1,0 —
+// a subtração nunca fica negativa, então o teste passaria igual com ou sem o
+// `Math.max(0, ...)` em rubrica.js. A guarda fica no código; o que muda aqui é
+// a conferência, que varre toda combinação de bandas e afirma a invariante de
+// verdade: a soma bruta menos os descontos nunca é negativa, e o pior caso
+// pousa exatamente em zero.
+//
+// O piso em zero é guarda, não caminho: com a tabela de hoje nenhuma
+// combinação chega perto de negativo. Esta conferência afirma exatamente
+// isso — a invariante que torna a guarda inalcançável. Quem um dia
+// acrescentar um desconto maior (a gramática, por exemplo, que ficou de
+// fora de propósito) vê esta linha falhar e sabe por quê, em vez de
+// descobrir por uma nota negativa na tela.
+let menorSobra = Infinity;
+R.EIXOS[0].bandas.forEach((a) =>
+  R.EIXOS[1].bandas.forEach((b) =>
+    R.EIXOS[2].bandas.forEach((c) =>
+      R.EIXOS[3].bandas.forEach((d) => {
+        const r0 = R.calcular({
+          rubrica: r(a.chave, b.chave, c.chave, d.chave),
+          palavras: 100,
+          temTitulo: false,
+        });
+        if (!r0.ok || r0.anulada) return;
+        const bruta = r0.porEixo.reduce((s, x) => s + x.pontos, 0);
+        const abatido = r0.descontos.reduce((s, x) => s + x.valor, 0);
+        menorSobra = Math.min(menorSobra, Math.round((bruta - abatido) * 10) / 10);
+      })
+    )
+  )
 );
+conferir("nenhuma combinação de bandas chega a nota negativa", menorSobra >= 0, true);
+conferir("a combinação mais baixa possível pousa em zero", menorSobra, 0);
 
 // ---------- Faixa ----------
 
 conferir(
   "7,0 é competitiva",
-  R.calcular({ rubrica: r("adequado", "consistente", "bem_encaminhada", "bem_encaminhada"), palavras: 220, temTitulo: true }).faixa,
+  R.calcular({ rubrica: r("adequado", "pouco_convincente", "bem_encaminhada", "bem_encaminhada"), palavras: 220, temTitulo: true }).faixa,
   "competitiva"
 );
 conferir(
@@ -208,6 +240,26 @@ conferir(
   R.calcular({ rubrica: r("adequado", "excelente", "inadequada", "inadequada"), palavras: 220, temTitulo: true }).eixoMaisCaro,
   "estrutura"
 );
+
+// O ramo `x.maximo > maisCaro.maximo` (desempate por peso) existe em
+// rubrica.js para o caso em que um eixo de peso maior aparece DEPOIS, na
+// ordem de EIXOS, de um eixo de peso menor com a mesma perda — aí o de maior
+// peso venceria mesmo sem ser o primeiro encontrado. Uma varredura exaustiva
+// de todas as 4×6×5×5 combinações de banda (feita para o Achado 1, acima)
+// não encontrou nenhuma em que isso aconteça: sempre que argumentação (o
+// único eixo de peso diferente dos outros três, e o único que vem antes de
+// dois eixos de peso igual ao dele) empata em perda com estrutura ou
+// linguagem, argumentação já é a de maior peso E já é a primeira na ordem —
+// os dois critérios sempre concordam com a tabela atual. E quando adequação
+// (peso 1, o único mais leve que os demais) perde pontos, a trava de
+// dependência infla a perda de argumentação por um valor maior que a própria
+// perda de adequação, então elas nunca empatam. Não há, portanto, combinação
+// que force o desempate por peso a *mudar* o resultado que a ordem já daria —
+// e por isso este arquivo não afirma esse ramo com uma conferência própria.
+// Ele continua coberto pela execução (a comparação roda a cada empate), só
+// não há hoje um cenário em que reverter a lógica do `>` faria um teste
+// falhar. Quem adicionar uma quinta banda de peso diferente entre
+// argumentação e estrutura/linguagem deve reavaliar esta nota.
 
 // ---------- Entrada inválida ----------
 

@@ -287,6 +287,29 @@ conferir(
 );
 conferir("o bloco do prompt não contém número de pontos", /\d,\d/.test(bloco), false);
 
+// ---------- Acoplamento com ia.js ----------
+//
+// O schema e o prompt têm que sair de VD_RUBRICA, não de uma cópia escrita à
+// mão. Uma cópia é o que garante que um dia as duas listas divergem — e o
+// modelo passaria a escolher bandas que a conta não conhece, derrubando a nota
+// inteira em silêncio.
+
+const fonteIA = fs.readFileSync(path.join(__dirname, "ia.js"), "utf8");
+
+conferir("ia.js lê a rubrica do global", fonteIA.indexOf("window.VD_RUBRICA") >= 0, true);
+conferir("ia.js interpola o bloco de prompt", fonteIA.indexOf("blocoDoPrompt()") >= 0, true);
+conferir("ia.js calcula a nota pela rubrica", fonteIA.indexOf(".calcular(") >= 0, true);
+
+const slugsSoltos = [];
+R.EIXOS.forEach((e) => {
+  e.bandas.forEach((b) => {
+    b.marcadores.forEach((mk) => {
+      if (fonteIA.indexOf('"' + mk.chave + '"') >= 0) slugsSoltos.push(mk.chave);
+    });
+  });
+});
+conferir("ia.js não repete marcador à mão", slugsSoltos, []);
+
 // ---------- Fim ----------
 
 if (falhas) {

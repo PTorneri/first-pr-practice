@@ -84,27 +84,86 @@ const ai = getAI(app, { backend: new GoogleAIBackend() });
 // `evidencia` é o trecho literal do texto do aluno que sustenta o veredito. É
 // o que impede a correção de virar opinião: se o corretor não consegue citar
 // onde está, ele não viu — viu o que esperava ver.
+// A grade de conteúdo é idêntica nos dois corretores, então ela mora numa
+// constante só. Duas cópias é o que garante que um dia elas divergem.
+const SCHEMA_CRITERIOS = Schema.array({
+  items: Schema.object({
+    properties: {
+      indice: Schema.integer({
+        description: "Posição do critério na lista recebida, começando em 0.",
+      }),
+      veredito: Schema.enumString({ enum: ["cumprido", "parcial", "nao_cumprido"] }),
+      evidencia: Schema.string({
+        description:
+          "Trecho LITERAL do texto do aluno que sustenta o veredito, com no máximo 200 caracteres. " +
+          "Vazio quando o veredito for nao_cumprido.",
+      }),
+      comentario: Schema.string({
+        description: "Uma ou duas frases dizendo o que faltou ou o que segurou o ponto.",
+      }),
+    },
+  }),
+});
+
 const SCHEMA_CORRECAO = Schema.object({
   properties: {
-    criterios: Schema.array({
-      items: Schema.object({
-        properties: {
-          indice: Schema.integer({
-            description: "Posição do critério na lista recebida, começando em 0.",
-          }),
-          veredito: Schema.enumString({ enum: ["cumprido", "parcial", "nao_cumprido"] }),
-          evidencia: Schema.string({
-            description:
-              "Trecho LITERAL do texto do aluno que sustenta o veredito, com no máximo 200 caracteres. " +
-              "Vazio quando o veredito for nao_cumprido.",
-          }),
-          comentario: Schema.string({
-            description: "Uma ou duas frases dizendo o que faltou ou o que segurou o ponto.",
-          }),
-        },
-      }),
-    }),
+    criterios: SCHEMA_CRITERIOS,
     faixa: Schema.enumString({ enum: ["competitiva", "precisa_ajuste", "refazer"] }),
+    erroMaisCaro: Schema.string({
+      description: "O único problema que mais custa nota neste texto. Uma frase.",
+    }),
+    oQueFazer: Schema.string({
+      description:
+        "O que fazer diferente na próxima tentativa, em duas ou três frases. " +
+        "Instrução de rota, nunca o texto pronto.",
+    }),
+  },
+});
+
+// ---------- O contrato de saída da redação ----------
+//
+// O da redação é diferente do da dissertativa por um motivo só: aqui há nota, e
+// nota exige um segundo eixo. Os `criterios` continuam sendo os pontosEsperados
+// da proposta — conteúdo, específicos do tema. A `rubrica` é forma, genérica, e
+// é dela que sai o número.
+//
+// Os enums saem de window.VD_RUBRICA, e não de uma lista escrita aqui. Uma lista
+// escrita aqui é o que garante que um dia ela diverge da tabela que faz a conta.
+//
+// Não há campo de nota nem de faixa: o modelo escolhe banda, o código soma.
+const RUBRICA = window.VD_RUBRICA;
+
+function schemaDoEixo(eixo) {
+  const bandas = eixo.bandas.map((b) => b.chave);
+  const marcadores = eixo.bandas.reduce((acc, b) => acc.concat(b.marcadores.map((m) => m.chave)), []);
+  return Schema.object({
+    properties: {
+      banda: Schema.enumString({ enum: bandas }),
+      marcadores: Schema.array({
+        items: Schema.enumString({ enum: marcadores.length ? marcadores : ["nenhum"] }),
+        description:
+          "No máximo 3, e SOMENTE os que pertencem à banda escolhida. Vazio quando não houver defeito a apontar.",
+      }),
+      evidencia: Schema.string({
+        description:
+          "Trecho LITERAL do texto do aluno que sustenta esta banda, com no máximo 200 caracteres.",
+      }),
+      comentario: Schema.string({
+        description: "Uma ou duas frases dizendo por que a banda é esta, e não a de cima.",
+      }),
+    },
+  });
+}
+
+const SCHEMA_CORRECAO_REDACAO = Schema.object({
+  properties: {
+    criterios: SCHEMA_CRITERIOS,
+    rubrica: Schema.object({
+      properties: RUBRICA.EIXOS.reduce((acc, e) => {
+        acc[e.chave] = schemaDoEixo(e);
+        return acc;
+      }, {}),
+    }),
     erroMaisCaro: Schema.string({
       description: "O único problema que mais custa nota neste texto. Uma frase.",
     }),
@@ -194,9 +253,26 @@ Específico da redação — e leia isto com atenção, porque contraria o hábi
   disputa, não a tese. Copiar a coletânea não é argumentar.
 - A FGV corrige por três quesitos (tema e estrutura; articulação e argumentação;
   correção gramatical e vocabular), e fuga ao tema ou à estrutura dissertativa
-  zera a prova. Se for o caso, a faixa é "refazer" e o erroMaisCaro é esse.
+  compromete a prova inteira. Se for o caso, o erroMaisCaro é esse.
 
-${REGRAS_FAIXA}
+Além da grade de conteúdo, você preenche uma RUBRICA de quatro eixos. Nela:
+
+- Você NUNCA escreve número. Você só escolhe a banda. Quem soma é o programa.
+- Escolha a banda cujo descritor descreve este texto. Na dúvida entre duas,
+  escolha a de baixo: um ponto dado de graça hoje é uma nota perdida na prova.
+- Os "marcadores" são uma lista FECHADA. Marque no máximo 3, e apenas os que
+  pertencem à banda que você escolheu. Se nenhum se aplica, deixe vazio.
+- Toda banda precisa de uma "evidencia": um trecho LITERAL do texto do aluno.
+  Banda sem citação é opinião, e o programa a rebaixa.
+- A banda mais baixa de argumentacao é "insatisfatorio". Não existe nada abaixo
+  dela — quando o texto foge ao tema, quem zera a argumentação é o programa, pelo
+  eixo adequacao. Não tente zerar você.
+- NÃO julgue extensão nem título. O programa já mediu os dois e já descontou.
+- A banda de argumentacao tem que conversar com o que você julgou na grade de
+  conteúdo. Se metade dos pontos esperados ficou em "nao_cumprido", a
+  argumentação não é "consistente".
+
+${RUBRICA.blocoDoPrompt()}
 `.trim();
 
 // O que cada formato de tema exige, e como se falha nele. Vem do levantamento
@@ -227,26 +303,25 @@ const EXIGENCIA_POR_MODELO = {
     "Curta e metafórica. Exige traduzir a metáfora em termos claros ANTES de responder a ela.",
 };
 
-function criarModelo(systemInstruction) {
+function criarModelo(systemInstruction, schema) {
   return getGenerativeModel(ai, {
     model: MODELO,
     systemInstruction: systemInstruction,
     generationConfig: {
       responseMimeType: "application/json",
-      responseSchema: SCHEMA_CORRECAO,
-      // Corretor não é lugar para variação: a mesma resposta merece o mesmo
-      // veredito se a pessoa pedir de novo.
+      responseSchema: schema || SCHEMA_CORRECAO,
       temperature: 0.2,
-      // Folgado de propósito. O gemini-3 raciocina antes de responder, e esse
-      // gasto sai do mesmo teto — apertar aqui trunca o JSON no meio e derruba
-      // a correção inteira por falta de uma chave de fechamento.
-      maxOutputTokens: 4096,
+      // Folgado de propósito, e mais folgado ainda desde a rubrica: são quatro
+      // eixos a mais para preencher, cada um com citação. Apertar aqui trunca o
+      // JSON no meio e derruba a correção inteira por falta de uma chave de
+      // fechamento.
+      maxOutputTokens: 6144,
     },
   });
 }
 
 const modeloDissertativa = criarModelo(INSTRUCAO_DISSERTATIVA);
-const modeloRedacao = criarModelo(INSTRUCAO_REDACAO);
+const modeloRedacao = criarModelo(INSTRUCAO_REDACAO, SCHEMA_CORRECAO_REDACAO);
 
 // ---------- Limite diário ----------
 //
@@ -379,10 +454,54 @@ function checarPreCondicoes(texto, minimoPalavras) {
   return { ok: true };
 }
 
+// Normaliza um eixo da rubrica. Mesma disciplina que `executar` já aplica aos
+// critérios: o schema garante o FORMATO, não a sanidade.
+function normalizarEixo(eixo, recebido) {
+  const bruto = recebido || {};
+  let b = RUBRICA.banda(eixo.chave, bruto.banda);
+  if (!b) return null; // eixo inválido derruba a NOTA, não a correção inteira
+
+  const evidencia = String(bruto.evidencia || "").slice(0, 200).trim();
+
+  // Banda sem citação é opinião, então ela cai um degrau. Quem já está no
+  // degrau mais baixo fica onde está — não há para onde cair.
+  if (!evidencia) {
+    const i = eixo.bandas.indexOf(b);
+    if (i > 0) b = eixo.bandas[i - 1];
+  }
+
+  // Marcador que não pertence à banda escolhida é descartado, sem derrubar o
+  // eixo: o defeito pode ser real e a banda também.
+  const validos = b.marcadores.map((m) => m.chave);
+  const marcadores = (Array.isArray(bruto.marcadores) ? bruto.marcadores : [])
+    .filter((chave, i, arr) => validos.indexOf(chave) >= 0 && arr.indexOf(chave) === i)
+    .slice(0, 3)
+    .map((chave) => b.marcadores.find((m) => m.chave === chave));
+
+  return {
+    banda: b.chave,
+    rotuloBanda: b.rotulo,
+    marcadores: marcadores,
+    evidencia: evidencia,
+    comentario: String(bruto.comentario || "").slice(0, 400),
+  };
+}
+
+function normalizarRubrica(bruta) {
+  const dados = bruta || {};
+  const saida = {};
+  for (const eixo of RUBRICA.EIXOS) {
+    const normalizado = normalizarEixo(eixo, dados[eixo.chave]);
+    if (!normalizado) return null;
+    saida[eixo.chave] = normalizado;
+  }
+  return saida;
+}
+
 // Roda o modelo e devolve o objeto do contrato. O schema garante o FORMATO, não
 // a sanidade: o índice pode vir fora da lista e a citação pode vir maior do que
 // o pedido, então normalizamos aqui em vez de confiar.
-async function executar(modelo, prompt, totalCriterios) {
+async function executar(modelo, prompt, totalCriterios, medidas) {
   registrarUso();
 
   const resultado = await modelo.generateContent(prompt);
@@ -428,11 +547,38 @@ async function executar(modelo, prompt, totalCriterios) {
     );
   }
 
+  // Sem `medidas` é dissertativa: nada muda, a faixa continua vindo do modelo.
+  if (!medidas) {
+    return {
+      criterios: criterios,
+      faixa: ["competitiva", "precisa_ajuste", "refazer"].includes(dados.faixa)
+        ? dados.faixa
+        : "precisa_ajuste",
+      erroMaisCaro: String(dados.erroMaisCaro || "").slice(0, 400),
+      oQueFazer: String(dados.oQueFazer || "").slice(0, 600),
+      quando: Date.now(),
+      modelo: MODELO,
+    };
+  }
+
+  // Redação: a nota sai da conta, e a faixa sai da nota. Nenhuma das duas passa
+  // pelo modelo.
+  const rubrica = normalizarRubrica(dados.rubrica);
+  const detalhe = rubrica
+    ? RUBRICA.calcular({
+        rubrica: rubrica,
+        palavras: medidas.palavras,
+        temTitulo: medidas.temTitulo,
+      })
+    : { ok: false, motivo: "o corretor não preencheu a rubrica", nota: null, anulada: false,
+        porEixo: [], descontos: [], faixa: null, eixoMaisCaro: null };
+
   return {
     criterios: criterios,
-    faixa: ["competitiva", "precisa_ajuste", "refazer"].includes(dados.faixa)
-      ? dados.faixa
-      : "precisa_ajuste",
+    rubrica: rubrica,
+    nota: detalhe.ok ? detalhe.nota : null,
+    notaDetalhe: detalhe,
+    faixa: detalhe.faixa || "precisa_ajuste",
     erroMaisCaro: String(dados.erroMaisCaro || "").slice(0, 400),
     oQueFazer: String(dados.oQueFazer || "").slice(0, 600),
     quando: Date.now(),
@@ -499,6 +645,7 @@ async function corrigirDissertativa(entrada) {
 async function corrigirRedacao(entrada) {
   const proposta = entrada.proposta || {};
   const texto = entrada.texto || "";
+  const titulo = String(entrada.titulo || "").trim();
   const pontos = proposta.pontosEsperados || [];
 
   const pre = checarPreCondicoes(texto, MINIMO_PALAVRAS_REDACAO);
@@ -511,6 +658,7 @@ async function corrigirRedacao(entrada) {
     "Corrija a redação abaixo.",
     "",
     "TEMA: " + (proposta.tema || ""),
+    "TÍTULO DADO PELO CANDIDATO: " + (titulo || "(nenhum)"),
     proposta.modelo ? "FORMATO DO TEMA: " + proposta.modelo : "",
     exigencia ? "O QUE ESTE FORMATO EXIGE: " + exigencia : "",
     "",
@@ -538,7 +686,10 @@ async function corrigirRedacao(entrada) {
     .join("\n");
 
   try {
-    const correcao = await executar(modeloRedacao, prompt, pontos.length);
+    const correcao = await executar(modeloRedacao, prompt, pontos.length, {
+      palavras: palavras,
+      temTitulo: Boolean(titulo),
+    });
     return { ok: true, correcao: correcao };
   } catch (err) {
     console.warn("[ia] falha ao corrigir redação:", err);

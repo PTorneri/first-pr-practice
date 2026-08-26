@@ -19,11 +19,11 @@
 //        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
 //        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=60";
-import "./sync.js?v=60"; // define window.VD_SYNC
-import "./feedback.js?v=60"; // define window.VD_FEEDBACK
-import "./ia.js?v=60"; // define window.VD_IA (correção das dissertativas e redações)
-import "./assinatura.js?v=60"; // define window.VD_ASSINATURA (o portão)
+import { auth } from "./firebase-init.js?v=61";
+import "./sync.js?v=61"; // define window.VD_SYNC
+import "./feedback.js?v=61"; // define window.VD_FEEDBACK
+import "./ia.js?v=61"; // define window.VD_IA (correção das dissertativas e redações)
+import "./assinatura.js?v=61"; // define window.VD_ASSINATURA (o portão)
 import {
   GoogleAuthProvider,
   signInWithPopup,
@@ -100,15 +100,82 @@ function friendlyError(err) {
   }
 }
 
+// ---------- Navegador embutido de aplicativo ----------
+//
+// Quem clica num anúncio do TikTok NÃO abre o Chrome: o link abre na webview
+// interna do próprio aplicativo. E ali o signInWithPopup não falha — ele faz
+// coisa pior, que é parecer funcionar.
+//
+// O popup precisa de uma janela-mãe para devolver a credencial por
+// postMessage. Na webview essa janela-mãe não é alcançável, então o Google
+// termina o login de verdade e deixa a pessoa parada em
+// conta.sagaxedu.com.br/__/auth/handler — uma página cujo <body> é vazio por
+// construção, porque o trabalho dela é rodar script, não ser olhada. O
+// resultado, para quem está do outro lado, é uma TELA BRANCA que nunca sai.
+//
+// E como o popup abriu, nenhum erro é lançado: a promessa do signInWithPopup
+// simplesmente nunca se resolve. O catch abaixo nunca roda, o console fica
+// limpo e o app não fica sabendo de nada. Foi assim que isto sobreviveu sem
+// ser notado — o defeito não deixa rastro no lugar onde a gente procura.
+//
+// Por isso a webview não ganha um fallback: ela nem chega a tentar o popup.
+//
+// A lista cobre os aplicativos de onde vem tráfego de anúncio. `; wv)` é a
+// marca genérica da WebView do Android, e pega os que não se identificam pelo
+// nome. Errar para o lado do redirecionamento é barato — ele funciona no
+// navegador normal também, só é menos elegante que o popup.
+//
+// `musical_ly` e `trill` NÃO levam \b no fim, e isso já custou o caso mais
+// importante da lista. O TikTok escreve a versão colada no nome
+// (`musical_ly_28.3.4`), e `_` é caractere de palavra: não existe fronteira
+// entre `musical_ly` e `_28`, então `\bmusical_ly\b` não casa. No Android o
+// engano ficava escondido porque o `BytedanceWebview` casava do mesmo jeito —
+// no iPhone, onde esse segundo sinal não existe, a detecção falhava inteira e
+// devolvia exatamente a tela branca que este código existe para evitar.
+function ehWebviewEmbutida() {
+  const ua = navigator.userAgent || "";
+  return /\bBytedance|musical_ly|\bTikTok\b|\btrill|\bInstagram\b|\bFBAN\b|\bFBAV\b|\bFB_IAB\b|\bLinkedInApp\b|; wv\)/i.test(ua);
+}
+
+// Códigos em que o popup não entregou o login e o redirecionamento é a
+// segunda chance.
+//
+// `popup-closed-by-user` e `cancelled-popup-request` ficam DE FORA de
+// propósito, e a tentação de incluí-los é grande porque eles são os mais
+// frequentes. O problema é o que significam: a pessoa fechou a janela, ou
+// clicou em entrar duas vezes. Nos dois casos ela não está travada — ela
+// desistiu, ou já tem outra tentativa em curso. Responder a isso com uma
+// navegação de página inteira é tirar da mão dela uma decisão que era dela.
+// Quem estava mesmo preso na webview nem chega aqui: foi desviado antes.
+const ERROS_QUE_PEDEM_REDIRECT = [
+  "auth/popup-blocked",
+  "auth/internal-error",
+];
+
 async function login() {
   clearError();
   setLoading(true);
+
+  // Dentro de aplicativo: direto para o redirecionamento. Não há tentativa de
+  // popup para dar errado, e getRedirectResult (lá embaixo) colhe a volta.
+  if (ehWebviewEmbutida()) {
+    try {
+      await signInWithRedirect(auth, provider);
+      return;
+    } catch (err) {
+      showError(friendlyError(err));
+      setLoading(false);
+      return;
+    }
+  }
+
   try {
     await signInWithPopup(auth, provider);
     // onAuthStateChanged assume daqui: é ele quem troca de tela.
   } catch (err) {
-    if (err && err.code === "auth/popup-blocked") {
-      // Popup bloqueado (comum em celular): cai pro fluxo de redirecionamento.
+    if (err && ERROS_QUE_PEDEM_REDIRECT.includes(err.code)) {
+      // Popup bloqueado, ou o Firebase falhou por dentro: cai pro fluxo de
+      // redirecionamento em vez de deixar a pessoa sem caminho.
       showError(friendlyError(err));
       try {
         await signInWithRedirect(auth, provider);
